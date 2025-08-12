@@ -16,7 +16,7 @@ world: Aquabyssos
 type: Lore
 created_by: cultural-expansion
 created: 2025-08-11
-updated: '2025-08-11T13:08:49.369496+00:00'
+updated: 2025-08-11
 connections:
 - '[[Deep Mother Cult Practices]]'
 - '[[Kelp Forest Monasteries]]'
@@ -32,6 +32,7 @@ themes:
 - spiritual_adaptation
 - aquatic_communion
 ---
+
 
 
 
@@ -331,3 +332,8 @@ Legends speak of The Pressure Baptism Rites as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Kraken Territories]]
+- [[Aethermoor]]

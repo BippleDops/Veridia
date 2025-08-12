@@ -36,8 +36,9 @@ benefits:
   reward: Shadow surgery consultation and identity modification services
 - standing: 3
   reward: Direct audience with Shadow Broker Mist and parliamentary influence
-updated: '2025-08-11T13:08:51.211308+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-party-shadows-party-shadows.svg)
@@ -278,3 +279,30 @@ Legends speak of Party Shadows as a nexus where past and present converge. Local
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Ancient Mer-Folk Empire]]
+- [[Crystal Wardens]]
+- [[Merchant Princes]]
+- [[Purist Coalition]]
+- [[Shadow Broker Mirrors]]
+- [[Shadow Marina]]
+- [[Shadow Surgeon Apprentice]]
+- [[Shadow Surgeons Collective]]
+- [[Shadow Vale]]
+- [[Temple of Divine Order]]
+- [[The Crown Authority]]
+- [[The Deepwatch Guard]]
+- [[The Parliament of Nobody]]
+- [[The Seekers' Guild]]
+- [[The Shadow Conspiracy]]
+- [[The Void Watchers]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[Shadow Broker Mist]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Vex Shadowthorn's Apprentices]]
+- [[New Thalassopolis]]
+- [[Parliament of Echoes]]
+- [[The Bathyal Palace]]

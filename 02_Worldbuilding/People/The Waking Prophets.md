@@ -10,11 +10,11 @@ status: complete
 world: Aquabyssos
 type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Groups
+created: 2025-08-12
 MyContainer: None
 MyCategory: Religious
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.892171+00:00'
+updated: 2025-08-12
 ---
 
 > [!figure] Portrait

@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Both Aethermoor & Aquabyssos
 status: draft
-created: '2025-08-11T13:08:46.183040+00:00'
-updated: '2025-08-11T13:08:49.581781+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 
@@ -35,3 +36,13 @@ Legends speak of The Mediator as a nexus where past and present converge. Locals
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+
+
+## Connections
+
+- [[The Threshold Chambers]]
+- [[Quest - The Convergence Crisis]]

@@ -36,3 +36,7 @@ updated: 2024-01-01
 
 ## location-city-the-whisper-island-mystery-v1-the-whisper-island-mystery
 ![](04_Resources/Assets/Generated/Locations/location-city-the-whisper-island-mystery-v1-the-whisper-island-mystery.png)
+
+## Cross-References
+
+- [[04_Resources/Assets/Galleries/Index]]

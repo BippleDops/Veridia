@@ -20,11 +20,12 @@ alignment: Lawful Good
 location: '[[The Crystal Spires]] - Warden''s Sanctum'
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.826319+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-crystal-wardens-crystal-wardens.svg)
@@ -319,3 +320,72 @@ Legends speak of Crystal Wardens as a nexus where past and present converge. Loc
 - [[02_Worldbuilding/People/Crystal Wardens]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Consortium Security Constructs]]
+- [[Establish the New Order]]
+- [[Merchant Princes]]
+- [[Party Shadows]]
+- [[Purist Coalition]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Artisans' Collective of Master Crafters]]
+- [[The Carrion Court]]
+- [[The Crown Authority]]
+- [[The Forsaken Consortium Collective]]
+- [[The Leviathan Cult]]
+- [[The Liminal Trading Company]]
+- [[The Seekers' Guild]]
+- [[The Shadow Trade Network]]
+- [[The Shadow-Crystal Synthesis]]
+- [[The Whisper Syndicate]]
+- [[Aether Crystals]]
+- [[The Resonance Forge Hammer]]
+- [[Aetheron]]
+- [[Discover Marina's Truth]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[Archbishop Mordecai Stormwright]]
+- [[Captain Lyanna Brightshield]]
+- [[Emperor Thalassius the Wise]]
+- [[High Priest Dagon Deepcaller]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[Lord Commander Gareth Steelborn]]
+- [[Master Artificer Korvin Gearwright]]
+- [[Patriarch Valdris Lightbringer]]
+- [[Prince Caspian Duskwater]]
+- [[Queen Seraphina Lumengarde]]
+- [[The Crimson Shard Guardian]]
+- [[Vex Shadowthorn]]
+- [[Aethermoor]]
+- [[Crystal Gardens]]
+- [[Crystalhaven]]
+- [[Hidden Smuggler's Cove]]
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[Port Meridian - Merchant Quarter]]
+- [[Port Meridian]]
+- [[Shadow Wells]]
+- [[The Bone Colosseum]]
+- [[The Bone Palace of Sorrows]]
+- [[The Crimson Foundries]]
+- [[The Crystal Cathedral of Pure Light]]
+- [[The Crystal Stock Exchange]]
+- [[The Crystalline Foundry]]
+- [[The Grand Bazaar of Echoing Coins]]
+- [[The Iron Pits of Malachar]]
+- [[The Kraken's Harbor]]
+- [[The Screaming Battleground]]
+- [[The Siren's Rest Tavern]]
+- [[The Slave Markets of Tethys]]
+- [[The Sundered Peaks]]
+- [[The Sunken Cathedral of Stars]]
+- [[The Temple of Eternal Tides]]
+- [[The Temporal Convergence Storms]]
+- [[The Void Tears]]
+- [[Ambush Point]]
+- [[Quest - Diplomatic Immunity]]
+- [[Quest - Nature's Balance]]
+- [[Quest - The Pretender's Crown]]
+- [[The Crown's Burden]]
+- [[Campaign_Relationship_Matrix]]

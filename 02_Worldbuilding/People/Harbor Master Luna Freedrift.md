@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.752983+00:00'
-created: '2025-08-11T13:08:49.752983+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-harbor-master-luna-freedrift-harbor-master-luna-freedrift.svg)
@@ -372,3 +373,14 @@ Legends speak of Harbor Master Luna Freedrift as a nexus where past and present 
 - [[02_Worldbuilding/Places/Harbor Master Luna Freedrift]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Discover Marina's Truth]]
+- [[Admiral Thorne Blackwater]]
+- [[Captain Garrett Stormcutter]]
+- [[Captain Nautilus the Deep Wanderer]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[The Crimson Shard Guardian]]
+- [[Supplier Erikson Tidecaller]]

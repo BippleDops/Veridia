@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.729034+00:00'
-created: '2025-08-11T13:08:49.729034+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-bloodline-carrier-the-bloodline-carrier.svg)
@@ -193,3 +194,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/The Bloodline Carrier]]
 
 <!-- enriched: true -->
+- [[Keeper of the Shattered Crown, Marcus Crystalvein]]
+- [[Order of the Shattered Crown]]
+- [[Professor Aldric Crystalweaver]]
+- [[Queen Seraphina Lumengarde]]

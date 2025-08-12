@@ -10,6 +10,7 @@ type: Location
 danger_level: Moderate
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-crystal-gardens-crystal-gardens.svg)
 
@@ -479,3 +480,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Crystal Gardens]]
 
 <!-- enriched: true -->
+- [[Purist Coalition]]

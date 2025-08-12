@@ -6,9 +6,10 @@ tags:
 type: NPC
 world: Dimensional Nexus (Both Realms)
 status: draft
-created: '2025-08-11T13:08:46.460967+00:00'
-updated: '2025-08-11T13:08:49.990980+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 
@@ -57,3 +58,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Lady Shadowmere]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Floating Market]]

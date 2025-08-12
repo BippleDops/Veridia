@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:50.359650+00:00'
-created: '2025-08-11T13:08:50.359650+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -9,6 +9,7 @@ tags:
 type: Location
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-hidden-smuggler-s-cove-hidden-smuggler-s-cove.svg)
@@ -267,7 +268,7 @@ Smuggler's Cove works best as:
 
 ## Connections
 
-- [[Bandit Leader Scarface]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Rescue Senator Glaucus]]
 - [[Smuggler]]
 - [[Traveling Merchant Finn]]
@@ -295,3 +296,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Smuggler's Cove]]
 
 <!-- enriched: true -->
+- [[The Seven Shards]]

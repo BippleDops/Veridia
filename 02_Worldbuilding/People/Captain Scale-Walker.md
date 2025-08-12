@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.787764+00:00'
-created: '2025-08-11T13:08:49.787764+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -223,7 +223,7 @@ A research expedition funded by [[02_Worldbuilding/People/Castellan Ironledger I
 - [[02_Worldbuilding/Places/New Thalassopolis]] - Trading port
 
 ## Related Quests
-- [[02_Worldbuilding/Quests/Smuggler's Gambit]] - Primary smuggling operations
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Primary smuggling operations
 - [[Quest - The Deep Alliance]] - Political negotiations
 - [[Quest - The Deepest Current]] - Personal obsession
 - [[Quest - Refugees of the Deep]] - Humanitarian missions

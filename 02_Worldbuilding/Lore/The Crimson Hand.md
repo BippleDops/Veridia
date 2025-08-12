@@ -25,6 +25,7 @@ updated: 2025-08-11
 
 
 
+
 # The Crimson Hand
 *Masters of Shadow and Convergence*
 
@@ -533,3 +534,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Vault_Navigation_Hub]]
+- [[Vex Shadowthorn]]
+- [[Crystal Forest]]
+- [[Memory Alteration Consequences]]
+- [[The Great Crystallization]]
+- [[Umbral Exchange]]
+- [[Aethermoor]]

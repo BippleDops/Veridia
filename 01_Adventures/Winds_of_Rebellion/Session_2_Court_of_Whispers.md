@@ -8,6 +8,7 @@ session_type: "Social Investigation & Faction Dynamics"
 world: "Aethermoor"
 themes: ["faction-meetings", "information-gathering", "court-festival", "hidden-agendas", "social-maneuvering"]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Session 2: Court of Whispers

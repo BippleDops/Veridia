@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, encounter, mixed]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Dream Sailing Convoy

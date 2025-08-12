@@ -12,11 +12,11 @@ status: complete
 world: Aethermoor
 type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/People
+created: 2025-08-12
 MyContainer: None
 MyCategory: Shadow Network Leader
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.756896+00:00'
+updated: 2025-08-12
 ---
 
 > [!figure] Portrait

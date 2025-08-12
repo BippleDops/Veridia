@@ -27,6 +27,7 @@ practitioners: Seers, scouts, oracles
 
 
 
+
 # Divination School of Magic
 *The Art of Knowledge, Perception, and Prophecy*
 
@@ -279,3 +280,13 @@ Legends speak of Ω System CLI spells school divination as a nexus where past an
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Oracle Pelagic Deepgaze]]
+
+
+## Connections
+
+- [[Aethermoor]]
+- [[Parliament of Echoes]]

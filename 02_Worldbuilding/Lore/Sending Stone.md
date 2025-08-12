@@ -10,6 +10,7 @@ created: 2025-08-11
 updated: 2025-08-11
 ---
 
+
 > [!figure] Item
 ![](04_Resources/Assets/Generated/Items/item-artifact-sending-stones-xdmg-sending-stones-xdmg.svg)
 
@@ -51,3 +52,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Quest - The Lost Expedition]]
+
+
+## Connections
+
+- [[Quest - The Lost Expedition]]

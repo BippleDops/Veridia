@@ -9,6 +9,7 @@ tags:
 type: NPC
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg)
 
@@ -169,7 +170,7 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuildin
 - [[02_Worldbuilding/Places/Port Meridian]] - Reinforcement duties
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Military support
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Military support
 - [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Security detail
 - [[Quest - The Traitor Within]] - Investigating corruption
 
@@ -197,3 +198,9 @@ Legends speak of Lord Commander Gareth Steelborn as a nexus where past and prese
 - [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
 
 <!-- enriched: true -->
+- [[Crystal Wardens]]
+- [[Admiral Cassandra Stormwind]]
+- [[Brother Marcus Steelbane]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[Quest - The Traitor Within]]
+- [[Ironhold]]

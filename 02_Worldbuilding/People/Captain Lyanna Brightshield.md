@@ -9,6 +9,7 @@ tags:
 type: NPC
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-captain-lyanna-brightshield-captain-lyanna-brightshield.svg)
 
@@ -116,7 +117,7 @@ Captain Lyanna Brightshield is the youngest captain in [[Crystal Wardens]] histo
 ## Quest Involvement
 
 ### Quest Giver
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Primary contact
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Primary contact
 - [[Quest - Syndicate Shadows]] - Needs help with investigation
 - [[Quest - The Missing Guards]] - Crystal Wardens vanishing
 
@@ -234,3 +235,9 @@ Legends speak of Captain Lyanna Brightshield as a nexus where past and present c
 - [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
 
 <!-- enriched: true -->
+- [[Crystal Wardens]]
+- [[Admiral Cassandra Stormwind]]
+- [[Brother Marcus Steelbane]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[Lord Aurelius Goldwave]]
+- [[Keeper Elara Moonwhisper]]

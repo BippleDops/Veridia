@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Both Worlds
 status: draft
-created: '2025-08-11T13:08:45.838398+00:00'
-updated: '2025-08-11T13:08:51.080551+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 
 
@@ -55,3 +56,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Chronokeeper Tide Timestable]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Temporal Navigation Hazards]]

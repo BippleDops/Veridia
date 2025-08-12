@@ -27,6 +27,7 @@ practitioners: All Magical Traditions
 
 
 
+
 # Spell Lists
 *Comprehensive Catalog of Cross-Realm Magic*
 
@@ -645,3 +646,8 @@ Legends speak of Spell Lists as a nexus where past and present converge. Locals 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Templater Advanced]]
+- [[Aethermoor]]

@@ -27,6 +27,7 @@ leadership: Joint Council
 
 
 
+
 # United Councils of Both Worlds
 *The Alliance Between Surface and Depths*
 
@@ -375,3 +376,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Vault_Navigation_Hub]]
+- [[Aethermoor]]
+- [[Parliament of Echoes]]

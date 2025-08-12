@@ -20,7 +20,7 @@ government: Collective Self-Governance
 population: ~15,000 (rotating community of travelers and workers)
 established: Ancient natural phenomenon, organized 400+ years ago
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.482260+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Groups/Current Riders Guild]]'
 - '[[02_Worldbuilding/Places/Abyssos Prime]]'

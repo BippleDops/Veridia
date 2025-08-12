@@ -1,13 +1,14 @@
 ---
 world: Aethermoor
-updated: '2025-08-11T13:08:46.996271+00:00'
-created: '2025-08-11T13:08:46.996271+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - aethermoor
 - draft
 type: Lore
 ---
+
 
 
 
@@ -239,3 +240,19 @@ Per Player: 200-250 (depending on party size)
 - Accelerates exposure near large crystal formations
 - Can temporarily reduce exposure (1/day, -1 level for 1 hour)
 - Reveals corruption level when held against skin
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Captain Blackwater's Fate]]
+
+
+## Connections
+
+- [[Aurelius Goldwave]]
+- [[Crimson Hand Apprentices]]
+- [[Crystal Mimics]]
+- [[Investigate the Crystal Plague]]
+- [[Jasper Three-Eyes Flint]]
+- [[Vex Shadowthorn's Apprentices]]
+- [[The Whisper Island Mystery]]
+- [[Captain Blackwater's Fate]]

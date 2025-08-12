@@ -11,6 +11,7 @@ updated: 2025-08-11
 ---
 
 
+
 ## Overview
 
 TODO
@@ -38,3 +39,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Diplomatic Tides]]
+
+
+## Connections
+
+- [[Diplomatic Tides]]

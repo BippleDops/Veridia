@@ -20,6 +20,7 @@ obsidianUIMode: preview
 
 
 
+
 # The Whispering Expanse
 
 *Where silence becomes a symphony of madness and the void speaks in forgotten tongues*
@@ -534,3 +535,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Ambush Point]]
+- [[Aethermoor]]
+- [[Temporal Navigation]]
+- [[The Pressure Conspiracy]]

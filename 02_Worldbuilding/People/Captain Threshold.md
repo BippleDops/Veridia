@@ -6,9 +6,10 @@ tags:
 type: NPC
 world: Both Aethermoor & Aquabyssos
 status: draft
-created: '2025-08-11T13:08:46.183340+00:00'
-updated: '2025-08-11T13:08:49.916600+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 
@@ -57,3 +58,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Captain Threshold]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Liminal Trading Company]]
+- [[Quest - The Convergence Crisis]]

@@ -11,6 +11,7 @@ updated: 2025-08-11
 ---
 
 
+
 ## Overview
 
 TODO
@@ -34,3 +35,12 @@ Legends speak of Festival Coordinator Nereid Harmony as a nexus where past and p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Festival of Rising Tides]]
+
+
+## Connections
+
+- [[The Festival of Rising Tides]]

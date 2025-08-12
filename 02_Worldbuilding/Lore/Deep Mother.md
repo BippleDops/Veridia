@@ -19,6 +19,7 @@ created: 2025-08-08
 updated: 2025-08-11
 ---
 
+
 > [!figure] Scene
 ![](04_Resources/Assets/Generated/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.png)
 
@@ -296,7 +297,7 @@ Those who offend her suffer:
 - [[Deep Mother Cult Practices]]
 - [[Discover Marina's Truth]]
 - [[Marina's Echo]]
-- [[Sanity System]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Convergence Point]]
 - [[The Crown of Stars]]
 - [[The Deserter's Tale]]
@@ -337,3 +338,19 @@ Legends speak of Deep Mother as a nexus where past and present converge. Locals 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Travel/Encounter_Sheets/X-L-12_The_Deep_Mothers_Bridge_of_Dreams]]
+- [[Introduction]]
+- [[Aethermoor]]
+- [[Shadow Wells]]
+- [[Complete_Temporal_Mechanics_System]]
+- [[Aethermoor_Airships]]
+- [[Aquabyssos_Submarines]]
+- [[Merger_Hybrid_Vehicles]]
+- [[Vehicle_Core_Rules]]
+- [[Vessel_Horror_Intensifier]]
+- [[D-L-03_Deep_Mother_Dream_Tide]]
+- [[M-L-05_The_Dream_Sovereign]]
+- [[X-L-12_The_Deep_Mothers_Bridge_of_Dreams]]

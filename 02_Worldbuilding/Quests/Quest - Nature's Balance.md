@@ -28,6 +28,7 @@ type: Lore
 
 
 
+
 # Quest - Nature's Balance
 
 *The Elemental Harmony Must Be Restored*
@@ -379,3 +380,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Quest - Divine Intervention]]
+- [[Crystal Wardens]]
+- [[Aethermoor]]

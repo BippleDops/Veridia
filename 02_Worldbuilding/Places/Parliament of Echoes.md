@@ -23,6 +23,7 @@ status: draft
 type: Location
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.svg)
 
@@ -351,7 +352,7 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 - [[Lord Reginald Seaworthy]]
 - [[Luminous Hollow]]
 - [[Mad Oracle Thessaly]]
-- [[Maelstrom Palace]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Mediator Serenity Stillwater]]
 - [[Merchant Prince Akula]]
 - [[Merchant Viktor Geargrind]]
@@ -381,16 +382,16 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 - [[The Shadow Markets]]
 - [[The Shrinking Sanctuary]]
 - [[The Sinking Atoll]]
-- [[The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Vault Breach]]
 - [[Void Currents]]
 - [[Vote Vaults]]
 - [[Crystalline Depths]]
 - [[Find the Grief Bomb]]
 - [[Rescue Senator Glaucus]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Maw of Darkness]]
-- [[The Oracle of the Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Quick_Reference_Sheets]]
 - [[Campaign_Relationship_Matrix]]
 
@@ -417,3 +418,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Parliament of Echoes]]
 
 <!-- enriched: true -->
+- [[Fortress of the Deeps]]
+- [[Queen Seraphina]]
+- [[Senator Glaucus]]
+- [[Maelstrom Palace]]
+- [[The Forgotten Representative]]
+- [[The Sunken Library of Thalassius]]

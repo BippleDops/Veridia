@@ -278,7 +278,7 @@ EOF < /dev/null
 - [[Cathedral of Light]]
 - [[The Verdant Reach]]
 - [[Quest - Nature's Balance]]
-- [[Quest - The Seventh Shard]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix]]
 
 ## Player-Facing Summary

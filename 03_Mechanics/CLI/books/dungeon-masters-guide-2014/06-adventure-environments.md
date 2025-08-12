@@ -6,7 +6,7 @@ tags:
 aliases:
 - Adventure Environments
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Adventure Environments
@@ -753,3 +753,4 @@ Legends speak of 06 adventure environments as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

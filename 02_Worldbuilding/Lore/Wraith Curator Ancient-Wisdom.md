@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Aquabyssos
 status: draft
-created: '2025-08-11T13:08:46.194560+00:00'
-updated: '2025-08-11T13:08:47.366624+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 
@@ -35,3 +36,12 @@ Legends speak of Wraith Curator Ancient Wisdom as a nexus where past and present
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+
+
+## Connections
+
+- [[The Sunken Library of Thalassius]]

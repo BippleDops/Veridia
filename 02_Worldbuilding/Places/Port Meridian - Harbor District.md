@@ -1,17 +1,26 @@
 ---
 updated: 2025-08-12
 created: 2025-08-12
-tags: [Category/Place]
-status: "complete"
-world: "Aethermoor"
-type: "location"
+tags:
+- Category/Place
+status: complete
+world: Aethermoor
+type: location
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "Port Meridian - Harbor District is a notable location in Aethermoor shaped by tidal politics and Convergence anomalies. This entry is structured for fast table use."
-  content_warnings: ["political coercion", "environmental hazards"]
-  pronunciation: "Port Meridian - Harbor District"
-  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
+  screen_reader_summary: Port Meridian - Harbor District is a notable location in
+    Aethermoor shaped by tidal politics and Convergence anomalies. This entry is structured
+    for fast table use.
+  content_warnings:
+  - political coercion
+  - environmental hazards
+  pronunciation: Port Meridian - Harbor District
+  safety_tools:
+  - Lines & Veils
+  - X-Card
+  - Open Door
 ---
+
 
 
 
@@ -72,3 +81,9 @@ Legends speak of Port Meridian   Harbor District as a nexus where past and prese
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Quest - The Truth Unveiled]]
+- [[Find the Grief Bomb]]

@@ -12,11 +12,11 @@ status: complete
 world: Aquabyssos
 type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
+created: 2025-08-12
 MyContainer: None
 MyCategory: Maritime Facility
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.324845+00:00'
+updated: 2025-08-12
 danger_level: Moderate
 ---
 
@@ -348,7 +348,7 @@ The Tidecrest Marina connects to numerous important elements throughout Aquabyss
 ## Connections
 
 - [[Pearl_Harbor_City]]
-- [[The_Second_Rising]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

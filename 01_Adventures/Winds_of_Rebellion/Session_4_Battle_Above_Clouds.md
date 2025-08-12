@@ -8,6 +8,7 @@ session_type: "Large-Scale Aerial Combat & Political Crisis"
 world: "Aethermoor"
 themes: ["aerial-warfare", "civil-conflict", "loyalty-tests", "mass-combat", "political-consequences"]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Session 4: Battle Above Clouds

@@ -10,6 +10,7 @@ type: Location
 danger_level: Moderate
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-verdant-reach-the-verdant-reach.svg)
 
@@ -247,3 +248,6 @@ Legends speak of The Verdant Reach as a nexus where past and present converge. L
 - [[02_Worldbuilding/Places/The Verdant Reach]]
 
 <!-- enriched: true -->
+- [[Quest - The Dying Forest]]
+- [[Sylvanheart]]
+- [[Quest - Nature's Balance]]

@@ -31,6 +31,7 @@ content_warning: Contains themes of reality alteration and existential choice
 
 
 
+
 # Quest - The Convergence Crisis
 *When Two Worlds Collide*
 
@@ -519,3 +520,16 @@ Legends speak of Quest   The Convergence Crisis as a nexus where past and presen
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[The Liminal Trading Company]]
+- [[The Shadow-Crystal Synthesis]]
+- [[The Void Watchers]]
+- [[Commander Thrace Ironwood]]
+- [[Keeper of the Shattered Crown, Marcus Crystalvein]]
+- [[Memory Harvester Kythara]]
+- [[Pressure Angel Benthia]]
+- [[Scholar Vivienne the Chronicler]]
+- [[The Nameless Auditor]]
+- [[Tribune Cassia Deepcurrent]]
+- [[The Azure Coast]]
+- [[The Floating Market]]
+- [[The Threshold Chambers]]

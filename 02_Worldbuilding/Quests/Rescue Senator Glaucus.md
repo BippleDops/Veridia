@@ -20,6 +20,7 @@ updated: 2025-08-12
 
 
 
+
 # Rescue Senator Glaucus
 
 **Type:** Rescue/Political Intrigue  
@@ -41,7 +42,7 @@ Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collectiv
 - **[[Commander Drake Pressureborn]]**: Military leader demanding immediate action
 - **[[Mediator Serenity Stillwater]]**: Desperate diplomat trying to prevent war
 - **[[Admiral Thorne Blackwater]]**: Naval commander coordinating search operations
-- **[[Elena Starweaver]]**: Crystal mage investigating magical aspects of the kidnapping
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Crystal mage investigating magical aspects of the kidnapping
 - **Detective Coral Truthseeker**: [[Parliament of Echoes]] investigator with inside knowledge
 - **[[Vault Keeper Eternal]]**: Ancient guardian who may have witnessed similar incidents
 - **Nurse Tidal Mercy**: Medical professional treating pressure poisoning symptoms
@@ -264,8 +265,8 @@ When found, the senator is in critical condition:
 
 Connected Adventures
 - **[[Crystalline Depths]]**: Political stability needed to coordinate response to crystal threat
-- **[[The Oracle of the Sundered Peaks]]**: Peace negotiations crucial for preventing the Final Sundering
-- **[[Smuggler's Gambit]]**: Criminal networks involved in both memory theft and weapon smuggling
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Peace negotiations crucial for preventing the Final Sundering
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Criminal networks involved in both memory theft and weapon smuggling
 - **[[The Maw of Darkness]]**: Political unity essential for fighting reality-consuming threats
 - **[[The Shadow Surgeons]]**: This rescue exposes a larger conspiracy
 - **[[Investigate Shadow Conspiracy]]**: The kidnapping is part of a broader plot
@@ -311,11 +312,11 @@ Connected Adventures
 
 ## Connections
 
-- [[Bandit Scouts]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Smuggler]]
 - [[The Maw of Darkness]]
-- [[The Oracle of the Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -336,3 +337,31 @@ Legends speak of Rescue Senator Glaucus as a nexus where past and present conver
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Diplomatic Tides]]
+- [[Shadow Surgeons Collective]]
+- [[Thieves Guild]]
+- [[Ancient Siege Tunnels]]
+- [[The Recursion Oracle]]
+- [[Admiral Thorne Blackwater]]
+- [[Senator Glaucus]]
+- [[The Shadow Surgeons]]
+- [[Abyssos Prime]]
+- [[Aethermoor]]
+- [[Commander Drake Pressureborn]]
+- [[Coral Throne Syndicate]]
+- [[Current Riders Guild]]
+- [[Depth Wardens]]
+- [[Mediator Serenity Stillwater]]
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[Parliament of Echoes]]
+- [[Pressure Tube Terminal]]
+- [[Pressure Tubes]]
+- [[Shadow Market Canals]]
+- [[Shadow Merchant Riptide]]
+- [[Smuggler's Cove]]
+- [[The Archive of Unremembered Things]]
+- [[The Cerulean Trench]]
+- [[The Depth Market]]
+- [[The Sunken Markets]]
+- [[Vault Keeper Eternal]]
+- [[Crystalline Depths]]
+- [[Diplomatic Tides]]

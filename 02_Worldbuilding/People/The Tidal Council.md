@@ -14,7 +14,7 @@ created: 2025-08-08 - Category/Groups
 MyContainer: None
 MyCategory: Government
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.682442+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait

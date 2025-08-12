@@ -18,8 +18,9 @@ race: Human
 location: '[[02_Worldbuilding/Places/Parliament of Echoes]] - Central Chamber'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.613096+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-tribune-cassia-deepcurrent-tribune-cassia-deepcurrent.svg)
@@ -212,3 +213,5 @@ Legends speak of Tribune Cassia Deepcurrent as a nexus where past and present co
 - [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
 
 <!-- enriched: true -->
+- [[The Liminal Trading Company]]
+- [[Memory Farmers]]

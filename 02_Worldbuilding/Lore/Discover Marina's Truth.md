@@ -21,8 +21,9 @@ connected_npcs:
 - The Original Marina
 created_by: system
 created: 2025-08-08
-updated: '2025-08-11T13:08:47.396880+00:00'
+updated: 2025-08-11
 ---
+
 
 
 
@@ -156,7 +157,7 @@ Some evidence suggests all Marina iterations are controlled by a master consciou
 **Revelation**: Marina fragmented herself to prevent realm-ending catastrophe
 
 **Evidence Locations**:
-- [[The Sunken Library of Thalassius]] - Marina's hidden research
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Marina's hidden research
 - [[Crystal Spires]] - Proof of coming convergence
 - [[The Deepmind]] - Neural network showing Marina's connected consciousness
 
@@ -347,7 +348,7 @@ The party must decide: Do they unite the Marinas to face the crisis with maximum
 - Leave some mysteries for post-campaign speculation
 
 ## Connected Elements
-- Central to the [[Quest - The Memory Bridge]]
+- Central to the [[02_Worldbuilding/Quests/Aquabyssos]]
 - Key to understanding [[The Convergence Crisis]]
 - Explains inconsistencies in [[Parliament of Echoes]] records
 - Reveals true purpose of [[Memory Merchant Zephyr Mindweaver]]
@@ -355,8 +356,8 @@ The party must decide: Do they unite the Marinas to face the crisis with maximum
 
 ## Connections
 
-- [[Sanity System]]
-- [[The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -377,3 +378,27 @@ Legends speak of Discover Marina's Truth as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[Crystal Wardens]]
+- [[Purist Coalition]]
+- [[The Crown Authority]]
+- [[Deep Mother]]
+- [[Emperor Thalassius the Wise]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[The Crimson Shard Guardian]]
+- [[The Nameless Auditor]]
+- [[The Shadow Singer Naia]]
+- [[Aethermoor]]
+- [[Harbor Master Luna Freedrift]]
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[Parliament of Echoes]]
+- [[Port Meridian]]
+- [[Senator's Private Chambers]]
+- [[Shadow Wells]]
+- [[Temporal Navigation]]
+- [[The Deepmind]]
+- [[The Sunken Library of Thalassius]]
+- [[The Threshold Chambers]]

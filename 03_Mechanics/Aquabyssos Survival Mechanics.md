@@ -8,7 +8,7 @@ tags:
 - survival
 system: D&D 5e
 created: 2025-08-07
-updated: '2025-08-11T13:08:47.069279+00:00'
+updated: 2025-08-11
 world: Aquabyssos
 status: draft
 type: Lore
@@ -319,3 +319,7 @@ Legends speak of Aquabyssos Survival Mechanics as a nexus where past and present
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Campaign_Index]]

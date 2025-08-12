@@ -1,15 +1,26 @@
 ---
-tags: [Category/Place]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
+updated: 2025-08-11
+created: 2025-08-11
+tags:
+- Category/Place
+status: complete
+world: Aquabyssos
+type: location
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "The Reflection Pools is a notable location in Aquabyssos shaped by tidal politics and Convergence anomalies. This entry is structured for fast table use."
-  content_warnings: ["political coercion", "environmental hazards"]
-  pronunciation: "The Reflection Pools"
-  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
+  screen_reader_summary: The Reflection Pools is a notable location in Aquabyssos
+    shaped by tidal politics and Convergence anomalies. This entry is structured for
+    fast table use.
+  content_warnings:
+  - political coercion
+  - environmental hazards
+  pronunciation: The Reflection Pools
+  safety_tools:
+  - Lines & Veils
+  - X-Card
+  - Open Door
 ---
+
 
 
 # The Reflection Pools
@@ -459,3 +470,8 @@ Legends speak of The Reflection Pools as a nexus where past and present converge
 - [[02_Worldbuilding/Places/The Reflection Pools]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Reflection Pools - Surgical Theater]]

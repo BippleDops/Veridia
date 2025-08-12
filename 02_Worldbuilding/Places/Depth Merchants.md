@@ -23,7 +23,7 @@ specialties:
 - Deep Current Navigation
 established: ~300 years ago
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.606890+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Groups/Silverscale Consortium]]'
 - '[[02_Worldbuilding/Places/Free Current]]'

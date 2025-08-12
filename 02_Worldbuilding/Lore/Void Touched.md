@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Aethermoor
 status: draft
-created: '2025-08-11T13:08:46.138569+00:00'
-updated: '2025-08-11T13:08:48.418205+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-void-touched-depths-the-void-touched-depths.svg)
@@ -38,3 +39,12 @@ Legends speak of Void Touched as a nexus where past and present converge. Locals
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
+
+
+## Connections
+
+- [[Stop the Crystal Festival Ritual]]

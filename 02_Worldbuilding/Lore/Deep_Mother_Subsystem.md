@@ -327,7 +327,7 @@ Simple system for tracking IP:
 
 ## See Also
 - [[02_Worldbuilding/Lore/Deep Mother]]
-- [[02_Worldbuilding/Lore/Sanity System]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[03_Mechanics/Transformations/Deep_Mother/Dream_Touched]]
 - [[02_Worldbuilding/Groups/Deep Mother Cultists]]
 

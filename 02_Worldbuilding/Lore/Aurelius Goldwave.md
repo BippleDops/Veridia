@@ -19,13 +19,14 @@ occupation: Senior Partner, Goldwave Financial Consortium
 allegiance: '[[02_Worldbuilding/Groups/Silverscale Banking House]] (secretly)'
 current_location: '[[02_Worldbuilding/Places/Port Meridian]] - Financial District'
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.270390+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Groups/Silverscale Banking House]]'
 - '[[02_Worldbuilding/Lore/The Seven Shards]]'
 - '[[02_Worldbuilding/Places/Memory Meadows Black Market]]'
 - '[[02_Worldbuilding/Lore/Marina''s Identity Crisis]]'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-lord-aurelius-goldwave-lord-aurelius-goldwave.svg)
@@ -337,3 +338,8 @@ Legends speak of Aurelius Goldwave as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Economic Warfare]]
+- [[Goldwave Manor]]

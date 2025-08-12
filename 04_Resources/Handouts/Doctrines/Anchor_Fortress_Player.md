@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, doctrine]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Anchor Fortress
@@ -22,3 +23,7 @@ Crew tips
 
 Risks
 - If the song breaks, consequences spike fast
+
+## Cross-References
+
+- [[04_Resources/Handouts/Doctrines/Doctrine_Quick_Reference]]

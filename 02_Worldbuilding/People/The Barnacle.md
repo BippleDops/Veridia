@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.983921+00:00'
-created: '2025-08-11T13:08:49.983921+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-barnacle-the-barnacle.svg)
@@ -159,7 +160,7 @@ Crust dwells in the Symbiosis Depths, an area of the deep ocean where the bounda
 
 - [[The_Crimson_Pearl]]
 - [[Pearl_Harbor_City]]
-- [[The_Second_Rising]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -184,3 +185,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/The Barnacle]]
 
 <!-- enriched: true -->
+- [[Memory Harvester Kythara]]
+- [[Professor Aldric Crystalweaver]]
+- [[Surface Syndicate]]

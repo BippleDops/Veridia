@@ -28,8 +28,8 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-11T13:08:46.973431+00:00'
-created: '2025-08-11T13:08:46.973431+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 ---
 
@@ -200,3 +200,7 @@ Future Hooks:
 - **If Deep Mother wins**: Time loop to session 8
 - **If party fractures**: Individual ending scenes
 - **If perfect victory**: Hidden threat emerges in epilogue
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]

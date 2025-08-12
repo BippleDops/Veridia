@@ -17,6 +17,7 @@ updated: 2025-08-11
 
 
 
+
 # Quick Start Guide
 *Welcome to the dual worlds of Aquabyssos and Aethermoor*
 
@@ -239,3 +240,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Campaign_Index]]
+- [[Character_Creation_Extended]]
+- [[Faction_Guide]]
+- [[World_Primer]]

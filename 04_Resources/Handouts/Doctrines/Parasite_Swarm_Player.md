@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, doctrine]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Parasite Swarm
@@ -21,3 +22,7 @@ Crew tips
 
 Risks
 - The ship may want what the swarm wants
+
+## Cross-References
+
+- [[04_Resources/Handouts/Doctrines/Doctrine_Quick_Reference]]

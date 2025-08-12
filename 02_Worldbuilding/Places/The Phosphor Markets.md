@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:50.389411+00:00'
-created: '2025-08-11T13:08:50.389411+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -9,6 +9,7 @@ tags:
 type: Location
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-phosphor-markets-the-phosphor-markets.svg)
@@ -430,7 +431,7 @@ Secret level where illegal goods are processed and distributed:
 
 - [[Abyssos Prime - Pressure Terminal]]
 - [[Amnesia Gallery]]
-- [[Maelstrom Palace]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -455,3 +456,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Phosphor Markets]]
 
 <!-- enriched: true -->
+- [[Banker Titus Goldcurrent]]
+- [[Antiquarian Eliza Tidecaller]]
+- [[Deepmind Conspiracy]]
+- [[Dockmaster Bruno Steadyanchor]]
+- [[Doctor Coral Shapeshift]]
+- [[Madame Whisper]]
+- [[Maelstrom Palace]]
+- [[Market Heist]]
+- [[Market Mystery]]
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[Merchant Delilah Currentrunner]]
+- [[Shadow Merchant Riptide]]
+- [[The Free Current]]
+- [[The Hadal Depths]]
+- [[The Memory Thief]]

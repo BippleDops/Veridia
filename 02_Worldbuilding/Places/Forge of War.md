@@ -10,6 +10,7 @@ type: Location
 danger_level: Moderate
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-forge-of-war-forge-of-war.svg)
 
@@ -614,3 +615,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Forge of War]]
 
 <!-- enriched: true -->
+- [[Abyssos Prime Upper Districts]]
+- [[Abyssos Prime]]
+- [[Aethermoor]]
+- [[New Thalassopolis]]
+- [[Parliament of Echoes]]
+- [[The Cerulean Trench]]
+- [[The Drowned Embassy]]
+- [[The Memory Meadows]]
+- [[The Whispering Depths]]

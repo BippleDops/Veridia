@@ -12,7 +12,7 @@ world: Aethermoor
 type: Lore
 created_by: cultural-expansion
 created: 2025-08-11
-updated: '2025-08-11T13:08:47.244496+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -397,3 +397,7 @@ Legends speak of Aethermoor Wind Rider Traditions as a nexus where past and pres
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Wind Shrine Archipelago]]

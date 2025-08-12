@@ -11,11 +11,11 @@ status: complete
 world: Aquabyssos
 type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Lore
+created: 2025-08-11
 MyContainer: None
 MyCategory: Political
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.752279+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait
@@ -155,3 +155,4 @@ Legends speak of Shadow Citizenship Act as a nexus where past and present conver
 - [[02_Worldbuilding/People/Shadow Citizenship Act]]
 
 <!-- enriched: true -->
+iched: true -->

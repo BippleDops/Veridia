@@ -25,8 +25,9 @@ services:
 - Information
 created_by: Claude
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.462062+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-tidepool-markets-the-tidepool-markets.svg)
@@ -444,3 +445,6 @@ Legends speak of The Tidepool Markets as a nexus where past and present converge
 - [[02_Worldbuilding/Places/The Tidepool Markets]]
 
 <!-- enriched: true -->
+- [[The Liminal Trading Company]]
+- [[Oracle Nerida the Tidereader]]
+- [[Memory Farmers]]

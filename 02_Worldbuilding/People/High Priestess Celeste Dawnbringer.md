@@ -420,9 +420,9 @@ Wonders if her treatments actually heal the queen or simply postpone inevitable 
 - Connection point between personal ethics and institutional responsibility
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Her expertise essential
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Her expertise essential
 - [[Quest - The Healer's Burden]] - Her secret threatens exposure
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - May hold the cure
+- [[02_Worldbuilding/Quests/Aquabyssos]] - May hold the cure
 - [[Quest - Faith and Doubt]] - Her spiritual crisis affects the church
 - [[Quest - The Royal Treatment]] - Maintaining the queen's secret medical needs
 - [[Quest - The Sanctuary's Secret]] - Protecting the hidden medical facility

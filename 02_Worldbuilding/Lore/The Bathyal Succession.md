@@ -42,6 +42,7 @@ related_entities:
 
 
 
+
 # The Bathyal Succession
 *The Crisis That Transformed Aquabyssos from Monarchy to Democracy*
 
@@ -698,3 +699,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Aboleth Prime Yoth]]
+- [[Emperor Thalassius]]

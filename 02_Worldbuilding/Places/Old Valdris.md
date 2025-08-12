@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:50.373506+00:00'
-created: '2025-08-11T13:08:50.373506+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -9,6 +9,7 @@ tags:
 type: Location
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-old-valdris-old-valdris.svg)
@@ -153,3 +154,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Old Valdris]]
 
 <!-- enriched: true -->
+- [[Bubble Burst]]
+- [[Lady Vivienne the Unfrozen]]
+- [[Temporal Harvest]]
+- [[The Crystal Merchant]]
+- [[The Frozen Throne]]
+- [[The Last Priest]]

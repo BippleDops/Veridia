@@ -19,7 +19,7 @@ influence: Kingdom-wide
 wealth: Substantial (royal treasury access)
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.433765+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -426,3 +426,7 @@ The Crown Authority is a undersea element of the setting, known for bioluminesce
 Legends speak of The Crown Authority as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crown Authority.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Groups_Index]]

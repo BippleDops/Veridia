@@ -29,9 +29,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-11T13:08:46.989070+00:00'
-created: '2025-08-11T13:08:46.989070+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 ---
+
 
 
 
@@ -237,3 +238,16 @@ During the midnight market raid, [[Brother Marcus Steelbane]] arrives franticall
 - Increase market raid difficulty
 
 > *Remember: This session shifts from investigation to revelation. The plague's true nature begins emerging, and political tensions reach breaking point.*
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Royal Embassy]]
+
+
+## Connections
+
+- [[Royal Embassy]]
+- [[Silver Mask]]
+- [[Brother Marcus Steelbane]]
+- [[Lord Aurelius Goldwave]]
+- [[Cathedral of Light]]

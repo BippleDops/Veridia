@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.649304+00:00'
-created: '2025-08-11T13:08:49.649304+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -166,7 +166,7 @@ Master Cultivator Thalia Greenglow represents one of the most extraordinary achi
 ## Involved Quests
 - [[02_Worldbuilding/Quests/Quest - Nature's Balance]] - Her expertise needed
 - [[02_Worldbuilding/Quests/The Depth Accords]] - Provides agricultural solutions
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - May have the cure
+- [[02_Worldbuilding/Quests/Aquabyssos]] - May have the cure
 
 
 ## Connections

@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.936175+00:00'
-created: '2025-08-11T13:08:49.936175+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-mayor-thompson-mayor-thompson.svg)
@@ -252,7 +253,7 @@ His character represents the theme that evil often wears a friendly face and tha
 - [[Jasper Three-Eyes Flint]]
 - [[The Pearl Guard]]
 - [[Market_District]]
-- [[The_Second_Rising]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -271,3 +272,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Mayor Thompson]]
 
 <!-- enriched: true -->
+- [[Ambassador Nerida Deepcurrent]]
+- [[The Current Merchants]]

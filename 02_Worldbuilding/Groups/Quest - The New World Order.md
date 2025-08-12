@@ -6,9 +6,10 @@ tags:
 type: Group
 world: Aethermoor
 status: draft
-created: '2025-08-11T13:08:46.176069+00:00'
-updated: '2025-08-11T13:08:51.525895+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -49,3 +50,12 @@ Legends speak of Quest   The New World Order as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+
+
+## Connections
+
+- [[Quest - The Crystal Festival]]

@@ -24,6 +24,7 @@ MyCategory: Group
 obsidianUIMode: preview
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-depth-wardens-the-depth-wardens.svg)
 
@@ -327,3 +328,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/The Depth Wardens]]
 
 <!-- enriched: true -->
+- [[Fortress of the Deeps]]
+- [[Queen Seraphina]]

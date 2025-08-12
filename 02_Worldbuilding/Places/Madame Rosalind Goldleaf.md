@@ -15,7 +15,7 @@ world: Aethermoor
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.946093+00:00'
+updated: 2025-08-11
 character_type: Noble Merchant
 faction: Goldleaf Trading House
 class: Noble/Bard
@@ -28,6 +28,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-madame-rosalind-goldleaf-madame-rosalind-goldleaf.svg)
@@ -329,3 +330,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
 
 <!-- enriched: true -->
+- [[Aethermoor]]

@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.879208+00:00'
-created: '2025-08-11T13:08:49.879208+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-envoy-blackwater-jr-envoy-blackwater-jr.svg)
@@ -288,3 +289,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Envoy Blackwater Jr.]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Eastern Kingdom Fleet]]
+- [[United Councils of Both Worlds]]
+- [[Admiral Thorne Blackwater]]
+- [[Prince Caspian Duskwater]]
+- [[Aethermoor]]
+- [[Keeper Elara Mindwell]]
+- [[Treaty of the Depths]]

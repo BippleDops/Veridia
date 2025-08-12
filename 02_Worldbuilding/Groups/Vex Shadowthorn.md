@@ -19,7 +19,7 @@ influence: Major (Underground)
 purpose: Control criminal activities and exploit shadow corruption
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.297484+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Heraldry

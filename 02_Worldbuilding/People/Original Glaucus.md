@@ -19,11 +19,12 @@ faction: '[[02_Worldbuilding/Places/Parliament of Echoes]] (formerly)'
 status_condition: Imprisoned, Slowly Forgotten
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.861265+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-original-glaucus-original-glaucus.svg)
@@ -335,3 +336,5 @@ Legends speak of Original Glaucus as a nexus where past and present converge. Lo
 - [[02_Worldbuilding/People/Original Glaucus]]
 
 <!-- enriched: true -->
+- [[Reflection Pools]]
+- [[Shadow Conspiracy]]

@@ -1,4 +1,6 @@
 ---
+updated: 2025-08-11
+created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster

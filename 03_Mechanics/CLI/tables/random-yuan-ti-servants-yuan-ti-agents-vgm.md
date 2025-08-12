@@ -6,7 +6,7 @@ tags:
 aliases:
 - Random Yuan-ti Servants; Yuan-ti Agents
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Random Yuan-ti Servants; Yuan-ti Agents
@@ -47,3 +47,4 @@ Legends speak of random yuan ti servants yuan ti agents vgm as a nexus where pas
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

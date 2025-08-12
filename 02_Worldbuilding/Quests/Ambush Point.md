@@ -25,6 +25,7 @@ obsidianUIMode: preview
 
 
 
+
 # Ambush Point
 
 **Type:** Tactical Combat/Resistance Operations/Guerrilla Warfare  
@@ -480,7 +481,7 @@ This quest provides a masterclass in tactical planning and execution while explo
 
 ## Connections
 
-- [[Find_the_Missing_Caravan]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -501,3 +502,13 @@ Legends speak of Ambush Point as a nexus where past and present converge. Locals
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[Crystal Wardens]]
+- [[The Shadow Conspiracy]]
+- [[The Seven Shards]]
+- [[Shadow Conspiracy]]
+- [[Depth Wardens]]
+- [[Hidden Smuggler's Cove]]
+- [[Shadow Market Canals]]
+- [[The Deepmind]]
+- [[The Whispering Expanse]]
+- [[Traveling Merchant Finn]]

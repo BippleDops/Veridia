@@ -19,6 +19,7 @@ updated: 2025-08-11
 
 
 
+
 # Complete Sanity & Horror Framework
 *When Reality Itself Becomes the Enemy*
 
@@ -827,3 +828,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Vault_Navigation_Hub]]
+
+
+## Connections
+
+- [[Introduction]]

@@ -2,9 +2,15 @@
 title: Transportation Infrastructure
 type: mechanics
 status: complete
-tags: [mechanics, vehicles, infrastructure, networks]
+tags:
+- mechanics
+- vehicles
+- infrastructure
+- networks
 created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 # Transportation Infrastructure
 
@@ -57,3 +63,17 @@ Legends speak of Transportation Infrastructure as a nexus where past and present
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Travel/Encounter_Sheets/X-105_Crown_Council_Summit_Convoy]]
+
+
+## Connections
+
+- [[Economic_Warfare_Simulator]]
+- [[Ecosystem_Simulation_Engine]]
+- [[Aquabyssos_Submarines]]
+- [[Fleet_Dynamics_Generator]]
+- [[Journey_Event_Compiler]]
+- [[X-105_Crown_Council_Summit_Convoy]]

@@ -23,7 +23,7 @@ danger_level: Extreme
 population: 800+ (court, staff, guards, prisoners)
 age: 300 years (built post-Drowning)
 created: 2025-08-10
-updated: '2025-08-11T13:08:50.147383+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[Storm Empress Tempestas Maelstrom]]'
 - '[[The Tempest Sovereignty]]'
@@ -639,7 +639,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 #### Academic Relationships
 **Scholarly Exchange**: The empire's connections with educational institutions:
 
-**[[The Sunken Library of Thalassius]]**: Major repository of magical and historical knowledge
+**[[02_Worldbuilding/Quests/Aquabyssos]]**: Major repository of magical and historical knowledge
 - **Research Collaboration**: Imperial scholars contribute to library's research projects
 - **Knowledge Exchange**: Access to rare texts in exchange for unique imperial experiences
 - **Student Programs**: Young imperial nobles study at the library

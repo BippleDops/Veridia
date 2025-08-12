@@ -18,11 +18,12 @@ access: public
 danger_level: Low
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.839954+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-port-meridian-market-square-port-meridian-market-square.svg)
@@ -630,3 +631,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Port Meridian - Market Square]]
 
 <!-- enriched: true -->
+- [[Master Artificers Guild]]
+- [[Goldwave Manor]]
+- [[Aethermoor]]
+- [[Depth Wardens]]
+- [[Port Meridian - Merchant Quarter]]
+- [[Port Meridian]]

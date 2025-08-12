@@ -14,7 +14,7 @@ created: 2025-08-08 - Category/Quests
 MyContainer: None
 MyCategory: Magical
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.944441+00:00'
+updated: 2025-08-11
 cr: '5'
 ---
 

@@ -22,6 +22,7 @@ updated: 2025-08-11
 cr: '5'
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-archivist-mnemonic-the-forgotten-archivist-mnemonic-the-forgotten.svg)
 
@@ -572,3 +573,6 @@ Legends speak of Archivist Mnemonic the Forgotten as a nexus where past and pres
 - [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
 
 <!-- enriched: true -->
+- [[Memory Harvester Kythara]]
+- [[The Scattered Emperor]]
+- [[The Archive of Unremembered Things]]

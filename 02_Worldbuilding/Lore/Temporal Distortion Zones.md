@@ -30,6 +30,7 @@ updated: 2025-08-11
 
 
 
+
 # Temporal Distortion Zones
 *Where Time Bends to Purpose and Peril*
 
@@ -445,3 +446,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Aethermoor]]

@@ -14,7 +14,7 @@ created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Philosophy
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.758450+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
 

@@ -16,6 +16,7 @@ world: Both
 
 
 
+
 # 🌊🌬️ Campaign Dashboard
 *Master Control Center for the Dual Worlds*
 
@@ -386,3 +387,21 @@ if (daysSinceUpdate > 7) {
 ## Cross-References
 
 - [[Vault_Navigation_Hub]]
+
+
+## Connections
+
+- [[06_GM_Resources]]
+- [[07_Player_Resources]]
+- [[Complete Pressure Adaptation System]]
+- [[Complete Reality Merger System]]
+- [[Encounter Builder]]
+- [[GM Resources]]
+- [[Memory Trading Economy]]
+- [[NPC Dialogue Generator]]
+- [[Sanity Horror Framework]]
+- [[Session Planning Toolkit]]
+- [[World Bible]]
+- [[Vehicle_Core_Rules]]
+- [[Travel_Event_Table]]
+- [[Quick_Start_Guide]]

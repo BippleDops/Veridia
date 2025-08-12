@@ -4,6 +4,12 @@ updated: 2025-08-11
 ---
 
 
+
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Diplomatic Tides]]
+
+
+## Connections
+
+- [[Diplomatic Tides]]

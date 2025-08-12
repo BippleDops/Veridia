@@ -22,6 +22,7 @@ status: draft
 type: Location
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-lumengarde-lumengarde.svg)
 
@@ -218,3 +219,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Lumengarde]]
 
 <!-- enriched: true -->
+- [[Abyssal Academy]]
+- [[Master Cultivator Thalia Greenglow]]
+- [[The Depth Wardens]]
+- [[Archivist Vera Glowmind]]
+- [[Barkeep Mira Algaebrew]]
+- [[Free Current]]
+- [[Garden of Shadows]]
+- [[Merchant Delilah Currentrunner]]
+- [[Reef Guard Captain Torrent Shellborn]]
+- [[The Gloom Gardens]]
+- [[The Living Weapon]]
+- [[The Mothercoral Crisis]]

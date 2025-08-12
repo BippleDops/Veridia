@@ -13,7 +13,7 @@ world: Aethermoor
 type: Location
 created_by: auto-stub
 created: 2025-08-11
-updated: '2025-08-11T13:08:50.626491+00:00'
+updated: 2025-08-11
 quest_type: Political Intrigue/Identity Mystery
 level_range: 6-12
 party_size: 4-6 characters

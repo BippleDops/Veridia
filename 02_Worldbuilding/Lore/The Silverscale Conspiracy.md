@@ -29,6 +29,7 @@ primary_agents: Silverscale Banking House and allied organizations
 
 
 
+
 # The Silverscale Conspiracy
 *The Hidden Network That Shapes Two Worlds Through Economic Control*
 
@@ -96,7 +97,7 @@ An extensive network of individuals who serve Silverscale interests either knowi
 **Intelligence Operations:**
 - [[Silver Mask]] identity management potentially coordinated through Silverscale resources
 - [[The Crimson Hand]] financial backing for shadow operations and dimensional research
-- [[Archive-Prince Mnemonic]] accessing historical financial records and documentation
+- [[02_Worldbuilding/Quests/Aquabyssos]] accessing historical financial records and documentation
 
 ## Current State and Ongoing Conflicts
 
@@ -163,3 +164,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Aurelius Goldwave]]
+- [[Crystal Forest]]
+- [[Interrogation Techniques]]
+- [[Investigation Procedures]]
+- [[Memory Alteration Consequences]]
+- [[Pressure Adaptation System]]
+- [[Reputation System]]
+- [[Silverscale Emergency Bunker]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Deep Harvest]]
+- [[The Great Convergence Prophecies]]
+- [[The Seven Betrayers]]
+- [[The Seven Shards]]
+- [[Umbral Exchange]]
+- [[Aethermoor]]

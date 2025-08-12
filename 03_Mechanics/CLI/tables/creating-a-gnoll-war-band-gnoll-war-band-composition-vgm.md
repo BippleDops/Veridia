@@ -6,7 +6,8 @@ tags:
 aliases:
 - Creating a Gnoll War Band; Gnoll War Band Composition
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Creating a Gnoll War Band; Gnoll War Band Composition

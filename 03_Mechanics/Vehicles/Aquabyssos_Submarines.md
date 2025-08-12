@@ -4,11 +4,12 @@ type: mechanics
 status: complete
 tags: [mechanics, vehicles, submarines, aquabyssos]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Aquabyssos Submarines
 
-Pressure-adaptive vessels built for the abyss. These ships integrate [[Complete Pressure Adaptation System]], [[Sanity System]], [[Complete Reality Merger System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], and [[Deep Mother]].
+Pressure-adaptive vessels built for the abyss. These ships integrate [[Complete Pressure Adaptation System]], [[02_Worldbuilding/Quests/Aquabyssos]], [[Complete Reality Merger System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], and [[Deep Mother]].
 
 ## Pressure-Adaptive Vessels (Examples)
 - Coral Leviathan (Living coral hull; grows new bulkheads at Crush+)
@@ -51,7 +52,7 @@ GM Note: Use [[05_Templates/Vehicles/New_Ship_Template|New Ship Template]] to ad
 
 ## Integration Hooks
 - Adaptation: Pilots require AP per zone; ship may substitute with Stress (see [[Vehicle_Core_Rules]])
-- Sanity: Blind navigation, shadow optics, and Deep Mother whispers call for [[Sanity System]] saves
+- Sanity: Blind navigation, shadow optics, and Deep Mother whispers call for [[02_Worldbuilding/Quests/Aquabyssos]] saves
 - Reality: Anchor Frigates reduce merger effect tiers by 1 within 200 ft (requires anchors active)
 - Memory: Ghost Subs consume charts (lose 1d4 Skill/Language memories on critical failure)
 - Faction: Doctrines modify sonar, stealth, or parasite legality (see [[Fleet_Dynamics_Generator]])
@@ -88,3 +89,7 @@ Legends speak of Aquabyssos Submarines as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[03_Mechanics/Vehicles/Vehicles_Index]]

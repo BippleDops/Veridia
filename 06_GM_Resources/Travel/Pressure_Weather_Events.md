@@ -2,10 +2,15 @@
 title: Pressure & Weather Events
 type: gm_resource
 status: complete
-tags: [gm, travel, weather, pressure]
+tags:
+- gm
+- travel
+- weather
+- pressure
 created: 2025-08-11
 updated: 2025-08-11
 ---
+
 
 # Pressure & Weather Events
 
@@ -40,3 +45,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[06_GM_Resources/Travel/Travel_Event_Table]]
+
+
+## Connections
+
+- [[Travel_Event_Table]]

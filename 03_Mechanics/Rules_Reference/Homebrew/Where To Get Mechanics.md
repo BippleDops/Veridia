@@ -6,10 +6,10 @@ tags:
 - draft
 - note
 aliases: []
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 world: Both
-updated: '2025-08-11T13:08:47.089193+00:00'
+updated: 2025-08-11
 status: draft
 ---
 

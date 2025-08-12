@@ -24,6 +24,7 @@ MyCategory: Places
 obsidianUIMode: preview
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-living-weapon-the-living-weapon.svg)
 
@@ -564,3 +565,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Living Weapon]]
 
 <!-- enriched: true -->
+- [[Depth Wardens]]
+- [[Parliament of Echoes]]
+- [[Secret Vault Beneath Throne]]
+- [[The Archive of Unremembered Things]]
+- [[The Order of the Shattered Crown]]

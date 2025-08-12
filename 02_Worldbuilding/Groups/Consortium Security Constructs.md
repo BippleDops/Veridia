@@ -19,11 +19,12 @@ influence: Continental (enforcement operations)
 wealth: Corporate funded - unlimited budget
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.405951+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-consortium-security-constructs-consortium-security-constructs.svg)
@@ -424,3 +425,12 @@ Consortium Security Constructs is a undersea element of the setting, known for b
 Legends speak of Consortium Security Constructs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Consortium Security Constructs.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Groups_Index]]
+
+
+## Connections
+
+- [[Crystal Wardens]]

@@ -16,7 +16,7 @@ type: Lore
 time_period: Pre-Drowning to Third Age of Aquabyssos
 historical_accuracy: Mix of verified records and recovered myths
 created: 2025-08-09
-updated: '2025-08-11T13:08:47.706248+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Lore/The Great Drowning]]'
 - '[[02_Worldbuilding/Places/Parliament of Echoes]]'

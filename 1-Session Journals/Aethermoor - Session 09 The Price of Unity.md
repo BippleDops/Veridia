@@ -28,8 +28,8 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-11T13:08:46.980290+00:00'
-created: '2025-08-11T13:08:46.980290+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 ---
 
@@ -163,3 +163,7 @@ Political Balance:
 - **If crown refused by all**: City begins splitting
 - **If party sides with one world**: Other world withdraws
 - **If perfect harmony attempted**: Entity remnants activate
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]

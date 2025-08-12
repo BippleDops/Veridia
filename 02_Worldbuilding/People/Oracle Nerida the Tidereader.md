@@ -24,6 +24,7 @@ created: 2025-08-09
 updated: 2025-08-11
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-oracle-nerida-the-tidereader-oracle-nerida-the-tidereader.svg)
 
@@ -365,3 +366,6 @@ Legends speak of Oracle Nerida the Tidereader as a nexus where past and present 
 - [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
 
 <!-- enriched: true -->
+- [[The Liminal Trading Company]]
+- [[The Depth Wardens]]
+- [[Memory Farmers]]

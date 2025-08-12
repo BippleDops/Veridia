@@ -53,10 +53,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: '2025-08-11T13:08:46.968891+00:00'
-created: '2025-08-11T13:08:46.968891+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 ---
+
 
 
 
@@ -405,3 +406,18 @@ EXPLOSION. The [[Pressure Tube Terminal]] detonates, trapping everyone in Abysso
 ---
 
 *"At high tide, shadows rise. At low tide, originals fall. In the depths, the tide never truly turns - it only deepens."* - Shadow Parliament Decree
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]
+
+
+## Connections
+
+- [[Shadow Nyx]]
+- [[Shadow Surgeons Collective]]
+- [[The Shadow Duchess Duel]]
+- [[Convergence Point]]
+- [[Pressure Tube Terminal]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Shadow Market Canals]]

@@ -19,8 +19,8 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:49.829951+00:00'
-created: '2025-08-11T13:08:49.829951+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 ---
 
 > [!figure] Portrait

@@ -10,11 +10,11 @@ status: complete
 world: Aquabyssos
 type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Lore
+created: 2025-08-11
 MyContainer: None
 MyCategory: Conspiracy
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.751266+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait

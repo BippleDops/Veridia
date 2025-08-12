@@ -1,4 +1,6 @@
 ---
+updated: 2025-08-12
+created: 2025-08-12
 tags:
 - aquabyssos
 - leaflet
@@ -39,3 +41,6 @@ Notes
 - Edit markers above to add more locations. Coordinates are illustrative.
 - You can switch to an image overlay map if you add a local image and specify bounds.
 
+## Cross-References
+
+- [[AQUABYSSOS_VAULT_README]]

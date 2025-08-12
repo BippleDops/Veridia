@@ -9,6 +9,7 @@ tags:
   - random-tables
   - depth-scaled
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Aquabyssos Random Encounters

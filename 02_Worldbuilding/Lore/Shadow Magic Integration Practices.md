@@ -32,6 +32,7 @@ cultural_impact: Fundamental
 
 
 
+
 # Shadow Magic Integration Practices
 *The Art of Living with Darkness Made Light*
 
@@ -671,3 +672,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Aethermoor]]

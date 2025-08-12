@@ -6,7 +6,7 @@ tags:
 aliases:
 - Appendix B: Nonplayer Characters
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Appendix B: Nonplayer Characters

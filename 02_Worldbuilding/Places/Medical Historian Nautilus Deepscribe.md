@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.600800+00:00'
-updated: '2025-08-11T13:08:50.903368+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 
 ## Overview
@@ -54,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Medical Historian Nautilus Deepscribe]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Doctor Coral Shapeshift]]

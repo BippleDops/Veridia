@@ -11,9 +11,10 @@ world: Aethermoor
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.360579+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 
 
@@ -171,3 +172,12 @@ Legends speak of The Royal Palace as a nexus where past and present converge. Lo
 - [[02_Worldbuilding/Places/The Royal Palace]]
 
 <!-- enriched: true -->
+- [[Master Artificers Guild]]
+- [[Aetheric Wind Songs]]
+- [[Aethermoor]]
+- [[Ancient Tunnels Beneath Palace]]
+- [[Depth Wardens]]
+- [[Palace Courtyard - Crystal Garden]]
+- [[Parliament of Echoes]]
+- [[Royal Palace of Meridian]]
+- [[Throne Room - Heart of Palace]]

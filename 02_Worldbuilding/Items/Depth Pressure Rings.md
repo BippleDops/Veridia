@@ -19,7 +19,7 @@ current_location: Common Throughout Underwater Communities
 danger_level: 1
 created_by: Claude
 created: 2025-08-10
-updated: '2025-08-11T13:08:47.100035+00:00'
+updated: 2025-08-11
 ---
 
 

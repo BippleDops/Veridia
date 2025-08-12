@@ -24,7 +24,7 @@ specialties:
 founded: Second Age of Aquabyssos
 current_status: Active but Underground
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.646195+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Lore/Memory Alterations]]'
 - '[[02_Worldbuilding/Lore/Aboleth Mind Mazes]]'

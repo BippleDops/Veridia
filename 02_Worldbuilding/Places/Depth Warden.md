@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.597103+00:00'
-updated: '2025-08-11T13:08:50.386411+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-depth-wardens-depth-wardens.svg)
@@ -58,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Depth Warden]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Deserter's Tale]]

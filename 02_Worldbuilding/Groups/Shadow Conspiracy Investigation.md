@@ -19,8 +19,9 @@ influence: Secret but Growing
 purpose: Investigate and counter The Shadow Conspiracy
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.471450+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-conspiracy-investigation-shadow-conspiracy-investigation.png)
@@ -556,3 +557,12 @@ Shadow Conspiracy Investigation is a undersea element of the setting, known for 
 Legends speak of Shadow Conspiracy Investigation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Conspiracy Investigation.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]
+
+
+## Connections
+
+- [[Memory Farmers]]

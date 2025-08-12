@@ -4,11 +4,12 @@ type: mechanics
 status: complete
 tags: [mechanics, vehicles, merger, paradox]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Merger Hybrid Vehicles
 
-Impossible vessels for zones where physics fails and timelines knot. Requires close coordination with [[Complete Reality Merger System]], [[Sanity System]], [[Deep Mother]], and [[Memory Trading Economy System|Memory Trading Economy]].
+Impossible vessels for zones where physics fails and timelines knot. Requires close coordination with [[Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos]], [[Deep Mother]], and [[Memory Trading Economy System|Memory Trading Economy]].
 
 ## Impossible Vessels (Examples)
 - Depth-Flyer (Underwater flight through air pockets)
@@ -58,3 +59,7 @@ Legends speak of Merger Hybrid Vehicles as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Travel/Events/Merger_Events_Pack_D]]

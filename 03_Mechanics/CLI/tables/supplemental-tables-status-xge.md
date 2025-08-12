@@ -6,7 +6,7 @@ tags:
 aliases:
 - Supplemental Tables; Status
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Supplemental Tables; Status
@@ -46,3 +46,4 @@ Legends speak of supplemental tables status xge as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

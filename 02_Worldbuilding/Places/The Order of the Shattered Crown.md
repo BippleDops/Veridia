@@ -11,7 +11,7 @@ world: Aethermoor
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.209341+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
 
@@ -179,7 +179,7 @@ The Order provides opportunities for redemption-themed adventures, charitable mi
 - [[The Azure Prophet Nerissa]]
 - [[Port Meridian]]
 - [[The Living Weapon]]
-- [[Quest - The Seventh Shard]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

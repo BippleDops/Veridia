@@ -117,3 +117,7 @@ updated: 2024-01-01
 
 ## creature-creature-guardian-naga-xmm-v1-guardian-naga-xmm
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-guardian-naga-xmm-v1-guardian-naga-xmm.png)
+
+## Cross-References
+
+- [[04_Resources/Assets/Galleries/Index]]

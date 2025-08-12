@@ -19,7 +19,7 @@ climate: Magically Altered Desert
 formation_cause: '[[02_Worldbuilding/Lore/The Great Crystallization]]'
 current_status: Quarantined, Heavily Monitored
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.182975+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Places/Crystalhaven]]'
 - '[[02_Worldbuilding/Lore/The Seven Shards]]'

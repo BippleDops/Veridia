@@ -10,6 +10,7 @@ type: NPC
 cr: '12'
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-tenebrarum-ambassadors-tenebrarum-ambassadors.svg)
 
@@ -298,3 +299,7 @@ Legends speak of Tenebrarum Ambassadors as a nexus where past and present conver
 - [[02_Worldbuilding/People/Tenebrarum Ambassadors]]
 
 <!-- enriched: true -->
+- [[Merchant Princes]]
+- [[The Liminal Trading Company]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Commander Typhoon Blackheart]]

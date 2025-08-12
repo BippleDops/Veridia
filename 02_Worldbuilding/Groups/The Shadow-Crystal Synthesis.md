@@ -21,8 +21,9 @@ influence: Secretive but Growing
 purpose: Merge shadow and crystal energies
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:51.508238+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png)
@@ -452,7 +453,7 @@ Ethical obligations toward experimental subjects:
 - [[Emperor Thalassius the Wise]]
 - [[The Threshold Chambers]]
 - [[Quest - The Convergence Crisis]]
-- [[Quest - The Memory Bridge]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -463,3 +464,10 @@ The Shadow Crystal Synthesis is a undersea element of the setting, known for bio
 Legends speak of The Shadow Crystal Synthesis as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadow Crystal Synthesis.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[The Liminal Trading Company]]
+- [[The Void Watchers]]
+- [[Keeper of the Shattered Crown, Marcus Crystalvein]]

@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Aethermoor
 status: draft
-created: '2025-08-11T13:08:45.898405+00:00'
-updated: '2025-08-11T13:08:47.969233+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -34,3 +35,12 @@ Legends speak of Twilight Born as a nexus where past and present converge. Local
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]
+
+
+## Connections
+
+- [[Aquabyssos-Aethermoor Treaties]]

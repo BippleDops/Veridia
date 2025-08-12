@@ -40,6 +40,7 @@ updated: 2025-08-11
 type: NPC
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-admiral-thorne-blackwater-admiral-thorne-blackwater.svg)
 
@@ -407,14 +408,14 @@ Admiral Blackwater's greatest secret is his slow death from pressure poisoning -
 - [[Azure Citadel]]
 - [[Shadow Merchant Riptide]]
 - [[The Lock]]
-- [[Bandit Leader Scarface]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Crystalline Depths]]
-- [[Discover the Singers Beyond]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Rescue Senator Glaucus]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Lock Saboteur]]
 - [[The Maw of Darkness]]
-- [[The Oracle of the Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Traveling Merchant Finn]]
 - [[Campaign_Relationship_Matrix]]
 
@@ -441,3 +442,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
 
 <!-- enriched: true -->
+- [[Beast Master Krell Chainbreaker]]
+- [[Commander Drake Pressureborn]]
+- [[Depth Wardens]]
+- [[Harbor Master Luna Freedrift]]
+- [[Master Smith Vulcan Deepforge]]
+- [[Mediator Serenity Stillwater]]
+- [[Spymaster Crow]]
+- [[The Deepmind]]
+- [[The Hadal Depths]]

@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.890419+00:00'
-created: '2025-08-11T13:08:49.890419+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-elder-whisper-in-the-dark-elder-whisper-in-the-dark.svg)
@@ -340,3 +341,14 @@ Legends speak of Elder Whisper In The Dark as a nexus where past and present con
 - [[02_Worldbuilding/Places/Elder Whisper-In-The-Dark]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Shadow Independence Levels]]
+- [[The Void Watchers]]
+- [[Admiral Thorne Blackwater]]
+- [[Memory Harvester Kythara]]
+- [[Aethermoor]]
+- [[The Cerulean Trench]]
+- [[The Primordial Vaults]]

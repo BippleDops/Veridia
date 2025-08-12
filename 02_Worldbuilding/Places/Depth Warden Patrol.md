@@ -18,8 +18,9 @@ frequency: Common
 location_type: Any depth zone
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.157606+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-depth-warden-patrol-depth-warden-patrol.svg)
@@ -478,3 +479,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Depth Warden Patrol]]
 
 <!-- enriched: true -->
+- [[Port Meridian]]

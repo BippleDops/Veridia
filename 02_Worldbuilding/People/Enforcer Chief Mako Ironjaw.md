@@ -163,9 +163,9 @@ Chief Mako Ironjaw is the most feared law enforcement officer in [[02_Worldbuild
 - [[02_Worldbuilding/Groups/The Depth Wardens]] - Organization base
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Smuggler's Gambit]] - Law enforcement perspective
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Law enforcement perspective
 - [[02_Worldbuilding/Quests/The Lock Saboteur]] - Investigation leader
-- [[02_Worldbuilding/Quests/Discover the Singers Beyond]] - Official inquiry
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Official inquiry
 
 
 ## Connections

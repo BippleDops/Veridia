@@ -17,13 +17,14 @@ age: '73'
 race: Human (Heavily Crystal-touched)
 location: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
 created_by: expansion
-created: 2025-08-10 - Category/People
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.802952+00:00'
+updated: 2025-08-12
 cr: '8'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-order-of-the-shattered-crown-order-of-the-shattered-crown.svg)
@@ -514,3 +515,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Order of the Shattered Crown]]
 
 <!-- enriched: true -->
+nriched: true -->
+- [[The Crown of Stars]]

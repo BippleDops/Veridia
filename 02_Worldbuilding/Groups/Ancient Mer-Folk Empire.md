@@ -13,7 +13,7 @@ aliases:
 - Aeridor Empire
 - Children of the Abyss
 world: Aquabyssos
-created: 2025-07-23 15:35
+created: 2025-07-23
 modified: 2025-08-10
 leader: Deep Lord Pelagios the Eternal
 headquarters: The Sunken City of Aeridor
@@ -23,7 +23,7 @@ status: complete
 MyContainer: Aquabyssos
 MyCategory: Ancient Civilization - Category/Group
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:51.313481+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Heraldry

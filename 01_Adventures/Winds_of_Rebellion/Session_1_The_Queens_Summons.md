@@ -8,6 +8,7 @@ session_type: "Introduction & Social Intrigue"
 world: "Aethermoor"
 themes: ["first-impressions", "court-politics", "hidden-agendas", "faction-introductions"]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Session 1: The Queen's Summons

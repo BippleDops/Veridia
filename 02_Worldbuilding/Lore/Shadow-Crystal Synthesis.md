@@ -10,6 +10,7 @@ created: 2025-08-11
 updated: 2025-08-11
 ---
 
+
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png)
 
@@ -42,3 +43,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/The Crown's Burden]]
+
+
+## Connections
+
+- [[Discover Marina's Truth]]
+- [[Quest - Nature's Balance]]
+- [[Quest - The Pretender's Crown]]
+- [[The Crown's Burden]]

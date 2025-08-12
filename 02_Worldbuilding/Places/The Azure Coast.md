@@ -22,7 +22,7 @@ major_cities:
 government: Multiple City-States and Kingdoms
 population: 850000
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.554939+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Places/The Cerulean Archipelago]]'
 - '[[02_Worldbuilding/Lore/Aquabyssos Ambassadors]]'
@@ -275,8 +275,8 @@ EOF < /dev/null
 - [[The Azure Prophet Nerissa]]
 - [[Port Meridian]]
 - [[Quest - The Convergence Crisis]]
-- [[Quest - The Seventh Shard]]
-- [[Quest - The Shard-Shadow Resonance]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

@@ -10,6 +10,7 @@ type: Location
 danger_level: Moderate
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-void-touched-depths-the-void-touched-depths.svg)
 
@@ -511,3 +512,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Void Touched Depths]]
 
 <!-- enriched: true -->
+- [[Depth Wardens]]
+- [[The Free Current]]

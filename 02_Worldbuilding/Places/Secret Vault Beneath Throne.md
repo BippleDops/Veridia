@@ -16,11 +16,12 @@ access: royal_only
 danger_level: Extreme
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.591404+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-secret-vault-beneath-throne-secret-vault-beneath-throne.svg)
@@ -422,3 +423,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
 
 <!-- enriched: true -->
+- [[Hidden Smuggler's Cove]]
+- [[Memory Thief]]
+- [[The Recursion Cult]]
+- [[The Shrinking Sanctuary]]
+- [[The Silent Watcher]]
+- [[The Void Touched Depths]]

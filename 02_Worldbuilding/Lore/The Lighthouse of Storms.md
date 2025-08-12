@@ -26,6 +26,7 @@ current_status: Active but Unpredictable
 
 
 
+
 # The Lighthouse of Storms
 *Beacon of the Tempest, Guardian of the Maelstrom Gates*
 
@@ -388,3 +389,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_People_Index]]
+- [[Aetheric Wind Songs]]
+- [[Eastern Kingdoms]]
+- [[The Bathyal Succession]]
+- [[The Great Convergence Prophecies]]
+- [[The Sundering]]
+- [[Aethermoor]]

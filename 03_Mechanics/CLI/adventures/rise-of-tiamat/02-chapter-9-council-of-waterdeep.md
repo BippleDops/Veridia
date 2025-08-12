@@ -6,7 +6,7 @@ tags:
 aliases:
 - Chapter 9: Council of Waterdeep
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Chapter 9: Council of Waterdeep
@@ -240,3 +240,4 @@ Legends speak of 02 chapter 9 council of waterdeep as a nexus where past and pre
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

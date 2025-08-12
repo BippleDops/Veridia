@@ -21,6 +21,7 @@ created: 2025-08-09
 updated: 2025-08-11
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-memory-harvester-kythara-memory-harvester-kythara.svg)
 
@@ -635,7 +636,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - Potential alliance with those resisting shadow-crystal influence
 - Protection of memory ecosystem from synthesis contamination and control
 
-### Links to [[02_Worldbuilding/Quests/Quest - The Memory Bridge]]  
+### Links to [[02_Worldbuilding/Quests/Aquabyssos]]  
 **Divine Memory Conduit**: Serving as bridge between mortal and divine memory systems
 - Facilitating communication between Divine consciousness and mortal awareness
 - Translation services helping mortals understand Divine memory communications
@@ -750,8 +751,8 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - [[The Barnacle]]
 - [[The Shadow Singer Naia]]
 - [[Quest - The Convergence Crisis]]
-- [[Quest - The Memory Bridge]]
-- [[Quest - The Shard-Shadow Resonance]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Crown's Burden]]
 
 ## Player-Facing Summary
@@ -767,3 +768,4 @@ Legends speak of Memory Harvester Kythara as a nexus where past and present conv
 - [[02_Worldbuilding/People/Memory Harvester Kythara]]
 
 <!-- enriched: true -->
+- [[Memory Farmers]]

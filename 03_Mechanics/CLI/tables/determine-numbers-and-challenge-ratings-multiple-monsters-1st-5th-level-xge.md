@@ -6,7 +6,8 @@ tags:
 aliases:
 - Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level

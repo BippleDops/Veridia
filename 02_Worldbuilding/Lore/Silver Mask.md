@@ -23,8 +23,9 @@ active_period: Past 30+ years, identity constantly shifting
 investigation_difficulty: Extremely High
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.320608+00:00'
+updated: 2025-08-11
 ---
+
 
 
 
@@ -449,7 +450,7 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 
 **Primary Investigation Networks:**
 - [[Investigative Chronicler Darius Truthseeker]] - Leading researcher on Silver Mask activities, coordinates with [[Timeline of Crimes]] documentation efforts
-- [[Archive-Prince Mnemonic]] - Deep-sea librarian maintaining records of cross-dimensional conspiracy activities
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Deep-sea librarian maintaining records of cross-dimensional conspiracy activities
 - [[High Priestess Nerida Deepcurrent]] - Religious leader potentially involved in spiritual detection of identity manipulation
 
 **Conspiracy Network Connections:**
@@ -534,3 +535,28 @@ Legends speak of Silver Mask as a nexus where past and present converge. Locals 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[Aurelius Goldwave]]
+- [[Corruption Tracking]]
+- [[Crystal Forest]]
+- [[Evidence Chain Analysis]]
+- [[INV-001]]
+- [[INV-004]]
+- [[Interrogation Techniques]]
+- [[Investigation Procedures]]
+- [[Memory Alteration Consequences]]
+- [[Reputation System]]
+- [[Shadow Magic Integration Practices]]
+- [[Silverscale Emergency Bunker]]
+- [[Thalassius the Wise]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Great Convergence Prophecies]]
+- [[The Seven Shards]]
+- [[Timeline of Crimes]]
+- [[Umbral Exchange]]
+- [[Queen Seraphina Lumengarde]]
+- [[Aethermoor]]

@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Aquabyssos
 status: draft
-created: '2025-08-11T13:08:46.636209+00:00'
-updated: '2025-08-11T13:08:47.621032+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -34,3 +35,12 @@ Legends speak of Surgeon Coral Precisehands as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Groups/Investigate Shadow Surgeons]]
+
+
+## Connections
+
+- [[Investigate Shadow Surgeons]]

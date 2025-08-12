@@ -26,6 +26,7 @@ participants: Entire population of [[Port Meridian]] and neighboring regions
 
 
 
+
 # The Crystal Festival
 *The Celebration That Became a Chrysalis of Transformation*
 
@@ -160,9 +161,9 @@ Magical disturbances at the former festival grounds threaten to reactivate [[02_
 
 - [[Crystal Festival Grounds]]
 - [[Prismatic Falls]]
-- [[Bandit Scouts]]
-- [[Smuggler's Gambit]]
-- [[The Oracle of the Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Traveling Merchant Finn]]
 - [[Aethermoor - Session 06 The Bloodline Awakens]]
 
@@ -189,3 +190,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[Aethermoor]]
+- [[Port Meridian]]

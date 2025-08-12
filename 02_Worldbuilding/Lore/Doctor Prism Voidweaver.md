@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Both Aethermoor & Aquabyssos
 status: draft
-created: '2025-08-11T13:08:46.183614+00:00'
-updated: '2025-08-11T13:08:48.436814+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 
@@ -35,3 +36,13 @@ Legends speak of Doctor Prism Voidweaver as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+
+
+## Connections
+
+- [[The Shadow-Crystal Synthesis]]
+- [[Quest - The Convergence Crisis]]

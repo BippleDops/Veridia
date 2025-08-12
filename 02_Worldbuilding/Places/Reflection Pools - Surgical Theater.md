@@ -27,6 +27,7 @@ MyCategory: Places
 obsidianUIMode: preview
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-reflection-pools-surgical-theater-reflection-pools-surgical-theater.svg)
 
@@ -493,3 +494,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
 
 <!-- enriched: true -->
+- [[Parliament of Echoes]]

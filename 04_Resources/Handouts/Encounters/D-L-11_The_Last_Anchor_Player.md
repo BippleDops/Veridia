@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, encounter, depth]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # The Last Anchor
@@ -23,3 +24,7 @@ Possible outcomes
 - The world steadies under your hands
 - It holds for now
 - It breaks
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_10]]

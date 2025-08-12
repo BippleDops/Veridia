@@ -6,7 +6,8 @@ tags:
 aliases:
 - Chapter 6: Castle Naerytar
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Chapter 6: Castle Naerytar

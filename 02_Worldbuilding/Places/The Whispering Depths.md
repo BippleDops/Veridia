@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:50.502628+00:00'
-created: '2025-08-11T13:08:50.502628+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -9,6 +9,7 @@ tags:
 type: Location
 danger_level: Moderate
 ---
+
 
 
 
@@ -176,3 +177,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Whispering Depths]]
 
 <!-- enriched: true -->
+- [[Depth Wardens]]
+- [[Free Current]]
+- [[Mad Oracle Thessaly]]
+- [[Quieting the Depths]]
+- [[The Deepmind]]
+- [[The Last Words]]
+- [[The Silent Rescue]]
+- [[The Silent Watcher]]
+- [[Whisper-Touched William]]

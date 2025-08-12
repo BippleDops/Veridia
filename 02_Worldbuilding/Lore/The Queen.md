@@ -23,6 +23,7 @@ updated: 2025-08-11
 
 
 
+
 # The Queen
 *Queen Seraphina Lumengarde, the Crystal-Possessed Monarch*
 
@@ -522,3 +523,13 @@ Legends speak of The Queen as a nexus where past and present converge. Locals de
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Great Crystallization]]
+- [[The Convergence Point]]
+- [[The Great Crystallization]]
+- [[The Seven Shards]]
+- [[Timeline of the Drowning]]
+- [[Crystal Gardens]]
+- [[The Royal Palace]]

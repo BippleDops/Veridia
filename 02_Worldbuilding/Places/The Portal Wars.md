@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Dimensional Nexus (Both Realms)
 status: draft
-created: '2025-08-11T13:08:46.468089+00:00'
-updated: '2025-08-11T13:08:50.892874+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 
 
@@ -55,3 +56,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Portal Wars]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Floating Market]]

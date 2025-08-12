@@ -6,7 +6,8 @@ tags:
 aliases:
 - Dwarves in the World; Dwarf Quirks
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Dwarves in the World; Dwarf Quirks

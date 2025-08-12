@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:51.192518+00:00'
-created: '2025-08-11T13:08:51.192518+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: Group
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg)
@@ -565,3 +566,11 @@ Legends speak of Purist Coalition as a nexus where past and present converge. Lo
 - A map overlay reveals a hidden approach to Purist Coalition active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Quest - Hearts and Minds]]
+- [[Brother Marcus Steelbane]]
+- [[The Order of the Shattered Crown]]
+- [[Quest - Hearts and Minds]]
+- [[Quest - The Crystal Festival]]

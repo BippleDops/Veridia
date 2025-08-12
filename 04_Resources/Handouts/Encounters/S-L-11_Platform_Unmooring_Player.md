@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, encounter, sky]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Platform Unmooring

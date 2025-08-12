@@ -20,7 +20,7 @@ faction: Independent (Information Broker)
 status_condition: Active, Identity Unknown
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.638222+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview

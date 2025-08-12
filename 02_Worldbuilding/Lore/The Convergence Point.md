@@ -24,6 +24,7 @@ updated: 2025-08-11
 
 
 
+
 # The Convergence Point
 *Where Two Worlds Become One*
 
@@ -393,3 +394,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Places_Index]]
+- [[Deep Mother]]
+- [[The Crown of Stars]]
+- [[The Great Crystallization]]
+- [[Aboleth Prime Yoth]]
+- [[The Scattered Emperor]]
+- [[Parliament of Echoes]]

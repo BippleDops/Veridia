@@ -18,6 +18,7 @@ updated: 2025-08-11
 ---
 
 
+
 # Legal System of Aquabyssos
 
 *The comprehensive judicial framework that governs life in the drowned world*
@@ -708,9 +709,9 @@ Someone is systematically undermining Aquabyssos's legal system by corrupting ev
 - [[Council of Depths]] - Government body appointing judges
 - [[Depth Wardens]] - Primary law enforcement agency
 - [[Memory Court]] - Specialized court for memory-related crimes
-- [[Environmental Court]] - Court handling ecosystem crimes
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Court handling ecosystem crimes
 - [[Inter-Species Relations Division]] - Law enforcement unit
-- [[Deep Court]] - Secret judicial body
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Secret judicial body
 - [[The Archive Keepers]] - Secret legal historians
 - [[Unified Aquabyssos Legal Code]] - Primary legal framework
 - [[Emergency Codex]] - Crisis legislation
@@ -753,3 +754,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+
+
+## Connections
+
+- [[Depth Wardens]]

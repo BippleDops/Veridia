@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, encounter, depth]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Shadow Bloom
@@ -25,3 +26,7 @@ Possible outcomes
 - You push through, steadied by each other
 - Someone falters and needs help
 - The ship grows quiet, as if listening
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01]]

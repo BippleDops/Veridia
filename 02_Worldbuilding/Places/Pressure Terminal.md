@@ -10,6 +10,7 @@ type: Location
 danger_level: Moderate
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-pressure-terminal-pressure-terminal.svg)
 
@@ -586,3 +587,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Pressure Terminal]]
 
 <!-- enriched: true -->
+- [[Abyssos Prime]]
+- [[Surface Portal Alpha]]
+- [[The Deep Patrol]]

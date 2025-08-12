@@ -21,7 +21,7 @@ created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.799059+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait

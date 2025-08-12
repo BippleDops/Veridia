@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, doctrine]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Trade Escort
@@ -20,3 +21,7 @@ Crew tips
 
 Risks
 - Corruption stings; delays attract predators
+
+## Cross-References
+
+- [[04_Resources/Handouts/Doctrines/Doctrine_Quick_Reference]]

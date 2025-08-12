@@ -27,6 +27,7 @@ practitioners: Summoners, portal mages, creators
 
 
 
+
 # Conjuration School of Magic
 *The Art of Summoning, Creation, and Transportation*
 
@@ -272,3 +273,13 @@ Legends speak of Ω System CLI spells school conjuration as a nexus where past a
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-transmutation]]
+
+
+## Connections
+
+- [[Aethermoor]]
+- [[Mourning Depths]]

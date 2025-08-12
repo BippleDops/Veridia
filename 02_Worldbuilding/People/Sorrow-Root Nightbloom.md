@@ -19,10 +19,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:49.897864+00:00'
-created: '2025-08-11T13:08:49.897864+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-sorrow-root-nightbloom-sorrow-root-nightbloom.svg)
@@ -149,3 +150,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Sorrow-Root Nightbloom]]
 
 <!-- enriched: true -->
+- [[Verdant Shard]]

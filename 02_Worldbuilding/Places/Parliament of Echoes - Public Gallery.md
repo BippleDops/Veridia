@@ -21,11 +21,12 @@ population: 200-800 visitors daily
 government: Parliamentary oversight and citizen access
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.159815+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.svg)
@@ -417,3 +418,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
 
 <!-- enriched: true -->
+- [[Emperor Thalassius]]
+- [[Abyssos Prime Upper Districts]]
+- [[Parliament of Echoes]]
+- [[Vote Vaults]]

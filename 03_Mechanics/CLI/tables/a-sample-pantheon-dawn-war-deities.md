@@ -6,7 +6,7 @@ tags:
 aliases:
 - A Sample Pantheon; Dawn War Deities
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # A Sample Pantheon; Dawn War Deities
@@ -57,3 +57,4 @@ Legends speak of a sample pantheon dawn war deities as a nexus where past and pr
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

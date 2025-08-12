@@ -8,6 +8,7 @@ session_type: "Heist & Aerial Infiltration"
 world: "Aethermoor"
 themes: ["aerial-heist", "stealth-infiltration", "sky-vessel-combat", "evidence-gathering", "naval-politics"]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Session 3: The Skyship Heist

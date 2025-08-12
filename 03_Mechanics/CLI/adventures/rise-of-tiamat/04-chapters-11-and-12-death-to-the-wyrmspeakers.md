@@ -6,7 +6,7 @@ tags:
 aliases:
 - Chapters 11 and 12: Death to the Wyrmspeakers
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Chapters 11 and 12: Death to the Wyrmspeakers
@@ -770,3 +770,4 @@ Legends speak of 04 chapters 11 and 12 death to the wyrmspeakers as a nexus wher
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

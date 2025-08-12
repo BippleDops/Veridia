@@ -9,6 +9,7 @@ tags:
 type: NPC
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-queen-seraphina-lumengarde-queen-seraphina-lumengarde.svg)
 
@@ -100,7 +101,7 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 - Preparing for the Crystal Festival
 - Secretly researching corruption cures
 - Negotiating with [[The Verdant Accord]]
-- Investigating [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]]
+- Investigating [[02_Worldbuilding/Quests/Aquabyssos]]
 - Monitoring [[02_Worldbuilding/People/Prince Caspian Duskwater]]'s movements
 
 ## Motivations
@@ -159,8 +160,8 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 - [[The Purification Gardens]] - Secret treatments
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Ordering investigation
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - Secretly searching
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Ordering investigation
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Secretly searching
 - [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Needs peacekeepers
 
 
@@ -210,3 +211,7 @@ Legends speak of Queen Seraphina Lumengarde as a nexus where past and present co
 - [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
 
 <!-- enriched: true -->
+- [[Introduction]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[The Purification Gardens]]
+- [[Sylvanheart]]

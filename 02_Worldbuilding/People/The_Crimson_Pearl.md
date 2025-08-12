@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.825068+00:00'
-created: '2025-08-11T13:08:49.825068+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-crimson-pearl-the-crimson-pearl.svg)
@@ -91,7 +92,7 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 - Supplies him with rare deep metals
 - He provides surface weapons
 - Both know it's dirty but need each other
-- Connected through [[02_Worldbuilding/Quests/Find_the_Missing_Caravan]]
+- Connected through [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ### [[Aboleth Prime Yoth]]
 "Even I have things I won't deal with. Usually."
@@ -259,3 +260,13 @@ Legends speak of The Crimson Pearl as a nexus where past and present converge. L
 - [[02_Worldbuilding/People/The_Crimson_Pearl]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Aboleth Prime Yoth]]
+- [[Blood in the Water]]
+- [[Surface Syndicate]]
+- [[The Barnacle]]
+- [[The Pearl Heist]]
+- [[High Tidecaller Nerissa]]

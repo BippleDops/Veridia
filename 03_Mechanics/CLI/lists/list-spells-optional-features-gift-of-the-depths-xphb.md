@@ -6,7 +6,7 @@ tags:
 aliases:
 - Spells for Gift of the Depths
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Spells for Gift of the Depths
@@ -34,3 +34,4 @@ Legends speak of list spells optional features gift of the depths xphb as a nexu
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

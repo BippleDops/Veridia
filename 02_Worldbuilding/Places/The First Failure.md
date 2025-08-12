@@ -44,14 +44,15 @@ temporal_stability: 70
 shadow_density: Moderate
 pressure_effects: Moderate
 status: complete
-created: 2025-08-11 - Category/Place
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:50.859720+00:00'
+updated: 2025-08-12
 type: Location
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-first-failure-the-first-failure.svg)
@@ -369,3 +370,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The First Failure]]
 
 <!-- enriched: true -->
+- [[Marina Red Tide Coralheart - Aquabyssos]]
+- [[Abyssos Prime]]

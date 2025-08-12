@@ -29,6 +29,7 @@ updated: 2025-08-11
 
 
 
+
 # Timeline of Crimes
 *Chronological Framework for Understanding Conspiracy Development Across History*
 
@@ -111,3 +112,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[The Final Choice]]
+- [[The Silverscale Conspiracy]]
+- [[Aethermoor]]

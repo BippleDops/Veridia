@@ -4,6 +4,7 @@ type: mechanics
 tags: [transformation, crystal, resonance, progression, body-horror, magic-enhancement]
 status: "complete"
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Crystal Resonance Transformation Path

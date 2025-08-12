@@ -18,12 +18,13 @@ government: '[[Deep Watch Command]]'
 commander: '[[Admiral Thorne Blackwater]]'
 purpose: Seal against The Hadal Depths
 depth: 15,000 feet below surface
-created: 2025-08-08 - Category/Place
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:51.002684+00:00'
+updated: 2025-08-12
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-lock-the-lock.svg)
@@ -441,7 +442,7 @@ Evidence suggests The Lock is not unique:
 - [[Smuggler]]
 - [[The Lock Saboteur]]
 - [[The Maw of Darkness]]
-- [[The Oracle of the Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -466,3 +467,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Lock]]
 
 <!-- enriched: true -->
+- [[Abyssos Prime]]
+- [[The Hadal Depths]]

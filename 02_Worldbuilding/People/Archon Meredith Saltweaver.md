@@ -9,6 +9,7 @@ tags:
 type: NPC
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-archon-meredith-saltweaver-archon-meredith-saltweaver.svg)
 
@@ -143,3 +144,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Banker Titus Goldcurrent]]
+- [[Enforcer Chief Mako Ironjaw]]
+- [[Shadow Broker Mist]]
+- [[The Deepmind Conspiracy]]
+- [[The Emergence]]
+- [[Ambassador Lysandra Silvertonge]]
+- [[Free Current]]
+- [[Keeper Elara Mindwell]]
+- [[Tethyan Hegemony]]

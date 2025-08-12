@@ -23,11 +23,12 @@ influence: Moderate
 danger_level: High
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.491740+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Criminal Operative
 obsidianUIMode: preview
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-memory-thief-the-memory-thief.svg)
@@ -321,3 +322,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Memory Thief]]
 
 <!-- enriched: true -->
+- [[Abyssos Prime]]

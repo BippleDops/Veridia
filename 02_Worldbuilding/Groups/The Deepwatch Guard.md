@@ -20,8 +20,9 @@ founded: 2987
 motto: Where Light Cannot Reach, We Stand Guard
 created_by: Claude
 created: 2025-08-09
-updated: '2025-08-11T13:08:51.395989+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-deepwatch-guard-the-deepwatch-guard.svg)
@@ -447,3 +448,8 @@ Legends speak of The Deepwatch Guard as a nexus where past and present converge.
 - A map overlay reveals a hidden approach to The Deepwatch Guard active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Groups_Index]]
+- [[The Depth Wardens]]

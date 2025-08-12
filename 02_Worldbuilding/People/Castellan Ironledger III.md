@@ -19,9 +19,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:49.632658+00:00'
-created: '2025-08-11T13:08:49.632658+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-castellan-ironledger-iii-castellan-ironledger-iii.svg)
@@ -176,3 +177,4 @@ Legends speak of Castellan Ironledger III as a nexus where past and present conv
 - [[02_Worldbuilding/People/Castellan Ironledger III]]
 
 <!-- enriched: true -->
+- [[Ironhold]]

@@ -24,6 +24,7 @@ current_status: Active Refuge
 ---
 
 
+
 # Hidden Sanctuary
 *The Last Free Haven of Aethermoor*
 
@@ -334,3 +335,12 @@ Legends speak of Hidden Sanctuary as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds]]
+
+
+## Connections
+
+- [[Aethermoor]]

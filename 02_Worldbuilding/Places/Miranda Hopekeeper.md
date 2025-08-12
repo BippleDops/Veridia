@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Aquabyssos
 status: draft
-created: '2025-08-11T13:08:46.295816+00:00'
-updated: '2025-08-11T13:08:50.350007+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-teacher-miranda-hopekeeper-teacher-miranda-hopekeeper.svg)
@@ -58,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Miranda Hopekeeper]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Teacher Miranda Hopekeeper]]

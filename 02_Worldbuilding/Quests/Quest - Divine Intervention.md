@@ -490,11 +490,11 @@ This quest challenges players to grapple with the biggest possible questions—t
 - [[The Shattered Sanctum]]
 - [[Vault Breach]]
 - [[Quest - Nature's Balance]]
-- [[Quest - The Plague of Crystals]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Quest - The Pretender's Crown]]
-- [[Quest - The Seventh Shard]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Crown's Burden]]
-- [[The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

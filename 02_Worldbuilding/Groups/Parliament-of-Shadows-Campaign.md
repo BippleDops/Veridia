@@ -26,7 +26,7 @@ modified: 2025-08-11 - Category/Group
 MyContainer: Inter-Realm Politics
 MyCategory: Advocacy Campaign
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:51.276467+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Heraldry
@@ -558,3 +558,7 @@ Legends speak of Parliament of Shadows Campaign as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[reports/bidirectional_links]]

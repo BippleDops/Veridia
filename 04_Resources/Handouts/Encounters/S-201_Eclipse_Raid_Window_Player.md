@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, encounter, sky]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Eclipse Raid Window
@@ -23,3 +24,7 @@ Possible outcomes
 - You slip through unseen
 - Someone missteps in the half-light
 - The enemy finds you first
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aethermoor_Session_10]]

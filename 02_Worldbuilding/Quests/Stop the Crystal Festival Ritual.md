@@ -21,6 +21,7 @@ updated: 2025-08-12
 
 
 
+
 # Stop the Crystal Festival Ritual
 
 *A race against time to prevent the unmaking of reality itself*
@@ -330,3 +331,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[Aethermoor]]
+- [[Withered Court]]

@@ -6,8 +6,8 @@ tags:
 type: Location
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.477613+00:00'
-updated: '2025-08-11T13:08:51.013047+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
 
@@ -30,3 +30,7 @@ TODO
 ## Hooks
 
 TODO
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Corallion]]

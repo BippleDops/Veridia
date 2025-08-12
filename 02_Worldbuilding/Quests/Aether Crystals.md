@@ -40,7 +40,7 @@ What the party will eventually discover is that these aren't just crystals—the
 
 ## Key NPCs
 - **[[Professor Aldric Crystalweaver]]**: Leading crystal researcher who disappeared with the expedition
-- **[[Elena Starweaver]]**: Crystal mage coordinating the investigation from [[Azure Citadel]]
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Crystal mage coordinating the investigation from [[Azure Citadel]]
 - **Captain Marcus Shieldstone**: [[The Crystal Throne]] military officer overseeing security
 - **Dr. Prism Voidweaver**: Alternative researcher studying the crystals' reality-warping properties
 - **The Crystal Shepherd**: Mysterious figure who seems to communicate with the Prime Crystals
@@ -57,7 +57,7 @@ What the party will eventually discover is that these aren't just crystals—the
 **Objective:** Learn about the discovery and prepare for expedition to the source
 
 ### The Briefing
-**[[Elena Starweaver]]'s Report:**
+**[[02_Worldbuilding/Quests/Aquabyssos]]'s Report:**
 - **Discovery Date**: Three weeks ago during routine deep mining operations
 - **Initial Properties**: Energy output 400% higher than standard [[Aether Crystals]]
 - **Behavioral Anomalies**: Crystals respond to proximity of living beings and magical activity
@@ -378,14 +378,14 @@ The team can communicate with the party and share their experiences:
 - **[[Azure Citadel]]**: Research facility coordinating investigation
 - **[[The Seven Shards]]**: Ancient artifacts that may be related to crystal consciousness
 - **[[Professor Aldric Crystalweaver]]**: Leading researcher in crystal technology
-- **[[Elena Starweaver]]**: Crystal mage with expertise in magical applications
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Crystal mage with expertise in magical applications
 - **[[The Crystal Caves]]**: Transformed mining site that becomes permanent landmark
 - **[[Crystal Festival]]**: Annual celebration that may need to address new discoveries
 
 ### Connected Adventures
 - **[[Crystalline Depths]]**: Similar crystal phenomena in [[Aquabyssos]] suggesting wider awakening
-- **[[The Oracle of the Sundered Peaks]]**: Prophetic warnings about crystal consciousness
-- **[[Smuggler's Gambit]]**: Black market trade in dangerous crystal specimens
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Prophetic warnings about crystal consciousness
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Black market trade in dangerous crystal specimens
 - **[[The Crystal Throne]]**: Political implications of new crystal technology
 - **[[The Seven Shards]]**: Investigation into connections with ancient crystal entities
 
@@ -450,11 +450,11 @@ The team can communicate with the party and share their experiences:
 - [[Crystal Gardens]]
 - [[The Crystalline Foundry]]
 - [[The Drowned Embassy]]
-- [[Bandit Scouts]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Crystalline Depths]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Green Death]]
-- [[The Oracle of the Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

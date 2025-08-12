@@ -19,11 +19,12 @@ influence: Regional (Underground network)
 wealth: Limited (donations and seized assets)
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.402182+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg)
@@ -386,3 +387,8 @@ Purist Coalition Thugs is a undersea element of the setting, known for biolumine
 Legends speak of Purist Coalition Thugs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Purist Coalition Thugs.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Groups_Index]]
+- [[Brother Marcus Steelbane]]

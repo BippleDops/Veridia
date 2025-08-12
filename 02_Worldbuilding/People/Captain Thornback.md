@@ -6,9 +6,10 @@ tags:
 type: NPC
 world: Aethermoor
 status: draft
-created: '2025-08-11T13:08:46.732291+00:00'
-updated: '2025-08-11T13:08:49.837123+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -56,3 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Captain Thornback]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Vex Shadowthorn]]

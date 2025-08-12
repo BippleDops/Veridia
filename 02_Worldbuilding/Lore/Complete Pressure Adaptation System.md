@@ -11,6 +11,7 @@ updated: 2025-08-11
 ---
 
 
+
 ## Overview
 
 TODO
@@ -38,3 +39,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Campaign_Dashboard]]
+
+
+## Connections
+
+- [[Complete_Faction_Warfare_System]]
+- [[Complete_Reality_Merger_System]]
+- [[Hybrid_Class_System]]
+- [[Aethermoor_Airships]]
+- [[Aquabyssos_Submarines]]
+- [[Vehicle_Core_Rules]]
+- [[New_Journey_Event_Template]]
+- [[D-101_Abyssal_Thermocline_Knife]]
+- [[Depth_Events_Pack_A]]
+- [[Depth_Events_Pack_D]]

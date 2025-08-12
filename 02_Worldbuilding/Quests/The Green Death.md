@@ -22,6 +22,7 @@ created: 2025-08-11
 
 
 
+
 # The Green Death
 
 *When the cure becomes worse than the disease*
@@ -224,3 +225,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Aether Crystals]]
+
+
+## Connections
+
+- [[Goldspire Confederacy]]
+- [[Aether Crystals]]

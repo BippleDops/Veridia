@@ -26,7 +26,8 @@ aliases:
 - Splint Armor of Poison Resistance
 - Studded Leather Armor of Poison Resistance
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 

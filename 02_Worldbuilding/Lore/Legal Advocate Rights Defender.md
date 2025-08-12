@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Both
 status: draft
-created: '2025-08-11T13:08:45.974378+00:00'
-updated: '2025-08-11T13:08:47.902531+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -34,3 +35,12 @@ Legends speak of Legal Advocate Rights Defender as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Crystal Corruption Taboos]]
+
+
+## Connections
+
+- [[Crystal Corruption Taboos]]

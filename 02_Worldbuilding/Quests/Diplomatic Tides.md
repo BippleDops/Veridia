@@ -26,6 +26,7 @@ obsidianUIMode: preview
 
 
 
+
 # Diplomatic Tides
 *The Great Negotiation, Waters of Peace, The Deep Summit*
 
@@ -594,7 +595,7 @@ The party must:
 ## Connections
 
 - [[Rescue Senator Glaucus]]
-- [[The_Second_Rising]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -618,4 +619,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The_Second_Rising]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[Tenebrarum]]
+- [[Memory Meadows Black Market]]
+- [[The Depth Accords]]

@@ -18,9 +18,10 @@ authority_level: High
 member_count: ~2,000 active wardens
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.138011+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-depth-wardens-depth-wardens.svg)
@@ -688,12 +689,12 @@ The Depth Wardens represent the backbone of law and order in Aquabyssos, serving
 - [[The Wandering Atoll]]
 - [[The Whispering Depths]]
 - [[Ambush Point]]
-- [[Bandit Scouts]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Crystalline Depths]]
 - [[Rescue Senator Glaucus]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Maw of Darkness]]
-- [[The Oracle of the Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -718,3 +719,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Depth Wardens]]
 
 <!-- enriched: true -->
+- [[Port Meridian]]
+- [[The Hadal Depths]]

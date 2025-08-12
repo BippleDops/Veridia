@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.761546+00:00'
-created: '2025-08-11T13:08:49.761546+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-nerissa-deepcurrent-nerissa-deepcurrent.svg)
@@ -35,13 +36,13 @@ Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was 
 ## Political Position
 
 ### Allies
-- **[[Commander Varek Irontrident]]** - Military commander, trusted but stubborn
+- **[[02_Worldbuilding/Quests/Aquabyssos]]** - Military commander, trusted but stubborn
 - **[[Master of Currents Zephyr]]** - Chief advisor, childhood friend
 - **[[The Pearl Guard]]** - Elite protectors
 
 ### Rivals
 - **[[02_Worldbuilding/People/The_Crimson_Pearl]]** - Necessary evil, controls too much trade
-- **[[Prophet Miralyn Surfacer]]** - Dangerous idealist threatening stability
+- **[[02_Worldbuilding/Quests/Aquabyssos]]** - Dangerous idealist threatening stability
 - **[[Aboleth Prime Yoth]]** - Ancient threat that must be contained
 
 ### Neutral Parties
@@ -102,7 +103,7 @@ She seeks a third option but hasn't found it.
 
 ## Relationships
 
-### [[Commander Varek Irontrident]]
+### [[02_Worldbuilding/Quests/Aquabyssos]]
 "My strong right hand, even when it forms a fist against me."
 - Respects his dedication
 - Frustrated by his rigid thinking
@@ -114,7 +115,7 @@ She seeks a third option but hasn't found it.
 - Has evidence of her crimes but can't act
 - Secretly admires her effectiveness
 
-### [[Prophet Miralyn Surfacer]]
+### [[02_Worldbuilding/Quests/Aquabyssos]]
 "She speaks truths I dare not think."
 - Was once her student
 - Sees her younger self in Miralyn
@@ -216,3 +217,14 @@ Legends speak of Nerissa Deepcurrent as a nexus where past and present converge.
 - [[02_Worldbuilding/People/Nerissa_Deepcurrent]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Aboleth Prime Yoth]]
+- [[Emperor Thalassius the Wise]]
+- [[Emperor Thalassius]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[The Depth Wardens]]
+- [[The Heart of Oceanus]]
+- [[The Maw of Darkness]]

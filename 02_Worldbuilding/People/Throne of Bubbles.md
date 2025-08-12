@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.664236+00:00'
-created: '2025-08-11T13:08:49.664236+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -9,6 +9,7 @@ tags:
 type: NPC
 cr: '20'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-abyssos-prime-throne-of-bubbles-abyssos-prime-throne-of-bubbles.svg)
@@ -310,3 +311,4 @@ Legends speak of Throne of Bubbles as a nexus where past and present converge. L
 - [[02_Worldbuilding/People/Throne of Bubbles]]
 
 <!-- enriched: true -->
+- [[Parliament of Echoes]]

@@ -6,9 +6,10 @@ tags:
 type: NPC
 world: Both Worlds
 status: draft
-created: '2025-08-11T13:08:45.833450+00:00'
-updated: '2025-08-11T13:08:49.864220+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 
@@ -57,3 +58,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/God-King Aetheron]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Final Choice]]
+- [[The Threshold]]

@@ -7,13 +7,13 @@ tags:
 - region
 aliases:
 - Cerulean Archipelago
-created: 2025-07-23 16:10
+created: 2025-07-23
 modified: 2025-07-23 16:10
 MyContainer: None
 MyCategory: Unknown - Category/Place
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:50.131147+00:00'
+updated: 2025-08-11
 status: draft
 danger_level: Moderate
 ---

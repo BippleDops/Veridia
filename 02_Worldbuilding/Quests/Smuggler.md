@@ -19,6 +19,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-hidden-smuggler-s-cove-hidden-smuggler-s-cove.svg)
 
@@ -372,3 +373,13 @@ Legends speak of Smuggler as a nexus where past and present converge. Locals des
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Traveling Merchant Finn]]
+
+
+## Connections
+
+- [[Abyssos Prime]]
+- [[Aethermoor]]
+- [[Smuggler's Cove]]
+- [[The Lock]]
+- [[Rescue Senator Glaucus]]
+- [[Traveling Merchant Finn]]

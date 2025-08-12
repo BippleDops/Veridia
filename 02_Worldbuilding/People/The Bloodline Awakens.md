@@ -21,7 +21,7 @@ manifestation_rate: Rare but Increasing
 location: Scattered throughout Aquabyssos
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.917725+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait

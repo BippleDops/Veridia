@@ -4,6 +4,7 @@ type: mechanics
 status: complete
 tags: [mechanics, vehicles, airships, catalog]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Aethermoor Airships Catalog (60)
@@ -90,3 +91,7 @@ Legends speak of Aethermoor Airships Catalog as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[03_Mechanics/Vehicles/Vehicles_Index]]

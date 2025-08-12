@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:51.325989+00:00'
-created: '2025-08-11T13:08:51.325989+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: Group
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-carrion-court-the-carrion-court.svg)
@@ -238,3 +239,12 @@ Legends speak of The Carrion Court as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Shadow Markets New]]
+
+
+## Connections
+
+- [[Crystal Wardens]]

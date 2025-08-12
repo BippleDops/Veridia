@@ -21,11 +21,12 @@ alignment: Chaotic Neutral
 location: '[[The Ossuary Gardens]] - Living Architecture Wing'
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.661988+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-abyssal-cathedral-abyssal-cathedral.svg)
@@ -300,3 +301,9 @@ Legends speak of Abyssal Cathedral as a nexus where past and present converge. L
 - [[02_Worldbuilding/People/Abyssal Cathedral]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Memory Harvester Kythara]]
+- [[Parliament of Echoes]]

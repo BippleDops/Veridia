@@ -15,7 +15,7 @@ type: Lore
 danger_level: 10
 created_by: worldbuilder
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.343393+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Lore/Deep Mother]]'
 - '[[02_Worldbuilding/People/Aboleth Prime Yoth]]'
@@ -118,7 +118,7 @@ The Mind Mazes serve as both plot devices and psychological exploration tools, c
 - [[02_Worldbuilding/Groups/The Shadow Conspiracy]] investigations into missing persons
 - [[02_Worldbuilding/Lore/Memory Alterations]] research and ethical implications
 - [[02_Worldbuilding/Places/Parliament of Echoes]] debates on mental sovereignty rights
-- [[02_Worldbuilding/Lore/Sanity System]] mechanics for prolonged psychological stress
+- [[02_Worldbuilding/Quests/Aquabyssos]] mechanics for prolonged psychological stress
 
 ## Player-Facing Summary
 
@@ -139,3 +139,7 @@ Legends speak of Aboleth Mind Mazes as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Abyssal Academy]]

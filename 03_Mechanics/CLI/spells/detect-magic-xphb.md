@@ -46,7 +46,8 @@ classes:
 aliases:
 - Detect Magic
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Detect Magic
@@ -87,3 +88,7 @@ Legends speak of detect magic xphb as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014]]

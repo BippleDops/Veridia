@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.838357+00:00'
-created: '2025-08-11T13:08:49.838357+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-his-own-shadow-his-own-shadow.svg)
@@ -178,3 +179,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/His Own Shadow]]
 
 <!-- enriched: true -->
+- [[Memory Merchant Valeria Siltweave]]
+- [[The Waking Prophets]]

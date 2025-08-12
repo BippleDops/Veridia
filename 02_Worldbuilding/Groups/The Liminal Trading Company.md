@@ -22,8 +22,9 @@ influence: Significant (controls cross-realm commerce)
 purpose: Profit from inter-dimensional trade
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:51.385573+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-liminal-trading-company-the-liminal-trading-company.svg)
@@ -457,8 +458,8 @@ The Company ultimately envisions itself as the foundation of a unified multi-dim
 - [[The Tidepool Markets]]
 - [[Goldspire Confederacy]]
 - [[Quest - The Convergence Crisis]]
-- [[Quest - The Memory Bridge]]
-- [[Quest - The Shard-Shadow Resonance]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -469,3 +470,9 @@ The Liminal Trading Company is a undersea element of the setting, known for biol
 Legends speak of The Liminal Trading Company as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Liminal Trading Company.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[Memory Farmers]]
+- [[The Floating Market]]

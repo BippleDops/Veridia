@@ -9,6 +9,7 @@ tags:
 type: NPC
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-emperor-thalassius-the-wise-emperor-thalassius-the-wise.svg)
 
@@ -186,7 +187,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - [[The Sorrowmaster]]
 - [[Senator's Private Chambers]]
 - [[Vault Breach]]
-- [[The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix]]
 
 ## Player-Facing Summary
@@ -212,3 +213,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
 
 <!-- enriched: true -->
+- [[Purist Coalition]]
+- [[The Parliament of Nobody]]
+- [[The Shadow-Crystal Synthesis]]
+- [[Deep Mother]]
+- [[Aboleth Prime Yoth]]
+- [[Queen Seraphina Lumengarde]]
+- [[The Crimson Shard Guardian]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Abyssos Prime - Inverse Palace]]
+- [[Aethermoor]]
+- [[Commander Typhoon Blackheart]]
+- [[Memory Merchant Zephyr Mindweaver]]

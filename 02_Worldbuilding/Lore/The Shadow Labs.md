@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Aquabyssos
 status: draft
-created: '2025-08-11T13:08:45.873075+00:00'
-updated: '2025-08-11T13:08:48.756885+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -34,3 +35,12 @@ Legends speak of The Shadow Labs as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Forgetting Bomb]]
+
+
+## Connections
+
+- [[The Forgetting Bomb]]

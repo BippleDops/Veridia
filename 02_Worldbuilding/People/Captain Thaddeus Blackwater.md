@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:50.011019+00:00'
-created: '2025-08-11T13:08:50.011019+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg)
@@ -198,7 +199,7 @@ Finding him is a major quest involving:
 
 ## Related Quests
 - [[Quest - The Lost Expedition]] - Find him
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - His mission
+- [[02_Worldbuilding/Quests/Aquabyssos]] - His mission
 - [[Quest - Into the Wastes]] - Follow route
 
 ## If He Returns
@@ -233,3 +234,6 @@ Legends speak of Captain Thaddeus Blackwater as a nexus where past and present c
 - [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]
 
 <!-- enriched: true -->
+- [[Admiral Cassandra Stormwind]]
+- [[Elder Matthias Stoneward]]
+- [[Quest - The Lost Expedition]]

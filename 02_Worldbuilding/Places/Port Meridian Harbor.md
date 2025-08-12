@@ -10,13 +10,14 @@ status: complete
 world: Aquabyssos
 type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
+created: 2025-08-12
 MyContainer: None
 MyCategory: Location
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.882206+00:00'
+updated: 2025-08-12
 danger_level: Moderate
 ---
+
 
 
 
@@ -179,3 +180,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Port Meridian Harbor]]
 
 <!-- enriched: true -->
+- [[Aetheric Wind Songs]]
+- [[Goldwave Manor]]
+- [[Aethermoor]]
+- [[Ancient Tunnels Beneath Palace]]
+- [[Depth Wardens]]
+- [[Harbormaster Erik Saltbeard]]
+- [[Parliament of Echoes]]
+- [[The Void Touched Depths]]

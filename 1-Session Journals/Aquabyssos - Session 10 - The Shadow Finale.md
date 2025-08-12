@@ -1,13 +1,14 @@
 ---
 world: Aquabyssos
-updated: '2025-08-11T13:08:46.998676+00:00'
-created: '2025-08-11T13:08:46.998676+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - aquabyssos
 - draft
 type: Lore
 ---
+
 
 
 
@@ -252,3 +253,12 @@ The last words belong to the party member who sacrificed the most: [Player narra
 *"In Aquabyssos, we learned that drowning isn't about water—it's about losing yourself so completely that someone else has to remember who you were. But shadows... shadows remember everything, even the light that cast them."*
 
 **- End of Campaign -**
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]
+
+
+## Connections
+
+- [[Deep Mother]]

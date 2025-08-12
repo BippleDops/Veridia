@@ -15,7 +15,7 @@ world: Aquabyssos
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.572058+00:00'
+updated: 2025-08-11
 npc_type: Master Biomancer
 organization: Independent Research Specialist
 danger_level: Extreme
@@ -505,3 +505,7 @@ Legends speak of Biomancer Corvus Intestinal as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Enhancement Ethics Advisor]]

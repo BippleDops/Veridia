@@ -10,11 +10,11 @@ status: complete
 world: Aquabyssos
 type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Lore
+created: 2025-08-11
 MyContainer: None
 MyCategory: Events
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.623917+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait
@@ -162,3 +162,4 @@ Legends speak of The Stolen Anvil as a nexus where past and present converge. Lo
 - [[02_Worldbuilding/People/The Stolen Anvil]]
 
 <!-- enriched: true -->
+iched: true -->

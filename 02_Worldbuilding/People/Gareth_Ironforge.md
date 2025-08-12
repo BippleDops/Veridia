@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.648743+00:00'
-created: '2025-08-11T13:08:49.648743+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-gareth-ironforge-gareth-ironforge.svg)
@@ -26,7 +27,7 @@ Gareth came to the Market District fifteen years ago after his clan's mountain h
 
 ## Relationships
 ### Allies
-- **[[Elena Starweaver]]** - Regular customer and friend
+- **[[02_Worldbuilding/Quests/Aquabyssos]]** - Regular customer and friend
 - **[[Mayor Thompson]]** - Political ally
 
 ### Business Partners
@@ -39,7 +40,7 @@ Gareth came to the Market District fifteen years ago after his clan's mountain h
 - Training his son in the craft
 
 ## Quest Hooks
-- **[[02_Worldbuilding/Quests/Find_the_Missing_Caravan]]** - His shipment has gone missing
+- **[[02_Worldbuilding/Quests/Aquabyssos]]** - His shipment has gone missing
 - **[[The Stolen Anvil]]** - Family heirloom was taken
 
 
@@ -95,3 +96,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Gareth_Ironforge]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Mayor Thompson]]
+- [[The Stolen Anvil]]

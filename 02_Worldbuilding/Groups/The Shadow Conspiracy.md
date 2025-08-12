@@ -19,11 +19,12 @@ influence: Continental (Hidden)
 wealth: Stolen from originals
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.289462+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-shadow-conspiracy-the-shadow-conspiracy.svg)
@@ -442,3 +443,6 @@ Legends speak of The Shadow Conspiracy as a nexus where past and present converg
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Tenebrarum]]
+- [[Depth Merchants]]
+- [[Memory Farmers]]

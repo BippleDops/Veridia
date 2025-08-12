@@ -1,4 +1,6 @@
 ---
+updated: 2025-08-11
+created: 2025-08-11
 tags: [one-shot]
 status: "complete"
 world: "Universal"

@@ -23,7 +23,7 @@ danger_level: Moderate-High
 population: 50+ (scholars, guardians, spirits)
 age: 800+ years old
 created: 2025-08-10
-updated: '2025-08-11T13:08:50.135631+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[Scholar Emperor Thalassius the Wise]]'
 - '[[02_Worldbuilding/Groups/The Scribes'' Covenant]]'
@@ -846,8 +846,8 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - [[Aboleth Adjunct Yzz]]
 - [[Abyssos Prime - Pressure Terminal]]
 - [[Amnesia Gallery]]
-- [[Maelstrom Palace]]
-- [[The_Second_Rising]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

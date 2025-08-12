@@ -2,13 +2,20 @@
 title: Vehicle Core Rules
 type: mechanics
 status: complete
-tags: [mechanics, vehicles, core, rules, fleets]
+tags:
+- mechanics
+- vehicles
+- core
+- rules
+- fleets
 created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 # Vehicle Core Rules
 
-These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (airships), and Merger Zones (impossible vessels), integrating with [[Complete Pressure Adaptation System]], [[Complete Reality Merger System]], [[Sanity System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], and [[Deep Mother]].
+These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (airships), and Merger Zones (impossible vessels), integrating with [[Complete Pressure Adaptation System]], [[Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], and [[Deep Mother]].
 
 ## 1) Vehicle Stat Block
 - Class: Scout, Frigate, Cruiser, Carrier, Leviathan
@@ -134,3 +141,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Campaign_Dashboard]]
+
+
+## Connections
+
+- [[Mass_Combat_Evolution]]
+- [[Aquabyssos_Submarines]]
+- [[Player_Handout_Aquabyssos_Submarines]]
+- [[Pressure_Weather_Events]]

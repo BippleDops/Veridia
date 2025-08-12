@@ -23,11 +23,12 @@ influence: Low
 danger_level: None
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.973130+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Embassy Staff
 obsidianUIMode: preview
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-concierge-phillip-gracewater-concierge-phillip-gracewater.svg)
@@ -170,3 +171,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Concierge Phillip Gracewater]]
 
 <!-- enriched: true -->
+- [[Abyssos Prime]]
+- [[Aethermoor]]
+- [[Ambassador Lysandra Silvertonge]]

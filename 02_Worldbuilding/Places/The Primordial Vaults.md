@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:50.301978+00:00'
-created: '2025-08-11T13:08:50.301978+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -9,6 +9,7 @@ tags:
 type: Location
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-primordial-vaults-the-primordial-vaults.svg)
@@ -188,3 +189,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Primordial Vaults]]
 
 <!-- enriched: true -->
+- [[Order of the Sunken Crown]]
+- [[Anti-Priest Nullus]]
+- [[Memory Heist]]
+- [[Temporal Rescue]]
+- [[The Deepmind]]
+- [[The First Failure]]
+- [[The First Truth]]
+- [[The Forgotten One]]
+- [[The Thirteen Keys]]
+- [[Vault Keeper Eternal]]

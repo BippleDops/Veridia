@@ -20,6 +20,7 @@ created: 2025-08-09
 updated: 2025-08-11
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-memory-merchant-valeria-siltweave-memory-merchant-valeria-siltweave.svg)
 
@@ -471,7 +472,7 @@ Full-scale conflict erupts between ethical and exploitative memory factions. Val
 - [[Surface Ambassador Lord Seaworthy]]
 - [[The Cerulean Breath]]
 - [[The Sorrowmaster]]
-- [[Quest - The Memory Bridge]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix]]
 
 ## Player-Facing Summary
@@ -487,3 +488,9 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 - [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
 
 <!-- enriched: true -->
+- [[Silverscale Consortium]]
+- [[Memory Harvester Kythara]]
+- [[Pressure Angel Benthia]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Memory Farmers]]
+- [[The Hadal Depths]]

@@ -40,6 +40,7 @@ related_entities:
 
 
 
+
 # Eastern Kingdoms
 *The Maritime Empire of the Rising Sun*
 
@@ -1364,3 +1365,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Continental War]]
+- [[The Bathyal Succession]]
+- [[The Great Convergence Prophecies]]
+- [[The Great Crystallization]]
+- [[The Shattering of the Crown]]
+- [[Aethermoor]]

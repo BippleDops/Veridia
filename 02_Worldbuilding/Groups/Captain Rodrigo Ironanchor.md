@@ -19,7 +19,7 @@ influence: Maritime (Coastal waters and shipping lanes)
 wealth: Substantial (mercenary contracts and salvage)
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.388656+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview

@@ -6,9 +6,10 @@ tags:
 type: Group
 world: Aquabyssos
 status: draft
-created: '2025-08-11T13:08:46.062405+00:00'
-updated: '2025-08-11T13:08:51.346424+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -49,3 +50,12 @@ Legends speak of Quest   Parliamentary Corruption as a nexus where past and pres
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Original Glaucus]]
+
+
+## Connections
+
+- [[Original Glaucus]]

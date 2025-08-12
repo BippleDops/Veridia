@@ -6,13 +6,13 @@ tags:
 - faction
 - mercantile
 aliases: []
-created: 2025-07-23 15:40
+created: 2025-07-23
 modified: 2025-07-23 15:40
 MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:51.182661+00:00'
+updated: 2025-08-11
 status: draft
 ---
 
@@ -54,3 +54,7 @@ Legends speak of Port Sorrow Trading Company as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Dr. Siphon Gillwater]]

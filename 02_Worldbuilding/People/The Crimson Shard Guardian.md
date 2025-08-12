@@ -17,9 +17,10 @@ race: Corrupted Water Elemental
 location: '[[02_Worldbuilding/Places/Port Meridian]] Harbor (Sunken Ship)'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.689617+00:00'
+updated: 2025-08-11
 cr: '18'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-crimson-shard-guardian-the-crimson-shard-guardian.svg)
@@ -496,3 +497,4 @@ Legends speak of The Crimson Shard Guardian as a nexus where past and present co
 - [[02_Worldbuilding/People/The Crimson Shard Guardian]]
 
 <!-- enriched: true -->
+- [[Harbor Master Luna Freedrift]]

@@ -18,8 +18,9 @@ race: Pressure Angel (Divine Being)
 location: '[[02_Worldbuilding/Places/The Hadal Depths]] - Pressure Nexus Points'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.928227+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)
@@ -492,8 +493,8 @@ Benthia needs mortals to serve as her representatives in negotiations with surfa
 
 - [[Memory Merchant Valeria Siltweave]]
 - [[Quest - The Convergence Crisis]]
-- [[Quest - The Memory Bridge]]
-- [[Quest - The Shard-Shadow Resonance]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -508,3 +509,10 @@ Legends speak of Pressure Angel Benthia as a nexus where past and present conver
 - [[02_Worldbuilding/People/Pressure Angel Benthia]]
 
 <!-- enriched: true -->
+- [[Aboleth Prime Yoth]]
+- [[Archivist Mnemonic the Forgotten]]
+- [[Captain Nautilus the Deep Wanderer]]
+- [[Memory Harvester Kythara]]
+- [[The Scattered Emperor]]
+- [[The Shadow Singer Naia]]
+- [[The Hadal Depths]]

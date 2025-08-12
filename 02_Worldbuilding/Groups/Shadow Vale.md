@@ -19,7 +19,7 @@ influence: Local district (Shadow Vale neighborhood)
 wealth: Modest (community resources and mutual aid)
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.398366+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -458,3 +458,7 @@ Shadow Vale is a undersea element of the setting, known for bioluminescent glow 
 Legends speak of Shadow Vale as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Vale.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]

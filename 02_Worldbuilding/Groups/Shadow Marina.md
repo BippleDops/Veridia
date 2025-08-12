@@ -19,7 +19,7 @@ influence: Coastal regions and sea routes
 wealth: Substantial (shadow trade and smuggling)
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.201508+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -456,3 +456,7 @@ Shadow Marina is a undersea element of the setting, known for bioluminescent glo
 Legends speak of Shadow Marina as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Marina.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Groups/Bexley]]

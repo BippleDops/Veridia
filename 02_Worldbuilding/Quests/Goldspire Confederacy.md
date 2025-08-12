@@ -34,7 +34,7 @@ obsidianUIMode: preview
 
 The [[Goldspire Confederacy]], Aethermoor's premier crystal trading alliance, teeters on the brink of collapse as shadow corruption spreads through their crystal mines and memory-altering magic clouds the minds of their leadership. Strange reports emerge from the Confederacy's heartland: miners losing entire days of memory, crystal formations turning black with corruption, and whispers of a forgotten [[Seven Shards of the Crown of Stars|Shard of the Crown of Stars]] hidden deep beneath their primary excavation site.
 
-The quest begins when the party encounters [[Caravan Master Dolrim]], a desperate trader whose entire crystal shipment has become corrupted with shadow magic. He speaks of the Confederacy's leadership acting strangely, making decisions that seem to benefit their enemies, and of mining operations that have uncovered something that should have remained buried. As the party investigates, they'll discover that the corruption isn't random—it's deliberately orchestrated by agents of [[The Convergence Crisis|The Convergence]], who seek to claim one of the legendary Crown Shards and use the Confederacy's resources to further their reality-warping agenda.
+The quest begins when the party encounters [[02_Worldbuilding/Quests/Aquabyssos]], a desperate trader whose entire crystal shipment has become corrupted with shadow magic. He speaks of the Confederacy's leadership acting strangely, making decisions that seem to benefit their enemies, and of mining operations that have uncovered something that should have remained buried. As the party investigates, they'll discover that the corruption isn't random—it's deliberately orchestrated by agents of [[The Convergence Crisis|The Convergence]], who seek to claim one of the legendary Crown Shards and use the Confederacy's resources to further their reality-warping agenda.
 
 The quest interweaves themes of economic warfare, memory manipulation, and the dangerous allure of power. Players must navigate complex political relationships between Confederacy member states, each with their own agendas and secrets. They'll face corrupted crystal constructs, shadow-touched miners driven to madness, and ultimately confront a high-ranking Confederacy official whose identity has been completely overwritten by [[Marina]]'s fractured memories.
 
@@ -165,7 +165,7 @@ Ultimately, the Goldspire Confederacy Crisis serves as both a standalone adventu
 ### Phase 1: The Corrupted Caravan (Sessions 1-2)
 
 **Opening Scene**
-The party encounters [[Caravan Master Dolrim]] on the road to [[Goldspire Confederacy]] territory. His convoy of crystal-laden wagons has come to a halt as the crystals begin emanating dark energy and whispering in unknown tongues. Several of his guards have fled in terror, and those remaining show signs of memory loss and confusion.
+The party encounters [[02_Worldbuilding/Quests/Aquabyssos]] on the road to [[Goldspire Confederacy]] territory. His convoy of crystal-laden wagons has come to a halt as the crystals begin emanating dark energy and whispering in unknown tongues. Several of his guards have fled in terror, and those remaining show signs of memory loss and confusion.
 
 **Key Events:**
 - Investigation of the corrupted crystals reveals shadow magic infusion
@@ -643,7 +643,7 @@ This quest can connect to larger campaign themes:
 ### Hook 1: The Desperate Merchant
 *"Please, you must help me! My entire livelihood—my family's future—it's all corrupted, turned to shadow and whispers. The Confederacy officials claim it's natural degradation, but I know crystal, and crystal doesn't whisper secrets of the dead!"*
 
-[[Caravan Master Dolrim]] approaches the party directly, having heard of their reputation for solving unusual problems. His desperation is genuine, but he's also holding back the full truth about how long he's been transporting corrupted materials. This hook works well for parties who prefer straightforward quest-giving NPCs and want to start with a clear objective.
+[[02_Worldbuilding/Quests/Aquabyssos]] approaches the party directly, having heard of their reputation for solving unusual problems. His desperation is genuine, but he's also holding back the full truth about how long he's been transporting corrupted materials. This hook works well for parties who prefer straightforward quest-giving NPCs and want to start with a clear objective.
 
 **Development:** Dolrim's situation becomes more complex as the party discovers his unwitting complicity in the corruption's spread. This creates moral complexity as they must decide whether to treat him as victim or accomplice.
 

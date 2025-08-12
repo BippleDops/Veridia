@@ -6,7 +6,8 @@ tags:
 aliases:
 - Roleplaying a Mind Flayer; Mind Flayer Personality Traits
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Roleplaying a Mind Flayer; Mind Flayer Personality Traits

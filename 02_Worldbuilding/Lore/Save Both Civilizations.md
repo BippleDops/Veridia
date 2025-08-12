@@ -27,6 +27,7 @@ threat_level: Existential
 
 
 
+
 # Save Both Civilizations
 *The Ultimate Unity Challenge*
 
@@ -386,3 +387,13 @@ Legends speak of Save Both Civilizations as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Chancellor Marina Depthcaller]]
+
+
+## Connections
+
+- [[United Councils of Both Worlds]]
+- [[Aethermoor]]

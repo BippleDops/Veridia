@@ -18,7 +18,7 @@ era: The Continental Wars
 builders: '[[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers]]'
 current_status: Partially Collapsed, Some Sections Active
 created: 2025-08-09
-updated: '2025-08-11T13:08:48.591203+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Lore/Continental War]]'
 - '[[02_Worldbuilding/Places/Port Meridian]]'
@@ -193,7 +193,7 @@ EOF < /dev/null
 
 ## Connections
 
-- [[Bandit Scouts]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Rescue Senator Glaucus]]
 - [[Campaign_Relationship_Matrix]]
 

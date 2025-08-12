@@ -19,11 +19,12 @@ influence: International (Aethermoor and Aquabyssos)
 wealth: Exceptional (luxury goods monopoly)
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.360667+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-lady-venetia-silkwind-lady-venetia-silkwind.svg)
@@ -246,7 +247,7 @@ The Guild receives a prestigious commission to create textiles for a major royal
 - [[Merchant Princes]]
 - [[Port Meridian]]
 - [[The Grand Bazaar of Echoing Coins]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix]]
 
 ## Player-Facing Summary
@@ -272,3 +273,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_People_Index]]
+- [[Silverscale Consortium]]

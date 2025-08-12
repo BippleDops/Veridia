@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.190525+00:00'
-updated: '2025-08-11T13:08:50.669470+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg)
@@ -58,3 +59,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Seven Shards]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Palace Courtyard - Crystal Garden]]
+- [[Surface Portal Alpha]]
+- [[The Foundation Depths]]
+- [[The Gilded Shard]]
+- [[Throne Room - Heart of Palace]]
+- [[Crystalline Depths]]
+- [[Find the Grief Bomb]]
+- [[The Lock Saboteur]]
+- [[The Maw of Darkness]]
+- [[Campaign_Relationship_Matrix]]

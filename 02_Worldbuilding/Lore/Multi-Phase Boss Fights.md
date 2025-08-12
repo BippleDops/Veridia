@@ -21,6 +21,7 @@ updated: 2025-08-11
 
 
 
+
 # Multi-Phase Boss Fights
 *Epic Encounters Across the Merged Realms*
 
@@ -786,7 +787,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 ### Related Mechanics
 - **[[Environmental Hazards]]**: Phase-based environmental complications
 - **[[Initiative Tracker]]**: Managing complex multi-phase turn orders
-- **[[Sanity System]]**: Psychological effects of reality-warping phase transitions
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Psychological effects of reality-warping phase transitions
 - **[[Memory Alterations]]**: Memory-based phase triggers and effects
 - **[[Temporal Distortion Zones]]**: Time-manipulation phase mechanics
 
@@ -837,3 +838,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Temporal Distortion Zones]]

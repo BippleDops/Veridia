@@ -50,10 +50,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: '2025-08-11T13:08:46.991547+00:00'
-created: '2025-08-11T13:08:46.991547+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 ---
+
 
 
 
@@ -332,3 +333,20 @@ Each character gains:
 ---
 
 *"In the depths, your shadow is your first betrayal."*
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]
+
+
+## Connections
+
+- [[Shadow Ambush - Optional]]
+- [[Pressure Tube Operator Krill]]
+- [[Marina Red Tide Coralheart - Aquabyssos]]
+- [[Throne of Bubbles]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Discover Shadow Market Location]]
+- [[Inverted Ballroom Wing - Party Quarters]]
+- [[Inverted Ballroom Wing]]
+- [[Parliament of Echoes - Public Gallery]]

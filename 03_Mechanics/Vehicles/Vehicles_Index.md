@@ -10,11 +10,12 @@ tags:
   - fleets
   - travel
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Vehicle Systems Index
 
-Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and Aethermoor. Every system below integrates with: [[Complete Pressure Adaptation System]], [[Complete Reality Merger System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[Sanity System]], and [[Deep Mother]].
+Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and Aethermoor. Every system below integrates with: [[Complete Pressure Adaptation System]], [[Complete Reality Merger System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[02_Worldbuilding/Quests/Aquabyssos]], and [[Deep Mother]].
 
 ## Core Vehicle Rules
 - [[Vehicle_Core_Rules]] — Universal stats, piloting, pressure/altitude, sanity, memory engines, reality stability, crew roles, 3D movement, and combat phases.
@@ -102,7 +103,7 @@ SORT file.name ASC
 - Pressure/Altitude: [[Complete Pressure Adaptation System]] • [[Depth Survival Mechanics]]
 - Reality Stability & Anchors: [[Complete Reality Merger System]]
 - Warfare & Fleets: [[Complete Faction Warfare System]]
-- Sanity & Horror: [[Sanity System]]
+- Sanity & Horror: [[02_Worldbuilding/Quests/Aquabyssos]]
 - Memory Engines/Charts: [[Memory Trading Economy System|Memory Trading Economy]]
 - Eldritch Influence: [[Deep Mother]]
 
@@ -125,3 +126,7 @@ Legends speak of Vehicles Index as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Campaign_Index]]

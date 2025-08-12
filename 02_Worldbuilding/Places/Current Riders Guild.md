@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:50.974001+00:00'
-created: '2025-08-11T13:08:50.974001+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -9,6 +9,7 @@ tags:
 type: Location
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-current-riders-guild-current-riders-guild.svg)
@@ -130,7 +131,7 @@ The Current Riders Guild maintains outposts in [[Port Abyssos]], [[The Twilight 
 
 - [[Coral Throne Syndicate]]
 - [[Pearl_Harbor_City]]
-- [[Bandit Leader Scarface]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Rescue Senator Glaucus]]
 
 
@@ -192,3 +193,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Current Riders Guild]]
 
 <!-- enriched: true -->
+- [[The Depth Plague]]

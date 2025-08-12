@@ -11,11 +11,11 @@ status: complete
 world: Aethermoor
 type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/People
+created: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.459000+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
 
@@ -173,3 +173,4 @@ Legends speak of Elder Matthias Stoneward as a nexus where past and present conv
 - [[02_Worldbuilding/Places/Elder Matthias Stoneward]]
 
 <!-- enriched: true -->
+nriched: true -->

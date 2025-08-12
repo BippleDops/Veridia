@@ -21,7 +21,7 @@ race: Primordial Entity
 location: The Deepest Depths of All Oceans
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.910353+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview

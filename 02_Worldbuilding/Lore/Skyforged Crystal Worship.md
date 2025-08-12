@@ -27,6 +27,7 @@ updated: 2025-08-11
 ---
 
 
+
 # Skyforged Crystal Worship
 *The Sacred Technology of Divine Light*
 
@@ -66,3 +67,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+
+
+## Connections
+
+- [[Aethermoor]]

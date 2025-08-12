@@ -53,15 +53,16 @@ secrets:
 - Can reunite but will die if maintained
 - Knows identity of all shadow replacements
 - Sees through every creature's eyes near Abyssos Prime
-created: 2025-08-07 - Category/People
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:49.667322+00:00'
+updated: 2025-08-12
 status: draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-scattered-emperor-the-scattered-emperor.svg)
@@ -346,3 +347,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/The Scattered Emperor]]
 
 <!-- enriched: true -->
+- [[Queen Seraphina]]
+- [[Marina Red Tide Coralheart - Aquabyssos]]
+- [[Throne of Bubbles]]

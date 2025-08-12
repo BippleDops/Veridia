@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Aquabyssos
 status: draft
-created: '2025-08-11T13:08:46.124663+00:00'
-updated: '2025-08-11T13:08:47.542772+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-coral-throne-syndicate-the-coral-throne-syndicate.svg)
@@ -38,3 +39,13 @@ Legends speak of Coral Throne as a nexus where past and present converge. Locals
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/The Depth Accords]]
+
+
+## Connections
+
+- [[The Original Palace]]
+- [[The Depth Accords]]

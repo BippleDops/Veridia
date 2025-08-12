@@ -17,7 +17,7 @@ size: Multiple Sites Throughout Realm
 population: Variable (Pilgrims and Researchers)
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.863204+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
 
@@ -288,10 +288,10 @@ Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Pl
 - [[Environmental Hazards]]
 - [[Initiative Tracker]]
 - [[Random Encounters]]
-- [[Sanity System]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Shadow Singer Naia]]
 - [[Quest - Nature's Balance]]
-- [[Quest - The Shard-Shadow Resonance]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

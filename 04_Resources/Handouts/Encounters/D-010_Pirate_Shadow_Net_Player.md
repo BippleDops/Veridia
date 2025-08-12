@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, encounter, depth]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Pirate Shadow Net
@@ -24,3 +25,7 @@ Possible outcomes
 - You clear the way cleanly
 - The ship’s eyes go fuzzy
 - Hooks thud into the hull
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01]]

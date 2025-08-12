@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.247423+00:00'
-updated: '2025-08-11T13:08:50.377933+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 
 ## Overview
@@ -54,3 +55,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Diplomatic Corps]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Eastern Kingdoms]]
+- [[Reputation System]]
+- [[Inverted Ballroom Wing]]
+- [[Keeper of the Past, Elderly Morgan]]
+- [[Mad Oracle Thessaly]]
+- [[The Crystal Wardens]]

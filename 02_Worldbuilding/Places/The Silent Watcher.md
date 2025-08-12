@@ -43,14 +43,15 @@ temporal_stability: 90
 shadow_density: Minimal
 pressure_effects: Extreme
 status: complete
-created: 2025-08-11 - Category/Place
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:50.727419+00:00'
+updated: 2025-08-12
 type: Location
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-silent-watcher-the-silent-watcher.svg)
@@ -401,3 +402,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Silent Watcher]]
 
 <!-- enriched: true -->
+- [[Abyssos Prime]]

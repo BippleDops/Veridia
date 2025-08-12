@@ -15,13 +15,14 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:47.582343+00:00'
+updated: 2025-08-11
 structure_type: Campaign Framework
 scope: Both Worlds
 purpose: Campaign Resolution
 usage: Epilogue Guidance
 timeframe: Post-Campaign
 ---
+
 
 
 
@@ -243,3 +244,10 @@ Legends speak of Campaign Epilogues as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]
+- [[Eastern Kingdom Fleet]]
+- [[United Councils of Both Worlds]]
+- [[Aethermoor]]

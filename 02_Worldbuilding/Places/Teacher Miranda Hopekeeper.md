@@ -13,12 +13,13 @@ world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.422778+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Academy
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-teacher-miranda-hopekeeper-teacher-miranda-hopekeeper.svg)
@@ -229,3 +230,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
 
 <!-- enriched: true -->
+- [[Aethermoor]]

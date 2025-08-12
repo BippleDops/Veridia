@@ -1,48 +1,58 @@
 ---
-tags: [location, manor, merchant, noble-house, goldwave-family, aethermoor, luxury, financial-power, cross-realm-trade]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-location_name: "Goldwave Manor"
-location_type: "Noble Estate and Financial Complex"
-parent_location: "[[Port Meridian - Market Square]]"
+tags:
+- location
+- manor
+- merchant
+- noble-house
+- goldwave-family
+- aethermoor
+- luxury
+- financial-power
+- cross-realm-trade
+status: complete
+world: Aethermoor
+type: location
+location_name: Goldwave Manor
+location_type: Noble Estate and Financial Complex
+parent_location: '[[Port Meridian - Market Square]]'
 connected_locations:
-  - "[[Port Meridian Harbor]]"
-  - "[[The Royal Palace]]"
-  - "[[Silverscale Banking House]]"
-  - "[[The Shadow Markets]]"
+- '[[Port Meridian Harbor]]'
+- '[[The Royal Palace]]'
+- '[[Silverscale Banking House]]'
+- '[[The Shadow Markets]]'
 sub_locations:
-  - "[[Goldwave Private Offices]]"
-  - "[[The Crystal Conservatory]]"
-  - "[[Aurelius's Private Study]]"
-  - "[[The Vault of Currents]]"
-  - "[[Goldwave Guest Quarters]]"
-owner: "[[Aurelius Goldwave]]"
-architecture: "Crystal and Gold Fusion"
-size: "Large Estate"
-security_level: "High"
-access: "By invitation only"
-wealth_level: "Extreme"
-created_by: "auto-stub"
+- '[[Goldwave Private Offices]]'
+- '[[The Crystal Conservatory]]'
+- '[[Aurelius''s Private Study]]'
+- '[[The Vault of Currents]]'
+- '[[Goldwave Guest Quarters]]'
+owner: '[[Aurelius Goldwave]]'
+architecture: Crystal and Gold Fusion
+size: Large Estate
+security_level: High
+access: By invitation only
+wealth_level: Extreme
+created_by: auto-stub
 created: 2025-08-08
 updated: 2025-08-11
 services:
-  - "Private Banking"
-  - "Investment Consultation"
-  - "Cross-Realm Trade Facilitation"
-  - "High-Society Entertainment"
-  - "Diplomatic Hosting"
+- Private Banking
+- Investment Consultation
+- Cross-Realm Trade Facilitation
+- High-Society Entertainment
+- Diplomatic Hosting
 notable_residents:
-  - "[[Aurelius Goldwave]]"
-  - "[[Lady Serena Goldwave]]"
-  - "[[Master Valet Sterling Currentborn]]"
-current_state: "Thriving financial hub"
+- '[[Aurelius Goldwave]]'
+- '[[Lady Serena Goldwave]]'
+- '[[Master Valet Sterling Currentborn]]'
+current_state: Thriving financial hub
 temporal_stability: 95
-shadow_density: "Low"
+shadow_density: Low
 danger_level: 1
 visited: false
 discovered: false
 ---
+
 
 
 # Goldwave Manor
@@ -150,3 +160,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Campaign_Quick_Reference_Sheets]]
+
+
+## Connections
+
+- [[The Silverscale Conspiracy]]
+- [[Aethermoor - Session 03 Council of Shadows]]

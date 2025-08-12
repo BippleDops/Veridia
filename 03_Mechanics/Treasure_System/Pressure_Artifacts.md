@@ -6,6 +6,7 @@ type: "treasure_catalog"
 rarity_range: "Common to Legendary"
 created_by: "Claude"
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Pressure Artifacts

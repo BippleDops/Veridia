@@ -9,7 +9,8 @@ tags:
 aliases:
 - Horn of Valhalla, Silver
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Horn of Valhalla, Silver

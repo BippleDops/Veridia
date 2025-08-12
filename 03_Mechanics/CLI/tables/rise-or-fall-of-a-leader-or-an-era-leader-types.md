@@ -6,7 +6,8 @@ tags:
 aliases:
 - Rise or Fall of a Leader or an Era; Leader Types
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Rise or Fall of a Leader or an Era; Leader Types

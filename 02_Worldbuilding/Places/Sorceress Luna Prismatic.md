@@ -1,56 +1,15 @@
 ---
-tags:
-- both
-- draft
-- location
-type: Location
-world: Both
-status: draft
-created: '2025-08-11T13:08:46.245871+00:00'
-updated: '2025-08-11T13:08:50.826706+00:00'
-danger_level: Moderate
+created: 2025-08-11
+updated: 2025-08-11
 ---
 
 
-## Overview
-
-TODO
-## History
-
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
-
-## Player-Facing Summary
-
-Sorceress Luna Prismatic is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of Sorceress Luna Prismatic as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sorceress Luna Prismatic.
-
-## Adventure Hooks
-
-- A rumor ties Sorceress Luna Prismatic to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sorceress Luna Prismatic to avert a public scandal.
-- A map overlay reveals a hidden approach to Sorceress Luna Prismatic active only during specific tides/storms.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Sorceress Luna Prismatic]]
+- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
 
-<!-- enriched: true -->
+
+## Connections
+
+- [[Inverted Ballroom Wing]]

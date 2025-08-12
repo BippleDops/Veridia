@@ -9,6 +9,7 @@ tags:
 type: NPC
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-professor-aldric-crystalweaver-professor-aldric-crystalweaver.svg)
 
@@ -361,9 +362,9 @@ His character represents the theme that genius and madness often walk hand-in-ha
 - [[The Void Tears]]
 - [[Aether Crystals]]
 - [[Crystalline Depths]]
-- [[Elena Starweaver]]
-- [[Quest - The Seventh Shard]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix]]
 
 ## Player-Facing Summary
@@ -383,3 +384,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
 
 <!-- enriched: true -->
+- [[Queen Seraphina Lumengarde]]

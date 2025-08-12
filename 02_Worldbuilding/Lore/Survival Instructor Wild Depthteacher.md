@@ -11,6 +11,7 @@ updated: 2025-08-11
 ---
 
 
+
 ## Overview
 
 TODO
@@ -34,3 +35,12 @@ Legends speak of Survival Instructor Wild Depthteacher as a nexus where past and
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Groups/Shadow Ambush - Optional]]
+
+
+## Connections
+
+- [[Shadow Ambush - Optional]]

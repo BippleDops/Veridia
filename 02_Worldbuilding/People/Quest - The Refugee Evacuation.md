@@ -6,9 +6,10 @@ tags:
 type: NPC
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.031493+00:00'
-updated: '2025-08-11T13:08:49.789882+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -56,3 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Quest - The Refugee Evacuation]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Harbor Master Luna Freedrift]]

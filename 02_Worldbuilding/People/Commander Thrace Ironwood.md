@@ -20,6 +20,7 @@ created: 2025-08-09
 updated: 2025-08-11
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-commander-thrace-ironwood-commander-thrace-ironwood.svg)
 
@@ -519,8 +520,8 @@ Thrace plans a massive assault on the [[Crystal Festival]] that could kill thous
 
 - [[Establish the New Order]]
 - [[Quest - The Convergence Crisis]]
-- [[Quest - The Memory Bridge]]
-- [[Quest - The Shard-Shadow Resonance]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -535,3 +536,11 @@ Legends speak of Commander Thrace Ironwood as a nexus where past and present con
 - [[02_Worldbuilding/People/Commander Thrace Ironwood]]
 
 <!-- enriched: true -->
+- [[Purist Coalition]]
+- [[Silverscale Consortium]]
+- [[Brother Marcus Steelbane]]
+- [[Brother Matthias the Amber Bearer]]
+- [[Lady Jade Clawgrip]]
+- [[Queen Seraphina Lumengarde]]
+- [[Aethermoor]]
+- [[The Verdant Reach]]

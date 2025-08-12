@@ -23,6 +23,7 @@ updated: 2025-08-11
 
 
 
+
 # Timeline of the Drowning
 *The Great Submersion That Created Aquabyssos*
 
@@ -591,3 +592,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[The Great Crystallization]]
+- [[Aboleth Prime Yoth]]
+- [[High Priestess Scylla Deepdream]]
+- [[Prophet Nerida Voidgazer]]
+- [[The Scattered Emperor]]
+- [[Parliament of Echoes]]
+- [[The Hadal Depths]]

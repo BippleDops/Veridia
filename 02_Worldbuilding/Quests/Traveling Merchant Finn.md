@@ -22,6 +22,7 @@ obsidianUIMode: preview
 
 
 
+
 # Traveling Merchant Finn
 
 **Type:** Mystery/Investigation/Social Intrigue  
@@ -477,3 +478,10 @@ Legends speak of Traveling Merchant Finn as a nexus where past and present conve
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Ambush Point]]
+- [[The Crystal Festival]]
+- [[Admiral Thorne Blackwater]]
+- [[Abyssos Prime]]
+- [[Aethermoor]]
+- [[Goldspire Port]]
+- [[Smuggler's Cove]]
+- [[The Cerulean Trench]]

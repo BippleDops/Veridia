@@ -10,6 +10,7 @@ type: NPC
 cr: '16'
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-high-priest-dagon-deepcaller-high-priest-dagon-deepcaller.svg)
 
@@ -239,3 +240,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/High Priest Dagon Deepcaller]]
 
 <!-- enriched: true -->
+- [[Crystal Wardens]]

@@ -33,3 +33,7 @@ updated: 2024-01-01
 
 ## map-map-pressure-temple-ruins-v2-pressure-temple-ruins
 ![](04_Resources/Assets/Generated/Maps/map-map-pressure-temple-ruins-v2-pressure-temple-ruins.png)
+
+## Cross-References
+
+- [[04_Resources/Assets/Galleries/Index]]

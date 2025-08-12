@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:51.278246+00:00'
-created: '2025-08-11T13:08:51.278246+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -514,3 +514,7 @@ Legends speak of Merchant's Covenant as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Northgate]]

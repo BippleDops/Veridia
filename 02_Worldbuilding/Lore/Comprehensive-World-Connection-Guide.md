@@ -23,6 +23,7 @@ type: Lore
 
 
 
+
 # Comprehensive World Connection Guide
 ## Aquabyssos & Aethermoor: The Convergence Codex
 
@@ -754,3 +755,21 @@ Legends speak of Comprehensive World Connection Guide as a nexus where past and 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]
+
+
+## Connections
+
+- [[Dawn-Echo Sentinel]]
+- [[Brother Marcus Steelbane]]
+- [[Jasper Three-Eyes Flint]]
+- [[Lord Aurelius Goldwave]]
+- [[Abyssos Prime Docks]]
+- [[Crystal Gardens]]
+- [[Port Meridian Harbor]]
+- [[Pressure Terminal]]
+- [[Royal Palace]]
+- [[The Forgotten Representative]]

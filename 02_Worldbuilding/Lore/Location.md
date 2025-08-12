@@ -10,6 +10,7 @@ created: 2025-08-11
 updated: 2025-08-11
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-aboleth-adjunct-yzz-aboleth-adjunct-yzz.svg)
 
@@ -42,3 +43,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[05_Templates/Templater/New Location]]
+
+
+## Connections
+
+- [[New Location]]
+- [[New NPC]]
+- [[New Quest]]

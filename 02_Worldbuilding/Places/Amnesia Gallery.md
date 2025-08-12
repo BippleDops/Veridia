@@ -18,11 +18,12 @@ owner: '[[Keeper Elara Mindwell]]'
 danger_level: Moderate-High
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.058132+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Memory Gallery
 obsidianUIMode: preview
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-amnesia-gallery-amnesia-gallery.svg)
@@ -363,7 +364,7 @@ The gallery's Collective Consciousness Chamber has begun spontaneously creating 
 
 ### Indirect Connections
 - **[[Scholar Vivienne the Chronicler]]**: Potential researcher or consultant
-- **[[The Sunken Library of Thalassius]]**: Competing repository of knowledge and memories
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Competing repository of knowledge and memories
 - **[[Abyssos Prime]]**: Many visitors and donors come from the capital
 - **[[Memory Meadows]]**: Natural memory phenomenon that may supply raw materials
 
@@ -400,3 +401,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Amnesia Gallery]]
 
 <!-- enriched: true -->
+- [[Scholar Vivienne the Chronicler]]
+- [[Abyssos Prime]]
+- [[Keeper Elara Mindwell]]
+- [[Parliament of Echoes]]
+- [[The Deepmind]]
+- [[The Phosphor Markets]]
+- [[The Sunken Library of Thalassius]]

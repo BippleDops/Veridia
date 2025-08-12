@@ -4,6 +4,7 @@ type: mechanics
 status: complete
 tags: [mechanics, npc, personality]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Dynamic NPC Personality Matrix
@@ -26,7 +27,7 @@ Generates 10,000+ NPC personalities, evolving relationships, dynamic dialogue, q
 ## Emergent Faction Switching
 - Thresholds flipped by ideology shocks and economic pressure
 
-Hooks: [[Complete Faction Warfare System]], [[Sanity System]], [[Memory Trading Economy System|Memory Economy]].
+Hooks: [[Complete Faction Warfare System]], [[02_Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]].
 
 ## Player-Facing Summary
 
@@ -47,3 +48,7 @@ Legends speak of Dynamic NPC Personality Matrix as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[03_Mechanics/Phase_Omega_Enhanced_Index]]

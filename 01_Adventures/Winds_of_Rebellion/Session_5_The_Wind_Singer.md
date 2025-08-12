@@ -8,6 +8,7 @@ session_type: "Mystical Journey & Alliance Building"
 world: "Aethermoor"
 themes: ["ancient-magic", "spiritual-trial", "cultural-heritage", "alliance-building", "power-sacrifice"]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Session 5: The Wind Singer

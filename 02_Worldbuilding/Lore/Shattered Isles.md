@@ -27,6 +27,7 @@ access_restriction: Prohibited Without Authorization
 
 
 
+
 # Shattered Isles
 *The Broken Chain of Underwater Mountains*
 
@@ -396,3 +397,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Quest - The Lost Expedition]]
+- [[Eastern Kingdom Fleet]]
+- [[United Councils of Both Worlds]]

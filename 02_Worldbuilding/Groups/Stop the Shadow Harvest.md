@@ -36,8 +36,9 @@ benefits:
   reward: Advanced anti-shadow technology and resistance network access
 - standing: 3
   reward: Council membership and covert operations authority
-updated: '2025-08-11T13:08:51.286784+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-stop-the-shadow-harvest-stop-the-shadow-harvest.svg)
@@ -407,3 +408,32 @@ Legends speak of Stop the Shadow Harvest as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]
+
+
+## Connections
+
+- [[Ancient Mer-Folk Empire]]
+- [[Crystal Wardens]]
+- [[Independent Smugglers]]
+- [[Merchant Princes]]
+- [[Party Shadows]]
+- [[Purist Coalition]]
+- [[Shadow Independence Levels]]
+- [[Shadow Surgeons Collective]]
+- [[Temple of Divine Order]]
+- [[The Crown Authority]]
+- [[The Deepwatch Guard]]
+- [[The Seekers' Guild]]
+- [[The Shadow Conspiracy]]
+- [[The Void Watchers]]
+- [[The Whisper Syndicate]]
+- [[Brother Matthias the Amber Bearer]]
+- [[Scholar Vivienne the Chronicler]]
+- [[New Thalassopolis]]
+- [[Parliament of Echoes]]
+- [[The Memory Meadows]]
+- [[The Primordial Vaults]]

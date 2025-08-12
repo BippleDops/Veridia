@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, encounter, sky]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Choir Pirates
@@ -24,3 +25,7 @@ Possible outcomes
 - The chord breaks and they falter
 - The song stuns for a heartbeat
 - Grapnels bite the rails
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01]]

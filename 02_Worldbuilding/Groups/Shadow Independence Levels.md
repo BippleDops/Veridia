@@ -36,8 +36,9 @@ benefits:
   reward: Advanced shadow abilities development and community protection
 - standing: 3
   reward: Council membership consideration and shadow realm territory rights
-updated: '2025-08-11T13:08:51.505600+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-independence-levels-shadow-independence-levels.svg)
@@ -378,3 +379,26 @@ Legends speak of Shadow Independence Levels as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Ancient Mer-Folk Empire]]
+- [[Crystal Wardens]]
+- [[Merchant Princes]]
+- [[Party Shadows]]
+- [[Purist Coalition]]
+- [[Shadow Surgeons Collective]]
+- [[Shadow Vale]]
+- [[Temple of Divine Order]]
+- [[The Crown Authority]]
+- [[The Deepwatch Guard]]
+- [[The Leviathan Cult]]
+- [[The Parliament of Nobody]]
+- [[The Seekers' Guild]]
+- [[The Shadow Conspiracy]]
+- [[The Void Watchers]]
+- [[The Whisper Syndicate]]
+- [[The Shadow Singer Naia]]
+- [[New Thalassopolis]]
+- [[Parliament of Echoes]]

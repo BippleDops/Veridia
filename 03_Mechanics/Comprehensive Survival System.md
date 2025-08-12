@@ -12,7 +12,7 @@ mechanic_type: Complete Survival System
 created: 2025-08-07
 version: 2.0
 world: Both
-updated: '2025-08-11T13:08:47.054825+00:00'
+updated: 2025-08-11
 status: draft
 type: Lore
 ---

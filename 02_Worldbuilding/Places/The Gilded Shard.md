@@ -10,13 +10,14 @@ status: complete
 world: Aethermoor
 type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:51.091580+00:00'
+updated: 2025-08-12
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-gilded-shard-the-gilded-shard.svg)
@@ -96,7 +97,7 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 
 ### Leadership
 - **[[Professor Aldric Crystalweaver]]**: Director and Chief Researcher
-- **[[Elena Starweaver]]**: Deputy Director of Practical Studies
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Deputy Director of Practical Studies
 - **Master Theorist Valdris Prism**: Head of Theoretical Department
 - **Arcane General Marcus Brightforge**: Military Applications Division
 - **Temporal Sage Chronos Stilltime**: Advanced Studies (when present)
@@ -435,7 +436,7 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 - **Special**: Legendary Actions (3 per turn), Crystal Magic (all spells deal force damage), Ageless (appears 40, actually 200+ years old)
 - **Spells**: As Archmage, plus unique crystal-based spells
 
-**[[Elena Starweaver]]** (Half-Elf Mage with enhanced abilities)
+**[[02_Worldbuilding/Quests/Aquabyssos]]** (Half-Elf Mage with enhanced abilities)
 - **AC**: 15 (Mage Armor)
 - **HP**: 58 (13d8 + 13)
 - **Speed**: 30 ft
@@ -577,3 +578,10 @@ Legends speak of The Gilded Shard as a nexus where past and present converge. Lo
 - [[02_Worldbuilding/Places/The Gilded Shard]]
 
 <!-- enriched: true -->
+- [[The Seven Shards]]
+- [[Professor Aldric Crystalweaver]]
+- [[The Depth Wardens]]
+- [[Aethermoor]]
+- [[Memory Farmers]]
+- [[Parliament of Echoes]]
+- [[The Hadal Depths]]

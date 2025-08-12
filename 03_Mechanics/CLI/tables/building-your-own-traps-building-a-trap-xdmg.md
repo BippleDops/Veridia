@@ -6,7 +6,8 @@ tags:
 aliases:
 - Building Your Own Traps; Building a Trap
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Building Your Own Traps; Building a Trap

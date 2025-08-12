@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, vehicles, submarines]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Aquabyssos Submarines — Visual & Vibe Guide
@@ -19,3 +20,7 @@ created: 2025-08-11
 - Maelstrom Rider: Vortex thrusters, spiral fins, trailing turbulence.
 
 Choosing a ship affects your story: see [[Vehicle_Core_Rules]] for piloting, sanity, and upgrade paths.
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01]]

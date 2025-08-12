@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:51.240459+00:00'
-created: '2025-08-11T13:08:51.240459+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: Group
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-shadow-trade-network-the-shadow-trade-network.svg)
@@ -542,7 +543,7 @@ Early smugglers discovered that shadow magic could:
 
 ## Related Quests
 - [[Quest - The Shadow Conspiracy Investigation]] - Investigating Network connections to broader shadow magic conspiracy
-- [[Quest - Smuggler's Run]] - Characters interact with Network shipping and transportation operations
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Characters interact with Network shipping and transportation operations
 - **The Corruption Investigation** - Exposing Network influence within government institutions
 - **The Shadow Market Infiltration** - Characters infiltrate Network operations for law enforcement or personal reasons
 - **The Legitimization Negotiation** - Attempting to transform Network into legitimate business organization
@@ -573,3 +574,16 @@ Legends speak of The Shadow Trade Network as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Groups_Index]]
+- [[Crystal Wardens]]
+- [[Independent Smugglers]]
+- [[Merchant Princes]]
+- [[Shadow Surgeons Collective]]
+- [[The Shadow Conspiracy]]
+- [[The Whisper Syndicate]]
+- [[Thieves Guild]]
+- [[Admiral Thorne Blackwater]]
+- [[Parliament of Echoes]]

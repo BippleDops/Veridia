@@ -16,7 +16,7 @@ world: Both Worlds
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.033626+00:00'
+updated: 2025-08-11
 lore_type: Magical Mechanics
 scope: Environmental Phenomena
 category: Physics and Magic
@@ -27,6 +27,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-gravity-anomaly-mechanics-gravity-anomaly-mechanics.svg)
@@ -380,3 +381,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
 
 <!-- enriched: true -->
+- [[Aethermoor]]

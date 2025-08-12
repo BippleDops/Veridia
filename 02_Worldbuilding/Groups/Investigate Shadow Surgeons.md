@@ -19,7 +19,7 @@ influence: Significant (Medical Community)
 purpose: Study and counter shadow-based medical afflictions
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.175598+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Heraldry
@@ -637,3 +637,7 @@ Investigate Shadow Surgeons is a undersea element of the setting, known for biol
 Legends speak of Investigate Shadow Surgeons as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Investigate Shadow Surgeons.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]

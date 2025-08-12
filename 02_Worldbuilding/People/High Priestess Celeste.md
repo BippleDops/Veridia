@@ -6,9 +6,10 @@ tags:
 type: NPC
 world: Universal
 status: draft
-created: '2025-08-11T13:08:45.696403+00:00'
-updated: '2025-08-11T13:08:49.713055+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-high-priestess-celeste-dawnbringer-high-priestess-celeste-dawnbringer.svg)
@@ -60,3 +61,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/High Priestess Celeste]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

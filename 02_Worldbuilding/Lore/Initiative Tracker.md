@@ -21,6 +21,7 @@ updated: 2025-08-11
 
 
 
+
 # Initiative Tracker
 *Advanced Combat Organization for the Merged Realms*
 
@@ -453,7 +454,7 @@ Initiative performance can affect [[Reputation System]] standings:
 - **[[Multi-Phase Boss Fights]]**: Advanced initiative for complex encounters
 - **[[Environmental Hazards]]**: Environmental effects on initiative
 - **[[Temporal Distortion Zones]]**: Time effects on turn order
-- **[[Sanity System]]**: Mental effects impacting reaction time
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Mental effects impacting reaction time
 - **[[Reputation System]]**: Social effects of combat performance
 
 ### Combat Integration
@@ -508,3 +509,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Aquabyssos-Survival-Mechanics]]
+- [[Crystal Forest]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Pressure Adaptation System]]
+- [[Pressure Crush Zones]]
+- [[Reality Merge Zones]]
+- [[Reputation System]]
+- [[Temporal Distortion Zones]]
+- [[Tidal Chambers]]
+- [[Shadow Wells]]

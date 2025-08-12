@@ -12,7 +12,7 @@ world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.869303+00:00'
+updated: 2025-08-11
 location_type: Underwater Cave System
 parent_location: Aquabyssos Deep Waters
 danger_level: 6
@@ -23,6 +23,7 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-luminous-hollow-luminous-hollow.svg)
@@ -471,3 +472,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Luminous Hollow]]
 
 <!-- enriched: true -->
+- [[Aethermoor]]
+- [[Whisper Island]]

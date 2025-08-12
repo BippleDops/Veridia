@@ -17,12 +17,13 @@ size: Suite Complex (5,000 sq ft)
 access: Restricted - Senate Members Only
 created_by: system
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.776213+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Location
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 
@@ -258,3 +259,7 @@ Legends speak of Senator's Private Chambers as a nexus where past and present co
 - [[02_Worldbuilding/Places/Senator's Private Chambers]]
 
 <!-- enriched: true -->
+- [[The Shadow Conspiracy]]
+- [[Deep Mother]]
+- [[Emperor Thalassius the Wise]]
+- [[Parliament of Echoes]]

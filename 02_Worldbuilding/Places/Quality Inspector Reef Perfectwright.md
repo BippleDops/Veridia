@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Aquabyssos
 status: draft
-created: '2025-08-11T13:08:45.981148+00:00'
-updated: '2025-08-11T13:08:50.288526+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 
 ## Overview
@@ -54,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Quality Inspector Reef Perfectwright]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Deep Harvest]]

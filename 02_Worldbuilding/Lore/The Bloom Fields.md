@@ -30,6 +30,7 @@ biodiversity_index: Exceptional
 
 
 
+
 # The Bloom Fields
 *Where Light Grows in the Darkness of the Deep*
 
@@ -624,3 +625,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Vault_Navigation_Hub]]
+- [[Crystal Forest]]
+- [[Pressure Adaptation System]]
+- [[Reality Merge Zones]]
+- [[Aethermoor]]

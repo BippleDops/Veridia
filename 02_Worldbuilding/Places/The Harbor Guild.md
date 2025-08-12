@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Aethermoor
 status: draft
-created: '2025-08-11T13:08:46.021489+00:00'
-updated: '2025-08-11T13:08:51.088267+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 
 ## Overview
@@ -54,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Harbor Guild]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Crimson Shard Guardian]]

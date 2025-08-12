@@ -1,10 +1,14 @@
 ---
-tags: [mechanic]
-status: "complete"
-world: "Aquabyssos"
-type: "mechanic"
+updated: 2025-08-11
+created: 2025-08-11
+tags:
+- mechanic
+status: complete
+world: Aquabyssos
+type: mechanic
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -58,3 +62,9 @@ Legends speak of Shadow Separation Mechanics as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]

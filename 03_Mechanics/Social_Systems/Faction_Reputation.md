@@ -5,6 +5,7 @@ world: "Both Worlds"
 type: "mechanic"
 created_by: "Claude"
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Faction Reputation System

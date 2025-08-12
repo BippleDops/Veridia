@@ -45,13 +45,14 @@ stats:
   int: 16
   wis: 12
   cha: 15
-description: "Tall, thin figure with translucent skin showing dark veins beneath. Laughs at inappropriate times."
-notes: "Has been shadow-replaced for three weeks. Original imprisoned in Memory Meadows."
+description: Tall, thin figure with translucent skin showing dark veins beneath. Laughs
+  at inappropriate times.
+notes: Has been shadow-replaced for three weeks. Original imprisoned in Memory Meadows.
 secrets:
-  - "Is actually the shadow of the original Senator"
-  - "Reports directly to Shadow Duchess Nyx"
-  - "Knows location of shadow transformation facility"
-  - "Original Glaucus still alive but imprisoned"
+- Is actually the shadow of the original Senator
+- Reports directly to Shadow Duchess Nyx
+- Knows location of shadow transformation facility
+- Original Glaucus still alive but imprisoned
 created: 2025-08-07
 updated: 2025-08-11
 obsidianUIMode: preview
@@ -59,6 +60,7 @@ world: Both
 status: draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-senator-glaucus-brain-senator-glaucus-brain.svg)
@@ -294,3 +296,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Senator Glaucus]]
 
 <!-- enriched: true -->
+- [[Original Glaucus]]
+- [[Reflection Pools]]
+- [[Shadow Citizenship Act]]
+- [[Tenebrarum]]

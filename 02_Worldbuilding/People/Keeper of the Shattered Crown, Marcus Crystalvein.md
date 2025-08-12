@@ -17,8 +17,9 @@ race: Human (Crystal-touched)
 location: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.699753+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-keeper-of-the-shattered-crown-marcus-crystalvein-keeper-of-the-shattered-crown-marcus-crystalvein.svg)
@@ -341,3 +342,4 @@ Legends speak of Keeper of the Shattered Crown, Marcus Crystalvein as a nexus wh
 - [[02_Worldbuilding/People/Keeper of the Shattered Crown, Marcus Crystalvein]]
 
 <!-- enriched: true -->
+- [[The Crown of Stars]]

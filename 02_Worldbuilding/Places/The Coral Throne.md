@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.291614+00:00'
-updated: '2025-08-11T13:08:51.145800+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-coral-throne-syndicate-the-coral-throne-syndicate.svg)
@@ -58,3 +59,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Coral Throne]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Abyssos Prime - Inverse Palace]]
+- [[Royal Palace]]

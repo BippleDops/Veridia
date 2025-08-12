@@ -19,8 +19,9 @@ current_location: Throughout Aethermoor Economic System
 danger_level: 1
 created_by: Claude
 created: 2025-08-10
-updated: '2025-08-11T13:08:47.106787+00:00'
+updated: 2025-08-11
 ---
+
 
 
 # Aether Crystals
@@ -386,3 +387,21 @@ Legends speak of Aether Crystals as a nexus where past and present converge. Loc
 - A map overlay reveals a hidden approach to Aether Crystals active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Shadow Surgeons Collective]]
+- [[Aetheron]]
+- [[The Seven Shards]]
+- [[Professor Aldric Crystalweaver]]
+- [[Queen Seraphina Lumengarde]]
+- [[Aethermoor]]
+- [[Azure Citadel]]
+- [[Crystal Gardens]]
+- [[Crystallium]]
+- [[The Crystalline Foundry]]
+- [[The Drowned Embassy]]
+- [[Crystalline Depths]]
+- [[The Green Death]]

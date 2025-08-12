@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.562113+00:00'
-updated: '2025-08-11T13:08:50.668737+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 > [!figure] Item
 ![](04_Resources/Assets/Generated/Items/item-artifact-cloak-of-the-manta-ray-xdmg-cloak-of-the-manta-ray-xdmg.svg)
@@ -58,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Manta Ray]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Current Riders Guild]]

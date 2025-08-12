@@ -17,7 +17,7 @@ danger_level: Catastrophic
 ruler: '[[02_Worldbuilding/Lore/Deep Mother]] (Sleeping)'
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.963426+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview

@@ -17,9 +17,10 @@ created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.281275+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-merchant-viktor-geargrind-merchant-viktor-geargrind.svg)
@@ -485,3 +486,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Merchant Viktor Geargrind]]
 
 <!-- enriched: true -->
+- [[Silverscale Consortium]]
+- [[Abyssos Prime]]
+- [[Aethermoor]]
+- [[Azure Citadel]]
+- [[Depth Wardens]]
+- [[Memory Farmers]]
+- [[Parliament of Echoes]]
+- [[The Hadal Depths]]

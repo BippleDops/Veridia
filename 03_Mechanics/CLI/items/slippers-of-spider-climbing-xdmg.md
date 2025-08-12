@@ -10,7 +10,8 @@ tags:
 aliases:
 - Slippers of Spider Climbing
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Slippers of Spider Climbing

@@ -17,7 +17,7 @@ world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.633385+00:00'
+updated: 2025-08-11
 location_type: Doomed Atoll
 parent_location: The Twilight Shallows
 depth: 50-200 feet (and descending)

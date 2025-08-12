@@ -12,11 +12,11 @@ status: complete
 world: Aethermoor
 type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
+created: 2025-08-12
 MyContainer: None
 MyCategory: Archive Facility
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.588151+00:00'
+updated: 2025-08-12
 danger_level: Moderate
 ---
 
@@ -415,8 +415,8 @@ The Moonwhisper Archives connect to numerous important elements throughout Aethe
 - [[Captain Lyanna Brightshield]]
 - [[Crystalhaven]]
 - [[Port Meridian]]
-- [[Quest - The Seventh Shard]]
-- [[The Oracle of the Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

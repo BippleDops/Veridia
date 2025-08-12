@@ -27,6 +27,7 @@ specialization_required: Advanced Training
 
 
 
+
 # Merged Zone Navigation
 *Traversing the Boundaries Between Worlds*
 
@@ -394,3 +395,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Aethermoor]]

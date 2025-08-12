@@ -1,10 +1,14 @@
 ---
-tags: [mechanic]
-status: "complete"
-world: "Aquabyssos"
-type: "mechanic"
+updated: 2025-08-11
+created: 2025-08-11
+tags:
+- mechanic
+status: complete
+world: Aquabyssos
+type: mechanic
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-investigate-the-crystal-plague-investigate-the-crystal-plague.svg)
@@ -62,3 +66,8 @@ Legends speak of Crystal Plague as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Depth Adaptation System]]

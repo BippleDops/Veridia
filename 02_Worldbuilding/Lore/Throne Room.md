@@ -17,8 +17,9 @@ category: Royal Location
 significance: Major Landmark
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.499685+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-throne-room-heart-of-palace-throne-room-heart-of-palace.svg)
@@ -345,3 +346,11 @@ Legends speak of Throne Room as a nexus where past and present converge. Locals 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Queen]]
+- [[The Seven Shards]]

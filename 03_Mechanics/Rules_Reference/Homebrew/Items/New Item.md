@@ -16,8 +16,8 @@ connected_-quests:
 connected_-groups:
 - Template-Group
 world: Both
-updated: '2025-08-11T13:08:47.092484+00:00'
-created: '2025-08-11T13:08:47.092484+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 ---
 

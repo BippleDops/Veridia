@@ -11,7 +11,7 @@ world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.730733+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
 

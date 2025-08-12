@@ -18,7 +18,7 @@ race: Half-Dryad (Shard-fused)
 location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Heart Tree Grove'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.796214+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait
@@ -311,8 +311,8 @@ The ancient oak containing the Emerald Shard has itself become semi-sentient:
 - **[[02_Worldbuilding/Places/The Memory Storm Fields]]**: Her roots can stabilize chaotic memory energies
 - **[[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]**: Key figure in managing environmental consequences
 - **[[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis]]**: Natural enemy of their corruption experiments
-- **[[02_Worldbuilding/Quests/Quest - The Memory Bridge]]**: Could provide living conduits for memory transfer
-- **[[02_Worldbuilding/Quests/Quest - The Shard-Shadow Resonance]]**: Emerald Shard provides counterbalance to shadow corruption
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Could provide living conduits for memory transfer
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Emerald Shard provides counterbalance to shadow corruption
 - **[[02_Worldbuilding/Items/The Resonance Forge Hammer]]**: Would resonate with earth/growth energies
 - **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Seeks her centuries of accumulated memories
 - **[[02_Worldbuilding/People/The Crimson Sage]]**: Would recognize her as master of natural divine power
@@ -449,7 +449,7 @@ Willowbark focuses on preparing others and chooses to:
 - [[The Azure Prophet Nerissa]]
 - [[The Shadow Singer Naia]]
 - [[Quest - Nature's Balance]]
-- [[Quest - The Shard-Shadow Resonance]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

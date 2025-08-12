@@ -6,8 +6,8 @@ tags:
 type: Group
 world: Aethermoor
 status: draft
-created: '2025-08-11T13:08:46.002578+00:00'
-updated: '2025-08-11T13:08:51.432556+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
 
 

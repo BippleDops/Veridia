@@ -2,9 +2,15 @@
 title: Fleet Dynamics Generator
 type: mechanics
 status: complete
-tags: [mechanics, fleets, factions, warfare]
+tags:
+- mechanics
+- fleets
+- factions
+- warfare
 created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 # Fleet Dynamics Generator
 
@@ -51,3 +57,17 @@ Legends speak of Fleet Dynamics Generator as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[05_Templates/Vehicles/New_Fleet_Template]]
+
+
+## Connections
+
+- [[Economic_Warfare_Simulator]]
+- [[Mass_Combat_Evolution]]
+- [[Aethermoor_Airships]]
+- [[Aquabyssos_Submarines]]
+- [[Vehicle_Core_Rules]]
+- [[New_Fleet_Template]]

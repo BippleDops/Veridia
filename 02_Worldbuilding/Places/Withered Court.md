@@ -12,13 +12,14 @@ status: complete
 world: Aethermoor
 type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
+created: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.983269+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-withered-court-withered-court.svg)
@@ -202,3 +203,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Withered Court]]
 
 <!-- enriched: true -->
+- [[Aethermoor]]

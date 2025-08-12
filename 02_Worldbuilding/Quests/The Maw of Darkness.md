@@ -20,6 +20,7 @@ updated: 2025-08-12
 
 
 
+
 # The Maw of Darkness
 
 **Type:** Horror/Exploration  
@@ -390,3 +391,18 @@ Legends speak of The Maw of Darkness as a nexus where past and present converge.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Crystalline Depths]]
+- [[Shadow Surgeons Collective]]
+- [[The Recursion Oracle]]
+- [[The Seven Shards]]
+- [[Admiral Thorne Blackwater]]
+- [[Abyssos Prime]]
+- [[Anti-Priest Nullus]]
+- [[Depth Wardens]]
+- [[Parliament of Echoes]]
+- [[Temporal Navigation]]
+- [[The Archive of Unremembered Things]]
+- [[The Cerulean Trench]]
+- [[The Hadal Depths]]
+- [[The Lock]]
+- [[The Singing Trenches]]
+- [[Vault Keeper Eternal]]

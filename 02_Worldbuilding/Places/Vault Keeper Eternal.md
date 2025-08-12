@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:50.892054+00:00'
-created: '2025-08-11T13:08:50.892054+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -152,7 +152,7 @@ A mysterious figure known only as [[The Collector]] has been attempting to acqui
 - [[Rescue Senator Glaucus]]
 - [[The Lock Saboteur]]
 - [[The Maw of Darkness]]
-- [[The Oracle of the Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

@@ -9,6 +9,7 @@ tags:
 type: NPC
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-crimson-sage-the-crimson-sage.svg)
 
@@ -66,7 +67,7 @@ The Crimson Sage appears as a mysterious scholar researching crystal corruption 
 ### Current Contacts
 - [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secretly advising (guilt over her corruption)
 - [[Professor Aldric Crystalweaver]] - Feeds information through research
-- [[The Oracle of the Sundered Peaks]] - Former high priestess
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Former high priestess
 - [[02_Worldbuilding/People/Vex Shadowthorn]] - Complicated history
 
 ### The Seven Betrayers (Now Dead)
@@ -166,7 +167,7 @@ The Crimson Sage appears as a mysterious scholar researching crystal corruption 
 - [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret advisor
 - [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Watches with interest
 - [[02_Worldbuilding/People/Vex Shadowthorn]] - Knows more than should
-- [[The Oracle of the Sundered Peaks]] - Former servant
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Former servant
 - [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Sent on quest
 
 ## Connected Locations
@@ -365,8 +366,8 @@ Roll d12 for type of interaction:
 12: **Opponent** - Party goals conflict with his plans, leading to confrontation
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - Orchestrating
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - May have caused
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Orchestrating
+- [[02_Worldbuilding/Quests/Aquabyssos]] - May have caused
 - [[Quest - Divine Intervention]] - Is the intervention
 - [[Quest - The Crown's Return]] - Central to restoration plans
 - [[Quest - The Betrayers' Truth]] - Investigating his past advisors
@@ -429,3 +430,7 @@ Legends speak of The Crimson Sage as a nexus where past and present converge. Lo
 - [[02_Worldbuilding/People/The Crimson Sage]]
 
 <!-- enriched: true -->
+- [[Lord Aurelius Goldwave]]
+- [[Professor Aldric Crystalweaver]]
+- [[Quest - Divine Intervention]]
+- [[The Whispering Expanse]]

@@ -4,11 +4,12 @@ type: mechanics
 status: complete
 tags: [mechanics, vehicles, airships, aethermoor]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Aethermoor Airships
 
-Crystal-powered vessels that ride currents, gravity folds, and starlight. Integrates [[Complete Reality Merger System]], [[Sanity System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[Complete Pressure Adaptation System]] (altitude inversion), and [[Deep Mother]].
+Crystal-powered vessels that ride currents, gravity folds, and starlight. Integrates [[Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[Complete Pressure Adaptation System]] (altitude inversion), and [[Deep Mother]].
 
 ## Crystal-Powered Airships (Examples)
 - Harmonium Skiff (Resonant levitation; silent running)
@@ -37,7 +38,7 @@ GM Note: Expand to 50+ designs via template [[05_Templates/Vehicles/New_Ship_Tem
 
 ## Integration Hooks
 - Altitude Pressure Inversion: Apply pressure rules inverted for height (see [[Depth Survival Mechanics]])
-- Sanity: Prolonged void-sight requires [[Sanity System]] saves; shrine-chant stabilizes
+- Sanity: Prolonged void-sight requires [[02_Worldbuilding/Quests/Aquabyssos]] saves; shrine-chant stabilizes
 - Reality: Fold-Gate Couriers create micro-mergers; anchors mitigate
 - Memory: Whisper Kites harvest route echoes; charts fuel long-haul jumps
 - Faction: Doctrines yield preferred altitude bands and weapon arrays (see [[Fleet_Dynamics_Generator]])
@@ -70,3 +71,7 @@ Legends speak of Aethermoor Airships as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[03_Mechanics/Vehicles/Vehicles_Index]]

@@ -20,7 +20,7 @@ role: Shadow Prime Minister
 cr: 25
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.852373+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -262,7 +262,7 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[02_Worldbuildin
 
 ### Items & Artifacts
 - [[Crown of Enslaved Minds]] - Created from victims
-- [[Tentacle of Yoth]] - Severed but living weapon
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Severed but living weapon
 - [[Memory Crystals]] - Solidified stolen thoughts
 - [[Shadow Mucus Vial]] - Alchemical component
 - [[The Depth Compass]] - Points to The Deepmind
@@ -274,7 +274,7 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[02_Worldbuildin
 
 ## Connections
 
-- [[Sanity System]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Bathyal Succession]]
 - [[The Convergence Point]]
 - [[The Great Convergence Prophecies]]
@@ -284,7 +284,7 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[02_Worldbuildin
 - [[Nerissa_Deepcurrent]]
 - [[Pressure Angel Benthia]]
 - [[The_Crimson_Pearl]]
-- [[The_Second_Rising]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 
 ## Personality

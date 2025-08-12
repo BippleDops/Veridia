@@ -1,39 +1,50 @@
 ---
-tags: [person, npc, queen, royalty, aquabyssos, political-leader, coral-crown, deep-nobility, crisis-leadership]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Reigning Monarch"
-affiliation: "[[The Coral Crown]]"
-age: "47"
-race: "Human (Deep-Adapted)"
-location: "[[The Royal Palace - Aquabyssos]]"
-title: "Queen of the Depths, Sovereign of the Coral Throne, Protector of the Abyssal Realms"
-reign_length: "23 years"
-ruling_style: "Constitutional Monarchy with Emergency Powers"
-political_alignment: "Moderate Progressive"
-created_by: "auto-stub"
+tags:
+- person
+- npc
+- queen
+- royalty
+- aquabyssos
+- political-leader
+- coral-crown
+- deep-nobility
+- crisis-leadership
+status: complete
+world: Aquabyssos
+type: npc
+role: Reigning Monarch
+affiliation: '[[The Coral Crown]]'
+age: '47'
+race: Human (Deep-Adapted)
+location: '[[The Royal Palace - Aquabyssos]]'
+title: Queen of the Depths, Sovereign of the Coral Throne, Protector of the Abyssal
+  Realms
+reign_length: 23 years
+ruling_style: Constitutional Monarchy with Emergency Powers
+political_alignment: Moderate Progressive
+created_by: auto-stub
 created: 2025-08-08
 updated: 2025-08-11
 notable_achievements:
-  - "Survived the Depth Crown Crisis"
-  - "Established the Modern Parliament System"
-  - "Led Defense Against the Shadow Incursions"
-  - "Negotiated Peace with Surface Realms"
+- Survived the Depth Crown Crisis
+- Established the Modern Parliament System
+- Led Defense Against the Shadow Incursions
+- Negotiated Peace with Surface Realms
 current_challenges:
-  - "The Scattered Emperor Problem"
-  - "Rising Political Extremism"
-  - "Deep Mother Activity Increase"
-  - "Economic Instability from Crisis"
+- The Scattered Emperor Problem
+- Rising Political Extremism
+- Deep Mother Activity Increase
+- Economic Instability from Crisis
 personality_traits:
-  - "Diplomatic but Decisive"
-  - "Protective of Citizens"
-  - "Burden of Crown Weighs Heavily"
-  - "Pragmatic about Power"
+- Diplomatic but Decisive
+- Protective of Citizens
+- Burden of Crown Weighs Heavily
+- Pragmatic about Power
 danger_level: 2
-influence_level: "Maximum within Aquabyssos"
-access_level: "Royal Court Only"
+influence_level: Maximum within Aquabyssos
+access_level: Royal Court Only
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-queen-seraphina-lumengarde-queen-seraphina-lumengarde.svg)
@@ -602,3 +613,16 @@ Legends speak of Queen Seraphina as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Campaign_Relationship_Matrix]]
+
+
+## Connections
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[Reputation System]]
+- [[Sky Burial Traditions]]
+- [[The Crown of Stars]]
+- [[The Great Convergence Prophecies]]

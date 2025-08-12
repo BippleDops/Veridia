@@ -19,6 +19,7 @@ created: 2025-08-11
 type: Lore
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-emperor-thalassius-the-wise-emperor-thalassius-the-wise.svg)
 
@@ -100,7 +101,7 @@ Thalassius's conversations with Surface scholars established the intellectual fo
 - **[[The Circle of Depths]]**: Group of senior scholars who work with Thalassius on major research projects
 - **[[Ambassador Current]]**: Diplomatic official who regularly consults Thalassius on inter-realm matters
 - **[[Ancient Translator Resonance]]**: Specialist who assists with the most challenging historical texts
-- **[[Archive-Prince Mnemonic]]**: Colleague in [[Aethermoor]] specializing in cross-realm knowledge
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Colleague in [[Aethermoor]] specializing in cross-realm knowledge
 - **[[The Recursion Oracle]]**: Mysterious figure he consults about temporal patterns
 
 ## Current Developments
@@ -142,7 +143,7 @@ His deepest knowledge and hidden secrets prove essential to resolving campaign-e
 
 ### Academic Network and Colleagues
 - [[Archivist Vera Glowmind]] - Library collaborator
-- [[Archive-Prince Mnemonic]] - Cross-realm correspondent
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Cross-realm correspondent
 - [[Professor Euclid Mindmaze]] - [[Aethermoor]] research partner
 - [[Student Prime Coral]] - Primary apprentice
 - [[The Circle of Depths]] - Senior scholar group
@@ -209,3 +210,22 @@ Legends speak of Thalassius the Wise as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds]]
+- [[Echo of the Mother]]
+- [[Investigation Procedures]]
+- [[Memory Alteration Consequences]]
+- [[Order of the Sunken Crown]]
+- [[The Convergence Point]]
+- [[The Great Crystallization]]
+- [[The Recursion Oracle]]
+- [[The Seven Shards]]
+- [[The Tethyan Hegemony]]
+- [[Timeline of the Drowning]]
+- [[United Councils of Both Worlds]]
+- [[Aethermoor]]
+- [[Ancient Tunnels Beneath Palace]]
+- [[Archivist Vera Glowmind]]
+- [[Parliament of Echoes]]

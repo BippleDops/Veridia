@@ -12,8 +12,9 @@ tags:
 - transformation
 created: 2025-08-11
 world: Both
-updated: '2025-08-11T13:08:47.063898+00:00'
+updated: 2025-08-11
 ---
+
 
 
 
@@ -1135,3 +1136,12 @@ Legends speak of Complete Pressure Adaptation System as a nexus where past and p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[03_Mechanics/Depth Survival Mechanics]]
+
+
+## Connections
+
+- [[Depth Survival Mechanics]]

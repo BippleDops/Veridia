@@ -28,10 +28,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-11T13:08:46.978499+00:00'
-created: '2025-08-11T13:08:46.978499+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 ---
+
 
 
 
@@ -138,7 +139,7 @@ The festival grounds pulse with violet energy. Thousands of citizens stand in co
 As the bloodline carrier makes their choice, the ritual reaches critical mass. The sky shatters completely, revealing [[Aquabyssos]] descending from above like an inverted city. Water doesn't fall - it hangs in massive spheres. The entity's true form begins manifesting: a colossal crystalline figure made of thousands of absorbed souls. [[02_Worldbuilding/People/The Crimson Sage]] appears, burning with silver fire: "Now! While the barriers are weak! We can rewrite reality itself, but someone must anchor the new world order. Someone must become the seal." The bloodline carrier feels their body beginning to resonate with all seven shards.
 
 ## 🔗 Connected Notes
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Crystal Festival]]
 - [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
 - [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
@@ -163,3 +164,12 @@ Environmental Effects:
 - **If they kill the Queen**: Entity takes full control
 - **If bloodline carrier refuses**: Marina steps in
 - **If TPK**: Crimson Sage's contingency activates
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]
+
+
+## Connections
+
+- [[Brother Marcus Steelbane]]

@@ -1,15 +1,22 @@
 ---
-tags: [Category/Lore]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
+updated: 2025-08-11
+created: 2025-08-11
+tags:
+- Category/Lore
+status: complete
+world: Aquabyssos
+type: lore
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "This lore entry explains a pivotal principle or event and its consequences for play."
+  screen_reader_summary: This lore entry explains a pivotal principle or event and
+    its consequences for play.
   content_warnings: []
-  pronunciation: "The Forgotten Archive"
-  safety_tools: ["Lines & Veils", "X-Card"]
+  pronunciation: The Forgotten Archive
+  safety_tools:
+  - Lines & Veils
+  - X-Card
 ---
+
 
 
 # The Forgotten Archive
@@ -398,3 +405,18 @@ The Forgotten Archive is a undersea element of the setting, known for biolumines
 Legends speak of The Forgotten Archive as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Forgotten Archive.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+
+
+## Connections
+
+- [[The Parliament of Nobody]]
+- [[Aetheron]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Evidence Chain Analysis]]
+- [[Thalassius the Wise]]
+- [[The Final Choice]]
+- [[The Threshold]]

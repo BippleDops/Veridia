@@ -19,8 +19,9 @@ current_location: Multiple Pieces Scattered Across Aquabyssos
 danger_level: 4
 created_by: Claude
 created: 2025-08-09
-updated: '2025-08-11T13:08:47.101402+00:00'
+updated: 2025-08-11
 ---
+
 
 
 
@@ -305,3 +306,8 @@ Legends speak of Crown of Tidal Sovereignty as a nexus where past and present co
 - A map overlay reveals a hidden approach to Crown of Tidal Sovereignty active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [[Oracle Nerida the Tidereader]]

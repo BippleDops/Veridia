@@ -14,11 +14,12 @@ current_hp: 45
 max_hp: 68
 ac: 16
 world: Both
-updated: '2025-08-11T13:08:49.773563+00:00'
-created: '2025-08-11T13:08:49.773563+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-vex-shadowthorn-s-apprentices-vex-shadowthorn-s-apprentices.svg)
@@ -246,10 +247,10 @@ Vex Shadowthorn controls [[02_Worldbuilding/Groups/The Whisper Syndicate]], [[02
 - [[The Corroded Crown]] - Meeting place
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Profiting from chaos
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Profiting from chaos
 - [[Quest - Syndicate Shadows]] - Main antagonist
 - [[Quest - The Blackmail Papers]] - Central figure
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - Competing for it
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Competing for it
 
 ## Player-Facing Summary
 
@@ -270,3 +271,18 @@ Legends speak of Vex Shadowthorn as a nexus where past and present converge. Loc
 - [[02_Worldbuilding/People/Vex Shadowthorn]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Introduction]]
+- [[Crystal Wardens]]
+- [[The Crimson Hand]]
+- [[The Seven Shards]]
+- [[Admiral Cassandra Stormwind]]
+- [[Assassin]]
+- [[Brother Marcus Steelbane]]
+- [[The Shadow Warren]]
+- [[Quest - The Blackmail Papers]]
+- [[The Memory Thief]]
+- [[Campaign_Relationship_Matrix]]

@@ -6,7 +6,7 @@ tags:
 aliases:
 - Chapter 1: Prisoners of the Drow
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Chapter 1: Prisoners of the Drow
@@ -556,3 +556,4 @@ Legends speak of 01 chapter 1 prisoners of the drow as a nexus where past and pr
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

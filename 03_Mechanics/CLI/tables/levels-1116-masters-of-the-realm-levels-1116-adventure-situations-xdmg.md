@@ -6,7 +6,8 @@ tags:
 aliases:
 - "Levels 11\u201316": "Masters of the Realm; Levels 11\u201316 Adventure Situations"
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations

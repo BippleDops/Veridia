@@ -21,6 +21,7 @@ created: 2025-08-09
 updated: 2025-08-11
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-scholar-vivienne-the-chronicler-scholar-vivienne-the-chronicler.svg)
 
@@ -286,14 +287,14 @@ Vivienne can take 2 legendary actions, choosing from the options below. Only one
 ## Connections
 
 - [[Stop the Shadow Harvest]]
-- [[Sanity System]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Brother Matthias the Amber Bearer]]
 - [[Gareth Goldenheart, The Chosen Vessel]]
 - [[Amnesia Gallery]]
 - [[Quest - The Convergence Crisis]]
-- [[Quest - The Memory Bridge]]
-- [[Quest - The Shard-Shadow Resonance]]
-- [[The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix]]
 
 ## Player-Facing Summary
@@ -315,3 +316,5 @@ Legends speak of Scholar Vivienne the Chronicler as a nexus where past and prese
 - [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
 
 <!-- enriched: true -->
+- [[The Crown of Stars]]
+- [[Keeper of the Shattered Crown, Marcus Crystalvein]]

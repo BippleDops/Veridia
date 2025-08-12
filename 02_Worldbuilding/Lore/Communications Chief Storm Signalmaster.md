@@ -3,6 +3,7 @@ created: 2025-08-11
 updated: 2025-08-11
 ---
 
+
 re
 world: Aquabyssos
 status: draft
@@ -34,3 +35,12 @@ Legends speak of Communications Chief Storm Signalmaster as a nexus where past a
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Groups/Shadow Ambush - Optional]]
+
+
+## Connections
+
+- [[Shadow Ambush - Optional]]

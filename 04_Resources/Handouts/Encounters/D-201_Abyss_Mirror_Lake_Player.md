@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, encounter, depth]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Abyss Mirror Lake
@@ -23,3 +24,7 @@ Possible outcomes
 - A safe path reveals itself
 - The mirror ripples wrong
 - Something in the reflection looks back
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_10]]

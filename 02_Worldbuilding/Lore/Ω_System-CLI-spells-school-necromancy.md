@@ -27,6 +27,7 @@ practitioners: Death speakers, life mages, preservers
 
 
 
+
 # Necromancy School of Magic
 *The Art of Death, Undeath, and Life Force*
 
@@ -286,3 +287,12 @@ Legends speak of Ω System CLI spells school necromancy as a nexus where past an
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Aethermoor]]
+
+
+## Connections
+
+- [[Aethermoor]]

@@ -6,9 +6,10 @@ tags:
 type: NPC
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.095659+00:00'
-updated: '2025-08-11T13:08:49.769328+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -56,3 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Quest - The Diplomatic Immunity Case]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Tenebrarum Ambassadors]]

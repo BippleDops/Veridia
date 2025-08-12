@@ -39,9 +39,10 @@ initiative: 12
 current_hp: 15
 max_hp: 20
 world: Both
-updated: '2025-08-11T13:08:50.000418+00:00'
+updated: 2025-08-11
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-captain-garrett-stormcutter-captain-garrett-stormcutter.svg)
@@ -198,3 +199,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Banker Titus Goldcurrent]]
+- [[Enforcer Chief Mako Ironjaw]]
+- [[Shadow Broker Mist]]
+- [[The Emergence]]
+- [[Commander Typhoon Blackheart]]
+- [[Engineer Brass Gearspin]]
+- [[Free Current]]
+- [[Harbor Master Luna Freedrift]]
+- [[Merchant Delilah Currentrunner]]
+- [[The Free Current]]

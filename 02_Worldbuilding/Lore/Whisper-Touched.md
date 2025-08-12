@@ -10,6 +10,7 @@ created: 2025-08-11
 updated: 2025-08-11
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-whisper-touched-william-v1-whisper-touched-william.svg)
 
@@ -42,3 +43,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/The Whispering Expanse]]
+
+
+## Connections
+
+- [[The Whispering Expanse]]

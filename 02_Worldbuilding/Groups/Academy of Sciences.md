@@ -6,9 +6,10 @@ tags:
 type: Group
 world: Aethermoor
 status: draft
-created: '2025-08-11T13:08:46.322389+00:00'
-updated: '2025-08-11T13:08:51.417253+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -49,3 +50,12 @@ Legends speak of Academy of Sciences as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Crystal Wardens]]
+
+
+## Connections
+
+- [[The Crystal Wardens]]

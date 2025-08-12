@@ -19,12 +19,13 @@ region: Port District
 city: Port Crystalfall
 faction_influence: Independent/Multiple
 created_by: auto-stub
-updated: '2025-08-11T13:08:51.107206+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
-created: '2025-08-11T13:08:51.107206+00:00'
+created: 2025-08-11
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern.svg)
@@ -616,3 +617,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Siren's Rest Tavern]]
 
 <!-- enriched: true -->
+- [[Crystal Wardens]]
+- [[Hidden Smuggler's Cove]]
+- [[Memory Merchant Zephyr Mindweaver]]

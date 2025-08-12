@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Aethermoor
 status: draft
-created: '2025-08-11T13:08:46.408631+00:00'
-updated: '2025-08-11T13:08:48.227401+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 
@@ -35,3 +36,12 @@ Legends speak of Weapons Trader Gareth Steelmerchant as a nexus where past and p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+
+
+## Connections
+
+- [[Port Meridian - Merchant Quarter]]

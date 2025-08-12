@@ -13,6 +13,7 @@ danger_level: Moderate
 
 
 
+
 # The Sundered Peaks
 *Where Earth Meets Sky and Crystal*
 
@@ -239,7 +240,7 @@ Pre-Shattering tunnel system:
 
 - [[Establish the New Order]]
 - [[The Forsaken Consortium Collective]]
-- [[The Oracle of the Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix]]
 
 ## Player-Facing Summary
@@ -255,3 +256,5 @@ Legends speak of The Sundered Peaks as a nexus where past and present converge. 
 - [[02_Worldbuilding/Places/The Sundered Peaks]]
 
 <!-- enriched: true -->
+- [[Crystal Wardens]]
+- [[Ironhold]]

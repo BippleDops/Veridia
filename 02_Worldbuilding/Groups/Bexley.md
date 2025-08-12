@@ -19,7 +19,7 @@ influence: Municipal (Bexley city limits)
 wealth: Substantial (municipal taxes and port revenues)
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.245487+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -481,3 +481,7 @@ Bexley is a undersea element of the setting, known for bioluminescent glow and p
 Legends speak of Bexley as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Bexley.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Groups/Bexley Port Authority]]

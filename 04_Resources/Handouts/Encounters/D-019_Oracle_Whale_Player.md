@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, encounter, depth]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Oracle Whale
@@ -24,3 +25,7 @@ Possible outcomes
 - You carry an omen forward
 - The meaning slips away
 - The truth is heavier than you hoped
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01]]

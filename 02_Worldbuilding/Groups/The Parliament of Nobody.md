@@ -18,11 +18,12 @@ influence: City-wide (Aquabyssos)
 wealth: Moderate (funded through information trading)
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.236760+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-parliament-of-nobody-the-parliament-of-nobody.svg)
@@ -261,7 +262,7 @@ The Parliament of Nobody represents the ultimate expression of [[02_Worldbuildin
 
 ### Secret Facilities
 - **[[The Memory Restoration Center]]**: Helps recover lost identity
-- **[[Shadow Embassy Network]]**: Outposts in various locations
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Outposts in various locations
 - **[[The Null Communications Hub]]**: Coordinates with other realms
 - **[[Reality Anchor Monitoring]]**: Tracks government erasure activities
 - **[[The Existence Planning Office]]**: Strategies for manifestation
@@ -395,3 +396,11 @@ The Parliament of Nobody is a undersea element of the setting, known for biolumi
 Legends speak of The Parliament of Nobody as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Parliament of Nobody.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Groups_Index]]
+- [[Reality Merge Zones]]
+- [[The Forgetting Bomb]]
+- [[Memory Farmers]]
+- [[Surface Portal Alpha]]

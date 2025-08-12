@@ -19,7 +19,7 @@ influence: Extensive (Information Networks)
 purpose: Control information through reflection magic
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.381809+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Heraldry
@@ -572,3 +572,7 @@ Shadow Broker Mirrors is a undersea element of the setting, known for biolumines
 Legends speak of Shadow Broker Mirrors as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Broker Mirrors.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Groups/Party Shadows]]

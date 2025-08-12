@@ -25,6 +25,7 @@ access_restriction: Commercial and Government Licensed
 
 
 
+
 # The Deep Harvest
 *Mechanized Abundance from the Ocean's Depths*
 
@@ -495,3 +496,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Umbral Exchange]]
+- [[Pressure Tubes]]

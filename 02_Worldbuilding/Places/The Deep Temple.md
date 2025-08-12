@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Aquabyssos
 status: draft
-created: '2025-08-11T13:08:45.991254+00:00'
-updated: '2025-08-11T13:08:51.026609+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 
 ## Overview
@@ -54,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Deep Temple]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Pearl Diving Honor Culture]]

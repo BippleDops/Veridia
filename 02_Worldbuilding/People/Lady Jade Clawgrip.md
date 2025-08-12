@@ -17,8 +17,9 @@ race: Half-Dragon (Silver Heritage)
 location: '[[The Silver Tower of Commerce]] - Acquisitions Floor'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.660475+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-lady-jade-clawgrip-lady-jade-clawgrip.svg)
@@ -500,7 +501,7 @@ Internal Consortium politics threaten civil war as board members position themse
 - [[Silverscale Consortium]]
 - [[Commander Thrace Ironwood]]
 - [[The Nameless Auditor]]
-- [[Quest - The Memory Bridge]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -515,3 +516,6 @@ Legends speak of Lady Jade Clawgrip as a nexus where past and present converge. 
 - [[02_Worldbuilding/People/Lady Jade Clawgrip]]
 
 <!-- enriched: true -->
+- [[Purist Coalition]]
+- [[Queen Seraphina Lumengarde]]
+- [[Aethermoor]]

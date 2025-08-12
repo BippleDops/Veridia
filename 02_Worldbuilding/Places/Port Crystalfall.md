@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Aethermoor
 status: draft
-created: '2025-08-11T13:08:46.432373+00:00'
-updated: '2025-08-11T13:08:50.724067+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 
 ## Overview
@@ -54,3 +55,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Port Crystalfall]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Hidden Smuggler's Cove]]
+- [[The Siren's Rest Tavern]]

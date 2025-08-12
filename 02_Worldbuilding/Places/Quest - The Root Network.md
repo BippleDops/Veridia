@@ -15,7 +15,7 @@ world: Aethermoor
 type: Location
 created_by: auto-stub
 created: 2025-08-11
-updated: '2025-08-11T13:08:50.682266+00:00'
+updated: 2025-08-11
 quest_type: Exploration/Environmental Adventure
 level_range: 7-13
 party_size: 4-6 characters

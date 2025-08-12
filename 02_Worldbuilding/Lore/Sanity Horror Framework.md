@@ -11,6 +11,7 @@ updated: 2025-08-11
 ---
 
 
+
 ## Overview
 
 TODO
@@ -38,3 +39,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Campaign_Dashboard]]
+
+
+## Connections
+
+- [[Complete_Pressure_Adaptation_System]]
+- [[Complete_Reality_Merger_System]]

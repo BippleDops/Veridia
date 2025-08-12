@@ -21,6 +21,7 @@ updated: 2025-08-11
 
 
 
+
 # Find the Grief Bomb
 
 **Type:** Investigation/Horror  
@@ -259,3 +260,26 @@ Legends speak of Find the Grief Bomb as a nexus where past and present converge.
 - A map overlay reveals a hidden approach to Find the Grief Bomb active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Throne Room - Heart of Palace]]
+
+
+## Connections
+
+- [[Order of the Drowned Star]]
+- [[Shadow Surgeons Collective]]
+- [[Sorrow-Root Nightbloom]]
+- [[Abyssos Prime - Inverse Palace]]
+- [[Abyssos Prime]]
+- [[Anti-Priest Nullus]]
+- [[Inverted Ballroom Wing - Party Quarters]]
+- [[Memory Farmers]]
+- [[Palace Courtyard - Crystal Garden]]
+- [[Parliament of Echoes]]
+- [[Temporal Navigation]]
+- [[The Archive of Unremembered Things]]
+- [[The Original Palace]]
+- [[The Singing Trenches]]
+- [[Throne Room - Heart of Palace]]

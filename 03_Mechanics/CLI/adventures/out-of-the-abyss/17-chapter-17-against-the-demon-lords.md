@@ -6,7 +6,7 @@ tags:
 aliases:
 - Chapter 17: Against the Demon Lords
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Chapter 17: Against the Demon Lords
@@ -303,3 +303,4 @@ Legends speak of 17 chapter 17 against the demon lords as a nexus where past and
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

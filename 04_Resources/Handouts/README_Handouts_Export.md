@@ -4,6 +4,7 @@ type: guide
 status: complete
 audience: dm
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Handouts Export Guide

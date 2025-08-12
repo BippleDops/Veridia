@@ -12,11 +12,11 @@ status: complete
 world: Aquabyssos
 type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
+created: 2025-08-11
 MyContainer: None
 MyCategory: Commercial Harbor
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.759590+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
 

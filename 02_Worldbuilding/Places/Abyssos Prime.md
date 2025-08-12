@@ -54,6 +54,7 @@ status: draft
 type: Location
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-abyssos-prime-docks-abyssos-prime-docks.svg)
 
@@ -394,14 +395,14 @@ Undead parliament that continues debating despite having no living constituents.
 - [[Theological Warfare]]
 - [[Void Currents]]
 - [[Whisper-Touched William]]
-- [[Bandit Scouts]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Crystalline Depths]]
-- [[Discover the Singers Beyond]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Find the Grief Bomb]]
 - [[Rescue Senator Glaucus]]
 - [[Smuggler]]
 - [[The Maw of Darkness]]
-- [[The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Traveling Merchant Finn]]
 - [[Campaign_Quick_Reference_Sheets]]
 - [[Campaign_Relationship_Matrix]]
@@ -423,3 +424,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Abyssos Prime]]
 
 <!-- enriched: true -->
+- [[Fortress of the Deeps]]
+- [[Marina Red Tide Coralheart - Aquabyssos]]
+- [[Surface Sympathizer Settlements]]
+- [[The Forgotten Representative]]

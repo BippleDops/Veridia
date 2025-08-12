@@ -21,10 +21,10 @@ weight: 1
 description: A brass compass whose needle spins wildly, pointing toward mysteries
   rather than magnetic north
 image_path: 04_Resources/Assets/Items/harbor_masters_compass.jpg
-created: 2025-01-25 12:00
+created: 2025-01-25
 modified: 2025-07-23 12:39
 world: Both
-updated: '2025-08-11T13:08:47.090386+00:00'
+updated: 2025-08-11
 status: draft
 ---
 
@@ -152,3 +152,7 @@ Legends speak of Harbor Master's Compass as a nexus where past and present conve
 - A map overlay reveals a hidden approach to Harbor Master's Compass active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[03_Mechanics/Rules_Reference/Homebrew/Items/Harbor Master's Compass]]

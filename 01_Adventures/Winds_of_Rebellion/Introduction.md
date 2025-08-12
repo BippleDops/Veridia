@@ -6,6 +6,7 @@ world: "Aethermoor"
 estimated_sessions: "6"
 themes: ["political-conspiracy", "aerial-combat", "court-intrigue", "factional-warfare", "wind-rider-traditions"]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Winds of Rebellion

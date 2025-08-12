@@ -18,8 +18,9 @@ category: Individual Character
 significance: Human Representative
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.569927+00:00'
+updated: 2025-08-11
 ---
+
 
 
 
@@ -347,3 +348,12 @@ Legends speak of Desperate Plague Victim as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Customs House]]
+- [[Crystal Garden]]
+- [[Customs House]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Transformed Citizens]]

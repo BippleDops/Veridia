@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:51.274454+00:00'
-created: '2025-08-11T13:08:51.274454+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: Group
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg)
@@ -59,3 +60,8 @@ Legends speak of The Artisans' Collective of Master Crafters as a nexus where pa
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Groups_Index]]
+- [[Crystal Wardens]]

@@ -104,7 +104,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 - [[Aethermoor Archives]] - Historical record repository
 - [[The Forgotten Archive]] - Lost knowledge storage
 - [[The Archive of Unremembered Things]] - Memory-focused library
-- [[The Sunken Library of Thalassius]] - Ancient underwater library
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Ancient underwater library
 - [[Abyssal Academy]] - Deep-sea learning institution
 
 ### Natural & Mystical Locations
@@ -292,3 +292,7 @@ Legends speak of Location Index as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Update Indexes]]

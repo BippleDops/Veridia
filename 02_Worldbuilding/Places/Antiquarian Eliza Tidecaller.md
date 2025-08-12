@@ -12,11 +12,11 @@ status: complete
 world: Aquabyssos
 type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
+created: 2025-08-11
 MyContainer: None
 MyCategory: Antiquarian Shop
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.273996+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
 
@@ -433,3 +433,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Antiquarian Eliza Tidecaller]]
 
 <!-- enriched: true -->
+riched: true -->

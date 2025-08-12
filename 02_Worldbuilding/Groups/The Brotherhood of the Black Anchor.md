@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:51.214062+00:00'
-created: '2025-08-11T13:08:51.214062+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -54,3 +54,7 @@ Legends speak of The Brotherhood of the Black Anchor as a nexus where past and p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Groups_Index]]

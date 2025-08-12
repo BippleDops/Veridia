@@ -1,7 +1,9 @@
 ---
-world: Both
-updated: '2025-08-11T13:08:50.652049+00:00'
-created: '2025-08-11T13:08:50.652049+00:00'
+created: 2025-08-11
+updated: 2025-08-11
+---
+
+-08-11
 status: draft
 tags:
 - both

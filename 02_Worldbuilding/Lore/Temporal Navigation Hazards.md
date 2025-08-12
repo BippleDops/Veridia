@@ -28,6 +28,7 @@ detection_difficulty: Extremely High
 
 
 
+
 # Temporal Navigation Hazards
 *When Time Itself Becomes the Enemy*
 
@@ -219,3 +220,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Aethermoor]]

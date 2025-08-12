@@ -12,6 +12,7 @@ updated: 2025-08-11
 
 
 
+
 ## Overview
 
 TODO
@@ -35,3 +36,14 @@ Legends speak of The Sunken Cities as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Sundering]]
+
+
+## Connections
+
+- [[The Sundering]]
+- [[Abyssos Prime - Inverse Palace]]
+- [[The Pressure Conspiracy]]

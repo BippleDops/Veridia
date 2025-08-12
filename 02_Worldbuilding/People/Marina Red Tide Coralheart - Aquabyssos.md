@@ -20,11 +20,12 @@ faction: Independent (Former [[Depth Guard]])
 status_condition: Switching with Shadow
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.940491+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-marina-red-tide-coralheart-aquabyssos-marina-red-tide-coralheart-aquabyssos.svg)
@@ -417,3 +418,4 @@ Legends speak of Marina Red Tide Coralheart   Aquabyssos as a nexus where past a
 - [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
 
 <!-- enriched: true -->
+- [[Memory Farmers]]

@@ -21,8 +21,9 @@ required_skills:
 - Survival
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.629403+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-compass-quest-compass-quest.svg)
@@ -418,3 +419,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Compass Quest]]
 
 <!-- enriched: true -->
+- [[Multi-Phase Boss Fights]]
+- [[Reality Merge Zones]]
+- [[Navigator Sage Driftwood]]
+- [[Port Meridian]]
+- [[The Hadal Depths]]

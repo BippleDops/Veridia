@@ -1,15 +1,22 @@
 ---
-tags: [Category/Lore]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
+updated: 2025-08-11
+created: 2025-08-11
+tags:
+- Category/Lore
+status: complete
+world: Aethermoor
+type: lore
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "This lore entry explains a pivotal principle or event and its consequences for play."
+  screen_reader_summary: This lore entry explains a pivotal principle or event and
+    its consequences for play.
   content_warnings: []
-  pronunciation: "Face the Ancient Threat"
-  safety_tools: ["Lines & Veils", "X-Card"]
+  pronunciation: Face the Ancient Threat
+  safety_tools:
+  - Lines & Veils
+  - X-Card
 ---
+
 
 
 
@@ -59,3 +66,8 @@ Legends speak of Face the Ancient Threat as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Threshold]]

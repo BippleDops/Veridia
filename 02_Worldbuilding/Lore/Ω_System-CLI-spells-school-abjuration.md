@@ -28,6 +28,7 @@ practitioners: Protective mages, clerics, wardens
 
 
 
+
 # Abjuration School of Magic
 *The Art of Protection, Banishment, and Magical Barriers*
 
@@ -246,3 +247,8 @@ Legends speak of Ω System CLI spells school abjuration as a nexus where past an
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Spell Components]]
+- [[Aethermoor]]

@@ -28,6 +28,7 @@ access_restriction: Authorized Personnel and Guided Tours
 
 
 
+
 # Crystal Forest
 *The Growing Heart of Aquabyssos Technology*
 
@@ -546,3 +547,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Eastern Kingdom]]
+- [[Umbral Exchange]]
+- [[Pressure Tubes]]

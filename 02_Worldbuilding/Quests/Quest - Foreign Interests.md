@@ -77,7 +77,7 @@ Multiple foreign powers have sent "diplomatic missions" to [[02_Worldbuilding/Pl
 #### The Azure Fleet
 **Maritime Confederation**
 - Controls sea trade routes
-- Ambassador: [[Admiral Coral Wavecrest]]
+- Ambassador: [[02_Worldbuilding/Quests/Aquabyssos]]
 - Hidden Agenda: Naval base establishment
 - Assets: Ship blockades, pirate connections
 
@@ -264,7 +264,7 @@ Multiple foreign powers have sent "diplomatic missions" to [[02_Worldbuilding/Pl
 - **[[Lady Willow Greenbough]]**: Emerald Reaches
 - **[[General Viktor Ironhold]]**: Iron Principalities
 - **[[Count Erasmus Shadowmere]]**: Shadowmere Republic (shadow)
-- **[[Admiral Coral Wavecrest]]**: Azure Fleet
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Azure Fleet
 
 ### Embassy Staff (Spies)
 - **[[Silk Merchant Chen]]**: Goldspire spy master
@@ -381,7 +381,7 @@ Multiple foreign powers have sent "diplomatic missions" to [[02_Worldbuilding/Pl
 
 ### Related Quests
 - [[02_Worldbuilding/Quests/Quest - The Crystal Festival]] - Culmination
-- [[Quest - The Seventh Shard]] - Foreign interest
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Foreign interest
 - [[Quest - Economic Warfare]] - Goldspire plot
 - [[Quest - Shadow Infiltration]] - Shadowmere connection
 - [[Quest - The Queen's Secret]] - Leverage

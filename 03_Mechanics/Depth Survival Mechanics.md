@@ -12,9 +12,10 @@ type: Lore
 complexity: advanced
 created: 2025-08-07
 world: Both
-updated: '2025-08-11T13:08:47.057986+00:00'
+updated: 2025-08-11
 status: draft
 ---
+
 
 
 
@@ -374,3 +375,10 @@ Legends speak of Depth Survival Mechanics as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Travel/Pressure_Weather_Events]]
+- [[Aethermoor_Airships]]
+- [[Vehicle_Core_Rules]]
+- [[Pressure_Weather_Events]]

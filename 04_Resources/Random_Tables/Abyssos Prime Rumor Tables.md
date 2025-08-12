@@ -12,7 +12,7 @@ location: Abyssos Prime
 spoiler_level: Mixed truth and lies
 created: 2025-08-07
 world: Both
-updated: '2025-08-11T13:08:47.043790+00:00'
+updated: 2025-08-11
 status: draft
 ---
 

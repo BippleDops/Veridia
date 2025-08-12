@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.776525+00:00'
-updated: '2025-08-11T13:08:48.784364+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -43,3 +44,12 @@ Legends speak of Depth Spirituality as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Groups/Temple of Divine Order]]
+
+
+## Connections
+
+- [[Temple of Divine Order]]

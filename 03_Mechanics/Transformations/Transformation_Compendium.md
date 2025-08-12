@@ -210,7 +210,7 @@ Characters accumulate Transformation Points (TP) through exposure, choice, or cu
 ---
 
 ## See Also
-- [[02_Worldbuilding/Lore/Sanity System]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/Lore/The Great Crystallization]]
 - [[02_Worldbuilding/Lore/Deep Mother]]
 - [[03_Mechanics/Conditions]]
@@ -236,3 +236,7 @@ Legends speak of Transformation Compendium as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[03_Mechanics/Transformations/Crystal/Crystal_Bloom]]

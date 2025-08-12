@@ -4,6 +4,7 @@ type: mechanics
 status: complete
 tags: [mechanics, classes, hybrid]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Hybrid Class System
@@ -20,7 +21,7 @@ Pressure/crystal hybrids, transformation prestige, parasite-symbiont paths, void
 - Parasite Knight (Fighter): Symbiont armor with hunger
 - Crystal Cantor (Bard): Resonance songs, shatter risks
 
-Integrates with: [[Sanity System]], [[Memory Trading Economy System|Memory Economy]], [[Complete Pressure Adaptation System]].
+Integrates with: [[02_Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]], [[Complete Pressure Adaptation System]].
 
 ## Player-Facing Summary
 
@@ -41,3 +42,7 @@ Legends speak of Hybrid Class System as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[03_Mechanics/Phase_Omega_Enhanced_Index]]

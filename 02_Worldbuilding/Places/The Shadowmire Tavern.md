@@ -25,8 +25,9 @@ services:
 - Neutral Meeting Space
 created_by: Claude
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.356325+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-shadowmire-tavern-the-shadowmire-tavern.svg)
@@ -316,3 +317,11 @@ Legends speak of The Shadowmire Tavern as a nexus where past and present converg
 - [[02_Worldbuilding/Places/The Shadowmire Tavern]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Liminal Trading Company]]
+- [[The Depth Wardens]]
+- [[The Nameless Auditor]]
+- [[Memory Farmers]]

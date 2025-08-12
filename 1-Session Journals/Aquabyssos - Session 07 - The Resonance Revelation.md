@@ -33,9 +33,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: '2025-08-11T13:08:46.963037+00:00'
-created: '2025-08-11T13:08:46.963037+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 ---
+
 
 
 
@@ -219,3 +220,15 @@ She begins to resonate at a frequency that makes reality blur: "Get to the [[Mou
 - Design Singer Beyond manifestations
 - Prepare Mourning Depths approach
 - Create the Grief Bomb mechanics
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]
+
+
+## Connections
+
+- [[Deep Mother]]
+- [[Sorrow Pearls]]
+- [[Crystallium]]
+- [[Mourning Depths]]

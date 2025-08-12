@@ -12,11 +12,11 @@ status: complete
 world: Aquabyssos
 type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
+created: 2025-08-11
 MyContainer: None
 MyCategory: Religious Monument
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:51.113216+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
 
@@ -254,3 +254,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Angel of the Depths]]
 
 <!-- enriched: true -->
+riched: true -->

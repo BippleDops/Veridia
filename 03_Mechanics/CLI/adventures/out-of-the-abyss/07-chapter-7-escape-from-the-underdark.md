@@ -6,7 +6,7 @@ tags:
 aliases:
 - Chapter 7: Escape from the Underdark
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Chapter 7: Escape from the Underdark
@@ -196,3 +196,4 @@ Legends speak of 07 chapter 7 escape from the underdark as a nexus where past an
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

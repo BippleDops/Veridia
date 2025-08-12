@@ -6,7 +6,7 @@ tags:
 aliases:
 - Work Complications
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Work Complications

@@ -8,10 +8,10 @@ tags:
 - note
 aliases:
 - Side Screen
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 world: Both
-updated: '2025-08-11T13:08:47.086655+00:00'
+updated: 2025-08-11
 status: draft
 ---
 
@@ -173,3 +173,7 @@ Legends speak of DnD5e SideScreen 2014 as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[03_Mechanics/CLI/actions]]

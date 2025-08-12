@@ -18,11 +18,12 @@ size: Unknown (Estimated 200-500 Members)
 location: '[[The Symbiotic Sanctuaries]] - Hidden throughout Aquabyssos'
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.997595+00:00'
+updated: 2025-08-11
 influence: Growing
 secrecy_level: High
 danger_level: Extreme
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-parasite-priests-the-parasite-priests.svg)
@@ -435,3 +436,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/The Parasite Priests]]
 
 <!-- enriched: true -->
+- [[Throne of Bubbles]]

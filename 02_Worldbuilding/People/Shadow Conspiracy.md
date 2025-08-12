@@ -18,7 +18,7 @@ size: Unknown (Estimated 500-2000 Members)
 location: '[[02_Worldbuilding/Places/The Shadow Markets]]'
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.956408+00:00'
+updated: 2025-08-11
 influence: Extensive
 secrecy_level: Maximum
 ---

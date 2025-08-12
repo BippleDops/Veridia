@@ -1,7 +1,7 @@
 ---
 world: Aethermoor
-updated: '2025-08-11T13:08:50.198233+00:00'
-created: '2025-08-11T13:08:50.198233+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - aethermoor
@@ -9,6 +9,7 @@ tags:
 type: Location
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-aethermoor-aethermoor.svg)
@@ -95,7 +96,7 @@ Extended use causes **Aether Sickness**:
 ## Current Events
 
 ### The Crystal Plague
-A new form of corruption spreading through [[02_Worldbuilding/Places/Port Meridian]], investigated in [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]].
+A new form of corruption spreading through [[02_Worldbuilding/Places/Port Meridian]], investigated in [[02_Worldbuilding/Quests/Aquabyssos]].
 
 ### The Lost Expedition
 [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'s expedition to find the Seventh Shard has gone missing in [[02_Worldbuilding/Places/The Crystalline Wastes]].
@@ -158,8 +159,8 @@ The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civ
 - [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Explorer
 
 ## Active Quests
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Investigate the corruption spreading
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - Search for the lost crown fragment
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Investigate the corruption spreading
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Search for the lost crown fragment
 - [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Negotiate peace between factions
 
 
@@ -293,16 +294,16 @@ The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civ
 - [[Withered Court]]
 - [[Aether Crystals]]
 - [[Aquabyssos]]
-- [[Bandit Leader Scarface]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Quest - Hearts and Minds]]
 - [[Quest - Nature's Balance]]
-- [[Quest - Smuggler's Run]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Quest - The Lost Expedition]]
 - [[Rescue Senator Glaucus]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Smuggler]]
 - [[Stop the Crystal Festival Ritual]]
-- [[The Oracle of the Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Whispering Expanse]]
 - [[Traveling Merchant Finn]]
 
@@ -323,3 +324,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Aethermoor]]
 
 <!-- enriched: true -->
+- [[Aetheric Wind Songs]]
+- [[Eastern Kingdom]]
+- [[Goldwave Manor]]
+- [[Queen Seraphina]]
+- [[The Floating Market]]

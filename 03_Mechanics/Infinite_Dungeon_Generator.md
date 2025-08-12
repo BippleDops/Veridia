@@ -4,6 +4,7 @@ type: mechanics
 status: complete
 tags: [mechanics, procedural, dungeon]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Infinite Dungeon Generator
@@ -27,7 +28,7 @@ Procedurally generates themed, scalable dungeons with treasure, bosses, storytel
 ## Emergent Puzzles
 - Systems that combine: pressure valves + gravity fields + memory switches
 
-Use with: [[Journey_Event_Compiler]], [[Sanity System]], [[Memory Trading Economy System|Memory Economy]].
+Use with: [[Journey_Event_Compiler]], [[02_Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]].
 
 ## Player-Facing Summary
 
@@ -48,3 +49,7 @@ Legends speak of Infinite Dungeon Generator as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[03_Mechanics/Phase_Omega_Enhanced_Index]]

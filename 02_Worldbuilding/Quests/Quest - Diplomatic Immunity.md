@@ -12,6 +12,7 @@ type: Lore
 
 
 
+
 # Quest - Diplomatic Immunity
 *Preventing the War Nobody Wins*
 
@@ -275,7 +276,7 @@ Need 25+ points for lasting peace
 ## Connected Quests
 - [[Quest - The Crystal Festival]] - Deadline event
 - [[Quest - Hearts and Minds]] - Public opinion
-- [[Quest - The Moderate Path]] - Protecting moderates
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Protecting moderates
 - [[Quest - Foreign Interests]] - External threats
 
 ## Long-term Impact
@@ -313,3 +314,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Quest - Hearts and Minds]]
+- [[Crystal Wardens]]
+- [[Brother Marcus Steelbane]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[Lord Aurelius Goldwave]]
+- [[Quest - Foreign Interests]]
+- [[Quest - Hearts and Minds]]
+- [[Quest - The Crystal Festival]]

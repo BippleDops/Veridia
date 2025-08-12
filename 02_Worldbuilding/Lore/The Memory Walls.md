@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Both
 status: draft
-created: '2025-08-11T13:08:45.957652+00:00'
-updated: '2025-08-11T13:08:47.210676+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -43,3 +44,12 @@ Legends speak of The Memory Walls as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Corallion]]
+
+
+## Connections
+
+- [[Corallion]]

@@ -7,7 +7,8 @@ tags:
 aliases:
 - Aspect of the Moon
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Aspect of the Moon

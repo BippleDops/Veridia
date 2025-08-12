@@ -2,10 +2,14 @@
 title: Merger Transit Complications
 type: gm_resource
 status: complete
-tags: [gm, travel, merger]
+tags:
+- gm
+- travel
+- merger
 created: 2025-08-11
 updated: 2025-08-11
 ---
+
 
 # Merger Transit Complications
 
@@ -37,3 +41,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[06_GM_Resources/Travel/Travel_Event_Table]]
+
+
+## Connections
+
+- [[Aethermoor_Airships]]
+- [[Travel_Event_Table]]

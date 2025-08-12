@@ -2,9 +2,15 @@
 title: Journey Event Compiler
 type: mechanics
 status: complete
-tags: [mechanics, travel, encounters, events]
+tags:
+- mechanics
+- travel
+- encounters
+- events
 created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 # Journey Event Compiler
 
@@ -49,3 +55,18 @@ Legends speak of Journey Event Compiler as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Travel/Travel_Event_Table]]
+
+
+## Connections
+
+- [[Ecosystem_Simulation_Engine]]
+- [[Infinite_Dungeon_Generator]]
+- [[Aquabyssos_Submarines]]
+- [[Fleet_Dynamics_Generator]]
+- [[Merger_Hybrid_Vehicles]]
+- [[Transportation_Infrastructure]]
+- [[Travel_Event_Table]]

@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.992986+00:00'
-created: '2025-08-11T13:08:49.992986+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-captain-blackwater-captain-blackwater.svg)
@@ -21,7 +22,7 @@ type: NPC
 > *"For the Table: Captain Blackwater works best as a tragic mirror to heroic ideals - a warning of what happens when noble intentions meet corrupting power. Use him to challenge players' assumptions about salvation versus corruption."*
 
 ## Overview
-Captain Marcus "Black Mark" Blackwater is the younger brother of the famous explorer [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]. Once a respected naval officer in his own right, Marcus became obsessed with finding his missing brother and launched his own expedition into [[02_Worldbuilding/Places/The Crystalline Wastes]]. What he found there changed him forever. Now partially transformed by crystal corruption, he serves as an unwitting herald for the awakening power of the [[02_Worldbuilding/Quests/Quest - The Seventh Shard]], leading a crew of similarly corrupted souls through the dangerous borderlands between the crystal wastes and the civilized world.
+Captain Marcus "Black Mark" Blackwater is the younger brother of the famous explorer [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]. Once a respected naval officer in his own right, Marcus became obsessed with finding his missing brother and launched his own expedition into [[02_Worldbuilding/Places/The Crystalline Wastes]]. What he found there changed him forever. Now partially transformed by crystal corruption, he serves as an unwitting herald for the awakening power of the [[02_Worldbuilding/Quests/Aquabyssos]], leading a crew of similarly corrupted souls through the dangerous borderlands between the crystal wastes and the civilized world.
 
 ## Appearance
 - **Age**: 42 (appears older due to corruption)
@@ -282,7 +283,7 @@ If Marcus continues down his current path, he becomes the unwitting catalyst for
 - [[02_Worldbuilding/Places/Crystalhaven]] - Staging point for crystal expeditions
 
 ## Related Quests
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - Central to his corruption
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Central to his corruption
 - [[Quest - The Brother's Burden]] - Finding Thaddeus
 - [[Quest - The Crystal Refugees]] - Moral complexity of corruption
 - [[Quest - The Family Reunion]] - Personal stakes
@@ -311,3 +312,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Captain Blackwater]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Elder Matthias Stoneward]]

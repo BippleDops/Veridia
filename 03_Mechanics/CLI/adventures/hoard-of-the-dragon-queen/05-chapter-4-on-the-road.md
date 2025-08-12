@@ -1,12 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
+created: 2025-08-11
+updated: 2025-08-11
+---
+
+te
 tags:
 - ttrpg-cli/compendium/src/5e/hotdq
 aliases:
 - Chapter 4: On the Road
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Chapter 4: On the Road

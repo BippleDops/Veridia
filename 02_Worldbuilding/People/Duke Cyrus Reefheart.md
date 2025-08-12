@@ -9,6 +9,7 @@ tags:
 type: NPC
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-duke-cyrus-reefheart-duke-cyrus-reefheart.svg)
 
@@ -174,3 +175,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
 
 <!-- enriched: true -->
+- [[Master Cultivator Thalia Greenglow]]
+- [[The Deepmind]]

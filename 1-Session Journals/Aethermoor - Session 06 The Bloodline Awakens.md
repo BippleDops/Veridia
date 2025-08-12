@@ -9,7 +9,7 @@ npcs_featured:
 - '[[02_Worldbuilding/People/High Inquisitor Maltheos]]'
 - '[[Jasper Three-Eyes Flint]]'
 quests_advanced:
-- '[[02_Worldbuilding/Quests/Quest - The Seventh Shard]]'
+- '[[02_Worldbuilding/Quests/Aquabyssos]]'
 - '[[Uniting the Factions]]'
 - '[[Rewriting the Ritual]]'
 level: 4
@@ -26,8 +26,8 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-11T13:08:46.960943+00:00'
-created: '2025-08-11T13:08:46.960943+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 ---
 
@@ -140,7 +140,7 @@ One party member begins to crystallize, but unlike plague victims, the crystals 
 With five shards gathered, the party races toward the festival. They arrive to find thousands of citizens already gathered, swaying in unison. The crystallized Queen stands at the center of a massive runic circle, the sixth shard floating above her. As the sun sets, she speaks in harmony with the crowd: "The Seventh comes. The circle closes. Aquabyssos rises." The bloodline carrier feels an irresistible pull toward the circle as their crystalline patterns begin spreading uncontrollably.
 
 ## 🔗 Connected Notes
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Crystal Festival]]
 - [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
 - [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
@@ -160,3 +160,7 @@ Key Decision Points:
 - **If coup succeeds**: Underground resistance forms
 - **If they miss shards**: Crimson Sage has emergency stash
 - **If they take too long**: Festival begins early
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]

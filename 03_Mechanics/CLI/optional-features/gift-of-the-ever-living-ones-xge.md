@@ -7,7 +7,8 @@ tags:
 aliases:
 - Gift of the Ever-Living Ones
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Gift of the Ever-Living Ones

@@ -29,6 +29,7 @@ world: Both
 updated: 2025-08-11
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-prince-caspian-duskwater-prince-caspian-duskwater.svg)
 
@@ -281,3 +282,5 @@ Legends speak of Prince Caspian Duskwater as a nexus where past and present conv
 - [[02_Worldbuilding/People/Prince Caspian Duskwater]]
 
 <!-- enriched: true -->
+- [[Quest - The Void Conspiracy]]
+- [[Quest - The Pretender's Crown]]

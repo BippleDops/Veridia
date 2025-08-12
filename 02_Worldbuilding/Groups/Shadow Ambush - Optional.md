@@ -19,8 +19,9 @@ influence: Specialized (Military Operations)
 purpose: Elite ambush and tactical warfare unit
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.269686+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-ambush-optional-shadow-ambush-optional.svg)
@@ -544,3 +545,8 @@ Shadow Ambush   Optional is a undersea element of the setting, known for biolumi
 Legends speak of Shadow Ambush   Optional as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Ambush   Optional.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[Admiral Thorne Blackwater]]

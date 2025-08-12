@@ -19,11 +19,12 @@ influence: National
 wealth: Immense
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.330150+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-crown-authority-the-crown-authority.svg)
@@ -396,7 +397,7 @@ After Aetheron's Crown shattered into Seven Shards:
 
 ### Associated Quests
 - [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Quest - Succession Crisis]]
 - [[Quest - The Crown's Shadow]]
 - [[Quest - Royal Redemption]]
@@ -421,3 +422,13 @@ The Crown is a undersea element of the setting, known for bioluminescent glow an
 Legends speak of The Crown as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crown.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
+
+
+## Connections
+
+- [[Castellan Ironledger III]]
+- [[Crystal Gardens]]

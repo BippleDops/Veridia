@@ -7,6 +7,7 @@ tags: [adventure, horror, investigation, cosmic-horror, void-breach, reality-cor
 world: "Aquabyssos"
 themes: ["psychological_horror", "reality_distortion", "eldritch_investigation", "sanity_loss"]
 created: 2025-08-11
+updated: 2025-08-11
 connections: ["[[Deep Mother Lore]]", "[[Deep Mother Cult Practices]]", "[[Sanity_Horror_Framework]]"]
 ---
 

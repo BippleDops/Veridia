@@ -23,11 +23,12 @@ influence: Moderate
 danger_level: Low
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.579172+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Merchant
 obsidianUIMode: preview
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-supplier-erikson-tidecaller-supplier-erikson-tidecaller.svg)
@@ -166,3 +167,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Supplier Erikson Tidecaller]]
 
 <!-- enriched: true -->
+- [[Abyssos Prime]]
+- [[Harbor Master Luna Freedrift]]

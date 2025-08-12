@@ -2,10 +2,14 @@
 title: Crew Relationship Events
 type: gm_resource
 status: complete
-tags: [gm, travel, crew]
+tags:
+- gm
+- travel
+- crew
 created: 2025-08-11
 updated: 2025-08-11
 ---
+
 
 # Crew Relationship Events
 
@@ -37,3 +41,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[06_GM_Resources/Travel/Travel_Event_Table]]
+
+
+## Connections
+
+- [[Travel_Event_Table]]

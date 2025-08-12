@@ -36,3 +36,7 @@ updated: 2024-01-01
 
 ## symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png)
+
+## Cross-References
+
+- [[04_Resources/Assets/Galleries/Index]]

@@ -19,7 +19,7 @@ influence: Regional (Martial arts community and spiritual seekers)
 wealth: Modest (Donations and training fees)
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.302878+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview

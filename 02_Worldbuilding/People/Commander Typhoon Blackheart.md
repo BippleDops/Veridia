@@ -17,8 +17,9 @@ race: Human (Pressure-Adapted)
 location: '[[The Fortress of the Deeps]] - Command Center'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.906719+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-commander-typhoon-blackheart-commander-typhoon-blackheart.svg)
@@ -241,3 +242,16 @@ Legends speak of Commander Typhoon Blackheart as a nexus where past and present 
 - [[02_Worldbuilding/Places/Commander Typhoon Blackheart]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Liminal Trading Company]]
+- [[Fortress of the Deeps]]
+- [[Queen Seraphina]]
+- [[Captain Garrett Stormcutter]]
+- [[Emperor Thalassius the Wise]]
+- [[Tenebrarum Ambassadors]]
+- [[The Depth Wardens]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Memory Farmers]]

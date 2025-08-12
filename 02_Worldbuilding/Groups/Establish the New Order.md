@@ -36,8 +36,9 @@ benefits:
   reward: Advanced reality anchor technology and regional leadership opportunities
 - standing: 3
   reward: Direct council with the Architect and realm-shaping authority
-updated: '2025-08-11T13:08:51.292179+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-establish-the-new-order-establish-the-new-order.svg)
@@ -396,3 +397,29 @@ Legends speak of Establish the New Order as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+
+
+## Connections
+
+- [[Ancient Mer-Folk Empire]]
+- [[Crystal Wardens]]
+- [[Independent Smugglers]]
+- [[Master Artificers Guild]]
+- [[Merchant Princes]]
+- [[Purist Coalition]]
+- [[Temple of Divine Order]]
+- [[The Crown Authority]]
+- [[The Deepwatch Guard]]
+- [[The Order of the Azure Flame]]
+- [[The Parliament of Nobody]]
+- [[The Seekers' Guild]]
+- [[The Void Watchers]]
+- [[The Restoration Movement]]
+- [[Brother Marcus Steelbane]]
+- [[Commander Thrace Ironwood]]
+- [[Lumengarde]]
+- [[The Sundered Peaks]]

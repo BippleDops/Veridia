@@ -13,11 +13,11 @@ type: NPC
 world: Both Realms
 faction: '[[02_Worldbuilding/Groups/The Whisper Syndicate]]'
 status: Active
-created: 2025-08-09 - Category/People
+created: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.901034+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait

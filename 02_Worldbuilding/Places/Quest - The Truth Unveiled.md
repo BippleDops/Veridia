@@ -13,7 +13,7 @@ world: Aethermoor
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.119353+00:00'
+updated: 2025-08-11
 quest_type: Investigation/Political Thriller
 level_range: 5-10
 party_size: 3-6 characters
@@ -22,6 +22,7 @@ difficulty: Hard
 primary_location: Port Meridian and surrounding regions
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-quest-the-truth-unveiled-quest-the-truth-unveiled.svg)
@@ -343,3 +344,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
 
 <!-- enriched: true -->
+- [[Aethermoor]]
+- [[Parliament of Echoes]]
+- [[Port Meridian]]

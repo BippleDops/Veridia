@@ -10,11 +10,11 @@ status: complete
 world: Aquabyssos
 type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Places
+created: 2025-08-11
 MyContainer: None
 MyCategory: Royal
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.016469+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait
@@ -139,3 +139,4 @@ Legends speak of Abyssos Prime   Throne of Bubbles as a nexus where past and pre
 - [[02_Worldbuilding/People/Abyssos Prime - Throne of Bubbles]]
 
 <!-- enriched: true -->
+nriched: true -->

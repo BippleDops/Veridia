@@ -1,15 +1,23 @@
 ---
-tags: [Category/People]
-status: "complete"
-world: "Aquabyssos"
-type: "meta"
+updated: 2025-08-11
+created: 2025-08-11
+tags:
+- Category/People
+status: complete
+world: Aquabyssos
+type: meta
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "Guidelines and tools for integrating player characters into Aquabyssos with bonds, roles, and session zero prompts."
+  screen_reader_summary: Guidelines and tools for integrating player characters into
+    Aquabyssos with bonds, roles, and session zero prompts.
   content_warnings: []
-  pronunciation: "The Party"
-  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
+  pronunciation: The Party
+  safety_tools:
+  - Lines & Veils
+  - X-Card
+  - Open Door
 ---
+
 
 
 # The Party
@@ -446,3 +454,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/The Party]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Oracle]]
+- [[Senator_Glaucus_Brain]]

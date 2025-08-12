@@ -14,7 +14,7 @@ created: 2025-08-08 - Category/Quests
 MyContainer: None
 MyCategory: Political
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.003519+00:00'
+updated: 2025-08-11
 cr: '6'
 ---
 

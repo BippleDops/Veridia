@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.561851+00:00'
-updated: '2025-08-11T13:08:51.154843+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-reef-shark-xmm-reef-shark-xmm.svg)
@@ -58,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Reef Shark]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Current Riders Guild]]

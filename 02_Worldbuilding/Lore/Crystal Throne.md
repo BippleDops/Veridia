@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.149183+00:00'
-updated: '2025-08-11T13:08:48.375589+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-crystal-throne-the-crystal-throne.svg)
@@ -47,3 +48,13 @@ Legends speak of Crystal Throne as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Cathedral of Light]]
+
+
+## Connections
+
+- [[Cathedral of Light]]
+- [[The Gilded Shard]]

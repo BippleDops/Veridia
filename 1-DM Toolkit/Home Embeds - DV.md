@@ -13,6 +13,7 @@ created: 2025-08-11
 ---
 
 
+
 # Home Embeds - DV
 
 ## Party
@@ -303,3 +304,8 @@ SORT file.name DESC
 ## Cross-References
 
 - [[1-DM Toolkit/Vault Report]]
+
+
+## Connections
+
+- [[Vault Report]]

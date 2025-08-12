@@ -19,11 +19,12 @@ influence: Continental
 wealth: Controls 60% of crystal trade
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.299780+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-silverscale-consortium-silverscale-consortium.svg)
@@ -433,3 +434,8 @@ Silverscale Consortium is a undersea element of the setting, known for biolumine
 Legends speak of Silverscale Consortium as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Silverscale Consortium.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Groups_Index]]
+- [[The Nameless Auditor]]

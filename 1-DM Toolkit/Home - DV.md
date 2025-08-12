@@ -51,3 +51,7 @@ type: Lore
 > > 
 > > > [!div-m|no-title]
 > > > ![[Home Embeds - DV#Vault Graph|no-h clean]]
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Island of Skulls]]

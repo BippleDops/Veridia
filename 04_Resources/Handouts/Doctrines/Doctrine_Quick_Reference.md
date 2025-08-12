@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, doctrine, factions]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Doctrine Quick Reference
@@ -24,3 +25,7 @@ Travel feels different under each doctrine. Use this as a vibe guide and checkli
 - [[04_Resources/Handouts/Doctrines/Reality_Control_Player|Reality Control]]
 - [[04_Resources/Handouts/Doctrines/Humanitarian_Relief_Player|Humanitarian Relief]]
 - [[04_Resources/Handouts/Doctrines/Pirate_Confederacy_Player|Pirate Confederacy]]
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01]]

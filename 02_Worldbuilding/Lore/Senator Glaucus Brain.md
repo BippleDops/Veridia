@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Aquabyssos
 status: draft
-created: '2025-08-11T13:08:46.660586+00:00'
-updated: '2025-08-11T13:08:49.126215+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-senator-glaucus-brain-senator-glaucus-brain.svg)
@@ -38,3 +39,12 @@ Legends speak of Senator Glaucus Brain as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Groups/Party Shadows]]
+
+
+## Connections
+
+- [[Party Shadows]]

@@ -26,6 +26,7 @@ obsidianUIMode: preview
 
 
 
+
 # Quest - The Crystal Festival
 *The Convergence of Shards, The Queen's Gambit, The Transformation Celebration*
 
@@ -333,12 +334,12 @@ Each Shard grants:
 ## Connection to Larger Campaign
 
 ### Previous Quests
-- [[Quest - The Plague of Crystals]] leads here
+- [[02_Worldbuilding/Quests/Aquabyssos]] leads here
 - [[Quest - Foreign Interests]] sets up factions
 - [[Quest - The Shadow Conspiracy]] explains infiltration
 
 ### Future Quests  
-- [[Quest - The Seventh Shard]] if not resolved
+- [[02_Worldbuilding/Quests/Aquabyssos]] if not resolved
 - [[Quest - The Deep Mother Rises]] triggered by outcome
 - [[Quest - The New World Order]] dealing with aftermath
 - [[Quest - The Merged Reality]] if worlds combine
@@ -384,3 +385,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
+- [[Quest - Foreign Interests]]

@@ -18,8 +18,9 @@ current_location: Unknown (Hidden)
 danger_level: 5
 created_by: Claude
 created: 2025-08-09
-updated: '2025-08-11T13:08:47.102682+00:00'
+updated: 2025-08-11
 ---
+
 
 
 # The Tidal Shard of Memory
@@ -301,3 +302,12 @@ The Tidal Shard of Memory is a undersea element of the setting, known for biolum
 Legends speak of The Tidal Shard of Memory as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Tidal Shard of Memory.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Recursion Cult]]
+
+
+## Connections
+
+- [[Memory Farmers]]

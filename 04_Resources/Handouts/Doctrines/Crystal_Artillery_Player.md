@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, doctrine]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Crystal Artillery
@@ -21,3 +22,7 @@ Crew tips
 
 Risks
 - Null pockets will make you blind and quiet
+
+## Cross-References
+
+- [[04_Resources/Handouts/Doctrines/Doctrine_Quick_Reference]]

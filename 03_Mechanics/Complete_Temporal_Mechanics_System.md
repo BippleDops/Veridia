@@ -2,9 +2,15 @@
 title: Complete Temporal Mechanics System
 type: mechanics
 status: complete
-tags: [mechanics, time, paradox, combat]
+tags:
+- mechanics
+- time
+- paradox
+- combat
 created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 # Complete Temporal Mechanics System
 
@@ -35,7 +41,7 @@ Builds time travel rules, paradox resolution, temporal combat, chrono-corruption
 
 ## Chrono-Corruption
 - Symptoms: Time-sickness, identity drift, déjà vu loops
-- Mechanics: Failed saves cause Long/Indefinite Madness (see [[Sanity System]])
+- Mechanics: Failed saves cause Long/Indefinite Madness (see [[02_Worldbuilding/Quests/Aquabyssos]])
 - Treatment: Memory transfusions, anchor sanctification, Deep Mother bargains
 
 ## Temporal Anomalies (d20 samples)
@@ -49,7 +55,7 @@ Builds time travel rules, paradox resolution, temporal combat, chrono-corruption
 - Fast/Slow/Stopped bands; pressure/altitude modifiers interact with time flow
 - Long exposure: Aging/regression risks; sanity checks
 
-Integration: [[Complete Reality Merger System]], [[Sanity System]], [[Memory Trading Economy System|Memory Economy]], [[Deep Mother]].
+Integration: [[Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]], [[Deep Mother]].
 
 ## Player-Facing Summary
 
@@ -70,3 +76,13 @@ Legends speak of Complete Temporal Mechanics System as a nexus where past and pr
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Travel/Encounter_Sheets/M-102_Time_Skip_Round]]
+
+
+## Connections
+
+- [[Campaign_Legacy_System]]
+- [[M-102_Time_Skip_Round]]

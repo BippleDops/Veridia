@@ -15,6 +15,7 @@ updated: 2025-08-11
 status: draft
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg)
 
@@ -282,7 +283,7 @@ If party gathers all seven:
 - [[Crystal Mimics]] - Artificial Shard fragments
 
 ### Strategic Interests
-- [[Quest - The Seventh Shard]] - The ongoing search
+- [[02_Worldbuilding/Quests/Aquabyssos]] - The ongoing search
 - [[Aurelius Goldwave]] - Using financial networks to track Shards
 - [[Vex Shadowthorn]] - Major information holder
 - [[Crystal Guard Elite]] - Security forces protecting Shards
@@ -316,9 +317,9 @@ If party gathers all seven:
 - [[Aether Crystals]]
 - [[Ambush Point]]
 - [[Crystalline Depths]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Maw of Darkness]]
-- [[The Oracle of the Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix]]
 
 ## Player-Facing Summary
@@ -344,3 +345,27 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Aether Crystals]]
+- [[Vex Shadowthorn]]
+- [[Aurelius Goldwave]]
+- [[Bloodline Awakening Powers]]
+- [[Crystal Forest]]
+- [[Crystal Mimics]]
+- [[Interrogation Techniques]]
+- [[Order of the Sunken Crown]]
+- [[Reality Merge Zones]]
+- [[Screaming Tree Guardians]]
+- [[The Bloom Fields]]
+- [[The Crown of Stars]]
+- [[The Great Crystallization]]
+- [[The Shattering of the Crown]]
+- [[The Sundering]]
+- [[Tidal Memory Ceremonies]]
+- [[Archdruid Thornweaver]]
+- [[Queen Seraphina Lumengarde]]
+- [[The Crimson Sage]]
+- [[Aethermoor]]
+- [[Crystalhaven]]
+- [[Port Meridian]]
+- [[The Azure Coast]]
+- [[The Order of the Shattered Crown]]
+- [[The Verdant Reach]]

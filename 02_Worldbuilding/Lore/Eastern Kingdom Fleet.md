@@ -28,6 +28,7 @@ primary_role: Naval Support
 
 
 
+
 # Eastern Kingdom Fleet
 *The Allied Naval Force from Beyond the Horizon*
 
@@ -305,3 +306,9 @@ Legends speak of Eastern Kingdom Fleet as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Save Both Civilizations]]
+- [[United Councils of Both Worlds]]
+- [[Aethermoor]]

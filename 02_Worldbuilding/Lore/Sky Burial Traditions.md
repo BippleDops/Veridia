@@ -34,6 +34,7 @@ themes:
 ---
 
 
+
 # Sky Burial Traditions
 
 *"In death, we return to the winds that gave us flight. In the winds, we find the endless sky that welcomed our first breath."* - The Aeromancer's Farewell
@@ -299,3 +300,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+
+
+## Connections
+
+- [[Aethermoor]]

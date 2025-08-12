@@ -22,12 +22,13 @@ specialties:
 - International Trade
 - Crystal Commerce
 - Information Brokerage
-created: 2025-08-08 - Category/Place
+created: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.679205+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-port-meridian-merchant-quarter-port-meridian-merchant-quarter.svg)
@@ -543,3 +544,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
 
 <!-- enriched: true -->
+- [[Crystal Wardens]]
+- [[The Whisper Syndicate]]
+- [[Customs House]]

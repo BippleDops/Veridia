@@ -20,7 +20,7 @@ ruler: '[[Coral Empress Scarletina]]'
 danger_level: Very High
 population: 500+ (guards, staff, prisoners)
 created: 2025-08-10
-updated: '2025-08-11T13:08:50.933344+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Groups/Coral Throne Syndicate]]'
 - '[[Coral Empress Scarletina]]'

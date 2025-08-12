@@ -16,7 +16,7 @@ world: Both Worlds
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.420737+00:00'
+updated: 2025-08-11
 lore_type: Criminal Technique
 scope: Magical Crime
 category: Mental Magic Applications
@@ -27,6 +27,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-memory-heist-memory-heist.svg)
@@ -390,3 +391,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Memory Heist]]
 
 <!-- enriched: true -->
+- [[Aethermoor]]

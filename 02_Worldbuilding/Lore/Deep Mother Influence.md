@@ -15,7 +15,7 @@ type: Lore
 created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-10
-updated: '2025-08-11T13:08:48.969510+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -333,3 +333,7 @@ Legends speak of Deep Mother Influence as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Transformed Citizens]]

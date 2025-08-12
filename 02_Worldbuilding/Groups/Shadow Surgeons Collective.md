@@ -11,10 +11,11 @@ world: Aquabyssos
 type: Group
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.430893+00:00'
+updated: 2025-08-11
 category: Group
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-surgeons-collective-shadow-surgeons-collective.svg)
@@ -384,7 +385,7 @@ Hidden beneath the [[Shadow Market Canals]] in a pocket dimension partially exis
 - [[Crystalline Depths]]
 - [[Find the Grief Bomb]]
 - [[Rescue Senator Glaucus]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Maw of Darkness]]
 - [[Aquabyssos - Session 04 - High Tide Horror]]
 - [[Campaign_Relationship_Matrix]]
@@ -404,3 +405,19 @@ Legends speak of Shadow Surgeons Collective as a nexus where past and present co
 - A map overlay reveals a hidden approach to Shadow Surgeons Collective active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Groups_Index]]
+- [[Independent Smugglers]]
+- [[Merchants Guild]]
+- [[The Whisper Syndicate]]
+- [[Thieves Guild]]
+- [[Admiral Thorne Blackwater]]
+- [[Aethermoor]]
+- [[Coral Throne Syndicate]]
+- [[Depth Wardens]]
+- [[Memory Farmers]]
+- [[Parliament of Echoes]]
+- [[Shadow Market Canals]]
+- [[Aether Crystals]]

@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Aquabyssos
 status: draft
-created: '2025-08-11T13:08:45.790297+00:00'
-updated: '2025-08-11T13:08:51.072507+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 
 ## Overview
@@ -54,3 +55,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/High Vigil Keeper Thalassa Depthmind]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Abyss Beneath Aquabyssos]]

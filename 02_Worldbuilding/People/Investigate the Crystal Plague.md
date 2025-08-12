@@ -10,11 +10,11 @@ status: complete
 world: Aethermoor
 type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Quests
+created: 2025-08-11
 MyContainer: None
 MyCategory: Investigation
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.636926+00:00'
+updated: 2025-08-11
 cr: '8'
 ---
 
@@ -135,3 +135,4 @@ Legends speak of Investigate the Crystal Plague as a nexus where past and presen
 - [[02_Worldbuilding/People/Investigate the Crystal Plague]]
 
 <!-- enriched: true -->
+nriched: true -->

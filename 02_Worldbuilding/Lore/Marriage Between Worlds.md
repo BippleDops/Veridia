@@ -20,6 +20,7 @@ updated: 2025-08-11
 ---
 
 
+
 # Marriage Between Worlds
 *"Love knows no depth nor height, but society demands both waters learn to breathe the same air."*
 
@@ -274,3 +275,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+
+
+## Connections
+
+- [[Aquabyssos-Aethermoor Treaties]]
+- [[Ambassador Nerida Deepcurrent]]

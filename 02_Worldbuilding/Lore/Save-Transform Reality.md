@@ -32,12 +32,12 @@ Save-Transform Reality describes a turning current in history where choices abou
 
 ## Threads and Revelations
 - Records implicate agents tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
-- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/Quest - The Seventh Shard.md|Quest - The Seventh Shard]].
+- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/Aquabyssos]].
 - Testimony suggests [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard.md|Quest - The Seventh Shard]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
 
 ## Player-Facing Summary

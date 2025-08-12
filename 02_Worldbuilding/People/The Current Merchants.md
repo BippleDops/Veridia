@@ -21,11 +21,12 @@ alignment: Chaotic Neutral
 location: '[[The Flowing Market]] - Current''s Edge Trading Post'
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.786013+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-current-merchants-the-current-merchants.svg)
@@ -326,3 +327,7 @@ Legends speak of The Current Merchants as a nexus where past and present converg
 - [[02_Worldbuilding/People/The Current Merchants]]
 
 <!-- enriched: true -->
+- [[Emperor Thalassius the Wise]]
+- [[Master Artificer Korvin Gearwright]]
+- [[The Tidal Council]]
+- [[Parliament of Echoes]]

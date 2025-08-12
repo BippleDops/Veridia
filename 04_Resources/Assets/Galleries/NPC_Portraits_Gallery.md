@@ -33,3 +33,7 @@ updated: 2024-01-01
 
 ## portrait-npc-quest-the-void-conspiracy-v2-quest-the-void-conspiracy
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-quest-the-void-conspiracy-v2-quest-the-void-conspiracy.png)
+
+## Cross-References
+
+- [[04_Resources/Assets/Galleries/Index]]

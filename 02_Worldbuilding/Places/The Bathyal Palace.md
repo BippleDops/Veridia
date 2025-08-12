@@ -17,10 +17,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:50.743762+00:00'
+updated: 2025-08-11
 status: draft
 type: Location
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-bathyal-palace-the-bathyal-palace.svg)
@@ -185,3 +186,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Bathyal Palace]]
 
 <!-- enriched: true -->
+- [[The Bathyal Succession]]
+- [[The Deep Uprising]]
+- [[Shadow Broker Mist]]
+- [[Ambassador Lysandra Silvertonge]]
+- [[Bathyal Succession]]
+- [[Chef Amara Tastecurrent]]
+- [[Concierge Phillip Gracewater]]
+- [[Deepmind Conspiracy]]
+- [[Depth Wardens]]
+- [[Enchanter Valdris Peacewarden]]
+- [[Free Current]]
+- [[Mediator Serenity Stillwater]]
+- [[Tethyan Hegemony]]
+- [[The Missing Diplomat]]
+- [[Treaty of the Depths]]

@@ -1,15 +1,26 @@
 ---
-tags: [Category/Place]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
+updated: 2025-08-11
+created: 2025-08-11
+tags:
+- Category/Place
+status: complete
+world: Aquabyssos
+type: location
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "Botanist Rose Sundrinker is a notable location in Aquabyssos shaped by tidal politics and Convergence anomalies. This entry is structured for fast table use."
-  content_warnings: ["political coercion", "environmental hazards"]
-  pronunciation: "Botanist Rose Sundrinker"
-  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
+  screen_reader_summary: Botanist Rose Sundrinker is a notable location in Aquabyssos
+    shaped by tidal politics and Convergence anomalies. This entry is structured for
+    fast table use.
+  content_warnings:
+  - political coercion
+  - environmental hazards
+  pronunciation: Botanist Rose Sundrinker
+  safety_tools:
+  - Lines & Veils
+  - X-Card
+  - Open Door
 ---
+
 
 
 
@@ -38,7 +49,7 @@ Botanist Rose Sundrinker is a living crossroads where memory-currents and trade 
 
 ## Threads to the Main Campaign
 - Archivists claim a ledger fragment pointing toward [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
-- A clandestine auction circles artifacts tied to [[02_Worldbuilding/Quests/Quest - The Seventh Shard.md|Quest - The Seventh Shard]].
+- A clandestine auction circles artifacts tied to [[02_Worldbuilding/Quests/Aquabyssos]].
 - An information broker with ties to [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]] trades memories for favors.
 
 ## Multiple Resolution Paths (Fail-Forward)
@@ -48,7 +59,7 @@ Botanist Rose Sundrinker is a living crossroads where memory-currents and trade 
 
 ## Cross-References
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard.md|Quest - The Seventh Shard]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
 
 ## Player-Facing Summary
@@ -70,3 +81,8 @@ Legends speak of Botanist Rose Sundrinker as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Quest - The Root Network]]

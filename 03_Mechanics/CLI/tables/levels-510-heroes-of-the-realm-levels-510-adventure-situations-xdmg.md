@@ -6,7 +6,8 @@ tags:
 aliases:
 - "Levels 5\u201310": "Heroes of the Realm; Levels 5\u201310 Adventure Situations"
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations

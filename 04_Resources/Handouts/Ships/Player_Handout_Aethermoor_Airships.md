@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, vehicles, airships]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Aethermoor Airships — Visual & Vibe Guide
@@ -17,3 +18,7 @@ created: 2025-08-11
 - Aurora Ark: Prism shields spill color; ship vanishes into dawn.
 
 Ship choice shapes play: speed, stealth, sanity resilience, and upgrade slots differ. See [[Vehicle_Customization_Progression]].
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01]]

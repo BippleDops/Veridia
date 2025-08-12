@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Aquabyssos
 status: draft
-created: '2025-08-11T13:08:45.725300+00:00'
-updated: '2025-08-11T13:08:48.035402+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -34,3 +35,12 @@ Legends speak of Session 05   The Shadow War as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+
+
+## Connections
+
+- [[Aquabyssos - Session 04 - High Tide Horror]]

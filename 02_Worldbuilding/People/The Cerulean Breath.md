@@ -21,11 +21,12 @@ alignment: Neutral Good
 location: '[[The Cerulean Depths]] - Sapphire Grotto'
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.760548+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-cerulean-breath-the-cerulean-breath.svg)
@@ -343,3 +344,9 @@ Legends speak of The Cerulean Breath as a nexus where past and present converge.
 - [[02_Worldbuilding/People/The Cerulean Breath]]
 
 <!-- enriched: true -->
+- [[Archivist Mnemonic the Forgotten]]
+- [[Emperor Thalassius the Wise]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Professor Aldric Crystalweaver]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Parliament of Echoes]]

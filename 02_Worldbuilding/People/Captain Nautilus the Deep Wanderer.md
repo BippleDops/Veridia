@@ -21,6 +21,7 @@ created: 2025-08-09
 updated: 2025-08-11
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-captain-nautilus-the-deep-wanderer-captain-nautilus-the-deep-wanderer.svg)
 
@@ -573,7 +574,7 @@ The Deep Mother's changing sleep patterns are causing unprecedented supernatural
 - [[Sister Thalassa the Depth-Touched]]
 - [[The Shadow Singer Naia]]
 - [[The Tidecaller]]
-- [[Quest - The Shard-Shadow Resonance]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -588,3 +589,6 @@ Legends speak of Captain Nautilus the Deep Wanderer as a nexus where past and pr
 - [[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]
 
 <!-- enriched: true -->
+- [[The Dream Shepherds]]
+- [[The Depth Wardens]]
+- [[Harbor Master Luna Freedrift]]

@@ -10,6 +10,7 @@ created: 2025-08-11
 updated: 2025-08-11
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-aboleth-prime-yoth-aboleth-prime-yoth.svg)
 
@@ -38,3 +39,13 @@ Legends speak of Aboleth as a nexus where past and present converge. Locals desc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+
+
+## Connections
+
+- [[Timeline of the Drowning]]
+- [[The Siren's Rest Tavern]]

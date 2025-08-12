@@ -10,11 +10,11 @@ status: complete
 world: Aquabyssos
 type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Lore
+created: 2025-08-12
 MyContainer: None
 MyCategory: Events
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.621113+00:00'
+updated: 2025-08-12
 ---
 
 > [!figure] Portrait
@@ -86,7 +86,7 @@ Use "Blood in the Water" as both literal environmental hazard and metaphor for e
 ## Connections
 
 - [[The_Crimson_Pearl]]
-- [[The_Second_Rising]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 
 ## Appearance

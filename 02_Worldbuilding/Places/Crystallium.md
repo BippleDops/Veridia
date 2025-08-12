@@ -26,8 +26,9 @@ created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:51.059694+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-crystallium-crystallium.svg)
@@ -262,7 +263,7 @@ While at Crystallium, characters experience:
 - [[Continental Connections & Story Weave]]
 - [[Nereidios]]
 - [[Aether Crystals]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Aquabyssos - Session 05 - Descent into Darkness]]
 - [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
 - [[Aquabyssos - Session 07 - The Resonance Revelation]]
@@ -290,3 +291,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Crystallium]]
 
 <!-- enriched: true -->
+- [[Abyssos Prime]]
+- [[Port Meridian - Merchant Quarter]]
+- [[The Hadal Depths]]
+- [[The Lock]]

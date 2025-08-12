@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Both Aethermoor & Aquabyssos
 status: draft
-created: '2025-08-11T13:08:46.184702+00:00'
-updated: '2025-08-11T13:08:48.405079+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 
@@ -35,3 +36,12 @@ Legends speak of Merchant Prince Vortex as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+
+
+## Connections
+
+- [[The Liminal Trading Company]]

@@ -15,7 +15,8 @@ classes:
 aliases:
 - Yolande's Regal Presence
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Yolande's Regal Presence

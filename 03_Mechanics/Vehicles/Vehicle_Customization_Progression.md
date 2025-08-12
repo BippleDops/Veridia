@@ -2,13 +2,19 @@
 title: Vehicle Customization & Progression
 type: mechanics
 status: complete
-tags: [mechanics, vehicles, upgrades, progression]
+tags:
+- mechanics
+- vehicles
+- upgrades
+- progression
 created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 # Vehicle Customization & Progression
 
-Upgrade trees, crew mechanics, and living evolution paths. Ties into [[Complete Faction Warfare System]] doctrines, [[Memory Trading Economy System|Memory Trading Economy]] markets, and [[Sanity System]].
+Upgrade trees, crew mechanics, and living evolution paths. Ties into [[Complete Faction Warfare System]] doctrines, [[Memory Trading Economy System|Memory Trading Economy]] markets, and [[02_Worldbuilding/Quests/Aquabyssos]].
 
 ## Modular Upgrade Systems
 - Biological Grafting: Parasite symbionts, coral armor, regenerative sacs
@@ -59,3 +65,13 @@ Legends speak of Vehicle Customization Progression as a nexus where past and pre
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[03_Mechanics/Crafting_Transcendence]]
+
+
+## Connections
+
+- [[Crafting_Transcendence]]
+- [[Player_Handout_Aethermoor_Airships]]

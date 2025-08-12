@@ -11,11 +11,11 @@ status: complete
 world: Aquabyssos
 type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/People
+created: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.317901+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
 
@@ -167,3 +167,4 @@ Legends speak of Keeper of the Dead, Sister Morwyn as a nexus where past and pre
 - [[02_Worldbuilding/Places/Keeper of the Dead, Sister Morwyn]]
 
 <!-- enriched: true -->
+nriched: true -->

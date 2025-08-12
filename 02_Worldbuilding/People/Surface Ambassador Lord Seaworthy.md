@@ -18,8 +18,9 @@ race: Human (Air-breathing)
 location: '[[02_Worldbuilding/Places/The Diplomatic Quarter]] - Surface Embassy'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.739968+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-surface-ambassador-lord-seaworthy-surface-ambassador-lord-seaworthy.svg)
@@ -561,3 +562,7 @@ Legends speak of Surface Ambassador Lord Seaworthy as a nexus where past and pre
 - [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
 
 <!-- enriched: true -->
+- [[Memory Merchant Valeria Siltweave]]
+- [[The Depth Wardens]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Harbor Master Luna Freedrift]]

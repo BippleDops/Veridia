@@ -6,7 +6,7 @@ tags:
 aliases:
 - Chapter 15: Werewolf Den
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Chapter 15: Werewolf Den
@@ -242,3 +242,4 @@ Legends speak of 17 chapter 15 werewolf den as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

@@ -1,10 +1,13 @@
 ---
 updated: 2025-08-11
 created: 2025-08-11
-tags: [readme, index]
+tags:
+- readme
+- index
 type: Guide
 status: stable
 ---
+
 
 # Aquabyssos / Aethermoor Vault
 
@@ -50,4 +53,11 @@ Use rebase workflow: `git pull --rebase`, `git push`.
 ## Notes
 This README is the stable entry point; update canvases and galleries as content grows.
 
+## Cross-References
 
+- [[04_Resources/Maps/Aquabyssos_World_Map]]
+
+
+## Connections
+
+- [[Aquabyssos_World_Map]]

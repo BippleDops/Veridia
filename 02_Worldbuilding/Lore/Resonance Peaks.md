@@ -29,6 +29,7 @@ updated: 2025-08-11
 
 
 
+
 # Resonance Peaks
 *The Symphony of Stone and Crystal*
 
@@ -491,3 +492,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Aetheric Wind Songs]]
+- [[Tidal Chambers]]
+- [[Aethermoor]]

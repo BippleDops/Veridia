@@ -71,6 +71,7 @@ status: draft
 type: NPC
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-marina-red-tide-coralheart-marina-red-tide-coralheart.svg)
 
@@ -255,3 +256,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
 
 <!-- enriched: true -->
+- [[Jasper Three-Eyes Flint]]
+- [[Lord Aurelius Goldwave]]
+- [[The Bloodline Carrier]]

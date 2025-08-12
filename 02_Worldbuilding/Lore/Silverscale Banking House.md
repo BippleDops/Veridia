@@ -1,17 +1,22 @@
 ---
 updated: 2025-08-12
 created: 2025-08-12
-tags: [Category/Lore]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
+tags:
+- Category/Lore
+status: complete
+world: Aethermoor
+type: lore
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "This lore entry explains a pivotal principle or event and its consequences for play."
+  screen_reader_summary: This lore entry explains a pivotal principle or event and
+    its consequences for play.
   content_warnings: []
-  pronunciation: "Silverscale Banking House"
-  safety_tools: ["Lines & Veils", "X-Card"]
+  pronunciation: Silverscale Banking House
+  safety_tools:
+  - Lines & Veils
+  - X-Card
 ---
+
 
 
 
@@ -61,3 +66,16 @@ Legends speak of Silverscale Banking House as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Merged Reality Zones]]
+- [[Reputation System]]
+- [[Silver Mask]]
+- [[The Forgetting Bomb]]
+- [[The Seven Shards]]
+- [[The Silverscale Conspiracy]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]
+- [[Campaign_Quick_Reference_Sheets]]
+- [[Campaign_Relationship_Matrix]]

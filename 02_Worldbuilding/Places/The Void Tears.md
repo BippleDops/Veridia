@@ -20,13 +20,14 @@ size: Variable (Individual tears 5-100 feet diameter)
 frequency: Unpredictable manifestation
 threat_status: Critical - Reality Destabilization
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.424908+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Places/The Crystal Hive Collective]]'
 - '[[02_Worldbuilding/People/The Crimson Sage]]'
 - '[[02_Worldbuilding/Places/The Sundered Vaults]]'
 - '[[Crystal Wardens]]'
 ---
+
 
 
 
@@ -472,3 +473,9 @@ Legends speak of The Void Tears as a nexus where past and present converge. Loca
 - [[02_Worldbuilding/Places/The Void Tears]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Professor Aldric Crystalweaver]]

@@ -1,15 +1,24 @@
 ---
-tags: [Category/People]
-status: "complete"
-world: "Aquabyssos"
-type: "group"
+updated: 2025-08-11
+created: 2025-08-11
+tags:
+- Category/People
+status: complete
+world: Aquabyssos
+type: group
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "Ancient guardians who embody reality's foundations, structured for quick table use with hooks and mechanics."
-  content_warnings: ["cosmic horror"]
-  pronunciation: "The Seven Seals"
-  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
+  screen_reader_summary: Ancient guardians who embody reality's foundations, structured
+    for quick table use with hooks and mechanics.
+  content_warnings:
+  - cosmic horror
+  pronunciation: The Seven Seals
+  safety_tools:
+  - Lines & Veils
+  - X-Card
+  - Open Door
 ---
+
 
 
 # The Seven Seals
@@ -421,3 +430,8 @@ Legends speak of The Seven Seals as a nexus where past and present converge. Loc
 - [[02_Worldbuilding/People/The Seven Seals]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Nerissa_Deepcurrent]]

@@ -1,12 +1,14 @@
 ---
 updated: 2025-08-12
 created: 2025-08-12
-tags: [mechanic]
-status: "complete"
-world: "Aethermoor"
-type: "mechanic"
+tags:
+- mechanic
+status: complete
+world: Aethermoor
+type: mechanic
 obsidianUIMode: preview
 ---
+
 
 
 
@@ -60,3 +62,9 @@ Legends speak of Faction Standing System as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Complete_Pressure_Adaptation_System]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]

@@ -6,7 +6,7 @@ tags:
 aliases:
 - Chapter 8: Audience in Gauntlgrym
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Chapter 8: Audience in Gauntlgrym
@@ -417,3 +417,4 @@ Legends speak of 08 chapter 8 audience in gauntlgrym as a nexus where past and p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

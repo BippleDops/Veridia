@@ -33,9 +33,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: '2025-08-11T13:08:46.971513+00:00'
-created: '2025-08-11T13:08:46.971513+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 ---
+
 
 
 
@@ -229,3 +230,14 @@ Marina's echo speaks one last time: "The Mourning Depths knows the way. The Sorr
 - Design Singer consciousness infiltration
 - Prepare emotional climax mechanics
 - Plan for character sacrifices
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]
+
+
+## Connections
+
+- [[Sorrow Pearls]]
+- [[Vorthak]]
+- [[Memoriam]]

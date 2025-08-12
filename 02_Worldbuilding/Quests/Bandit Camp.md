@@ -319,7 +319,7 @@ This quest serves as an excellent examination of social justice themes while pro
 
 ## Connections
 
-- [[Find_the_Missing_Caravan]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -340,3 +340,7 @@ Legends speak of Bandit Camp as a nexus where past and present converge. Locals 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[reports/bidirectional_links]]

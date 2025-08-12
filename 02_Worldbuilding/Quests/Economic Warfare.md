@@ -23,6 +23,7 @@ created: 2025-08-11
 
 
 
+
 # Economic Warfare
 
 *The conquest without swords - Aethermoor's sovereignty hangs in the balance*
@@ -240,3 +241,8 @@ Legends speak of Economic Warfare as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[Goldspire Confederacy]]

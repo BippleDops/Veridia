@@ -48,10 +48,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-11T13:08:46.986765+00:00'
-created: '2025-08-11T13:08:46.986765+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 ---
+
 
 
 
@@ -249,3 +250,22 @@ Track each character's exposure level (0-6 scale)
 - Lesser Restoration: Removes 1 level (only works on Minor)
 - Greater Restoration: Removes 2 levels (up to Major)
 - Brother Marcus's treatment: Prevents progression for 24 hours
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Customs House]]
+
+
+## Connections
+
+- [[Purist Coalition Thugs]]
+- [[Customs House]]
+- [[Desperate Plague Victim]]
+- [[Lamplight Alley]]
+- [[Brother Marcus Steelbane]]
+- [[Investigate the Crystal Plague]]
+- [[Jasper Three-Eyes Flint]]
+- [[Harbor District Customs House]]
+- [[Missing Persons of Port Meridian]]
+- [[The Siren's Rest Tavern]]
+- [[Whisper Island]]

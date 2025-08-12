@@ -6,9 +6,10 @@ tags:
 type: Lore
 world: Both
 status: draft
-created: '2025-08-11T13:08:45.737437+00:00'
-updated: '2025-08-11T13:08:47.351523+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -43,3 +44,12 @@ Legends speak of Home Embeds   DV#Party as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[1-DM Toolkit/Home - DV]]
+
+
+## Connections
+
+- [[Home - DV]]

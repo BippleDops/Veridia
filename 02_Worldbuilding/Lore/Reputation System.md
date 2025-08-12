@@ -21,6 +21,7 @@ updated: 2025-08-11
 
 
 
+
 # Reputation System
 *Social Standing in the Merged Realms*
 
@@ -621,7 +622,7 @@ Faction relationships create complex political networks:
 ## Connected Systems and Cross-References
 
 ### Related Mechanics
-- **[[Sanity System]]**: Mental effects can impact reputation management
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Mental effects can impact reputation management
 - **[[Investigation Procedures]]**: Research faction interests and relationships
 - **[[Memory Alterations]]**: Faction memories can be modified to affect reputation
 - **[[Social Navigation Protocols]]**: Formal procedures for reputation management
@@ -676,3 +677,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Crystal Festival Grounds]]
+- [[Investigation Procedures]]
+- [[Royal Embassy]]

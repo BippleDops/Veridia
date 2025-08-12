@@ -18,9 +18,10 @@ size: Large Complex
 population: ~300 researchers and support staff
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.987589+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-threshold-chambers-the-threshold-chambers.svg)
@@ -303,10 +304,10 @@ The Threshold Chambers serve as the secret headquarters of [[The Convergence See
 ## Connections
 
 - [[Discover Marina's Truth]]
-- [[Sanity System]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Quest - Nature's Balance]]
 - [[Quest - The Convergence Crisis]]
-- [[Quest - The Memory Bridge]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -327,3 +328,6 @@ Legends speak of The Threshold Chambers as a nexus where past and present conver
 - [[02_Worldbuilding/Places/The Threshold Chambers]]
 
 <!-- enriched: true -->
+- [[The Liminal Trading Company]]
+- [[The Shadow-Crystal Synthesis]]
+- [[The Void Watchers]]

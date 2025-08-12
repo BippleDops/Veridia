@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.853286+00:00'
-created: '2025-08-11T13:08:49.853286+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -9,6 +9,7 @@ tags:
 type: NPC
 cr: '6'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-archdruid-thornweaver-archdruid-thornweaver.svg)
@@ -292,3 +293,5 @@ Legends speak of Archdruid Thornweaver as a nexus where past and present converg
 - [[02_Worldbuilding/People/Archdruid Thornweaver]]
 
 <!-- enriched: true -->
+- [[Quest - The Dying Forest]]
+- [[Quest - Nature's Balance]]

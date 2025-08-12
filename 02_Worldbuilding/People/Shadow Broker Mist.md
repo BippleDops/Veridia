@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.609247+00:00'
-created: '2025-08-11T13:08:49.609247+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -167,8 +167,8 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 
 ## Involved Quests
 - [[02_Worldbuilding/Quests/The Lock Saboteur]] - May have crucial information
-- [[02_Worldbuilding/Quests/Discover the Singers Beyond]] - Competing for same secrets
-- [[02_Worldbuilding/Quests/Depths of Whispers]] - Her shadow network is involved
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Competing for same secrets
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Her shadow network is involved
 
 
 ## Connections
@@ -177,7 +177,7 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 - [[Archon Meredith Saltweaver]]
 - [[Captain Garrett Stormcutter]]
 - [[The Bathyal Palace]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

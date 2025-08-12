@@ -19,9 +19,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:49.748030+00:00'
+updated: 2025-08-11
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-resonance-prophet-the-resonance-prophet.svg)
@@ -279,3 +280,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/The Resonance Prophet]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Sorrowmaster]]

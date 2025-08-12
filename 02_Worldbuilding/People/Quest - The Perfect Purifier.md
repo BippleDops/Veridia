@@ -10,11 +10,11 @@ status: complete
 world: Aethermoor
 type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Quests
+created: 2025-08-11
 MyContainer: None
 MyCategory: Magical
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.652848+00:00'
+updated: 2025-08-11
 cr: '8'
 ---
 

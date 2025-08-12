@@ -20,7 +20,7 @@ current_location: Scattered Across Shadow-Touched Locations
 danger_level: 4
 created_by: Claude
 created: 2025-08-10
-updated: '2025-08-11T13:08:47.104127+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -396,3 +396,7 @@ Shadow touched Equipment Set is a undersea element of the setting, known for bio
 Legends speak of Shadow touched Equipment Set as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow touched Equipment Set.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[reports/bidirectional_links]]

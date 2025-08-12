@@ -330,7 +330,7 @@ The High Tidecaller Nerissa quest offers players the chance to explore themes of
 
 - [[The_Crimson_Pearl]]
 - [[Pearl_Harbor_City]]
-- [[The_Second_Rising]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -351,3 +351,7 @@ Legends speak of High Tidecaller Nerissa as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]

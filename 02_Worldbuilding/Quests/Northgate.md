@@ -293,7 +293,7 @@ This quest provides opportunities for wilderness exploration, political intrigue
 
 ## Connections
 
-- [[Find_the_Missing_Caravan]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -317,4 +317,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Find_the_Missing_Caravan]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]

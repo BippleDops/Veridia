@@ -16,7 +16,7 @@ world: Both Worlds
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.024771+00:00'
+updated: 2025-08-11
 lore_type: Political Document
 scope: Inter-Realm Relations
 time_period: Current Era
@@ -27,6 +27,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 
@@ -320,3 +321,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Treaty of the Depths]]
 
 <!-- enriched: true -->
+- [[United Councils of Both Worlds]]
+- [[Aethermoor]]

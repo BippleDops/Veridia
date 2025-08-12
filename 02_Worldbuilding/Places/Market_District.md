@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:50.989806+00:00'
-created: '2025-08-11T13:08:50.989806+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -9,6 +9,7 @@ tags:
 type: Location
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-market-district-market-district.svg)
@@ -48,7 +49,7 @@ A sprawling district centered around the Grand Bazaar, with permanent shops lini
 
 ### Merchants
 - [[02_Worldbuilding/People/Gareth_Ironforge]] - Master blacksmith
-- [[Elena Starweaver]] - Magical goods
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Magical goods
 - [[Pip Goldleaf]] - General goods
 
 ## Available Services
@@ -56,7 +57,7 @@ A sprawling district centered around the Grand Bazaar, with permanent shops lini
 | Shop Name | Type | Owner | Notable Items |
 |-----------|------|-------|---------------|
 | Ironforge Smithy | Blacksmith | [[02_Worldbuilding/People/Gareth_Ironforge]] | Masterwork weapons |
-| Starweaver's Arcana | Magic | [[Elena Starweaver]] | Potions, scrolls |
+| Starweaver's Arcana | Magic | [[02_Worldbuilding/Quests/Aquabyssos]] | Potions, scrolls |
 | The Golden Goose | Inn | [[Martha Hillbrook]] | Comfortable rooms |
 
 ## Current Events
@@ -121,3 +122,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Market_District]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Mayor Thompson]]
+- [[Pip Goldleaf]]

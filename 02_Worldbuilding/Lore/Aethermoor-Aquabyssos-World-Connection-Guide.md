@@ -11,9 +11,10 @@ connection_type: Dimensional Overlap
 status: Post-Merger Possibility
 created: 2025-08-07
 world: Aquabyssos
-updated: '2025-08-11T13:08:48.291852+00:00'
+updated: 2025-08-11
 type: Lore
 ---
+
 
 
 
@@ -397,3 +398,24 @@ Legends speak of Aethermoor Aquabyssos World Connection Guide as a nexus where p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Shattered Isles]]
+
+
+## Connections
+
+- [[Shadow Vale]]
+- [[Arcanum Heights]]
+- [[Corallion]]
+- [[Crystal Forest]]
+- [[Resonance Peaks]]
+- [[Shattered Isles]]
+- [[Vorthak]]
+- [[Tenebrarum]]
+- [[Abyssos Prime Upper Districts]]
+- [[Crystal Gardens]]
+- [[Crystallium]]
+- [[Memoriam]]
+- [[Mourning Depths]]

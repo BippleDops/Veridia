@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Both Worlds
 status: draft
-created: '2025-08-11T13:08:45.837283+00:00'
-updated: '2025-08-11T13:08:51.156317+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 
 
@@ -55,3 +56,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Archivist Methodius Recordkeeper]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Evidence Chain Analysis]]

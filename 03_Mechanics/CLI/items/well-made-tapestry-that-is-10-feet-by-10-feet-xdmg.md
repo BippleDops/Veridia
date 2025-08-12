@@ -10,7 +10,8 @@ tags:
 aliases:
 - Well-made tapestry that is 10 feet by 10 feet
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 

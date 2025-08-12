@@ -6,9 +6,10 @@ tags:
 type: Group
 world: Aquabyssos
 status: draft
-created: '2025-08-11T13:08:45.946618+00:00'
-updated: '2025-08-11T13:08:51.473264+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -49,3 +50,12 @@ Legends speak of Master Cultivator Luminos Deepglow as a nexus where past and pr
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Bloom Fields]]
+
+
+## Connections
+
+- [[The Bloom Fields]]

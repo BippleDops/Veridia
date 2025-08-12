@@ -1,4 +1,6 @@
 ---
+updated: 2025-08-12
+created: 2025-08-12
 tags: [mechanic]
 status: "complete"
 world: "Universal"

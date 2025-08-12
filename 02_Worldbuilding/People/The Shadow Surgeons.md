@@ -10,11 +10,11 @@ status: complete
 world: Aquabyssos
 type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Groups
+created: 2025-08-11
 MyContainer: None
 MyCategory: Medical
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.896106+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait
@@ -174,3 +174,4 @@ Legends speak of The Shadow Surgeons as a nexus where past and present converge.
 - [[02_Worldbuilding/People/The Shadow Surgeons]]
 
 <!-- enriched: true -->
+nriched: true -->

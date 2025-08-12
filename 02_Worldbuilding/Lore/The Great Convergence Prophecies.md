@@ -37,6 +37,7 @@ related_entities:
 
 
 
+
 # The Great Convergence Prophecies
 *Ancient Visions of Two Worlds Becoming One*
 
@@ -657,3 +658,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[The Convergence Point]]
+- [[The Seven Betrayers]]
+- [[The Shattering of the Crown]]
+- [[Aboleth Prime Yoth]]
+- [[Aethermoor]]

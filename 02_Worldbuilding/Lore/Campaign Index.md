@@ -143,7 +143,7 @@ Central hub for all campaign materials, session records, and cross-campaign conn
 
 ### Specialized Systems
 - [[Faction Standing System]] - Relationship tracking with organizations
-- [[Sanity System]] - Cosmic horror and madness mechanics
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Cosmic horror and madness mechanics
 - [[Shadow Separation Mechanics]] - Aquabyssos shadow independence
 - [[Bloodline Awakening Powers]] - Aethermoor supernatural abilities
 

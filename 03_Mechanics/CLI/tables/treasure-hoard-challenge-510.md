@@ -6,7 +6,8 @@ tags:
 aliases:
 - Treasure Hoard: "Challenge 5\u201410"
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Treasure Hoard: Challenge 5—10

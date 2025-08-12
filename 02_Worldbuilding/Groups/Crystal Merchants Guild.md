@@ -6,9 +6,10 @@ tags:
 type: Group
 world: Aethermoor
 status: draft
-created: '2025-08-11T13:08:46.322142+00:00'
-updated: '2025-08-11T13:08:51.368870+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -49,3 +50,13 @@ Legends speak of Crystal Merchants Guild as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Port Meridian - Market Square]]
+
+
+## Connections
+
+- [[Port Meridian - Market Square]]
+- [[The Crystal Wardens]]

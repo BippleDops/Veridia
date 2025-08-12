@@ -10,6 +10,7 @@ type: Location
 danger_level: Moderate
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-port-meridian-port-meridian.svg)
 
@@ -80,7 +81,7 @@ Port Meridian is [[02_Worldbuilding/Places/Aethermoor]]'s largest trading hub, w
 ### Affected Areas
 - Dock District (40% infected)
 - Starting to spread to Old City
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] involves finding the source
+- [[02_Worldbuilding/Quests/Aquabyssos]] involves finding the source
 
 ### Suspects
 - [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Selling corrupted crystals
@@ -177,8 +178,8 @@ Port Meridian is [[02_Worldbuilding/Places/Aethermoor]]'s largest trading hub, w
 - [[02_Worldbuilding/Places/Port Meridian - Noble Quarter]] - Noble district
 
 ## Active Quests
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Main crisis
-- [[Quest - Smuggler's Run]] - Stop corruption trafficking
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Main crisis
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Stop corruption trafficking
 - [[Quest - The Missing Fleet]] - Three ships vanished
 
 ## Key Factions
@@ -212,7 +213,7 @@ Port Meridian is [[02_Worldbuilding/Places/Aethermoor]]'s largest trading hub, w
 - [[Tethyan Hegemony]]
 - [[The Crystalline Foundry]]
 - [[The Forgotten One]]
-- [[Quest - Smuggler's Run]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Quest - The Pretender's Crown]]
 - [[Campaign_Quick_Reference_Sheets]]
 - [[Campaign_Relationship_Matrix]]
@@ -234,3 +235,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Port Meridian]]
 
 <!-- enriched: true -->
+- [[Captain Rodrigo Ironanchor]]
+- [[Lady Venetia Silkwind]]
+- [[Master Chen Wei]]
+- [[Admiral Cassandra Stormwind]]
+- [[Brother Marcus Steelbane]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[Lord Aurelius Goldwave]]
+- [[Harbormaster Erik Saltbeard]]
+- [[Keeper Elara Moonwhisper]]
+- [[Madame Rosalind Goldleaf]]
+- [[Quest - The Missing Fleet]]
+- [[The Azure Coast]]
+- [[The Order of the Shattered Crown]]

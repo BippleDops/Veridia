@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:51.171605+00:00'
-created: '2025-08-11T13:08:51.171605+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -192,8 +192,8 @@ The Independent Smugglers represent a loose confederation of opportunistic trade
 - [[02_Worldbuilding/Places/Pressure Tubes]] - Transportation routes
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Smuggler's Gambit]] - Organization under threat
-- [[02_Worldbuilding/Quests/Quest - Smuggler's Run]] - Direct employment
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Organization under threat
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Direct employment
 - [[02_Worldbuilding/Quests/The Lock Saboteur]] - Information sources
 
 
@@ -225,3 +225,7 @@ Legends speak of Independent Smugglers as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Groups_Index]]

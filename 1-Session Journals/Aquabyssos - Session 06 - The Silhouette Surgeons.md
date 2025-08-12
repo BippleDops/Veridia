@@ -33,9 +33,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: '2025-08-11T13:08:47.000383+00:00'
-created: '2025-08-11T13:08:47.000383+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 ---
+
 
 
 
@@ -211,3 +212,13 @@ Through the window, the party sees the ocean literally cracking like glass, reve
 - Prepare Crystallium's alien architecture
 - Design resonance combat mechanics
 - Plan first contact with what shadows fear
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]
+
+
+## Connections
+
+- [[Sorrow Pearls]]
+- [[Crystallium]]

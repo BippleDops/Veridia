@@ -18,6 +18,7 @@ updated: 2025-08-12
 danger_level: Moderate
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-azure-citadel-azure-citadel.svg)
 
@@ -480,7 +481,7 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 - [[The Neutral Ground]]
 - [[Void Currents]]
 - [[Aether Crystals]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix]]
 
 ## Player-Facing Summary
@@ -503,3 +504,11 @@ Legends speak of Azure Citadel as a nexus where past and present converge. Local
 
 <!-- enriched: true -->
 riched: true -->
+- [[Admiral Thorne Blackwater]]
+- [[Abyssos Prime]]
+- [[Aethermoor]]
+- [[Commander Drake Pressureborn]]
+- [[Depth Wardens]]
+- [[Memory Farmers]]
+- [[Parliament of Echoes]]
+- [[The Hadal Depths]]

@@ -33,9 +33,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: '2025-08-11T13:08:46.958978+00:00'
-created: '2025-08-11T13:08:46.958978+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 ---
+
 
 
 
@@ -223,3 +224,13 @@ The ocean above turns transparent, revealing the impossible anatomy of the Singe
 - Prepare multiple ending scenarios
 - Design Singer consciousness encounter
 - Plan epilogue based on choices
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]
+
+
+## Connections
+
+- [[Sorrow Pearls]]
+- [[The Sorrowmaster]]

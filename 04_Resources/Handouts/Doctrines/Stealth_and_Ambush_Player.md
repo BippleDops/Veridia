@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, doctrine]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Stealth & Ambush
@@ -22,3 +23,7 @@ Crew tips
 
 Risks
 - If caught, you’re up close and already moving
+
+## Cross-References
+
+- [[04_Resources/Handouts/Doctrines/Doctrine_Quick_Reference]]

@@ -10,6 +10,7 @@ type: Location
 danger_level: Moderate
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-crystalhaven-crystalhaven.svg)
 
@@ -99,7 +100,7 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 
 ## Current Events
 - Preparations for the Crystal Festival next month
-- Investigation into [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]]
+- Investigation into [[02_Worldbuilding/Quests/Aquabyssos]]
 - Rumors of [[02_Worldbuilding/People/Prince Caspian Duskwater]]'s return
 - [[02_Worldbuilding/Groups/Purist Coalition]] propaganda appearing overnight
 
@@ -203,3 +204,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Crystalhaven]]
 
 <!-- enriched: true -->
+- [[Crystal Wardens]]
+- [[Eastern Kingdom]]
+- [[Brother Marcus Steelbane]]
+- [[High Priestess Celeste Dawnbringer]]
+- [[Professor Aldric Crystalweaver]]
+- [[Keeper Elara Moonwhisper]]
+- [[Madame Rosalind Goldleaf]]
+- [[The Crystalline Foundry]]
+- [[The Gilded Shard]]

@@ -58,10 +58,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-11T13:08:46.976068+00:00'
-created: '2025-08-11T13:08:46.976068+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 ---
+
 
 
 
@@ -400,3 +401,15 @@ This session establishes:
 - Let Celestia be genuinely helpful but mysterious
 - Make possession switches dramatic and unexpected
 - Build sympathy for all sides of conflict
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Campaign Index]]
+
+
+## Connections
+
+- [[Ancient Tunnels Beneath Palace]]
+- [[Palace Courtyard - Crystal Garden]]
+- [[Secret Vault Beneath Throne]]
+- [[Throne Room - Heart of Palace]]

@@ -11,7 +11,7 @@ world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.136047+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -297,7 +297,7 @@ The [[Inverse Palace]] stands as both a marvel of impossible architecture and a 
 ## Connections
 
 - [[Emperor Thalassius the Wise]]
-- [[Depths of Whispers]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Find the Grief Bomb]]
 
 ## Player-Facing Summary

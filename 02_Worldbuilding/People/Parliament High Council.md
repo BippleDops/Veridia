@@ -8,11 +8,11 @@ status: complete
 world: Aquabyssos
 type: NPC
 created_by: auto-stub
-created: 2025-08-08 - Category/Groups
+created: 2025-08-11
 MyContainer: None
 MyCategory: Government
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:49.832820+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait
@@ -136,3 +136,4 @@ Legends speak of Parliament High Council as a nexus where past and present conve
 - [[02_Worldbuilding/People/Parliament High Council]]
 
 <!-- enriched: true -->
+nriched: true -->

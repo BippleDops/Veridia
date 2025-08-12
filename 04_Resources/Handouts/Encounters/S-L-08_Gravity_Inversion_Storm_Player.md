@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, encounter, sky]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Gravity Inversion Storm
@@ -23,3 +24,7 @@ Possible outcomes
 - You ride it like a story you’ll tell for years
 - You come out banged up but smiling
 - You hit hard
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aethermoor_Session_10]]

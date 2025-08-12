@@ -27,8 +27,8 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-11T13:08:46.982068+00:00'
-created: '2025-08-11T13:08:46.982068+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 ---
 
@@ -168,3 +168,7 @@ Key Mechanics:
 - **If they reject unity**: Worlds begin separating violently
 - **If carrier dies**: Crimson Sage becomes backup seal
 - **If they take too long**: Dawn forces random outcome
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Drowned God]]

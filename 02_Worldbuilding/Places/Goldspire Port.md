@@ -125,7 +125,7 @@ Massive devices that create a field preventing crystal energy within the city. S
 
 ## Connections
 
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Traveling Merchant Finn]]
 
 

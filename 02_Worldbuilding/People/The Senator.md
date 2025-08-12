@@ -3,6 +3,7 @@ created: 2025-08-11
 updated: 2025-08-11
 ---
 
+
 mysterious
 - npc
 - parliamentary
@@ -503,3 +504,4 @@ Legends speak of The Senator as a nexus where past and present converge. Locals 
 - [[02_Worldbuilding/People/The Senator]]
 
 <!-- enriched: true -->
+- [[Parliament of Echoes]]

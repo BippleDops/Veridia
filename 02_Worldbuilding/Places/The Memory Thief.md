@@ -10,11 +10,11 @@ status: complete
 world: Aquabyssos
 type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/People
+created: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:51.077268+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
 
@@ -186,3 +186,4 @@ Legends speak of The Memory Thief as a nexus where past and present converge. Lo
 - [[02_Worldbuilding/Places/The Memory Thief]]
 
 <!-- enriched: true -->
+nriched: true -->

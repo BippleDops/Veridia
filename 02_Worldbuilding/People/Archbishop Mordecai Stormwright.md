@@ -9,6 +9,7 @@ tags:
 type: NPC
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-archbishop-mordecai-stormwright-archbishop-mordecai-stormwright.svg)
 
@@ -88,3 +89,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Archbishop Mordecai Stormwright]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Crystal Wardens]]

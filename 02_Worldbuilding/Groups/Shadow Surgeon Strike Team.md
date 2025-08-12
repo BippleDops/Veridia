@@ -19,11 +19,12 @@ influence: Covert operations across multiple realms
 wealth: Well-funded by shadow organizations
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.231750+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-surgeon-strike-team-shadow-surgeon-strike-team.svg)
@@ -434,7 +435,7 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 
 ### Important Items
 - **[[Shadow Surgical Instruments]]** - Medical weapons and specialized equipment
-- **[[Memory Extraction Device]]** - Consciousness warfare technology
+- **[[02_Worldbuilding/Quests/Aquabyssos]]** - Consciousness warfare technology
 - **[[Medical Combat Manual]]** - Training guide for surgical warfare
 - **[[Strike Team Communications]]** - Secure operational coordination equipment
 - **[[Medical Cover Credentials]]** - False documentation for infiltration
@@ -452,3 +453,12 @@ Shadow Surgeon Strike Team is a undersea element of the setting, known for biolu
 Legends speak of Shadow Surgeon Strike Team as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Surgeon Strike Team.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Memory Farmers]]
+
+
+## Connections
+
+- [[Memory Farmers]]

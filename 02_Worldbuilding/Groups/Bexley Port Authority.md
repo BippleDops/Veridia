@@ -6,15 +6,16 @@ tags:
 - faction
 - law
 aliases: []
-created: 2025-07-23 18:15
+created: 2025-07-23
 modified: 2025-07-23 18:15
 MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:51.323998+00:00'
+updated: 2025-08-11
 status: draft
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-bexley-port-authority-bexley-port-authority.svg)
@@ -54,3 +55,12 @@ Legends speak of Bexley Port Authority as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Groups/Bexley]]
+
+
+## Connections
+
+- [[Bexley]]

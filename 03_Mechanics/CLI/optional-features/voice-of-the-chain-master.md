@@ -7,7 +7,8 @@ tags:
 aliases:
 - Voice of the Chain Master
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Voice of the Chain Master

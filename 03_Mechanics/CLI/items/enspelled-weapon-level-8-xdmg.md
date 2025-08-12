@@ -71,7 +71,8 @@ aliases:
 - Enspelled (Level 8) Wooden Staff
 - Enspelled (Level 8) Yklwa
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 

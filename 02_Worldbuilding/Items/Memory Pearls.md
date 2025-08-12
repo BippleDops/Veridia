@@ -18,8 +18,9 @@ current_location: Various Markets and Collections Throughout Aquabyssos
 danger_level: 2
 created_by: Claude
 created: 2025-08-10
-updated: '2025-08-11T13:08:47.098631+00:00'
+updated: 2025-08-11
 ---
+
 
 
 
@@ -450,3 +451,8 @@ Legends speak of Memory Pearls as a nexus where past and present converge. Local
 - A map overlay reveals a hidden approach to Memory Pearls active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [[Memory Farmers]]

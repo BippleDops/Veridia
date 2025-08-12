@@ -20,6 +20,7 @@ updated: 2025-08-11
 
 
 
+
 # Random Encounters
 *Procedural Adventure Generation for the Merged Realms*
 
@@ -472,7 +473,7 @@ Track resolved encounters and their outcomes to influence future encounters:
 - **[[Environmental Hazards]]**: Natural and supernatural dangers during encounters
 - **[[Multi-Phase Boss Fights]]**: Complex combat encounters
 - **[[Reputation System]]**: Social standing effects on encounter reactions
-- **[[Sanity System]]**: Mental health effects of disturbing encounters
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Mental health effects of disturbing encounters
 
 ### Specific Encounter Tables
 - **[[Random Encounter Tables - Aquabyssos]]**: Detailed underwater encounter tables
@@ -525,3 +526,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Crystal Forest]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Investigation Procedures]]
+- [[Multi-Phase Boss Fights]]
+- [[Pressure Crush Zones]]
+- [[Reality Merge Zones]]
+- [[Reputation System]]
+- [[Temporal Distortion Zones]]
+- [[Tidal Chambers]]
+- [[Shadow Wells]]

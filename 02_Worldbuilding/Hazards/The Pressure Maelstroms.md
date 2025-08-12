@@ -17,8 +17,9 @@ frequency: Rare but Predictable
 duration: 3-7 days per manifestation
 created_by: Claude
 created: 2025-08-09
-updated: '2025-08-11T13:08:47.097295+00:00'
+updated: 2025-08-11
 ---
+
 
 
 # The Pressure Maelstroms
@@ -329,3 +330,13 @@ Legends speak of The Pressure Maelstroms as a nexus where past and present conve
 - A map overlay reveals a hidden approach to The Pressure Maelstroms active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+
+
+## Connections
+
+- [[The Liminal Trading Company]]
+- [[The Depth Wardens]]

@@ -2,13 +2,19 @@
 title: Vessel Horror Intensifier
 type: mechanics
 status: complete
-tags: [mechanics, horror, sanity, vessels]
+tags:
+- mechanics
+- horror
+- sanity
+- vessels
 created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 # Vessel Horror Intensifier
 
-Turn ships into characters and haunted spaces. Hooks deeply into [[Sanity System]], [[Deep Mother]], and living ship rules.
+Turn ships into characters and haunted spaces. Hooks deeply into [[02_Worldbuilding/Quests/Aquabyssos]], [[Deep Mother]], and living ship rules.
 
 ## Confined-Space Horror
 - Isolation Clocks: Track hours without external contact; escalate checks
@@ -54,3 +60,16 @@ Legends speak of Vessel Horror Intensifier as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Travel/Merger_Transit_Complications]]
+
+
+## Connections
+
+- [[Aquabyssos_Submarines]]
+- [[Journey_Event_Compiler]]
+- [[Merger_Hybrid_Vehicles]]
+- [[Vehicle_Customization_Progression]]
+- [[Merger_Transit_Complications]]

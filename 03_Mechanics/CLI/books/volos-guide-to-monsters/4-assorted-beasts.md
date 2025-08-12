@@ -6,7 +6,7 @@ tags:
 aliases:
 - Assorted Beasts
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Assorted Beasts
@@ -42,3 +42,4 @@ Legends speak of 4 assorted beasts as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

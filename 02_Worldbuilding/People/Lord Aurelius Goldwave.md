@@ -23,6 +23,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-lord-aurelius-goldwave-lord-aurelius-goldwave.svg)
 
@@ -323,7 +324,7 @@ Use his various businesses and contacts to:
 - [[The Crystal Stock Exchange]]
 - [[The Grand Bazaar of Echoing Coins]]
 - [[Quest - Diplomatic Immunity]]
-- [[Quest - The Plague of Crystals]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Aethermoor - Session 03 Council of Shadows]]
 - [[Campaign_Relationship_Matrix]]
 
@@ -350,3 +351,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
 
 <!-- enriched: true -->
+- [[The Crown of Stars]]
+- [[The Order of the Shattered Crown]]

@@ -1,19 +1,29 @@
 ---
-tags: [Category/People]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
+updated: 2025-08-11
+created: 2025-08-11
+tags:
+- Category/People
+status: complete
+world: Aquabyssos
+type: npc
 obsidianUIMode: preview
 char_status: Alive
 char_race: Human
 char_gender: Unknown
 char_age: Adult
 accessibility:
-  screen_reader_summary: "The Coral Throne Syndicate is an NPC entangled with faction politics and memory economies. Contains hooks, tactics, and relationships."
-  content_warnings: ["coercion", "memory manipulation"]
-  pronunciation: "The Coral Throne Syndicate"
-  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
+  screen_reader_summary: The Coral Throne Syndicate is an NPC entangled with faction
+    politics and memory economies. Contains hooks, tactics, and relationships.
+  content_warnings:
+  - coercion
+  - memory manipulation
+  pronunciation: The Coral Throne Syndicate
+  safety_tools:
+  - Lines & Veils
+  - X-Card
+  - Open Door
 ---
+
 
 
 
@@ -32,7 +42,7 @@ The Coral Throne Syndicate moves information and influence like currency. Public
 ## Tactics and Traits
 - Conversational Disarm: First parley each day imposes disadvantage on Insight checks to read their tells.
 - Ledger of Debts: Knows a favor owed by agents linked to [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]].
-- Contingency: Keeps a sealed route toward [[02_Worldbuilding/Quests/Quest - The Seventh Shard.md|Quest - The Seventh Shard]] if negotiations sour.
+- Contingency: Keeps a sealed route toward [[02_Worldbuilding/Quests/Aquabyssos]] if negotiations sour.
 
 ## For the Table (Use Now)
 - Opening Line: “Prices rise with fear; calm your breath and we can afford the truth.”
@@ -46,12 +56,12 @@ The Coral Throne Syndicate moves information and influence like currency. Public
 
 ## Hooks to the Main Campaign
 - Offers a map shard pointing toward [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
-- Brokers a ceasefire to enable [[02_Worldbuilding/Quests/Quest - The Seventh Shard.md|Quest - The Seventh Shard]].
+- Brokers a ceasefire to enable [[02_Worldbuilding/Quests/Aquabyssos]].
 - Sells a rumor naming [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]] as the true buyer behind a recent theft.
 
 ## Cross-References
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard.md|Quest - The Seventh Shard]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
 
 ## Player-Facing Summary
@@ -73,3 +83,11 @@ Legends speak of The Coral Throne Syndicate as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Senator]]
+- [[The Current Merchants]]
+- [[Senator's Private Chambers]]
+- [[The Frozen Throne]]

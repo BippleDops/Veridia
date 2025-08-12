@@ -19,6 +19,7 @@ status: draft
 
 
 
+
 # The Great Crystallization
 *The Day the Sky Wept Crystal Tears*
 
@@ -160,7 +161,7 @@ Was the Crystallization:
 - Deliberate transformation?
 
 ## Connection to Current Events
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] may be sign of change
+- [[02_Worldbuilding/Quests/Aquabyssos]] may be sign of change
 - [[02_Worldbuilding/People/The Crimson Sage]] investigations intensifying
 - [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption accelerating
 - The Seven Shards becoming active
@@ -223,3 +224,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[Aetheron]]
+- [[Eastern Kingdom]]
+- [[The Crown of Stars]]
+- [[Lord Aurelius Goldwave]]
+- [[The Azure Coast]]
+- [[The Whispering Expanse]]

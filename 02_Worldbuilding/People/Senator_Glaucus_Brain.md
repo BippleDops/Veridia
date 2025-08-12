@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.645822+00:00'
-created: '2025-08-11T13:08:49.645822+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-senator-glaucus-brain-senator-glaucus-brain.svg)
@@ -295,3 +296,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Senator_Glaucus_Brain]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Find the Shadow Cure]]
+- [[His Own Shadow]]
+- [[Parliament High Council]]
+- [[Senator Marius]]
+- [[Shadow Binding Sanctum]]

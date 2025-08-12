@@ -26,7 +26,8 @@ aliases:
 - Drow +1 Splint Armor
 - Drow +1 Studded Leather Armor
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 

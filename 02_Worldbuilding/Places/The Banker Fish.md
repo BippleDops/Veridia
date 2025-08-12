@@ -12,11 +12,11 @@ status: complete
 world: Aquabyssos
 type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
+created: 2025-08-12
 MyContainer: None
 MyCategory: Financial Institution
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.718204+00:00'
+updated: 2025-08-12
 danger_level: Moderate
 ---
 

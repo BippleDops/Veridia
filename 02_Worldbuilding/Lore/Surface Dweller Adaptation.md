@@ -27,6 +27,7 @@ support_systems: Government and Community Assisted
 
 
 
+
 # Surface Dweller Adaptation
 *The Challenge of Living Beneath the Waves*
 
@@ -391,3 +392,9 @@ Legends speak of Surface Dweller Adaptation as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[United Councils of Both Worlds]]
+- [[Aethermoor]]

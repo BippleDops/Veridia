@@ -22,6 +22,7 @@ status: draft
 type: Location
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-nereidios-nereidios.svg)
 
@@ -188,3 +189,5 @@ Legends speak of Nereidios as a nexus where past and present converge. Locals de
 - [[02_Worldbuilding/Places/Nereidios]]
 
 <!-- enriched: true -->
+- [[Vorthak]]
+- [[Memoriam]]

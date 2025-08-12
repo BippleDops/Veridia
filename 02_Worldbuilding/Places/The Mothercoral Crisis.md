@@ -22,7 +22,7 @@ difficulty: Moderate to Hard
 primary_location: '[[Coral Courts]] and surrounding reef systems'
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.957184+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Environmental Quest
 obsidianUIMode: preview

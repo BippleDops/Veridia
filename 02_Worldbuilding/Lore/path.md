@@ -10,6 +10,7 @@ created: 2025-08-11
 updated: 2025-08-11
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-alternative-path-fled-city-alternative-path-fled-city.svg)
 
@@ -51,3 +52,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[05_Templates/World Builder Templates/Template-Hub]]
+
+
+## Connections
+
+- [[Template-Hub]]

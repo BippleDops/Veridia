@@ -24,6 +24,7 @@ access_restriction: Public Access with Security Restrictions
 ---
 
 
+
 # The Depth Chart
 *Comprehensive Underwater Navigation and Mapping System*
 
@@ -281,3 +282,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+
+
+## Connections
+
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Pressure Adaptation System]]
+- [[The Deep Harvest]]
+- [[Pressure Tubes]]

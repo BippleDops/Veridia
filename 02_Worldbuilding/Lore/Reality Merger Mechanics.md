@@ -11,6 +11,7 @@ updated: 2025-08-11
 ---
 
 
+
 ## Overview
 
 TODO
@@ -38,3 +39,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Campaign_Index]]
+
+
+## Connections
+
+- [[Complete_Faction_Warfare_System]]
+- [[Complete_Pressure_Adaptation_System]]

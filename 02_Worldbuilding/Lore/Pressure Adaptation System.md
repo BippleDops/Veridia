@@ -23,6 +23,7 @@ updated: 2025-08-11
 
 
 
+
 # Pressure Adaptation System
 *The Lifeline Between Surface and Depth*
 
@@ -502,3 +503,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Pressure Tubes]]

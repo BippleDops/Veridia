@@ -13,6 +13,7 @@ created: 2025-08-11
 ---
 
 
+
 # Party
 
 ```base
@@ -353,3 +354,8 @@ views:
 ## Cross-References
 
 - [[1-DM Toolkit/Vault Report]]
+
+
+## Connections
+
+- [[Vault Report]]

@@ -1,15 +1,21 @@
 ---
-tags: [Category/Lore]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
+tags:
+- Category/Lore
+status: complete
+world: Aquabyssos
+type: lore
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "This lore entry explains a pivotal principle or event and its consequences for play."
+  screen_reader_summary: This lore entry explains a pivotal principle or event and
+    its consequences for play.
   content_warnings: []
-  pronunciation: "Random Encounter Tables - Aquabyssos"
-  safety_tools: ["Lines & Veils", "X-Card"]
+  pronunciation: Random Encounter Tables - Aquabyssos
+  safety_tools:
+  - Lines & Veils
+  - X-Card
+updated: '2025-08-12T00:10:07.738158+00:00'
 ---
+
 
 
 
@@ -32,12 +38,12 @@ Random Encounter Tables - Aquabyssos describes a turning current in history wher
 
 ## Threads and Revelations
 - Records implicate agents tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
-- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/Quest - The Seventh Shard.md|Quest - The Seventh Shard]].
+- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/Aquabyssos]].
 - Testimony suggests [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard.md|Quest - The Seventh Shard]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
 
 ## Player-Facing Summary
@@ -59,3 +65,11 @@ Legends speak of Random Encounter Tables   Aquabyssos as a nexus where past and 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+g and map use.
+
+<!-- enriched: true -->
+
+
+## Connections
+
+- [[Random Encounters]]

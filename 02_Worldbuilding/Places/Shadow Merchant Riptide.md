@@ -17,9 +17,10 @@ created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.102610+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-shadow-merchant-riptide-shadow-merchant-riptide.svg)
@@ -235,3 +236,10 @@ Legends speak of Shadow Merchant Riptide as a nexus where past and present conve
 - [[02_Worldbuilding/Places/Shadow Merchant Riptide]]
 
 <!-- enriched: true -->
+- [[Shadow Surgeons Collective]]
+- [[The Whisper Syndicate]]
+- [[Admiral Thorne Blackwater]]
+- [[Aethermoor]]
+- [[Memory Farmers]]
+- [[Parliament of Echoes]]
+- [[Shadow Market Canals]]

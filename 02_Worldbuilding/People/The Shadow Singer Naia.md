@@ -21,6 +21,7 @@ created: 2025-08-09
 updated: 2025-08-11
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-shadow-singer-naia-the-shadow-singer-naia.svg)
 
@@ -274,9 +275,9 @@ When encountered at the [[Shadow Wells]] or another site sacred to [[The Sorrow 
 - **[[02_Worldbuilding/Places/The Tidepool Markets]]**: Occasional pilgrimages to help traumatized traders
 - **[[02_Worldbuilding/Items/Crown of Tidal Sovereignty]]**: Senses its connection to oceanic divine power
 - **[[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis]]**: Her positive shadow work conflicts with their corruption
-- **[[02_Worldbuilding/Quests/Quest - The Memory Bridge]]**: Could help restore lost emotional connections
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Could help restore lost emotional connections
 - **[[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]**: Key figure in managing emotional fallout
-- **[[02_Worldbuilding/Quests/Quest - The Shard-Shadow Resonance]]**: Her shadow-touched nature bridges different power sources
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Her shadow-touched nature bridges different power sources
 
 ### Prophecies & Divine Wisdom
 
@@ -349,3 +350,5 @@ Legends speak of The Shadow Singer Naia as a nexus where past and present conver
 - [[02_Worldbuilding/People/The Shadow Singer Naia]]
 
 <!-- enriched: true -->
+- [[Captain Nautilus the Deep Wanderer]]
+- [[Memory Harvester Kythara]]

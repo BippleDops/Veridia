@@ -29,6 +29,7 @@ updated: 2025-08-11
 
 
 
+
 # Evidence Chain Analysis
 *The Systematic Methodology for Uncovering Hidden Conspiracies and Secret Knowledge*
 
@@ -699,7 +700,7 @@ Evidence Chain Analysis techniques have been retroactively applied to investigat
 
 ### Key Practitioners
 - [[Master Investigator Lysander Truthweaver]] - Leading authority on Evidence Chain Analysis methodology
-- [[Archive-Prince Mnemonic]] - Knowledge keeper with access to suppressed investigation records
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Knowledge keeper with access to suppressed investigation records
 - [[Investigator Prima Truthseeker]] - Historical pioneer who developed foundational techniques
 - [[Detective Cross-Reference Clarke]] - Specialist in pattern recognition and connection mapping
 
@@ -749,3 +750,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Interrogation Techniques]]
+- [[Investigation Procedures]]
+- [[The Great Crystallization]]
+- [[The Seven Betrayers]]
+- [[Timeline of Crimes]]
+- [[Aethermoor]]
+- [[Parliament of Echoes]]

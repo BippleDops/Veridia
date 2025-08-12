@@ -14,7 +14,7 @@ world: Aethermoor
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.068562+00:00'
+updated: 2025-08-11
 quest_type: Investigation/Diplomatic Mission
 level_range: 7-11
 party_size: 4-6 characters
@@ -26,6 +26,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-quest-the-missing-fleet-quest-the-missing-fleet.svg)
@@ -365,3 +366,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Quest - The Missing Fleet]]
 
 <!-- enriched: true -->
+- [[Aethermoor]]

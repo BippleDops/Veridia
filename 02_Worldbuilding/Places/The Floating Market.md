@@ -18,7 +18,7 @@ size: Large Complex
 population: ~2,000 (rotating)
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.797032+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
 
@@ -819,7 +819,7 @@ The market maintains its neutral status through a complex system of dimensional 
 - [[The Free Current]]
 - [[The Neutral Ground]]
 - [[Quest - The Convergence Crisis]]
-- [[Quest - The Memory Bridge]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

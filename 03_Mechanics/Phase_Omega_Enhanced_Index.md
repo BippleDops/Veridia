@@ -4,11 +4,12 @@ type: index
 status: complete
 tags: [index, phase-omega, systems]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Phase Omega Enhanced Index
 
-Master index for VAULT PERFECTION PROTOCOL. All subsystems integrate with: [[Complete Pressure Adaptation System]], [[Complete Reality Merger System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[Sanity System]], and [[Deep Mother]].
+Master index for VAULT PERFECTION PROTOCOL. All subsystems integrate with: [[Complete Pressure Adaptation System]], [[Complete Reality Merger System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[02_Worldbuilding/Quests/Aquabyssos]], and [[Deep Mother]].
 
 ## Living World Systems
 - [[Complete_Temporal_Mechanics_System|Temporal Mechanics Engine]]
@@ -57,3 +58,7 @@ Legends speak of Phase Omega Enhanced Index as a nexus where past and present co
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Campaign_Index]]

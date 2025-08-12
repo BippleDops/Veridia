@@ -6,7 +6,7 @@ tags:
 aliases:
 - Adjudicating Areas of Effect; Targets in Areas of Effect
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Adjudicating Areas of Effect; Targets in Areas of Effect

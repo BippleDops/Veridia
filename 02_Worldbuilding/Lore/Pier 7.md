@@ -1,15 +1,22 @@
 ---
-tags: [Category/Lore]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
+updated: 2025-08-11
+created: 2025-08-11
+tags:
+- Category/Lore
+status: complete
+world: Aethermoor
+type: lore
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "This lore entry explains a pivotal principle or event and its consequences for play."
+  screen_reader_summary: This lore entry explains a pivotal principle or event and
+    its consequences for play.
   content_warnings: []
-  pronunciation: "Pier 7"
-  safety_tools: ["Lines & Veils", "X-Card"]
+  pronunciation: Pier 7
+  safety_tools:
+  - Lines & Veils
+  - X-Card
 ---
+
 
 
 
@@ -59,3 +66,8 @@ Legends speak of Pier 7 as a nexus where past and present converge. Locals descr
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Aethermoor - Session 01 Blood in the Harbor]]

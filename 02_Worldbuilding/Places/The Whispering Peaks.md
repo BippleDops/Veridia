@@ -21,13 +21,14 @@ specialties:
 - Ancient Mysteries
 - Wind Magic
 elevation: Sea level to 12,000 feet above surface
-created: 2025-07-23 18:55
+created: 2025-07-23
 modified: 2025-08-09 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.710689+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-whispering-peaks-the-whispering-peaks.svg)
@@ -378,3 +379,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Whispering Peaks]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Hadal Depths]]

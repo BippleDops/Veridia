@@ -24,13 +24,14 @@ specialties:
 - Null Technology
 relationship_with_aethermoor: Opportunistic Economic Partner
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.240167+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Quests/Economic Warfare]]'
 - '[[02_Worldbuilding/People/Zephyr Goldwhisper]]'
 - '[[02_Worldbuilding/Places/The Azure Coast]]'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-goldspire-confederacy-goldspire-confederacy.svg)
@@ -280,9 +281,9 @@ EOF < /dev/null
 
 ## Connections
 
-- [[Bandit Leader Scarface]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Economic Warfare]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Green Death]]
 - [[Campaign_Relationship_Matrix]]
 
@@ -309,3 +310,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Goldspire Confederacy]]
 
 <!-- enriched: true -->
+- [[The Liminal Trading Company]]
+- [[The Void Watchers]]

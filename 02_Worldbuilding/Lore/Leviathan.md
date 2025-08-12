@@ -10,6 +10,7 @@ created: 2025-08-11
 updated: 2025-08-11
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-leviathan-prophets-the-leviathan-prophets.svg)
 
@@ -38,3 +39,14 @@ Legends speak of Leviathan as a nexus where past and present converge. Locals de
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Azure Citadel]]
+
+
+## Connections
+
+- [[Abyssos Prime - Inverse Palace]]
+- [[Angels and Depths]]
+- [[Azure Citadel]]

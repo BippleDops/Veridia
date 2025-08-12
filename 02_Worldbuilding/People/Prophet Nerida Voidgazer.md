@@ -9,6 +9,7 @@ tags:
 type: NPC
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-prophet-nerida-voidgazer-prophet-nerida-voidgazer.svg)
 
@@ -188,3 +189,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
 
 <!-- enriched: true -->
+- [[The Deepmind Conspiracy]]
+- [[The Emergence]]
+- [[Anti-Priest Nullus]]
+- [[Sister Morwyn]]

@@ -34,6 +34,7 @@ enforcement_level: Community-Based Social Control
 
 
 
+
 # Crystal Corruption Taboos
 *The Unspoken Rules That Keep Worlds Safe from Their Greatest Fear*
 
@@ -1042,3 +1043,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[The Great Crystallization]]
+- [[Aethermoor]]

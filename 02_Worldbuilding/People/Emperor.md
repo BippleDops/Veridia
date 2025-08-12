@@ -6,9 +6,10 @@ tags:
 type: NPC
 world: Aquabyssos
 status: draft
-created: '2025-08-11T13:08:46.204709+00:00'
-updated: '2025-08-11T13:08:49.804801+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-emperor-thalassius-the-wise-emperor-thalassius-the-wise.svg)
@@ -60,3 +61,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Emperor]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Parliament of Echoes - Public Gallery]]

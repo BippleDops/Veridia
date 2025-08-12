@@ -164,7 +164,7 @@ Emperor Thalassius has ruled [[02_Worldbuilding/Places/Aquabyssos]] for over thr
 
 ## Involved Quests
 - [[02_Worldbuilding/Quests/Diplomatic Tides]] - Cross-realm negotiations
-- [[02_Worldbuilding/Quests/Depths of Whispers]] - Investigation of deep currents
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Investigation of deep currents
 - [[02_Worldbuilding/Quests/The Depth Accords]] - Surface/depth treaties
 
 

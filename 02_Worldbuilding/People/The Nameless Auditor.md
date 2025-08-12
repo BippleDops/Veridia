@@ -18,8 +18,9 @@ race: Unknown (appears human)
 location: '[[The Black Ledger]] - Intelligence Archive'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.814075+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-nameless-auditor-the-nameless-auditor.svg)
@@ -403,13 +404,13 @@ A being from the future attempting to prevent disasters by gathering information
 
 - [[Silverscale Consortium]]
 - [[Discover Marina's Truth]]
-- [[Sanity System]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Shadowmire Tavern]]
 - [[Vault Breach]]
 - [[Quest - The Convergence Crisis]]
 - [[Quest - The Pretender's Crown]]
 - [[The Crown's Burden]]
-- [[The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -424,3 +425,5 @@ Legends speak of The Nameless Auditor as a nexus where past and present converge
 - [[02_Worldbuilding/People/The Nameless Auditor]]
 
 <!-- enriched: true -->
+- [[Lady Jade Clawgrip]]
+- [[Memory Farmers]]

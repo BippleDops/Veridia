@@ -21,6 +21,7 @@ type: Lore
 
 
 
+
 # 🧭 AQUABYSSOS & AETHERMOOR - Vault Navigation Hub
 
 > *Your complete guide to navigating the twin realms where ocean depths meet sky kingdoms*
@@ -228,3 +229,76 @@ type: Lore
 *Welcome to Aquabyssos & Aethermoor - Where the depths meet the heights, adventure awaits!*
 
 **Vault Version**: 2.0 | **Last Updated**: 2025-08-11 | **Campaign Ready**: ✅
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds]]
+
+
+## Connections
+
+- [[Culture_Builder]]
+- [[Guild Master Shellforge]]
+- [[Shadow Market Syndicate]]
+- [[Void Touched Cult]]
+- [[Altitude & Wind Effects]]
+- [[Balta Kaine]]
+- [[Campaign_Calendar]]
+- [[Character_Creation_Guide]]
+- [[Cloud Gardens]]
+- [[Corruption & Sanity]]
+- [[Economic_Systems]]
+- [[Elder Stormcaller]]
+- [[Equipment_Catalogs]]
+- [[Faction Reputation]]
+- [[Forge Master Thorne]]
+- [[Lost Archives]]
+- [[Matriarch Cloudweaver]]
+- [[NPC ]]
+- [[NPC_Generator]]
+- [[Oracle Mistweaver]]
+- [[Player_Handouts]]
+- [[Pressure & Depth Mechanics]]
+- [[Pressure Magic Theory]]
+- [[Pressure Magic]]
+- [[Quest - Ascension]]
+- [[Quest - Crystal Corruption]]
+- [[Quest - Missing Shipments]]
+- [[Quest - Planar Convergence]]
+- [[Quest - Sky Pirates]]
+- [[Quest - The Final Tide]]
+- [[Quest - The Haunted Depths]]
+- [[Quest - The Lost City]]
+- [[Quest - War of Tides]]
+- [[Random_Encounter_Tables]]
+- [[Random_Location_Generator]]
+- [[Ranger Skybow]]
+- [[Scout Deepfinder]]
+- [[Session_Notes_Template]]
+- [[Session_Zero_Checklist]]
+- [[Sky Marshal Windstrider]]
+- [[The Bloom Fields]]
+- [[The Crimson Hand]]
+- [[The Crystal Forest]]
+- [[The Floating Markets]]
+- [[The Forge of War]]
+- [[The Lightning Forge]]
+- [[The Living Docks]]
+- [[The Merging]]
+- [[The Neutral Zones Treaty]]
+- [[The Preservers]]
+- [[The Prophecy of Tides]]
+- [[The Silent Marketplace]]
+- [[The Void Conspiracy]]
+- [[The Wind Roads]]
+- [[Timeline of the Catastrophe]]
+- [[United Councils of Both Worlds]]
+- [[Void Prophet Zephyr]]
+- [[Void Touch]]
+- [[Windweaver Spire]]
+- [[Deep_Mother_Subsystem]]
+- [[Sanity_Horror_Framework]]
+- [[Transformation_Compendium]]
+- [[Campaign_Dashboard]]
+- [[Campaign_Quick_Reference_Sheets]]
+- [[Campaign_Relationship_Matrix]]

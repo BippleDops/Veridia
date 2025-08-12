@@ -29,6 +29,7 @@ obsidianUIMode: preview
 updated: 2025-08-12
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-cathedral-of-light-cathedral-of-light.svg)
 
@@ -467,3 +468,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 <!-- enriched: true -->
 riched: true -->
+- [[Purist Coalition]]
+- [[The Great Crystallization]]
+- [[Sylvanheart]]

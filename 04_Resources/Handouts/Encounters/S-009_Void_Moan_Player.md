@@ -5,6 +5,7 @@ status: complete
 audience: player
 tags: [handout, encounter, sky]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Void Moan
@@ -23,3 +24,7 @@ Possible outcomes
 - You shrug it off together
 - Someone freezes up
 - The quiet gets inside
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01]]

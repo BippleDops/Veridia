@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Both
 status: draft
-created: '2025-08-11T13:08:45.845373+00:00'
-updated: '2025-08-11T13:08:50.782072+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-embassy-quarter-the-embassy-quarter.svg)
@@ -58,3 +59,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Embassy Quarter]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Marriage Between Worlds]]

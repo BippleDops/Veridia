@@ -31,6 +31,7 @@ updated: 2025-08-11
 
 
 
+
 # Kraken Territories
 *The Sovereign Domains of the Ancient Ocean Lords*
 
@@ -688,7 +689,7 @@ Kraken territories present unique environmental conditions that create both obst
 - [[Thalassius the Wise]] - Scholar with kraken territory research connections
 - [[Order of the Sunken Crown]] - Religious organization with territorial diplomatic ties
 - [[The Deep Mother]] - Ancient entity with historical kraken relationships
-- [[Archive-Prince Mnemonic]] - Knowledge keeper with territorial academic exchanges
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Knowledge keeper with territorial academic exchanges
 
 ---
 
@@ -725,3 +726,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Order of the Sunken Crown]]
+- [[Pearl Diving Honor Culture]]
+- [[Pressure Adaptation System]]
+- [[Temporal Distortion Zones]]
+- [[Thalassius the Wise]]
+- [[The Abyss Beneath Aquabyssos]]
+- [[The Great Crystallization]]
+- [[The Pressure Baptism Rites]]
+- [[Ambassador Nerida Deepcurrent]]
+- [[Abyssos Prime]]
+- [[Aethermoor]]

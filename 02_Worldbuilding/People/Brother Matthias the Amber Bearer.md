@@ -18,8 +18,9 @@ race: Human (Shard-bearer)
 location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Monastery'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.931108+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-brother-matthias-the-amber-bearer-brother-matthias-the-amber-bearer.svg)
@@ -315,8 +316,8 @@ The [[02_Worldbuilding/Lore/The Seven Shards|Amber Shard]] grants Matthias power
 - **[[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis]]**: Would love to corrupt a Shard bearer
 - **[[02_Worldbuilding/Places/The Memory Storm Fields]]**: His presence calms chaotic divine energies
 - **[[02_Worldbuilding/Items/The Resonance Forge Hammer]]**: Would resonate powerfully with Amber Shard
-- **[[02_Worldbuilding/Quests/Quest - The Memory Bridge]]**: Could provide stable foundation for divine connections
-- **[[02_Worldbuilding/Quests/Quest - The Shard-Shadow Resonance]]**: Central figure in power dynamic exploration
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Could provide stable foundation for divine connections
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Central figure in power dynamic exploration
 - **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Might have records of his true nature
 - **[[02_Worldbuilding/People/The Crimson Sage]]**: Would recognize him as fellow Shard bearer immediately
 
@@ -424,3 +425,7 @@ Legends speak of Brother Matthias the Amber Bearer as a nexus where past and pre
 - [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
 
 <!-- enriched: true -->
+- [[Brother Marcus Steelbane]]
+- [[Keeper of the Shattered Crown, Marcus Crystalvein]]
+- [[Scholar Vivienne the Chronicler]]
+- [[The Order of the Shattered Crown]]

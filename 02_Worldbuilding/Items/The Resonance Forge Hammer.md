@@ -19,8 +19,9 @@ current_location: '[[The Crystalline Foundry]]'
 danger_level: 2
 created_by: Claude
 created: 2025-08-09
-updated: '2025-08-11T13:08:47.105466+00:00'
+updated: 2025-08-11
 ---
+
 
 
 # The Resonance Forge Hammer
@@ -351,3 +352,14 @@ Legends speak of The Resonance Forge Hammer as a nexus where past and present co
 - A map overlay reveals a hidden approach to The Resonance Forge Hammer active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Crystalline Foundry]]
+
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Queen Seraphina Lumengarde]]
+- [[The Crystalline Foundry]]

@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:50.932012+00:00'
-created: '2025-08-11T13:08:50.932012+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -9,6 +9,7 @@ tags:
 type: Location
 danger_level: Moderate
 ---
+
 
 
 
@@ -207,9 +208,9 @@ Surface dwellers who die from memory-related magical accidents sometimes find th
 - [[Crystalline Depths]]
 - [[Find the Grief Bomb]]
 - [[Rescue Senator Glaucus]]
-- [[Smuggler's Gambit]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Maw of Darkness]]
-- [[The Oracle of the Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -234,3 +235,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Archive of Unremembered Things]]
 
 <!-- enriched: true -->
+- [[Emperor Thalassius]]
+- [[The Scattered Emperor]]
+- [[Archivist Vera Glowmind]]

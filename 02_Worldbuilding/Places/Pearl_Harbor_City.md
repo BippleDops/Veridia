@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:50.573995+00:00'
-created: '2025-08-11T13:08:50.573995+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -9,6 +9,7 @@ tags:
 type: Location
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-pearl-harbor-city-pearl-harbor-city.svg)
@@ -61,7 +62,7 @@ Diplomatic quarters for various factions and surface nations. Heavily warded and
 ## Current Events
 
 ### The Pressure Pirates
-A group of raiders has been attacking ships in the transition zone between surface and city. [[Commander Varek Irontrident]] has posted bounties.
+A group of raiders has been attacking ships in the transition zone between surface and city. [[02_Worldbuilding/Quests/Aquabyssos]] has posted bounties.
 
 ### The Surface Plague Scare
 Rumors that surface diseases are spreading through the locks. [[02_Worldbuilding/Places/Dr. Siphon Gillwater]] seeks adventurers to investigate.
@@ -83,8 +84,8 @@ A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arriv
 
 ### Frequent Visitors
 - [[02_Worldbuilding/People/Gareth_Ironforge]] - Monthly metal trades
-- [[Elena Starweaver]] - Seeks underwater spell components
-- [[Commander Varek Irontrident]] - Security inspections
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Seeks underwater spell components
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Security inspections
 
 ## Available Services
 
@@ -106,7 +107,7 @@ A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arriv
 
 ## Quest Hooks
 
-1. **[[Smuggler's Gambit]]** - The Syndicate needs a sensitive package delivered
+1. **[[02_Worldbuilding/Quests/Aquabyssos]]** - The Syndicate needs a sensitive package delivered
 2. **[[The Lock Saboteur]]** - Someone's trying to destroy the pressure system
 3. **[[Surface Tensions]]** - Diplomatic mission to establish new trade route
 4. **[[The Deep Fugitive]]** - An escaped prisoner from [[The Maw of Darkness]] is hiding here
@@ -180,3 +181,29 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Pearl_Harbor_City]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Barnacle]]
+- [[The Depth Wardens]]
+- [[Azure Citadel]]
+- [[Black Market Deal]]
+- [[Captain Marlowe Tidecrest]]
+- [[Chef Gastropod]]
+- [[Coral Throne Syndicate]]
+- [[Current Riders Guild]]
+- [[Depth Warden Patrol]]
+- [[Engineer Prisma Depthwright]]
+- [[Illyana Glowstream]]
+- [[Lord Reginald Seaworthy]]
+- [[Luminous Hollow]]
+- [[Pressure Suit Malfunction]]
+- [[Street Urchin Gang]]
+- [[Surface Tensions]]
+- [[Surface Traders]]
+- [[The Banker Fish]]
+- [[The Deep Fugitive]]
+- [[High Tidecaller Nerissa]]
+- [[The Lock Saboteur]]
+- [[The Maw of Darkness]]

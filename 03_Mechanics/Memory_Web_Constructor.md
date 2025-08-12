@@ -4,6 +4,7 @@ type: mechanics
 status: complete
 tags: [mechanics, memory, web]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Memory Web Constructor
@@ -44,3 +45,7 @@ Legends speak of Memory Web Constructor as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[03_Mechanics/Phase_Omega_Enhanced_Index]]

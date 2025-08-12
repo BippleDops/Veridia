@@ -6,8 +6,8 @@ tags:
 type: NPC
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.100254+00:00'
-updated: '2025-08-11T13:08:50.005151+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
 
 

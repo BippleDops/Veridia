@@ -6,9 +6,10 @@ tags:
 type: NPC
 world: Both
 status: draft
-created: '2025-08-11T13:08:45.799801+00:00'
-updated: '2025-08-11T13:08:49.977070+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
+
 
 
 ## Overview
@@ -56,3 +57,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/The Depth-Blessed Fisherman, Captain Sal Deepcurrent]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Transformed Citizens]]

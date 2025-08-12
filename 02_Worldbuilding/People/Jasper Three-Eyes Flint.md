@@ -1,13 +1,14 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:49.625311+00:00'
-created: '2025-08-11T13:08:49.625311+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
 - draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-jasper-three-eyes-flint-jasper-three-eyes-flint.png)
@@ -316,3 +317,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/People/Jasper Three-Eyes Flint]]
 
 <!-- enriched: true -->
+- [[Ambassador Nerida Deepcurrent]]
+- [[Captain Lyanna Brightshield]]
+- [[Mayor Thompson]]

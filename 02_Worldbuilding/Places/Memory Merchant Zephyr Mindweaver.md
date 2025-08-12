@@ -16,12 +16,13 @@ location: Memory Bazaar, Abyssal Depths
 faction: Independent Traders
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.044693+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-memory-merchant-zephyr-mindweaver-memory-merchant-zephyr-mindweaver.svg)
@@ -183,7 +184,7 @@ Her vast collection makes her one of the most knowledgeable NPCs in the campaign
 
 - [[Crystal Wardens]]
 - [[Discover Marina's Truth]]
-- [[Sanity System]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Emperor Thalassius the Wise]]
 - [[Hidden Smuggler's Cove]]
 - [[The Phosphor Markets]]
@@ -192,7 +193,7 @@ Her vast collection makes her one of the most knowledgeable NPCs in the campaign
 - [[Quest - The Pretender's Crown]]
 - [[Rescue Senator Glaucus]]
 - [[The Crown's Burden]]
-- [[The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -217,3 +218,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
 
 <!-- enriched: true -->
+- [[Doctor Coral Shapeshift]]
+- [[Spymaster Crow]]
+- [[Temple Guardian Marcus the Drowned]]

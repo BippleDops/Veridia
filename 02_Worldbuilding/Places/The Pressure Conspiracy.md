@@ -11,7 +11,7 @@ world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.746460+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -464,7 +464,7 @@ The **Pressure Conspiracy** represents a complex web of political intrigue and r
 
 - [[Pressure's End]]
 - [[Temporal Navigation]]
-- [[Depths of Whispers]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[The Whispering Expanse]]
 
 ## Player-Facing Summary

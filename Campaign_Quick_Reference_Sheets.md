@@ -18,6 +18,7 @@ updated: 2025-08-11
 
 
 
+
 # Campaign Quick Reference Sheets
 *Session-Ready Reference Materials for Immediate Use*
 
@@ -721,3 +722,13 @@ These session-ready reference sheets provide instant access to critical campaign
 ## Cross-References
 
 - [[Vault_Navigation_Hub]]
+- [[Goldwave Manor]]
+- [[The Celestial Wind]]
+- [[The Lighthouse of Storms]]
+- [[Abyssos Prime]]
+- [[Crystalhaven]]
+- [[Maelstrom Palace]]
+- [[Parliament of Echoes]]
+- [[Port Meridian]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Royal Palace]]

@@ -19,8 +19,9 @@ discovery_date: 2985
 research_status: Ongoing Investigation
 created_by: Claude
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.101282+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-memory-storm-fields-the-memory-storm-fields.svg)
@@ -400,3 +401,10 @@ Legends speak of The Memory Storm Fields as a nexus where past and present conve
 - [[02_Worldbuilding/Places/The Memory Storm Fields]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[The Deepwatch Guard]]
+- [[Oracle Nerida the Tidereader]]
+- [[Memory Farmers]]

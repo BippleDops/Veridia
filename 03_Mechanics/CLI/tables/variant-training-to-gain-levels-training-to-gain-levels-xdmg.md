@@ -6,7 +6,8 @@ tags:
 aliases:
 - Variant: Training to Gain Levels; Training to Gain Levels
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
+updated: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Variant: Training to Gain Levels; Training to Gain Levels

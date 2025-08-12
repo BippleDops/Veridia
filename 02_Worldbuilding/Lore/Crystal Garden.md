@@ -22,6 +22,7 @@ created: 2025-08-08
 updated: 2025-08-11
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-crystal-gardens-crystal-gardens.svg)
 
@@ -481,3 +482,12 @@ Legends speak of Crystal Garden as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[Merged Reality Zones]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Seven Shards]]
+- [[The Transformed Citizens]]

@@ -45,14 +45,15 @@ temporal_stability: 15
 shadow_density: Variable
 pressure_effects: Severe
 status: complete
-created: 2025-08-11 - Category/Place
+created: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:50.949136+00:00'
+updated: 2025-08-11
 type: Location
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-recursion-cult-the-recursion-cult.svg)
@@ -423,3 +424,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Recursion Cult]]
 
 <!-- enriched: true -->
+- [[Memory Pearls]]
+- [[Abyssos Prime]]

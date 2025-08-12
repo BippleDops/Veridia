@@ -175,7 +175,7 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - [[Lord Commander Gareth Steelborn]]
 - [[Vex Shadowthorn]]
 - [[Port Meridian]]
-- [[Quest - The Plague of Crystals]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix]]
 
 ## Player-Facing Summary

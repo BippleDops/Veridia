@@ -18,11 +18,12 @@ owner: Abyssos Prime Government
 danger_level: Low-Moderate
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.604084+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Transportation Hub
 obsidianUIMode: preview
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-abyssos-prime-pressure-terminal-abyssos-prime-pressure-terminal.svg)
@@ -393,7 +394,7 @@ The pressure tube network directly connects the terminal to major locations thro
 - **[[The Phosphor Markets]]**: Commercial route for trade and economic activity
 - **[[Azure Citadel]]**: Military route for government and defense operations
 - **[[Parliament of Echoes]]**: Government route for political and administrative functions
-- **[[The Sunken Library of Thalassius]]**: Academic route for research and education
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Academic route for research and education
 - **Deep Research Stations**: Specialized routes to extreme depth facilities
 
 ### Economic Impact
@@ -441,3 +442,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
 
 <!-- enriched: true -->
+- [[Abyssos Prime]]
+- [[Aethermoor]]
+- [[Azure Citadel]]
+- [[Crystalhaven]]
+- [[Parliament of Echoes]]
+- [[The Hadal Depths]]
+- [[The Phosphor Markets]]
+- [[The Sunken Library of Thalassius]]

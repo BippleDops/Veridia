@@ -31,6 +31,7 @@ specialization_required: Temporal Engineering Certification
 
 
 
+
 # Temporal Anomaly Resolution
 *Restoring Order to the Flow of Time*
 
@@ -666,3 +667,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index]]
+- [[Convergence Point]]
+- [[Pressure Adaptation System]]
+- [[Reality Merge Zones]]
+- [[Temporal Distortion Zones]]

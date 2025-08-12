@@ -18,10 +18,11 @@ category: Life Support Technology
 significance: Essential Infrastructure
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.787530+00:00'
+updated: 2025-08-11
 technology_type: Bio-Magical Respiratory System
 access_restriction: Public Infrastructure
 ---
+
 
 
 
@@ -527,3 +528,8 @@ Legends speak of Underwater Breathing as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Depth Chart]]
+- [[Pressure Tubes]]

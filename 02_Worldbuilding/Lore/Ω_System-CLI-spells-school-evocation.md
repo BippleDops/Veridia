@@ -18,12 +18,13 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:47.790517+00:00'
+updated: 2025-08-11
 school: Evocation
 focus: Destructive and Energy Manipulation Magic
 complexity: Fundamental to Catastrophic
 practitioners: Battle mages, energy manipulators, destroyers
 ---
+
 
 
 
@@ -279,3 +280,12 @@ Legends speak of Ω System CLI spells school evocation as a nexus where past and
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Spell Lists]]
+
+
+## Connections
+
+- [[Aethermoor]]

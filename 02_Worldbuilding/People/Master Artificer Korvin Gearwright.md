@@ -9,6 +9,7 @@ tags:
 type: NPC
 ---
 
+
 > [!figure] Portrait
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-master-artificer-korvin-gearwright-master-artificer-korvin-gearwright.svg)
 
@@ -252,3 +253,7 @@ Legends speak of Master Artificer Korvin Gearwright as a nexus where past and pr
 - [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
 
 <!-- enriched: true -->
+- [[Quest - Crystal Innovation]]
+- [[Quest - The Perfect Purifier]]
+- [[Quest - The Runaway Golem]]
+- [[The Crystalline Foundry]]

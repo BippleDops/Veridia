@@ -10,6 +10,7 @@ created: 2025-08-11
 updated: 2025-08-11
 ---
 
+
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-sunken-library-of-thalassius-the-sunken-library-of-thalassius.svg)
 
@@ -39,3 +40,12 @@ Legends speak of The Sunken Library as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Whispering Peaks]]
+
+
+## Connections
+
+- [[The Whispering Peaks]]

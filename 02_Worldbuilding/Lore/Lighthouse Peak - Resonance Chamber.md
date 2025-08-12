@@ -17,6 +17,7 @@ updated: 2025-08-11
 
 
 
+
 # Lighthouse Peak - Resonance Chamber
 
 *"At the pinnacle where sea meets sky, ancient harmonies still echo."*
@@ -72,3 +73,8 @@ Legends speak of Lighthouse Peak   Resonance Chamber as a nexus where past and p
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Location Index]]
+- [[Aetheric Wind Songs]]

@@ -18,7 +18,7 @@ difficulty: Levels 16-20
 ruler: '[[02_Worldbuilding/People/Aboleth Prime Yoth]]'
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:51.160596+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -309,7 +309,7 @@ Yoth can take one lair action per round:
 ## Connections
 
 - [[Discover Marina's Truth]]
-- [[Sanity System]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Admiral Thorne Blackwater]]
 - [[Duke Cyrus Reefheart]]
 - [[Sage Lysander Deepthought]]
@@ -321,7 +321,7 @@ Yoth can take one lair action per round:
 - [[The Whispering Depths]]
 - [[Vault Breach]]
 - [[Ambush Point]]
-- [[The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

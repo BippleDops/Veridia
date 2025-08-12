@@ -22,6 +22,7 @@ updated: 2025-08-11
 
 
 
+
 # The Lock Saboteur
 
 **Type:** Infiltration/Sabotage Prevention  
@@ -311,3 +312,15 @@ Legends speak of The Lock Saboteur as a nexus where past and present converge. L
 - A map overlay reveals a hidden approach to The Lock Saboteur active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/Lock Fragment]]
+- [[Admiral Thorne Blackwater]]
+- [[Engineer Brass Gearspin]]
+- [[Memory Farmers]]
+- [[Pressure's End]]
+- [[Temple Guardian Marcus the Drowned]]
+- [[The Hadal Depths]]
+- [[The Lock]]
+- [[Vault Keeper Eternal]]

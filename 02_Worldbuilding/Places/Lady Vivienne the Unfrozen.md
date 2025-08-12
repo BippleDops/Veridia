@@ -14,12 +14,13 @@ world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.766184+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Noble Estate
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-lady-vivienne-the-unfrozen-lady-vivienne-the-unfrozen.svg)
@@ -280,3 +281,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
 
 <!-- enriched: true -->
+- [[Aethermoor]]

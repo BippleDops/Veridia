@@ -19,7 +19,7 @@ world: Aethermoor
 type: Group
 created_by: lore-expansion-specialist
 created: 2025-08-11
-updated: '2025-08-11T13:08:51.420860+00:00'
+updated: 2025-08-11
 organization_type: Professional Guild
 scope: Continental
 membership: Elite Crafters
@@ -40,6 +40,7 @@ themes:
 - guild_hierarchy
 - masterwork_tradition
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-master-artificers-guild-master-artificers-guild.svg)
@@ -469,3 +470,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_People_Index]]
+- [[Crystal Forest]]
+- [[Eastern Kingdom]]
+- [[Magic Items]]
+- [[The Great Crystallization]]
+- [[Aethermoor]]
+- [[Crystalhaven]]

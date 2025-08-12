@@ -6,8 +6,8 @@ tags:
 type: Location
 world: Aethermoor
 status: draft
-created: '2025-08-11T13:08:46.262614+00:00'
-updated: '2025-08-11T13:08:50.541726+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
 

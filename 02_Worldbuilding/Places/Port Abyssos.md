@@ -6,10 +6,11 @@ tags:
 type: Location
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.305948+00:00'
-updated: '2025-08-11T13:08:50.196939+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
+
 
 
 ## Overview
@@ -54,3 +55,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Port Abyssos]]
 
 <!-- enriched: true -->
+
+
+## Connections
+
+- [[Coral Throne Syndicate]]
+- [[Current Riders Guild]]
+- [[The Depth Plague]]

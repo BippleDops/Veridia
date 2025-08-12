@@ -25,6 +25,7 @@ updated: 2025-08-11
 
 
 
+
 # Memory Alteration Consequences
 *The Hidden Price of Changing the Mind*
 
@@ -744,3 +745,9 @@ Legends speak of Memory Alteration Consequences as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[The Convergence Point]]
+- [[Timeline of the Drowning]]

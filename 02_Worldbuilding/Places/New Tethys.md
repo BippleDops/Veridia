@@ -17,10 +17,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:51.133300+00:00'
+updated: 2025-08-11
 status: draft
 type: Location
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-new-tethys-new-tethys.svg)
@@ -214,3 +215,17 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/New Tethys]]
 
 <!-- enriched: true -->
+- [[Abyssal Academy]]
+- [[Enforcer Chief Mako Ironjaw]]
+- [[The Cerulean Breath]]
+- [[The Deepmind Conspiracy]]
+- [[The Emergence]]
+- [[Depth Wardens]]
+- [[Free Current]]
+- [[Innkeeper Marina Dreamwhisper]]
+- [[Keeper Elara Mindwell]]
+- [[Memory Thief]]
+- [[Merchant Delilah Currentrunner]]
+- [[The Depth Plague]]
+- [[The Free Current]]
+- [[The Vanishing Depths]]

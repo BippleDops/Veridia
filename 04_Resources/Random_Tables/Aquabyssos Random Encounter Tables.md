@@ -10,7 +10,7 @@ system: D&D 5e
 campaign: Aquabyssos
 created: 2025-08-07
 world: Aquabyssos
-updated: '2025-08-11T13:08:47.042129+00:00'
+updated: 2025-08-11
 status: draft
 ---
 

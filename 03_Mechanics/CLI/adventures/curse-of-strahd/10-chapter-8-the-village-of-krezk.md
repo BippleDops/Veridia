@@ -6,7 +6,7 @@ tags:
 aliases:
 - Chapter 8: The Village of Krezk
 type: note
-created: 2025-07-23 12:39
+created: 2025-07-23
 modified: 2025-07-23 12:39
 ---
 # Chapter 8: The Village of Krezk
@@ -741,3 +741,4 @@ Legends speak of 10 chapter 8 the village of krezk as a nexus where past and pre
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+ enriched: true -->

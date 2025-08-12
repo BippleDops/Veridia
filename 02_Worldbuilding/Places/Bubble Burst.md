@@ -15,7 +15,7 @@ created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.936174+00:00'
+updated: 2025-08-11
 danger_level: Moderate
 ---
 

@@ -15,7 +15,7 @@ world: Aethermoor
 type: Location
 created_by: auto-stub
 created: 2025-08-11
-updated: '2025-08-11T13:08:50.226155+00:00'
+updated: 2025-08-11
 quest_type: Social Intrigue/Heist Adventure
 level_range: 4-9
 party_size: 3-6 characters

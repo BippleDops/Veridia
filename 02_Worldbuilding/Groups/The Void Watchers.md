@@ -21,8 +21,9 @@ influence: Hidden but Critical
 purpose: Prevent reality collapse and dimensional instability
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:51.256037+00:00'
+updated: 2025-08-11
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-void-watchers-the-void-watchers.svg)
@@ -464,8 +465,8 @@ Training new Watchers requires exposing them to cosmic horrors that fundamentall
 - [[The Threshold Chambers]]
 - [[Goldspire Confederacy]]
 - [[Quest - The Convergence Crisis]]
-- [[Quest - The Memory Bridge]]
-- [[Quest - The Shard-Shadow Resonance]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -476,3 +477,8 @@ The Void Watchers is a void-touched element of the setting, known for impossible
 Legends speak of The Void Watchers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Void Watchers.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Groups_Index]]
+- [[The Liminal Trading Company]]

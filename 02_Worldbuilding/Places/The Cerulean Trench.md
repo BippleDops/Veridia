@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:50.270729+00:00'
-created: '2025-08-11T13:08:50.270729+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -9,6 +9,7 @@ tags:
 type: Location
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Generated/Locations/location-city-the-cerulean-trench-the-cerulean-trench.svg)
@@ -146,7 +147,7 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 ## Connections
 
 - [[Forge of War]]
-- [[Bandit Leader Scarface]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 - [[Crystalline Depths]]
 - [[Rescue Senator Glaucus]]
 - [[The Maw of Darkness]]
@@ -205,3 +206,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/The Cerulean Trench]]
 
 <!-- enriched: true -->
+- [[Fortress of the Deeps]]
+- [[Order of the Sunken Crown]]
+- [[The Cerulean Breath]]
+- [[Beast Master Krell Chainbreaker]]
+- [[Depth Crystal Harvest]]
+- [[Depth Wardens]]
+- [[Into the Blue]]
+- [[The Deepmind]]
+- [[The Free Current]]
+- [[The Hadal Depths]]

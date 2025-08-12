@@ -23,7 +23,7 @@ specialties:
 - Conflict Resolution
 established: Post-Continental War
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.741485+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Lore/Aquabyssos Ambassadors]]'
 - '[[02_Worldbuilding/Places/The Azure Coast]]'

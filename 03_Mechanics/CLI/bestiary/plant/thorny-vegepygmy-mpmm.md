@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-thorny-vegepygmy-mpmm-thorny-vegepygmy-mpmm.svg)
+![](04_Resources/Assets/Generated/Creatures/creature-creature-thorny-vegepygmy-mpmm-thorny-vegepygmy-mpmm.png)
 
 # [Thorny Vegepygmy](3-Mechanics\CLI\bestiary\plant/thorny-vegepygmy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*  

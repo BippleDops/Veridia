@@ -47,6 +47,39 @@
 ## creature-creature-ancient-brass-dragon-xmm-v4-ancient-brass-dragon-xmm
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-brass-dragon-xmm-v4-ancient-brass-dragon-xmm.png)
 
+## creature-creature-animated-flying-sword-xmm-animated-flying-sword-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-animated-flying-sword-xmm-animated-flying-sword-xmm.png)
+
+## creature-creature-bat-xmm-bat-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bat-xmm-bat-xmm.png)
+
+## creature-creature-bat-xmm-v1-bat-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bat-xmm-v1-bat-xmm.png)
+
+## creature-creature-bat-xmm-v2-bat-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bat-xmm-v2-bat-xmm.png)
+
+## creature-creature-bat-xmm-v3-bat-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bat-xmm-v3-bat-xmm.png)
+
+## creature-creature-bat-xmm-v4-bat-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bat-xmm-v4-bat-xmm.png)
+
+## creature-creature-dire-troll-mpmm-dire-troll-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-dire-troll-mpmm-dire-troll-mpmm.png)
+
+## creature-creature-dire-troll-mpmm-v1-dire-troll-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-dire-troll-mpmm-v1-dire-troll-mpmm.png)
+
+## creature-creature-dire-troll-mpmm-v2-dire-troll-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-dire-troll-mpmm-v2-dire-troll-mpmm.png)
+
+## creature-creature-dire-troll-mpmm-v3-dire-troll-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-dire-troll-mpmm-v3-dire-troll-mpmm.png)
+
+## creature-creature-dire-troll-mpmm-v4-dire-troll-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-dire-troll-mpmm-v4-dire-troll-mpmm.png)
+
 ## creature-creature-dragon-dragon
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-dragon-dragon.png)
 
@@ -92,6 +125,36 @@
 ## creature-creature-githyanki-knight-xmm-v4-githyanki-knight-xmm
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-githyanki-knight-xmm-v4-githyanki-knight-xmm.png)
 
+## creature-creature-goblin-hexer-xmm-goblin-hexer-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-goblin-hexer-xmm-goblin-hexer-xmm.png)
+
+## creature-creature-goblin-hexer-xmm-v1-goblin-hexer-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-goblin-hexer-xmm-v1-goblin-hexer-xmm.png)
+
+## creature-creature-goblin-hexer-xmm-v2-goblin-hexer-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-goblin-hexer-xmm-v2-goblin-hexer-xmm.png)
+
+## creature-creature-goblin-hexer-xmm-v3-goblin-hexer-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-goblin-hexer-xmm-v3-goblin-hexer-xmm.png)
+
+## creature-creature-goblin-hexer-xmm-v4-goblin-hexer-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-goblin-hexer-xmm-v4-goblin-hexer-xmm.png)
+
+## creature-creature-goblin-warrior-xmm-goblin-warrior-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-goblin-warrior-xmm-goblin-warrior-xmm.png)
+
+## creature-creature-goblin-warrior-xmm-v1-goblin-warrior-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-goblin-warrior-xmm-v1-goblin-warrior-xmm.png)
+
+## creature-creature-goblin-warrior-xmm-v2-goblin-warrior-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-goblin-warrior-xmm-v2-goblin-warrior-xmm.png)
+
+## creature-creature-goblin-warrior-xmm-v3-goblin-warrior-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-goblin-warrior-xmm-v3-goblin-warrior-xmm.png)
+
+## creature-creature-goblin-warrior-xmm-v4-goblin-warrior-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-goblin-warrior-xmm-v4-goblin-warrior-xmm.png)
+
 ## creature-creature-griffon-xmm-griffon-xmm
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-griffon-xmm-griffon-xmm.png)
 
@@ -112,3 +175,213 @@
 
 ## creature-creature-guardian-naga-xmm-v1-guardian-naga-xmm
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-guardian-naga-xmm-v1-guardian-naga-xmm.png)
+
+## creature-creature-hobgoblin-devastator-mpmm-hobgoblin-devastator-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hobgoblin-devastator-mpmm-hobgoblin-devastator-mpmm.png)
+
+## creature-creature-hobgoblin-devastator-mpmm-v1-hobgoblin-devastator-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hobgoblin-devastator-mpmm-v1-hobgoblin-devastator-mpmm.png)
+
+## creature-creature-hobgoblin-devastator-mpmm-v2-hobgoblin-devastator-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hobgoblin-devastator-mpmm-v2-hobgoblin-devastator-mpmm.png)
+
+## creature-creature-hobgoblin-devastator-mpmm-v3-hobgoblin-devastator-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hobgoblin-devastator-mpmm-v3-hobgoblin-devastator-mpmm.png)
+
+## creature-creature-hobgoblin-devastator-mpmm-v4-hobgoblin-devastator-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hobgoblin-devastator-mpmm-v4-hobgoblin-devastator-mpmm.png)
+
+## creature-creature-maw-demon-mpmm-maw-demon-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-maw-demon-mpmm-maw-demon-mpmm.png)
+
+## creature-creature-maw-demon-mpmm-v1-maw-demon-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-maw-demon-mpmm-v1-maw-demon-mpmm.png)
+
+## creature-creature-maw-demon-mpmm-v2-maw-demon-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-maw-demon-mpmm-v2-maw-demon-mpmm.png)
+
+## creature-creature-maw-demon-mpmm-v3-maw-demon-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-maw-demon-mpmm-v3-maw-demon-mpmm.png)
+
+## creature-creature-maw-demon-mpmm-v4-maw-demon-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-maw-demon-mpmm-v4-maw-demon-mpmm.png)
+
+## creature-creature-murgaxor-scc-murgaxor-scc
+![](04_Resources/Assets/Generated/Creatures/creature-creature-murgaxor-scc-murgaxor-scc.png)
+
+## creature-creature-murgaxor-scc-v1-murgaxor-scc
+![](04_Resources/Assets/Generated/Creatures/creature-creature-murgaxor-scc-v1-murgaxor-scc.png)
+
+## creature-creature-murgaxor-scc-v2-murgaxor-scc
+![](04_Resources/Assets/Generated/Creatures/creature-creature-murgaxor-scc-v2-murgaxor-scc.png)
+
+## creature-creature-murgaxor-scc-v3-murgaxor-scc
+![](04_Resources/Assets/Generated/Creatures/creature-creature-murgaxor-scc-v3-murgaxor-scc.png)
+
+## creature-creature-murgaxor-scc-v4-murgaxor-scc
+![](04_Resources/Assets/Generated/Creatures/creature-creature-murgaxor-scc-v4-murgaxor-scc.png)
+
+## creature-creature-nightmare-xmm-nightmare-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nightmare-xmm-nightmare-xmm.png)
+
+## creature-creature-nightmare-xmm-v1-nightmare-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nightmare-xmm-v1-nightmare-xmm.png)
+
+## creature-creature-nightmare-xmm-v2-nightmare-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nightmare-xmm-v2-nightmare-xmm.png)
+
+## creature-creature-nightmare-xmm-v3-nightmare-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nightmare-xmm-v3-nightmare-xmm.png)
+
+## creature-creature-nightmare-xmm-v4-nightmare-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nightmare-xmm-v4-nightmare-xmm.png)
+
+## creature-creature-nightwalker-mpmm-nightwalker-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nightwalker-mpmm-nightwalker-mpmm.png)
+
+## creature-creature-nightwalker-mpmm-v1-nightwalker-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nightwalker-mpmm-v1-nightwalker-mpmm.png)
+
+## creature-creature-nightwalker-mpmm-v2-nightwalker-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nightwalker-mpmm-v2-nightwalker-mpmm.png)
+
+## creature-creature-nightwalker-mpmm-v3-nightwalker-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nightwalker-mpmm-v3-nightwalker-mpmm.png)
+
+## creature-creature-nightwalker-mpmm-v4-nightwalker-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nightwalker-mpmm-v4-nightwalker-mpmm.png)
+
+## creature-creature-salamander-xmm-salamander-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-salamander-xmm-salamander-xmm.png)
+
+## creature-creature-salamander-xmm-v1-salamander-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-salamander-xmm-v1-salamander-xmm.png)
+
+## creature-creature-salamander-xmm-v2-salamander-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-salamander-xmm-v2-salamander-xmm.png)
+
+## creature-creature-salamander-xmm-v3-salamander-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-salamander-xmm-v3-salamander-xmm.png)
+
+## creature-creature-salamander-xmm-v4-salamander-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-salamander-xmm-v4-salamander-xmm.png)
+
+## creature-creature-sphinx-xmm-sphinx-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-sphinx-xmm-sphinx-xmm.png)
+
+## creature-creature-sphinx-xmm-v1-sphinx-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-sphinx-xmm-v1-sphinx-xmm.png)
+
+## creature-creature-sphinx-xmm-v2-sphinx-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-sphinx-xmm-v2-sphinx-xmm.png)
+
+## creature-creature-sphinx-xmm-v3-sphinx-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-sphinx-xmm-v3-sphinx-xmm.png)
+
+## creature-creature-sphinx-xmm-v4-sphinx-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-sphinx-xmm-v4-sphinx-xmm.png)
+
+## creature-creature-storm-giant-quintessent-mpmm-storm-giant-quintessent-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-storm-giant-quintessent-mpmm-storm-giant-quintessent-mpmm.png)
+
+## creature-creature-storm-giant-quintessent-mpmm-v1-storm-giant-quintessent-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-storm-giant-quintessent-mpmm-v1-storm-giant-quintessent-mpmm.png)
+
+## creature-creature-storm-giant-quintessent-mpmm-v2-storm-giant-quintessent-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-storm-giant-quintessent-mpmm-v2-storm-giant-quintessent-mpmm.png)
+
+## creature-creature-storm-giant-quintessent-mpmm-v3-storm-giant-quintessent-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-storm-giant-quintessent-mpmm-v3-storm-giant-quintessent-mpmm.png)
+
+## creature-creature-storm-giant-quintessent-mpmm-v4-storm-giant-quintessent-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-storm-giant-quintessent-mpmm-v4-storm-giant-quintessent-mpmm.png)
+
+## creature-creature-swarm-of-dretches-xmm-swarm-of-dretches-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-dretches-xmm-swarm-of-dretches-xmm.png)
+
+## creature-creature-swarm-of-dretches-xmm-v1-swarm-of-dretches-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-dretches-xmm-v1-swarm-of-dretches-xmm.png)
+
+## creature-creature-swarm-of-dretches-xmm-v2-swarm-of-dretches-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-dretches-xmm-v2-swarm-of-dretches-xmm.png)
+
+## creature-creature-swarm-of-dretches-xmm-v3-swarm-of-dretches-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-dretches-xmm-v3-swarm-of-dretches-xmm.png)
+
+## creature-creature-swarm-of-dretches-xmm-v4-swarm-of-dretches-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-dretches-xmm-v4-swarm-of-dretches-xmm.png)
+
+## creature-creature-thorny-vegepygmy-mpmm-thorny-vegepygmy-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-thorny-vegepygmy-mpmm-thorny-vegepygmy-mpmm.png)
+
+## creature-creature-thorny-vegepygmy-mpmm-v1-thorny-vegepygmy-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-thorny-vegepygmy-mpmm-v1-thorny-vegepygmy-mpmm.png)
+
+## creature-creature-thorny-vegepygmy-mpmm-v2-thorny-vegepygmy-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-thorny-vegepygmy-mpmm-v2-thorny-vegepygmy-mpmm.png)
+
+## creature-creature-thorny-vegepygmy-mpmm-v3-thorny-vegepygmy-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-thorny-vegepygmy-mpmm-v3-thorny-vegepygmy-mpmm.png)
+
+## creature-creature-thorny-vegepygmy-mpmm-v4-thorny-vegepygmy-mpmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-thorny-vegepygmy-mpmm-v4-thorny-vegepygmy-mpmm.png)
+
+## creature-creature-troll-xmm-troll-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-troll-xmm-troll-xmm.png)
+
+## creature-creature-troll-xmm-v1-troll-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-troll-xmm-v1-troll-xmm.png)
+
+## creature-creature-troll-xmm-v2-troll-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-troll-xmm-v2-troll-xmm.png)
+
+## creature-creature-troll-xmm-v3-troll-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-troll-xmm-v3-troll-xmm.png)
+
+## creature-creature-troll-xmm-v4-troll-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-troll-xmm-v4-troll-xmm.png)
+
+## creature-creature-undead-spirit-xphb-undead-spirit-xphb
+![](04_Resources/Assets/Generated/Creatures/creature-creature-undead-spirit-xphb-undead-spirit-xphb.png)
+
+## creature-creature-undead-spirit-xphb-v1-undead-spirit-xphb
+![](04_Resources/Assets/Generated/Creatures/creature-creature-undead-spirit-xphb-v1-undead-spirit-xphb.png)
+
+## creature-creature-undead-spirit-xphb-v2-undead-spirit-xphb
+![](04_Resources/Assets/Generated/Creatures/creature-creature-undead-spirit-xphb-v2-undead-spirit-xphb.png)
+
+## creature-creature-undead-spirit-xphb-v3-undead-spirit-xphb
+![](04_Resources/Assets/Generated/Creatures/creature-creature-undead-spirit-xphb-v3-undead-spirit-xphb.png)
+
+## creature-creature-undead-spirit-xphb-v4-undead-spirit-xphb
+![](04_Resources/Assets/Generated/Creatures/creature-creature-undead-spirit-xphb-v4-undead-spirit-xphb.png)
+
+## creature-creature-violet-fungus-xmm-v1-violet-fungus-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-violet-fungus-xmm-v1-violet-fungus-xmm.png)
+
+## creature-creature-violet-fungus-xmm-v2-violet-fungus-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-violet-fungus-xmm-v2-violet-fungus-xmm.png)
+
+## creature-creature-violet-fungus-xmm-v3-violet-fungus-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-violet-fungus-xmm-v3-violet-fungus-xmm.png)
+
+## creature-creature-violet-fungus-xmm-v4-violet-fungus-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-violet-fungus-xmm-v4-violet-fungus-xmm.png)
+
+## creature-creature-violet-fungus-xmm-violet-fungus-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-violet-fungus-xmm-violet-fungus-xmm.png)
+
+## creature-creature-young-green-dragon-xmm-v1-young-green-dragon-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-young-green-dragon-xmm-v1-young-green-dragon-xmm.png)
+
+## creature-creature-young-green-dragon-xmm-v2-young-green-dragon-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-young-green-dragon-xmm-v2-young-green-dragon-xmm.png)
+
+## creature-creature-young-green-dragon-xmm-v3-young-green-dragon-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-young-green-dragon-xmm-v3-young-green-dragon-xmm.png)
+
+## creature-creature-young-green-dragon-xmm-v4-young-green-dragon-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-young-green-dragon-xmm-v4-young-green-dragon-xmm.png)
+
+## creature-creature-young-green-dragon-xmm-young-green-dragon-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-young-green-dragon-xmm-young-green-dragon-xmm.png)

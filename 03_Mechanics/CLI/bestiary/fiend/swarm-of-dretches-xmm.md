@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-dretches-xmm-swarm-of-dretches-xmm.svg)
+![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-dretches-xmm-swarm-of-dretches-xmm.png)
 
 # [Swarm of Dretches](3-Mechanics\CLI\bestiary\fiend/swarm-of-dretches-xmm.md)
 *Source: Monster Manual (2024) p. 104*  

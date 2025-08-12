@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-ruby-xdmg-ruby-xdmg.svg)
+![](04_Resources/Assets/Generated/Items/item-artifact-ruby-xdmg-ruby-xdmg.png)
 
 # Ruby
 *Treasure (gemstone)*  

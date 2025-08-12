@@ -2,7 +2,7 @@
   "id": "ui-initiative-tracker-v1",
   "type": "ui",
   "name": "Initiative Tracker",
-  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Interface screen: Initiative Tracker, grid-based layout with spacing, icons, meters, controls, fantasy UI (parchment/metal/wood motifs), high contrast, readable, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Typography must be crisp and readable (sans-serif, high contrast, WCAG 4.5:1). Prefer short, real labels (STR, DEX, HP, BAG, MAP) or clean unlabeled slots. Avoid nonsense strings. Ensure 8–24 pt equivalent sizing and consistent alignment., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: ui]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: Interface screen — Initiative Tracker\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-contrast, readable, grid layout with icons/meters/controls\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Typography must be crisp and readable (sans-serif, high contrast, WCAG 4.5:1). Prefer short, real labels (STR, DEX, HP, BAG, MAP) or clean unlabeled slots. Avoid nonsense strings. Ensure 8–24 pt equivalent sizing and consistent alignment.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
   "aspect": "2:3",
   "resolution": "2048x3072",
   "style": [
@@ -25,8 +25,8 @@
   "alt_text": "Interface mockup: Initiative Tracker.",
   "realm": "aquabyssos",
   "generator": "openai",
-  "model": "dall-e-3",
-  "size": "1024x1792",
-  "revised_prompt": "Design a painterly-styled medieval fantasy user interface for a tabletop RPG similar to D&D. Include a grid-based layout with clear spacing, icons, meters, and controls. The overall aesthetic should draw inspiration from aquatic themes, featuring materials and surfaces that suggest an underwater environment, like the look of pressure-dome materials and the glimmers of bioluminescence. Elements of parchment, metal, and wood motifs should be integrated to emphasize the fantasy setting. Colors should stick to a palette of deep ocean blues, teals, sea-greens, enhanced with pearly highlights. Maintain high contrast for readability, employing sans-serif typography at 8–24 pt size for crisp, clear labels (e.g., STR, DEX, HP, BAG, MAP). Stay away from nonsensical symbols or strings, maintaining sense in content and consistency in alignment. Avoid incorporating elements suggestive of sci-fi settings, modern signs, realistic CGI, or anime style, and avoid excessive bloom glare.",
+  "model": "gpt-image-1",
+  "size": "1024x1024",
+  "revised_prompt": null,
   "file": "04_Resources/Assets/Generated/Digital/ui-ui-initiative-tracker-v1-initiative-tracker.png"
 }

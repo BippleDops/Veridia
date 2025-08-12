@@ -2,7 +2,7 @@
   "id": "handout-cult-text-with-marginalia",
   "type": "handout",
   "name": "Cult Text with Marginalia",
-  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, In-world document: Cult Text with Marginalia, creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish, microtext / cipher hints, high-res scan, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: handout]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: In-world document — Cult Text with Marginalia\nEnvironment: creased parchment, water damage, ink bleed, readable serif fonts; clear headings; no gibberish\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, high-res scan aesthetics\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: studio\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Text must be legible and non-gibberish. Favor simple, readable serif fonts, larger kerning, and clear headings. If uncertain, use short Latin-like placeholder words with proper spacing, or leave blank lines for later typesetting.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
   "aspect": "2:3",
   "resolution": "2048x3072",
   "style": [
@@ -25,8 +25,8 @@
   "alt_text": "Cult Text with Marginalia as an in-world paper prop.",
   "realm": "aquabyssos",
   "generator": "openai",
-  "model": "dall-e-3",
-  "size": "1024x1792",
-  "revised_prompt": "Create a high-resolution image of a worn-out parchment, inspired by tabletop fantasy, specifically resembling the style of traditional Dungeon & Dragons. The parchment should show signs of water damage, and ink bleed, and be creased as if it has been well-used. It's an in-world document containing a cult text with meaningful marginalia, and it includes hints in microtext or cipher. The text should be legible, written in readable serif fonts with larger kerning and clear headings. Use Latin-like placeholder words or leave blank lines for later typesetting if in doubt. The document features depictions or symbols of an underwater realm, showcasing aspects of aquatic fantasy realism like bioluminescence accents and illustrations of things under pressure-dome materials. The color palette includes deep teals, sea-greens, deep blues, and pearl highlights. Please ensure there's no modern technology or symbols, and avoid any elements resembling sci-fi UI, anime style, or photoreal CGI.",
+  "model": "gpt-image-1",
+  "size": "1024x1024",
+  "revised_prompt": null,
   "file": "04_Resources/Assets/Generated/Handouts/handout-handout-cult-text-with-marginalia-cult-text-with-marginalia.png"
 }

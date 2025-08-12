@@ -16,7 +16,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-crystallization-process-crystallization-process.svg)
+![](04_Resources/Assets/Generated/Locations/location-city-crystallization-process-crystallization-process.png)
 
 
 

@@ -12,7 +12,7 @@ danger_level: Moderate
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-verdant-reach-the-verdant-reach.svg)
+![](04_Resources/Assets/Generated/Locations/location-city-the-verdant-reach-the-verdant-reach.png)
 
 
 

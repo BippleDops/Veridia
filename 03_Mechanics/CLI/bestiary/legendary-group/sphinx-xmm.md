@@ -13,7 +13,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-sphinx-xmm-sphinx-xmm.svg)
+![](04_Resources/Assets/Generated/Creatures/creature-creature-sphinx-xmm-sphinx-xmm.png)
 
 # Sphinx
 

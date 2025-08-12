@@ -11,6 +11,10 @@ updated: 2025-08-11
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-master-archivist-thomas-scrollkeeper-master-archivist-thomas-scrollkeeper.png)
+
+
 
 
 ## Overview

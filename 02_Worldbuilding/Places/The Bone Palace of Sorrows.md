@@ -12,7 +12,7 @@ danger_level: Moderate
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-bone-palace-of-sorrows-the-bone-palace-of-sorrows.svg)
+![](04_Resources/Assets/Generated/Locations/location-city-the-bone-palace-of-sorrows-the-bone-palace-of-sorrows.png)
 
 
 

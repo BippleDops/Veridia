@@ -28,6 +28,10 @@ related_entities:
 - '[[Crystal Wardens]]'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-void-tears-the-void-tears.png)
+
+
 
 
 

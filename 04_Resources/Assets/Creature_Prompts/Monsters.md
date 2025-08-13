@@ -1,0 +1,1 @@
+# Monster & Creature Illustration Prompts

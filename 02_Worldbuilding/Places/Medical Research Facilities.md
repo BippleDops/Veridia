@@ -15,6 +15,10 @@ created: '2025-08-12'
 updated: '2025-08-13T01:18:36.450683+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-medical-research-facilities-medical-research-facilities.svg)
+
+
 
 # Medical Research Facilities
 

@@ -1,0 +1,81 @@
+---
+aliases:
+- Special Facility Descriptions; Special Facilities
+created: 2025-07-23
+cssclasses: json5e-note
+modified: 2025-07-23 12:39
+obsidianUIMode: preview
+status: active
+tags:
+- 5e/dm_resources
+- 5e/dm_resources/tables
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xdmg
+- world/both
+type: note
+updated: '2025-08-12T23:37:33.211977'
+world: Both
+
+category: dm_resources
+subcategory: tables---
+
+# Special Facility Descriptions; Special Facilities
+*Source: Dungeon Master's Guide (2024) p. 336* 
+
+**Special Facilities**
+
+| Level | Special Facility | Prerequisite | Order |
+|-------|------------------|--------------|-------|
+| 5 | [[/03_Mechanics/CLI/bastions/arcane-study|Arcane Study]] | Ability to use an [[/03_Mechanics/CLI/items/arcane-focus-xphb|Arcane Focus]] or a tool as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Craft |
+| 5 | [[/03_Mechanics/CLI/bastions/armory|Armory]] | None | Trade |
+| 5 | [[/03_Mechanics/CLI/bastions/barrack|Barrack]] | None | Recruit |
+| 5 | [[/03_Mechanics/CLI/bastions/garden|Garden]] | None | Harvest |
+| 5 | [[/03_Mechanics/CLI/bastions/library|Library]] | None | Research |
+| 5 | [[/03_Mechanics/CLI/bastions/sanctuary|Sanctuary]] | Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Craft |
+| 5 | [[/03_Mechanics/CLI/bastions/smithy|Smithy]] | None | Craft |
+| 5 | [[/03_Mechanics/CLI/bastions/storehouse|Storehouse]] | None | Trade |
+| 5 | [[/03_Mechanics/CLI/bastions/workshop|Workshop]] | None | Craft |
+| 9 | [[/03_Mechanics/CLI/bastions/gaming-hall|Gaming Hall]] | None | Trade |
+| 9 | [[/03_Mechanics/CLI/bastions/greenhouse|Greenhouse]] | None | Harvest |
+| 9 | [[/03_Mechanics/CLI/bastions/laboratory|Laboratory]] | None* | Craft |
+| 9 | [[/03_Mechanics/CLI/bastions/sacristy|Sacristy]] | Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Craft |
+| 9 | [[/03_Mechanics/CLI/bastions/scriptorium|Scriptorium]] | None* | Craft |
+| 9 | [[/03_Mechanics/CLI/bastions/stable|Stable]] | None | Trade |
+| 9 | [[/03_Mechanics/CLI/bastions/teleportation-circle|Teleportation Circle]] | None | Recruit |
+| 9 | [[/03_Mechanics/CLI/bastions/theater|Theater]] | None | Empower |
+| 9 | [[/03_Mechanics/CLI/bastions/training-area|Training Area]] | None | Empower |
+| 9 | [[/03_Mechanics/CLI/bastions/trophy-room|Trophy Room]] | None | Research |
+| 13 | [[/03_Mechanics/CLI/bastions/archive|Archive]] | None | Research |
+| 13 | [[/03_Mechanics/CLI/bastions/meditation-chamber|Meditation Chamber]] | None | Empower |
+| 13 | [[/03_Mechanics/CLI/bastions/menagerie|Menagerie]] | None | Recruit |
+| 13 | [[/03_Mechanics/CLI/bastions/observatory|Observatory]] | Ability to use a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Empower |
+| 13 | [[/03_Mechanics/CLI/bastions/pub|Pub]] | None | Research |
+| 13 | [[/03_Mechanics/CLI/bastions/reliquary|Reliquary]] | Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Harvest |
+| 17 | [[/03_Mechanics/CLI/bastions/demiplane|Demiplane]] | Ability to use an [[/03_Mechanics/CLI/items/arcane-focus-xphb|Arcane Focus]] or a tool as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Empower |
+| 17 | [[/03_Mechanics/CLI/bastions/guildhall|Guildhall]] | Expertise in a skill | Recruit |
+| 17 | [[/03_Mechanics/CLI/bastions/sanctum|Sanctum]] | Ability to use a [[/03_Mechanics/CLI/items/holy-symbol-xphb|Holy Symbol]] or [[/03_Mechanics/CLI/items/druidic-focus-xphb|Druidic Focus]] as a [[/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb|Spellcasting Focus]] | Empower |
+| 17 | [[/03_Mechanics/CLI/bastions/war-room|War Room]] | Fighting Style feature or Unarmored Defense feature | Recruit |
+^special-facilities
+
+*Certain orders that can be issued to these facilities have additional prerequisites.
+
+## Player-Facing Summary
+
+Special facility descriptions special facilities xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of special facility descriptions special facilities xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around special facility descriptions special facilities xdmg.
+
+## Adventure Hooks
+
+- A rumor ties special facility descriptions special facilities xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at special facility descriptions special facilities xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to special facility descriptions special facilities xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

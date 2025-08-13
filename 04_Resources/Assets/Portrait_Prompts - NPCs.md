@@ -36425,3 +36425,171 @@ The actions and decisions involving Major NPC Portrait Prompts create cascading 
 ```json
 []
 ```
+\n\n## Aethermoor portrait prompts (2025-08-13T22:17:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T22:19:26Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T22:22:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T22:23:26Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T22:27:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T22:27:26Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T22:31:26Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T22:32:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T22:35:26Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T22:37:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T22:39:26Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T22:42:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T22:43:26Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T22:47:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T22:47:26Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T22:51:26Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T22:52:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T22:55:26Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T22:57:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T22:59:26Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T23:02:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T23:03:26Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T23:07:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T23:07:26Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T23:11:27Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T23:12:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T23:15:27Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T23:17:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T23:19:27Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T23:22:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T23:23:27Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T23:27:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T23:27:27Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T23:31:27Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T23:32:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T23:35:27Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T23:37:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T23:39:27Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T23:42:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T23:43:27Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T23:47:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T23:47:27Z)\n
+```json
+[]
+```

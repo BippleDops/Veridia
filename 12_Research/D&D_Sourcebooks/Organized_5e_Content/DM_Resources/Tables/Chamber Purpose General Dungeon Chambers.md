@@ -1,0 +1,114 @@
+---
+aliases:
+- Chamber Purpose; General Dungeon Chambers
+created: 2025-07-23
+cssclasses: json5e-note
+modified: 2025-07-23 12:39
+obsidianUIMode: preview
+status: active
+tags:
+- 5e/dm_resources
+- 5e/dm_resources/tables
+- active
+- both
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/dmg
+- world/both
+type: note
+updated: '2025-08-13T12:34:03.453580+00:00'
+world: Both
+
+category: dm_resources
+subcategory: tables---
+
+
+# Chamber Purpose; General Dungeon Chambers
+*Source: Dungeon Master's Guide p. 292* 
+
+**General Dungeon Chambers**
+
+`dice: [](chamber-purpose-general-dungeon-chambers.md#^general-dungeon-chambers)`
+
+| dice: d100 | Purpose |
+|------------|---------|
+| 01 | Antechamber |
+| 02-03 | Armory |
+| 04 | Audience chamber |
+| 05 | Aviary |
+| 06-07 | Banquet room |
+| 08-10 | Barracks |
+| 11 | Bath or latrine |
+| 12 | Bedroom |
+| 13 | Bestiary |
+| 14-16 | Cell |
+| 17 | Chantry |
+| 18 | Chapel |
+| 19-20 | Cistern |
+| 21 | Classroom |
+| 22 | Closet |
+| 23-24 | Conjuring room |
+| 25-26 | Court |
+| 27-29 | Crypt |
+| 30-31 | Dining room |
+| 32-33 | Divination room |
+| 34 | Dormitory |
+| 35 | Dressing room |
+| 36 | Entry room or vestibule |
+| 37-38 | Gallery |
+| 39-40 | Game room |
+| 41-43 | Guardroom |
+| 44-45 | Hall |
+| 46-47 | Hall, great |
+| 48-49 | Hallway |
+| 50 | Kennel |
+| 51-52 | Kitchen |
+| 53-54 | Laboratory |
+| 55-57 | Library |
+| 58-59 | Lounge |
+| 60 | Meditation chamber |
+| 61 | Observatory |
+| 62 | Office |
+| 63-64 | Pantry |
+| 65-66 | Pen or prison |
+| 67-68 | Reception room |
+| 69-70 | Refectory |
+| 71 | Robing room |
+| 72 | Salon |
+| 73-74 | Shrine |
+| 75-76 | Sitting room |
+| 77-78 | Smithy |
+| 79 | Stable |
+| 80-81 | Storage room |
+| 82-83 | Strong room or vault |
+| 84-85 | Study |
+| 86-88 | Temple |
+| 89-90 | Throne room |
+| 91 | Torture chamber |
+| 92-93 | Training or exercise room |
+| 94-95 | Trophy room or museum |
+| 96 | Waiting room |
+| 97 | Nursery or schoolroom |
+| 98 | Well |
+| 99-00 | Workshop |
+^general-dungeon-chambers
+
+## Player-Facing Summary
+
+Chamber purpose general dungeon chambers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of chamber purpose general dungeon chambers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chamber purpose general dungeon chambers.
+
+## Adventure Hooks
+
+- A rumor ties chamber purpose general dungeon chambers to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at chamber purpose general dungeon chambers to avert a public scandal.
+- A map overlay reveals a hidden approach to chamber purpose general dungeon chambers active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

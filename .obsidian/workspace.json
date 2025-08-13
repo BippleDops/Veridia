@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f7e5c3e8fb693144",
+        "id": "72ce2c354e126ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "8d3631f7ef3dd649",
+            "id": "b3b6f60864e8b42a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Mechanics/Aquabyssos Languages.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aquabyssos Languages"
+              "title": "New tab"
             }
           }
         ]
@@ -167,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Mechanics/Aquabyssos Languages.md",
+                "file": "12_Research/D&D_Sourcebooks/CLI_Reference/backgrounds/Acolyte Xphb.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aquabyssos Languages"
+              "title": "Outline of Acolyte Xphb"
             }
           },
           {
@@ -370,6 +366,11 @@
   },
   "active": "2911de48d50d504c",
   "lastOpenFiles": [
+    "02_Worldbuilding/Lore/Crystal Caverns.md",
+    "02_Worldbuilding/Lore/Port Meridian.md",
+    "12_Research/D&D_Sourcebooks/CLI_Reference/item-mastery.md",
+    "11_Professional/Publishing/Seven_Shards_Publishing_Package.md",
+    "03_Mechanics/Aquabyssos Languages.md",
     "scripts/reorganize_directories.py",
     "scripts/fix_all_problematic_links.py",
     "BACKUP_LINKS_FIXED_REPORT.md",
@@ -400,12 +401,7 @@
     "03_Mechanics/Travel Rules.md",
     "03_Mechanics/Memory Absorption Rules.md",
     "03_Mechanics/Language_Evolution_Tracker.md",
-    "03_Mechanics/Aquabyssos Survival Mechanics.md",
-    "03_Mechanics/Aquabyssos Languages.md",
-    "03_Mechanics/Vehicles/Aethermoor_Airships_Catalog.md",
-    "03_Mechanics/Social_Systems/Faction_Reputation.md",
     "Combat Tracker.base",
-    "Faction_Tracker.base",
     "04_Resources/Assets/quests/missing-caravan.png",
     "04_Resources/Assets/Canvas/Relationship_Graph.canvas",
     "Ω_Assets/Pasted image 20250121213204.png",

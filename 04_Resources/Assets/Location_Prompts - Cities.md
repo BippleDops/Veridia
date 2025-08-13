@@ -41876,3 +41876,79 @@ The actions and decisions involving # Culture & Daily Life create cascading effe
 ```json
 []
 ```
+\n\n## Aethermoor location prompts (2025-08-13T22:17:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T22:22:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T22:27:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T22:32:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T22:37:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T22:42:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T22:47:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T22:52:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T22:57:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T23:02:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T23:07:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T23:12:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T23:17:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T23:22:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T23:27:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T23:32:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T23:37:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T23:42:02Z)\n
+```json
+[]
+```
+\n\n## Aethermoor location prompts (2025-08-13T23:47:02Z)\n
+```json
+[]
+```

@@ -179,6 +179,10 @@ world: Aquabyssos
 ![](04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)
 
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)
+
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)

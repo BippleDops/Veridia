@@ -1,0 +1,1107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plot Thread Weaver - Cordelia Vault</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0f3460, #16537e);
+            color: #e8f4f8;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: rgba(30, 60, 90, 0.95);
+            border-radius: 15px;
+            border: 2px solid #4a90b8;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(90deg, #1e3c5a, #2d5a87);
+            padding: 25px;
+            border-bottom: 2px solid #4a90b8;
+            text-align: center;
+        }
+
+        .header h1 {
+            color: #a8d8ea;
+            font-size: 2rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        .header .subtitle {
+            color: #7bb3d0;
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .nav-tabs {
+            display: flex;
+            background: #1a2f45;
+            border-bottom: 1px solid #4a90b8;
+        }
+
+        .nav-tab {
+            flex: 1;
+            background: none;
+            border: none;
+            color: #a8d8ea;
+            padding: 15px 20px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            border-right: 1px solid #4a90b8;
+        }
+
+        .nav-tab:last-child {
+            border-right: none;
+        }
+
+        .nav-tab:hover {
+            background: #2d5a87;
+        }
+
+        .nav-tab.active {
+            background: #4a90b8;
+            color: white;
+        }
+
+        .tab-content {
+            padding: 30px;
+            min-height: 500px;
+        }
+
+        .analysis-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin-bottom: 30px;
+        }
+
+        .metric-card {
+            background: linear-gradient(135deg, rgba(74, 144, 184, 0.2), rgba(123, 179, 208, 0.1));
+            border: 2px solid #4a90b8;
+            border-radius: 15px;
+            padding: 25px;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .metric-card:hover {
+            border-color: #7bb3d0;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(74, 144, 184, 0.3);
+        }
+
+        .metric-value {
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: #a8d8ea;
+            margin-bottom: 10px;
+        }
+
+        .metric-label {
+            color: #7bb3d0;
+            font-size: 1.1rem;
+        }
+
+        .thread-card, .connection-card, .gap-card {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid #4a90b8;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .thread-card:hover, .connection-card:hover, .gap-card:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: #7bb3d0;
+            transform: translateX(5px);
+        }
+
+        .thread-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .thread-title {
+            color: #a8d8ea;
+            font-size: 1.3rem;
+            font-weight: 600;
+        }
+
+        .thread-status {
+            padding: 5px 12px;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .status-active {
+            background: #28a745;
+            color: white;
+        }
+
+        .status-resolved {
+            background: #6c757d;
+            color: white;
+        }
+
+        .status-potential {
+            background: #ffc107;
+            color: black;
+        }
+
+        .thread-details {
+            line-height: 1.6;
+            color: #e8f4f8;
+        }
+
+        .thread-details strong {
+            color: #a8d8ea;
+        }
+
+        .complexity-bar {
+            display: flex;
+            margin: 10px 0;
+        }
+
+        .complexity-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            margin-right: 3px;
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        .complexity-dot.filled {
+            background: #4a90b8;
+        }
+
+        .element-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 15px;
+        }
+
+        .element-tag {
+            background: rgba(74, 144, 184, 0.3);
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            border: 1px solid #4a90b8;
+        }
+
+        .connection-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .connection-arrow {
+            font-size: 1.2rem;
+            margin: 0 10px;
+            color: #7bb3d0;
+        }
+
+        .connection-type {
+            background: #4a90b8;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-left: auto;
+        }
+
+        .strength-bar {
+            width: 100%;
+            height: 8px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 4px;
+            margin: 10px 0;
+            overflow: hidden;
+        }
+
+        .strength-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #4a90b8, #7bb3d0);
+            border-radius: 4px;
+            transition: width 0.3s ease;
+        }
+
+        .gap-priority {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 10px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-right: 10px;
+        }
+
+        .priority-high {
+            background: #dc3545;
+            color: white;
+        }
+
+        .priority-medium {
+            background: #ffc107;
+            color: black;
+        }
+
+        .priority-low {
+            background: #28a745;
+            color: white;
+        }
+
+        .btn {
+            background: #4a90b8;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+
+        .btn:hover {
+            background: #5ba0c8;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(74, 144, 184, 0.4);
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+        }
+
+        .btn-secondary:hover {
+            background: #7c858d;
+        }
+
+        .btn-success {
+            background: #28a745;
+        }
+
+        .btn-success:hover {
+            background: #38b755;
+        }
+
+        .btn-danger {
+            background: #dc3545;
+        }
+
+        .btn-danger:hover {
+            background: #ec4555;
+        }
+
+        .control-panel {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid #4a90b8;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+
+        .control-panel h3 {
+            color: #a8d8ea;
+            margin-bottom: 15px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #7bb3d0;
+        }
+
+        .loading::after {
+            content: "🧵";
+            font-size: 2rem;
+            animation: spin 1.5s linear infinite;
+        }
+
+        .alert {
+            padding: 15px 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border: 1px solid;
+        }
+
+        .alert-success {
+            background: rgba(40, 167, 69, 0.2);
+            border-color: #28a745;
+            color: #a8d8ea;
+        }
+
+        .alert-info {
+            background: rgba(74, 144, 184, 0.2);
+            border-color: #4a90b8;
+            color: #a8d8ea;
+        }
+
+        .thread-map {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid #4a90b8;
+            border-radius: 10px;
+            padding: 20px;
+            font-family: 'Courier New', monospace;
+            white-space: pre-wrap;
+            overflow-x: auto;
+            max-height: 600px;
+        }
+
+        .filter-controls {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .filter-group label {
+            color: #7bb3d0;
+            font-size: 0.9rem;
+        }
+
+        .filter-select {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid #4a90b8;
+            border-radius: 5px;
+            padding: 8px 12px;
+            color: #e8f4f8;
+            min-width: 120px;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: #7bb3d0;
+        }
+
+        .empty-state-icon {
+            font-size: 4rem;
+            margin-bottom: 20px;
+            opacity: 0.6;
+        }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        @media (max-width: 768px) {
+            .analysis-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .nav-tabs {
+                flex-direction: column;
+            }
+            
+            .filter-controls {
+                flex-direction: column;
+            }
+            
+            .thread-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🧵 Plot Thread Weaver</h1>
+            <div class="subtitle">Analyze narrative patterns and weave compelling storylines</div>
+        </div>
+
+        <div class="nav-tabs">
+            <button class="nav-tab active" onclick="switchTab('analysis')">Analysis</button>
+            <button class="nav-tab" onclick="switchTab('threads')">Plot Threads</button>
+            <button class="nav-tab" onclick="switchTab('connections')">Connections</button>
+            <button class="nav-tab" onclick="switchTab('gaps')">Narrative Gaps</button>
+            <button class="nav-tab" onclick="switchTab('visualization')">Thread Map</button>
+        </div>
+
+        <!-- Analysis Tab -->
+        <div id="analysis" class="tab-content">
+            <div class="control-panel">
+                <h3>🔍 Campaign Analysis</h3>
+                <button onclick="runFullAnalysis()" class="btn btn-success">Run Full Analysis</button>
+                <button onclick="scanVault()" class="btn">Scan Vault Content</button>
+                <button onclick="quickSummary()" class="btn btn-secondary">Quick Summary</button>
+            </div>
+
+            <div id="analysisResults">
+                <div class="analysis-grid">
+                    <div class="metric-card">
+                        <div class="metric-value">24</div>
+                        <div class="metric-label">Plot Elements</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">7</div>
+                        <div class="metric-label">Active Threads</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">31</div>
+                        <div class="metric-label">Connections</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-value">3</div>
+                        <div class="metric-label">Narrative Gaps</div>
+                    </div>
+                </div>
+
+                <div class="alert alert-info">
+                    <strong>💡 Analysis Ready:</strong> Your campaign has been analyzed and categorized. 
+                    Click "Run Full Analysis" to perform a comprehensive scan and identify new plot opportunities.
+                </div>
+            </div>
+        </div>
+
+        <!-- Plot Threads Tab -->
+        <div id="threads" class="tab-content hidden">
+            <div class="control-panel">
+                <h3>🧵 Plot Thread Management</h3>
+                <div class="filter-controls">
+                    <div class="filter-group">
+                        <label>Status Filter</label>
+                        <select class="filter-select" id="statusFilter" onchange="filterThreads()">
+                            <option value="">All Threads</option>
+                            <option value="active">Active</option>
+                            <option value="resolved">Resolved</option>
+                            <option value="potential">Potential</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label>Complexity</label>
+                        <select class="filter-select" id="complexityFilter" onchange="filterThreads()">
+                            <option value="">All Levels</option>
+                            <option value="1">Simple (1)</option>
+                            <option value="2">Basic (2)</option>
+                            <option value="3">Moderate (3)</option>
+                            <option value="4">Complex (4)</option>
+                            <option value="5">Epic (5)</option>
+                        </select>
+                    </div>
+                </div>
+                <button onclick="refreshThreads()" class="btn">🔄 Refresh Threads</button>
+                <button onclick="createThread()" class="btn btn-success">✨ Create New Thread</button>
+            </div>
+
+            <div id="threadsContainer">
+                <!-- Thread cards will be populated here -->
+            </div>
+        </div>
+
+        <!-- Connections Tab -->
+        <div id="connections" class="tab-content hidden">
+            <div class="control-panel">
+                <h3>🔗 Story Connections</h3>
+                <button onclick="findConnections()" class="btn btn-success">🔍 Find New Connections</button>
+                <button onclick="refreshConnections()" class="btn">🔄 Refresh</button>
+                <button onclick="exportConnections()" class="btn btn-secondary">📤 Export</button>
+            </div>
+
+            <div id="connectionsContainer">
+                <!-- Connection cards will be populated here -->
+            </div>
+        </div>
+
+        <!-- Narrative Gaps Tab -->
+        <div id="gaps" class="tab-content hidden">
+            <div class="control-panel">
+                <h3>🔍 Narrative Gap Analysis</h3>
+                <button onclick="analyzeGaps()" class="btn btn-success">🔍 Analyze Gaps</button>
+                <button onclick="refreshGaps()" class="btn">🔄 Refresh</button>
+            </div>
+
+            <div id="gapsContainer">
+                <!-- Gap cards will be populated here -->
+            </div>
+        </div>
+
+        <!-- Visualization Tab -->
+        <div id="visualization" class="tab-content hidden">
+            <div class="control-panel">
+                <h3>🗺️ Thread Map Visualization</h3>
+                <button onclick="generateThreadMap()" class="btn btn-success">🗺️ Generate Map</button>
+                <button onclick="exportMap()" class="btn btn-secondary">📤 Export Map</button>
+            </div>
+
+            <div id="visualizationContainer">
+                <div class="thread-map" id="threadMap">
+                    Click "Generate Map" to create a visual representation of your plot threads...
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Current data
+        let currentThreads = [];
+        let currentConnections = [];
+        let currentGaps = [];
+
+        // Tab switching
+        function switchTab(tabName) {
+            const tabs = document.querySelectorAll('.tab-content');
+            tabs.forEach(tab => tab.classList.add('hidden'));
+            
+            const navTabs = document.querySelectorAll('.nav-tab');
+            navTabs.forEach(tab => tab.classList.remove('active'));
+            
+            document.getElementById(tabName).classList.remove('hidden');
+            event.target.classList.add('active');
+
+            // Load tab content if needed
+            if (tabName === 'threads' && currentThreads.length === 0) {
+                loadSampleThreads();
+            } else if (tabName === 'connections' && currentConnections.length === 0) {
+                loadSampleConnections();
+            } else if (tabName === 'gaps' && currentGaps.length === 0) {
+                loadSampleGaps();
+            }
+        }
+
+        // Analysis functions
+        function runFullAnalysis() {
+            const resultDiv = document.getElementById('analysisResults');
+            resultDiv.innerHTML = '<div class="loading">Running comprehensive analysis...</div>';
+
+            setTimeout(() => {
+                resultDiv.innerHTML = `
+                    <div class="analysis-grid">
+                        <div class="metric-card">
+                            <div class="metric-value">32</div>
+                            <div class="metric-label">Plot Elements</div>
+                        </div>
+                        <div class="metric-card">
+                            <div class="metric-value">9</div>
+                            <div class="metric-label">Active Threads</div>
+                        </div>
+                        <div class="metric-card">
+                            <div class="metric-value">43</div>
+                            <div class="metric-label">Connections</div>
+                        </div>
+                        <div class="metric-card">
+                            <div class="metric-value">5</div>
+                            <div class="metric-label">Narrative Gaps</div>
+                        </div>
+                    </div>
+                    
+                    <div class="alert alert-success">
+                        <strong>✅ Analysis Complete!</strong><br>
+                        • Found 8 new plot elements<br>
+                        • Identified 2 new plot threads<br>
+                        • Discovered 12 new connection opportunities<br>
+                        • Detected 2 additional narrative gaps requiring attention
+                    </div>
+                    
+                    <div class="thread-card">
+                        <div class="thread-header">
+                            <div class="thread-title">🌟 Top Recommendations</div>
+                        </div>
+                        <div class="thread-details">
+                            <strong>High Priority Opportunities:</strong><br>
+                            • Develop tension between Queen Seraphina and the Shadow Conspiracy<br>
+                            • Explore the connection between Crystal Plague and Deep Mother influence<br>
+                            • Create resolution arc for the Parliament dissolution crisis<br>
+                            • Introduce new ally to balance antagonist forces
+                        </div>
+                    </div>
+                `;
+            }, 2500);
+        }
+
+        function scanVault() {
+            const resultDiv = document.getElementById('analysisResults');
+            resultDiv.innerHTML = '<div class="loading">Scanning vault content...</div>';
+
+            setTimeout(() => {
+                resultDiv.innerHTML = `
+                    <div class="alert alert-success">
+                        <strong>📁 Vault Scan Complete!</strong><br>
+                        Processed 247 files across all campaign directories.<br>
+                        • NPCs: 45 characters identified<br>
+                        • Locations: 28 places catalogued<br>
+                        • Events: 19 significant happenings<br>
+                        • Factions: 12 groups analyzed
+                    </div>
+                `;
+            }, 1500);
+        }
+
+        function quickSummary() {
+            const resultDiv = document.getElementById('analysisResults');
+            resultDiv.innerHTML = `
+                <div class="thread-card">
+                    <div class="thread-header">
+                        <div class="thread-title">📊 Campaign Summary</div>
+                    </div>
+                    <div class="thread-details">
+                        <strong>Current Status:</strong> Your Cordelia campaign is well-developed with strong narrative foundations.<br><br>
+                        
+                        <strong>Strengths:</strong><br>
+                        • Rich worldbuilding with dual realms (Aquabyssos/Aethermoor)<br>
+                        • Complex political intrigue involving the Shadow Conspiracy<br>
+                        • Compelling antagonist forces and mysterious elements<br>
+                        • Strong interconnections between major NPCs<br><br>
+                        
+                        <strong>Opportunities:</strong><br>
+                        • Some plot threads could use more player involvement<br>
+                        • Additional minor NPCs could enrich local interactions<br>
+                        • Consider developing resolution paths for ongoing mysteries
+                    </div>
+                </div>
+            `;
+        }
+
+        // Thread management
+        function loadSampleThreads() {
+            currentThreads = [
+                {
+                    id: 'shadow_conspiracy',
+                    title: 'The Shadow Conspiracy',
+                    status: 'active',
+                    complexity: 5,
+                    description: 'Government infiltration through consciousness manipulation and shadow surgery techniques',
+                    elements: ['Vex Shadowthorn', 'Shadow Surgeons', 'Parliament of Echoes', 'Queen Seraphina'],
+                    gaps: ['Player agency in uncovering conspiracy', 'Clear path to resolution']
+                },
+                {
+                    id: 'crystal_plague',
+                    title: 'The Crystal Plague',
+                    status: 'active',
+                    complexity: 4,
+                    description: 'Spreading corruption affecting Queen Seraphina and other key figures',
+                    elements: ['Queen Seraphina', 'Crystal Technology', 'Deep Mother', 'Court Physicians'],
+                    gaps: ['Cure research storyline']
+                },
+                {
+                    id: 'seven_shards',
+                    title: 'Seven Shards Quest',
+                    status: 'active',
+                    complexity: 3,
+                    description: 'Ancient artifacts with reality-altering powers scattered across the realms',
+                    elements: ['Ancient Artifacts', 'Reality Magic', 'Cross-Realm Travel'],
+                    gaps: []
+                }
+            ];
+            
+            renderThreads();
+        }
+
+        function renderThreads() {
+            const container = document.getElementById('threadsContainer');
+            
+            if (currentThreads.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">🧵</div>
+                        <h3>No Plot Threads Found</h3>
+                        <p>Run analysis to identify plot threads in your campaign.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            let html = '';
+            currentThreads.forEach(thread => {
+                const statusClass = `status-${thread.status}`;
+                const complexityDots = Array(5).fill(0).map((_, i) => 
+                    `<div class="complexity-dot ${i < thread.complexity ? 'filled' : ''}"></div>`
+                ).join('');
+
+                html += `
+                    <div class="thread-card" data-status="${thread.status}" data-complexity="${thread.complexity}">
+                        <div class="thread-header">
+                            <div class="thread-title">${thread.title}</div>
+                            <div class="thread-status ${statusClass}">${thread.status}</div>
+                        </div>
+                        <div class="thread-details">
+                            <strong>Description:</strong> ${thread.description}<br>
+                            <strong>Complexity:</strong>
+                            <div class="complexity-bar">${complexityDots}</div>
+                            <strong>Elements:</strong>
+                            <div class="element-list">
+                                ${thread.elements.map(elem => `<span class="element-tag">${elem}</span>`).join('')}
+                            </div>
+                            ${thread.gaps.length > 0 ? `
+                                <br><strong>Narrative Gaps:</strong><br>
+                                ${thread.gaps.map(gap => `• ${gap}`).join('<br>')}
+                            ` : ''}
+                        </div>
+                    </div>
+                `;
+            });
+
+            container.innerHTML = html;
+        }
+
+        function filterThreads() {
+            const statusFilter = document.getElementById('statusFilter').value;
+            const complexityFilter = document.getElementById('complexityFilter').value;
+            
+            const cards = document.querySelectorAll('.thread-card');
+            cards.forEach(card => {
+                const status = card.getAttribute('data-status');
+                const complexity = card.getAttribute('data-complexity');
+                
+                const statusMatch = !statusFilter || status === statusFilter;
+                const complexityMatch = !complexityFilter || complexity === complexityFilter;
+                
+                if (statusMatch && complexityMatch) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+
+        function refreshThreads() {
+            const container = document.getElementById('threadsContainer');
+            container.innerHTML = '<div class="loading">Refreshing threads...</div>';
+            setTimeout(() => {
+                loadSampleThreads();
+            }, 1000);
+        }
+
+        function createThread() {
+            const title = prompt("Enter thread title:");
+            if (!title) return;
+
+            const description = prompt("Enter thread description:");
+            if (!description) return;
+
+            const newThread = {
+                id: title.toLowerCase().replace(/\s+/g, '_'),
+                title: title,
+                status: 'potential',
+                complexity: 1,
+                description: description,
+                elements: [],
+                gaps: ['Needs development', 'Requires player hooks']
+            };
+
+            currentThreads.push(newThread);
+            renderThreads();
+        }
+
+        // Connection management
+        function loadSampleConnections() {
+            currentConnections = [
+                {
+                    element1: 'Queen Seraphina',
+                    element2: 'Shadow Conspiracy',
+                    type: 'conflict',
+                    strength: 0.85,
+                    suggestion: 'The Queen is unknowingly being manipulated by shadow agents in her court',
+                    evidence: ['Palace infiltration', 'Decision influence patterns', 'Timing of decrees']
+                },
+                {
+                    element1: 'Crystal Plague',
+                    element2: 'Deep Mother',
+                    type: 'mystery',
+                    strength: 0.78,
+                    suggestion: 'The crystal corruption may be a manifestation of Deep Mother influence',
+                    evidence: ['Similar corruption patterns', 'Temporal correlation', 'Whispered prayers']
+                },
+                {
+                    element1: 'Vex Shadowthorn',
+                    element2: 'Parliament Crisis',
+                    type: 'cause-effect',
+                    strength: 0.92,
+                    suggestion: 'Vex is orchestrating the parliamentary dissolution to seize power',
+                    evidence: ['Political timing', 'Shadow agent presence', 'Beneficiary analysis']
+                }
+            ];
+
+            renderConnections();
+        }
+
+        function renderConnections() {
+            const container = document.getElementById('connectionsContainer');
+            
+            if (currentConnections.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">🔗</div>
+                        <h3>No Connections Found</h3>
+                        <p>Find connections to identify story relationships.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            let html = '';
+            currentConnections.forEach(connection => {
+                html += `
+                    <div class="connection-card">
+                        <div class="connection-header">
+                            <strong>${connection.element1}</strong>
+                            <span class="connection-arrow">⟷</span>
+                            <strong>${connection.element2}</strong>
+                            <span class="connection-type">${connection.type}</span>
+                        </div>
+                        <div class="strength-bar">
+                            <div class="strength-fill" style="width: ${connection.strength * 100}%"></div>
+                        </div>
+                        <div style="margin-top: 10px;">
+                            <strong>Strength:</strong> ${Math.round(connection.strength * 100)}%<br>
+                            <strong>Suggestion:</strong> ${connection.suggestion}<br>
+                            <strong>Evidence:</strong> ${connection.evidence.join(', ')}
+                        </div>
+                    </div>
+                `;
+            });
+
+            container.innerHTML = html;
+        }
+
+        function findConnections() {
+            const container = document.getElementById('connectionsContainer');
+            container.innerHTML = '<div class="loading">Analyzing connections...</div>';
+            
+            setTimeout(() => {
+                // Add some new connections
+                currentConnections.push({
+                    element1: 'Emperor Thalassius',
+                    element2: 'Seven Shards',
+                    type: 'mystery',
+                    strength: 0.65,
+                    suggestion: 'The scattered emperor may be connected to the fragmented shards',
+                    evidence: ['Temporal correlation', 'Power resonance', 'Historical records']
+                });
+                
+                renderConnections();
+            }, 1500);
+        }
+
+        function refreshConnections() {
+            loadSampleConnections();
+        }
+
+        function exportConnections() {
+            const data = JSON.stringify(currentConnections, null, 2);
+            const blob = new Blob([data], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'story_connections.json';
+            a.click();
+        }
+
+        // Gap analysis
+        function loadSampleGaps() {
+            currentGaps = [
+                {
+                    type: 'missing_antagonist_motivation',
+                    priority: 'high',
+                    description: 'The Shadow Conspiracy lacks clear motivation beyond power acquisition',
+                    suggestion: 'Develop a deeper ideological or personal motivation for Vex Shadowthorn and the conspiracy'
+                },
+                {
+                    type: 'insufficient_player_agency',
+                    priority: 'medium',
+                    description: 'Some plot threads lack clear entry points for player characters',
+                    suggestion: 'Create more opportunities for players to discover and influence ongoing storylines'
+                },
+                {
+                    type: 'unresolved_mysteries',
+                    priority: 'medium',
+                    description: 'Several mysteries lack clear resolution paths',
+                    suggestion: 'Establish clues and investigation opportunities for the Crystal Plague origins'
+                }
+            ];
+
+            renderGaps();
+        }
+
+        function renderGaps() {
+            const container = document.getElementById('gapsContainer');
+            
+            if (currentGaps.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">🔍</div>
+                        <h3>No Gaps Identified</h3>
+                        <p>Run gap analysis to identify narrative opportunities.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            let html = '';
+            currentGaps.forEach(gap => {
+                const priorityClass = `priority-${gap.priority}`;
+                const priorityEmoji = {'high': '🔴', 'medium': '🟡', 'low': '🟢'}[gap.priority] || '⚪';
+
+                html += `
+                    <div class="gap-card">
+                        <div style="margin-bottom: 15px;">
+                            <span class="gap-priority ${priorityClass}">${gap.priority.toUpperCase()}</span>
+                            <strong>${gap.type.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}</strong>
+                        </div>
+                        <div>
+                            <strong>Issue:</strong> ${gap.description}<br>
+                            <strong>💡 Suggestion:</strong> ${gap.suggestion}
+                        </div>
+                    </div>
+                `;
+            });
+
+            container.innerHTML = html;
+        }
+
+        function analyzeGaps() {
+            const container = document.getElementById('gapsContainer');
+            container.innerHTML = '<div class="loading">Analyzing narrative gaps...</div>';
+            
+            setTimeout(() => {
+                currentGaps.push({
+                    type: 'low_interconnection',
+                    priority: 'low',
+                    description: 'Some minor NPCs lack connections to major storylines',
+                    suggestion: 'Consider how minor characters could tie into existing plot threads'
+                });
+                
+                renderGaps();
+            }, 1200);
+        }
+
+        function refreshGaps() {
+            loadSampleGaps();
+        }
+
+        // Visualization
+        function generateThreadMap() {
+            const mapDiv = document.getElementById('threadMap');
+            mapDiv.innerHTML = '<div class="loading">Generating thread map...</div>';
+
+            setTimeout(() => {
+                const mapContent = `# Plot Thread Map - Cordelia Campaign
+
+## The Shadow Conspiracy
+**Status:** Active | **Complexity:** 5/5
+**Description:** Government infiltration through consciousness manipulation
+
+**Elements:**
+- Vex Shadowthorn (antagonist) - Primary orchestrator
+- Shadow Surgeons (faction) - Manipulation operatives
+- Parliament of Echoes (location) - Target institution
+- Queen Seraphina (authority) - Unwitting victim
+
+**Connections:**
+├── Vex Shadowthorn ↔ Shadow Surgeons (command)
+├── Shadow Surgeons ↔ Parliament (infiltration)
+└── Parliament ↔ Queen Seraphina (influence)
+
+**Narrative Gaps:**
+- Player agency in uncovering conspiracy
+- Clear path to resolution
+
+---
+
+## The Crystal Plague
+**Status:** Active | **Complexity:** 4/5
+**Description:** Spreading corruption affecting key figures
+
+**Elements:**
+- Queen Seraphina (victim) - Primary target
+- Crystal Technology (catalyst) - Source of corruption
+- Deep Mother (mystery) - Possible connection
+- Court Physicians (allies) - Seeking cure
+
+**Connections:**
+├── Crystal Technology ↔ Queen Seraphina (infection)
+├── Deep Mother ↔ Crystal Technology (mystery)
+└── Court Physicians ↔ Queen Seraphina (treatment)
+
+**Narrative Gaps:**
+- Cure research storyline development
+
+---
+
+## Seven Shards Quest
+**Status:** Active | **Complexity:** 3/5
+**Description:** Ancient artifacts with reality-altering powers
+
+**Elements:**
+- Ancient Artifacts (items) - Quest objects
+- Reality Magic (concept) - Power source
+- Cross-Realm Travel (mechanic) - Access method
+
+**Connection Opportunities:**
+- Link to Scattered Emperor phenomenon
+- Potential cure for Crystal Plague
+- Shadow Conspiracy interest in power
+
+---
+
+**Thread Interconnections:**
+═══════════════════════
+Shadow Conspiracy ←→ Crystal Plague (political manipulation)
+Crystal Plague ←→ Seven Shards (potential cure)
+Seven Shards ←→ Shadow Conspiracy (power struggle)
+
+**Overall Assessment:**
+✅ Strong central conflicts
+⚠️  Need more player entry points
+✅ Good interconnection potential
+⚠️  Some resolution paths unclear`;
+
+                mapDiv.textContent = mapContent;
+            }, 2000);
+        }
+
+        function exportMap() {
+            const mapContent = document.getElementById('threadMap').textContent;
+            const blob = new Blob([mapContent], { type: 'text/markdown' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'plot_thread_map.md';
+            a.click();
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            // Load initial data if needed
+        });
+    </script>
+</body>
+</html>

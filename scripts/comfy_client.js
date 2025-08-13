@@ -6,6 +6,9 @@
 //   COMFY_CKPT     checkpoint filename as seen by ComfyUI (e.g., "v1-5-pruned-emaonly.safetensors")
 
 const COMFY_URL = (process.env.COMFY_URL || 'http://127.0.0.1:8188').replace(/\/$/, '');
+const fs = require('fs');
+const path = require('path');
+const os = require('os');
 
 async function comfyPost(path, body){
   const res = await fetch(`${COMFY_URL}${path}`, {
@@ -65,7 +68,7 @@ function buildPromptGraph({ prompt, width = 512, height = 512, steps = 20, cfg =
       'class_type': 'VAEDecode'
     },
     '9': { // SaveImage
-      'inputs': { 'images': [ '8', 0 ] },
+      'inputs': { 'images': [ '8', 0 ], 'filename_prefix': 'ttrpg', 'extension': 'png' },
       'class_type': 'SaveImage'
     }
   };
@@ -93,11 +96,51 @@ async function generateImageViaComfy({ prompt, width, height, seed = Math.floor(
     } catch {}
   }
   if (!imgInfo) throw new Error('comfy: no image produced');
-  const { filename, subfolder, type } = imgInfo; // type likely 'output'
-  const viewPath = `/view?filename=${encodeURIComponent(filename)}&type=${encodeURIComponent(type||'output')}&subfolder=${encodeURIComponent(subfolder||'')}`;
-  const res = await comfyGet(viewPath);
-  const buf = Buffer.from(await res.arrayBuffer());
-  return buf;
+  const { filename, subfolder, type } = imgInfo;
+  let lastErr = null;
+  // Prefer filesystem read first (most robust on macOS)
+  {
+    const outDir = process.env.COMFY_OUTPUT_DIR || path.join(os.homedir(), 'ComfyUI', 'output');
+    const abs = path.join(outDir, subfolder || '', filename);
+    const start = Date.now();
+    while (Date.now() - start < 10000) { // wait up to 10s for file to land
+      try {
+        const b = fs.readFileSync(abs);
+        if (b && b.length > 0) return b;
+      } catch (e) { lastErr = e; }
+      await new Promise(r => setTimeout(r, 200));
+    }
+  }
+  // Fallback to HTTP /view
+  try {
+    const tryTypes = [];
+    if (type) tryTypes.push(String(type));
+    tryTypes.push('output', 'temp');
+    for (const t of tryTypes){
+      try {
+        const viewPath = `/view?filename=${encodeURIComponent(filename)}&type=${encodeURIComponent(t)}&subfolder=${encodeURIComponent(subfolder||'')}`;
+        const res = await comfyGet(viewPath);
+        const buf = Buffer.from(await res.arrayBuffer());
+        if (buf && buf.length > 0) return buf;
+      } catch (e) { lastErr = e; }
+    }
+  } catch (e) { lastErr = e; }
+  // Final fallback: newest ttrpg_*.png from output root
+  try {
+    const outDir = process.env.COMFY_OUTPUT_DIR || path.join(os.homedir(), 'ComfyUI', 'output');
+    const files = fs.readdirSync(outDir).filter(f => /^ttrpg_.*\.png$/i.test(f));
+    if (files.length > 0) {
+      files.sort((a,b)=>{
+        const sa = fs.statSync(path.join(outDir,a));
+        const sb = fs.statSync(path.join(outDir,b));
+        return sb.mtimeMs - sa.mtimeMs;
+      });
+      const newest = path.join(outDir, files[0]);
+      const b = fs.readFileSync(newest);
+      if (b && b.length > 0) return b;
+    }
+  } catch (e) { lastErr = e; }
+  throw lastErr || new Error('comfy: image fetch failed');
 }
 
 module.exports = { generateImageViaComfy };

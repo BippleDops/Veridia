@@ -3311,3 +3311,107 @@ The actions and decisions involving Battle Map Descriptions (VTT-Ready) create c
 ```json
 []
 ```
+\n\n## Aethermoor map prompts (2025-08-13T16:02:49Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-13T16:05:19Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-13T16:08:05Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-13T16:09:41Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-13T16:12:12Z)\n
+\n\n## Aquabyssos map prompts (2025-08-13T16:12:12Z)\n
+```json
+```json
+[]
+[]
+```
+```
+\n\n## Aquabyssos map prompts (2025-08-13T16:16:33Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-13T16:17:29Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-13T16:20:54Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-13T16:22:45Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-13T16:25:15Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-13T16:28:00Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-13T16:29:36Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-13T16:33:16Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-13T16:33:57Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-13T16:38:17Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-13T16:38:33Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-13T16:42:39Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-13T16:43:49Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-13T16:47:01Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-13T16:49:05Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-13T16:51:21Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-13T16:54:21Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-13T16:55:43Z)\n
+```json
+[]
+```
+\n\n## Aethermoor map prompts (2025-08-13T16:59:37Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos map prompts (2025-08-13T17:00:04Z)\n
+```json
+[]
+```

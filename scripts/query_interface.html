@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cordelia Vault - Natural Language Query</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            min-height: 100vh;
+            color: #fff;
+        }
+        
+        .container {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #fff;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        
+        .search-container {
+            position: relative;
+            margin-bottom: 30px;
+        }
+        
+        #queryInput {
+            width: 100%;
+            padding: 15px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.9);
+            box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1);
+            box-sizing: border-box;
+        }
+        
+        #queryInput:focus {
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.5);
+        }
+        
+        .search-btn {
+            position: absolute;
+            right: 5px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: #4a90e2;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        
+        .search-btn:hover {
+            background: #357abd;
+        }
+        
+        .examples {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        
+        .examples h3 {
+            margin-top: 0;
+            color: #fff;
+        }
+        
+        .example-queries {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 15px;
+        }
+        
+        .example-query {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 10px 15px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+        
+        .example-query:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+        }
+        
+        .results-container {
+            min-height: 200px;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-style: italic;
+            color: #ccc;
+        }
+        
+        .result-item {
+            background: rgba(255, 255, 255, 0.1);
+            margin-bottom: 15px;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #4a90e2;
+        }
+        
+        .result-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #fff;
+        }
+        
+        .result-meta {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 10px;
+            font-size: 14px;
+            color: #ddd;
+        }
+        
+        .result-meta span {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 4px 8px;
+            border-radius: 4px;
+        }
+        
+        .result-context {
+            font-style: italic;
+            color: #ccc;
+            margin-top: 10px;
+        }
+        
+        .no-results {
+            text-align: center;
+            padding: 50px;
+            color: #ccc;
+            font-style: italic;
+        }
+        
+        .metrics {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #ddd;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌊 Cordelia Vault - Natural Language Query ⛈️</h1>
+        
+        <div class="search-container">
+            <input type="text" id="queryInput" placeholder="Try: 'find all NPCs who oppose the queen' or 'search for shadow conspiracy'">
+            <button class="search-btn" onclick="executeQuery()">Search</button>
+        </div>
+        
+        <div class="examples">
+            <h3>Example Queries</h3>
+            <div class="example-queries">
+                <div class="example-query" onclick="setQuery(this.textContent)">find all NPCs who oppose the queen</div>
+                <div class="example-query" onclick="setQuery(this.textContent)">search for shadow conspiracy</div>
+                <div class="example-query" onclick="setQuery(this.textContent)">find locations in Aquabyssos</div>
+                <div class="example-query" onclick="setQuery(this.textContent)">find all groups</div>
+                <div class="example-query" onclick="setQuery(this.textContent)">find groups with crystal</div>
+                <div class="example-query" onclick="setQuery(this.textContent)">search for void breach</div>
+            </div>
+        </div>
+        
+        <div class="metrics" id="metrics"></div>
+        
+        <div class="results-container" id="results">
+            <div class="no-results">Enter a query above to search the vault...</div>
+        </div>
+    </div>
+
+    <script>
+        let searchHistory = JSON.parse(localStorage.getItem('searchHistory') || '[]');
+        let searchCount = parseInt(localStorage.getItem('searchCount') || '0');
+
+        function setQuery(query) {
+            document.getElementById('queryInput').value = query;
+        }
+
+        function executeQuery() {
+            const query = document.getElementById('queryInput').value.trim();
+            if (!query) return;
+
+            // Track search
+            searchCount++;
+            searchHistory.unshift({
+                query: query,
+                timestamp: new Date().toISOString()
+            });
+            searchHistory = searchHistory.slice(0, 50); // Keep last 50
+            
+            localStorage.setItem('searchHistory', JSON.stringify(searchHistory));
+            localStorage.setItem('searchCount', searchCount.toString());
+
+            updateMetrics();
+            
+            // Show loading
+            document.getElementById('results').innerHTML = '<div class="loading">Searching vault...</div>';
+
+            // Simulate API call (in real implementation, this would call the Python backend)
+            setTimeout(() => {
+                const mockResults = getMockResults(query);
+                displayResults(mockResults);
+            }, 500);
+        }
+
+        function updateMetrics() {
+            const metrics = document.getElementById('metrics');
+            metrics.textContent = `Total searches: ${searchCount} | Recent searches: ${searchHistory.length}`;
+        }
+
+        function getMockResults(query) {
+            // Mock results for demonstration
+            const mockData = [
+                {
+                    title: "Vex Shadowthorn",
+                    path: "/02_Worldbuilding/Groups/Criminal_Organizations/Vex Shadowthorn.md",
+                    type: "NPC",
+                    world: "Aquabyssos",
+                    relevance_reason: "Shadow Surgeon Prime opposing current regime",
+                    context: "...leads the Shadow Conspiracy's surgical division, actively working against Queen Seraphina's rule..."
+                },
+                {
+                    title: "The Shadow Conspiracy",
+                    path: "/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy.md",
+                    type: "Group",
+                    world: "Both",
+                    relevance_reason: "Criminal organization opposing government",
+                    context: "...underground network dedicated to overthrowing the current power structures..."
+                }
+            ];
+
+            // Simple query matching for demo
+            if (query.toLowerCase().includes('npc') && query.toLowerCase().includes('oppose')) {
+                return mockData.filter(r => r.type === 'NPC');
+            } else if (query.toLowerCase().includes('shadow')) {
+                return mockData;
+            } else if (query.toLowerCase().includes('groups')) {
+                return mockData.filter(r => r.type === 'Group');
+            } else {
+                return mockData.slice(0, 1);
+            }
+        }
+
+        function displayResults(results) {
+            const container = document.getElementById('results');
+            
+            if (!results || results.length === 0) {
+                container.innerHTML = '<div class="no-results">No results found. Try a different query.</div>';
+                return;
+            }
+
+            let html = `<div class="metrics">Found ${results.length} result(s)</div>`;
+            
+            results.forEach(result => {
+                html += `
+                    <div class="result-item">
+                        <div class="result-title">${result.title}</div>
+                        <div class="result-meta">
+                            <span>Type: ${result.type}</span>
+                            <span>World: ${result.world}</span>
+                        </div>
+                        ${result.relevance_reason ? `<div><strong>Match:</strong> ${result.relevance_reason}</div>` : ''}
+                        ${result.context ? `<div class="result-context">${result.context}</div>` : ''}
+                        <div style="margin-top: 10px; font-size: 12px; color: #999;">
+                            Path: ${result.path}
+                        </div>
+                    </div>
+                `;
+            });
+            
+            container.innerHTML = html;
+        }
+
+        // Enter key support
+        document.getElementById('queryInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                executeQuery();
+            }
+        });
+
+        // Initialize metrics
+        updateMetrics();
+    </script>
+</body>
+</html>

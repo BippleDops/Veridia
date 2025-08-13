@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cordelia Vault - TTS Narrator</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #2c1810, #8b4513, #1e3c72);
+            min-height: 100vh;
+            color: #fff;
+        }
+        
+        .container {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #fff;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        
+        .controls {
+            display: grid;
+            grid-template-columns: 1fr auto auto;
+            gap: 15px;
+            margin-bottom: 30px;
+            align-items: end;
+        }
+        
+        .file-selector {
+            display: flex;
+            flex-direction: column;
+        }
+        
+        label {
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        
+        select, input, button {
+            padding: 10px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+        
+        select, input {
+            background: rgba(255, 255, 255, 0.9);
+            color: #333;
+        }
+        
+        button {
+            background: #4a90e2;
+            color: white;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.2s;
+        }
+        
+        button:hover {
+            background: #357abd;
+        }
+        
+        button:disabled {
+            background: #666;
+            cursor: not-allowed;
+        }
+        
+        .voice-profiles {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        
+        .voice-profiles h3 {
+            margin-top: 0;
+        }
+        
+        .voice-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+        
+        .voice-card {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 15px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 2px solid transparent;
+        }
+        
+        .voice-card:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+        }
+        
+        .voice-card.selected {
+            border-color: #4a90e2;
+            background: rgba(74, 144, 226, 0.3);
+        }
+        
+        .voice-name {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        .voice-description {
+            font-size: 12px;
+            color: #ddd;
+        }
+        
+        .audio-player {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .player-controls {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .play-btn {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 15px 25px;
+            border-radius: 50px;
+            cursor: pointer;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .play-btn:hover {
+            background: #218838;
+        }
+        
+        .progress-bar {
+            flex: 1;
+            height: 5px;
+            background: rgba(255, 255, 255, 0.3);
+            border-radius: 3px;
+            overflow: hidden;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: #4a90e2;
+            width: 0%;
+            transition: width 0.1s;
+        }
+        
+        .time-display {
+            font-family: monospace;
+            color: #ddd;
+        }
+        
+        .content-preview {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        
+        .content-preview h3 {
+            margin-top: 0;
+            color: #4a90e2;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #ccc;
+            font-style: italic;
+        }
+        
+        .audio-library {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+        }
+        
+        .audio-list {
+            display: grid;
+            gap: 10px;
+        }
+        
+        .audio-item {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 10px 15px;
+            border-radius: 8px;
+        }
+        
+        .audio-item button {
+            padding: 8px 16px;
+            font-size: 12px;
+        }
+        
+        .audio-info {
+            flex: 1;
+        }
+        
+        .audio-title {
+            font-weight: bold;
+            margin-bottom: 3px;
+        }
+        
+        .audio-meta {
+            font-size: 12px;
+            color: #ddd;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎭 Cordelia TTS Narrator 🗣️</h1>
+        
+        <div class="controls">
+            <div class="file-selector">
+                <label for="fileSelect">Choose Content:</label>
+                <select id="fileSelect">
+                    <option value="">Loading content...</option>
+                </select>
+            </div>
+            <div>
+                <label for="sectionSelect">Section (Optional):</label>
+                <select id="sectionSelect">
+                    <option value="">Full Content</option>
+                </select>
+            </div>
+            <button id="generateBtn" onclick="generateAudio()">Generate Audio</button>
+        </div>
+        
+        <div class="voice-profiles">
+            <h3>Character Voices</h3>
+            <div class="voice-grid" id="voiceGrid">
+                <!-- Voice cards will be populated by JavaScript -->
+            </div>
+        </div>
+        
+        <div class="audio-player" id="audioPlayer" style="display: none;">
+            <div class="player-controls">
+                <button class="play-btn" id="playBtn" onclick="togglePlay()">
+                    ▶️ Play
+                </button>
+                <div class="progress-bar" onclick="seekTo(event)">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <div class="time-display" id="timeDisplay">0:00 / 0:00</div>
+                <button onclick="downloadAudio()">💾 Download</button>
+            </div>
+            <audio id="audioElement" onloadedmetadata="updateDuration()" ontimeupdate="updateProgress()"></audio>
+        </div>
+        
+        <div class="content-preview" id="contentPreview">
+            <h3>Content Preview</h3>
+            <p class="loading">Select a file to preview content...</p>
+        </div>
+        
+        <div class="audio-library">
+            <h3>Audio Library</h3>
+            <div class="audio-list" id="audioLibrary">
+                <p class="loading">Loading audio library...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Mock data and functionality for demonstration
+        const voiceProfiles = {
+            'narrator': {
+                voice: 'Alex',
+                rate: 180,
+                pitch: 50,
+                description: 'Neutral narrator voice'
+            },
+            'queen_seraphina': {
+                voice: 'Samantha',
+                rate: 160,
+                pitch: 60,
+                description: 'Regal, crystalline queen'
+            },
+            'emperor_thalassius': {
+                voice: 'Daniel',
+                rate: 140,
+                pitch: 40,
+                description: 'Deep, authoritative ruler'
+            },
+            'vex_shadowthorn': {
+                voice: 'Victoria',
+                rate: 170,
+                pitch: 30,
+                description: 'Cold, calculating assassin'
+            },
+            'merchant': {
+                voice: 'Fred',
+                rate: 200,
+                pitch: 55,
+                description: 'Energetic trader'
+            },
+            'scholar': {
+                voice: 'Veena',
+                rate: 150,
+                pitch: 45,
+                description: 'Thoughtful academic'
+            }
+        };
+
+        const mockContent = {
+            'Queen Seraphina Lumengarde.md': {
+                content: `# Queen Seraphina Lumengarde
+
+## Overview
+The Crystal Queen of Aquabyssos, ruler of the underwater realm...
+
+## Appearance
+Tall and regal, with crystalline formations growing from her skin...
+
+## Personality
+Once benevolent, now increasingly erratic due to crystal corruption...`,
+                sections: ['Overview', 'Appearance', 'Personality', 'Goals', 'Corruption']
+            },
+            'Vex Shadowthorn.md': {
+                content: `# Vex Shadowthorn
+
+## Overview
+Shadow Surgeon Prime and leader of the surgical conspiracy...
+
+## Methods
+Uses consciousness manipulation to control key figures...`,
+                sections: ['Overview', 'Methods', 'Goals', 'Allies']
+            }
+        };
+
+        let selectedVoice = 'narrator';
+        let currentAudio = null;
+
+        function initializeInterface() {
+            populateVoiceGrid();
+            populateFileSelector();
+            populateAudioLibrary();
+        }
+
+        function populateVoiceGrid() {
+            const grid = document.getElementById('voiceGrid');
+            grid.innerHTML = '';
+
+            for (const [key, profile] of Object.entries(voiceProfiles)) {
+                const card = document.createElement('div');
+                card.className = 'voice-card';
+                card.onclick = () => selectVoice(key);
+                
+                card.innerHTML = `
+                    <div class="voice-name">${profile.voice}</div>
+                    <div class="voice-description">${profile.description}</div>
+                `;
+                
+                if (key === selectedVoice) {
+                    card.classList.add('selected');
+                }
+                
+                grid.appendChild(card);
+            }
+        }
+
+        function selectVoice(voiceKey) {
+            selectedVoice = voiceKey;
+            populateVoiceGrid();
+        }
+
+        function populateFileSelector() {
+            const select = document.getElementById('fileSelect');
+            select.innerHTML = '<option value="">Select a file...</option>';
+            
+            for (const fileName of Object.keys(mockContent)) {
+                const option = document.createElement('option');
+                option.value = fileName;
+                option.textContent = fileName;
+                select.appendChild(option);
+            }
+        }
+
+        function onFileChange() {
+            const fileName = document.getElementById('fileSelect').value;
+            const sectionSelect = document.getElementById('sectionSelect');
+            const contentPreview = document.getElementById('contentPreview');
+            
+            if (!fileName) {
+                sectionSelect.innerHTML = '<option value="">Full Content</option>';
+                contentPreview.innerHTML = '<h3>Content Preview</h3><p class="loading">Select a file to preview content...</p>';
+                return;
+            }
+            
+            const fileData = mockContent[fileName];
+            
+            // Update sections
+            sectionSelect.innerHTML = '<option value="">Full Content</option>';
+            for (const section of fileData.sections) {
+                const option = document.createElement('option');
+                option.value = section;
+                option.textContent = section;
+                sectionSelect.appendChild(option);
+            }
+            
+            // Update preview
+            contentPreview.innerHTML = `
+                <h3>Content Preview - ${fileName}</h3>
+                <pre style="white-space: pre-wrap; font-family: inherit;">${fileData.content}</pre>
+            `;
+        }
+
+        function generateAudio() {
+            const fileName = document.getElementById('fileSelect').value;
+            const section = document.getElementById('sectionSelect').value;
+            const generateBtn = document.getElementById('generateBtn');
+            
+            if (!fileName) {
+                alert('Please select a file');
+                return;
+            }
+            
+            generateBtn.disabled = true;
+            generateBtn.textContent = 'Generating...';
+            
+            // Simulate audio generation
+            setTimeout(() => {
+                const audioPlayer = document.getElementById('audioPlayer');
+                const audioElement = document.getElementById('audioElement');
+                
+                // In real implementation, this would be the generated audio file
+                audioElement.src = 'data:audio/wav;base64,UklGRjIAAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YQ4AAAC';
+                
+                audioPlayer.style.display = 'block';
+                generateBtn.disabled = false;
+                generateBtn.textContent = 'Generate Audio';
+                
+                // Add to library
+                addToAudioLibrary(fileName, section, selectedVoice);
+                
+                alert(`Audio generated with ${voiceProfiles[selectedVoice].voice} voice!`);
+            }, 2000);
+        }
+
+        function addToAudioLibrary(fileName, section, voice) {
+            const library = document.getElementById('audioLibrary');
+            if (library.querySelector('.loading')) {
+                library.innerHTML = '';
+            }
+            
+            const item = document.createElement('div');
+            item.className = 'audio-item';
+            
+            const sectionText = section ? ` - ${section}` : '';
+            const voiceName = voiceProfiles[voice].voice;
+            
+            item.innerHTML = `
+                <div class="audio-info">
+                    <div class="audio-title">${fileName}${sectionText}</div>
+                    <div class="audio-meta">Voice: ${voiceName} | Generated: ${new Date().toLocaleTimeString()}</div>
+                </div>
+                <button onclick="playLibraryItem(this)">▶️ Play</button>
+                <button onclick="downloadLibraryItem(this)">💾 Download</button>
+            `;
+            
+            library.appendChild(item);
+        }
+
+        function populateAudioLibrary() {
+            // Mock existing audio files
+            const mockFiles = [
+                { name: 'Queen Seraphina Lumengarde.md', section: '', voice: 'Samantha', time: '2:34' },
+                { name: 'The Shadow Conspiracy.md', section: 'Overview', voice: 'Alex', time: '1:45' }
+            ];
+            
+            const library = document.getElementById('audioLibrary');
+            library.innerHTML = '';
+            
+            for (const file of mockFiles) {
+                const item = document.createElement('div');
+                item.className = 'audio-item';
+                
+                const sectionText = file.section ? ` - ${file.section}` : '';
+                
+                item.innerHTML = `
+                    <div class="audio-info">
+                        <div class="audio-title">${file.name}${sectionText}</div>
+                        <div class="audio-meta">Voice: ${file.voice} | Duration: ${file.time}</div>
+                    </div>
+                    <button onclick="playLibraryItem(this)">▶️ Play</button>
+                    <button onclick="downloadLibraryItem(this)">💾 Download</button>
+                `;
+                
+                library.appendChild(item);
+            }
+        }
+
+        function togglePlay() {
+            const audio = document.getElementById('audioElement');
+            const playBtn = document.getElementById('playBtn');
+            
+            if (audio.paused) {
+                audio.play();
+                playBtn.innerHTML = '⏸️ Pause';
+            } else {
+                audio.pause();
+                playBtn.innerHTML = '▶️ Play';
+            }
+        }
+
+        function updateProgress() {
+            const audio = document.getElementById('audioElement');
+            const fill = document.getElementById('progressFill');
+            const timeDisplay = document.getElementById('timeDisplay');
+            
+            const progress = (audio.currentTime / audio.duration) * 100;
+            fill.style.width = progress + '%';
+            
+            const current = formatTime(audio.currentTime);
+            const duration = formatTime(audio.duration);
+            timeDisplay.textContent = `${current} / ${duration}`;
+        }
+
+        function updateDuration() {
+            const audio = document.getElementById('audioElement');
+            const timeDisplay = document.getElementById('timeDisplay');
+            
+            const duration = formatTime(audio.duration);
+            timeDisplay.textContent = `0:00 / ${duration}`;
+        }
+
+        function formatTime(seconds) {
+            if (isNaN(seconds)) return '0:00';
+            const mins = Math.floor(seconds / 60);
+            const secs = Math.floor(seconds % 60);
+            return `${mins}:${secs.toString().padStart(2, '0')}`;
+        }
+
+        function seekTo(event) {
+            const progressBar = event.currentTarget;
+            const audio = document.getElementById('audioElement');
+            const rect = progressBar.getBoundingClientRect();
+            const pos = (event.clientX - rect.left) / rect.width;
+            audio.currentTime = pos * audio.duration;
+        }
+
+        function downloadAudio() {
+            alert('Download functionality would save the generated audio file');
+        }
+
+        function playLibraryItem(button) {
+            const item = button.closest('.audio-item');
+            const title = item.querySelector('.audio-title').textContent;
+            alert(`Playing: ${title}`);
+        }
+
+        function downloadLibraryItem(button) {
+            const item = button.closest('.audio-item');
+            const title = item.querySelector('.audio-title').textContent;
+            alert(`Downloading: ${title}`);
+        }
+
+        // Event listeners
+        document.getElementById('fileSelect').addEventListener('change', onFileChange);
+
+        // Initialize on load
+        window.addEventListener('load', initializeInterface);
+    </script>
+</body>
+</html>

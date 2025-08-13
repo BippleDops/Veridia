@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NPC Memory System - Cordelia Vault</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0f3460, #16537e);
+            color: #e8f4f8;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: rgba(30, 60, 90, 0.95);
+            border-radius: 15px;
+            border: 2px solid #4a90b8;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(90deg, #1e3c5a, #2d5a87);
+            padding: 25px;
+            border-bottom: 2px solid #4a90b8;
+            text-align: center;
+        }
+
+        .header h1 {
+            color: #a8d8ea;
+            font-size: 2rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        .header .subtitle {
+            color: #7bb3d0;
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .nav-tabs {
+            display: flex;
+            background: #1a2f45;
+            border-bottom: 1px solid #4a90b8;
+        }
+
+        .nav-tab {
+            flex: 1;
+            background: none;
+            border: none;
+            color: #a8d8ea;
+            padding: 15px 20px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            border-right: 1px solid #4a90b8;
+        }
+
+        .nav-tab:last-child {
+            border-right: none;
+        }
+
+        .nav-tab:hover {
+            background: #2d5a87;
+        }
+
+        .nav-tab.active {
+            background: #4a90b8;
+            color: white;
+        }
+
+        .tab-content {
+            padding: 30px;
+            min-height: 500px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            color: #a8d8ea;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+
+        .form-control {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #4a90b8;
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            color: #e8f4f8;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .form-control:focus {
+            outline: none;
+            border-color: #7bb3d0;
+            box-shadow: 0 0 10px rgba(123, 179, 208, 0.3);
+        }
+
+        .form-control option {
+            background: #1e3c5a;
+            color: #e8f4f8;
+        }
+
+        .form-row {
+            display: flex;
+            gap: 20px;
+        }
+
+        .form-row .form-group {
+            flex: 1;
+        }
+
+        .btn {
+            background: #4a90b8;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            margin-right: 10px;
+        }
+
+        .btn:hover {
+            background: #5ba0c8;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(74, 144, 184, 0.4);
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+        }
+
+        .btn-secondary:hover {
+            background: #7c858d;
+        }
+
+        .btn-success {
+            background: #28a745;
+        }
+
+        .btn-success:hover {
+            background: #38b755;
+        }
+
+        .results {
+            margin-top: 30px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            border: 1px solid #4a90b8;
+        }
+
+        .memory-card {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid #4a90b8;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .memory-card:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: #7bb3d0;
+        }
+
+        .memory-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .memory-title {
+            color: #a8d8ea;
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+
+        .memory-date {
+            color: #7bb3d0;
+            font-size: 0.9rem;
+        }
+
+        .memory-details {
+            line-height: 1.6;
+        }
+
+        .memory-details strong {
+            color: #a8d8ea;
+        }
+
+        .relationship-summary {
+            background: linear-gradient(135deg, rgba(74, 144, 184, 0.2), rgba(123, 179, 208, 0.1));
+            border: 2px solid #4a90b8;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 20px;
+        }
+
+        .relationship-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .relationship-title {
+            color: #a8d8ea;
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        .relationship-status {
+            display: inline-block;
+            padding: 8px 16px;
+            background: #4a90b8;
+            color: white;
+            border-radius: 20px;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .relationship-metrics {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .metric {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+            border: 1px solid #4a90b8;
+        }
+
+        .metric-label {
+            color: #7bb3d0;
+            font-size: 0.9rem;
+            margin-bottom: 5px;
+        }
+
+        .metric-value {
+            color: #a8d8ea;
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 4px;
+            margin-top: 5px;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #4a90b8, #7bb3d0);
+            border-radius: 4px;
+            transition: width 0.3s ease;
+        }
+
+        .suggestion-list {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid #4a90b8;
+            border-radius: 10px;
+            padding: 20px;
+        }
+
+        .suggestion-item {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            border-left: 4px solid #4a90b8;
+        }
+
+        .suggestion-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .alert {
+            padding: 15px 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border: 1px solid;
+        }
+
+        .alert-success {
+            background: rgba(40, 167, 69, 0.2);
+            border-color: #28a745;
+            color: #a8d8ea;
+        }
+
+        .alert-error {
+            background: rgba(220, 53, 69, 0.2);
+            border-color: #dc3545;
+            color: #f8d7da;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #7bb3d0;
+        }
+
+        .loading::after {
+            content: "⚡";
+            font-size: 2rem;
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 0.4; }
+            50% { opacity: 1; }
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: #7bb3d0;
+        }
+
+        .empty-state-icon {
+            font-size: 4rem;
+            margin-bottom: 20px;
+            opacity: 0.6;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        @media (max-width: 768px) {
+            .form-row {
+                flex-direction: column;
+            }
+            
+            .nav-tabs {
+                flex-direction: column;
+            }
+            
+            .relationship-metrics {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🧠 NPC Memory System</h1>
+            <div class="subtitle">Track relationships and interactions across the depths and heights</div>
+        </div>
+
+        <div class="nav-tabs">
+            <button class="nav-tab active" onclick="switchTab('add-memory')">Add Memory</button>
+            <button class="nav-tab" onclick="switchTab('view-memories')">View Memories</button>
+            <button class="nav-tab" onclick="switchTab('relationships')">Relationships</button>
+            <button class="nav-tab" onclick="switchTab('suggestions')">Suggestions</button>
+        </div>
+
+        <!-- Add Memory Tab -->
+        <div id="add-memory" class="tab-content">
+            <h2 style="color: #a8d8ea; margin-bottom: 25px;">Record New Interaction</h2>
+            
+            <form id="memoryForm">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="npcName">NPC Name</label>
+                        <input type="text" class="form-control" id="npcName" placeholder="Queen Seraphina" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="playerName">Player/Character Name</label>
+                        <input type="text" class="form-control" id="playerName" placeholder="Kael Stormwind" required>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="sessionId">Session ID</label>
+                        <input type="text" class="form-control" id="sessionId" placeholder="Session 15" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="location">Location</label>
+                        <input type="text" class="form-control" id="location" placeholder="The Coral Throne Room" required>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="interactionType">Interaction Type</label>
+                        <select class="form-control" id="interactionType" required>
+                            <option value="">Select type...</option>
+                            <option value="conversation">Conversation</option>
+                            <option value="combat">Combat</option>
+                            <option value="quest">Quest</option>
+                            <option value="favor">Favor</option>
+                            <option value="negotiation">Negotiation</option>
+                            <option value="personal">Personal</option>
+                            <option value="trade">Trade</option>
+                            <option value="conflict">Conflict</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="emotionalContext">Emotional Context</label>
+                        <select class="form-control" id="emotionalContext" required>
+                            <option value="">Select emotion...</option>
+                            <option value="happy">Happy</option>
+                            <option value="grateful">Grateful</option>
+                            <option value="pleased">Pleased</option>
+                            <option value="impressed">Impressed</option>
+                            <option value="relieved">Relieved</option>
+                            <option value="neutral">Neutral</option>
+                            <option value="concerned">Concerned</option>
+                            <option value="suspicious">Suspicious</option>
+                            <option value="disappointed">Disappointed</option>
+                            <option value="angry">Angry</option>
+                            <option value="hurt">Hurt</option>
+                            <option value="betrayed">Betrayed</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="importance">Importance Level</label>
+                    <select class="form-control" id="importance" required>
+                        <option value="">Select importance...</option>
+                        <option value="1">1 - Trivial (casual greeting)</option>
+                        <option value="2">2 - Minor (routine interaction)</option>
+                        <option value="3">3 - Moderate (meaningful exchange)</option>
+                        <option value="4">4 - Significant (major event)</option>
+                        <option value="5">5 - Critical (life-changing)</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="description">Description of Interaction</label>
+                    <textarea class="form-control" id="description" rows="4" placeholder="Describe what happened in detail..." required></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="consequences">Consequences (optional)</label>
+                    <textarea class="form-control" id="consequences" rows="2" placeholder="What resulted from this interaction? (comma-separated)"></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-success">💾 Save Memory</button>
+                <button type="reset" class="btn btn-secondary">🔄 Clear Form</button>
+            </form>
+
+            <div id="memoryResult" class="results hidden"></div>
+        </div>
+
+        <!-- View Memories Tab -->
+        <div id="view-memories" class="tab-content hidden">
+            <h2 style="color: #a8d8ea; margin-bottom: 25px;">NPC Memory Archives</h2>
+            
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="viewNpcName">NPC Name</label>
+                    <input type="text" class="form-control" id="viewNpcName" placeholder="Enter NPC name to view memories">
+                </div>
+                <div class="form-group">
+                    <label for="memoryLimit">Number of Memories</label>
+                    <select class="form-control" id="memoryLimit">
+                        <option value="">All memories</option>
+                        <option value="5">Recent 5</option>
+                        <option value="10">Recent 10</option>
+                        <option value="20">Recent 20</option>
+                    </select>
+                </div>
+            </div>
+
+            <button onclick="viewMemories()" class="btn">🔍 View Memories</button>
+            <button onclick="searchMemories()" class="btn btn-secondary">🔎 Search All Memories</button>
+
+            <div id="memoriesResult" class="results"></div>
+        </div>
+
+        <!-- Relationships Tab -->
+        <div id="relationships" class="tab-content hidden">
+            <h2 style="color: #a8d8ea; margin-bottom: 25px;">Relationship Analysis</h2>
+            
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="relNpcName">NPC Name</label>
+                    <input type="text" class="form-control" id="relNpcName" placeholder="Enter NPC name">
+                </div>
+                <div class="form-group">
+                    <label for="relPlayerName">Player/Character Name</label>
+                    <input type="text" class="form-control" id="relPlayerName" placeholder="Enter player name">
+                </div>
+            </div>
+
+            <button onclick="viewRelationship()" class="btn">📊 View Relationship</button>
+            <button onclick="generateSummary()" class="btn btn-secondary">📋 Generate Summary</button>
+
+            <div id="relationshipResult" class="results"></div>
+        </div>
+
+        <!-- Suggestions Tab -->
+        <div id="suggestions" class="tab-content hidden">
+            <h2 style="color: #a8d8ea; margin-bottom: 25px;">Relationship Development Opportunities</h2>
+            
+            <div class="form-group">
+                <label for="suggestionNpcName">NPC Name</label>
+                <input type="text" class="form-control" id="suggestionNpcName" placeholder="Enter NPC name for suggestions">
+            </div>
+
+            <button onclick="getSuggestions()" class="btn">💡 Get Suggestions</button>
+            <button onclick="getSystemSummary()" class="btn btn-secondary">📈 System Summary</button>
+
+            <div id="suggestionsResult" class="results"></div>
+        </div>
+    </div>
+
+    <script>
+        // Tab switching functionality
+        function switchTab(tabName) {
+            // Hide all tabs
+            const tabs = document.querySelectorAll('.tab-content');
+            tabs.forEach(tab => tab.classList.add('hidden'));
+            
+            // Remove active class from all nav tabs
+            const navTabs = document.querySelectorAll('.nav-tab');
+            navTabs.forEach(tab => tab.classList.remove('active'));
+            
+            // Show selected tab
+            document.getElementById(tabName).classList.remove('hidden');
+            
+            // Add active class to clicked nav tab
+            event.target.classList.add('active');
+        }
+
+        // Add memory form submission
+        document.getElementById('memoryForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            addMemory();
+        });
+
+        function addMemory() {
+            const formData = {
+                npc: document.getElementById('npcName').value,
+                player: document.getElementById('playerName').value,
+                session: document.getElementById('sessionId').value,
+                location: document.getElementById('location').value,
+                type: document.getElementById('interactionType').value,
+                emotion: document.getElementById('emotionalContext').value,
+                importance: parseInt(document.getElementById('importance').value),
+                description: document.getElementById('description').value,
+                consequences: document.getElementById('consequences').value
+            };
+
+            // Show loading
+            const resultDiv = document.getElementById('memoryResult');
+            resultDiv.classList.remove('hidden');
+            resultDiv.innerHTML = '<div class="loading">Saving memory...</div>';
+
+            // Simulate API call (in real implementation, would call Python backend)
+            setTimeout(() => {
+                // Mock successful response
+                resultDiv.innerHTML = `
+                    <div class="alert alert-success">
+                        ✅ Memory successfully recorded for ${formData.npc}!
+                        <br><br>
+                        <strong>Relationship Update:</strong><br>
+                        The interaction has been analyzed and relationship metrics have been updated.
+                        Check the Relationships tab to see the current status with ${formData.player}.
+                    </div>
+                `;
+
+                // Clear form
+                document.getElementById('memoryForm').reset();
+            }, 1500);
+        }
+
+        function viewMemories() {
+            const npcName = document.getElementById('viewNpcName').value;
+            const limit = document.getElementById('memoryLimit').value;
+            
+            if (!npcName.trim()) {
+                showAlert('memoriesResult', 'Please enter an NPC name', 'error');
+                return;
+            }
+
+            const resultDiv = document.getElementById('memoriesResult');
+            resultDiv.innerHTML = '<div class="loading">Loading memories...</div>';
+
+            // Mock memory data
+            setTimeout(() => {
+                const mockMemories = [
+                    {
+                        timestamp: new Date().toISOString(),
+                        type: 'conversation',
+                        description: 'Discussed the rising tensions in the Parliament of Echoes',
+                        emotion: 'concerned',
+                        importance: 4,
+                        players: ['Kael Stormwind'],
+                        location: 'Royal Study',
+                        session: 'Session 15'
+                    },
+                    {
+                        timestamp: new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString(),
+                        type: 'quest',
+                        description: 'Assigned the party to investigate shadow surgeons in the Deep Markets',
+                        emotion: 'determined',
+                        importance: 5,
+                        players: ['Kael Stormwind', 'Marina Tidecaller'],
+                        location: 'Throne Room',
+                        session: 'Session 14'
+                    }
+                ];
+
+                let html = `<h3 style="color: #a8d8ea; margin-bottom: 20px;">Memories for ${npcName}</h3>`;
+                
+                mockMemories.forEach(memory => {
+                    const date = new Date(memory.timestamp).toLocaleDateString();
+                    const time = new Date(memory.timestamp).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+                    
+                    html += `
+                        <div class="memory-card">
+                            <div class="memory-header">
+                                <div class="memory-title">${memory.type.charAt(0).toUpperCase() + memory.type.slice(1)} - ${memory.session}</div>
+                                <div class="memory-date">${date} ${time}</div>
+                            </div>
+                            <div class="memory-details">
+                                <strong>Players:</strong> ${memory.players.join(', ')}<br>
+                                <strong>Location:</strong> ${memory.location}<br>
+                                <strong>Emotion:</strong> ${memory.emotion}<br>
+                                <strong>Importance:</strong> ${memory.importance}/5<br>
+                                <strong>Description:</strong> ${memory.description}
+                            </div>
+                        </div>
+                    `;
+                });
+
+                resultDiv.innerHTML = html;
+            }, 1000);
+        }
+
+        function viewRelationship() {
+            const npcName = document.getElementById('relNpcName').value;
+            const playerName = document.getElementById('relPlayerName').value;
+            
+            if (!npcName.trim() || !playerName.trim()) {
+                showAlert('relationshipResult', 'Please enter both NPC and player names', 'error');
+                return;
+            }
+
+            const resultDiv = document.getElementById('relationshipResult');
+            resultDiv.innerHTML = '<div class="loading">Analyzing relationship...</div>';
+
+            // Mock relationship data
+            setTimeout(() => {
+                const relationship = {
+                    current_state: 'friendly',
+                    trust_level: 75,
+                    respect_level: 85,
+                    personal_connection: 60,
+                    last_interaction: '2024-01-15',
+                    interaction_count: 8
+                };
+
+                const html = `
+                    <div class="relationship-summary">
+                        <div class="relationship-header">
+                            <div class="relationship-title">${npcName} & ${playerName}</div>
+                            <div class="relationship-status">${relationship.current_state}</div>
+                        </div>
+                        
+                        <div class="relationship-metrics">
+                            <div class="metric">
+                                <div class="metric-label">Trust Level</div>
+                                <div class="metric-value">${relationship.trust_level}/100</div>
+                                <div class="progress-bar">
+                                    <div class="progress-fill" style="width: ${relationship.trust_level}%"></div>
+                                </div>
+                            </div>
+                            <div class="metric">
+                                <div class="metric-label">Respect Level</div>
+                                <div class="metric-value">${relationship.respect_level}/100</div>
+                                <div class="progress-bar">
+                                    <div class="progress-fill" style="width: ${relationship.respect_level}%"></div>
+                                </div>
+                            </div>
+                            <div class="metric">
+                                <div class="metric-label">Personal Connection</div>
+                                <div class="metric-value">${relationship.personal_connection}/100</div>
+                                <div class="progress-bar">
+                                    <div class="progress-fill" style="width: ${relationship.personal_connection}%"></div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div style="text-align: center; color: #7bb3d0;">
+                            Last Interaction: ${relationship.last_interaction} • Total Interactions: ${relationship.interaction_count}
+                        </div>
+                    </div>
+                `;
+
+                resultDiv.innerHTML = html;
+            }, 1200);
+        }
+
+        function getSuggestions() {
+            const npcName = document.getElementById('suggestionNpcName').value;
+            
+            if (!npcName.trim()) {
+                showAlert('suggestionsResult', 'Please enter an NPC name', 'error');
+                return;
+            }
+
+            const resultDiv = document.getElementById('suggestionsResult');
+            resultDiv.innerHTML = '<div class="loading">Analyzing opportunities...</div>';
+
+            // Mock suggestions
+            setTimeout(() => {
+                const suggestions = [
+                    `Consider a deeper conversation with ${npcName} - they've had no recorded personal talks recently`,
+                    `${npcName} might appreciate a favor - could strengthen the relationship significantly`,
+                    `The recent political tensions could provide an opportunity for ${npcName} to seek advice`,
+                    `${npcName} has shown interest in the party's activities - perhaps they could offer assistance`
+                ];
+
+                let html = `<h3 style="color: #a8d8ea; margin-bottom: 20px;">Opportunities for ${npcName}</h3>`;
+                html += '<div class="suggestion-list">';
+                
+                suggestions.forEach((suggestion, index) => {
+                    html += `
+                        <div class="suggestion-item">
+                            <strong>${index + 1}.</strong> ${suggestion}
+                        </div>
+                    `;
+                });
+
+                html += '</div>';
+                resultDiv.innerHTML = html;
+            }, 1000);
+        }
+
+        function generateSummary() {
+            const npcName = document.getElementById('relNpcName').value;
+            const playerName = document.getElementById('relPlayerName').value;
+            
+            if (!npcName.trim() || !playerName.trim()) {
+                showAlert('relationshipResult', 'Please enter both NPC and player names', 'error');
+                return;
+            }
+
+            const resultDiv = document.getElementById('relationshipResult');
+            resultDiv.innerHTML = '<div class="loading">Generating narrative summary...</div>';
+
+            setTimeout(() => {
+                const summary = `
+                    <div class="memory-card">
+                        <div class="memory-header">
+                            <div class="memory-title">Relationship Summary: ${npcName} & ${playerName}</div>
+                        </div>
+                        <div class="memory-details" style="line-height: 1.8;">
+                            <p><strong>${npcName}</strong> and <strong>${playerName}</strong> have developed a notably positive relationship over their 8 recorded interactions. What began as a formal acquaintance has evolved into genuine mutual respect and trust.</p>
+                            
+                            <p><strong>Key Relationship Milestones:</strong></p>
+                            <ul style="margin-left: 20px; margin-top: 10px;">
+                                <li><strong>First Contact:</strong> Formal introduction at court ceremony - neutral reception</li>
+                                <li><strong>Trust Building:</strong> ${playerName} successfully completed diplomatic mission</li>
+                                <li><strong>Personal Connection:</strong> Shared concerns about realm's political stability</li>
+                                <li><strong>Current Status:</strong> ${npcName} regards ${playerName} as a reliable ally</li>
+                            </ul>
+                            
+                            <p><strong>Recent Interactions:</strong> Their last conversation focused on rising tensions in the Parliament, with ${npcName} showing clear concern for the realm's future. ${playerName}'s thoughtful responses and practical suggestions have clearly impressed the NPC.</p>
+                            
+                            <p><strong>Future Potential:</strong> This relationship is well-positioned for deeper trust and collaboration. ${npcName} may soon offer more significant responsibilities or share more sensitive information.</p>
+                        </div>
+                    </div>
+                `;
+                resultDiv.innerHTML = summary;
+            }, 1500);
+        }
+
+        function getSystemSummary() {
+            const resultDiv = document.getElementById('suggestionsResult');
+            resultDiv.innerHTML = '<div class="loading">Compiling system statistics...</div>';
+
+            setTimeout(() => {
+                const html = `
+                    <div class="memory-card">
+                        <div class="memory-header">
+                            <div class="memory-title">🧠 Memory System Overview</div>
+                        </div>
+                        <div class="memory-details">
+                            <div class="relationship-metrics">
+                                <div class="metric">
+                                    <div class="metric-label">NPCs Tracked</div>
+                                    <div class="metric-value">24</div>
+                                </div>
+                                <div class="metric">
+                                    <div class="metric-label">Total Memories</div>
+                                    <div class="metric-value">187</div>
+                                </div>
+                                <div class="metric">
+                                    <div class="metric-label">Active Relationships</div>
+                                    <div class="metric-value">31</div>
+                                </div>
+                            </div>
+                            
+                            <h4 style="color: #a8d8ea; margin-top: 20px; margin-bottom: 10px;">Most Memorable NPCs:</h4>
+                            <ul style="margin-left: 20px;">
+                                <li>Queen Seraphina (23 memories)</li>
+                                <li>Vex Shadowthorn (18 memories)</li>
+                                <li>Commander Typhoon (15 memories)</li>
+                                <li>Ambassador Marina (12 memories)</li>
+                            </ul>
+                            
+                            <h4 style="color: #a8d8ea; margin-top: 20px; margin-bottom: 10px;">Relationship Distribution:</h4>
+                            <ul style="margin-left: 20px;">
+                                <li>Allied: 8 relationships</li>
+                                <li>Friendly: 15 relationships</li>
+                                <li>Neutral: 6 relationships</li>
+                                <li>Suspicious: 2 relationships</li>
+                            </ul>
+                        </div>
+                    </div>
+                `;
+                resultDiv.innerHTML = html;
+            }, 1000);
+        }
+
+        function searchMemories() {
+            const query = prompt("Enter search term:");
+            if (!query) return;
+
+            const resultDiv = document.getElementById('memoriesResult');
+            resultDiv.innerHTML = '<div class="loading">Searching memories...</div>';
+
+            setTimeout(() => {
+                const html = `
+                    <h3 style="color: #a8d8ea; margin-bottom: 20px;">Search Results for "${query}"</h3>
+                    <div class="memory-card">
+                        <div class="memory-header">
+                            <div class="memory-title">Queen Seraphina - Political Discussion</div>
+                            <div class="memory-date">2024-01-15</div>
+                        </div>
+                        <div class="memory-details">
+                            <strong>Match found in:</strong> Description text<br>
+                            <strong>Context:</strong> Conversation about parliamentary tensions<br>
+                            <strong>Relevance:</strong> High match for "${query}"
+                        </div>
+                    </div>
+                `;
+                resultDiv.innerHTML = html;
+            }, 1000);
+        }
+
+        function showAlert(containerId, message, type) {
+            const container = document.getElementById(containerId);
+            const alertClass = type === 'error' ? 'alert-error' : 'alert-success';
+            container.innerHTML = `<div class="alert ${alertClass}">${message}</div>`;
+        }
+
+        // Initialize with some helpful tips
+        document.addEventListener('DOMContentLoaded', function() {
+            const resultDiv = document.getElementById('memoryResult');
+            resultDiv.innerHTML = `
+                <div style="padding: 20px; background: rgba(255, 255, 255, 0.05); border-radius: 10px; border: 1px solid #4a90b8;">
+                    <h4 style="color: #a8d8ea; margin-bottom: 15px;">💡 Memory System Tips</h4>
+                    <ul style="color: #7bb3d0; line-height: 1.6; margin-left: 20px;">
+                        <li>Record interactions as they happen for best relationship tracking</li>
+                        <li>Higher importance levels have greater impact on relationship evolution</li>
+                        <li>Emotional context significantly affects trust and respect changes</li>
+                        <li>Personal conversations and favors build stronger connections</li>
+                        <li>Check the Suggestions tab for relationship development opportunities</li>
+                    </ul>
+                </div>
+            `;
+        });
+    </script>
+</body>
+</html>

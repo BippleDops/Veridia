@@ -1,0 +1,18 @@
+{
+  "alice": {
+    "username": "alice",
+    "display_name": "Alice GM",
+    "email": null,
+    "role": "GM",
+    "permissions": [
+      "read_all",
+      "write_all",
+      "admin",
+      "create_content",
+      "manage_users"
+    ],
+    "created_at": "2025-08-13T09:31:44.547409",
+    "last_login": null,
+    "session_token": null
+  }
+}

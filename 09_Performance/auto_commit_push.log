@@ -54,3 +54,37 @@ Built galleries:
  - 04_Resources/Assets/Galleries/Magical_Items_Gallery.md
  - 04_Resources/Assets/Galleries/Index.md
 Upgraded images in 0 markdown files and 0 canvas files.
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[main ae05d9136] chore(nightly): batch assets + link/sweep
+ 35 files changed, 3847 insertions(+), 20 deletions(-)
+ create mode 100644 06_GM_Resources/Travel/Events/Sky_Events_Pack_C.md
+ create mode 100644 08_Archive/CLI_reference_materials/books/xanathars-guide-to-everything/1-introduction.md
+ create mode 100644 08_Archive/CLI_reference_materials/books/xanathars-guide-to-everything/2-character-options.md
+ create mode 100644 08_Archive/CLI_reference_materials/books/xanathars-guide-to-everything/4-spells.md
+ create mode 100644 08_Archive/CLI_reference_materials/books/xanathars-guide-to-everything/5-shared-campaigns.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/barbarian-xphb-path-of-the-berserker-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/barbarian-xphb-path-of-the-storm-herald-xge.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/barbarian-xphb-path-of-the-wild-heart-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/bard-xphb-college-of-glamour-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/bard-xphb-college-of-swords-xge.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/bard-xphb-college-of-valor-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/bard-xphb-college-of-whispers-xge.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/bard-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/cleric-xphb-forge-domain-xge.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/cleric-xphb-grave-domain-xge.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/cleric-xphb-knowledge-domain.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/cleric-xphb-life-domain-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/cleric-xphb-light-domain-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/cleric-xphb-nature-domain.md
+ create mode 100644 08_Archive/CLI_reference_materials/items/firearm-bullets-10-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/lists/list-spells-classes-paladin.md
+ create mode 100644 08_Archive/CLI_reference_materials/lists/list-spells-classes-warlock.md
+ create mode 100644 08_Archive/CLI_reference_materials/tables/human-names-norse-female-xge.md
+ create mode 100644 08_Archive/CLI_reference_materials/tables/treasure-hoard-challenge-17.md
+ create mode 100644 "backups/02_Worldbuilding/Lore/Dock Worker Tom\303\241s (conflicted).md"
+ create mode 100644 "backups/02_Worldbuilding/Lore/Gast\303\263n Flamb\303\251heart (conflicted).md"
+ create mode 100644 "backups/02_Worldbuilding/Places/Ma\303\256tre d' Pelagia Smoothcurrent (conflicted).md"
+ create mode 100644 scripts/optimize_folder_structure.py
+To https://github.com/BippleDops/Veridia.git
+   ad26479be..ae05d9136  main -> main

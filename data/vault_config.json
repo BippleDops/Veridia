@@ -1,0 +1,114 @@
+{
+  "vault_info": {
+    "name": "Cordelia TTRPG Vault",
+    "version": "1.0.0",
+    "created": "2025-08-13T12:40:04.102051",
+    "description": "Comprehensive TTRPG vault for the dual realms of Aquabyssos and Aethermoor"
+  },
+  "world_settings": {
+    "primary_realms": [
+      "Aquabyssos",
+      "Aethermoor"
+    ],
+    "convergence_zones": [
+      "The Lighthouse of Storms",
+      "Convergence Point"
+    ],
+    "time_period": "The Age of Convergence",
+    "campaign_focus": "Shadow Conspiracy and Crystal Plague"
+  },
+  "content_standards": {
+    "required_frontmatter": [
+      "created",
+      "updated",
+      "status",
+      "world",
+      "type"
+    ],
+    "tag_hierarchies": [
+      "status/{draft|stub|active|complete|archived}",
+      "world/{aquabyssos|aethermoor|both|convergence}",
+      "type/{character|location|faction|quest|item|lore|session}",
+      "campaign/{main-plot|side-quest|background|setup}",
+      "corruption/{none|minor|moderate|severe|critical}"
+    ],
+    "naming_conventions": {
+      "characters": "FirstName LastName",
+      "locations": "Location Name",
+      "factions": "The Organization Name",
+      "sessions": "Session {Number} - {Title}"
+    }
+  },
+  "directory_structure": {
+    "01_Adventures": "Campaign adventures and session content",
+    "02_Worldbuilding": "Core world content (Groups, Items, Lore)",
+    "03_Mechanics": "Game mechanics and systems",
+    "04_Resources": "Assets, handouts, and reference materials",
+    "05_Templates": "Content templates and generators",
+    "06_GM_Resources": "Game Master tools and references",
+    "07_Player_Resources": "Player-facing content and guides",
+    "08_Archive": "Archived and deprecated content",
+    "09_Performance": "Obsidian Bases databases and performance tools",
+    "data": "Structured data, models, and analysis results",
+    "reports": "Analysis reports and vault metrics",
+    "scripts": "Automation and maintenance tools",
+    "backups": "Backup content and recovery data"
+  },
+  "obsidian_settings": {
+    "plugins": {
+      "essential": [
+        "Templater",
+        "Dataview",
+        "Bases",
+        "Canvas"
+      ],
+      "recommended": [
+        "Advanced Tables",
+        "Tag Wrangler",
+        "Link Map"
+      ],
+      "experimental": [
+        "Various Complements",
+        "Smart Random Note"
+      ]
+    },
+    "appearance": {
+      "theme": "Minimal",
+      "accent_color": "blue",
+      "show_line_numbers": true,
+      "readable_line_length": false
+    },
+    "features": {
+      "vim_mode": false,
+      "spell_check": true,
+      "strict_line_breaks": false,
+      "use_markdown_links": false,
+      "new_link_format": "shortest"
+    }
+  },
+  "automation": {
+    "daily_tasks": [
+      "Link integrity check",
+      "Metadata validation",
+      "Backup creation"
+    ],
+    "weekly_tasks": [
+      "Content analysis",
+      "Orphan detection",
+      "Tag standardization"
+    ],
+    "monthly_tasks": [
+      "Full vault analysis",
+      "Performance optimization",
+      "Archive cleanup"
+    ]
+  },
+  "phase1_targets": {
+    "content_recovery": 4701,
+    "broken_links_fixed": 25839,
+    "frontmatter_added": 17311,
+    "stub_completion": 59,
+    "pydantic_validation": true,
+    "obsidian_optimization": true
+  }
+}

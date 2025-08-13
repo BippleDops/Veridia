@@ -1,14 +1,18 @@
 {
-  "readableLineLength": false,
+  "legacyEditor": false,
   "livePreview": true,
-  "promptDelete": false,
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
   "attachmentFolderPath": "04_Resources/Assets",
-  "showUnsupportedFiles": true,
-  "showFrontmatter": false,
-  "newFileLocation": "current",
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview",
+  "newFileLocation": "current",
+  "showFrontmatter": true,
   "foldHeading": true,
   "foldIndent": true,
-  "uriCallbacks": true
+  "showIndentGuide": true,
+  "readableLineLength": false,
+  "theme": "moonstone"
 }

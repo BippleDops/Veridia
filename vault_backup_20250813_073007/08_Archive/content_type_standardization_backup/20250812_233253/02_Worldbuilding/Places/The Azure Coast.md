@@ -4,6 +4,7 @@ tags:
 - coastal
 - coastal-region
 - completed
+- draft
 - location
 - maritime
 - region
@@ -22,12 +23,16 @@ major_cities:
 government: Multiple City-States and Kingdoms
 population: 850000
 created: '2025-08-09'
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:27.451812+00:00'
 related_entities:
-- '[[02_Worldbuilding/Places/The Cerulean Archipelago|02 Worldbuilding/Places/The Cerulean Archipelago]]'
-- '[[02_Worldbuilding/Lore/Aquabyssos Ambassadors|02 Worldbuilding/Lore/Aquabyssos Ambassadors]]'
-- '[[02_Worldbuilding/Groups/The Crimson Fleet|02 Worldbuilding/Groups/The Crimson Fleet]]'
+- '[[02_Worldbuilding/Places/The Cerulean Archipelago|02 Worldbuilding/Places/The
+  Cerulean Archipelago]]'
+- '[[02_Worldbuilding/Lore/Aquabyssos Ambassadors|02 Worldbuilding/Lore/Aquabyssos
+  Ambassadors]]'
+- '[[02_Worldbuilding/Groups/The Crimson Fleet|02 Worldbuilding/Groups/The Crimson
+  Fleet]]'
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-azure-coast-the-azure-coast.svg)

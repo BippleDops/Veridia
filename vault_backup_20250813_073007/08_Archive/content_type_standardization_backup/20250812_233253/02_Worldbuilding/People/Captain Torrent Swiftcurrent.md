@@ -2,13 +2,15 @@
 tags:
 - active
 - aquabyssos
+- complete
 - npc
 type: NPC
 world: Aquabyssos
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.903910+00:00'
+updated: '2025-08-13T12:34:28.198304+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-torrent-swiftcurrent-captain-torrent-swiftcurrent.svg)

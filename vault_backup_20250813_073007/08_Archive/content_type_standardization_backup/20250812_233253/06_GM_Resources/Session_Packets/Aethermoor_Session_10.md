@@ -1,17 +1,19 @@
 ---
-title: "Session Packet \u2014 Aethermoor Session 10"
+title: Session Packet — Aethermoor Session 10
 type: session_packet
 status: complete
 session_number: 10
 campaign_name: Aethermoor
 created: null
-updated: '2025-08-13T01:18:31.120892+00:00'
+updated: '2025-08-13T12:34:25.237491+00:00'
 world: Aethermoor
 tags:
 - aethermoor
+- complete
 - ready
 - session_packet
 ---
+
 
 
 # Session Packet — Aethermoor 10

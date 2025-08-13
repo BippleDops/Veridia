@@ -7,6 +7,7 @@ tags:
 - dangerous
 - dimensional
 - dimensional-nexus
+- draft
 - location
 - lore
 - magical-phenomenon
@@ -19,13 +20,14 @@ discovery_date: Recent (Current Campaign Period)
 location_status: Highly Classified
 access_level: Restricted to Highest Authority
 created: '2025-08-09'
-updated: '2025-08-13T01:18:34.726973+00:00'
+updated: '2025-08-13T12:34:25.628379+00:00'
 related_entities:
 - '[[02_Worldbuilding/Lore/The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]'
 - '[[02_Worldbuilding/Lore/Arcanum Heights|02 Worldbuilding/Lore/Arcanum Heights]]'
 - '[[02_Worldbuilding/Lore/Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]]'
 - '[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
 ---
+
 
 
 

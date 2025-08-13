@@ -3,16 +3,20 @@ audience: player
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - campaign/session
+- complete
 - handout
+- lore
 - merger
 - status/complete
 - world/both
 title: Player Handout — M-L-07 The Anchor Cataclysm
 type: Lore
-updated: '2025-08-12T23:37:41.228529'
+updated: '2025-08-13T12:34:32.393526+00:00'
 world: Both
 ---
+
 
 
 # The Anchor Cataclysm

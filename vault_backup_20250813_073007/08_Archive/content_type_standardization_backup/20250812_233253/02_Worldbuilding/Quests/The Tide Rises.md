@@ -4,6 +4,7 @@ tags:
 - both
 - corruption
 - diplomatic
+- draft
 - investigation
 - investigation/diplomacy
 - lore
@@ -17,9 +18,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:34.501163+00:00'
+updated: '2025-08-13T12:34:25.364050+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

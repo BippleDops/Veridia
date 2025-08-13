@@ -15,13 +15,13 @@ tags:
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Commander Thrace Ironwood|02 Worldbuilding/People/Commander Thrace Ironwood]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Thrace Ironwood]]
 
 
 ## Connections
 
-- [[Commander Thrace Ironwood]]
-- [[Lady Jade Clawgrip]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
 
 ## Player-Facing Summary
 

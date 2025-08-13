@@ -5,11 +5,12 @@ tags:
 - active
 - both
 - category/people
+- complete
 - lore
 obsidianUIMode: preview
 aliases:
 - characters other name
-NoteStatus: "\u2753"
+NoteStatus: ❓
 char_status: Alive
 char_race: Human
 char_gender: Male
@@ -42,11 +43,12 @@ relationships:
   type: ally
   strength: 3
 world: Both
-updated: '2025-08-13T01:18:31.190995+00:00'
+updated: '2025-08-13T12:34:25.289173+00:00'
 created: '2025-08-11'
 status: complete
 type: Lore
 ---
+
 
 
 

@@ -25,7 +25,7 @@ tags:
 - [[The Crimson Hand]]
 - [[The Queen]]
 - [[The Seven Shards]]
-- [[Throne Room]]
+- [[02_Worldbuilding/Lore/Throne Room]]
 
 ## Player-Facing Summary
 

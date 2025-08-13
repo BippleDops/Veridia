@@ -8,17 +8,21 @@ frequency: Rare but Predictable
 hazard_type: Pressure Anomaly
 status: complete
 tags:
+- aquabyssos
+- complete
 - dangerous-waters
 - environmental-hazard
 - environmental_hazard
 - hazard
+- mechanics
 - natural-phenomenon
 - status/complete
 - world/aquabyssos
 type: Mechanics
-updated: '2025-08-12T23:37:37.746416'
+updated: '2025-08-13T12:34:28.522553+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -41,9 +45,9 @@ Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenome
 #### Natural Triggers
 - **Tidal Convergence**: Multiple major tide systems meeting at precise angles
 - **Thermal Layers**: Extreme temperature differences between water masses
-- **Magical Interference**: High concentrations of [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] energy
+- **Magical Interference**: High concentrations of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] energy
 - **Geological Events**: Underwater earthquakes or volcanic activity
-- **Crystal Resonance**: [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] activity affecting local physics
+- **Crystal Resonance**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] activity affecting local physics
 
 #### Pressure Concentration
 - **Water Compression**: Normal seawater compressed to nearly solid density
@@ -58,7 +62,7 @@ Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenome
 - **Marine Life Behavior**: Sea creatures flee area in visible mass exodus
 - **Water Temperature**: Unusual warming or cooling in specific patterns
 - **Tidal Anomalies**: Minor tide irregularities in surrounding regions
-- **Crystal Resonance**: [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] fragments hum with unusual frequency
+- **Crystal Resonance**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] fragments hum with unusual frequency
 
 #### Environmental Indicators (6-12 hours advance)
 - **Water Density**: Subtle changes in buoyancy and swimming difficulty
@@ -196,7 +200,7 @@ Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenome
 - **Properties**: Defy normal physics, weigh nothing but occupy space
 - **Danger**: Unpredictable effects, potentially reality-altering
 - **Study**: Theoretical research only, too dangerous for practical use
-- **Theory**: May be connected to [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] creation
+- **Theory**: May be connected to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] creation
 
 ### Biological Adaptations
 #### Pressure Wraiths
@@ -219,7 +223,7 @@ Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenome
 - **Mission**: Monitor, predict, and respond to pressure maelstrom manifestations
 - **Training**: Extensive education in pressure physics and survival techniques
 - **Equipment**: Advanced magical gear for operating in high-pressure environments
-- **Cooperation**: Works with [[The Depth Wardens]] and civilian authorities
+- **Cooperation**: Works with [[02_Worldbuilding/People/The Depth Wardens]] and civilian authorities
 - **Base**: Fortified stations positioned around known manifestation zones
 
 #### Operational Capabilities
@@ -266,7 +270,7 @@ Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenome
 **Level**: 12-18  
 **Hook**: Unusual maelstrom formation threatens major population center  
 **Mystery**: This manifestation doesn't follow known patterns or natural laws  
-**Investigation**: Discover connection to [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] or [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]  
+**Investigation**: Discover connection to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] or [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]  
 **Challenge**: Find way to dissipate artificial maelstrom before city is destroyed  
 **Epic Stakes**: Success prevents catastrophe, failure leads to massive casualties
 
@@ -286,11 +290,11 @@ Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenome
 - **Emergency**: Rapid response when situations develop unexpectedly
 
 ## Connected Elements
-- Related to [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] through potential connection to divine oceanic power
-- Links to [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] through reality-warping effects and compressed materials
-- Associated with [[The Depth Wardens]] through military response and protection duties
-- Connected to [[The Liminal Trading Company]] through shipping route disruption and insurance
-- Links to [[02_Worldbuilding/People/Oracle Nerida the Tidereader|02 Worldbuilding/People/Oracle Nerida The Tidereader]] through natural disaster prediction
+- Related to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] through potential connection to divine oceanic power
+- Links to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] through reality-warping effects and compressed materials
+- Associated with [[02_Worldbuilding/People/The Depth Wardens]] through military response and protection duties
+- Connected to [[02_Worldbuilding/Groups/The Liminal Trading Company]] through shipping route disruption and insurance
+- Links to [[02_Worldbuilding/People/Oracle Nerida the Tidereader]] through natural disaster prediction
 - Related to deep-sea mining and resource extraction industries
 - Connected to specialized equipment crafting and magical item creation
 - Associated with emergency response and rescue service organizations
@@ -334,10 +338,10 @@ Legends speak of The Pressure Maelstroms as a nexus where past and present conve
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Liminal Trading Company|02 Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
 
 
 ## Connections
 
-- [[The Liminal Trading Company]]
-- [[The Depth Wardens]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/People/The Depth Wardens]]

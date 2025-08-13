@@ -1,15 +1,17 @@
 ---
 world: Both
-updated: '2025-08-13T01:18:36.445424+00:00'
+updated: '2025-08-13T12:34:27.627007+00:00'
 created: '2025-08-11'
 status: complete
 tags:
 - active
 - both
+- complete
 - location
 type: Location
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-whispering-depths-the-whispering-depths.svg)

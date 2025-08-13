@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.874223+00:00'
+updated: '2025-08-13T12:34:28.168374+00:00'
 world: Both
 type: NPC
 status: complete
 tags:
 - active
 - both
+- complete
 - npc
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-royal-treasury-depths-the-royal-treasury-depths.svg)

@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.303982'
+updated: '2025-08-13T12:34:29.052943+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -40,10 +44,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Timeline of the Drowning|02 Worldbuilding/Lore/Timeline Of The Drowning]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
 
 
 ## Connections
 
-- [[Timeline of the Drowning]]
-- [[Vorthak]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vorthak]]

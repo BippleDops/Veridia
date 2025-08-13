@@ -20,21 +20,21 @@ tags:
 
 ## Connections
 
-- [[Crystal Festival Grounds]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival Grounds]]
 - [[Crystal Garden]]
 - [[Customs House]]
-- [[Memory Alteration Consequences]]
-- [[Merged Reality Zones]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alteration Consequences]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
 - [[The Convergence Point]]
 - [[The Crimson Hand]]
-- [[The Forgetting Bomb]]
+- [[02_Worldbuilding/Lore/The Forgetting Bomb]]
 - [[The Great Crystallization]]
 - [[The Queen]]
-- [[The Transformed Citizens]]
-- [[Throne Room]]
+- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[02_Worldbuilding/Lore/Throne Room]]
 - [[Timeline of the Drowning]]
-- [[Aboleth Prime Yoth]]
-- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
+- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
 
 ## Player-Facing Summary
 

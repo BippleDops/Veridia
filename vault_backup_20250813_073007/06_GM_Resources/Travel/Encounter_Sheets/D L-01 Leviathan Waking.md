@@ -41,9 +41,9 @@ world: Both
 - Fail: Awakening; shockwave 4d6 per segment; arc “Age of Leviathans” opens
 
 ## Integrations
-- [[Ecosystem Simulation Engine]]: migration and eco ripples
-- [[Complete Faction Warfare System]]: doctrine reactions
-- [[Sanity System]]: awe tests at GM discretion
+- [[03_Mechanics/Ecosystem Simulation Engine]]: migration and eco ripples
+- [[03_Mechanics/Complete Faction Warfare System]]: doctrine reactions
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]: awe tests at GM discretion
 
 ## Scaling
 - With anchors: treat DCs -1 if Reality Integrity > 75; +1 if < 50

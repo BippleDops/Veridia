@@ -6,9 +6,11 @@ session_number: 7
 date_played: null
 location: '[[Crystal Festival Grounds]]'
 npcs_featured:
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen
+  Seraphina Lumengarde]]'
 - '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
 - '[[Brother Marcus Steelbane]]'
 - '[[Citizens of Meridian]]'
 quests_advanced:
@@ -21,6 +23,7 @@ tags:
 - active
 - aethermoor
 - climax
+- complete
 - festival
 - lore
 - session
@@ -30,9 +33,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-13T01:18:37.187471+00:00'
+updated: '2025-08-13T12:34:28.487469+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

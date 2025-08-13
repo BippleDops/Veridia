@@ -40,7 +40,7 @@ world: Both
 - Fail: Mass short-/long-term madness; splinter cult emerges
 
 ## Integrations
-- [[Sanity System]]; [[Memory Trading Economy System|Memory Economy]]; [[Deep Mother]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]; [[Memory Trading Economy System|Memory Economy]]; [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
 
 ## Scaling
 - With shrine-ship: reduce Sanity DC by 1

@@ -2,14 +2,16 @@
 tags:
 - active
 - both
+- complete
 - lore
 - marina
 world: Both
-updated: '2025-08-13T01:18:34.766776+00:00'
+updated: '2025-08-13T12:34:25.671779+00:00'
 created: '2025-08-11'
 status: complete
 type: Lore
 ---
+
 
 
 

@@ -1,12 +1,14 @@
 ---
 created: null
-updated: '2025-08-13T01:18:31.154418+00:00'
+updated: '2025-08-13T12:34:25.234511+00:00'
 world: Both
 status: complete
 tags:
 - active
 - both
+- complete
 ---
+
 
 # NPC Roleplay Guide
 *Master the art of bringing Non-Player Characters to life*

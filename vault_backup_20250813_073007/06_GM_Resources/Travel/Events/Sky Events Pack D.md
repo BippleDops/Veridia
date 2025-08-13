@@ -23,7 +23,7 @@ world: Both
 
 # Sky Events Pack D — Faction Spotlight (24)
 
-Use with [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]] (altitude inversion), [[Sanity System]], [[Complete Reality Merger System]], [[Memory Trading Economy System|Memory Economy]], [[Complete Faction Warfare System]].
+Use with [[vault_backup_20250813_073007/03_Mechanics/Vehicles - Vehicle Core Rules]] (altitude inversion), [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]], [[03_Mechanics/Complete Reality Merger System]], [[Memory Trading Economy System|Memory Economy]], [[03_Mechanics/Complete Faction Warfare System]].
 
 ---
 

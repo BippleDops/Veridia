@@ -21,10 +21,10 @@ tags:
 ## Connections
 
 - [[Deep Mother]]
-- [[The Crown of Stars]]
-- [[The Sundering]]
-- [[Aethermoor]]
-- [[Memory Farmers]]
+- [[02_Worldbuilding/Lore/The Crown of Stars]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sundering]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Memory Farmers]]
 
 ## Player-Facing Summary
 

@@ -41,7 +41,7 @@ world: Both
 AC ; HP ; Saves ; Traits ; Effects
 
 ## Integrations
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] • [[Complete Reality Merger System]] • [[Memory Trading Economy System|Memory Economy]] • [[Complete Faction Warfare System]] • [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Rules]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] • [[03_Mechanics/Complete Reality Merger System]] • [[Memory Trading Economy System|Memory Economy]] • [[03_Mechanics/Complete Faction Warfare System]] • [[vault_backup_20250813_073007/03_Mechanics/Vehicles - Vehicle Core Rules]]
 
 ## Scaling
 - [Changes by zone/band]

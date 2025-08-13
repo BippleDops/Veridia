@@ -49,8 +49,8 @@ AC 14; HP 45; Attack +5 (harpoon rifles 1d8+3); Morale 12
 Tactics: Aim to disable, then board; retreat if leader down
 
 ## Integrations
-- [[Complete Faction Warfare System]]: adjust standing on outcome
-- [[Vehicle_Core_Rules#12) Parasite Boarding & Biohazards|Vehicle Core Rules#12) Parasite Boarding & Biohazards]]: infection risks if tubes attach
+- [[03_Mechanics/Complete Faction Warfare System]]: adjust standing on outcome
+- [[vault_backup_20250813_073007/03_Mechanics/Vehicles - Vehicle Core Rules]]: infection risks if tubes attach
 
 ## Scaling
 - Elite privateers add anchor jammer (RSB -2 within 200 ft)

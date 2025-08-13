@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
+- complete
 - content/faction
 - content/lore
+- lore
 - status/in-progress
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.823823'
+updated: '2025-08-13T12:34:28.705316+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -41,9 +45,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Establish New World Order|02 Worldbuilding/Groups/Establish New World Order]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish New World Order]]
 
 
 ## Connections
 
-- [[Establish New World Order]]
+- [[02_Worldbuilding/Groups/Orders/Establish New World Order]]

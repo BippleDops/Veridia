@@ -2,13 +2,15 @@
 tags:
 - active
 - both
+- complete
 - group
 type: Group
 world: Both
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.671411+00:00'
+updated: '2025-08-13T12:34:27.934052+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-frequency-weapon-frequency-weapon.svg)

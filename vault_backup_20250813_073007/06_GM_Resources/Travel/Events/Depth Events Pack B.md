@@ -22,7 +22,7 @@ world: Both
 
 # Depth Events Pack B — 50 Ready-to-Run Encounters (D-101–D-150)
 
-Use with core systems and vehicle rules. This pack complements [[06_GM_Resources/Travel/Events/Depth_Events_Pack_A|Pack A]].
+Use with core systems and vehicle rules. This pack complements [[vault_backup_20250813_073007/06_GM_Resources/Travel/Events/Depth Events Pack A]].
 
 ---
 

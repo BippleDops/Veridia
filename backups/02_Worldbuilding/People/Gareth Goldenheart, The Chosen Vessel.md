@@ -19,17 +19,17 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Order of the Shattered Crown|02 Worldbuilding/Places/The Order Of The Shattered Crown]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]]
 
 
 ## Connections
 
-- [[Brother Matthias the Amber Bearer]]
-- [[Order of the Shattered Crown]]
-- [[Scholar Vivienne the Chronicler]]
-- [[The Emerald Sage Willowbark]]
-- [[The Shadow Singer Naia]]
-- [[The Order of the Shattered Crown]]
+- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Order of the Shattered Crown]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
+- [[02_Worldbuilding/People/The Emerald Sage Willowbark]]
+- [[02_Worldbuilding/People/The Shadow Singer Naia]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]]
 
 ## Player-Facing Summary
 
@@ -38,6 +38,50 @@ Gareth Goldenheart, The Chosen Vessel is a undersea element of the setting, know
 ## Lore Details
 
 Legends speak of Gareth Goldenheart, The Chosen Vessel as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Gareth Goldenheart, The Chosen Vessel.
+
+
+## Location & Movement
+
+# Cross-References's location and movement patterns reflect their role as a leader, with established routines and predictable presence in key locations.
+
+### Primary Location
+**Headquarters/Throne Room/Office** - Main base of operations
+- Typically found here during scheduled/formal occasions
+- Movement style: accompanied by retinue, formal protocols
+
+### Secondary Locations
+**Meeting Halls** - Regular destination 1
+**Ceremonial Spaces** - Regular destination 2
+
+### Daily Schedule
+
+**Dawn**: Quiet Work
+**Morning**: Administrative Tasks
+**Midday**: Peak Activity
+**Afternoon**: Travel
+**Evening**: Relaxation
+**Night**: Rest
+
+### Movement Patterns
+
+**Travel Frequency**: Scheduled/Formal Occasions
+**Movement Style**: Accompanied By Retinue, Formal Protocols
+**Predictability**: Regular patterns with occasional variations
+**Accessibility**: Varies by location and circumstances
+
+### Encounter Likelihood
+
+**Primary Location**: High probability during business hours
+**Secondary Locations**: Medium probability during specific activities
+**Travel Routes**: Low probability, but possible during transitions
+**Random Encounters**: Very low probability in unexpected locations
+
+### Special Circumstances
+
+**Seasonal Variations**: Schedule may change with events or seasons
+**Emergency Protocols**: Alternative locations during crises
+**Social Events**: May be found at community gatherings
+**Private Time**: Limited access during personal hours
 
 ## Adventure Hooks
 

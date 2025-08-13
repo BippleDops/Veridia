@@ -58,11 +58,11 @@ Provides secure meeting location, refuge during disasters, or target for infiltr
 
 ## Connections
 
-- [[Silver Mask]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
 - [[The Deep Mother]]
 - [[The Final Choice]]
-- [[The Silverscale Conspiracy]]
-- [[Aethermoor - Session 04 The Silverscale Gambit]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
 
 ## Player-Facing Summary
 

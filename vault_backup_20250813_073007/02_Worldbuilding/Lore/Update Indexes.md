@@ -4,15 +4,19 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- complete
 - content/lore
 - index
+- lore
 - navigation
 - status/complete
+- universal
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.851772'
+updated: '2025-08-13T12:34:28.613821+00:00'
 world: Universal
 ---
+
 
 
 # Update Indexes
@@ -22,13 +26,13 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 ## Core Navigation Indexes
 
 ### Campaign Content
-- [[Campaign Index]] - Complete guide to all campaign materials and session content
-- [[Location Index]] - Organized directory of all worldbuilding locations
-- [[Quest Index]] - Adventure hooks, quests, and campaign objectives
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]] - Complete guide to all campaign materials and session content
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location Index]] - Organized directory of all worldbuilding locations
+- [[02_Worldbuilding/Lore/Quest Index]] - Adventure hooks, quests, and campaign objectives
 
 ### Character & People Content
-- [[Character Index]] - Player characters and character creation resources
-- [[NPC Relationship Web]] - Network of non-player character connections
+- [[03_Mechanics/Character Index]] - Player characters and character creation resources
+- [[02_Worldbuilding/Lore/NPC Relationship Web]] - Network of non-player character connections
 - [[NPC Cross-World Connections]] - Links between Aethermoor and Aquabyssos characters
 
 ## Content Categories
@@ -68,16 +72,16 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 ## World-Specific Navigation
 
 ### Aquabyssos Campaign
-- **Core Locations**: [[Abyssos Prime]], [[Port Meridian]], [[The Memory Meadows]]
-- **Key Organizations**: [[Parliament of Echoes]], [[Silverscale Consortium]], [[The Shadow Surgeons]]
-- **Major NPCs**: [[Emperor Thalassius]], [[Marina Red Tide Coralheart]], [[Vex Shadowthorn]]
-- **Core Mechanics**: [[Pressure Adaptation System]], [[Memory Tide Navigation]], [[Shadow Separation Mechanics]]
+- **Core Locations**: [[02_Worldbuilding/Places/Abyssos Prime]], [[02_Worldbuilding/Places/Port Meridian]], [[02_Worldbuilding/Places/The Memory Meadows]]
+- **Key Organizations**: [[02_Worldbuilding/Places/Parliament of Echoes]], [[02_Worldbuilding/Groups/Silverscale Consortium]], [[02_Worldbuilding/People/The Shadow Surgeons]]
+- **Major NPCs**: [[02_Worldbuilding/People/Emperor Thalassius]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marina Red Tide Coralheart]], [[02_Worldbuilding/People/Vex Shadowthorn]]
+- **Core Mechanics**: [[02_Worldbuilding/Lore/Pressure Adaptation System]], [[03_Mechanics/Memory Tide Navigation]], [[03_Mechanics/Shadow Separation Mechanics]]
 
 ### Aethermoor Campaign
-- **Core Locations**: [[Aethermoor]], [[Lumengarde]], [[Crystal Gardens]]
-- **Key Organizations**: [[The Crystal Wardens]], [[The Harmony Collective]], [[The Verdant Accord]]
-- **Major NPCs**: [[Queen Seraphina Lumengarde]], [[The Deep Mother]], [[The Bloodline Carrier]]
-- **Core Mechanics**: [[Crystal Plague Mechanics]], [[Dual World Mechanics]], [[Bloodline Awakening Powers]]
+- **Core Locations**: [[02_Worldbuilding/Places/Aethermoor]], [[02_Worldbuilding/Places/Lumengarde]], [[02_Worldbuilding/Places/Crystal Gardens]]
+- **Key Organizations**: [[02_Worldbuilding/Places/The Crystal Wardens]], [[02_Worldbuilding/People/The Harmony Collective]], [[02_Worldbuilding/People/The Verdant Accord]]
+- **Major NPCs**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]], [[02_Worldbuilding/People/The Bloodline Carrier]]
+- **Core Mechanics**: [[03_Mechanics/Crystal Plague Mechanics]], [[03_Mechanics/Dual World Mechanics]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bloodline Awakening Powers]]
 
 ## Quick Access Tools
 
@@ -87,15 +91,15 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 - Find by type: `type:"location"`, `type:"npc"`, `type:"quest"`
 
 ### Content Creation
-- [[Create New Location]] - Template for new location entries
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Create New Location]] - Template for new location entries
 - [[Create New NPC]] - Template for new character profiles
-- [[Create New Session]] - Session planning and note templates
-- [[Session Planning Guide]] - GM preparation workflows
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Create New Session]] - Session planning and note templates
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Planning Guide]] - GM preparation workflows
 
 ### Data Visualization
 - [[Relationship_Web.canvas|Relationship Web.canvas]] - Visual faction and character connections
-- [[Continental Connections Map]] - Geographic relationship mapping
-- [[Faction Relationship Tracker]] - Organizational standing matrix
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Continental Connections Map]] - Geographic relationship mapping
+- [[03_Mechanics/Faction Relationship Tracker]] - Organizational standing matrix
 
 ---
 

@@ -41,10 +41,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen|02 Worldbuilding/Places/Lady Vivienne The Unfrozen]]
+- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
 
 
 ## Connections
 
-- [[Lady Vivienne the Unfrozen]]
-- [[Teacher Miranda Hopekeeper]]
+- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
+- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]

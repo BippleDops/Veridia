@@ -785,7 +785,7 @@ Various cults worshipping the ancient entity in the deepest trenches. Each inter
 
 ## Connections
 
-- [[Quick_Start_Guide|Quick Start Guide]]
+- [[vault_backup_20250813_073007/07_Player_Resources/Quick Start Guide]]
 
 ## Player-Facing Summary
 

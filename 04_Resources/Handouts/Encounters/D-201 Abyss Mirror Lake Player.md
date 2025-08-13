@@ -3,16 +3,20 @@ audience: player
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - campaign/session
+- complete
 - handout
+- lore
 - status/complete
 - world/aquabyssos
 - world/both
 title: Player Handout — D-201 Abyss Mirror Lake
 type: Lore
-updated: '2025-08-12T23:37:41.222387'
+updated: '2025-08-13T12:34:32.394810+00:00'
 world: Both
 ---
+
 
 
 # Abyss Mirror Lake
@@ -34,4 +38,4 @@ Possible outcomes
 
 ## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01|06 GM Resources/Session Packets/Aquabyssos Session 01]]
+- [[vault_backup_20250813_073007/06_GM_Resources/Session_Packets/Aquabyssos Session 01]]

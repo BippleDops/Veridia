@@ -38,7 +38,7 @@ world: Both
 - Fail: Stall; Structure Save DC 17 or 2d6; +2 Stress
 
 ## Integrations
-- [[Complete Pressure Adaptation System]]; maintenance economy; stealth implications
+- [[03_Mechanics/Complete Pressure Adaptation System]]; maintenance economy; stealth implications
 
 ## Scaling
 - Hadal: DCs +2; add Sanity DC 14 if shadow echoes present

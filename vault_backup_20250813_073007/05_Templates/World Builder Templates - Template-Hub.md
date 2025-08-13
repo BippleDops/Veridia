@@ -186,7 +186,7 @@ This is the town description.
 // 1) Hub’s vault-relative path
 const hubPath = dv.current().file.path;
 
-// 2) Helper to extract the path from a "[[path|alias]]" entry
+// 2) Helper to extract the path from a "[[vault_backup_20250813_073007/02_Worldbuilding/Lore/path]]" entry
 function extractPaths(mc) {
   if (!mc) return [];
   const arr = Array.isArray(mc) ? mc : [mc];
@@ -260,11 +260,11 @@ Make notes of what you need to track in the town here.
 %% For every other hub/location that you would like to see travel time to, add a line in the table and replicate the format provided. Change the Town name and link it to that towns note and then change the 88 in the formula to match the distance in miles to that place. Use a Leaflet map to measure the distance. %%
 
 `VIEW[{Travel Calculator#HoursPerDay}][math]` hrs per day
-[[Travel Calculator]]  / [[Exhaustion]] Level: `VIEW[{Travel Calculator#ExhaustionLevel}][math]`
+[[02_Worldbuilding/Lore/Travel Calculator]]  / [[02_Worldbuilding/Lore/Exhaustion]] Level: `VIEW[{Travel Calculator#ExhaustionLevel}][math]`
 
 | Destination |  Travel Days  |
 | ---|---|
-| [[02_Worldbuilding/Lore/Next Town B|02 Worldbuilding/Lore/Next Town B]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
+| [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Next Town B]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
 | [[Next Town B ]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`
 
 # CAMPING 

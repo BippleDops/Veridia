@@ -41,10 +41,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Azure Citadel|02 Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
 
 
 ## Connections
 
-- [[Azure Citadel]]
-- [[The Gilded Shard]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/The Gilded Shard]]

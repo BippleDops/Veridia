@@ -19,20 +19,20 @@ world: Both
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Bone Colosseum|02 Worldbuilding/Places/The Bone Colosseum]]
+- [[02_Worldbuilding/Places/The Bone Colosseum]]
 
 
 ## Connections
 
-- [[Shadow Independence Levels]]
-- [[The Whisper Syndicate]]
-- [[Captain Lyanna Brightshield]]
-- [[High Priestess Celeste Dawnbringer]]
-- [[Lord Commander Gareth Steelborn]]
-- [[Vex Shadowthorn's Apprentices]]
-- [[Vex Shadowthorn]]
-- [[Crystalhaven]]
-- [[The Bone Colosseum]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- [[02_Worldbuilding/People/Vex Shadowthorn's Apprentices]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/Places/The Bone Colosseum]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -42,6 +42,50 @@ Marcus "The Shade" Blackwood is a undersea element of the setting, known for bio
 ## Lore Details
 
 Legends speak of Marcus "The Shade" Blackwood as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marcus "The Shade" Blackwood.
+
+
+## Location & Movement
+
+# Cross-References's location and movement patterns reflect their role as a leader, with established routines and predictable presence in key locations.
+
+### Primary Location
+**Headquarters/Throne Room/Office** - Main base of operations
+- Typically found here during scheduled/formal occasions
+- Movement style: accompanied by retinue, formal protocols
+
+### Secondary Locations
+**Meeting Halls** - Regular destination 1
+**Ceremonial Spaces** - Regular destination 2
+
+### Daily Schedule
+
+**Dawn**: Quiet Work
+**Morning**: Meetings
+**Midday**: Peak Activity
+**Afternoon**: Appointments
+**Evening**: Relaxation
+**Night**: Private Time
+
+### Movement Patterns
+
+**Travel Frequency**: Scheduled/Formal Occasions
+**Movement Style**: Accompanied By Retinue, Formal Protocols
+**Predictability**: Regular patterns with occasional variations
+**Accessibility**: Varies by location and circumstances
+
+### Encounter Likelihood
+
+**Primary Location**: High probability during business hours
+**Secondary Locations**: Medium probability during specific activities
+**Travel Routes**: Low probability, but possible during transitions
+**Random Encounters**: Very low probability in unexpected locations
+
+### Special Circumstances
+
+**Seasonal Variations**: Schedule may change with events or seasons
+**Emergency Protocols**: Alternative locations during crises
+**Social Events**: May be found at community gatherings
+**Private Time**: Limited access during personal hours
 
 ## Adventure Hooks
 

@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
+- complete
 - content/lore
 - content/npc
+- lore
 - status/in-progress
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.047464'
+updated: '2025-08-13T12:34:28.828871+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -41,11 +45,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Crown|02 Worldbuilding/Groups/The Crown]]
+- [[02_Worldbuilding/Groups/The Crown]]
 
 
 ## Connections
 
-- [[The Crown]]
-- [[The Senator]]
-- [[The Siren]]
+- [[02_Worldbuilding/Groups/The Crown]]
+- [[02_Worldbuilding/People/The Senator]]
+- [[02_Worldbuilding/People/The Siren]]

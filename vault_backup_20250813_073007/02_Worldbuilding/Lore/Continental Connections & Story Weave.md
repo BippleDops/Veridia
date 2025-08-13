@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.914354'
+updated: '2025-08-13T12:34:28.687005+00:00'
 world: Both
 ---
+
 
 
 
@@ -20,10 +24,10 @@ world: Both
 
 ## Connections
 
-- [[Corallion]]
-- [[Vorthak]]
-- [[Tenebrarum]]
-- [[Crystallium]]
+- [[02_Worldbuilding/Lore/Corallion]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vorthak]]
+- [[02_Worldbuilding/People/Tenebrarum]]
+- [[02_Worldbuilding/Places/Crystallium]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

@@ -4,6 +4,7 @@ tags:
 - completed
 - crystal
 - crystal-research-facility
+- draft
 - facility
 - location
 - research
@@ -26,8 +27,9 @@ created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:27.757107+00:00'
 ---
+
 
 
 > [!figure] View

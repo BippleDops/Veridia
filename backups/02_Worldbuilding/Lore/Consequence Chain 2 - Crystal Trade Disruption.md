@@ -29,16 +29,16 @@ primary_sessions:
 - Witnessed and investigated the Silverscale flagship 'Golden Promise' explosion in Port Meridian harbor
 - Raided the Silverscale Banking House emergency vault during Crimson Hand operation
 - Recovered critical documents exposing cross-realm excavation operations
-- Confronted [[Director Hadrian Silverscale]] and chose to expose rather than accept bribes
-- Defeated [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] and discovered connection to Aquabyssos entities
+- Confronted [[02_Worldbuilding/Lore/Director Hadrian Silverscale]] and chose to expose rather than accept bribes
+- Defeated [[02_Worldbuilding/People/Vex Shadowthorn]] and discovered connection to Aquabyssos entities
 - Revealed Silverscale's illegal excavation of Aquabyssos ruins for profit
 
 **Who was directly affected:**
-- **[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]**: Core operations exposed, leadership under investigation
-- **[[Director Hadrian Silverscale]]**: Public reputation destroyed, criminal charges pending
-- **[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]**: Identity as Depth Guard revealed, becomes key witness
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Authority challenged by corporate overreach
-- **[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]**: Operations disrupted, forced underground
+- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Core operations exposed, leadership under investigation
+- **[[02_Worldbuilding/Lore/Director Hadrian Silverscale]]**: Public reputation destroyed, criminal charges pending
+- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]**: Identity as Depth Guard revealed, becomes key witness
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Authority challenged by corporate overreach
+- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Operations disrupted, forced underground
 - **Nobles with Silverscale debts**: Financial leverage exposed, political autonomy threatened
 
 **Immediate visible results:**
@@ -63,7 +63,7 @@ primary_sessions:
 - **Emergency Corporate Regulation Act** passed within two weeks
 - **Royal Asset Seizure Decree** allowed Crown to freeze Consortium holdings
 - **Parliamentary Investigation Committee** formed with expanded powers
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]** gained popular support for anti-corruption stance
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** gained popular support for anti-corruption stance
 - **Noble debt restructuring**: Crown mediated debt forgiveness for cooperation
 - **Diplomatic crisis**: Aquabyssos demanded reparations for grave robbery
 
@@ -85,10 +85,10 @@ primary_sessions:
 ## Secondary Ripples (Weeks/Months)
 
 **Faction realignments:**
-- **[[02_Worldbuilding/Groups/The Crown|02 Worldbuilding/Groups/The Crown]]** authority strengthened through popular anti-corporate campaign
+- **[[02_Worldbuilding/Groups/The Crown]]** authority strengthened through popular anti-corporate campaign
 - **Independent Merchant Guilds** formed alliance to fill Silverscale's market position
-- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]** influence increased as "honest advisor" vs corporate corruption
-- **[[Noble Houses]]** split between Consortium loyalists and Crown supporters
+- **[[02_Worldbuilding/People/The Crimson Sage]]** influence increased as "honest advisor" vs corporate corruption
+- **[[02_Worldbuilding/Places/Noble Houses]]** split between Consortium loyalists and Crown supporters
 - **[[Workers' Liberation Movement]]** emerged from ex-Consortium employee organizing
 - **[[02_Worldbuilding/Lore/Depth Guard|02 Worldbuilding/Lore/Depth Guard]]** officially recognized as diplomatic liaison with Aquabyssos
 
@@ -179,7 +179,7 @@ primary_sessions:
 
 ### Links to Other Major Events
 - **[[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's Depth Guard status legitimized cross-realm cooperation
-- **[[02_Worldbuilding/Lore/Crystal Plague Origins|02 Worldbuilding/Lore/Crystal Plague Origins]]**: Democratized research accelerated plague treatment development
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Plague Origins]]**: Democratized research accelerated plague treatment development
 - **[[Cross-realm diplomatic relations]]**: Economic cooperation laid foundation for political alliance
 - **[[Worker organization movements]]**: Labor solidarity spread to other realms
 
@@ -204,10 +204,10 @@ primary_sessions:
 
 ## Cross-References
 
-- [[Campaign Consequence Tracking Framework]]
-- [[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Consequence Tracking Framework]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium]]
 - [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
-- [[02_Worldbuilding/Lore/The Silverscale Conspiracy|02 Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[Economic History of the Realms]]
-- [[02_Worldbuilding/People/Director Hadrian Silverscale|02 Worldbuilding/People/Director Hadrian Silverscale]]
-- [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Economic History of the Realms]]
+- [[02_Worldbuilding/Lore/Director Hadrian Silverscale]]
+- [[02_Worldbuilding/Places/Port Meridian]]

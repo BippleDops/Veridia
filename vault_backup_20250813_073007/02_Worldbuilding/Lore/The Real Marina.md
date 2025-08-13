@@ -2,39 +2,43 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.324264'
+updated: '2025-08-13T12:34:29.070033+00:00'
 world: Both
 ---
 
 
 
 
+
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]
 
 
 ## Connections
 
-- [[Crystal Festival Grounds]]
-- [[Crystal Garden]]
-- [[Customs House]]
-- [[Memory Alteration Consequences]]
-- [[Merged Reality Zones]]
-- [[The Convergence Point]]
-- [[The Crimson Hand]]
-- [[The Forgetting Bomb]]
-- [[The Great Crystallization]]
-- [[The Queen]]
-- [[The Transformed Citizens]]
-- [[Throne Room]]
-- [[Timeline of the Drowning]]
-- [[Aboleth Prime Yoth]]
-- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival Grounds]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Garden]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Customs House]]
+- [[02_Worldbuilding/Lore/Memory Alteration Consequences]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
+- [[02_Worldbuilding/Lore/The Forgetting Bomb]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Queen]]
+- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[02_Worldbuilding/Lore/Throne Room]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
+- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
 
 ## Player-Facing Summary
 

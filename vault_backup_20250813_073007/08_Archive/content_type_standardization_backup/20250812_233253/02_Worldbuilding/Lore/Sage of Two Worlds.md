@@ -1,6 +1,7 @@
 ---
 tags:
 - active
+- complete
 - dimensional threshold (both realms)
 - dimensional-threshold-(both-realms)
 - location
@@ -9,8 +10,9 @@ type: Lore
 world: Dimensional Threshold (Both Realms)
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.925205+00:00'
+updated: '2025-08-13T12:34:27.081476+00:00'
 ---
+
 
 
 

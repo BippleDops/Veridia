@@ -38,7 +38,7 @@ world: Both
 - Fail: Chart drinks a minor personal memory (player chooses category)
 
 ## Integrations
-- [[Memory Trading Economy System|Memory Economy]]; [[Sanity System]]
+- [[Memory Trading Economy System|Memory Economy]]; [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]
 
 ## Quick-Run
 - INT→Sanity→award chart or extract memory

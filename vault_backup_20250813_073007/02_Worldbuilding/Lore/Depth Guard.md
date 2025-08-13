@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/npc
+- lore
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.816964'
+updated: '2025-08-13T12:34:28.587079+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -41,10 +45,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Senator's Private Chambers|02 Worldbuilding/Places/Senator's Private Chambers]]
+- [[02_Worldbuilding/Places/Senator's Private Chambers]]
 
 
 ## Connections
 
-- [[Marina Red Tide Coralheart - Aquabyssos]]
-- [[Senator's Private Chambers]]
+- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
+- [[02_Worldbuilding/Places/Senator's Private Chambers]]

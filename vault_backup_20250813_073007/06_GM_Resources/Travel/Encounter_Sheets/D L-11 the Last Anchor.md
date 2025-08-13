@@ -40,7 +40,7 @@ world: Both
 - Fail: Collapse; survival arc begins; redraw safe lanes
 
 ## Integrations
-- [[Complete Reality Merger System]]; anchors inventory; faction politics
+- [[03_Mechanics/Complete Reality Merger System]]; anchors inventory; faction politics
 
 ## Quick-Run
 - Anchorite→Engineer; apply state; choose consequence arc

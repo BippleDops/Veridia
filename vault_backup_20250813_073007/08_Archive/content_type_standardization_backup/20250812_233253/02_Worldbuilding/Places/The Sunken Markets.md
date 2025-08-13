@@ -2,18 +2,23 @@
 tags:
 - active
 - both
+- complete
 - location
 - mysterious
 - port-meridian
 - trade
 - underwater
 type: Location
-region: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] Harbor District'
+region: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
+  Harbor District'
 danger_level: Moderate
 notable_npcs:
-- '[[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain Thaddeus Blackwater]]'
-- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]]'
-- '[[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan Ironledger III]]'
+- '[[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain
+  Thaddeus Blackwater]]'
+- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador
+  Nerida Deepcurrent]]'
+- '[[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan
+  Ironledger III]]'
 connected_locations:
 - '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
 - '[[Aquabyssos]]'
@@ -23,10 +28,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:36.465080+00:00'
+updated: '2025-08-13T12:34:27.648582+00:00'
 created: '2025-08-11'
 status: complete
 ---
+
 
 
 

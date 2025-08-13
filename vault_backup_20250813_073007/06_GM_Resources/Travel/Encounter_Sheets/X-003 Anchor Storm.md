@@ -37,7 +37,7 @@ world: Both
 - Fail: Integrity -1; one short-term madness
 
 ## Integrations
-- [[Complete Reality Merger System]]; [[Sanity System]]; faction doctrines
+- [[03_Mechanics/Complete Reality Merger System]]; [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]; faction doctrines
 
 ## Quick-Run
 - Roll three checks; set Integrity; adjust next encounters accordingly

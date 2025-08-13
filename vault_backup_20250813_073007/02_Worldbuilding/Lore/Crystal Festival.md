@@ -2,46 +2,50 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.621406'
+updated: '2025-08-13T12:34:29.299299+00:00'
 world: Both
 ---
 
 
 
 
+
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual|02 Worldbuilding/Quests/Stop The Crystal Festival Ritual]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
 
 
 ## Connections
 
-- [[Crystal Cult Initiates Ambush]]
-- [[Crystal Festival Grounds]]
-- [[Crystal Forest]]
-- [[Crystal Garden]]
-- [[Crystal Mimics]]
-- [[Dawn-Echo Sentinel]]
-- [[Memory Alteration Consequences]]
-- [[The Convergence Point]]
-- [[The Crimson Hand]]
-- [[The Crystal Festival Grounds]]
-- [[The Seven Shards]]
-- [[The Silverscale Conspiracy]]
-- [[Umbral Exchange]]
-- [[United Councils of Both Worlds]]
-- [[Commander Thrace Ironwood]]
-- [[Aethermoor]]
-- [[Aether Crystals]]
-- [[Crystalline Depths]]
-- [[Rescue Senator Glaucus]]
-- [[Stop the Crystal Festival Ritual]]
-- [[The Maw of Darkness]]
-- [[Traveling Merchant Finn]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Cult Initiates Ambush]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival Grounds]]
+- [[02_Worldbuilding/Lore/Crystal Forest]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Garden]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Mimics]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dawn-Echo Sentinel]]
+- [[02_Worldbuilding/Lore/Memory Alteration Consequences]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Festival Grounds]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[02_Worldbuilding/Lore/Umbral Exchange]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]]
+- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Crystalline Depths]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Traveling Merchant Finn]]
 - [[Aethermoor - Session 07 The Festival of Transformation]]
 
 ## Player-Facing Summary

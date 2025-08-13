@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.861939'
+updated: '2025-08-13T12:34:28.621239+00:00'
 world: Both
 ---
+
 
 
 
@@ -20,14 +24,14 @@ world: Both
 
 ## Connections
 
-- [[Master Artificers Guild]]
-- [[Crystal-Corruption-Tracking-Sheet]]
-- [[Eastern Kingdom]]
-- [[Resonance Peaks]]
-- [[The Possessed Queen]]
-- [[United Councils of Both Worlds]]
-- [[Aethermoor]]
-- [[Royal Palace]]
+- [[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
+- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
+- [[02_Worldbuilding/Lore/Eastern Kingdom]]
+- [[02_Worldbuilding/Lore/Resonance Peaks]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Possessed Queen]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Royal Palace]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

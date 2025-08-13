@@ -3,21 +3,22 @@ created: '2025-08-11'
 realm: Generic
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - generators
+- lore
 - random
 - status/in-progress
 - tables
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:41.258207'
+updated: '2025-08-13T12:34:32.395385+00:00'
 world: Both
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.470772
 ---
-
-
-
-
-
 # 🎲 Encounter & Loot Generators
 
 ## Encounters (d100)
@@ -57,11 +58,11 @@ Roll: `dice: 1d20|Undersea Encounter`
 | d20 | Result |
 |-----|--------|
 | 1 | Luminous kelp forest; foraging test yields `dice: 1d4|1=None,2=Herbs,3=Pearls,4=Rare Coral` |
-| 2 | Patrol of [[01_Campaigns/Aquabyssos/Factions/The Pearl Guard|01 Campaigns/Aquabyssos/Factions/The Pearl Guard]] |
+| 2 | Patrol of [[02_Worldbuilding/People/The Pearl Guard]] |
 | 3 | Migrating manta shoal; stealth test to avoid startling |
 | 4 | Abandoned depth-harvester; salvage `dice: 2d6*10|Scrap (gp)` |
 | 5 | Memory tide eddies; Wis save or relive past session |
-| 6 | [[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]] scouts |
+| 6 | [[02_Worldbuilding/People/Senator Glaucus]] scouts |
 | 7 | Void seep; environmental hazard (necrotic trickle) |
 | 8 | Traders from Abyssos Prime; rumor table |
 | 9 | Deep Mother cult sign; leads to side quest |
@@ -86,7 +87,7 @@ Roll: `dice: 1d12|Urban Event`
 | 2 | Patrol questions strangers about recent theft |
 | 3 | Merchant caravan sale; 10% discount on common goods |
 | 4 | Noble procession blocks main road |
-| 5 | Rumor surge about [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] docks |
+| 5 | Rumor surge about [[02_Worldbuilding/Places/Port Meridian]] docks |
 | 6 | Guild recruitment drive; offers quest hook |
 | 7 | Sudden storm; disadvantage on ranged until cleared |
 | 8 | Festival lottery; `dice: 1d6|1-3 Nothing,4 Trinket,5 Tool,6 Potion` |
@@ -104,4 +105,27 @@ Party level modifier: `dice: 2d6*{level}|Parcel (gp)`
 ## Notes
 - Use alongside `Item_Catalog.base` for ownership assignment.
 - For underwater/urban variants, adapt tables by realm.
+
+
+## Faction Relationships
+
+### Network Position
+**Direct Connections**: 0 faction relationships
+**Network Influence**: 0 degrees of separation reach
+**Relationship Complexity**: Low
+
+### Key Relationships
+
+
+### Relationship Dynamics
+- **Alliance Potential**: Opportunities for cooperation and mutual benefit
+- **Conflict Risk**: Areas of potential disagreement or competition  
+- **Neutral Interactions**: Routine diplomatic and trade relationships
+- **Unknown Factors**: Relationships requiring further investigation
+
+### Network Strategy
+**Expansion Opportunities**: Potential new alliances and partnerships
+**Risk Management**: Monitoring threats and hostile relationships
+**Influence Maximization**: Leveraging relationships for faction goals
+**Diplomatic Priorities**: Key relationships requiring attention
 

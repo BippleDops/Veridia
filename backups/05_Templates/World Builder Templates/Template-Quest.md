@@ -191,6 +191,29 @@ Legends speak of Template Quest as a nexus where past and present converge. Loca
 - An NPC seeks discreet help at Template Quest to avert a public scandal.
 - A map overlay reveals a hidden approach to Template Quest active only during specific tides/storms.
 
+
+## World Integration
+
+### Connected Elements
+
+**Involved NPCs**: 0 character connections identified
+
+**Affected Locations**: 1 location connections identified
+
+### Campaign Impact
+
+**Immediate Effects**: Quest outcomes directly influence connected NPCs and locations
+**Long-term Consequences**: Resolution shapes ongoing relationships and world state
+**Reputation Changes**: Character actions affect standing with involved factions
+
+### Integration Tracking
+
+- [ ] Update NPC relationships based on quest interactions
+- [ ] Modify location descriptions to reflect quest outcomes
+- [ ] Adjust faction standings according to player choices
+- [ ] Document timeline changes resulting from quest resolution
+
+
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.

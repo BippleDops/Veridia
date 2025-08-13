@@ -5,6 +5,7 @@ status: complete
 tags:
 - active
 - aquabyssos
+- complete
 - lore
 - parliament-shadows
 - session
@@ -19,11 +20,13 @@ depth: 1500
 locations_visited:
 - '[[Abyssos Prime - Pressure Terminal]]'
 - '[[Throne of Bubbles]]'
-- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]]'
 - '[[Inverted Ballroom Wing]]'
 npcs_met:
 - '[[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]'
-- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'
+- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered
+  Emperor]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
 - '[[Pressure Tube Operator Krill]]'
 encounters:
@@ -52,9 +55,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: '2025-08-13T01:18:37.180787+00:00'
+updated: '2025-08-13T12:34:28.480218+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

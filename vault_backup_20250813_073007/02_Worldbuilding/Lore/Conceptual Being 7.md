@@ -2,25 +2,29 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.259705'
+updated: '2025-08-13T12:34:28.942352+00:00'
 world: Both
 ---
 
 
 
 
+
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Parliament of Nobody|02 Worldbuilding/Groups/The Parliament Of Nobody]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
 
 
 ## Connections
 
-- [[The Parliament of Nobody]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
 
 ## Player-Facing Summary
 

@@ -5,18 +5,18 @@ created: '2025-08-11'
 date_played: null
 estimated_time: 4 hours
 level: 5
-location: '[[Crystal Festival Grounds]]'
+location: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival Grounds]]'
 npcs_featured:
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
-- '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[Brother Marcus Steelbane]]'
-- '[[Citizens of Meridian]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Vex Shadowthorn]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Brother Marcus Steelbane]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Citizens of Meridian]]'
 obsidianUIMode: preview
 quests_advanced:
 - '[[Stop the Crystal Festival Ritual]]'
-- '[[Save the Citizens]]'
-- '[[Confront the Possessed Queen]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Save the Citizens]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Confront the Possessed Queen]]'
 session_number: 7
 status: complete
 tags:
@@ -59,11 +59,11 @@ The festival grounds pulse with violet energy. Thousands of citizens stand in co
 - **Location**: Mid-festival grounds
 - **Situation**: Transformed nobles serve as ritual anchors
 - **Conflict**: Must disrupt anchors without killing innocents
-- **Discovery**: [[Brother Marcus Steelbane]], partially conscious, provides crucial help
+- **Discovery**: [[02_Worldbuilding/People/Brother Marcus Steelbane]], partially conscious, provides crucial help
 
 ### Scene 3: The Inner Sanctum
 - **Location**: Central ritual platform
-- **Situation**: Confront [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] and the possessed Queen
+- **Situation**: Confront [[02_Worldbuilding/People/Vex Shadowthorn]] and the possessed Queen
 - **Conflict**: Multiple objectives - save Queen, stop ritual, protect citizens
 - **Discovery**: The Queen is fighting to give the party openings
 
@@ -78,13 +78,13 @@ The festival grounds pulse with violet energy. Thousands of citizens stand in co
 1. The ritual can be partially redirected rather than stopped
 2. Citizens in the outer rings can still be saved
 3. The Queen's consciousness is strongest near her sister's artifacts
-4. [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] has been promised rulership of the new world
+4. [[02_Worldbuilding/People/Vex Shadowthorn]] has been promised rulership of the new world
 5. The entity needs willing participation from the bloodline
 6. Festival decorations hide ancient protective wards
-7. [[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]] has the Queen's true crown
+7. [[02_Worldbuilding/People/Captain Lyanna Brightshield]] has the Queen's true crown
 8. The transformation can be reversed within the first hour
 9. Breaking three anchor points destabilizes everything
-10. [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] prepared a contingency inside the bloodline carrier
+10. [[02_Worldbuilding/People/The Crimson Sage]] prepared a contingency inside the bloodline carrier
 
 ## 👥 NPCs
 
@@ -138,14 +138,14 @@ The festival grounds pulse with violet energy. Thousands of citizens stand in co
 
 ## 🎭 Cliffhanger Ending
 
-As the bloodline carrier makes their choice, the ritual reaches critical mass. The sky shatters completely, revealing [[Aquabyssos]] descending from above like an inverted city. Water doesn't fall - it hangs in massive spheres. The entity's true form begins manifesting: a colossal crystalline figure made of thousands of absorbed souls. [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] appears, burning with silver fire: "Now! While the barriers are weak! We can rewrite reality itself, but someone must anchor the new world order. Someone must become the seal." The bloodline carrier feels their body beginning to resonate with all seven shards.
+As the bloodline carrier makes their choice, the ritual reaches critical mass. The sky shatters completely, revealing [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] descending from above like an inverted city. Water doesn't fall - it hangs in massive spheres. The entity's true form begins manifesting: a colossal crystalline figure made of thousands of absorbed souls. [[02_Worldbuilding/People/The Crimson Sage]] appears, burning with silver fire: "Now! While the barriers are weak! We can rewrite reality itself, but someone must anchor the new world order. Someone must become the seal." The bloodline carrier feels their body beginning to resonate with all seven shards.
 
 ## 🔗 Connected Notes
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 - [[Crystal Festival]]
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview|02 Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
 
 ## 📝 DM Notes
 ```
@@ -174,4 +174,4 @@ Environmental Effects:
 
 ## Connections
 
-- [[Brother Marcus Steelbane]]
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]]

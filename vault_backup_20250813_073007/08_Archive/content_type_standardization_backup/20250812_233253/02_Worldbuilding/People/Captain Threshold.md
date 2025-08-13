@@ -3,13 +3,15 @@ tags:
 - active
 - both aethermoor & aquabyssos
 - both-aethermoor-&-aquabyssos
+- complete
 - npc
 type: NPC
 world: Both Aethermoor & Aquabyssos
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.926623+00:00'
+updated: '2025-08-13T12:34:28.219977+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-threshold-captain-threshold.svg)

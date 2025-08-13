@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.018151'
+updated: '2025-08-13T12:34:28.773766+00:00'
 world: Both
 ---
+
 
 
 
@@ -20,9 +24,9 @@ world: Both
 
 ## Connections
 
-- [[Kraken Territories]]
-- [[The Bloom Fields]]
-- [[Aethermoor]]
+- [[02_Worldbuilding/Lore/Kraken Territories]]
+- [[02_Worldbuilding/Lore/The Bloom Fields]]
+- [[02_Worldbuilding/Places/Aethermoor]]
 
 ## Player-Facing Summary
 

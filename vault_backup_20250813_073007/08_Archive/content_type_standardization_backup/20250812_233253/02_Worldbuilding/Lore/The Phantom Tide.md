@@ -2,14 +2,16 @@
 tags:
 - active
 - aquabyssos
+- complete
 - equipment_set
 - lore
 type: Lore
 world: Aquabyssos
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:34.841023+00:00'
+updated: '2025-08-13T12:34:25.785490+00:00'
 ---
+
 
 
 

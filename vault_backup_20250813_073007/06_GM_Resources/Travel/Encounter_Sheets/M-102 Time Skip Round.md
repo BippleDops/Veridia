@@ -38,7 +38,7 @@ world: Both
 - Fail: One role loses its action to the skip
 
 ## Integrations
-- [[Complete_Temporal_Mechanics_System|Complete Temporal Mechanics System]]; [[Sanity System]]
+- [[vault_backup_20250813_073007/03_Mechanics/Complete Temporal Mechanics System]]; [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]
 
 ## Quick-Run
 - Sanity→Tactics→assign extra/lost action

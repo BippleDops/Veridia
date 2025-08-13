@@ -3,18 +3,22 @@ audience: player
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - campaign/session
+- complete
 - handout
+- lore
 - status/complete
 - world/aquabyssos
 - world/both
 title: Player Handout — D-019 Oracle Whale
 type: Lore
-updated: '2025-08-12T23:37:41.224895'
+updated: '2025-08-13T12:34:32.389764+00:00'
 world: Both
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.470362
 ---
-
-
 # Oracle Whale
 
 A song like a mountain moves through you. Meanings hang in the water, waiting to be understood.
@@ -35,4 +39,4 @@ Possible outcomes
 
 ## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01|06 GM Resources/Session Packets/Aquabyssos Session 01]]
+- [[vault_backup_20250813_073007/06_GM_Resources/Session_Packets/Aquabyssos Session 01]]

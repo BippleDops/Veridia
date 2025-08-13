@@ -42,11 +42,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Sundering|02 Worldbuilding/Lore/The Sundering]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sundering]]
 
 
 ## Connections
 
-- [[The Sundering]]
-- [[Abyssos Prime - Inverse Palace]]
-- [[The Pressure Conspiracy]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sundering]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [[02_Worldbuilding/Places/The Pressure Conspiracy]]

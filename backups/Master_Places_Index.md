@@ -15,10 +15,10 @@ total_locations: 248
 type: Lore
 updated: '2025-08-12T23:37:32.987604'
 world: Universal
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.495071
 ---
-
-
-
 # Master Places Index
 *Comprehensive Directory of All Locations in Aquabyssos & Aethermoor*
 
@@ -45,7 +45,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 ### Tier 1 Cities (Population 100,000+)
 *Major metropolitan areas and seats of power*
 
-#### **[[Port Meridian]]** - The Golden Gateway
+#### **[[02_Worldbuilding/Places/Port Meridian]]** - The Golden Gateway
 - **World**: Aethermoor
 - **Population**: 275,000
 - **Type**: Major Trading Port
@@ -56,7 +56,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Key NPCs**: Admiral Cassandra Stormwind, Lord Aurelius Goldwave
 - **Active Conflicts**: Crystal corruption, smuggling rings
 
-#### **[[Abyssos Prime]]** - The Drowned Capital
+#### **[[02_Worldbuilding/Places/Abyssos Prime]]** - The Drowned Capital
 - **World**: Aquabyssos  
 - **Population**: 180,000
 - **Type**: Underwater Capital City
@@ -67,7 +67,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Key NPCs**: Emperor Thalassius, Senator Glaucus
 - **Active Conflicts**: Shadow conspiracy, political corruption
 
-#### **[[Crystalhaven]]** - The Crystal Throne
+#### **[[02_Worldbuilding/Places/Crystalhaven]]** - The Crystal Throne
 - **World**: Aethermoor
 - **Population**: 150,000
 - **Type**: Royal Capital
@@ -81,7 +81,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 ### Tier 2 Cities (Population 25,000-100,000)
 *Regional capitals and major trade centers*
 
-#### **[[New Thalassopolis]]** - The Risen City
+#### **[[02_Worldbuilding/Places/New Thalassopolis]]** - The Risen City
 - **World**: Aquabyssos
 - **Population**: 85,000  
 - **Type**: Rebuilt Coastal City
@@ -92,7 +92,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Key NPCs**: Mayor Thompson, Memory Merchant Valeria
 - **Active Conflicts**: Memory corruption, historical secrets
 
-#### **[[Goldspire Port]]** - The Trade Confederacy
+#### **[[02_Worldbuilding/Places/Goldspire Port]]** - The Trade Confederacy
 - **World**: Aethermoor
 - **Population**: 62,000
 - **Type**: Independent Trading City
@@ -103,7 +103,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Key NPCs**: Merchant Lord Silas Copperfield, Harbor Master Luna
 - **Active Conflicts**: Trade disputes, piracy
 
-#### **[[Ironhold]]** - The Mountain Fortress
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Ironhold]]** - The Mountain Fortress
 - **World**: Aethermoor
 - **Population**: 45,000
 - **Type**: Mountain Fortress City
@@ -114,7 +114,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Key NPCs**: Forge Master Petra Hammerdeep, Commander Drake Pressureborn
 - **Active Conflicts**: Mining disputes, underground threats
 
-#### **[[Sylvanheart]]** - The Forest Capital
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Sylvanheart]]** - The Forest Capital
 - **World**: Aethermoor
 - **Population**: 38,000
 - **Type**: Elven Tree City
@@ -128,7 +128,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 ### Tier 3 Settlements (Population 5,000-25,000)
 *Towns, outposts, and specialized settlements*
 
-#### **[[Lumengarde]]** - The Royal Retreat
+#### **[[02_Worldbuilding/Places/Lumengarde]]** - The Royal Retreat
 - **World**: Aethermoor
 - **Population**: 18,000
 - **Type**: Royal Summer Palace City
@@ -139,7 +139,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Key NPCs**: Royal staff, noble families
 - **Active Conflicts**: Succession questions, noble politics
 
-#### **[[Nereidios]]** - The Floating Markets
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Nereidios]]** - The Floating Markets
 - **World**: Aquabyssos
 - **Population**: 12,000
 - **Type**: Floating Trading Post
@@ -156,7 +156,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### Major Fortifications
 
-#### **[[The Lighthouse of Storms]]** - Ancient Beacon
+#### **[[02_Worldbuilding/Lore/The Lighthouse of Storms]]** - Ancient Beacon
 - **World**: Aethermoor  
 - **Type**: Mystical Lighthouse/Fortress
 - **Danger Level**: High
@@ -166,7 +166,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Guardians**: Lighthouse Keeper (immortal), Storm Elementals
 - **Secrets**: Connection to seven shards, reality manipulation
 
-#### **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - The Inverted Throne
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]** - The Inverted Throne
 - **World**: Aquabyssos
 - **Type**: Underwater Palace Complex
 - **Danger Level**: Very High
@@ -176,7 +176,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Guardians**: Palace Guard, Pressure Angels
 - **Secrets**: Ancient tunnels, hidden throne room
 
-#### **[[Azure Citadel]]** - The Sky Fortress
+#### **[[02_Worldbuilding/Places/Azure Citadel]]** - The Sky Fortress
 - **World**: Aethermoor
 - **Type**: Floating Military Base
 - **Danger Level**: High
@@ -188,7 +188,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### Government Buildings
 
-#### **[[Parliament of Echoes]]** - The Governing Chamber
+#### **[[02_Worldbuilding/Places/Parliament of Echoes]]** - The Governing Chamber
 - **World**: Aquabyssos
 - **Type**: Legislative Complex
 - **Danger Level**: High (Political)
@@ -198,7 +198,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Key Areas**: Public Gallery, Shadow Chamber, Vote Vaults
 - **Active Conflicts**: Shadow conspiracy, corruption investigation
 
-#### **[[Royal Palace of Meridian]]** - Administrative Center
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Palace of Meridian]]** - Administrative Center
 - **World**: Aethermoor  
 - **Type**: Royal Government Complex
 - **Danger Level**: Moderate
@@ -214,7 +214,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### Major Temples
 
-#### **[[Temple of the First Tide]]** - Origin Shrine
+#### **[[02_Worldbuilding/Lore/Temple of the First Tide]]** - Origin Shrine
 - **World**: Aquabyssos
 - **Type**: Ancient Religious Complex
 - **Danger Level**: High
@@ -224,7 +224,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Clergy**: High Priest Dagon Deepcaller, Temple Guardians
 - **Mysteries**: First drowning events, divine connections
 
-#### **[[Cathedral of Light]]** - The Radiant Spire
+#### **[[02_Worldbuilding/Places/Cathedral of Light]]** - The Radiant Spire
 - **World**: Aethermoor
 - **Type**: Major Cathedral
 - **Danger Level**: Low-Moderate
@@ -234,7 +234,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Clergy**: High Priestess Celeste Dawnbringer, Brother Marcus
 - **Services**: Healing, blessing, corruption cleansing
 
-#### **[[Church of the Tidal Throne]]** - Royal Religion
+#### **[[02_Worldbuilding/Places/Church of the Tidal Throne]]** - Royal Religion
 - **World**: Aquabyssos
 - **Type**: State Religious Complex  
 - **Danger Level**: Moderate
@@ -246,7 +246,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### Cultural Centers
 
-#### **[[Gallery of Frozen Waves]]** - Memory Museum
+#### **[[02_Worldbuilding/Places/Gallery of Frozen Waves]]** - Memory Museum
 - **World**: Aquabyssos
 - **Type**: Cultural Museum/Memory Archive
 - **Danger Level**: High (Memory Effects)
@@ -256,7 +256,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Curators**: Archivist Mnemonic, Memory Farmers
 - **Dangers**: Memory corruption, false memories
 
-#### **[[Screaming Gardens]]** - Meditation Sanctuary
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Screaming Gardens]]** - Meditation Sanctuary
 - **World**: Aquabyssos
 - **Type**: Mystical Garden Complex
 - **Danger Level**: High
@@ -272,7 +272,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### Major Markets
 
-#### **[[The Umbral Exchange]]** - Shadow Market
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Umbral Exchange]]** - Shadow Market
 - **World**: Aquabyssos
 - **Type**: Illegal Trading Complex
 - **Danger Level**: Very High
@@ -282,7 +282,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Controllers**: The Shadow Trade Network, criminal syndicates
 - **Services**: Illegal goods, forbidden services, information
 
-#### **[[Memory Meadows Black Market]]** - Mind Trade
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Meadows Black Market]]** - Mind Trade
 - **World**: Aquabyssos  
 - **Type**: Memory Trading Market
 - **Danger Level**: High
@@ -292,7 +292,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Traders**: Memory Farmers, consciousness merchants
 - **Dangers**: Memory loss, identity theft, madness
 
-#### **[[Market Square]]** (Port Meridian) - Legal Commerce
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Market Square]]** (Port Meridian) - Legal Commerce
 - **World**: Aethermoor
 - **Type**: Major Commercial District
 - **Danger Level**: Low-Moderate
@@ -304,7 +304,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### Trading Posts
 
-#### **[[Pressure Terminal]]** - Deep Transit Hub
+#### **[[02_Worldbuilding/Places/Pressure Terminal]]** - Deep Transit Hub
 - **World**: Aquabyssos
 - **Type**: Transportation/Trading Center
 - **Danger Level**: High
@@ -314,7 +314,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Services**: Pressure adaptation, deep transport, emergency medical
 - **Hazards**: Pressure malfunction, depth sickness
 
-#### **[[The Floating Markets of Nereidios]]** - Mobile Commerce
+#### **[[02_Worldbuilding/Places/The Floating Markets of Nereidios]]** - Mobile Commerce
 - **World**: Aquabyssos
 - **Type**: Floating Market Complex
 - **Danger Level**: Moderate
@@ -330,7 +330,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### Mystical Sites
 
-#### **[[The Bloom Fields]]** - Mystical Gardens
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bloom Fields]]** - Mystical Gardens
 - **World**: Aquabyssos
 - **Type**: Magical Natural Area
 - **Danger Level**: High
@@ -340,7 +340,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Guardians**: Plant creatures, reality distortions
 - **Effects**: Time dilation, reality shifts, magical enhancement
 
-#### **[[Crystal Gardens]]** - Mineral Forest
+#### **[[02_Worldbuilding/Places/Crystal Gardens]]** - Mineral Forest
 - **World**: Aethermoor
 - **Type**: Crystal Formation Complex
 - **Danger Level**: High
@@ -362,7 +362,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### Geographical Features
 
-#### **[[Kraken Territories]]** - Deep Ocean Regions
+#### **[[02_Worldbuilding/Lore/Kraken Territories]]** - Deep Ocean Regions
 - **World**: Aquabyssos
 - **Type**: Deep Ocean Territory
 - **Danger Level**: Extreme
@@ -388,7 +388,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### Deep Locations
 
-#### **[[The Mourning Depths]]** - Abyssal Territories  
+#### **[[02_Worldbuilding/Places/The Mourning Depths]]** - Abyssal Territories  
 - **World**: Aquabyssos
 - **Type**: Extreme Deep Ocean
 - **Danger Level**: Extreme
@@ -398,7 +398,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Inhabitants**: Aboleth, ancient horrors, void entities
 - **Hazards**: Extreme pressure, madness effects, reality tears
 
-#### **[[Ancient Tunnels Beneath Palace]]** - Royal Underground
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]** - Royal Underground
 - **World**: Aquabyssos
 - **Type**: Underground Complex
 - **Danger Level**: High
@@ -408,7 +408,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Secrets**: Hidden treasures, escape routes, ancient vaults
 - **Inhabitants**: Palace guards, ancient constructs
 
-#### **[[Forge of War]]** - Deep Foundry
+#### **[[02_Worldbuilding/Places/Forge of War]]** - Deep Foundry
 - **World**: Aquabyssos
 - **Type**: Military Production Facility  
 - **Danger Level**: High
@@ -420,7 +420,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### Aquatic Environments
 
-#### **[[Coral Courts]]** - Living Architecture
+#### **[[02_Worldbuilding/Places/Coral Courts]]** - Living Architecture
 - **World**: Aquabyssos
 - **Type**: Coral City District
 - **Danger Level**: Moderate
@@ -430,7 +430,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Inhabitants**: Coral-adapted citizens, sea creatures
 - **Features**: Self-repairing buildings, integrated ecosystems
 
-#### **[[Hidden Smuggler's Cove]]** - Secret Harbor
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Hidden Smuggler's Cove]]** - Secret Harbor
 - **World**: Aquabyssos
 - **Type**: Concealed Harbor
 - **Danger Level**: High
@@ -446,7 +446,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### High-Risk Zones
 
-#### **[[The Void Touched Depths]]** - Corrupted Territory
+#### **[[02_Worldbuilding/Places/The Void Touched Depths]]** - Corrupted Territory
 - **World**: Aquabyssos
 - **Type**: Magically Corrupted Zone
 - **Danger Level**: Extreme
@@ -456,7 +456,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Inhabitants**: Void creatures, corrupted beings, reality fragments
 - **Hazards**: Reality tears, void corruption, madness effects
 
-#### **[[Reflection Pools - Surgical Theater]]** - Horror Complex
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]** - Horror Complex
 - **World**: Aquabyssos  
 - **Type**: Shadow Surgery Facility
 - **Danger Level**: Extreme
@@ -468,7 +468,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### Monster Lairs
 
-#### **[[The Shrinking Sanctuary]]** - Reality Lair
+#### **[[02_Worldbuilding/Places/The Shrinking Sanctuary]]** - Reality Lair
 - **World**: Aquabyssos
 - **Type**: Dimensional Anomaly
 - **Danger Level**: Very High
@@ -478,7 +478,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Effects**: Size changes, spatial distortion, reality confusion
 - **Inhabitants**: Dimensionally-affected creatures
 
-#### **[[The Living Weapon]]** - Sentient Arsenal
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Living Weapon]]** - Sentient Arsenal
 - **World**: Aquabyssos
 - **Type**: Magical Construct Facility
 - **Danger Level**: Very High
@@ -494,7 +494,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### Reality Intersection Points
 
-#### **[[Merged Reality Zones]]** - World Convergence
+#### **[[02_Worldbuilding/Lore/Merged Reality Zones]]** - World Convergence
 - **Worlds**: Both Aquabyssos & Aethermoor
 - **Type**: Dimensional Overlap
 - **Danger Level**: Extreme
@@ -516,7 +516,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 
 ### Shared Historical Sites
 
-#### **[[Ancient Siege Tunnels]]** - Historical Battleground
+#### **[[02_Worldbuilding/Lore/Ancient Siege Tunnels]]** - Historical Battleground
 - **Worlds**: References in both worlds
 - **Type**: Military Archaeological Site
 - **Danger Level**: High
@@ -534,10 +534,10 @@ This comprehensive index organizes all 248 completed locations across both campa
 *Safe introduction to campaign worlds*
 
 #### Recommended Starting Locations:
-- **[[Port Meridian]]** (Harbor District) - Urban adventures, low-risk exploration
-- **[[Sylvanheart]]** (Outskirts) - Nature encounters, friendly NPCs
-- **[[Goldspire Port]]** (Market Areas) - Trade missions, social encounters
-- **[[Nereidios]]** (Floating Markets) - Maritime adventures, merchant interactions
+- **[[02_Worldbuilding/Places/Port Meridian]]** (Harbor District) - Urban adventures, low-risk exploration
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Sylvanheart]]** (Outskirts) - Nature encounters, friendly NPCs
+- **[[02_Worldbuilding/Places/Goldspire Port]]** (Market Areas) - Trade missions, social encounters
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Nereidios]]** (Floating Markets) - Maritime adventures, merchant interactions
 
 #### Adventure Types:
 - Merchant escort missions
@@ -550,10 +550,10 @@ This comprehensive index organizes all 248 completed locations across both campa
 *Expanding horizons and increasing challenges*
 
 #### Recommended Locations:
-- **[[Crystalhaven]]** (Public Areas) - Political missions, moderate challenges
-- **[[New Thalassopolis]]** (Memorial Districts) - Mystery investigations
-- **[[Ironhold]]** (Mining Districts) - Underground exploration
-- **[[Abyssos Prime]]** (Upper Districts) - Political intrigue introduction
+- **[[02_Worldbuilding/Places/Crystalhaven]]** (Public Areas) - Political missions, moderate challenges
+- **[[02_Worldbuilding/Places/New Thalassopolis]]** (Memorial Districts) - Mystery investigations
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Ironhold]]** (Mining Districts) - Underground exploration
+- **[[02_Worldbuilding/Places/Abyssos Prime]]** (Upper Districts) - Political intrigue introduction
 
 #### Adventure Types:
 - Political intrigue missions
@@ -566,10 +566,10 @@ This comprehensive index organizes all 248 completed locations across both campa
 *High-stakes adventures with serious consequences*
 
 #### Recommended Locations:
-- **[[Parliament of Echoes]]** (Shadow Chamber) - High-level political intrigue
-- **[[The Umbral Exchange]]** - Criminal underworld infiltration
-- **[[Temple of the First Tide]]** - Ancient mysteries and divine magic
-- **[[Gallery of Frozen Waves]]** - Memory-based horror and investigation
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]** (Shadow Chamber) - High-level political intrigue
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Umbral Exchange]]** - Criminal underworld infiltration
+- **[[02_Worldbuilding/Lore/Temple of the First Tide]]** - Ancient mysteries and divine magic
+- **[[02_Worldbuilding/Places/Gallery of Frozen Waves]]** - Memory-based horror and investigation
 
 #### Adventure Types:
 - Major conspiracy investigations
@@ -582,10 +582,10 @@ This comprehensive index organizes all 248 completed locations across both campa
 *Campaign-defining moments and world-shaking events*
 
 #### Recommended Locations:  
-- **[[The Lighthouse of Storms]]** - Reality-altering artifacts
-- **[[The Mourning Depths]]** - Ultimate exploration challenges
-- **[[Kraken Territories]]** - Legendary creature encounters
-- **[[Merged Reality Zones]]** - Cross-campaign epic conclusions
+- **[[02_Worldbuilding/Lore/The Lighthouse of Storms]]** - Reality-altering artifacts
+- **[[02_Worldbuilding/Places/The Mourning Depths]]** - Ultimate exploration challenges
+- **[[02_Worldbuilding/Lore/Kraken Territories]]** - Legendary creature encounters
+- **[[02_Worldbuilding/Lore/Merged Reality Zones]]** - Cross-campaign epic conclusions
 
 #### Adventure Types:
 - World-saving missions
@@ -773,7 +773,7 @@ All locations connect to:
 - **[[Master_People_Index|Master People Index]]** - Complete NPC and character directory  
 - **[[Master_Groups_Index|Master Groups Index]]** - Faction and organization reference
 - **[[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]** - Cross-category connection mapping
-- **[[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]** - Session-ready reference materials
+- **[[vault_backup_20250813_073007/Campaign Quick Reference Sheets]]** - Session-ready reference materials
 
 ---
 

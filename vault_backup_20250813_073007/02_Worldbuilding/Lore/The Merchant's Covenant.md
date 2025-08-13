@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
 - campaign/arc
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.996830'
+updated: '2025-08-13T12:34:28.755372+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -42,11 +46,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius|02 Worldbuilding/Places/The Sunken Library Of Thalassius]]
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
 
 
 ## Connections
 
-- [[Angels and Depths]]
-- [[Maelstrom Palace]]
-- [[The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[02_Worldbuilding/Places/Maelstrom Palace]]
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]

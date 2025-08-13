@@ -39,7 +39,7 @@ world: Both
 - Fail: Mutinous faction forms; immediate crew conflict scene
 
 ## Integrations
-- Faction; crew cohesion; [[Sanity System]]
+- Faction; crew cohesion; [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]
 
 ## Quick-Run
 - Social→Law→Sanity; apply command boon/penalty

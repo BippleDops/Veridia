@@ -7,6 +7,7 @@ tags:
 - completed
 - diplomacy
 - diplomatic-corps
+- draft
 - faction
 - lore
 - politics
@@ -16,9 +17,12 @@ status: draft
 world: Both Aethermoor and Aquabyssos
 type: Lore
 danger_level: 4
-headquarters: '[[02_Worldbuilding/Places/The Embassy Quarter|02 Worldbuilding/Places/The Embassy Quarter]]'
-parent_organization: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
-leader: '[[02_Worldbuilding/People/Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]]'
+headquarters: '[[02_Worldbuilding/Places/The Embassy Quarter|02 Worldbuilding/Places/The
+  Embassy Quarter]]'
+parent_organization: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]]'
+leader: '[[02_Worldbuilding/People/Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador
+  Korvin Blacktide]]'
 specialties:
 - Inter-realm Diplomacy
 - Cultural Translation
@@ -26,12 +30,14 @@ specialties:
 - Crisis Management
 founded: After the Great Drowning
 created: '2025-08-09'
-updated: '2025-08-13T01:18:34.530639+00:00'
+updated: '2025-08-13T12:34:25.390008+00:00'
 related_entities:
 - '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
-- '[[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties|02 Worldbuilding/Lore/Aquabyssos Aethermoor Treaties]]'
+- '[[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties|02 Worldbuilding/Lore/Aquabyssos
+  Aethermoor Treaties]]'
 - '[[02_Worldbuilding/Groups/Surface Syndicate|02 Worldbuilding/Groups/Surface Syndicate]]'
 ---
+
 
 
 

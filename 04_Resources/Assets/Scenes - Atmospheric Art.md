@@ -1,8 +1,94 @@
+
+## Consequence Chains
+
+The actions and decisions involving Scene-Setting Atmospheric Art Prompts create cascading effects across multiple levels of society and time.
+
+### Immediate Consequences
+*minutes to hours - direct participants and witnesses*
+
+- **Direct Impact**: Communication networks adapt to new information
+- **Direct Impact**: Regional leaders take emergency or opportunistic actions
+
+*often reversible with quick action*
+
+### Short-term Consequences
+*days to months - extended networks and communities*
+
+- **Extended Impact**: Transportation infrastructure develops or deteriorates
+- **Extended Impact**: Economic specialization patterns shift geographically
+
+*difficult but possible to reverse*
+
+### Long-term Consequences
+*years to decades - entire societies and future generations*
+
+- **Lasting Impact**: Regional identity and character permanently shaped
+- **Lasting Impact**: Historical significance establishes lasting legacy
+
+*permanent or requiring massive effort to change*
+
+### Butterfly Effect Potential
+
+**Small personal choice with unexpectedly large consequences**
+
+*Example Multiplier*: Brief delay preventing or enabling major event
+
+### Consequence Tracking
+
+**Status Monitoring**: Track immediate visible effects and stakeholder reactions
+**Network Analysis**: Monitor how effects spread through relationship networks
+**Timeline Tracking**: Record when different consequence levels manifest
+**Mitigation Options**: Identify intervention points where consequences can be modified
+**Amplification Factors**: Recognize conditions that might intensify effects
+
 ---
 type: Lore
 status: draft
 created: '2024-01-01'
 updated: '2024-01-01T00:00:00+00:00'
+
+## Consequence Chains
+
+The actions and decisions involving Scene-Setting Atmospheric Art Prompts create cascading effects across multiple levels of society and time.
+
+### Immediate Consequences
+*minutes to hours - direct participants and witnesses*
+
+- **Direct Impact**: Communication networks adapt to new information
+- **Direct Impact**: Regional leaders take emergency or opportunistic actions
+
+*often reversible with quick action*
+
+### Short-term Consequences
+*days to months - extended networks and communities*
+
+- **Extended Impact**: Transportation infrastructure develops or deteriorates
+- **Extended Impact**: Economic specialization patterns shift geographically
+
+*difficult but possible to reverse*
+
+### Long-term Consequences
+*years to decades - entire societies and future generations*
+
+- **Lasting Impact**: Regional identity and character permanently shaped
+- **Lasting Impact**: Historical significance establishes lasting legacy
+
+*permanent or requiring massive effort to change*
+
+### Butterfly Effect Potential
+
+**Small personal choice with unexpectedly large consequences**
+
+*Example Multiplier*: Brief delay preventing or enabling major event
+
+### Consequence Tracking
+
+**Status Monitoring**: Track immediate visible effects and stakeholder reactions
+**Network Analysis**: Monitor how effects spread through relationship networks
+**Timeline Tracking**: Record when different consequence levels manifest
+**Mitigation Options**: Identify intervention points where consequences can be modified
+**Amplification Factors**: Recognize conditions that might intensify effects
+
 ---
 
 # Scene-Setting Atmospheric Art Prompts

@@ -2,14 +2,16 @@
 tags:
 - active
 - aquabyssos
+- complete
 - lore
 - royal-palace
 type: Lore
 world: Aquabyssos
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.294901+00:00'
+updated: '2025-08-13T12:34:26.279698+00:00'
 ---
+
 
 
 

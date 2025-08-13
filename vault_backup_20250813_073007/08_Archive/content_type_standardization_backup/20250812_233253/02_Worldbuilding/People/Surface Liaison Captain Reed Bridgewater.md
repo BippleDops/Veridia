@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.967695+00:00'
+updated: '2025-08-13T12:34:28.255880+00:00'
 world: Both
 type: NPC
 status: complete
 tags:
 - active
 - both
+- complete
 - npc
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-surface-liaison-captain-reed-bridgewater-surface-liaison-captain-reed-bridgewater.svg)

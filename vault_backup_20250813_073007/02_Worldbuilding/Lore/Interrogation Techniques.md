@@ -3,17 +3,21 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - interrogation
 - law-enforcement
+- lore
 - mechanics/exploration
 - status/complete
 - techniques
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.646529'
+updated: '2025-08-13T12:34:29.349202+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -51,13 +55,13 @@ Provides framework for investigation scenes and adds realism to law enforcement 
 
 ## Connections
 
-- [[Evidence Chain Analysis]]
-- [[Evidence Types Guide]]
-- [[Silver Mask]]
-- [[The Deep Mother]]
-- [[The Restoration Movement]]
-- [[The Seven Shards]]
-- [[The Silverscale Conspiracy]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[02_Worldbuilding/Lore/Evidence Types Guide]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 

@@ -23,7 +23,7 @@ world: Both
 
 # Depth Events Pack D — Faction Spotlight (24)
 
-Each event is tuned to a doctrine. Use with [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]], [[Complete Pressure Adaptation System]], [[Sanity System]], [[Complete Reality Merger System]], [[Memory Trading Economy System|Memory Economy]], and [[Complete Faction Warfare System]].
+Each event is tuned to a doctrine. Use with [[vault_backup_20250813_073007/03_Mechanics/Vehicles - Vehicle Core Rules]], [[03_Mechanics/Complete Pressure Adaptation System]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]], [[03_Mechanics/Complete Reality Merger System]], [[Memory Trading Economy System|Memory Economy]], and [[03_Mechanics/Complete Faction Warfare System]].
 
 ---
 

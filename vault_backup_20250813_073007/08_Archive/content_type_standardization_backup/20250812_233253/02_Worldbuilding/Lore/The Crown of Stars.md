@@ -4,6 +4,7 @@ tags:
 - celestial_power
 - completed
 - convergence
+- draft
 - dual
 - dual_world
 - legendary_artifact
@@ -26,9 +27,10 @@ themes:
 - stellar_alignment
 - dual_world_sovereignty
 - price_of_power
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:26.483954+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

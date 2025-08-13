@@ -20,10 +20,10 @@ tags:
 
 ## Connections
 
-- [[Corallion]]
+- [[02_Worldbuilding/Lore/Corallion]]
 - [[Vorthak]]
-- [[Tenebrarum]]
-- [[Crystallium]]
+- [[02_Worldbuilding/People/Tenebrarum]]
+- [[02_Worldbuilding/Places/Crystallium]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

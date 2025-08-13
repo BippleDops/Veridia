@@ -20,11 +20,11 @@ tags:
 
 ## Connections
 
-- [[Discover Marina's Truth]]
-- [[Goldspire Confederacy]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Goldspire Confederacy]]
 - [[Quest - The Pretender's Crown]]
 - [[The Crown's Burden]]
-- [[Tradeway Road]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Tradeway Road]]
 
 ## Player-Facing Summary
 

@@ -2,6 +2,7 @@
 tags:
 - active
 - aethermoor
+- complete
 - crystal-plague
 - lore
 - session
@@ -19,9 +20,11 @@ locations_visited:
 - '[[Harbor District Customs House]]'
 - '[[Lamplight Alley]]'
 npcs_met:
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]'
-- "[[02_Worldbuilding/Lore/Dock Worker Toma\u0301s|Dock Worker Tom\xE1s]]"
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina
+  Red Tide Coralheart]]'
+- '[[02_Worldbuilding/Lore/Dock Worker Tomás|Dock Worker Tomás]]'
 - '[[Brother Marcus Steelbane]]'
 encounters:
 - '[[Crystal Cult Initiates Ambush]]'
@@ -49,10 +52,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-13T01:18:37.162857+00:00'
+updated: '2025-08-13T12:34:28.437702+00:00'
 created: '2025-08-11'
 status: complete
 ---
+
 
 
 

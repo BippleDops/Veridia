@@ -1,31 +1,15 @@
 ---
-tags:
-- active - category/people
-- active
-status: draft
----category/people
-- both
-- conflicted
-- knight
-- npc
-- order-shattered-crown
-- veteran
-alignment: Lawful Neutral
-race: Human
-class: Paladin/Fighter
-level: 10
-location:
-- - 02_Worldbuilding/Places/Crystalhaven
-faction: Order of the Shattered Crown
-status: Active - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+created: null
+updated: '2025-08-13T12:34:28.164356+00:00'
 world: Both
-updated: '2025-08-13T01:18:36.870336+00:00'
-created: 2025-08-11
 type: NPC
+status: active
+tags:
+- active
+- both
+- npc
 ---
+
 
 
 

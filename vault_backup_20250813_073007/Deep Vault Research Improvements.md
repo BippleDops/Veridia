@@ -237,8 +237,8 @@ System Components:
 
 #### Relationship-Aware Linking
 ```
-Standard Link: [[Queen Seraphina]]
-Enhanced Link: [[Queen Seraphina|as royal authority figure]]
+Standard Link: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]]
+Enhanced Link: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]]
 Context Tags: #royal-authority #corruption-secret #aethermoor-politics
 ```
 

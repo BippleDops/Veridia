@@ -5,6 +5,7 @@ tags:
 - active
 - both
 - category/item
+- complete
 - lore
 obsidianUIMode: preview
 aliases:
@@ -14,11 +15,12 @@ Connected_Quests:
 Connected_Groups:
 - '[[05_Templates/World Builder Templates/Template-Group.md|Template-Group]]'
 world: Both
-updated: '2025-08-13T01:18:31.186927+00:00'
+updated: '2025-08-13T12:34:25.284447+00:00'
 created: '2025-08-11'
 status: complete
 type: Lore
 ---
+
 
 
 

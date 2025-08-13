@@ -2,6 +2,7 @@
 tags:
 - active
 - both
+- complete
 - investigation
 - lore
 - player-resource
@@ -13,9 +14,10 @@ location: Abyssos Prime
 spoiler_level: Mixed truth and lies
 created: '2025-08-07'
 world: Both
-updated: '2025-08-13T01:18:37.211947+00:00'
+updated: '2025-08-13T12:34:28.490884+00:00'
 status: complete
 ---
+
 
 
 

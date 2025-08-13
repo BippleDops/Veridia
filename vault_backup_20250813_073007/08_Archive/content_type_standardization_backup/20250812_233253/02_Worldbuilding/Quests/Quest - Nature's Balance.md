@@ -4,6 +4,7 @@ tags:
 - balance
 - both
 - both-realms
+- complete
 - elemental
 - environmental
 - lore
@@ -19,13 +20,14 @@ rewards: Legendary Items, Realm Stability, Nature's Blessing
 time_limit: 30 days before irreversible damage
 created_by: system
 created: '2025-08-08'
-updated: '2025-08-13T01:18:34.495040+00:00'
+updated: '2025-08-13T12:34:25.357988+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 status: complete
 type: Lore
 ---
+
 
 
 

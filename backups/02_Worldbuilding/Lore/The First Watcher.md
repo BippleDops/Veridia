@@ -48,5 +48,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[The Void Watchers]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Void Watchers]]
 - [[Quest - The Convergence Crisis]]

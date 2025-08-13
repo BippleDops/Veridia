@@ -37,7 +37,7 @@ world: Both
 - Fail: Fight; injury 1d6; paradox mark (narrative)
 
 ## Integrations
-- [[Sanity System]]; [[Memory Trading Economy System|Memory Economy]] for divergent memories
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]; [[Memory Trading Economy System|Memory Economy]] for divergent memories
 
 ## Quick-Run
 - Sanity check; decide to isolate or integrate; roleplay hearing conflicting memories

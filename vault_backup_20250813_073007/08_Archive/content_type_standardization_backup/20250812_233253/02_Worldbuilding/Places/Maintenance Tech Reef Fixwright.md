@@ -2,14 +2,16 @@
 tags:
 - active
 - aethermoor
+- complete
 - location
 type: Location
 world: Aethermoor
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.961241+00:00'
+updated: '2025-08-13T12:34:27.121131+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-maintenance-tech-reef-fixwright-maintenance-tech-reef-fixwright.svg)

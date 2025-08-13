@@ -2,13 +2,15 @@
 tags:
 - active
 - both
+- complete
 - npc
 type: NPC
 world: Both
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:37.081540+00:00'
+updated: '2025-08-13T12:34:28.380448+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-ice-kingdom-magic-ice-kingdom-magic.svg)

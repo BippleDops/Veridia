@@ -40,7 +40,7 @@ world: Both
 - Fail: Short-term madness; refuse to harvest
 
 ## Integrations
-- [[Sanity System]]; [[Crafting Transcendence]]; lore hooks
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]; [[03_Mechanics/Crafting Transcendence]]; lore hooks
 
 ## Quick-Run
 - Sanity→Harvest→apply morale or rewards

@@ -3,13 +3,15 @@ tags:
 - active
 - aquabyssos
 - character
+- complete
 - lore
 type: Lore
 world: Aquabyssos
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:34.769702+00:00'
+updated: '2025-08-13T12:34:25.677016+00:00'
 ---
+
 
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-military-intelligence-military-intelligence.svg)

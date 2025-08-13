@@ -9,8 +9,11 @@ status: complete
 tags:
 - abjuration
 - banishment
+- both worlds
+- complete
 - content/lore
 - content/mechanics
+- lore
 - mechanics/magic
 - protection
 - status/complete
@@ -19,9 +22,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.872119'
+updated: '2025-08-13T12:34:28.822818+00:00'
 world: Both Worlds
 ---
+
 
 
 
@@ -32,17 +36,17 @@ world: Both Worlds
 *The Art of Protection, Banishment, and Magical Barriers*
 
 > *"In the crushing depths where existence itself is an act of defiance against the void, abjuration becomes not merely protective magic but the very foundation of civilization. Every barrier we raise, every ward we weave, is a declaration that mortal will can stand against cosmic indifference."*
-> — [[Arcane Protector Thalassa Shieldweave]], Master of Defensive Arts at the [[Institute of Aquatic Mysticism]]
+> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Arcane Protector Thalassa Shieldweave]], Master of Defensive Arts at the [[Institute of Aquatic Mysticism]]
 
 ## Overview
 
-Abjuration represents one of the most essential and widely practiced schools of magic across both [[Aethermoor]] and [[Aquabyssos]], encompassing the arts of protection, banishment, and magical barrier creation. In underwater civilizations where pressure, void influence, and cosmic forces constantly threaten mortal existence, abjuration has evolved far beyond simple defensive casting to become a sophisticated system of reality stabilization and consciousness protection.
+Abjuration represents one of the most essential and widely practiced schools of magic across both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], encompassing the arts of protection, banishment, and magical barrier creation. In underwater civilizations where pressure, void influence, and cosmic forces constantly threaten mortal existence, abjuration has evolved far beyond simple defensive casting to become a sophisticated system of reality stabilization and consciousness protection.
 
 The school's principles center on the manipulation of magical forces to create barriers, dispel unwanted effects, and banish harmful entities or influences. Abjuration magic operates through the fundamental understanding that magical energy can be shaped into protective patterns that resist external forces, whether physical, magical, or psychological in nature.
 
-In [[Aquabyssos]], abjuration has developed unique characteristics due to the environment's extreme conditions and proximity to cosmic forces. Practitioners have created specialized techniques for pressure protection, void resistance, and corruption prevention that have no equivalents in surface magic traditions. These innovations have made [[Aquabyssos]] abjuration magic among the most sophisticated and powerful protective systems known to mortal civilization.
+In [[02_Worldbuilding/Places/Aquabyssos]], abjuration has developed unique characteristics due to the environment's extreme conditions and proximity to cosmic forces. Practitioners have created specialized techniques for pressure protection, void resistance, and corruption prevention that have no equivalents in surface magic traditions. These innovations have made [[02_Worldbuilding/Places/Aquabyssos]] abjuration magic among the most sophisticated and powerful protective systems known to mortal civilization.
 
-The school serves multiple vital functions in underwater society: protecting cities from crushing ocean pressure, shielding citizens from corruption exposure, maintaining barriers against hostile entities, and creating safe spaces where normal life can continue despite surrounding dangers. Without the constant application of abjuration magic, neither [[Aquabyssos]] nor its surface ally [[Aethermoor]] could survive the cosmic threats that define their worlds.
+The school serves multiple vital functions in underwater society: protecting cities from crushing ocean pressure, shielding citizens from corruption exposure, maintaining barriers against hostile entities, and creating safe spaces where normal life can continue despite surrounding dangers. Without the constant application of abjuration magic, neither [[02_Worldbuilding/Places/Aquabyssos]] nor its surface ally [[02_Worldbuilding/Places/Aethermoor]] could survive the cosmic threats that define their worlds.
 
 ## Magical Theory and Principles
 
@@ -60,7 +64,7 @@ Abjuration magic operates on the fundamental principle that magical energy can b
 
 ### Underwater Adaptations
 
-**Pressure Integration**: [[Aquabyssos]] abjuration incorporates ocean pressure as a component of protective barriers, using the natural crushing force of deep water to strengthen magical defenses. This technique creates barriers that become more powerful with increasing depth.
+**Pressure Integration**: [[02_Worldbuilding/Places/Aquabyssos]] abjuration incorporates ocean pressure as a component of protective barriers, using the natural crushing force of deep water to strengthen magical defenses. This technique creates barriers that become more powerful with increasing depth.
 
 **Void Resistance**: Specialized abjuration techniques have been developed to protect against cosmic void influence and corruption exposure. These protections work by creating reality anchors that maintain normal physics and consciousness patterns within protected areas.
 
@@ -216,16 +220,16 @@ Abjuration study follows structured progressions:
 - **Resource Management**: Balancing protective needs with magical energy
 
 ## Connected Magical Systems
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-evocation|02 Worldbuilding/Lore/Ω System CLI Spells School Evocation]] - Complementary offensive magic
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-transmutation|02 Worldbuilding/Lore/Ω System CLI Spells School Transmutation]] - Environmental adaptation spells
-- [[02_Worldbuilding/Lore/Corruption Exposure Tracking|02 Worldbuilding/Lore/Corruption Exposure Tracking]] - Managing supernatural influence
-- [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts requiring specialized protection
-- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos|02 Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Primary threat requiring void defenses
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/System Cli Spells School Evocation]] - Complementary offensive magic
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/System Cli Spells School Transmutation]] - Environmental adaptation spells
+- [[02_Worldbuilding/Lore/Corruption Exposure Tracking]] - Managing supernatural influence
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts requiring specialized protection
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Primary threat requiring void defenses
 
 
 ## Connections
 
-- [[Spell Components]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spell Components]]
 
 ## Player-Facing Summary
 
@@ -249,5 +253,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Spell Components|02 Worldbuilding/Lore/Spell Components]]
-- [[Aethermoor]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spell Components]]
+- [[02_Worldbuilding/Places/Aethermoor]]

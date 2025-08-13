@@ -45,13 +45,13 @@ session_date: <% sessionDate %>
 - [[02_Worldbuilding/Lore/Player 7|02 Worldbuilding/Lore/Player 7]]
 
 ## Quests
-- [[Quest 1]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest 1]]
 
 ## NPCs
-- [[NPC 1]]
+- [[02_Worldbuilding/Lore/NPC 1]]
 
 ## Locations
-- [[02_Worldbuilding/Lore/Location|02 Worldbuilding/Lore/Location]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location]]
 
 ## GM Notes
 

@@ -43,7 +43,7 @@ world: Both
 - Recording sells for 300–800 gp; Memory pearl (Rare) chance 25%
 
 ## Integrations
-- [[Sanity System]]; [[Memory Trading Economy System|Memory Economy]]; Faction eco if poachers
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]; [[Memory Trading Economy System|Memory Economy]]; Faction eco if poachers
 
 ## Scaling
 - In merger, song shifts to cross-world omen; add Reality check

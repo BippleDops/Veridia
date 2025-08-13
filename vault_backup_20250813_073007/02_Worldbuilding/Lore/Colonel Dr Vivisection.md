@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/lore
+- lore
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.761877'
+updated: '2025-08-13T12:34:28.781537+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -41,9 +45,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Shadow Surgeon Strike Team|02 Worldbuilding/Groups/Shadow Surgeon Strike Team]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeon Strike Team]]
 
 
 ## Connections
 
-- [[Shadow Surgeon Strike Team]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeon Strike Team]]

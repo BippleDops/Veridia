@@ -57,13 +57,13 @@ Provides political intrigue, ancient mysteries, and moral complexity around legi
 
 ## Connections
 
-- [[Kraken Territories]]
+- [[02_Worldbuilding/Lore/Kraken Territories]]
 - [[Leviathan Graveyard]]
 - [[Thalassius the Wise]]
 - [[The Deep Mother]]
 - [[The Seven Shards]]
-- [[The Cerulean Trench]]
-- [[The Primordial Vaults]]
+- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/Places/The Primordial Vaults]]
 
 ## Player-Facing Summary
 

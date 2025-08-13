@@ -2,13 +2,15 @@
 tags:
 - active
 - aethermoor
+- complete
 - npc
 type: NPC
 world: Aethermoor
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.872888+00:00'
+updated: '2025-08-13T12:34:28.166882+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lady-crystal-heart-miraleth-lady-crystal-heart-miraleth.svg)

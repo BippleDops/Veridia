@@ -2,6 +2,7 @@
 tags:
 - active
 - aquabyssos
+- complete
 - economics
 - justice
 - lore
@@ -11,8 +12,9 @@ type: Lore
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-13T01:18:34.528258+00:00'
+updated: '2025-08-13T12:34:25.387236+00:00'
 ---
+
 
 
 # Economic Justice Debates

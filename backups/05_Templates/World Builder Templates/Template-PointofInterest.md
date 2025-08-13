@@ -146,11 +146,11 @@ Make notes of what you need to track in the Point of Interest here.
 ## Travel
 
 `VIEW[{Travel Calculator#HoursPerDay}][math]` hrs per day
-[[Travel Calculator]]  / [[Exhaustion]] Level: `VIEW[{Travel Calculator#ExhaustionLevel}][math]`
+[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Travel Calculator]]  / [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Exhaustion]] Level: `VIEW[{Travel Calculator#ExhaustionLevel}][math]`
 
 | Destination |  Travel Days  |
 | ---|---|
-| [[02_Worldbuilding/Lore/Next Town B|02 Worldbuilding/Lore/Next Town B]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
+| [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Next Town B]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
 | [[Next Town B ]] | 🕓: `VIEW[round((99* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`
 
 ## Scene Summary

@@ -40,7 +40,7 @@ initiative: 12
 current_hp: 15
 max_hp: 20
 relationships:
-- target: '[[Captain Garrett Stormcutter]]'
+- target: '[[02_Worldbuilding/People/Captain Garrett Stormcutter]]'
   type: ally
   strength: 3
 world: Both

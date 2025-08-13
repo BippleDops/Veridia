@@ -3,18 +3,22 @@ audience: player
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - handout
+- lore
 - merger
 - status/complete
 - vehicles
 - world/both
 title: Player Handout — Merger Vessels
 type: Lore
-updated: '2025-08-12T23:37:41.213430'
+updated: '2025-08-13T12:34:32.367318+00:00'
 world: Both
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.467097
 ---
-
-
 # Merger Vessels — What Impossible Looks Like
 
 - Time Skipper: Deck clocks run backwards; wake arrives before hull.
@@ -23,8 +27,8 @@ world: Both
 - Paradox Dreadnought: Staircases that disagree; cannons that un-fire.
 - Möbius Ferry: Corridor returns you to yourself; cargo that is you.
 
-These ships demand anchors, charts, and strong minds. Read [[Merger Hybrid Vehicles]] and [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
+These ships demand anchors, charts, and strong minds. Read [[Merger Hybrid Vehicles]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
 
 ## Cross-References
 
-- [[07_Player_Resources/Player_Portal|07 Player Resources/Player Portal]]
+- [[vault_backup_20250813_073007/07_Player_Resources/Player Portal]]

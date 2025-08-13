@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.505305+00:00'
+updated: '2025-08-13T12:34:27.727948+00:00'
 world: Both
 type: Location
 status: complete
 tags:
 - active
 - both
+- complete
 - location
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-intelligence-dealer-echo-whisperwave-intelligence-dealer-echo-whisperwave.svg)

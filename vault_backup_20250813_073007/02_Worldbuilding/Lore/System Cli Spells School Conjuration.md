@@ -7,10 +7,13 @@ practitioners: Summoners, portal mages, creators
 school: Conjuration
 status: complete
 tags:
+- both worlds
+- complete
 - conjuration
 - content/lore
 - content/mechanics
 - creation
+- lore
 - mechanics/magic
 - status/complete
 - summoning
@@ -19,9 +22,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.806265'
+updated: '2025-08-13T12:34:29.239393+00:00'
 world: Both Worlds
 ---
+
 
 
 
@@ -35,13 +39,13 @@ world: Both Worlds
 
 ## Overview
 
-Conjuration represents one of the most versatile and practically essential schools of magic across both [[Aethermoor]] and [[Aquabyssos]], encompassing the arts of summoning, creation, and transportation. In the vast underwater realm where distances are measured in crushing leagues and resources can be scarce, conjuration has evolved into sophisticated systems of logistics, defense, and exploration that enable civilization to thrive in hostile environments.
+Conjuration represents one of the most versatile and practically essential schools of magic across both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], encompassing the arts of summoning, creation, and transportation. In the vast underwater realm where distances are measured in crushing leagues and resources can be scarce, conjuration has evolved into sophisticated systems of logistics, defense, and exploration that enable civilization to thrive in hostile environments.
 
 The school's principles center on the manipulation of space, time, and dimensional barriers to bring forth creatures, objects, and energies from elsewhere, or to create them from magical force. Conjuration operates through the fundamental understanding that reality has gaps and connections that can be exploited by skilled practitioners to transport, summon, or create what is needed.
 
-In [[Aquabyssos]], conjuration has developed unique characteristics due to the three-dimensional nature of underwater space and the proximity to cosmic forces. Practitioners have mastered techniques for summoning creatures adapted to extreme pressure, creating temporary structures that can withstand the crushing depths, and establishing transportation networks that span the ocean's vertical and horizontal dimensions.
+In [[02_Worldbuilding/Places/Aquabyssos]], conjuration has developed unique characteristics due to the three-dimensional nature of underwater space and the proximity to cosmic forces. Practitioners have mastered techniques for summoning creatures adapted to extreme pressure, creating temporary structures that can withstand the crushing depths, and establishing transportation networks that span the ocean's vertical and horizontal dimensions.
 
-The school serves multiple crucial functions in underwater society: supplying remote settlements with necessary resources, summoning aid during emergencies, creating temporary structures for exploration and construction, and establishing communication and transportation links across vast distances. The mastery of conjuration magic has been essential to [[Aquabyssos]]'s expansion and survival in the hostile deep ocean environment.
+The school serves multiple crucial functions in underwater society: supplying remote settlements with necessary resources, summoning aid during emergencies, creating temporary structures for exploration and construction, and establishing communication and transportation links across vast distances. The mastery of conjuration magic has been essential to [[02_Worldbuilding/Places/Aquabyssos]]'s expansion and survival in the hostile deep ocean environment.
 
 Advanced conjuration practitioners can summon beings from other planes of existence, create semi-permanent structures and objects, establish permanent portals between locations, and even briefly manipulate time and space to achieve seemingly impossible logistical feats.
 
@@ -61,13 +65,13 @@ Conjuration magic operates on the fundamental principle that reality contains sp
 
 ### Underwater Adaptations
 
-**Pressure Integration**: [[Aquabyssos]] conjuration incorporates ocean pressure as both a limitation and an enhancement to summoning magic. Creatures summoned from other planes must be adapted to survive crushing depths, while pressure differentials can be used to enhance transportation effects.
+**Pressure Integration**: [[02_Worldbuilding/Places/Aquabyssos]] conjuration incorporates ocean pressure as both a limitation and an enhancement to summoning magic. Creatures summoned from other planes must be adapted to survive crushing depths, while pressure differentials can be used to enhance transportation effects.
 
 **Three-Dimensional Navigation**: Unlike surface conjuration that primarily works in horizontal space, underwater magic has been adapted to function efficiently in full three-dimensional environments where "up" and "down" have crucial importance for survival and navigation.
 
-**Void Resonance**: The proximity to cosmic forces has allowed [[Aquabyssos]] conjurers to establish connections with extraplanar entities that exist in void space, creating unique summoning opportunities but also increased risks of attracting unwanted attention.
+**Void Resonance**: The proximity to cosmic forces has allowed [[02_Worldbuilding/Places/Aquabyssos]] conjurers to establish connections with extraplanar entities that exist in void space, creating unique summoning opportunities but also increased risks of attracting unwanted attention.
 
-**Crystal Network Integration**: Crystalline formations throughout [[Aquabyssos]] can be used as anchor points for conjuration magic, allowing for more stable and long-distance transportation effects and serving as permanent summoning circles for regular use.
+**Crystal Network Integration**: Crystalline formations throughout [[02_Worldbuilding/Places/Aquabyssos]] can be used as anchor points for conjuration magic, allowing for more stable and long-distance transportation effects and serving as permanent summoning circles for regular use.
 
 ### Advanced Applications
 
@@ -180,21 +184,21 @@ Conjuration magic operates on the fundamental principle that reality contains sp
 ## Notable Practitioners and Academies
 
 ### The Deep Current Academy
-Located in the middle depths of [[Aquabyssos]], this institution specializes in advanced conjuration techniques adapted to underwater environments. Students learn to summon and create while managing the complex three-dimensional space and pressure considerations unique to ocean magic.
+Located in the middle depths of [[02_Worldbuilding/Places/Aquabyssos]], this institution specializes in advanced conjuration techniques adapted to underwater environments. Students learn to summon and create while managing the complex three-dimensional space and pressure considerations unique to ocean magic.
 
 **Master Conductor Nereus Voidcaller**: The academy's dean, renowned for establishing the first stable portal network connecting major underwater settlements. His research into void space navigation has opened new possibilities for rapid transportation across cosmic distances.
 
 **Professor Marina Depthweave**: Expert in aquatic summoning who developed the classification system for pressure-adapted creatures. Her work enables reliable summoning of beings capable of surviving at various ocean depths.
 
 ### The Dimensional Research Collective
-A loose organization of conjurers from both [[Aquabyssos]] and [[Aethermoor]] who collaborate on interdimensional research. They maintain laboratories in neutral waters and have established the first permanent embassy spaces with several extraplanar civilizations.
+A loose organization of conjurers from both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] who collaborate on interdimensional research. They maintain laboratories in neutral waters and have established the first permanent embassy spaces with several extraplanar civilizations.
 
 **Archmage Tidal Riftwalker**: Pioneer of void space travel who discovered the crystal network's potential for anchoring permanent portals. His expeditions to cosmic void regions have brought back knowledge of entities and locations beyond normal dimensional reach.
 
 **Senior Researcher Coral Timeweave**: Specialist in temporal conjuration who can summon objects and creatures from different time periods. Her work has provided crucial intelligence about historical events and potential future threats.
 
 ### The Logistics Corps
-Military and civilian organization responsible for maintaining supply lines and transportation networks throughout [[Aquabyssos]]. Their conjurers specialize in practical applications of summoning and creation magic for logistical support.
+Military and civilian organization responsible for maintaining supply lines and transportation networks throughout [[02_Worldbuilding/Places/Aquabyssos]]. Their conjurers specialize in practical applications of summoning and creation magic for logistical support.
 
 **Commander Reef Gatekeeper**: Leader of the portal maintenance division, responsible for keeping the major transportation networks functioning. His teams can rapidly establish new portal connections and repair damaged dimensional anchors.
 
@@ -205,7 +209,7 @@ Military and civilian organization responsible for maintaining supply lines and 
 ### Void Summoning Experiments
 Early attempts to summon entities directly from void space resulted in catastrophic failures that created permanent dimensional scars. These techniques are now forbidden due to the risk of attracting cosmic attention or allowing void corruption to spread through dimensional connections.
 
-**The Great Summoning Disaster**: A historical attempt to summon a void lord to serve as a protector resulted in the creation of the [[Mourning Depths]], a region where reality remains unstable. This event led to strict regulations on cosmic-level conjuration.
+**The Great Summoning Disaster**: A historical attempt to summon a void lord to serve as a protector resulted in the creation of the [[02_Worldbuilding/Places/Mourning Depths]], a region where reality remains unstable. This event led to strict regulations on cosmic-level conjuration.
 
 **Temporal Paradox Summons**: Spells that attempt to summon versions of living people from alternate timelines or different time periods. These are forbidden due to the risk of creating temporal paradoxes or consciousness fragmentation.
 
@@ -214,7 +218,7 @@ Ancient knowledge of permanent object creation that required no ongoing magical 
 
 **Permanent Portal Mastery**: The original techniques for creating completely stable portals that required no maintenance have been lost. Modern portal networks require constant attention from skilled practitioners, while ancient ruins contain portal archways that continue functioning despite millennia of neglect.
 
-**Consciousness Transfer Summoning**: Legendary spells that could summon the consciousness of deceased individuals or transfer living minds between bodies. These techniques were reportedly used during the early history of [[Aquabyssos]] but have been lost to time and regulation.
+**Consciousness Transfer Summoning**: Legendary spells that could summon the consciousness of deceased individuals or transfer living minds between bodies. These techniques were reportedly used during the early history of [[02_Worldbuilding/Places/Aquabyssos]] but have been lost to time and regulation.
 
 ## Campaign Integration
 
@@ -247,10 +251,10 @@ Conjuration magic works synergistically with other magical traditions:
 - **Resource Logistics**: Balancing the convenience of conjuration with magical energy costs
 
 ## Connected Magical Systems
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration|02 Worldbuilding/Lore/Ω System CLI Spells School Abjuration]] - Protective magic for summoning safety
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-divination|02 Worldbuilding/Lore/Ω System CLI Spells School Divination]] - Locating and identifying summoning targets
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/System Cli Spells School Abjuration]] - Protective magic for summoning safety
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/System Cli Spells School Divination]] - Locating and identifying summoning targets
 - [[02_Worldbuilding/Lore/The Crystal Networks|02 Worldbuilding/Lore/The Crystal Networks]] - Anchor points for permanent transportation
-- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos|02 Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Source of void space connections
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Source of void space connections
 - [[02_Worldbuilding/Lore/Deep Current Academy|02 Worldbuilding/Lore/Deep Current Academy]] - Primary institution for conjuration study
 
 ## Player-Facing Summary
@@ -275,10 +279,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-transmutation|02 Worldbuilding/Lore/Ω System CLI Spells School Transmutation]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/System Cli Spells School Transmutation]]
 
 
 ## Connections
 
-- [[Aethermoor]]
-- [[Mourning Depths]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Mourning Depths]]

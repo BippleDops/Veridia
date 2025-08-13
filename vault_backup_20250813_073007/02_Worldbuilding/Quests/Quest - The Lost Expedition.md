@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.751686'
+updated: '2025-08-13T12:34:28.529718+00:00'
 world: Both
 ---
+
 
 
 
@@ -26,9 +30,9 @@ world: Both
 
 ## Quest Summary
 
-The renowned [[Windwright Academy]] sponsored expedition to the mysterious [[Shattered Isles]] has been missing for three months. Led by the famous explorer [[Captain Zara Stormwind]], the expedition was tasked with investigating strange magical phenomena and mapping the treacherous floating island chains of [[Aethermoor]]'s outer reaches. Now, desperate families and the Academy itself seek brave adventurers to discover the fate of the lost expedition and recover their valuable research.
+The renowned [[02_Worldbuilding/Groups/Academies/Windwright Academy]] sponsored expedition to the mysterious [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shattered Isles]] has been missing for three months. Led by the famous explorer [[02_Worldbuilding/People/Captain Zara Stormwind]], the expedition was tasked with investigating strange magical phenomena and mapping the treacherous floating island chains of [[02_Worldbuilding/Places/Aethermoor]]'s outer reaches. Now, desperate families and the Academy itself seek brave adventurers to discover the fate of the lost expedition and recover their valuable research.
 
-The truth is far more complex: the expedition discovered an ancient [[Skyforge]] facility that's slowly corrupting the magical currents of [[Aethermoor]], turning the very air toxic to life. Some expedition members have been transformed by the corrupted magic, while others desperately seek a way to contain the growing threat.
+The truth is far more complex: the expedition discovered an ancient [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Skyforge Compass]] facility that's slowly corrupting the magical currents of [[02_Worldbuilding/Places/Aethermoor]], turning the very air toxic to life. Some expedition members have been transformed by the corrupted magic, while others desperately seek a way to contain the growing threat.
 
 ---
 
@@ -38,42 +42,42 @@ The truth is far more complex: the expedition discovered an ancient [[Skyforge]]
 
 The quest begins when the party is approached by one of the following:
 
-- **[[Archmage Velina Duskweaver]]** of the [[Windwright Academy]], offering 1,000gp to learn the expedition's fate
-- **[[Mira Stormwind]]**, Captain Zara's sister, begging for help finding her missing family member
-- **[[Lord Commander Thane Skyward]]** of the [[Aethermoor Rangers]], who needs the expedition's research to prevent a larger catastrophe
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Archmage Velina Duskweaver]]** of the [[02_Worldbuilding/Groups/Academies/Windwright Academy]], offering 1,000gp to learn the expedition's fate
+- **[[02_Worldbuilding/Lore/Mira Stormwind]]**, Captain Zara's sister, begging for help finding her missing family member
+- **[[02_Worldbuilding/People/Lord Commander Thane Skyward]]** of the [[02_Worldbuilding/Lore/Aethermoor Rangers]], who needs the expedition's research to prevent a larger catastrophe
 
 ### Initial Investigation (Sessions 1-2)
 
-**Location:** [[Windwright Academy]], [[Port Nimbus]]
+**Location:** [[02_Worldbuilding/Groups/Academies/Windwright Academy]], [[02_Worldbuilding/Places/Port Nimbus]]
 
 The party begins by investigating the expedition's last known activities:
 
 #### Key Locations:
-- **The Academy Archives:** Research notes reveal the expedition was investigating [[Void Storms]] and their connection to ancient ruins
-- **The Dockmaster's Office:** Captain Zara chartered the airship [[Windwarden]] and loaded supplies for a month-long journey
+- **The Academy Archives:** Research notes reveal the expedition was investigating [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Void Storms]] and their connection to ancient ruins
+- **The Dockmaster's Office:** Captain Zara chartered the airship [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Windwarden]] and loaded supplies for a month-long journey
 - **The Broken Compass Tavern:** Expedition members spoke of discovering "something that shouldn't exist" in old maps
 
 #### Important NPCs:
 
-**[[Tobias Quillwright]]** - Academy Librarian
+**[[02_Worldbuilding/Lore/Tobias Quillwright]]** - Academy Librarian
 *Medium humanoid (human), lawful neutral*
 - **Skills:** History +8, Investigation +6, Arcana +7
-- **Service:** Provides expedition research notes and historical context about the [[Shattered Isles]]
-- **Information:** Reveals the expedition was tracking an unusual pattern in [[Void Storm]] activity
+- **Service:** Provides expedition research notes and historical context about the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shattered Isles]]
+- **Information:** Reveals the expedition was tracking an unusual pattern in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Void Storm]] activity
 
-**[[Captain Henrik Saltbreeze]]** - Harbor Master
+**[[02_Worldbuilding/People/Captain Henrik Saltbreeze]]** - Harbor Master
 *Medium humanoid (human), chaotic good*  
 - **Skills:** Survival +6, Perception +7, Investigation +4
 - **Service:** Offers airship charter services and navigation expertise
-- **Information:** Reports that other ships have avoided the [[Shattered Isles]] due to "wrong winds" and strange lights
+- **Information:** Reports that other ships have avoided the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shattered Isles]] due to "wrong winds" and strange lights
 
 ### Discovery: The Last Message
 
-The party discovers a partially damaged [[Sending Stone]] that contains a fragmented message from Captain Zara:
+The party discovers a partially damaged [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sending Stone]] that contains a fragmented message from Captain Zara:
 
 *"...found it...the source...corruption spreading...some of the crew are chang...don't trust...sky itself turns against..."*
 
-**Clues Point To:** The [[Shattered Isles]], specifically a cluster called the [[Crying Peaks]] where several [[Windwright Academy]] expeditions have vanished over the past decade.
+**Clues Point To:** The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shattered Isles]], specifically a cluster called the [[02_Worldbuilding/Lore/Crying Peaks]] where several [[02_Worldbuilding/Groups/Academies/Windwright Academy]] expeditions have vanished over the past decade.
 
 ---
 
@@ -82,7 +86,7 @@ The party discovers a partially damaged [[Sending Stone]] that contains a fragme
 ### Journey to the Shattered Isles (Session 2-3)
 
 **Challenges:**
-- Navigating [[Void Storms]] (DC 15 Survival checks)
+- Navigating [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Void Storms]] (DC 15 Survival checks)
 - Airship maintenance during magical weather (DC 12 Arcana/Investigation)
 - Encounters with corrupted sky creatures (see NPC stats below)
 
@@ -96,16 +100,16 @@ The party discovers a partially damaged [[Sending Stone]] that contains a fragme
 
 ### The Windwarden's Wreck
 
-**Location:** Crashed on a small floating island in the [[Crying Peaks]]
+**Location:** Crashed on a small floating island in the [[02_Worldbuilding/Lore/Crying Peaks]]
 
 The party finds the expedition's airship, crashed but largely intact. Investigation reveals:
 
 - Most of the crew evacuated safely with emergency supplies
-- The ship's [[Aethermoor Navigation Crystal]] has been corrupted, turning from blue to sickly purple
+- The ship's [[02_Worldbuilding/Lore/Aethermoor Navigation Crystal]] has been corrupted, turning from blue to sickly purple
 - Personal logs indicate the crew was divided about whether to continue or retreat
 - Tracks lead deeper into the island cluster
 
-#### NPC Encounter: [[Jenkin Fastwind]] - Expedition Survivor
+#### NPC Encounter: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Jenkin Fastwind]] - Expedition Survivor
 
 *Medium humanoid (halfling), neutral good*
 **AC** 12, **HP** 27, **Speed** 25 ft.
@@ -125,21 +129,21 @@ The party finds the expedition's airship, crashed but largely intact. Investigat
 
 ### The Central Mystery (Sessions 3-4)
 
-**Location:** [[Ancient Skyforge Complex]] on the largest island of the [[Crying Peaks]]
+**Location:** [[02_Worldbuilding/Lore/Ancient Skyforge Complex]] on the largest island of the [[02_Worldbuilding/Lore/Crying Peaks]]
 
-The expedition discovered a massive [[Skyforge]] facility—a relic from the [[Age of Skybound Empires]]. The facility was designed to purify and redirect [[Aethermoor]]'s magical currents, but centuries of neglect have reversed its function, corrupting instead of cleansing.
+The expedition discovered a massive [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Skyforge Compass]] facility—a relic from the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Age of Skybound Empires]]. The facility was designed to purify and redirect [[02_Worldbuilding/Places/Aethermoor]]'s magical currents, but centuries of neglect have reversed its function, corrupting instead of cleansing.
 
 #### Key Areas:
 
 **The Corruption Chambers:** Where expedition members are being slowly transformed into [[Void-touched]] beings
 
-**The Central Forge:** A massive machine drawing power from [[Aethermoor]]'s ley lines and spreading corruption
+**The Central Forge:** A massive machine drawing power from [[02_Worldbuilding/Places/Aethermoor]]'s ley lines and spreading corruption
 
-**The Crystal Gardens:** Twisted formations of corrupted [[Aetherite]] that pulse with malevolent energy
+**The Crystal Gardens:** Twisted formations of corrupted [[02_Worldbuilding/Lore/Aetherite]] that pulse with malevolent energy
 
 #### Major NPCs:
 
-**[[Captain Zara Stormwind]]** - Expedition Leader (Partially Corrupted)
+**[[02_Worldbuilding/People/Captain Zara Stormwind]]** - Expedition Leader (Partially Corrupted)
 *Medium humanoid (human), chaotic neutral*  
 **AC** 16 (Studded Leather +2), **HP** 112, **Speed** 30 ft., fly 60 ft. (magical)
 
@@ -162,9 +166,9 @@ The expedition discovered a massive [[Skyforge]] facility—a relic from the [[A
 - **Rapier +2:** +10 to hit, 1d8+6 piercing + 1d6 necrotic damage
 - **Void Bolt:** Ranged spell attack +7 to hit, range 120 ft., 2d10+3 necrotic damage
 
-**Roleplay:** Zara struggles between her original noble intentions and the corruption's influence. She believes the Skyforge must be activated to "save" [[Aethermoor]] but doesn't realize this would spread corruption continent-wide.
+**Roleplay:** Zara struggles between her original noble intentions and the corruption's influence. She believes the Skyforge must be activated to "save" [[02_Worldbuilding/Places/Aethermoor]] but doesn't realize this would spread corruption continent-wide.
 
-**[[Dr. Matthias Voidheart]]** - Expedition Scholar (Fully Corrupted)
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dr Matthias Voidheart]]** - Expedition Scholar (Fully Corrupted)
 *Medium humanoid (human), neutral evil*  
 **AC** 15, **HP** 82, **Speed** 30 ft.
 
@@ -196,21 +200,21 @@ The expedition discovered a massive [[Skyforge]] facility—a relic from the [[A
 **Process:** The party works with the uncorrupted expedition survivors to reverse the Skyforge's polarity
 **Challenges:** Complex ritual requiring multiple skill checks and defending against corrupted creatures
 **Outcome:** The corruption is cleansed, most transformed beings are healed, Skyforge becomes beneficial
-**Rewards:** 3,000gp, magical items, [[Windwright Academy]] membership
+**Rewards:** 3,000gp, magical items, [[02_Worldbuilding/Groups/Academies/Windwright Academy]] membership
 
 ### Path 2: Controlled Destruction  
 **Requirements:** Engineering knowledge, explosives or powerful magic
 **Process:** Carefully destroy key components to stop corruption without devastating explosion
 **Challenges:** Precision demolition while under attack from Dr. Voidheart and corrupted beings
 **Outcome:** Corruption stops spreading but damaged areas remain tainted
-**Rewards:** 2,000gp, salvaged skyforge components, gratitude of [[Aethermoor Rangers]]
+**Rewards:** 2,000gp, salvaged skyforge components, gratitude of [[02_Worldbuilding/Lore/Aethermoor Rangers]]
 
 ### Path 3: The Diplomatic Solution
 **Requirements:** Successful negotiations with both Zara and Dr. Voidheart  
 **Process:** Convince the corrupted expedition leaders to help contain the threat
 **Challenges:** Complex social encounters and moral compromises
 **Outcome:** Temporary containment while seeking long-term solution
-**Rewards:** Ongoing alliance opportunities, unique information about [[Aethermoor]]'s history
+**Rewards:** Ongoing alliance opportunities, unique information about [[02_Worldbuilding/Places/Aethermoor]]'s history
 
 ### Path 4: The Sacrifice Play
 **Requirements:** Willing participant to merge with Skyforge systems
@@ -223,7 +227,7 @@ The expedition discovered a massive [[Skyforge]] facility—a relic from the [[A
 
 ## Supporting NPCs & Monsters
 
-### [[02_Worldbuilding/Groups/Void-touched Crew Member|02 Worldbuilding/Groups/Void Touched Crew Member]] (6-8 remaining)
+### [[02_Worldbuilding/Groups/Void-touched Crew Member]] (6-8 remaining)
 *Medium humanoid (various), chaotic neutral*
 **AC** 14, **HP** 52 each, **Speed** 30 ft.
 **Challenge Rating:** 4 each
@@ -235,17 +239,17 @@ The expedition discovered a massive [[Skyforge]] facility—a relic from the [[A
 
 **Roleplay:** Retain memories and personalities but struggle with alien thoughts and compulsions
 
-### [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] (Construct)
+### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] (Construct)
 *Large construct, neutral*  
 **AC** 18, **HP** 142, **Speed** 30 ft.  
 **Challenge Rating:** 10
 
 Ancient defense systems reactivated by the corruption. Attack anything that threatens the Skyforge.
 
-### [[Mira Stormwind]] - Quest Giver NPC
+### [[02_Worldbuilding/Lore/Mira Stormwind]] - Quest Giver NPC
 *Medium humanoid (human), lawful good*
 **Skills:** Persuasion +6, Insight +5, History +4
-**Background:** Zara's younger sister, a junior scholar at [[Windwright Academy]]
+**Background:** Zara's younger sister, a junior scholar at [[02_Worldbuilding/Groups/Academies/Windwright Academy]]
 **Motivation:** Desperate to save her sister and prove herself worthy of the family name
 **Services:** Can provide funding, research assistance, and connections to Academy resources
 
@@ -259,27 +263,27 @@ Ancient defense systems reactivated by the corruption. Attack anything that thre
 - **Salvage Rights:** Expedition equipment worth 500-800gp
 
 ### Magic Items:
-- **[[Stormwind's Navigation Crystal]]:** Provides advantage on navigation checks in [[Aethermoor]]
-- **[[Void-warded Cloak]]:** Resistance to necrotic damage, immunity to void corruption
-- **[[Skyforge Compass]]:** Points toward nearest source of corrupted magic
+- **[[02_Worldbuilding/Lore/Stormwind's Navigation Crystal]]:** Provides advantage on navigation checks in [[02_Worldbuilding/Places/Aethermoor]]
+- **[[02_Worldbuilding/Lore/Void-warded Cloak]]:** Resistance to necrotic damage, immunity to void corruption
+- **[[02_Worldbuilding/Lore/Skyforge]]:** Points toward nearest source of corrupted magic
 
 ### Story Rewards:
-- **[[Windwright Academy]] Membership:** Access to research facilities and rare spells
-- **[[Aethermoor Rangers]] Commission:** Authority to investigate magical threats
-- **Knowledge of [[Ancient Skyforge]]:** Information valuable to multiple factions
+- **[[02_Worldbuilding/Groups/Academies/Windwright Academy]] Membership:** Access to research facilities and rare spells
+- **[[02_Worldbuilding/Lore/Aethermoor Rangers]] Commission:** Authority to investigate magical threats
+- **Knowledge of [[02_Worldbuilding/Lore/Ancient Skyforge]]:** Information valuable to multiple factions
 
 ### Long-term Consequences:
-- The party's actions determine the future stability of [[Aethermoor]]'s magical currents
+- The party's actions determine the future stability of [[02_Worldbuilding/Places/Aethermoor]]'s magical currents
 - Surviving expedition members become recurring allies or enemies
-- The [[Shattered Isles]] region's status affects future adventures and trade routes
+- The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shattered Isles]] region's status affects future adventures and trade routes
 
 ---
 
 ## Adventure Hooks for Future Quests
 
-- Other [[Skyforge]] facilities may exist and require similar attention
+- Other [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Skyforge Compass]] facilities may exist and require similar attention
 - Dr. Voidheart might escape and attempt to recreate his "perfect" corruption elsewhere  
-- The cleansed/destroyed Skyforge attracts attention from [[Aethermoor]]'s enemies
+- The cleansed/destroyed Skyforge attracts attention from [[02_Worldbuilding/Places/Aethermoor]]'s enemies
 - Expedition survivors need help readjusting to life after their traumatic experience
 - Ancient records found in the Skyforge reveal locations of other pre-collapse ruins
 
@@ -290,8 +294,8 @@ Ancient defense systems reactivated by the corruption. Attack anything that thre
 
 ## Connections
 
-- [[Captain Thaddeus Blackwater]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -315,6 +319,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[Shattered Isles]]
-- [[Aethermoor]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shattered Isles]]
+- [[02_Worldbuilding/Places/Aethermoor]]

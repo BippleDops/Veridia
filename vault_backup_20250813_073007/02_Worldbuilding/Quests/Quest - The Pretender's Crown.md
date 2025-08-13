@@ -12,9 +12,12 @@ quest_type: Main Quest
 rewards: Noble Title, Royal Artifacts, Political Power
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/lore
 - intrigue
+- lore
 - mechanics/exploration
 - political
 - status/in-progress
@@ -22,9 +25,10 @@ tags:
 - world/aethermoor
 time_limit: Before the Coronation (14 days)
 type: Lore
-updated: '2025-08-12T23:37:37.784339'
+updated: '2025-08-13T12:34:28.562448+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -37,7 +41,7 @@ world: Aethermoor
 
 ## Quest Overview
 
-A mysterious figure claiming to be the lost heir of [[Queen Seraphina Lumengarde]] has emerged from the [[Crystalline Wastes]], bearing artifacts and knowledge that seem to prove their legitimacy. However, evidence suggests this "heir" may be a construct of shadow magic, a puppet of the [[Shadow-Crystal Synthesis]], or something even more sinister. The party must uncover the truth before the coronation legitimizes a false ruler and plunges Aethermoor into darkness.
+A mysterious figure claiming to be the lost heir of [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] has emerged from the [[02_Worldbuilding/Places/Crystalline Wastes]], bearing artifacts and knowledge that seem to prove their legitimacy. However, evidence suggests this "heir" may be a construct of shadow magic, a puppet of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow-Crystal Synthesis]], or something even more sinister. The party must uncover the truth before the coronation legitimizes a false ruler and plunges Aethermoor into darkness.
 
 The investigation will lead through the highest echelons of nobility, into forgotten royal vaults, and ultimately to a conspiracy that threatens not just the crown but the very nature of reality in Aethermoor. Every ally could be an enemy, every proof could be fabricated, and the truth itself might be more dangerous than the lie.
 
@@ -65,7 +69,7 @@ The investigation will lead through the highest echelons of nobility, into forgo
 ### The Truth (DM Only)
 
 The Pretender is actually:
-1. **A Perfect Simulacrum** created by the [[Shadow-Crystal Synthesis]] using stolen royal blood and memories
+1. **A Perfect Simulacrum** created by the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow-Crystal Synthesis]] using stolen royal blood and memories
 2. **Marina Silversky** in disguise, manipulating events to prevent realm convergence
 3. **The Real Heir** but corrupted by shadow during their exile
 4. **An Ancient Entity** wearing a constructed body, seeking to reclaim power
@@ -76,8 +80,8 @@ The Pretender is actually:
 ## Act 1: Royal Summons (Levels 10-12)
 
 ### The Auditor's Warning
-**Location**: Hidden office in [[Port Meridian]]  
-**Quest Giver**: [[The Nameless Auditor]]
+**Location**: Hidden office in [[02_Worldbuilding/Places/Port Meridian]]  
+**Quest Giver**: [[02_Worldbuilding/People/The Nameless Auditor]]
 
 The Auditor has discovered financial irregularities suggesting the Pretender's supporters are being paid with gold that doesn't exist—shadow gold that vanishes after 30 days. They need investigators who can work outside official channels.
 
@@ -144,14 +148,14 @@ The party must break into the most secure archive in Aethermoor, protected by:
 - Queen Seraphina knew this would happen (prophetic warning)
 
 ### The Memory Market
-**Location**: [[Memory Merchant Zephyr Mindweaver]]'s shop  
+**Location**: [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]'s shop  
 **Objective**: Trace the source of implanted memories
 
 **Investigation Reveals**:
 - Bulk purchase of memory modification services
 - Memories taken from real but deceased prince
 - Shadow corruption in the memory crystals
-- Connection to [[The Convergence Seekers]]
+- Connection to [[02_Worldbuilding/Groups/The Convergence Seekers]]
 
 ## Act 3: The Shadow Conspiracy (Levels 12-14)
 
@@ -159,9 +163,9 @@ The party must break into the most secure archive in Aethermoor, protected by:
 **Discovery**: The Pretender is controlled by multiple factions
 
 **Faction Involvement**:
-1. **[[Shadow-Crystal Synthesis]]**: Want puppet ruler for their plans
-2. **[[The Convergence Seekers]]**: Believe false king will trigger convergence
-3. **Foreign Power**: [[Aquabyssos]] agents destabilizing Aethermoor
+1. **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow-Crystal Synthesis]]**: Want puppet ruler for their plans
+2. **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Believe false king will trigger convergence
+3. **Foreign Power**: [[02_Worldbuilding/Places/Aquabyssos]] agents destabilizing Aethermoor
 4. **Noble Houses**: Gambling on regime change for power
 5. **The Pretender**: May be playing all sides
 
@@ -176,8 +180,8 @@ The party must break into the most secure archive in Aethermoor, protected by:
 - Create permanent portal to shadow realm
 
 **Gathering Allies**:
-- **[[Crystal Wardens]]**: Split between duty and suspicion
-- **[[High Priestess Celeste Dawnbringer]]**: Knows religious proofs of falseness
+- **[[02_Worldbuilding/People/Crystal Wardens]]**: Split between duty and suspicion
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]**: Knows religious proofs of falseness
 - **Queen's Secret Guard**: Loyal to truth, not throne
 - **Common People**: Must be convinced carefully
 
@@ -243,7 +247,7 @@ Depending on earlier discoveries, the Pretender reveals:
 
 **Immediate Effects**:
 - Succession crisis intensifies but honestly
-- [[Queen Seraphina Lumengarde]] must name true heir
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] must name true heir
 - Shadow conspiracy partially exposed
 - Party gains noble titles and royal favor
 
@@ -272,7 +276,7 @@ Depending on earlier discoveries, the Pretender reveals:
 **Campaign Continues**:
 - Underground resistance movement
 - Quest to purify Crystal Heart
-- Alliance with [[Aquabyssos]] necessary
+- Alliance with [[02_Worldbuilding/Places/Aquabyssos]] necessary
 - Darker tone, occupied kingdom
 
 ### Partial Success
@@ -287,7 +291,7 @@ Depending on earlier discoveries, the Pretender reveals:
 
 ### Allies
 
-**[[The Nameless Auditor]]**
+**[[02_Worldbuilding/People/The Nameless Auditor]]**
 - Discovers financial proof
 - Provides safe houses
 - Can be killed if discovered
@@ -321,7 +325,7 @@ Depending on earlier discoveries, the Pretender reveals:
 
 ### Wild Cards
 
-**[[Queen Seraphina Lumengarde]]**
+**[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**
 - May know truth but be powerless
 - Could be testing the kingdom
 - Might be under magical compulsion
@@ -418,35 +422,35 @@ Build support through side quests:
 ## Connected Elements
 
 ### Related Quests
-- [[Quest - The Crown Reborn]]
-- [[Quest - Divine Intervention]]
-- [[The Convergence Crisis]]
-- [[Quest - The Shadow Conspiracy]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Crown Reborn]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Divine Intervention]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Crisis]]
+- [[02_Worldbuilding/Lore/Quest - The Shadow Conspiracy]]
 
 ### Key Locations
-- [[Crystal Palace]]
-- [[The Crystal Cathedral]]
-- [[Noble Quarter]]
-- [[The Forbidden Archives]]
-- [[Shadow Markets]]
+- [[02_Worldbuilding/Places/Crystal Palace]]
+- [[02_Worldbuilding/Places/The Crystal Cathedral]]
+- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forbidden Archives]]
+- [[02_Worldbuilding/Lore/Shadow Markets]]
 
 ### Important NPCs
-- [[Queen Seraphina Lumengarde]]
-- [[The Nameless Auditor]]
-- [[High Priestess Celeste Dawnbringer]]
-- [[Crystal Wardens]]
-- [[Shadow-Crystal Synthesis]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/The Nameless Auditor]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow-Crystal Synthesis]]
 
 ### Relevant Items
-- [[Crown of Aethermoor]]
-- [[Royal Bloodline Codex]]
-- [[Shadow Detection Crystals]]
-- [[Memory Modification Apparatus]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crown of Aethermoor]]
+- [[02_Worldbuilding/Lore/Royal Bloodline Codex]]
+- [[02_Worldbuilding/Lore/Shadow Detection Crystals]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Modification Apparatus]]
 
 ## Connections
 
-- [[Prince Caspian Duskwater]]
-- [[The Crown's Burden]]
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
 
 ## Player-Facing Summary
 
@@ -470,6 +474,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Divine Intervention|02 Worldbuilding/Quests/Quest Divine Intervention]]
-- [[Memory Merchant Zephyr Mindweaver]]
-- [[Port Meridian]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Divine Intervention]]
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- [[02_Worldbuilding/Places/Port Meridian]]

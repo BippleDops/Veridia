@@ -3,18 +3,22 @@ audience: player
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - campaign/session
+- complete
 - handout
+- lore
 - status/complete
 - world/aethermoor
 - world/both
 title: Player Handout — S-201 Eclipse Raid Window
 type: Lore
-updated: '2025-08-12T23:37:41.248805'
+updated: '2025-08-13T12:34:32.382518+00:00'
 world: Both
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.469084
 ---
-
-
 # Eclipse Raid Window
 
 The light goes strange. Shadows lengthen in the wrong direction, and the air feels thin.
@@ -34,4 +38,4 @@ Possible outcomes
 
 ## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01|06 GM Resources/Session Packets/Aethermoor Session 01]]
+- [[vault_backup_20250813_073007/06_GM_Resources/Session_Packets/Aethermoor Session 01]]

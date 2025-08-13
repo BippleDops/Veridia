@@ -2,14 +2,16 @@
 tags:
 - active
 - aethermoor
+- complete
 - grand-cathedral
 - lore
 type: Lore
 world: Aethermoor
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.688906+00:00'
+updated: '2025-08-13T12:34:26.814634+00:00'
 ---
+
 
 
 

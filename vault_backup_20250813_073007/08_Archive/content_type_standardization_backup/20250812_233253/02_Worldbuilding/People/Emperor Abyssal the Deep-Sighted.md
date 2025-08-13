@@ -2,13 +2,15 @@
 tags:
 - active
 - aquabyssos
+- complete
 - npc
 type: NPC
 world: Aquabyssos
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.952353+00:00'
+updated: '2025-08-13T12:34:28.242825+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-emperor-abyssal-the-deep-sighted-emperor-abyssal-the-deep-sighted.svg)

@@ -27,8 +27,51 @@ Nerissa appears ageless, though she has ruled for nearly two centuries. Her silv
 
 ## Background
 
-Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was raised from birth to lead Aquabyssos. She witnessed the last days of the surface empire through inherited memories and carries the weight of three thousand years of isolation. Her grandmother was the last Oracle to speak with [[Emperor Thalassius the Wise]] before his sacrifice.
+Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was raised from birth to lead Aquabyssos. She witnessed the last days of the surface empire through inherited memories and carries the weight of three thousand years of isolation. Her grandmother was the last Oracle to speak with [[02_Worldbuilding/People/Emperor Thalassius the Wise]] before his sacrifice.
 
+
+## Location & Movement
+
+High Tidecaller Nerissa Deepcurrent's location and movement patterns reflect their role as a leader, with established routines and predictable presence in key locations.
+
+### Primary Location
+**[[02_Worldbuilding/Places/Pearl_Harbor_City]]** - Main base of operations
+- Typically found here during scheduled/formal occasions
+- Movement style: accompanied by retinue, formal protocols
+
+### Secondary Locations
+**Meeting Halls** - Regular destination 1
+**Ceremonial Spaces** - Regular destination 2
+
+### Daily Schedule
+
+**Dawn**: Planning
+**Morning**: Primary Work
+**Midday**: Important Business
+**Afternoon**: Appointments
+**Evening**: Relaxation
+**Night**: Special Activities
+
+### Movement Patterns
+
+**Travel Frequency**: Scheduled/Formal Occasions
+**Movement Style**: Accompanied By Retinue, Formal Protocols
+**Predictability**: Regular patterns with occasional variations
+**Accessibility**: Varies by location and circumstances
+
+### Encounter Likelihood
+
+**Primary Location**: High probability during business hours
+**Secondary Locations**: Medium probability during specific activities
+**Travel Routes**: Low probability, but possible during transitions
+**Random Encounters**: Very low probability in unexpected locations
+
+### Special Circumstances
+
+**Seasonal Variations**: Schedule may change with events or seasons
+**Emergency Protocols**: Alternative locations during crises
+**Social Events**: May be found at community gatherings
+**Private Time**: Limited access during personal hours
 ### Rise to Power
 - Age 7: First prophetic vision
 - Age 16: Chosen as Tide Apprentice
@@ -39,18 +82,18 @@ Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was 
 ## Political Position
 
 ### Allies
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - Military commander, trusted but stubborn
-- **[[Master of Currents Zephyr]]** - Chief advisor, childhood friend
-- **[[The Pearl Guard]]** - Elite protectors
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]** - Military commander, trusted but stubborn
+- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Master of Currents Zephyr]]** - Chief advisor, childhood friend
+- **[[02_Worldbuilding/People/The Pearl Guard]]** - Elite protectors
 
 ### Rivals
 - **[[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]** - Necessary evil, controls too much trade
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - Dangerous idealist threatening stability
-- **[[Aboleth Prime Yoth]]** - Ancient threat that must be contained
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]** - Dangerous idealist threatening stability
+- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]** - Ancient threat that must be contained
 
 ### Neutral Parties
-- **[[Surface Ambassador Lord Seaworthy]]** - Useful but untrustworthy
-- **[[The Depth Wardens]]** - Loyal to Aquabyssos, not necessarily to her
+- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]** - Useful but untrustworthy
+- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Depth Wardens]]** - Loyal to Aquabyssos, not necessarily to her
 
 ## Current Concerns
 
@@ -61,13 +104,13 @@ Her own visions show two paths:
 She seeks a third option but hasn't found it.
 
 ### The Pressure Wars
-- [[02_Worldbuilding/Places/Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]] grows too independent
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]] grows too independent
 - [[The Maw of Darkness]] stirs with ancient evil
 - Resources stretched thin across seven depths
 
 ### Surface Relations
 - Trade is necessary but brings contamination
-- [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] offers alliance but at what cost?
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Gareth Ironforge]] offers alliance but at what cost?
 - Surface nations eye Aquabyssos's resources greedily
 
 ## Powers & Abilities
@@ -88,7 +131,7 @@ She seeks a third option but hasn't found it.
 - Sees possible futures in water reflections
 - Dreams of the past through ancestral memories
 - Can induce visions in others through touch
-- Knows the true location of [[The Heart of Oceanus]]
+- Knows the true location of [[vault_backup_20250813_073007/02_Worldbuilding/People/The Heart of Oceanus]]
 
 ## Hidden Agendas
 
@@ -101,12 +144,12 @@ She seeks a third option but hasn't found it.
 ### Personal Desires
 - Wants to see the sun once before she dies
 - Seeks to break the Oracle curse on her bloodline
-- Hopes to find descendants of [[Emperor Thalassius]]
+- Hopes to find descendants of [[02_Worldbuilding/People/Emperor Thalassius]]
 - Dreams of reuniting the scattered depth colonies
 
 ## Relationships
 
-### [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 "My strong right hand, even when it forms a fist against me."
 - Respects his dedication
 - Frustrated by his rigid thinking
@@ -118,13 +161,13 @@ She seeks a third option but hasn't found it.
 - Has evidence of her crimes but can't act
 - Secretly admires her effectiveness
 
-### [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 "She speaks truths I dare not think."
 - Was once her student
 - Sees her younger self in Miralyn
 - Fears she might be right about returning
 
-### [[Aboleth Prime Yoth]]
+### [[02_Worldbuilding/People/Aboleth Prime Yoth]]
 "The ancient darkness that remembers when we had legs."
 - Bound by ancient pacts she must honor
 - Knows it plots against her
@@ -134,7 +177,7 @@ She seeks a third option but hasn't found it.
 
 1. **[[02_Worldbuilding/Lore/Tide Turner's Trident|The Tidecaller's Doubt]]** - She secretly seeks proof the surface is safe
 2. **[[02_Worldbuilding/Quests/The Crown's Burden|Oracle's Burden]]** - Help her break the prophetic curse
-3. **[[The Seven Seals]]** - Gather the Depth Seals before enemies do
+3. **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Seven Seals]]** - Gather the Depth Seals before enemies do
 4. **Diplomatic Immunity** - Escort her to dangerous negotiations
 
 ## Combat Tactics
@@ -224,10 +267,10 @@ Legends speak of Nerissa Deepcurrent as a nexus where past and present converge.
 
 ## Connections
 
-- [[Aboleth Prime Yoth]]
-- [[Emperor Thalassius the Wise]]
-- [[Emperor Thalassius]]
-- [[Surface Ambassador Lord Seaworthy]]
-- [[The Depth Wardens]]
-- [[The Heart of Oceanus]]
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/Emperor Thalassius]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Depth Wardens]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Heart of Oceanus]]
 - [[The Maw of Darkness]]

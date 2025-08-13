@@ -4,6 +4,7 @@ tags:
 - aethermoor
 - completed
 - crystalhaven
+- draft
 - enchantment
 - heights
 - location
@@ -17,7 +18,8 @@ type: Lore
 danger_level: 5
 parent_location: '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'
 elevation: Upper Crystal Spires
-government: '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] Council of Mages'
+government: '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]
+  Council of Mages'
 population: 12000
 specialties:
 - Advanced Magic Research
@@ -26,12 +28,14 @@ specialties:
 - Elemental Manipulation
 founded: Early Crystal Age
 created: '2025-08-09'
-updated: '2025-08-13T01:18:35.804454+00:00'
+updated: '2025-08-13T12:34:26.916906+00:00'
 related_entities:
-- '[[02_Worldbuilding/People/Professor Aldric Crystalweaver|02 Worldbuilding/People/Professor Aldric Crystalweaver]]'
+- '[[02_Worldbuilding/People/Professor Aldric Crystalweaver|02 Worldbuilding/People/Professor
+  Aldric Crystalweaver]]'
 - '[[02_Worldbuilding/Places/Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]]'
 - '[[02_Worldbuilding/Lore/Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]]'
 ---
+
 
 
 

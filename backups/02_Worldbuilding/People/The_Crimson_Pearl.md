@@ -27,8 +27,50 @@ No one knows Scarlett's real name anymore - she's been The Crimson Pearl for so 
 
 ## Background
 
+
+## Location & Movement
+
+The Crimson Pearl's location and movement patterns reflect their role as a leader, with established routines and predictable presence in key locations.
+
+### Primary Location
+**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Market District]]** - Main base of operations
+- Typically found here during scheduled/formal occasions
+- Movement style: accompanied by retinue, formal protocols
+
+### Secondary Locations
+**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Market District]]** - Regular destination 1
+
+### Daily Schedule
+
+**Dawn**: Quiet Work
+**Morning**: Administrative Tasks
+**Midday**: Peak Activity
+**Afternoon**: Continued Work
+**Evening**: Social Activities
+**Night**: Special Activities
+
+### Movement Patterns
+
+**Travel Frequency**: Scheduled/Formal Occasions
+**Movement Style**: Accompanied By Retinue, Formal Protocols
+**Predictability**: Regular patterns with occasional variations
+**Accessibility**: Varies by location and circumstances
+
+### Encounter Likelihood
+
+**Primary Location**: High probability during business hours
+**Secondary Locations**: Medium probability during specific activities
+**Travel Routes**: Low probability, but possible during transitions
+**Random Encounters**: Very low probability in unexpected locations
+
+### Special Circumstances
+
+**Seasonal Variations**: Schedule may change with events or seasons
+**Emergency Protocols**: Alternative locations during crises
+**Social Events**: May be found at community gatherings
+**Private Time**: Limited access during personal hours
 ### The Surface Tragedy
-Two hundred years ago, Scarlett was a legitimate pearl trader who made regular runs to [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]. During one surface visit, she encountered a vampire lord who saw potential in her ability to move between worlds. He turned her into a spawn, but the transformation went wrong when she returned to water - creating something unique and terrible.
+Two hundred years ago, Scarlett was a legitimate pearl trader who made regular runs to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market District]]. During one surface visit, she encountered a vampire lord who saw potential in her ability to move between worlds. He turned her into a spawn, but the transformation went wrong when she returned to water - creating something unique and terrible.
 
 ### Rise to Power
 - Murdered the previous Syndicate leader in single combat
@@ -48,9 +90,9 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 
 ### Key Lieutenants
 - **Whisper Jack** - Smuggling operations
-- **[[The Barnacle]]** - Fencing and money laundering
-- **[[01_Campaigns/Aquabyssos/NPCs/Captain Marlowe Tidecrest|Captain 'Red Tide' Morgan]]** - Piracy fleet
-- **[[The Schooling]]** - Spy network of orphans
+- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Barnacle]]** - Fencing and money laundering
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Captain Marlowe Tidecrest]]** - Piracy fleet
+- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Schooling]]** - Spy network of orphans
 
 ## The Vampire Problem
 
@@ -83,21 +125,21 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 
 ## Relationships
 
-### [[High Tidecaller Nerissa]]
+### [[vault_backup_20250813_073007/02_Worldbuilding/Quests/High Tidecaller Nerissa]]
 "We dance because neither can afford to stop the music."
 - Mutual hostage situation
 - Each has dirt on the other
 - Occasionally share information
 - Would destroy each other if they could
 
-### [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]
+### [[vault_backup_20250813_073007/02_Worldbuilding/People/Gareth Ironforge]]
 "The dwarf's gold spends well, and he asks few questions."
 - Supplies him with rare deep metals
 - He provides surface weapons
 - Both know it's dirty but need each other
-- Connected through [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- Connected through [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 
-### [[Aboleth Prime Yoth]]
+### [[02_Worldbuilding/People/Aboleth Prime Yoth]]
 "Even I have things I won't deal with. Usually."
 - Occasional trades for forbidden knowledge
 - Mutual wariness and respect
@@ -150,11 +192,11 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 
 ## Quest Hooks
 
-1. **[[Blood in the Water]]** - She needs special blood from a surface noble
-2. **[[The Pearl Heist]]** - Steal from her or for her
-3. **[[Syndicate War]]** - Internal power struggle
-4. **[[The Cure]]** - Help her find vampire cure (or ensure she doesn't)
-5. **[[Surface Syndicate]]** - Establish criminal network above
+1. **[[vault_backup_20250813_073007/02_Worldbuilding/People/Blood in the Water]]** - She needs special blood from a surface noble
+2. **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Pearl Heist]]** - Steal from her or for her
+3. **[[02_Worldbuilding/People/Syndicate War]]** - Internal power struggle
+4. **[[02_Worldbuilding/People/The Cure]]** - Help her find vampire cure (or ensure she doesn't)
+5. **[[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Syndicate]]** - Establish criminal network above
 
 ## Interaction Guide
 
@@ -184,7 +226,7 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 1. **The Sire:** Her vampire lord still seeks her from surface
 2. **The Haven:** Hidden in sunken ship graveyard
 3. **The Cure Research:** Has partially succeeded
-4. **The Surface Tunnel:** Direct route to [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]
+4. **The Surface Tunnel:** Direct route to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market District]]
 5. **The Pearl Cultivation:** Feeds pearls her blood
 6. **The Restoration Funding:** Profits from chaos
 7. **The Guard Captain:** Controls harbor security
@@ -267,9 +309,9 @@ Legends speak of The Crimson Pearl as a nexus where past and present converge. L
 
 ## Connections
 
-- [[Aboleth Prime Yoth]]
-- [[Blood in the Water]]
-- [[Surface Syndicate]]
-- [[The Barnacle]]
-- [[The Pearl Heist]]
-- [[High Tidecaller Nerissa]]
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Blood in the Water]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Syndicate]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Barnacle]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Pearl Heist]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/High Tidecaller Nerissa]]

@@ -1,27 +1,15 @@
 ---
-tags:
-- active - category/place
-- active
-status: draft
----category/place
-- both
-- corrupted
-- dungeon
-- location
-- mid-level-threat
-- verdant-reach
-region: The Verdant Reach
-type: Location
-danger: High
-status: Active - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+created: null
+updated: '2025-08-13T12:34:27.783829+00:00'
 world: Both
-updated: '2025-08-13T01:18:36.552638+00:00'
-created: 2025-08-11
-danger_level: High
+type: Location
+status: active
+tags:
+- active
+- both
+- location
 ---
+
 
 
 

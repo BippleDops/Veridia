@@ -2,26 +2,30 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.238917'
+updated: '2025-08-13T12:34:29.002135+00:00'
 world: Both
 ---
 
 
 
 
+
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests|02 Worldbuilding/Quests/Quest Foreign Interests]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Foreign Interests]]
 
 
 ## Connections
 
-- [[The Crown]]
-- [[Quest - Foreign Interests]]
+- [[02_Worldbuilding/Groups/The Crown]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Foreign Interests]]
 
 ## Player-Facing Summary
 

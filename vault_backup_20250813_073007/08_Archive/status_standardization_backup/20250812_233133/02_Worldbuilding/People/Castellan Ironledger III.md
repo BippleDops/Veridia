@@ -1,29 +1,15 @@
 ---
-tags:
-- active - category/people
-- active
----category/people
-- both
-- information-broker
-- merchant-prince
-- neutral
-- npc
-- wealthy
-type: NPC
-location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
-faction: '[[02_Worldbuilding/Groups/Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]]'
-race: Gnome
-class: Rogue/Wizard
-level: 7
-alignment: True Neutral
-status: Active - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+created: null
+updated: '2025-08-13T12:34:23.361845+00:00'
 world: Both
-updated: '2025-08-13T01:18:36.964305+00:00'
-created: 2025-08-11
+type: NPC
+status: active
+tags:
+- active
+- both
+- npc
 ---
+
 
 
 

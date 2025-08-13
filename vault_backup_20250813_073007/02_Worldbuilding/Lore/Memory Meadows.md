@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.943180'
+updated: '2025-08-13T12:34:28.710378+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -44,14 +48,14 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
 
 
 ## Connections
 
-- [[Deep Mother]]
-- [[Memory Harvester Kythara]]
-- [[Memory Merchant Valeria Siltweave]]
-- [[Amnesia Gallery]]
-- [[The Deepmind]]
-- [[Quest - The Convergence Crisis]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/People/Memory Harvester Kythara]]
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[02_Worldbuilding/Places/Amnesia Gallery]]
+- [[02_Worldbuilding/Places/The Deepmind]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]

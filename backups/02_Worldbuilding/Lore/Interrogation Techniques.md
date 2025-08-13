@@ -51,13 +51,13 @@ Provides framework for investigation scenes and adds realism to law enforcement 
 
 ## Connections
 
-- [[Evidence Chain Analysis]]
-- [[Evidence Types Guide]]
-- [[Silver Mask]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[02_Worldbuilding/Lore/Evidence Types Guide]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
 - [[The Deep Mother]]
-- [[The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
 - [[The Seven Shards]]
-- [[The Silverscale Conspiracy]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 

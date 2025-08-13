@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.319622'
+updated: '2025-08-13T12:34:29.065372+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -40,20 +44,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]]
 
 
 ## Connections
 
-- [[Biomancer Corvus Intestinal]]
-- [[Campaign Epilogues]]
-- [[Eastern Kingdom]]
-- [[Hidden Sanctuary]]
-- [[Lighthouse Ruins]]
-- [[Magic Items]]
-- [[Rewriting the Ritual]]
-- [[Save Both Civilizations]]
-- [[Shattered Isles]]
-- [[Temporal Navigation Hazards]]
-- [[The Possessed Queen]]
-- [[United Councils of Both Worlds]]
+- [[02_Worldbuilding/Lore/Biomancer Corvus Intestinal]]
+- [[02_Worldbuilding/Lore/Campaign Epilogues]]
+- [[02_Worldbuilding/Lore/Eastern Kingdom]]
+- [[02_Worldbuilding/Lore/Hidden Sanctuary]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lighthouse Ruins]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Magic Items]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Rewriting the Ritual]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Save Both Civilizations]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shattered Isles]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Navigation Hazards]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Possessed Queen]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]]

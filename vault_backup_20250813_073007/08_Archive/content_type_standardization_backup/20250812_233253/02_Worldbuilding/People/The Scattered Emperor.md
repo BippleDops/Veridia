@@ -6,6 +6,7 @@ tags:
 - active
 - aquabyssos
 - both
+- complete
 - fragmented-consciousness
 - npc
 - ruler
@@ -31,8 +32,10 @@ consciousness_fragments: 10000
 portrait: ''
 relationship_type: ruler
 relationships:
-- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
-- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess
+  Nyx]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
 related_quests:
 - '[[Unite the Emperor]]'
@@ -60,8 +63,9 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:36.893457+00:00'
+updated: '2025-08-13T12:34:28.187915+00:00'
 ---
+
 
 
 

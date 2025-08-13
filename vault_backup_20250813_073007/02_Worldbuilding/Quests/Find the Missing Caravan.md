@@ -9,7 +9,7 @@ assigned_party_members:
 completion_date: null
 created: '2025-08-11T13:08:50.080993+00:00'
 deadline: 2025-08-10
-location: '[[Tradeway Road]]'
+location: '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Tradeway Road]]'
 objectives:
 - completed: true
   text: Investigate the missing caravan
@@ -25,28 +25,32 @@ objectives:
 obsidianUIMode: preview
 prerequisite_quests: []
 priority: high
-quest_giver: '[[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'
+quest_giver: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Gareth Ironforge]]'
 quest_image: 04_Resources/Assets/quests/missing-caravan.png
 quest_start: 2025-08-01
 related_locations:
-- '[[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]'
-- '[[Tradeway Road]]'
-- '[[Ambush Point]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Market District]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Tradeway Road]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Ambush Point]]'
 related_npcs:
-- '[[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'
-- '[[Caravan Master Dolrim]]'
-- '[[Bandit Leader Scarface]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Gareth Ironforge]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Caravan Master Dolrim]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Bandit Leader Scarface]]'
 reward: 500gp + Masterwork weapon
 status: complete
 tags:
+- both
+- complete
 - content/adventure
 - content/lore
+- lore
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.771266'
+updated: '2025-08-13T12:34:28.572195+00:00'
 world: Both
 ---
+
 
 
 
@@ -57,8 +61,8 @@ world: Both
 Gareth Ironforge's monthly shipment of rare star-iron ore has gone missing along the Tradeway Road. The caravan was due three days ago, and he fears the worst. Without this ore, he cannot complete the town guard's weapon order.
 
 ## Quest Giver
-**NPC:** [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]
-**Location:** [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]] - Ironforge Smithy
+**NPC:** [[vault_backup_20250813_073007/02_Worldbuilding/People/Gareth Ironforge]]
+**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market District]] - Ironforge Smithy
 **Motivation:** Needs the ore for important commissions and maintaining reputation
 
 ## Objectives
@@ -73,24 +77,24 @@ None - This is an introductory quest
 
 ## Locations
 ### Primary
-- [[Tradeway Road]] - Where the caravan traveled
-- [[Ambush Point]] - Site of the attack
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Tradeway Road]] - Where the caravan traveled
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Ambush Point]] - Site of the attack
 
 ### Secondary
-- [[Bandit Camp]] - Hidden in the forest
-- [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]] - Quest start/end point
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Bandit Camp]] - Hidden in the forest
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market District]] - Quest start/end point
 
 ## NPCs Involved
 ### Allies
-- [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] - Quest giver
-- [[Caravan Master Dolrim]] - Missing, possibly captured
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Gareth Ironforge]] - Quest giver
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Caravan Master Dolrim]] - Missing, possibly captured
 
 ### Enemies
-- [[Bandit Leader Scarface]] - Orchestrated the ambush
-- [[Bandit Scouts]] - Patrol the road
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Bandit Leader Scarface]] - Orchestrated the ambush
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Bandit Scouts]] - Patrol the road
 
 ### Neutral
-- [[Traveling Merchant Finn]] - Witnessed the attack
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Traveling Merchant Finn]] - Witnessed the attack
 
 ## Rewards
 ### Guaranteed
@@ -105,7 +109,7 @@ None - This is an introductory quest
 
 ## Clues & Information
 ### Known
-- Caravan left [[Northgate]] 5 days ago
+- Caravan left [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Northgate]] 5 days ago
 - Should have arrived 3 days ago
 - Carried 10 crates of star-iron ore
 - Guarded by 4 mercenaries

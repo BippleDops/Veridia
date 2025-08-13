@@ -45,5 +45,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[Merged Reality Zones]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
 - [[The Convergence Point]]

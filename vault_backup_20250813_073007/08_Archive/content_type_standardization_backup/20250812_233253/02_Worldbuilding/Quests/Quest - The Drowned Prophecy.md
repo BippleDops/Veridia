@@ -2,6 +2,7 @@
 tags:
 - active
 - both
+- complete
 - investigation
 - lore
 - mid-level
@@ -9,27 +10,34 @@ tags:
 - quest
 - shadowmere
 type: Lore
-quest_giver: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+quest_giver: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister
+  Morwyn Veilkeeper]]'
 level_range: 5-8
 reward_tier: Significant
 locations:
 - '[[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]'
-- '[[02_Worldbuilding/Places/The Embassy Quarter|02 Worldbuilding/Places/The Embassy Quarter]]'
-- '[[02_Worldbuilding/Places/The Sunken Markets|02 Worldbuilding/Places/The Sunken Markets]]'
+- '[[02_Worldbuilding/Places/The Embassy Quarter|02 Worldbuilding/Places/The Embassy
+  Quarter]]'
+- '[[02_Worldbuilding/Places/The Sunken Markets|02 Worldbuilding/Places/The Sunken
+  Markets]]'
 npcs_involved:
-- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]'
-- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]]'
-- '[[02_Worldbuilding/People/Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus Shardbreaker Grimm]]'
+- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister
+  Morwyn Veilkeeper]]'
+- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador
+  Nerida Deepcurrent]]'
+- '[[02_Worldbuilding/People/Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus
+  Shardbreaker Grimm]]'
 - '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:34.479424+00:00'
+updated: '2025-08-13T12:34:25.342735+00:00'
 created: '2025-08-11'
 status: complete
 ---
+
 
 
 

@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.433159'
+updated: '2025-08-13T12:34:29.182109+00:00'
 world: Both
 ---
+
 
 
 
@@ -44,12 +48,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
 
 
 ## Connections
 
-- [[Discover Marina's Truth]]
-- [[Quest - Nature's Balance]]
-- [[Quest - The Pretender's Crown]]
-- [[The Crown's Burden]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]

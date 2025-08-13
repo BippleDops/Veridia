@@ -3,6 +3,7 @@ tags:
 - active
 - both
 - compass
+- complete
 - item
 - magic-item
 - quest-reward
@@ -25,9 +26,10 @@ image_path: 04_Resources/Assets/Items/harbor_masters_compass.jpg
 created: '2025-01-25'
 modified: 2025-07-23 12:39
 world: Both
-updated: '2025-08-13T01:18:37.139811+00:00'
+updated: '2025-08-13T12:34:28.419623+00:00'
 status: complete
 ---
+
 
 
 

@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - content/lore
+- lore
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.028120'
+updated: '2025-08-13T12:34:28.783221+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -41,10 +45,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Bubble Burst|02 Worldbuilding/Places/Bubble Burst]]
+- [[02_Worldbuilding/Places/Bubble Burst]]
 
 
 ## Connections
 
-- [[Angels and Depths]]
-- [[Bubble Burst]]
+- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[02_Worldbuilding/Places/Bubble Burst]]

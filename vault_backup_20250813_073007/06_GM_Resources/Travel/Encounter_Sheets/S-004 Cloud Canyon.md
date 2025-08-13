@@ -44,7 +44,7 @@ world: Both
 AC —; HP —; Save DC 14; On fail: 2d6 lightning to nearest segment; Systems check DC 13
 
 ## Integrations
-- [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]]; stealth bonus applies to piracy counters
+- [[vault_backup_20250813_073007/03_Mechanics/Vehicles - Vehicle Core Rules]]; stealth bonus applies to piracy counters
 
 ## Scaling
 - Add Gravity lens pockets at High band (Helm DC +2)

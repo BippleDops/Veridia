@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/npc
+- lore
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.365995'
+updated: '2025-08-13T12:34:29.115498+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -41,9 +45,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos|02 Worldbuilding/People/Marina Red Tide Coralheart Aquabyssos]]
+- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
 
 
 ## Connections
 
-- [[Marina Red Tide Coralheart - Aquabyssos]]
+- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]

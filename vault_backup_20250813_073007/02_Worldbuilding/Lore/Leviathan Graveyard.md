@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.319134'
+updated: '2025-08-13T12:34:29.064928+00:00'
 world: Both
 ---
+
 
 
 
@@ -20,13 +24,13 @@ world: Both
 
 ## Connections
 
-- [[Aurelius Goldwave]]
-- [[Kraken Territories]]
-- [[Order of the Sunken Crown]]
-- [[Thalassius the Wise]]
-- [[The Abyss Beneath Aquabyssos]]
-- [[The Restoration Movement]]
-- [[The Seven Shards]]
+- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[02_Worldbuilding/Lore/Kraken Territories]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Order of the Sunken Crown]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
 
 ## Player-Facing Summary
 

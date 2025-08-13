@@ -2,14 +2,16 @@
 tags:
 - active
 - aethermoor
+- complete
 - historical-region
 - lore
 type: Lore
 world: Aethermoor
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.750292+00:00'
+updated: '2025-08-13T12:34:26.873383+00:00'
 ---
+
 
 
 

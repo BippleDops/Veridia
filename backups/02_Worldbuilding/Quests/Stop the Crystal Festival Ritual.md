@@ -34,19 +34,19 @@ updated: '2025-08-13T01:18:34.471541+00:00'
 **Duration**: 8-12 sessions
 **Stakes**: Planar/Reality-threatening
 
-The annual [[Crystal Festival]] in [[Aethermoor]] has been infiltrated by the [[Void Touched Cult]], who plan to corrupt the ceremony's massive magical energies to tear open a permanent rift to the [[Far Realm]]. The ritual, known as the **Sundering of Veils**, would not only destroy the festival city of [[Crysthaven]] but potentially unravel the fabric of reality across multiple planes.
+The annual [[Crystal Festival]] in [[02_Worldbuilding/Places/Aethermoor]] has been infiltrated by the [[02_Worldbuilding/Groups/Cults_and_Movements/Void Touched Cult]], who plan to corrupt the ceremony's massive magical energies to tear open a permanent rift to the [[Far Realm]]. The ritual, known as the **Sundering of Veils**, would not only destroy the festival city of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crysthaven]] but potentially unravel the fabric of reality across multiple planes.
 
 The characters have discovered this plot with mere days before the festival reaches its climax. They must navigate political intrigue, magical dangers, and eldritch horrors while racing to prevent an apocalypse that could consume all existence.
 
 ## Background & Stakes
 
-The [[Crystal Festival]] is [[Aethermoor]]'s most sacred celebration, occurring every seven years when the [[Celestial Crystals]] align with planar convergences. The festival draws hundreds of thousands of pilgrims, merchants, and magical practitioners to [[Crysthaven]], creating an unprecedented concentration of magical energy.
+The [[Crystal Festival]] is [[02_Worldbuilding/Places/Aethermoor]]'s most sacred celebration, occurring every seven years when the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Celestial Crystals]] align with planar convergences. The festival draws hundreds of thousands of pilgrims, merchants, and magical practitioners to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crysthaven]], creating an unprecedented concentration of magical energy.
 
-The [[Void Touched Cult]], led by the fallen [[Archmagus Velleth Shadowmere]], has spent decades infiltrating the festival's organization. They've identified that the moment of peak magical resonance - the **Harmonic Crescendo** - can be perverted to instead create a massive planar breach. If successful, [[Far Realm]] entities would pour through, corrupting reality itself into an alien nightmare realm.
+The [[02_Worldbuilding/Groups/Cults_and_Movements/Void Touched Cult]], led by the fallen [[Archmagus Velleth Shadowmere]], has spent decades infiltrating the festival's organization. They've identified that the moment of peak magical resonance - the **Harmonic Crescendo** - can be perverted to instead create a massive planar breach. If successful, [[Far Realm]] entities would pour through, corrupting reality itself into an alien nightmare realm.
 
 ### What's at Stake
 - **Immediate**: 500,000+ festival attendees face death or worse
-- **Regional**: [[Aethermoor]] could be consumed by Far Realm corruption
+- **Regional**: [[02_Worldbuilding/Places/Aethermoor]] could be consumed by Far Realm corruption
 - **Planar**: The breach might spread to other planes via the crystal network
 - **Ultimate**: Reality itself could begin unraveling across the multiverse
 
@@ -54,13 +54,13 @@ The [[Void Touched Cult]], led by the fallen [[Archmagus Velleth Shadowmere]], h
 *"The Festival's Dark Secret"*
 
 ### Opening Hook
-The party receives urgent summons from [[Archmage Lyralei Stormwind]] of the [[Arcane Assembly]], who has discovered disturbing evidence of cult infiltration. Her scrying attempts have been mysteriously blocked, and several trusted festival organizers have been acting strangely.
+The party receives urgent summons from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Archmage Lyralei Stormwind]] of the [[02_Worldbuilding/Lore/Arcane Assembly]], who has discovered disturbing evidence of cult infiltration. Her scrying attempts have been mysteriously blocked, and several trusted festival organizers have been acting strangely.
 
 ### Key Locations
-- **[[Crysthaven]]**: The massive festival city, built around and within enormous crystal formations
-- **[[Festival Grounds]]**: Sprawling celebration areas with stages, vendor districts, and ritual circles
-- **[[Crystal Sanctum]]**: The sacred heart of the festival where the main rituals occur
-- **[[Pilgrim Camps]]**: Temporary settlements housing hundreds of thousands of visitors
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crysthaven]]**: The massive festival city, built around and within enormous crystal formations
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Festival Grounds]]**: Sprawling celebration areas with stages, vendor districts, and ritual circles
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Sanctum]]**: The sacred heart of the festival where the main rituals occur
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pilgrim Camps]]**: Temporary settlements housing hundreds of thousands of visitors
 
 ### Primary Objectives
 1. **Investigate the Cult**: Identify cultist infiltrators among festival organizers
@@ -78,7 +78,7 @@ The party receives urgent summons from [[Archmage Lyralei Stormwind]] of the [[A
 
 #### Captain Moira Ironheart
 *Female Dwarf, Festival Security Chief*
-- Commands the [[Crystal Guard]] protecting the festival
+- Commands the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Guard]] protecting the festival
 - One of the few officials definitely not compromised
 - Crucial ally if the party can prove the conspiracy
 
@@ -106,13 +106,13 @@ The party receives urgent summons from [[Archmage Lyralei Stormwind]] of the [[A
 The party has confirmed the cult's presence and basic plan, but now faces the challenge of stopping a ritual involving thousands of participants across multiple locations. The cult has revealed their hand and begun eliminating opposition.
 
 ### Escalating Dangers
-- **Cult Assassins**: [[02_Worldbuilding/Lore/Void-Touched|02 Worldbuilding/Lore/Void Touched]] agents hunt the party openly
+- **Cult Assassins**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Void-Touched]] agents hunt the party openly
 - **Reality Distortions**: Areas of festival grounds begin showing [[Far Realm]] influence
 - **Mass Domination**: Large numbers of pilgrims fall under cult mental control
 - **Planar Intrusions**: Minor Far Realm creatures begin manifesting
 
 ### Primary Objectives
-1. **Protect the Crystals**: Prevent cult sabotage of key [[Celestial Crystals]]
+1. **Protect the Crystals**: Prevent cult sabotage of key [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Celestial Crystals]]
 2. **Counter-Ritual**: Develop magical countermeasures to disrupt the Sundering
 3. **Rally Defenders**: Organize festival security and capable adventurers
 4. **Locate Velleth**: Find and confront the cult's leadership
@@ -120,7 +120,7 @@ The party has confirmed the cult's presence and basic plan, but now faces the ch
 ### Key Locations - Act II
 - **[[Void Touched Sanctum]]**: Secret cult base beneath the festival grounds
 - **[[Crystal Resonance Chambers]]**: Underground network connecting all major crystals
-- **[[Dimensional Anchor Points]]**: Locations where reality is weakest
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dimensional Anchor Points]]**: Locations where reality is weakest
 - **[[Emergency Council Chambers]]**: Where festival leaders coordinate response
 
 ### Major Encounters
@@ -133,7 +133,7 @@ The party has confirmed the cult's presence and basic plan, but now faces the ch
 
 #### Archmagus Velleth Shadowmere
 *Female Human, Cult Leader and Fallen Archmage*
-- Former member of the [[Arcane Assembly]], now completely corrupted
+- Former member of the [[02_Worldbuilding/Lore/Arcane Assembly]], now completely corrupted
 - Seeks to become a conduit for Far Realm power
 - Uses advanced illusion magic to appear in multiple places simultaneously
 
@@ -165,7 +165,7 @@ The ritual has begun, reality is fracturing, and the party faces their ultimate 
 As the **Sundering of Veils** progresses:
 - **Round 1-3**: Reality becomes unstable, gravity and physics act unpredictably
 - **Round 4-6**: [[Far Realm]] creatures begin manifesting in significant numbers
-- **Round 7-9**: Sections of [[Crysthaven]] phase in and out of existence
+- **Round 7-9**: Sections of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crysthaven]] phase in and out of existence
 - **Round 10-12**: The barriers between planes start dissolving
 - **Round 13+**: Full planar breach opens, reality begins unraveling
 
@@ -224,8 +224,8 @@ The party must handle several simultaneous challenges:
 #### Pyrrhic Victory
 - Ritual stopped but at great cost
 - Major NPCs or party members killed
-- [[Crysthaven]] partially destroyed
-- Long-term consequences for [[Aethermoor]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crysthaven]] partially destroyed
+- Long-term consequences for [[02_Worldbuilding/Places/Aethermoor]]
 
 #### Partial Failure
 - Minor planar breach opened but contained
@@ -268,18 +268,18 @@ The party must handle several simultaneous challenges:
 ## Consequences and Aftermath
 
 ### Major Consequences
-The outcome of this quest shapes the future of [[Aethermoor]] and potentially the multiverse:
+The outcome of this quest shapes the future of [[02_Worldbuilding/Places/Aethermoor]] and potentially the multiverse:
 
 #### Success Leads To:
 - Enhanced prestige and resources for the party
-- New magical items forged from [[Celestial Crystals]]
-- Political influence in [[Aethermoor]]'s governance
+- New magical items forged from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Celestial Crystals]]
+- Political influence in [[02_Worldbuilding/Places/Aethermoor]]'s governance
 - Access to planar travel and exotic locations
 - Enemies among surviving cult members and Far Realm entities
 
 #### Failure Results In:
 - Ongoing planar instability requiring constant vigilance
-- Parts of [[Aethermoor]] permanently altered by Far Realm influence
+- Parts of [[02_Worldbuilding/Places/Aethermoor]] permanently altered by Far Realm influence
 - New types of aberrant creatures in the world
 - Changed magical laws and unpredictable spell effects
 - Potential for the corruption to spread to other worlds
@@ -294,16 +294,16 @@ This quest serves as a pivotal moment that can:
 
 ## Connections & References
 
-This quest connects to numerous elements throughout [[Aethermoor]]:
-- Links to the broader conflict between [[Arcane Assembly]] and rogue magical factions
-- Involves the ancient history of [[Celestial Crystals]] and their creation
-- References the ongoing tensions with various [[Planar Entities]]
-- May attract attention from the [[Withered Court]] and other undead factions
-- Connects to the [[Shadow Network]] and [[Void Touched Cult]]'s broader plans
-- Involves [[Divine Intervention]] from various gods and celestial powers
-- May lead to alliances with [[Elemental Courts]] and [[Fey Nobility]]
-- Sets up future conflicts with [[Aberrant Cults]] and [[Far Realm]] entities
-- Establishes relationships with [[Crystal Guardian Orders]] and [[Planar Wardens]]
+This quest connects to numerous elements throughout [[02_Worldbuilding/Places/Aethermoor]]:
+- Links to the broader conflict between [[02_Worldbuilding/Lore/Arcane Assembly]] and rogue magical factions
+- Involves the ancient history of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Celestial Crystals]] and their creation
+- References the ongoing tensions with various [[02_Worldbuilding/Lore/Planar Entities]]
+- May attract attention from the [[02_Worldbuilding/Places/Withered Court]] and other undead factions
+- Connects to the [[02_Worldbuilding/Lore/Shadow Network]] and [[02_Worldbuilding/Groups/Cults_and_Movements/Void Touched Cult]]'s broader plans
+- Involves [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Divine Intervention]] from various gods and celestial powers
+- May lead to alliances with [[Elemental Courts]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Fey Nobility]]
+- Sets up future conflicts with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Aberrant Cults]] and [[Far Realm]] entities
+- Establishes relationships with [[Crystal Guardian Orders]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Planar Wardens]]
 
 
 ## Connections
@@ -333,5 +333,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Quest - Nature's Balance|02 Worldbuilding/Quests/Quest Nature's Balance]]
-- [[Aethermoor]]
-- [[Withered Court]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Withered Court]]

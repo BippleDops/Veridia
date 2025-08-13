@@ -4,24 +4,28 @@ MyContainer: None
 created: '2025-08-08'
 created_by: auto-stub
 level_range: 8-12
-location: '[[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]'
+location: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
 obsidianUIMode: preview
-quest_giver: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
+quest_giver: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
 quest_type: Main Story
 rewards: 5000 gp, Noble Title, Crystal Artifacts
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/lore
 - festival
+- lore
 - mechanics/exploration
 - political
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:37.779910'
+updated: '2025-08-13T12:34:28.557946+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -31,7 +35,7 @@ world: Aethermoor
 *The Convergence of Shards, The Queen's Gambit, The Transformation Celebration*
 
 ## Quest Overview
-The annual Crystal Festival celebrates the discovery of Aether Crystals and their integration into [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] society. This year's 500th anniversary festival promises to be spectacular—but shadows gather beneath the celebration. [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] secretly plans to use the festival to gather all Seven Shards, while multiple factions plot to seize power during the festivities. The party must navigate political intrigue, prevent catastrophe, and decide the fate of the Crystal Crown.
+The annual Crystal Festival celebrates the discovery of Aether Crystals and their integration into [[02_Worldbuilding/Places/Aethermoor]] society. This year's 500th anniversary festival promises to be spectacular—but shadows gather beneath the celebration. [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] secretly plans to use the festival to gather all Seven Shards, while multiple factions plot to seize power during the festivities. The party must navigate political intrigue, prevent catastrophe, and decide the fate of the Crystal Crown.
 
 ## Background & Setup
 
@@ -47,18 +51,18 @@ The Crystal Festival commemorates:
 - Five of Seven Shards have been located
 - Queen's corruption is worsening
 - [[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]] plans economic takeover
-- [[02_Worldbuilding/Groups/The Crown|02 Worldbuilding/Groups/The Crown]] faces legitimacy crisis
-- Shadow influence from [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] increases
-- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] manipulates events
+- [[02_Worldbuilding/Groups/The Crown]] faces legitimacy crisis
+- Shadow influence from [[02_Worldbuilding/Places/Aquabyssos]] increases
+- [[02_Worldbuilding/People/The Crimson Sage]] manipulates events
 
 ## Quest Hooks
 
 ### Primary Hooks
 1. **Royal Invitation**: Queen personally requests party's protection
 2. **Consortium Contract**: Hired to ensure "profitable outcome"
-3. **Prophetic Warning**: [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] warns of catastrophe
+3. **Prophetic Warning**: [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] warns of catastrophe
 4. **Shadow Investigation**: Following shadow corruption to source
-5. **Divine Mission**: [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] secretly guides party
+5. **Divine Mission**: [[02_Worldbuilding/People/The Crimson Sage]] secretly guides party
 
 ### Secondary Hooks
 - Missing nobles need to be found before festival
@@ -71,7 +75,7 @@ The Crystal Festival commemorates:
 
 ### The Invitation
 **Location**: Party's current location
-**NPC**: [[Royal Herald Marcus]]
+**NPC**: [[02_Worldbuilding/Lore/Royal Herald Marcus]]
 **Objective**: Accept quest and travel to capital
 
 **Read Aloud:**
@@ -98,34 +102,34 @@ The Crystal Festival commemorates:
 ### Day 1-3: Investigation Phase
 
 #### The Queen's Secret
-**Location**: [[The Crystal Palace - Throne Room]]
+**Location**: [[02_Worldbuilding/Places/The Crystal Palace - Throne Room]]
 **Discovery**: Queen plans to reform the Crown
 - She has located five Shards
 - Believes reformation will cure her corruption
-- Doesn't know about [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'s true identity
+- Doesn't know about [[02_Worldbuilding/People/The Crimson Sage]]'s true identity
 - Shadow influences whisper to her at night
 
 #### The Consortium Plot
-**Location**: [[Silverscale Trade Embassy]]
+**Location**: [[02_Worldbuilding/Lore/Silverscale Trade Embassy]]
 **Discovery**: Economic manipulation scheme
 - Plan to crash crystal market during festival
 - Bought up massive crystal reserves
 - Hired mercenaries disguised as performers
-- [[02_Worldbuilding/People/Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]] leads operation
+- [[02_Worldbuilding/People/Zephyr Goldwhisper]] leads operation
 
 #### The Shadow Infiltration
-**Location**: [[Festival Grounds - Underground]]
+**Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Festival Grounds - Underground]]
 **Discovery**: Aquabyssos agents present
-- [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]] arrived secretly
+- [[02_Worldbuilding/People/Shadow Duchess Nyx]] arrived secretly
 - Shadow parasites in festival food supplies
-- Portal to [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] being prepared
+- Portal to [[02_Worldbuilding/Places/Aquabyssos]] being prepared
 - Plan to corrupt Shards during convergence
 
 #### The Noble Conspiracy
-**Location**: [[House of Lords - Secret Chamber]]
+**Location**: [[02_Worldbuilding/People/House of Lords - Secret Chamber]]
 **Discovery**: Succession crisis plot
 - Several houses plan coup during ceremony
-- [[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]] provides legitimacy
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] provides legitimacy
 - Claim Queen's corruption makes her unfit
 - Have their own Shard (fake or real?)
 
@@ -149,7 +153,7 @@ The Crystal Festival commemorates:
 
 ### The Convergence Ritual
 **Time**: Final day, solar apex
-**Location**: [[The Crystal Amphitheater]]
+**Location**: [[02_Worldbuilding/Lore/The Crystal Amphitheater]]
 
 #### The Ceremony Begins
 **Scene Description**:
@@ -162,7 +166,7 @@ The Crystal Festival commemorates:
 #### Crisis Points (Simultaneous)
 
 ##### Crisis 1: The Sixth Shard
-[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] reveals himself, carrying the sixth Shard
+[[02_Worldbuilding/People/The Crimson Sage]] reveals himself, carrying the sixth Shard
 - **Options**: Support, oppose, or redirect his plan
 - **Consequences**: Changes entire ritual outcome
 
@@ -192,7 +196,7 @@ Appears inside the Queen herself
 - Crown reforms, massive power surge
 - Reality reshapes around wielder's will
 - Aquabyssos and Aethermoor begin merging
-- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] reclaims godhood
+- [[02_Worldbuilding/People/The Crimson Sage]] reclaims godhood
 - Party must decide who wears Crown
 
 #### If Shards Are Scattered
@@ -207,7 +211,7 @@ Appears inside the Queen herself
 - Crystals become inert stone
 - Ancient evils start awakening
 - Technology must replace magic
-- [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]] stirs
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]] stirs
 
 #### If Alternative Solution
 - Party's creative solution
@@ -219,18 +223,18 @@ Appears inside the Queen herself
 ## NPCs Involved
 
 ### Major NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Quest giver, corrupted monarch
-- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] - Secret manipulator
-- [[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]] - Religious authority
-- [[02_Worldbuilding/People/Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]] - Consortium mastermind
-- [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]] - Aquabyssos agent
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Quest giver, corrupted monarch
+- [[02_Worldbuilding/People/The Crimson Sage]] - Secret manipulator
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Religious authority
+- [[02_Worldbuilding/People/Zephyr Goldwhisper]] - Consortium mastermind
+- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Aquabyssos agent
 
 ### Supporting NPCs
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain Thaddeus Blackwater]] - Security chief
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] - Provides warnings
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]] - Shard expert
-- [[Prince Aurelius]] - Heir apparent
-- [[Lord Commander Steelborn]] - Military leader
+- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Security chief
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Provides warnings
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Shard expert
+- [[02_Worldbuilding/Lore/Prince Aurelius]] - Heir apparent
+- [[02_Worldbuilding/People/Lord Commander Steelborn]] - Military leader
 
 ## Rewards & Consequences
 
@@ -334,15 +338,15 @@ Each Shard grants:
 ## Connection to Larger Campaign
 
 ### Previous Quests
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] leads here
-- [[Quest - Foreign Interests]] sets up factions
-- [[Quest - The Shadow Conspiracy]] explains infiltration
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] leads here
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Foreign Interests]] sets up factions
+- [[02_Worldbuilding/Lore/Quest - The Shadow Conspiracy]] explains infiltration
 
 ### Future Quests  
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] if not resolved
-- [[Quest - The Deep Mother Rises]] triggered by outcome
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] if not resolved
+- [[02_Worldbuilding/Lore/Quest - The Deep Mother Rises]] triggered by outcome
 - [[Quest - The New World Order]] dealing with aftermath
-- [[Quest - The Merged Reality]] if worlds combine
+- [[02_Worldbuilding/Lore/Quest - The Merged Reality]] if worlds combine
 
 ### World Impact
 - Determines fate of both Aethermoor and Aquabyssos
@@ -358,9 +362,9 @@ Each Shard grants:
 
 ## Connections
 
-- [[Purist Coalition]]
-- [[High Inquisitor Maltheos]]
-- [[Quest - Diplomatic Immunity]]
+- [[02_Worldbuilding/Groups/Purist Coalition]]
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
 
 ## Player-Facing Summary
 
@@ -384,5 +388,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity|02 Worldbuilding/Quests/Quest Diplomatic Immunity]]
-- [[Quest - Foreign Interests]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Foreign Interests]]

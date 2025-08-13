@@ -34,7 +34,7 @@ updated: '2025-08-11T00:00:00+00:00'
 
 ## Overview
 
-The Customs House stands as one of the most unusual and important buildings in either world—a facility that exists simultaneously in both [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], serving as the primary checkpoint for the growing trade between realities. Located at a stable [[Merged Reality Zones|merged reality zone]], this imposing structure facilitates legal commerce while serving as the front line against interdimensional smuggling, illegal immigration, and the spread of dangerous artifacts.
+The Customs House stands as one of the most unusual and important buildings in either world—a facility that exists simultaneously in both [[02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], serving as the primary checkpoint for the growing trade between realities. Located at a stable [[02_Worldbuilding/Lore/Merged Reality Zones]], this imposing structure facilitates legal commerce while serving as the front line against interdimensional smuggling, illegal immigration, and the spread of dangerous artifacts.
 
 Originally built as separate facilities on both sides of a dimensional weak point, the buildings gradually merged as reality barriers weakened, creating a unique architectural marvel where crystal spires extend underwater while coral formations grow in open air. The Customs House has become a symbol of cooperation between worlds, even as political tensions rise and [[The Convergence Point]] approaches.
 
@@ -42,7 +42,7 @@ Originally built as separate facilities on both sides of a dimensional weak poin
 
 ### Dual Architecture
 **The Aethermoor Side (The Crystal Gate)**
-The [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] portion features traditional crystal architecture with practical modifications:
+The [[02_Worldbuilding/Places/Aethermoor]] portion features traditional crystal architecture with practical modifications:
 - **Main Structure**: Five-story crystal spire with administrative offices and inspection facilities
 - **Processing Halls**: Large chambers where goods are examined using crystal-based detection magic
 - **Storage Vaults**: Secure warehouses for quarantined or disputed items
@@ -50,7 +50,7 @@ The [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] po
 - **Guard Barracks**: Housing for [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] border security forces
 
 **The Aquabyssos Side (The Pressure Portal)**
-The [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] section reflects underwater architectural needs:
+The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] section reflects underwater architectural needs:
 - **Pressure-Resistant Structure**: Five-level facility built to withstand crushing depths
 - **Flow-Processing Centers**: Chambers using pressure-current detection for contraband
 - **Compression Vaults**: Storage areas maintaining various pressure levels
@@ -100,7 +100,7 @@ The facility serves as the primary defense against interdimensional threats:
 
 **Contraband Detection:**
 - **[[The Seven Shards]] Fragments**: Scanning for divine artifact pieces
-- **[[Shadow Corruption]] Materials**: Detection of corrupted substances and objects
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]] Materials**: Detection of corrupted substances and objects
 - **Weapons Smuggling**: Prevention of arms trafficking between worlds
 - **Dangerous Magic**: Screening for reality-threatening magical items
 - **Biological Hazards**: Quarantine of species that might become invasive
@@ -125,25 +125,25 @@ The Customs House serves as an intelligence hub:
 
 ### Administrative Leadership
 
-**[[Chief Inspector Dual-Current Thane]]** (Joint Administrator)
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Chief Inspector Dual-Current Thane]]** (Joint Administrator)
 - Unique individual with natural ability to exist in both realities
 - Appointed jointly by both world governments
 - Has authority to make binding decisions for both customs services
 - Experienced diplomat who helped negotiate the original trade agreements
 - Maintains careful neutrality while managing increasing political pressures
 
-**[[Deputy Inspector Crystal-Flow Maria]]** (Aethermoor Representative)
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deputy Inspector Crystal-Flow Maria]]** (Aethermoor Representative)
 - Senior customs official specializing in magical item detection
 - Expert in crystal-based security systems and reality stabilization
 - Coordinates with [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] for security operations
-- Maintains direct communication with [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] government
+- Maintains direct communication with [[02_Worldbuilding/Places/Crystalhaven]] government
 - Increasingly concerned about political use of customs data
 
-**[[Deputy Inspector Pressure-Tide Jonas]]** (Aquabyssos Representative)
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deputy Inspector Pressure-Tide Jonas]]** (Aquabyssos Representative)
 - Veteran enforcement officer with enhanced pressure adaptation
 - Specialist in memory-based contraband detection techniques
 - Coordinates with Aquabyssos maritime patrol units
-- Reports to [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] security committee
+- Reports to [[02_Worldbuilding/Places/Parliament of Echoes]] security committee
 - Struggles with conflicting loyalties as tensions increase
 
 ### Security Forces
@@ -232,7 +232,7 @@ The Customs House serves as an intelligence hub:
 
 **Dangerous Artifacts:**
 - **[[The Seven Shards]] Fragments**: Pieces of divine artifacts
-- **Corruption Samples**: [[Shadow Corruption]] for research or weaponization
+- **Corruption Samples**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]] for research or weaponization
 - **Reality Bombs**: Devices capable of destabilizing dimensional barriers
 - **Memory Weapons**: Consciousness-altering devices banned in both worlds
 - **Possession Crystals**: Stones containing dangerous consciousness fragments
@@ -295,8 +295,8 @@ The Customs House serves as an intelligence hub:
 - **Information Sharing**: Restrictions on intelligence cooperation
 
 **Policy Differences:**
-- **[[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]'s Position**: Increasing restrictions due to possession concerns
-- **[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]'s Stance**: Maintaining open trade despite political changes
+- **[[02_Worldbuilding/Places/Aethermoor]]'s Position**: Increasing restrictions due to possession concerns
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s Stance**: Maintaining open trade despite political changes
 - **Military Concerns**: Both worlds worried about espionage and infiltration
 - **Economic Interests**: Business pressure to maintain profitable trade
 - **Public Opinion**: Citizens in both worlds increasingly suspicious of the other
@@ -312,7 +312,7 @@ The Customs House serves as an intelligence hub:
 
 **Facility Vulnerabilities:**
 - **Reality Instability**: Dimensional fluctuations threatening building integrity
-- **Corruption Spread**: Risk of [[Shadow Corruption]] infection
+- **Corruption Spread**: Risk of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]] infection
 - **Personnel Loyalty**: Staff divided by increasing political tensions
 - **Information Security**: Difficulty protecting sensitive data in mixed environment
 - **Physical Security**: Challenge of defending facility existing in multiple realities
@@ -343,7 +343,7 @@ Marina's identity crisis reflects challenges faced by regular interdimensional t
 - **Counseling Services**: Supporting those with identity confusion
 - **Research Opportunities**: Studying Marina's condition to help others
 
-### [[Shadow Corruption]]
+### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]]
 The Customs House serves as primary defense against corruption spread:
 - **Screening Procedures**: Detecting corrupted individuals and materials
 - **Quarantine Facilities**: Isolating potentially dangerous corruption sources
@@ -382,9 +382,9 @@ The Customs House serves as primary defense against corruption spread:
 
 ## Connections
 
-- [[Desperate Plague Victim]]
-- [[Port Meridian - Merchant Quarter]]
-- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[02_Worldbuilding/Lore/Desperate Plague Victim]]
+- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
 
 ## Player-Facing Summary
 
@@ -409,7 +409,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Lore/The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
-- [[Merged Reality Zones]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
 - [[The Convergence Point]]
 - [[The Crimson Hand]]
 - [[The Seven Shards]]

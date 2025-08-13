@@ -6,9 +6,12 @@ session_number: 9
 date_played: null
 location: New Meridian - The Merged City
 npcs_featured:
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen
+  Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina
+  Red Tide Coralheart]]'
 - '[[Aquabyssos Ambassadors]]'
 - '[[The Transformed Citizens]]'
 quests_advanced:
@@ -21,6 +24,7 @@ tags:
 - active
 - aethermoor
 - aquabyssos
+- complete
 - lore
 - merged-reality
 - new-world
@@ -30,9 +34,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-13T01:18:37.174607+00:00'
+updated: '2025-08-13T12:34:28.471301+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

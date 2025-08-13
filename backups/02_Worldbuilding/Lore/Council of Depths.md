@@ -40,10 +40,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Legal System of Aquabyssos|02 Worldbuilding/Lore/Legal System Of Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Legal System of Aquabyssos]]
 
 
 ## Connections
 
-- [[Legal System of Aquabyssos]]
-- [[Tide Turner]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Legal System of Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tide Turner]]

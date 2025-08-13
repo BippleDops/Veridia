@@ -3,17 +3,19 @@ tags:
 - active
 - both
 - category/pointofinterest
+- complete
 - lore
 MyContainer:
 - '[[Jungle of Screams|Jungle of Screams]]'
 MyCategory: Encounter
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:31.198375+00:00'
+updated: '2025-08-13T12:34:25.296746+00:00'
 created: '2025-08-11'
 status: complete
 type: Lore
 ---
+
 
 
 

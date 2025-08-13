@@ -6,6 +6,9 @@ aliases: []
 created: '2025-07-23'
 updated: '2025-07-23T00:00:00+00:00'
 modified: 2025-07-23 12:39
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.479328
 ---
 The maps included in this folder is made available to you under a free license for personal or commercial use thanks to the awesome supporters of the  [**Dyson Logos Patreon Campaign**](https://www.patreon.com/dysonlogos). Hundreds of amazingly generous people have come together to fund the site and these maps, making them free for your use.
 

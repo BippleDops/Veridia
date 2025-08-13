@@ -2,13 +2,15 @@
 tags:
 - active
 - aethermoor
+- complete
 - npc
 type: NPC
 world: Aethermoor
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:37.079994+00:00'
+updated: '2025-08-13T12:34:28.378851+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-thornback-captain-thornback.svg)

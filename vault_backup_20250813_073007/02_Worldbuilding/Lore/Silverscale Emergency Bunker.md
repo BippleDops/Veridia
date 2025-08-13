@@ -3,18 +3,22 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aethermoor
 - bunker
+- complete
 - content/location
 - content/lore
 - emergency
+- lore
 - safety
 - silverscale
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.299680'
+updated: '2025-08-13T12:34:29.049082+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -58,11 +62,11 @@ Provides secure meeting location, refuge during disasters, or target for infiltr
 
 ## Connections
 
-- [[Silver Mask]]
-- [[The Deep Mother]]
-- [[The Final Choice]]
-- [[The Silverscale Conspiracy]]
-- [[Aethermoor - Session 04 The Silverscale Gambit]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
 
 ## Player-Facing Summary
 
@@ -80,4 +84,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Final Choice|02 Worldbuilding/Lore/The Final Choice]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]

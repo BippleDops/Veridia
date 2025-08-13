@@ -5,6 +5,7 @@ tags:
 - cave
 - completed
 - crystal
+- draft
 - location
 - underwater
 status: draft
@@ -12,7 +13,7 @@ world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: '2025-08-08'
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:27.424364+00:00'
 location_type: Underwater Cave System
 parent_location: Aquabyssos Deep Waters
 danger_level: 6
@@ -23,6 +24,7 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View

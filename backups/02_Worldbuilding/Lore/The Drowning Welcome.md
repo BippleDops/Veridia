@@ -23,9 +23,9 @@ tags:
 - [[Deep Mother]]
 - [[The Convergence Point]]
 - [[Timeline of the Drowning]]
-- [[High Priestess Scylla Deepdream]]
-- [[Prophet Nerida Voidgazer]]
-- [[The Hadal Depths]]
+- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]]
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]
 
 ## Player-Facing Summary
 

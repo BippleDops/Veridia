@@ -3,6 +3,7 @@ tags:
 - active
 - both
 - category/quest
+- complete
 - lore
 MyContainer: []
 MyCategory: null
@@ -17,11 +18,12 @@ questLootAvail: null
 questLookEarned: null
 NoteIcon: quest
 world: Both
-updated: '2025-08-13T01:18:31.193835+00:00'
+updated: '2025-08-13T12:34:25.292132+00:00'
 created: '2025-08-11'
 status: complete
 type: Lore
 ---
+
 
 
 

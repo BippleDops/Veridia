@@ -46,4 +46,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[The Convergence Point]]
-- [[Crystal Wardens]]
+- [[02_Worldbuilding/People/Crystal Wardens]]

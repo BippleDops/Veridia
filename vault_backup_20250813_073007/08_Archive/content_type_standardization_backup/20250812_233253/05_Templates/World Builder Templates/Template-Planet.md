@@ -3,15 +3,17 @@ tags:
 - active
 - both
 - category/planet
+- complete
 - lore
 obsidianUIMode: preview
 MyContainer: null
 world: Both
-updated: '2025-08-13T01:18:31.198930+00:00'
+updated: '2025-08-13T12:34:25.297300+00:00'
 created: '2025-08-11'
 status: complete
 type: Lore
 ---
+
 
 
 

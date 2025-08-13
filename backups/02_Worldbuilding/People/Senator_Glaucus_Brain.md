@@ -27,8 +27,8 @@ world: Both
 ### Quick Reference
 - **Name**: Senator Glaucus
 - **Role**: Senior Senator, Shadow Containment Committee Chair
-- **Faction**: [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
-- **Location**: [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
+- **Faction**: [[02_Worldbuilding/Places/Parliament of Echoes]]
+- **Location**: [[02_Worldbuilding/Places/Parliament of Echoes]]
 - **Status**: Alive (Shadow-compromised)
 - **Threat**: 3/10
 
@@ -76,23 +76,23 @@ An elderly statesman whose body shows decades of depth adaptation - slightly tra
 
 | Name | Relationship | Trust Level |
 |------|--------------|-------------|
-| [[02_Worldbuilding/People/Archon Meredith Saltweaver|02 Worldbuilding/People/Archon Meredith Saltweaver]] | Political ally, suspicious lately | 🟢🟢🟢⚪⚪ |
-| [[02_Worldbuilding/People/Captain Garrett Stormcutter|02 Worldbuilding/People/Captain Garrett Stormcutter]] | Former student, loyal supporter | 🟢🟢🟢🟢⚪ |
-| [[The Party]] | Useful investigators | 🟢🟢🟢⚪⚪ |
+| [[02_Worldbuilding/People/Archon Meredith Saltweaver]] | Political ally, suspicious lately | 🟢🟢🟢⚪⚪ |
+| [[02_Worldbuilding/People/Captain Garrett Stormcutter]] | Former student, loyal supporter | 🟢🟢🟢🟢⚪ |
+| [[vault_backup_20250813_073007/02_Worldbuilding/People/The Party]] | Useful investigators | 🟢🟢🟢⚪⚪ |
 
 ### 🔴 Enemies & Rivals
-- **Primary Rival**: [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]
+- **Primary Rival**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]
   - **Conflict**: She represents everything he fears about shadow independence
 - **Secondary Enemies**: 
-  - [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] - Blames Glaucus for not reuniting his fragments
+  - [[02_Worldbuilding/People/The Scattered Emperor]] - Blames Glaucus for not reuniting his fragments
 
 ### 🟡 Neutral/Complex
-- **Complicated**: [[His Own Shadow]]
+- **Complicated**: [[vault_backup_20250813_073007/02_Worldbuilding/People/His Own Shadow]]
   - **Dynamic**: They want different things but are bound together
 
 ### 📊 Faction Standing
 Current Reputation: **Respected but Declining**
-- Superior: [[Parliament High Council]]
+- Superior: [[vault_backup_20250813_073007/02_Worldbuilding/People/Parliament High Council]]
 - Peers: Other Senior Senators (growing suspicious)
 - Subordinates: Junior senators, investigation committee
 
@@ -257,20 +257,20 @@ Current Reputation: **Respected but Declining**
 ## 🔗 Connections
 
 ### Related NPCs
-- [[02_Worldbuilding/People/Archon Meredith Saltweaver|02 Worldbuilding/People/Archon Meredith Saltweaver]] - Political ally (actually traitor)
-- [[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]] - Primary opposition
-- [[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] - Hidden threat
-- [[Senator Marius]] - Dissolved predecessor (cautionary tale)
+- [[02_Worldbuilding/People/Archon Meredith Saltweaver]] - Political ally (actually traitor)
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]] - Primary opposition
+- [[02_Worldbuilding/People/The Scattered Emperor]] - Hidden threat
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Marius]] - Dissolved predecessor (cautionary tale)
 
 ### Associated Locations
-- Primary: [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
-- Secondary: [[02_Worldbuilding/Places/Senator's Private Chambers|Senator's Private Chambers]]
-- Hidden: [[Shadow Binding Sanctum]]
+- Primary: [[02_Worldbuilding/Places/Parliament of Echoes]]
+- Secondary: [[02_Worldbuilding/Places/Senator's Private Chambers]]
+- Hidden: [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Binding Sanctum]]
 
 ### Connected Quests
 - Main: [[01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy|01 Campaigns/Aquabyssos/ Investigations/The Shadow Parliament Conspiracy]]
-- Side: [[Find the Shadow Cure]]
-- Personal: [[02_Worldbuilding/Lore/The Senator's Last Stand|The Senator's Last Stand]]
+- Side: [[vault_backup_20250813_073007/02_Worldbuilding/People/Find the Shadow Cure]]
+- Personal: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Senator's Last Stand]]
 
 ---
 **NPC Brain Active** | *Last Updated: Session 10*
@@ -283,6 +283,50 @@ Senator Glaucus Brain is a undersea element of the setting, known for biolumines
 ## Lore Details
 
 Legends speak of Senator Glaucus Brain as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Senator Glaucus Brain.
+
+
+## Location & Movement
+
+🧠 Senator Glaucus's location and movement patterns reflect their role as a leader, with established routines and predictable presence in key locations.
+
+### Primary Location
+**Headquarters/Throne Room/Office** - Main base of operations
+- Typically found here during scheduled/formal occasions
+- Movement style: accompanied by retinue, formal protocols
+
+### Secondary Locations
+**Meeting Halls** - Regular destination 1
+**Ceremonial Spaces** - Regular destination 2
+
+### Daily Schedule
+
+**Dawn**: Planning
+**Morning**: Administrative Tasks
+**Midday**: Public Interactions
+**Afternoon**: Continued Work
+**Evening**: Relaxation
+**Night**: Rest
+
+### Movement Patterns
+
+**Travel Frequency**: Scheduled/Formal Occasions
+**Movement Style**: Accompanied By Retinue, Formal Protocols
+**Predictability**: Regular patterns with occasional variations
+**Accessibility**: Varies by location and circumstances
+
+### Encounter Likelihood
+
+**Primary Location**: High probability during business hours
+**Secondary Locations**: Medium probability during specific activities
+**Travel Routes**: Low probability, but possible during transitions
+**Random Encounters**: Very low probability in unexpected locations
+
+### Special Circumstances
+
+**Seasonal Variations**: Schedule may change with events or seasons
+**Emergency Protocols**: Alternative locations during crises
+**Social Events**: May be found at community gatherings
+**Private Time**: Limited access during personal hours
 
 ## Adventure Hooks
 
@@ -303,8 +347,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[Find the Shadow Cure]]
-- [[His Own Shadow]]
-- [[Parliament High Council]]
-- [[Senator Marius]]
-- [[Shadow Binding Sanctum]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Find the Shadow Cure]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/His Own Shadow]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Parliament High Council]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Marius]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Binding Sanctum]]

@@ -3,16 +3,20 @@ audience: player
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - campaign/session
+- complete
 - handout
+- lore
 - status/complete
 - world/aethermoor
 - world/both
 title: Player Handout — S-009 Void Moan
 type: Lore
-updated: '2025-08-12T23:37:41.247534'
+updated: '2025-08-13T12:34:32.394199+00:00'
 world: Both
 ---
+
 
 
 # Void Moan
@@ -34,4 +38,4 @@ Possible outcomes
 
 ## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01|06 GM Resources/Session Packets/Aethermoor Session 01]]
+- [[vault_backup_20250813_073007/06_GM_Resources/Session_Packets/Aethermoor Session 01]]

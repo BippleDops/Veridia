@@ -2,14 +2,16 @@
 tags:
 - active
 - aquabyssos
+- complete
 - location
 type: Location
 world: Aquabyssos
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.448091+00:00'
+updated: '2025-08-13T12:34:27.630312+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-quartermaster-judith-supplycurrent-quartermaster-judith-supplycurrent.svg)

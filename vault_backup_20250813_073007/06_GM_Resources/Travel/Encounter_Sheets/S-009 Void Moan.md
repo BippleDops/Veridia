@@ -38,7 +38,7 @@ world: Both
 - Fail: 1 long-term madness; crew impose -1 on checks for 1 hour
 
 ## Integrations
-- [[Sanity System]]; void exposure rules (altitude pressure inversion)
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]; void exposure rules (altitude pressure inversion)
 
 ## Scaling
 - In merger flicker, Integrity -1 on fail

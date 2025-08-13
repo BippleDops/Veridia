@@ -209,11 +209,11 @@ Unique spells available at different depths:
 - **"Who can I trust?"** - No simple answers here
 
 ### Resources
-- Full Player Handbook: [[Player_Handbook|Player Handbook]]
-- Character Creation: [[Character_Creation_Extended|Character Creation Extended]]
-- Faction Details: [[Faction_Guide|Faction Guide]]
-- World Lore: [[World_Primer|World Primer]]
-- Rules Reference: [[Complete_Rules_Reference|Complete Rules Reference]]
+- Full Player Handbook: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Player Handbook]]
+- Character Creation: [[vault_backup_20250813_073007/07_Player_Resources/Character Creation Extended]]
+- Faction Details: [[vault_backup_20250813_073007/07_Player_Resources/Faction Guide]]
+- World Lore: [[vault_backup_20250813_073007/07_Player_Resources/World Primer]]
+- Rules Reference: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Complete Rules Reference]]
 
 ---
 
@@ -246,6 +246,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Campaign_Index|Master Campaign Index]]
-- [[Character_Creation_Extended|Character Creation Extended]]
-- [[Faction_Guide|Faction Guide]]
-- [[World_Primer|World Primer]]
+- [[vault_backup_20250813_073007/07_Player_Resources/Character Creation Extended]]
+- [[vault_backup_20250813_073007/07_Player_Resources/Faction Guide]]
+- [[vault_backup_20250813_073007/07_Player_Resources/World Primer]]

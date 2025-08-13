@@ -2,6 +2,7 @@
 tags:
 - active
 - aethermoor
+- complete
 - crystal-plague
 - lore
 - queen-seraphina
@@ -20,13 +21,18 @@ locations_visited:
 - '[[Throne Room]]'
 - '[[Royal Vault]]'
 npcs_met:
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]'
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen
+  Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High
+  Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]]'
 - '[[Princess Celestia]] (revealed)'
 encounters:
-- '[[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]'
+- '[[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal
+  Guard Elite]]'
 - '[[Possessed Noble Coterie]]'
 - '[[02_Worldbuilding/Places/Throne Room - Heart of Palace|The Queen''s Shadow]]'
 quests_started:
@@ -59,10 +65,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-13T01:18:37.173172+00:00'
+updated: '2025-08-13T12:34:28.468372+00:00'
 created: '2025-08-11'
 status: complete
 ---
+
 
 
 

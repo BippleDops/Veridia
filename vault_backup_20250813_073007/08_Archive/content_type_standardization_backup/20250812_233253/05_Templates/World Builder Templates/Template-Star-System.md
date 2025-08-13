@@ -3,15 +3,17 @@ tags:
 - active
 - both
 - category/starsystem
+- complete
 - lore
 obsidianUIMode: preview
 MyContainer: null
 world: Both
-updated: '2025-08-13T01:18:31.189482+00:00'
+updated: '2025-08-13T12:34:25.287539+00:00'
 created: '2025-08-11'
 status: complete
 type: Lore
 ---
+
 
 
 

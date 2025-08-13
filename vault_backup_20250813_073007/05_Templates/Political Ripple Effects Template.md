@@ -307,7 +307,7 @@ world: Both
 
 ### Relevant Mechanics
 - [[Political System Rules]] - [How mechanics track political changes]
-- [[Faction Standing System]] - [How relationships are measured]
+- [[03_Mechanics/Faction Standing System]] - [How relationships are measured]
 
 ---
 

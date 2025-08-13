@@ -3,6 +3,7 @@ tags:
 - active
 - aquabyssos
 - both
+- complete
 - lore
 - mechanical_system
 - mechanics
@@ -13,9 +14,10 @@ type: Lore
 complexity: advanced
 created: '2025-08-07'
 world: Both
-updated: '2025-08-13T01:18:37.128051+00:00'
+updated: '2025-08-13T12:34:28.410746+00:00'
 status: complete
 ---
+
 
 
 

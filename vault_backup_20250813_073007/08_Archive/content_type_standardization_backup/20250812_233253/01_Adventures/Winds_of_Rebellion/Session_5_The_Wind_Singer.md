@@ -4,6 +4,7 @@ tags:
 - adventure-session
 - aethermoor
 - ancient-magic
+- complete
 - levels-4-6
 - spiritual-journey
 - winds-of-rebellion
@@ -20,9 +21,10 @@ themes:
 - alliance-building
 - power-sacrifice
 created: '2025-08-11'
-updated: '2025-08-13T01:18:37.154474+00:00'
+updated: '2025-08-13T12:34:28.430454+00:00'
 status: complete
 ---
+
 
 
 # Session 5: The Wind Singer

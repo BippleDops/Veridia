@@ -38,8 +38,8 @@ A document circulated among locals and travelers. Its edges are smudged with sal
 
 ## Cross-References
 - [[09_Performance/Indexes/Location_Network_Graph.md|Location Network]]
-- [[03_Mechanics/Rumor_Mill_Networ|03 Mechanics/Rumor Mill Networ]]
-- [[06_GM_Resources/Ultimate_GM_Screen.md|GM Screen]]
+- [[vault_backup_20250813_073007/03_Mechanics/Rumor Mill Networ]]
+- [[vault_backup_20250813_073007/06_GM_Resources/Ultimate GM Screen]]
 
 ## Player-Facing Summary
 

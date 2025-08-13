@@ -2,14 +2,16 @@
 tags:
 - active
 - aquabyssos
+- complete
 - lore
 - quest
 type: Lore
 world: Aquabyssos
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.236301+00:00'
+updated: '2025-08-13T12:34:26.248075+00:00'
 ---
+
 
 
 

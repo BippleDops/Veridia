@@ -2,13 +2,15 @@
 tags:
 - active
 - both
+- complete
 - npc
 type: NPC
 world: Both
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.994187+00:00'
+updated: '2025-08-13T12:34:28.319971+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-free-captains-alliance-free-captains-alliance.svg)

@@ -4,6 +4,7 @@ tags:
 - adventure-session
 - aerial-infiltration
 - aethermoor
+- complete
 - levels-4-6
 - skyship-heist
 - winds-of-rebellion
@@ -20,9 +21,10 @@ themes:
 - evidence-gathering
 - naval-politics
 created: '2025-08-11'
-updated: '2025-08-13T01:18:37.156991+00:00'
+updated: '2025-08-13T12:34:28.433162+00:00'
 status: complete
 ---
+
 
 
 # Session 3: The Skyship Heist

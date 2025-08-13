@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
+- complete
 - content/location
 - content/lore
+- lore
 - status/in-progress
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.574874'
+updated: '2025-08-13T12:34:29.257368+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -41,10 +45,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Hidden Smuggler's Cove|02 Worldbuilding/Places/Hidden Smuggler's Cove]]
+- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
 
 
 ## Connections
 
-- [[Hidden Smuggler's Cove]]
-- [[The Siren's Rest Tavern]]
+- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+- [[02_Worldbuilding/Places/The Siren's Rest Tavern]]

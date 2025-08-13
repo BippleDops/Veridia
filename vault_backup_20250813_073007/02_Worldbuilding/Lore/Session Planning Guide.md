@@ -3,16 +3,20 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
 - campaign/arc
 - campaign/session
+- complete
 - content/item
 - content/lore
+- lore
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.661497'
+updated: '2025-08-13T12:34:29.364449+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -50,12 +54,12 @@ Essential reference for dungeon masters running dual-realm campaigns.
 
 ## Connections
 
-- [[Campaign World]]
-- [[Comprehensive-World-Connection-Guide]]
-- [[Current PC Lead]]
-- [[Party Information]]
-- [[Random Encounter Tables]]
-- [[Templater Advanced]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign World]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Current PC Lead]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Party Information]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random Encounter Tables]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Templater Advanced]]
 
 ## Player-Facing Summary
 

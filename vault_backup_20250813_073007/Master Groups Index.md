@@ -49,12 +49,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Primary Governmental Bodies
 
-#### **[[Parliament of Echoes]]** - The Aquabyssos Government
+#### **[[02_Worldbuilding/Places/Parliament of Echoes]]** - The Aquabyssos Government
 - **World**: Aquabyssos
 - **Type**: Legislative Government Body
 - **Alignment**: Lawful Neutral (Corrupted)
 - **Size**: 200+ members across both chambers
-- **Headquarters**: [[Parliament of Echoes]] complex, [[Abyssos Prime]]
+- **Headquarters**: [[02_Worldbuilding/Places/Parliament of Echoes]] complex, [[02_Worldbuilding/Places/Abyssos Prime]]
 - **Leadership**: Senator Glaucus (Public), Shadow Chamber (Secret)
 - **Power Level**: Very High (National governance)
 - **Key Functions**: Law creation, governmental oversight, imperial balance
@@ -65,12 +65,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Allied Organizations**: Silverscale Consortium, Shadow Conspiracy
 - **Opposed Organizations**: Crystal Wardens, Reform movements
 
-#### **[[The Crown Authority]]** - The Aethermoor Government
+#### **[[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]** - The Aethermoor Government
 - **World**: Aethermoor
 - **Type**: Royal Government System
 - **Alignment**: Lawful Good (Compromised)
 - **Size**: 500+ officials and administrators
-- **Headquarters**: [[Royal Palace of Meridian]], [[Crystalhaven]]
+- **Headquarters**: [[02_Worldbuilding/Places/Royal Palace of Meridian]], [[02_Worldbuilding/Places/Crystalhaven]]
 - **Leadership**: Queen Seraphina Lumengarde
 - **Power Level**: Very High (National governance)
 - **Key Functions**: Royal administration, law enforcement, national defense
@@ -83,12 +83,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Regional Governance Bodies
 
-#### **[[The Crystal Throne]]** - Royal Authority Symbol
+#### **[[02_Worldbuilding/Groups/The Crystal Throne]]** - Royal Authority Symbol
 - **World**: Aethermoor
 - **Type**: Royal Institution/Authority
 - **Alignment**: Lawful Neutral
 - **Size**: Royal household and court (200+ members)
-- **Headquarters**: [[Crystalhaven]], [[The Crystal Throne]] chamber
+- **Headquarters**: [[02_Worldbuilding/Places/Crystalhaven]], [[02_Worldbuilding/Groups/The Crystal Throne]] chamber
 - **Leadership**: Queen Seraphina Lumengarde
 - **Power Level**: Very High (Royal authority)
 - **Key Functions**: Royal ceremonies, governmental legitimacy, power focus
@@ -99,12 +99,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Connected Organizations**: The Crown Authority, Crystal Wardens
 - **Opposing Forces**: Exile claimants, Reform movements
 
-#### **[[Goldspire Confederacy]]** - Independent City-State
+#### **[[02_Worldbuilding/Places/Goldspire Confederacy]]** - Independent City-State
 - **World**: Aethermoor
 - **Type**: Independent City Government
 - **Alignment**: Lawful Neutral
 - **Size**: City population (62,000) with governing council
-- **Headquarters**: [[Goldspire Port]], confederacy buildings
+- **Headquarters**: [[02_Worldbuilding/Places/Goldspire Port]], confederacy buildings
 - **Leadership**: Merchant Council confederation
 - **Power Level**: Moderate (Regional independence)
 - **Key Functions**: Independent governance, neutral trade, diplomatic balance
@@ -121,12 +121,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### National Military Organizations
 
-#### **[[Crystal Wardens]]** - Elite Royal Guard
+#### **[[02_Worldbuilding/People/Crystal Wardens]]** - Elite Royal Guard
 - **World**: Aethermoor
 - **Type**: Elite Military/Security Organization
 - **Alignment**: Lawful Good
 - **Size**: 500+ elite warriors and support staff
-- **Headquarters**: [[Azure Citadel]], [[Crystalhaven]]
+- **Headquarters**: [[02_Worldbuilding/Places/Azure Citadel]], [[02_Worldbuilding/Places/Crystalhaven]]
 - **Leadership**: Lord Commander Gareth Steelborn
 - **Power Level**: High (Elite military force)
 - **Key Functions**: Royal protection, crystal corruption prevention, elite operations
@@ -137,12 +137,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Allied Organizations**: The Crown Authority, Temple hierarchies
 - **Opposed Organizations**: Shadow networks, Criminal organizations
 
-#### **[[The Deepwatch Guard]]** - Deep Territory Security
+#### **[[02_Worldbuilding/Groups/The Deepwatch Guard]]** - Deep Territory Security
 - **World**: Aquabyssos
 - **Type**: Specialized Military/Security Force
 - **Alignment**: Lawful Neutral
 - **Size**: 800+ specialized personnel
-- **Headquarters**: Deep territory installations, [[Abyssos Prime]]
+- **Headquarters**: Deep territory installations, [[02_Worldbuilding/Places/Abyssos Prime]]
 - **Leadership**: Admiral Thorne Blackwater (naval integration)
 - **Power Level**: High (Deep territory control)
 - **Key Functions**: Deep territory security, extreme environment operations, threat response
@@ -155,12 +155,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Specialized Security Organizations
 
-#### **[[Consortium Security Constructs]]** - Corporate Security
+#### **[[02_Worldbuilding/Groups/Consortium Security Constructs]]** - Corporate Security
 - **World**: Aquabyssos
 - **Type**: Corporate Security/Military Force
 - **Alignment**: Lawful Neutral
 - **Size**: 300+ security personnel plus constructs
-- **Headquarters**: [[Silverscale Banking House]], corporate facilities
+- **Headquarters**: [[02_Worldbuilding/Lore/Silverscale Banking House]], corporate facilities
 - **Leadership**: Director Hadrian Silverscale
 - **Power Level**: Moderate-High (Corporate authority)
 - **Key Functions**: Corporate protection, financial security, construct operations
@@ -171,7 +171,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Allied Organizations**: Silverscale Consortium, Corporate interests
 - **Legal Status**: Private security with governmental contracts
 
-#### **[[Purist Coalition Thugs]]** - Extremist Enforcement
+#### **[[02_Worldbuilding/Groups/Purist Coalition Thugs]]** - Extremist Enforcement
 - **World**: Aethermoor
 - **Type**: Extremist Paramilitary Organization
 - **Alignment**: Lawful Evil
@@ -193,12 +193,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Major Religious Institutions
 
-#### **[[Temple of Divine Order]]** - State Religion Authority
+#### **[[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]** - State Religion Authority
 - **World**: Aethermoor
 - **Type**: Official Religious Institution
 - **Alignment**: Lawful Good
 - **Size**: 1000+ clergy and religious staff
-- **Headquarters**: [[Cathedral of Light]], [[Crystalhaven]]
+- **Headquarters**: [[02_Worldbuilding/Places/Cathedral of Light]], [[02_Worldbuilding/Places/Crystalhaven]]
 - **Leadership**: High Priestess Celeste Dawnbringer
 - **Power Level**: High (Religious authority)
 - **Key Functions**: Spiritual guidance, healing services, governmental blessing
@@ -209,7 +209,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Allied Organizations**: The Crown Authority, Medical communities
 - **Religious Tensions**: Balance between political support and spiritual independence
 
-#### **[[Order of the Drowned Star]]** - Mystery Religion
+#### **[[02_Worldbuilding/Groups/Orders/Order of the Drowned Star]]** - Mystery Religion
 - **World**: Aquabyssos
 - **Type**: Mystical Religious Order
 - **Alignment**: Chaotic Neutral
@@ -227,7 +227,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Cult and Extremist Organizations
 
-#### **[[The Leviathan Cult]]** - Ancient Entity Worship
+#### **[[02_Worldbuilding/Groups/Cults_and_Movements/The Leviathan Cult]]** - Ancient Entity Worship
 - **World**: Aquabyssos
 - **Type**: Extremist Religious Cult
 - **Alignment**: Chaotic Evil
@@ -243,12 +243,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Opposed Organizations**: Religious authorities, Government security, Public safety
 - **Cult Dangers**: Ancient entity summoning, Human sacrifice, Deep territory threats
 
-#### **[[Cult of Screams]]** - Sound-Based Religious Extremists
+#### **[[02_Worldbuilding/Groups/Cults_and_Movements/Cult of Screams]]** - Sound-Based Religious Extremists
 - **World**: Aquabyssos
 - **Type**: Extremist Sound Cult
 - **Alignment**: Chaotic Evil
 - **Size**: 60+ active cultists
-- **Headquarters**: [[Screaming Gardens]], hidden sound temples
+- **Headquarters**: [[02_Worldbuilding/Places/Screaming Gardens]], hidden sound temples
 - **Leadership**: Scream Master hierarchy
 - **Power Level**: Moderate (Localized threat)
 - **Key Functions**: Sound magic worship, acoustic terrorism, fear cultivation
@@ -261,7 +261,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Spiritual and Mystical Orders
 
-#### **[[The Order of the Azure Flame]]** - Mystical Fire Order
+#### **[[02_Worldbuilding/Groups/Orders/The Order of the Azure Flame]]** - Mystical Fire Order
 - **World**: Aethermoor
 - **Type**: Mystical Religious Order
 - **Alignment**: Lawful Good
@@ -283,12 +283,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Major Trading Organizations
 
-#### **[[Merchant Princes]]** - Commercial Ruling Elite
+#### **[[02_Worldbuilding/Groups/Merchant Princes]]** - Commercial Ruling Elite
 - **World**: Aethermoor
 - **Type**: Commercial Oligarchy/Government
 - **Alignment**: Lawful Neutral
 - **Size**: 5 core princes plus 200+ associated merchants
-- **Headquarters**: [[Port Meridian]], merchant districts
+- **Headquarters**: [[02_Worldbuilding/Places/Port Meridian]], merchant districts
 - **Leadership**: Lord Aurelius Goldwave (Head of Council)
 - **Power Level**: Very High (Economic control)
 - **Key Functions**: Economic governance, Trade regulation, Commercial policy
@@ -299,12 +299,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Allied Organizations**: The Crown Authority, International traders
 - **Economic Tensions**: Balance between profit and public good
 
-#### **[[Silverscale Consortium]]** - Financial Empire
+#### **[[02_Worldbuilding/Groups/Silverscale Consortium]]** - Financial Empire
 - **World**: Aquabyssos
 - **Type**: Banking and Financial Corporation
 - **Alignment**: Lawful Evil (Corrupt)
 - **Size**: 400+ employees and agents
-- **Headquarters**: [[Silverscale Banking House]], [[Abyssos Prime]]
+- **Headquarters**: [[02_Worldbuilding/Lore/Silverscale Banking House]], [[02_Worldbuilding/Places/Abyssos Prime]]
 - **Leadership**: Director Hadrian Silverscale
 - **Power Level**: Very High (Financial control)
 - **Key Functions**: Banking services, Investment management, Financial manipulation
@@ -318,7 +318,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Specialized Trading Groups
 
-#### **[[The Deepwater Trading Consortium]]** - Maritime Commerce
+#### **[[02_Worldbuilding/Groups/The Deepwater Trading Consortium]]** - Maritime Commerce
 - **World**: Aquabyssos
 - **Type**: Maritime Trading Organization
 - **Alignment**: Lawful Neutral
@@ -334,7 +334,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Allied Organizations**: Maritime communities, International traders
 - **Maritime Challenges**: Deep sea dangers, Piracy threats, Navigation hazards
 
-#### **[[Independent Smugglers]]** - Underground Commerce
+#### **[[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]** - Underground Commerce
 - **World**: Both
 - **Type**: Criminal Trading Network
 - **Alignment**: Chaotic Neutral
@@ -352,12 +352,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Professional and Craft Organizations
 
-#### **[[Master Artificers Guild]]** - Magical Crafting Authority
+#### **[[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]** - Magical Crafting Authority
 - **World**: Aethermoor
 - **Type**: Professional Craft Guild
 - **Alignment**: Lawful Good
 - **Size**: 80+ master artificers plus apprentices
-- **Headquarters**: Guild facilities, [[Crystalhaven]]
+- **Headquarters**: Guild facilities, [[02_Worldbuilding/Places/Crystalhaven]]
 - **Leadership**: Master Artificer Korvin Gearwright
 - **Power Level**: High (Technological control)
 - **Key Functions**: Magical item creation, Technological development, Quality standards
@@ -368,7 +368,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Allied Organizations**: The Crown Authority, Academic institutions
 - **Guild Services**: Custom crafting, Technological consulting, Apprenticeship programs
 
-#### **[[The Artisans' Collective of Master Crafters]]** - General Crafting Guild
+#### **[[02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters]]** - General Crafting Guild
 - **World**: Both
 - **Type**: Multi-Discipline Craft Organization
 - **Alignment**: Lawful Neutral
@@ -390,12 +390,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Major Criminal Organizations
 
-#### **[[The Shadow Trade Network]]** - Comprehensive Criminal Empire
+#### **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]** - Comprehensive Criminal Empire
 - **World**: Aquabyssos
 - **Type**: Organized Crime Syndicate
 - **Alignment**: Neutral Evil
 - **Size**: 400+ active members plus affiliates
-- **Headquarters**: [[The Umbral Exchange]], shadow facilities
+- **Headquarters**: [[02_Worldbuilding/Groups/The Umbral Exchange]], shadow facilities
 - **Leadership**: The Shadow Merchant Prime (unknown identity)
 - **Power Level**: Very High (Criminal authority)
 - **Key Functions**: Illegal commerce, Shadow magic services, Contraband trade
@@ -406,7 +406,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Allied Organizations**: Shadow Conspiracy, Corrupt officials
 - **Criminal Services**: Contraband trade, Information brokerage, Illegal services
 
-#### **[[The Whisper Syndicate]]** - Information and Influence Network
+#### **[[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]** - Information and Influence Network
 - **World**: Both
 - **Type**: Information Crime Organization
 - **Alignment**: Neutral Evil
@@ -424,12 +424,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Specialized Criminal Groups
 
-#### **[[Shadow Surgeons Collective]]** - Medical Horror Organization
+#### **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]** - Medical Horror Organization
 - **World**: Aquabyssos
 - **Type**: Criminal Medical Organization
 - **Alignment**: Chaotic Evil
 - **Size**: 100+ surgeons and support staff
-- **Headquarters**: [[Reflection Pools - Surgical Theater]], hidden facilities
+- **Headquarters**: [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]], hidden facilities
 - **Leadership**: Vex Shadowthorn (The Silhouette Surgeon Prime)
 - **Power Level**: Very High (Reality manipulation)
 - **Key Functions**: Shadow separation surgery, Consciousness alteration, Reality manipulation
@@ -441,7 +441,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Opposed Organizations**: Medical communities, Law enforcement, Reality protection
 - **Criminal Methods**: Shadow surgery, Memory alteration, Consciousness experimentation
 
-#### **[[The Brotherhood of the Black Anchor]]** - Maritime Crime
+#### **[[02_Worldbuilding/Groups/The Brotherhood of the Black Anchor]]** - Maritime Crime
 - **World**: Both
 - **Type**: Maritime Criminal Organization
 - **Alignment**: Chaotic Evil
@@ -459,7 +459,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Underground Service Organizations
 
-#### **[[Shadowhaven Merchant Marine]]** - Criminal Transportation
+#### **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadowhaven Merchant Marine]]** - Criminal Transportation
 - **World**: Aquabyssos
 - **Type**: Criminal Transportation Network
 - **Alignment**: Chaotic Neutral
@@ -481,7 +481,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Research and Educational Organizations
 
-#### **[[The Seekers' Guild]]** - Knowledge Research Organization
+#### **[[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]** - Knowledge Research Organization
 - **World**: Both
 - **Type**: Academic Research Guild
 - **Alignment**: Lawful Neutral
@@ -497,7 +497,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Allied Organizations**: Academic institutions, Government research
 - **Research Focus**: Historical mysteries, Mystical phenomena, Technological advancement
 
-#### **[[The Convergence Seekers]]** - Reality Research Organization
+#### **[[02_Worldbuilding/Groups/The Convergence Seekers]]** - Reality Research Organization
 - **World**: Both
 - **Type**: Specialized Reality Research Group
 - **Alignment**: True Neutral
@@ -516,7 +516,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Knowledge Preservation Organizations
 
-#### **[[Investigators Anonymous]]** - Investigation Training Organization
+#### **[[02_Worldbuilding/Groups/Investigators Anonymous]]** - Investigation Training Organization
 - **World**: Universal
 - **Type**: Professional Training Guild
 - **Alignment**: Lawful Neutral
@@ -538,7 +538,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Cultural Preservation Organizations
 
-#### **[[The Harmony Collective]]** - Cultural Balance Organization
+#### **[[02_Worldbuilding/People/The Harmony Collective]]** - Cultural Balance Organization
 - **World**: Both
 - **Type**: Cultural/Philosophical Organization
 - **Alignment**: True Neutral
@@ -554,12 +554,12 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Allied Organizations**: Cultural communities, Peace advocates
 - **Cultural Services**: Meditation, Conflict mediation, Philosophical counseling
 
-#### **[[The Verdant Accord]]** - Environmental Protection Alliance
+#### **[[02_Worldbuilding/People/The Verdant Accord]]** - Environmental Protection Alliance
 - **World**: Aethermoor
 - **Type**: Environmental Protection Organization
 - **Alignment**: Neutral Good
 - **Size**: 180+ environmental activists and specialists
-- **Headquarters**: [[Sylvanheart]], environmental centers
+- **Headquarters**: [[02_Worldbuilding/Places/Sylvanheart]], environmental centers
 - **Leadership**: Archdruid Thornweaver and environmental council
 - **Power Level**: High (Environmental authority)
 - **Key Functions**: Environmental protection, Nature preservation, Ecological balance
@@ -572,7 +572,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Professional Service Organizations
 
-#### **[[Current Riders Guild]]** - Aquatic Transportation Specialists
+#### **[[02_Worldbuilding/Places/Current Riders Guild]]** - Aquatic Transportation Specialists
 - **World**: Aquabyssos
 - **Type**: Professional Transportation Guild
 - **Alignment**: Lawful Neutral
@@ -588,7 +588,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Allied Organizations**: Maritime communities, Emergency services
 - **Guild Services**: Current transportation, Navigation guidance, Emergency rescue
 
-#### **[[Merchants Guild]]** - General Trade Organization
+#### **[[02_Worldbuilding/Groups/Guilds/Merchants Guild]]** - General Trade Organization
 - **World**: Both
 - **Type**: General Trading Guild
 - **Alignment**: Lawful Neutral
@@ -610,7 +610,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Secret Societies and Ancient Orders
 
-#### **[[Order of the Shattered Crown]]** - Ancient Restoration Order
+#### **[[02_Worldbuilding/People/Order of the Shattered Crown]]** - Ancient Restoration Order
 - **World**: Both
 - **Type**: Secret Ancient Order
 - **Alignment**: Lawful Neutral (Ancient agenda)
@@ -627,7 +627,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Connected Organizations**: Ancient survivors, Historical scholars
 - **Ancient Goals**: Crown restoration, Imperial legitimacy, Historical truth
 
-#### **[[The Void Watchers]]** - Cosmic Horror Monitors
+#### **[[02_Worldbuilding/Groups/The Void Watchers]]** - Cosmic Horror Monitors
 - **World**: Aquabyssos
 - **Type**: Cosmic Horror Monitoring Organization
 - **Alignment**: Lawful Neutral (Cosmic knowledge)
@@ -645,7 +645,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Reality Manipulation Organizations
 
-#### **[[The Shadow Conspiracy]]** - Reality Control Network
+#### **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]** - Reality Control Network
 - **World**: Aquabyssos
 - **Type**: Shadow Reality Manipulation Network
 - **Alignment**: Neutral Evil
@@ -661,7 +661,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Allied Organizations**: Shadow Surgeons, Corrupt officials
 - **Shadow Goals**: Reality control, Shadow dominance, Power consolidation
 
-#### **[[The Parliament of Nobody]]** - Existential Void Organization
+#### **[[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]** - Existential Void Organization
 - **World**: Aquabyssos
 - **Type**: Existential Void Cult
 - **Alignment**: Chaotic Neutral (Void focus)
@@ -683,7 +683,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Organizations Operating in Both Worlds
 
-#### **[[Ancient Mer-Folk Empire]]** - Historical Predecessor
+#### **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]** - Historical Predecessor
 - **Worlds**: Both (Historical presence)
 - **Type**: Ancient Imperial Organization
 - **Alignment**: Lawful Neutral (Historical)
@@ -699,7 +699,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **Modern Organizations**: Historical scholars, Ancient survivors
 - **Legacy Impact**: Cultural influence, Technological inheritance, Governmental precedent
 
-#### **[[The Crimson Fleet]]** - Cross-World Maritime Force
+#### **[[02_Worldbuilding/Groups/The Crimson Fleet]]** - Cross-World Maritime Force
 - **Worlds**: Both
 - **Type**: Maritime Military Organization
 - **Alignment**: Chaotic Neutral
@@ -717,7 +717,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ### Shared Knowledge Organizations
 
-#### **[[The Forsaken Consortium Collective]]** - Multi-World Criminal Network
+#### **[[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]** - Multi-World Criminal Network
 - **Worlds**: Both
 - **Type**: Cross-World Criminal Organization
 - **Alignment**: Neutral Evil
@@ -741,53 +741,53 @@ This comprehensive index organizes all 46 completed organizations and factions a
 **Very High Influence - National/International Level**
 
 #### Government Powers
-- **[[Parliament of Echoes]]** (Aquabyssos) - National legislative authority
-- **[[The Crown Authority]]** (Aethermoor) - Royal governmental power
-- **[[The Shadow Conspiracy]]** (Aquabyssos) - Reality manipulation network
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]** (Aquabyssos) - National legislative authority
+- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]** (Aethermoor) - Royal governmental power
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]** (Aquabyssos) - Reality manipulation network
 
 #### Economic Powers  
-- **[[Merchant Princes]]** (Aethermoor) - Commercial oligarchy control
-- **[[Silverscale Consortium]]** (Aquabyssos) - Financial empire dominance
-- **[[The Shadow Trade Network]]** (Aquabyssos) - Criminal economic empire
+- **[[02_Worldbuilding/Groups/Merchant Princes]]** (Aethermoor) - Commercial oligarchy control
+- **[[02_Worldbuilding/Groups/Silverscale Consortium]]** (Aquabyssos) - Financial empire dominance
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]** (Aquabyssos) - Criminal economic empire
 
 ### Tier 2 Organizations (Regional Power)
 **High Influence - Regional/Specialized Authority**
 
 #### Military & Security
-- **[[Crystal Wardens]]** (Aethermoor) - Elite military force
-- **[[The Deepwatch Guard]]** (Aquabyssos) - Deep territory security
-- **[[The Brotherhood of the Black Anchor]]** (Both) - Maritime criminal power
+- **[[02_Worldbuilding/People/Crystal Wardens]]** (Aethermoor) - Elite military force
+- **[[02_Worldbuilding/Groups/The Deepwatch Guard]]** (Aquabyssos) - Deep territory security
+- **[[02_Worldbuilding/Groups/The Brotherhood of the Black Anchor]]** (Both) - Maritime criminal power
 
 #### Religious & Cultural
-- **[[Temple of Divine Order]]** (Aethermoor) - Official religious authority
-- **[[The Verdant Accord]]** (Aethermoor) - Environmental protection alliance
-- **[[The Void Watchers]]** (Aquabyssos) - Cosmic monitoring authority
+- **[[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]** (Aethermoor) - Official religious authority
+- **[[02_Worldbuilding/People/The Verdant Accord]]** (Aethermoor) - Environmental protection alliance
+- **[[02_Worldbuilding/Groups/The Void Watchers]]** (Aquabyssos) - Cosmic monitoring authority
 
 ### Tier 3 Organizations (Local/Specialized Power)
 **Moderate Influence - Local Authority or Specialized Control**
 
 #### Professional & Cultural
-- **[[Master Artificers Guild]]** (Aethermoor) - Technological control
-- **[[The Harmony Collective]]** (Both) - Cultural mediation authority
-- **[[Current Riders Guild]]** (Aquabyssos) - Transportation specialization
+- **[[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]** (Aethermoor) - Technological control
+- **[[02_Worldbuilding/People/The Harmony Collective]]** (Both) - Cultural mediation authority
+- **[[02_Worldbuilding/Places/Current Riders Guild]]** (Aquabyssos) - Transportation specialization
 
 #### Criminal & Underground
-- **[[Independent Smugglers]]** (Both) - Underground commerce network
-- **[[Shadowhaven Merchant Marine]]** (Aquabyssos) - Criminal transportation
-- **[[The Whisper Syndicate]]** (Both) - Information crime network
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]** (Both) - Underground commerce network
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadowhaven Merchant Marine]]** (Aquabyssos) - Criminal transportation
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]** (Both) - Information crime network
 
 ### Tier 4 Organizations (Limited/Specialized Power)
 **Low-Moderate Influence - Specialized or Limited Authority**
 
 #### Academic & Knowledge
-- **[[The Seekers' Guild]]** (Both) - Knowledge research specialization
-- **[[Investigators Anonymous]]** (Universal) - Investigation training
-- **[[The Convergence Seekers]]** (Both) - Reality research specialization
+- **[[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]** (Both) - Knowledge research specialization
+- **[[02_Worldbuilding/Groups/Investigators Anonymous]]** (Universal) - Investigation training
+- **[[02_Worldbuilding/Groups/The Convergence Seekers]]** (Both) - Reality research specialization
 
 #### Cultural & Service
-- **[[The Artisans' Collective of Master Crafters]]** (Both) - Craft quality control
-- **[[Merchants Guild]]** (Both) - General trade standards
-- **[[Goldspire Confederacy]]** (Aethermoor) - Independent city governance
+- **[[02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters]]** (Both) - Craft quality control
+- **[[02_Worldbuilding/Groups/Guilds/Merchants Guild]]** (Both) - General trade standards
+- **[[02_Worldbuilding/Places/Goldspire Confederacy]]** (Aethermoor) - Independent city governance
 
 ---
 
@@ -997,7 +997,7 @@ This comprehensive index organizes all 46 completed organizations and factions a
 - **[[Master_Lore_Index|Master Lore Index]]** - Historical and cultural organization connections  
 - **[[Master_People_Index|Master People Index]]** - NPC-Organization leadership and membership relationships
 - **[[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]** - Comprehensive inter-organizational relationship system
-- **[[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]** - Session-ready faction reference materials
+- **[[vault_backup_20250813_073007/Campaign Quick Reference Sheets]]** - Session-ready faction reference materials
 
 ---
 
@@ -1015,6 +1015,6 @@ This comprehensive index organizes all 46 completed organizations and factions a
 
 ## Orphaned Content
 
-- [[02_Worldbuilding/Groups/Cultural Patro.md|Cultural Patro]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cultural_Organizations/Cultural Patro]]
 - [[02_Worldbuilding/Groups/Shadowhawk Syndicat.md|Shadowhawk Syndicat]]
 - [[02_Worldbuilding/Groups/Cultural Organization.md|Cultural Organization]]

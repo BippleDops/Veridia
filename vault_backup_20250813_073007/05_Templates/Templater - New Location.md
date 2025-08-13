@@ -36,7 +36,7 @@ location_type: <% locType %>
 
 ## General Info
 **Type**: <% locType %>
-**Parent Location**: [[Location]]
+**Parent Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location]]
 
 ## Description
 
@@ -66,4 +66,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Location|02 Worldbuilding/Lore/Location]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location]]

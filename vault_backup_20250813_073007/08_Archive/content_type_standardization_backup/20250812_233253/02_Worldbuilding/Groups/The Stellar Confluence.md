@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.655191+00:00'
+updated: '2025-08-13T12:34:27.917639+00:00'
 world: Both
 type: Group
 status: complete
 tags:
 - active
 - both
+- complete
 - group
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg)

@@ -34,15 +34,15 @@ obsidianUIMode: preview
 **Themes:** Cosmic horror, investigation, sanity, forbidden knowledge  
 **Party Size:** 3-6 characters  
 
-The [[02_Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] is a vast region of [[Aethermoor]] where reality itself seems thin, allowing whispers from dimensions beyond mortal comprehension to seep through. What began as isolated reports of strange sounds has escalated into a full-scale cosmic horror threatening to unravel the fabric of existence itself. The party must investigate these disturbances, uncover their source, and prevent an incursion that could consume all of [[Aethermoor]] in madness.
+The [[02_Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] is a vast region of [[02_Worldbuilding/Places/Aethermoor]] where reality itself seems thin, allowing whispers from dimensions beyond mortal comprehension to seep through. What began as isolated reports of strange sounds has escalated into a full-scale cosmic horror threatening to unravel the fabric of existence itself. The party must investigate these disturbances, uncover their source, and prevent an incursion that could consume all of [[02_Worldbuilding/Places/Aethermoor]] in madness.
 
 ## Background and Setup
 
 ### The Growing Silence
 
-For centuries, the region now known as the [[02_Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] was simply called [[02_Worldbuilding/Lore/Great Silence|02 Worldbuilding/Lore/Great Silence]] - a mysteriously quiet area where even the wind seemed muted. Travelers reported feeling uneasy but attributed it to the desolate landscape and sparse settlements. However, six months ago, the silence began to break.
+For centuries, the region now known as the [[02_Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] was simply called [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Great Silence]] - a mysteriously quiet area where even the wind seemed muted. Travelers reported feeling uneasy but attributed it to the desolate landscape and sparse settlements. However, six months ago, the silence began to break.
 
-It started with isolated reports from the frontier town of [[Quiet Haven]]:
+It started with isolated reports from the frontier town of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quiet Haven]]:
 - Residents hearing faint whispers in unknown languages during the night
 - Children speaking words in tongues that shouldn't exist
 - Animals behaving strangely, gathering in unnatural formations
@@ -60,9 +60,9 @@ What locals initially dismissed as imagination or stress has evolved into someth
 ### The Call for Heroes
 
 The regional government has tried multiple approaches to contain the situation:
-- **[[The Scholar's Guild]]** sent researchers who returned speaking in tongues
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/The Scholar's Guild]]** sent researchers who returned speaking in tongues
 - **[[02_Worldbuilding/Groups/The Order of the Silent Vigi|02 Worldbuilding/Groups/The Order Of The Silent Vigi]]** dispatched paladins who never returned at all
-- **[[Local Militia]]** established quarantine zones that were overrun from within
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Local Militia]]** established quarantine zones that were overrun from within
 
 Desperate for solutions, the authorities have put out a call for capable heroes willing to venture into the [[02_Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]] and discover the truth behind the phenomenon.
 
@@ -70,7 +70,7 @@ Desperate for solutions, the authorities have put out a call for capable heroes 
 
 ### Opening Hook
 
-The party is approached by **[[Magistrate Elena Greywind]]**, the regional administrator responsible for containing the crisis. She offers the following information and motivations:
+The party is approached by **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Magistrate Elena Greywind]]**, the regional administrator responsible for containing the crisis. She offers the following information and motivations:
 
 #### The Official Briefing
 - **Payment**: 5,000 gold pieces plus expenses for successful resolution
@@ -80,15 +80,15 @@ The party is approached by **[[Magistrate Elena Greywind]]**, the regional admin
 
 #### Key Information Provided
 - **[[Map of the Whispering Expanse]]**: Shows affected areas and quarantine zones
-- **[[Witness Reports]]**: Testimonies from early survivors
-- **[[Research Notes]]**: Incomplete findings from previous investigation teams
-- **[[Emergency Protocols]]**: Procedures for if the party becomes compromised
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Witness Reports]]**: Testimonies from early survivors
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Research Notes]]**: Incomplete findings from previous investigation teams
+- **[[02_Worldbuilding/Places/Emergency Protocols]]**: Procedures for if the party becomes compromised
 
 ### Initial Investigation Locations
 
 #### Quiet Haven (The First Affected Settlement)
 
-Once a thriving frontier town of 800 residents, [[Quiet Haven]] now houses barely 200 survivors, most showing signs of [[Whisper Exposure]]. Key locations include:
+Once a thriving frontier town of 800 residents, [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quiet Haven]] now houses barely 200 survivors, most showing signs of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Whisper Exposure]]. Key locations include:
 
 **The Town Square**
 - A massive spiral pattern has been carved into the cobblestones
@@ -103,14 +103,14 @@ Once a thriving frontier town of 800 residents, [[Quiet Haven]] now houses barel
 - **Arcana DC 20**: The symbols are conduits for extraplanar energy
 
 **The Last Inn**
-- The only operating establishment, run by **[[Innkeeper Marcus Thorne]]**
+- The only operating establishment, run by **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Innkeeper Marcus Thorne]]**
 - Marcus wears thick bandages around his ears and speaks only in whispers
 - He provides information about the progression of events
 - Has been keeping a journal of strange occurrences (valuable research material)
 
 #### The Research Camp
 
-The remains of the [[02_Worldbuilding/Groups/The Scholar's Guild|02 Worldbuilding/Groups/The Scholar's Guild]] expedition, now a scene of academic horror:
+The remains of the [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/The Scholar's Guild]] expedition, now a scene of academic horror:
 
 **The Central Tent**
 - Contains extensive research notes and observations
@@ -122,7 +122,7 @@ The remains of the [[02_Worldbuilding/Groups/The Scholar's Guild|02 Worldbuildin
 - Specialized listening devices and recording equipment
 - Several devices are still functional but produce disturbing audio
 - **Arcana DC 18**: The recordings can induce temporary madness in listeners
-- Contains research on [[Frequency Manipulation]] and [[Dimensional Resonance]]
+- Contains research on [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Frequency Manipulation]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dimensional Resonance]]
 
 ### Environmental Challenges
 
@@ -133,7 +133,7 @@ The remains of the [[02_Worldbuilding/Groups/The Scholar's Guild|02 Worldbuildin
 - All creatures must make DC 16 Wisdom saves
 - Failure: Take 2d6 psychic damage and must use action next turn to listen
 - Success: Half damage, no compulsion
-- Characters with 0 hit points from psychic damage become [[Whisper-Touched]]
+- Characters with 0 hit points from psychic damage become [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Whisper-Touched]]
 
 #### Reality Distortions
 
@@ -142,7 +142,7 @@ The remains of the [[02_Worldbuilding/Groups/The Scholar's Guild|02 Worldbuildin
 - DC 18 Perception to notice architectural impossibilities
 - Navigation requires DC 20 Survival checks to avoid getting lost
 - Characters who fail by 5 or more are separated from the party
-- [[Whisper-Touched]] creatures navigate these areas perfectly
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Whisper-Touched]] creatures navigate these areas perfectly
 
 #### Silence Zones
 
@@ -157,7 +157,7 @@ The remains of the [[02_Worldbuilding/Groups/The Scholar's Guild|02 Worldbuildin
 
 ### The Source Discovery
 
-As the party ventures deeper into the [[02_Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]], they discover that the whispers originate from **[[The Resonance Crater]]** - a massive impact site where something from beyond this reality crashed centuries ago.
+As the party ventures deeper into the [[02_Worldbuilding/Lore/Map of the Whispering Expanse|02 Worldbuilding/Lore/Map Of The Whispering Expanse]], they discover that the whispers originate from **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Resonance Crater]]** - a massive impact site where something from beyond this reality crashed centuries ago.
 
 #### The Crater's Features
 
@@ -177,18 +177,18 @@ As the party ventures deeper into the [[02_Worldbuilding/Lore/Map of the Whisper
 
 #### The Ancient Observatory
 
-At the crater's center stands **[[The Observatory of Whispers]]**, a structure that predates recorded history:
+At the crater's center stands **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Observatory of Whispers]]**, a structure that predates recorded history:
 
 **The Listening Chamber**
 - A spherical room with perfect acoustic properties
 - Amplifies the whispers to unbearable levels
-- Contains ancient [[Resonance Equipment]] still partially functional
+- Contains ancient [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Equipment]] still partially functional
 - DC 25 Arcana: The equipment is designed to communicate with entities in other dimensions
 
 **The Star Map**
 - Carved into the chamber ceiling is a map of alien constellations
 - The map shows the relative positions of realities beyond this one
-- Characters studying it must make DC 18 Wisdom saves or gain [[Cosmic Awareness]]
+- Characters studying it must make DC 18 Wisdom saves or gain [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Cosmic Awareness]]
 - **Cosmic Awareness**: Understand the true scale of existence but gain vulnerability to madness
 
 ### The Truth Revealed
@@ -202,14 +202,14 @@ Through investigation and interaction with the Observatory, the party learns the
 - The original builders were eventually consumed by their own creation
 
 #### The Current Crisis
-- The recent intensification began when [[Seismic Activity]] damaged the Observatory's containment systems
+- The recent intensification began when [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Seismic Activity]] damaged the Observatory's containment systems
 - The whispers are now leaking freely into the surrounding area
 - Each person who succumbs to the whispers becomes a living amplifier
 - If the spread continues, it will eventually reach major population centers
 
 #### The Whisper Network
-- All [[Whisper-Touched]] individuals are connected in a hive mind
-- They are unconsciously working to complete a massive [[Summoning Ritual]]
+- All [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Whisper-Touched]] individuals are connected in a hive mind
+- They are unconsciously working to complete a massive [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Summoning Ritual]]
 - The ritual will create a permanent gateway for [[Far Realm]] entities
 - The party has perhaps days before the ritual reaches completion
 
@@ -217,11 +217,11 @@ Through investigation and interaction with the Observatory, the party learns the
 
 ### The Whisper Collective
 
-As the party attempts to stop the ritual, they face the **[[Whisper Collective]]** - the hive mind of all affected individuals led by the original researchers who first made contact.
+As the party attempts to stop the ritual, they face the **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Whisper Collective]]** - the hive mind of all affected individuals led by the original researchers who first made contact.
 
 #### Collective Leadership
 
-**[[Dr. Thaddeus Vain]]** (CR 14)
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dr Thaddeus Vain]]** (CR 14)
 *Medium humanoid (human), chaotic evil*
 - **AC** 17 (Natural Armor)
 - **HP** 165 (22d8 + 66)
@@ -262,19 +262,19 @@ The Collective has established several ritual sites throughout the Expanse, each
 #### The Amplification Array
 - Series of standing stones arranged in non-Euclidean patterns
 - Broadcasts whispers across greater distances
-- Defended by **[[Whisper Wraiths]]** - incorporeal undead created by prolonged exposure
+- Defended by **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Whisper Wraiths]]** - incorporeal undead created by prolonged exposure
 - Must be disrupted to weaken the overall ritual
 
 #### The Translation Matrix
 - Complex symbol system that converts reality's "frequency" to match the Far Realm
 - Guarded by Whisper-Touched scholars who maintain the patterns
 - Destroying this site prevents the ritual from adapting to disruption attempts
-- Contains dangerous [[Paradox Traps]] that can erase intruders from existence
+- Contains dangerous [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Paradox Traps]] that can erase intruders from existence
 
 #### The Convergence Point
 - The final ritual location where all whisper streams unite
 - Located at the Observatory's original communication chamber
-- Will summon **[[The Whisperer Prime]]** - a Far Realm entity of immense power
+- Will summon **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Whisperer Prime]]** - a Far Realm entity of immense power
 - Heavily defended by the collective's most powerful members
 
 ### Environmental Hazards During Combat
@@ -321,7 +321,7 @@ The party can achieve victory through several approaches:
 #### Dimensional Isolation
 - Isolate the Expanse in a pocket dimension
 - Contains the threat but abandons all affected areas
-- Requires cooperation with [[Dimensional Specialists]]
+- Requires cooperation with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dimensional Specialists]]
 - May be the safest option for the wider world
 
 #### Negotiated Resolution
@@ -335,7 +335,7 @@ The party can achieve victory through several approaches:
 If the party fails to stop the ritual:
 
 #### Immediate Results
-- **[[The Whisperer Prime]]** manifests in the material plane
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Whisperer Prime]]** manifests in the material plane
 - The Whispering Expanse expands exponentially
 - All major population centers within 500 miles are affected within days
 - Regional governments collapse as leadership becomes Whisper-Touched
@@ -362,10 +362,10 @@ If the party fails to stop the ritual:
 - Ancient artifacts from the Observatory: 10,000+ gp value (if safely extracted)
 
 **Unique Treasures:**
-- **[[Whisper Ward Amulet]]**: Immunity to whisper-induced madness
-- **[[Reality Anchor Ring]]**: Stabilizes local space against distortions
-- **[[Observatory Codex]]**: Contains dangerous but valuable interdimensional knowledge
-- **[[Frequency Manipulator]]**: Device for controlling dimensional communications
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Whisper Ward Amulet]]**: Immunity to whisper-induced madness
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Anchor Ring]]**: Stabilizes local space against distortions
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Observatory Codex]]**: Contains dangerous but valuable interdimensional knowledge
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Frequency Manipulator]]**: Device for controlling dimensional communications
 
 ### Story Consequences
 
@@ -383,7 +383,7 @@ If the party fails to stop the ritual:
 
 #### Character Development
 - Exposure to cosmic horror provides unique character growth opportunities
-- Optional [[Whisper Exposure]] traits that provide benefits and drawbacks
+- Optional [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Whisper Exposure]] traits that provide benefits and drawbacks
 - Characters may develop new motivations related to protecting reality
 - Potential for future adventures dealing with cosmic threats
 
@@ -400,7 +400,7 @@ If the party fails to stop the ritual:
 
 #### The Lost Expedition
 *Level 10-14*
-- Party searches for the missing [[02_Worldbuilding/Groups/The Scholar's Guild|02 Worldbuilding/Groups/The Scholar's Guild]] expedition
+- Party searches for the missing [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/The Scholar's Guild]] expedition
 - Discovers what happened to previous investigation teams
 - Explores the early stages of whisper infection
 - Provides background knowledge useful for the main quest
@@ -480,19 +480,19 @@ If the party fails to stop the ritual:
 
 The **Whispering Expanse** can be integrated with other adventures and campaign elements:
 
-- **[[The Pressure Conspiracy]]**: Political manipulation using whisper-influenced agents
-- **[[Temporal Navigation]]**: Time-based approach to preventing or understanding the crisis
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Connection to underwater sources of cosmic horror
-- **[[Ancient Observatory Networks]]**: Similar facilities in other locations
+- **[[02_Worldbuilding/Places/The Pressure Conspiracy]]**: Political manipulation using whisper-influenced agents
+- **[[02_Worldbuilding/Places/Temporal Navigation]]**: Time-based approach to preventing or understanding the crisis
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: Connection to underwater sources of cosmic horror
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ancient Observatory Networks]]**: Similar facilities in other locations
 - **[[Far Realm Incursions]]**: Part of a larger pattern of otherworldly invasion
 
 ### Recurring NPCs
 
 Characters from this adventure can appear in future campaigns:
-- **[[Magistrate Elena Greywind]]**: Becomes an expert in cosmic threats
-- **[[Innkeeper Marcus Thorne]]**: Develops resistance to otherworldly influences  
-- **[[Dr. Thaddeus Vain]]**: If cured, becomes a valuable but haunted ally
-- **[[The Whisper Survivors]]**: Form an organization to prevent similar disasters
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Magistrate Elena Greywind]]**: Becomes an expert in cosmic threats
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Innkeeper Marcus Thorne]]**: Develops resistance to otherworldly influences  
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dr Thaddeus Vain]]**: If cured, becomes a valuable but haunted ally
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Whisper Survivors]]**: Form an organization to prevent similar disasters
 
 ### World Impact
 
@@ -508,11 +508,11 @@ The events of this adventure permanently change the campaign world:
 ## Connections
 
 - [[The Great Crystallization]]
-- [[The Crimson Sage]]
+- [[02_Worldbuilding/People/The Crimson Sage]]
 - [[Ambush Point]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -537,6 +537,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Ambush Point|02 Worldbuilding/Quests/Ambush Point]]
-- [[Aethermoor]]
-- [[Temporal Navigation]]
-- [[The Pressure Conspiracy]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Temporal Navigation]]
+- [[02_Worldbuilding/Places/The Pressure Conspiracy]]

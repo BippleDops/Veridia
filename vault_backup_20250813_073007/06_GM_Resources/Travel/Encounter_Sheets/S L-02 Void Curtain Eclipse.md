@@ -40,8 +40,8 @@ world: Both
 - Fail: Panic spreads; riots; anchors stressed (-1 Integrity local)
 
 ## Integrations
-- [[Complete Reality Merger System]]: Integrity shifts
-- [[Sanity System]]: mass checks
+- [[03_Mechanics/Complete Reality Merger System]]: Integrity shifts
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]: mass checks
 
 ## Variants
 - Cult liturgy attempts to claim eclipse; counter-chant scene

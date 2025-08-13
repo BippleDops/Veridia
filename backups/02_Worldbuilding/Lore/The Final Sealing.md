@@ -42,14 +42,14 @@ The Final Sealing describes a turning current in history where choices about mem
 - Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
 
 ## Threads and Revelations
-- Records implicate agents tied to [[02_Worldbuilding/Lore/The Lighthouse of Storms.md|The Lighthouse of Storms]].
+- Records implicate agents tied to [[02_Worldbuilding/Lore/The Lighthouse of Storms]].
 - A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/The Whispering Expanse.md|The Whispering Expanse]].
-- Testimony suggests [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] financed a pivotal bribe.
+- Testimony suggests [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Elena Starweaver]] financed a pivotal bribe.
 
 ## Cross-References
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms.md|The Lighthouse of Storms]]
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
 - [[02_Worldbuilding/Quests/The Whispering Expanse.md|The Whispering Expanse]]
-- [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Elena Starweaver]]
 
 ## Player-Facing Summary
 
@@ -74,4 +74,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[The Threshold]]
+- [[02_Worldbuilding/Lore/The Threshold]]

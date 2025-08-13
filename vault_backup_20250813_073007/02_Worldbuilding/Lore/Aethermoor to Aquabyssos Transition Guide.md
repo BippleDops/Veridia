@@ -3,17 +3,21 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/mechanics
 - guide
+- lore
 - status/complete
 - transition
 - travel
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.196174'
+updated: '2025-08-13T12:34:28.938180+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -124,11 +128,11 @@ The transition process actually creates temporary psychic links between individu
 
 ## Related Topics
 
-- [[Campaign World]]
-- [[Surface Portal Alpha]]
-- [[Pressure Tubes]]
-- [[Current PC Lead]]
-- [[Party Information]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign World]]
+- [[02_Worldbuilding/Places/Surface Portal Alpha]]
+- [[02_Worldbuilding/Places/Pressure Tubes]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Current PC Lead]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Party Information]]
 
 ## Campaign Use
 
@@ -137,12 +141,12 @@ Use transitions as opportunities for character development, world-building expos
 
 ## Connections
 
-- [[Citizens of Meridian]]
-- [[Crimson Hand Strike Team]]
-- [[Crystal Festival Grounds]]
-- [[Dock Worker Tomás]]
-- [[Lamplight Alley]]
-- [[Session 0 - Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Citizens of Meridian]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crimson Hand Strike Team]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival Grounds]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dock Worker Toms]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lamplight Alley]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session 0 - Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -160,4 +164,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Session 0 - Aquabyssos|02 Worldbuilding/Lore/Session 0 Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session 0 - Aquabyssos]]

@@ -45,7 +45,7 @@ occupation: <% npcOccupation %>
 **Gender**: <% npcGender %>
 **Age**: <% npcAge %>
 **Occupation**: <% npcOccupation %>
-**Location**: [[Location]]
+**Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location]]
 
 ## Description
 

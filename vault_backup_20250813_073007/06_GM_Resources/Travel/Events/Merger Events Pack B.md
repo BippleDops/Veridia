@@ -23,7 +23,7 @@ world: Both
 
 # Merger Events Pack B — 50 Ready-to-Run Encounters (M-101–M-150)
 
-Complements [[06_GM_Resources/Travel/Events/Merger_Events_Pack_A|Pack A]].
+Complements [[vault_backup_20250813_073007/06_GM_Resources/Travel/Events/Merger Events Pack A]].
 
 ---
 

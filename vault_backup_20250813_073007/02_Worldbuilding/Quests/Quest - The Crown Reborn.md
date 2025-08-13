@@ -9,19 +9,23 @@ obsidianUIMode: preview
 quest_type: Epic Campaign Arc
 status: complete
 tags:
+- aethermoor
 - campaign/arc
+- complete
 - content/adventure
 - content/lore
 - crown
 - epic
 - level-10-15
+- lore
 - seven-shards
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:37.778855'
+updated: '2025-08-13T12:34:28.557153+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -31,7 +35,7 @@ world: Aethermoor
 
 ## Overview
 
-The legendary Seven Shards of the Crown of Stars, scattered and hidden across [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] for centuries, hold the key to preventing a catastrophic awakening of [[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]. As reality grows thin and the boundaries between worlds blur, only the reformed Crown can stabilize both realms and prevent cosmic destruction. But gathering the Shards will attract the attention of every major power, and the party must navigate political intrigue, ancient guardians, and moral dilemmas about who should wield such power.
+The legendary Seven Shards of the Crown of Stars, scattered and hidden across [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] for centuries, hold the key to preventing a catastrophic awakening of [[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]. As reality grows thin and the boundaries between worlds blur, only the reformed Crown can stabilize both realms and prevent cosmic destruction. But gathering the Shards will attract the attention of every major power, and the party must navigate political intrigue, ancient guardians, and moral dilemmas about who should wield such power.
 
 ## Background
 
@@ -39,9 +43,9 @@ The legendary Seven Shards of the Crown of Stars, scattered and hidden across [[
 Long ago, the Crown of Stars was the ultimate artifact of unity, worn by the first ruler to bridge the gap between the surface world and the depths. When [[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]] first stirred in her cosmic loneliness, seven heroes known as the Betrayers shattered the Crown, creating the Seven Shards as both keys and prison - not to contain her, but to maintain the barrier between realms that kept her from fully manifesting.
 
 ### Current Crisis
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] knows the location of three Shards but is corrupted by crystal plague
-- [[02_Worldbuilding/People/Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]] holds knowledge of three different Shards in Aquabyssos
-- The seventh Shard is lost, possibly destroyed or hidden by [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] knows the location of three Shards but is corrupted by crystal plague
+- [[02_Worldbuilding/People/Emperor Thalassius]] holds knowledge of three different Shards in Aquabyssos
+- The seventh Shard is lost, possibly destroyed or hidden by [[02_Worldbuilding/People/The Crimson Sage]]
 - Reality destabilization increases daily as the Deep Mother's dreams bleed into both worlds
 - Multiple factions seek the Shards for their own purposes
 
@@ -49,7 +53,7 @@ Long ago, the Crown of Stars was the ultimate artifact of unity, worn by the fir
 
 ### Scene 1: The Revelation
 **Location**: Crystal Palace throne room or equivalent high-security meeting
-**NPCs**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]], [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] (projection), [[02_Worldbuilding/People/Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]]
+**NPCs**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], [[02_Worldbuilding/People/The Crimson Sage]] (projection), [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
 
 The party is summoned for an urgent audience where they learn the true nature of the Seven Shards. Queen Seraphina, in a rare moment of clarity between corruption episodes, reveals her knowledge and desperation.
 
@@ -63,10 +67,10 @@ The party is summoned for an urgent audience where they learn the true nature of
 - The Deep Mother's awakening will merge realities catastrophically
 
 ### Scene 2: The First Shard - The Heart of Memory
-**Location**: [[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]] (Aquabyssos)
+**Location**: [[02_Worldbuilding/Places/The Memory Meadows]] (Aquabyssos)
 **Challenge Type**: Infiltration and puzzle
 
-The first Shard lies trapped in the memory prison where [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] stores their victims. The party must infiltrate this nightmare facility while avoiding shadow detection.
+The first Shard lies trapped in the memory prison where [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]] stores their victims. The party must infiltrate this nightmare facility while avoiding shadow detection.
 
 **Obstacles**:
 - Shadow guards and replaced sentinels
@@ -89,7 +93,7 @@ The first Shard lies trapped in the memory prison where [[02_Worldbuilding/Group
 
 ### Scene 3: Political Complications
 **Location**: Various political meetings and courts
-**NPCs**: [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] leaders, [[02_Worldbuilding/People/Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]], [[02_Worldbuilding/People/Senator_Glaucus_Brain|02 Worldbuilding/People/Senator Glaucus Brain]] (shadow)
+**NPCs**: [[02_Worldbuilding/Groups/Purist Coalition]] leaders, [[02_Worldbuilding/People/Prince Caspian Duskwater]], [[02_Worldbuilding/People/Senator_Glaucus_Brain|02 Worldbuilding/People/Senator Glaucus Brain]] (shadow)
 
 Word of the party's activities reaches multiple factions. Each tries to recruit, threaten, or manipulate them:
 
@@ -103,10 +107,10 @@ Word of the party's activities reaches multiple factions. Each tries to recruit,
 ## Act II: The Depths of Power (Sessions 3-4)
 
 ### Scene 4: The Sunken Archive
-**Location**: Ruins of the ancient library beneath [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
+**Location**: Ruins of the ancient library beneath [[02_Worldbuilding/Places/Aquabyssos]]
 **Challenge Type**: Exploration and knowledge gathering
 
-The second and third Shards are hidden in separate locations known only through ancient texts. The party must navigate flooded ruins while avoiding [[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]'s influence.
+The second and third Shards are hidden in separate locations known only through ancient texts. The party must navigate flooded ruins while avoiding [[02_Worldbuilding/People/Aboleth Prime Yoth]]'s influence.
 
 **Environmental Hazards**:
 - Crushing water pressure (Constitution saves)
@@ -123,8 +127,8 @@ The second and third Shards are hidden in separate locations known only through 
 **Discovery**: The Shards' locations are protected by divine commands that require specific rituals to bypass.
 
 ### Scene 5: The Tidal Throne
-**Location**: [[02_Worldbuilding/People/Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]]'s deepest sanctum
-**NPCs**: [[02_Worldbuilding/People/Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]], his court, [[02_Worldbuilding/People/Duchess Marina Ever-Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]]
+**Location**: [[02_Worldbuilding/People/Emperor Thalassius]]'s deepest sanctum
+**NPCs**: [[02_Worldbuilding/People/Emperor Thalassius]], his court, [[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]
 
 The Emperor agrees to parley about the Shards' locations, but his price is steep - he wants guarantees that the reformed Crown won't threaten Aquabyssos's independence.
 
@@ -142,7 +146,7 @@ The Emperor agrees to parley about the Shards' locations, but his price is steep
 **Reward**: Locations of the fourth and fifth Shards
 
 ### Scene 6: The Abyssal Gardens
-**Location**: [[02_Worldbuilding/People/Master Cultivator Thalia Greenglow|02 Worldbuilding/People/Master Cultivator Thalia Greenglow]]'s corrupted grove
+**Location**: [[02_Worldbuilding/People/Master Cultivator Thalia Greenglow]]'s corrupted grove
 **Challenge Type**: Survival horror and purification
 
 The fourth Shard has corrupted an entire grove, causing plants to grow in impossible ways while feeding on [[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]'s dreams.
@@ -169,7 +173,7 @@ The fourth Shard has corrupted an entire grove, causing plants to grow in imposs
 ## Act III: The Crown's Price (Sessions 5-6)
 
 ### Scene 7: The Singing Depths
-**Location**: [[02_Worldbuilding/Places/The Singing Trenches|02 Worldbuilding/Places/The Singing Trenches]]
+**Location**: [[02_Worldbuilding/Places/The Singing Trenches]]
 **Challenge Type**: Underwater dungeon with sonic hazards
 
 The fifth Shard lies in the deepest part of the ocean, where [[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]'s songs are strongest. The party must survive both physical and mental challenges.
@@ -196,9 +200,9 @@ The fifth Shard lies in the deepest part of the ocean, where [[02_Worldbuilding/
 
 ### Scene 8: The Betrayer's Legacy
 **Location**: Hidden tomb of one of the original Seven Betrayers
-**NPCs**: [[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]] (revealed as descendant), ghostly Guardian
+**NPCs**: [[02_Worldbuilding/People/Archdruid Thornweaver]] (revealed as descendant), ghostly Guardian
 
-The sixth Shard was hidden by [[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]]'s ancestor, one of the original Betrayers. She must confront her family's legacy to help the party.
+The sixth Shard was hidden by [[02_Worldbuilding/People/Archdruid Thornweaver]]'s ancestor, one of the original Betrayers. She must confront her family's legacy to help the party.
 
 **Roleplay Encounter**: Thornweaver's crisis of conscience
 - She's spent centuries atoning for her ancestor's actions
@@ -223,7 +227,7 @@ The sixth Shard was hidden by [[02_Worldbuilding/People/Archdruid Thornweaver|02
 ## Act IV: The Crown's Completion (Sessions 7-8)
 
 ### Scene 9: The Missing Piece
-**Location**: [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'s hidden sanctum
+**Location**: [[02_Worldbuilding/People/The Crimson Sage]]'s hidden sanctum
 **Challenge Type**: Moral philosophy and final test
 
 The final Shard isn't missing—it's in the Crimson Sage, who incorporated it into herself to monitor the other Shards. She will only surrender it if she believes the party truly understands the Crown's burden.
@@ -294,21 +298,21 @@ The reformation ritual requires the party to channel immense power while every f
 ## NPCs and Their Motivations
 
 ### Allies
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]**: Desperately wants to be cured and save her kingdom
-- **[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]**: Tests worthiness but ultimately supports the mission
-- **[[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]]**: Seeks redemption for her ancestor's actions
-- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]]**: Loyal soldier who follows the party's lead
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Desperately wants to be cured and save her kingdom
+- **[[02_Worldbuilding/People/The Crimson Sage]]**: Tests worthiness but ultimately supports the mission
+- **[[02_Worldbuilding/People/Archdruid Thornweaver]]**: Seeks redemption for her ancestor's actions
+- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]**: Loyal soldier who follows the party's lead
 
 ### Complicated
-- **[[02_Worldbuilding/People/Emperor Thalassius|02 Worldbuilding/People/Emperor Thalassius]]**: Wants the Crown reformed but under Aquabyssos control
-- **[[02_Worldbuilding/People/Master Cultivator Thalia Greenglow|02 Worldbuilding/People/Master Cultivator Thalia Greenglow]]**: Corrupted but fighting the influence
+- **[[02_Worldbuilding/People/Emperor Thalassius]]**: Wants the Crown reformed but under Aquabyssos control
+- **[[02_Worldbuilding/People/Master Cultivator Thalia Greenglow]]**: Corrupted but fighting the influence
 - **[[02_Worldbuilding/People/Senator_Glaucus_Brain|02 Worldbuilding/People/Senator Glaucus Brain]]**: May be shadow replacement trying to sabotage
 
 ### Antagonists
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]]**: Wants the Crown for personal power
-- **[[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]]**: Believes the Shards should be destroyed
-- **[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]**: Wants to prevent stabilization for their Dark Harvest
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]**: Seeks to control or corrupt the Deep Mother
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]**: Wants the Crown for personal power
+- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Believes the Shards should be destroyed
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]**: Wants to prevent stabilization for their Dark Harvest
+- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Seeks to control or corrupt the Deep Mother
 
 ## Combat Encounters Summary
 
@@ -410,8 +414,8 @@ This quest serves as a capstone adventure that ties together multiple campaign t
 
 ## Connections
 
-- [[Quest - The Pretender's Crown]]
-- [[The Crown's Burden]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
 
 ## Player-Facing Summary
 
@@ -431,4 +435,4 @@ Legends speak of Quest   The Crown Reborn as a nexus where past and present conv
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]

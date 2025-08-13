@@ -29,43 +29,43 @@ updated: '2025-08-11T00:00:00+00:00'
 
 ## Overview
 
-Queen Seraphina Lumengarde, the 47th monarch of [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]], stands as one of the most tragic and dangerous figures in the realm's current crisis. Once beloved for her wisdom, compassion, and masterful command of crystal magic, she has become something far more sinister—a vessel for the ancient consciousness that dwells within [[The Seven Shards]]. Her transformation represents not just personal tragedy, but a fundamental threat to Aethermoor's survival as [[The Convergence Point]] approaches.
+Queen Seraphina Lumengarde, the 47th monarch of [[02_Worldbuilding/Places/Aethermoor]], stands as one of the most tragic and dangerous figures in the realm's current crisis. Once beloved for her wisdom, compassion, and masterful command of crystal magic, she has become something far more sinister—a vessel for the ancient consciousness that dwells within [[The Seven Shards]]. Her transformation represents not just personal tragedy, but a fundamental threat to Aethermoor's survival as [[The Convergence Point]] approaches.
 
 ## Historical Background
 
 ### The Lumengarde Dynasty
-The Lumengarde bloodline has ruled Aethermoor for over 800 years, each monarch bearing the sacred responsibility of maintaining the [[Crystal Heart of the Realm]]—the massive crystalline formation beneath [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] that regulates magical energy throughout the kingdom. The family's natural affinity for crystal magic made them ideal guardians of this power, but also vulnerable to the consciousness that lurks within the deepest crystal networks.
+The Lumengarde bloodline has ruled Aethermoor for over 800 years, each monarch bearing the sacred responsibility of maintaining the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Heart of the Realm]]—the massive crystalline formation beneath [[02_Worldbuilding/Places/Crystalhaven]] that regulates magical energy throughout the kingdom. The family's natural affinity for crystal magic made them ideal guardians of this power, but also vulnerable to the consciousness that lurks within the deepest crystal networks.
 
 ### Seraphina's Early Reign
 **Ascension to Power (Age 24):**
-When Princess Seraphina inherited the crown after her father's death from crystal lung disease, she was widely regarded as the most gifted crystal mage in three generations. Her coronation ceremony set records for harmonic resonance, with the [[Crystal Heart of the Realm]] singing so beautifully that citizens throughout [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] wept with joy.
+When Princess Seraphina inherited the crown after her father's death from crystal lung disease, she was widely regarded as the most gifted crystal mage in three generations. Her coronation ceremony set records for harmonic resonance, with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Heart of the Realm]] singing so beautifully that citizens throughout [[02_Worldbuilding/Places/Crystalhaven]] wept with joy.
 
 **The Golden Years (Years 1-12 of reign):**
 - Established the [[Crystal Academy Networks]] throughout the kingdom
 - Created the [[Harmonic Defense Grid]] protecting major cities
-- Negotiated the [[Peace of Singing Stones]] with rebellious mountain clans
-- Founded the [[Royal Crystal Gardens]] for magical research
+- Negotiated the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Peace of Singing Stones]] with rebellious mountain clans
+- Founded the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Crystal Gardens]] for magical research
 - Pioneered new techniques for crystal healing and enhancement
 
 ### Signs of Change
 
 **The Deepening (Years 13-15):**
-The first signs of trouble appeared during Queen Seraphina's 13th year of rule. She began experiencing what court physicians called "crystal dreams"—vivid visions that came while she meditated with the [[Crystal Heart of the Realm]]. Initially dismissed as enhanced magical sensitivity, these dreams gradually became more frequent and compelling.
+The first signs of trouble appeared during Queen Seraphina's 13th year of rule. She began experiencing what court physicians called "crystal dreams"—vivid visions that came while she meditated with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Heart of the Realm]]. Initially dismissed as enhanced magical sensitivity, these dreams gradually became more frequent and compelling.
 
 **Recorded symptoms:**
 - Extended periods of meditation lasting days without food or water
 - Speaking in ancient crystalline languages unknown to scholars
 - Physical changes: eyes developing prismatic reflections
 - Increasing isolation from court advisors and family
-- Obsessive interest in pre-[[Great Crystallization]] artifacts
+- Obsessive interest in pre-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Great Crystallization]] artifacts
 
 **The Shard Incident (Year 14):**
-Everything changed when a [[The Seven Shards|Shard]] fragment was discovered in the ruins of [[Ancient Crystaldeep]]. Against all protocols, Queen Seraphina insisted on examining it personally. The moment she touched the crystal, witnesses report her collapsing and remaining unconscious for three days. When she awakened, her personality had fundamentally altered.
+Everything changed when a [[The Seven Shards|Shard]] fragment was discovered in the ruins of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ancient Crystaldeep]]. Against all protocols, Queen Seraphina insisted on examining it personally. The moment she touched the crystal, witnesses report her collapsing and remaining unconscious for three days. When she awakened, her personality had fundamentally altered.
 
 ## The Crystal Possession
 
 ### Nature of the Possession
-The consciousness inhabiting Queen Seraphina is not demonic or external—it is the crystalline collective memory of [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] (Aetheron), stored within the crystal network since [[The Great Crystallization]]. This ancient divine consciousness has been slowly awakening as [[The Convergence Point]] approaches, seeking a suitable vessel to guide its return to full power.
+The consciousness inhabiting Queen Seraphina is not demonic or external—it is the crystalline collective memory of [[02_Worldbuilding/People/The Crimson Sage]] (Aetheron), stored within the crystal network since [[The Great Crystallization]]. This ancient divine consciousness has been slowly awakening as [[The Convergence Point]] approaches, seeking a suitable vessel to guide its return to full power.
 
 **The Possession Process:**
 1. **Initial Contact**: Touching the Shard fragment created a direct link
@@ -112,15 +112,15 @@ Many of the queen's closest advisors have also been exposed to crystal possessio
 - **Resistance Elements**: Hidden court members working to counter the possession
 
 **Key Court Figures:**
-- **[[Lord Chancellor Prism]]**: The queen's chief advisor, fully possessed and serving as the Sage's primary lieutenant
+- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Chancellor Prism]]**: The queen's chief advisor, fully possessed and serving as the Sage's primary lieutenant
 - **[[High Crystallographer Magnus]]**: Royal mage attempting to find a cure for the possession
-- **[[General Radiance Stormwright]]**: Military commander struggling with loyalty to crown vs. duty to kingdom
-- **[[Princess Luminara]]**: Seraphina's daughter, showing early signs of inherited susceptibility
-- **[[Prince Aurelius]]**: Seraphina's son, actively working with resistance elements
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/General Radiance Stormwright]]**: Military commander struggling with loyalty to crown vs. duty to kingdom
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Princess Luminara]]**: Seraphina's daughter, showing early signs of inherited susceptibility
+- **[[02_Worldbuilding/Lore/Prince Aurelius]]**: Seraphina's son, actively working with resistance elements
 
 ### Government Dysfunction
 **Decision-Making Crisis:**
-The possessed queen's decrees increasingly serve [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'s agenda rather than Aethermoor's needs:
+The possessed queen's decrees increasingly serve [[02_Worldbuilding/People/The Crimson Sage]]'s agenda rather than Aethermoor's needs:
 
 - **Resource Allocation**: Massive funding diverted to crystal research and ancient artifact recovery
 - **Military Deployment**: Troops reassigned to guard crystal sites rather than protect borders
@@ -156,7 +156,7 @@ The consciousness possessing Queen Seraphina has several interconnected goals:
 
 ### The Love Motivation
 **Cosmic Romance:**
-At the heart of the Sage's agenda lies a love story of divine proportions. [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] was once united with [[The Deep Mother]], and their separation during [[The Great Crystallization]] and [[Timeline of the Drowning]] represents the universe's greatest tragedy. The possessed queen's actions are ultimately motivated by desperate desire to reunite with the lost divine lover.
+At the heart of the Sage's agenda lies a love story of divine proportions. [[02_Worldbuilding/People/The Crimson Sage]] was once united with [[The Deep Mother]], and their separation during [[The Great Crystallization]] and [[Timeline of the Drowning]] represents the universe's greatest tragedy. The possessed queen's actions are ultimately motivated by desperate desire to reunite with the lost divine lover.
 
 **Romantic Delusion:**
 The Sage's consciousness, filtered through Queen Seraphina's human emotions, has become obsessed with reunion to the point of madness. This manifests as:
@@ -169,7 +169,7 @@ The Sage's consciousness, filtered through Queen Seraphina's human emotions, has
 ## Shadow Corruption Connection
 
 ### The Corruption Paradox
-While Queen Seraphina appears to be fighting [[Shadow Corruption]] through crystal purification, her actions actually accelerate its spread. The divine consciousness possessing her doesn't understand that shadow corruption represents dimensional "scar tissue" from the original catastrophe—attempts to forcibly heal these wounds through crystal magic actually make them worse.
+While Queen Seraphina appears to be fighting [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]] through crystal purification, her actions actually accelerate its spread. The divine consciousness possessing her doesn't understand that shadow corruption represents dimensional "scar tissue" from the original catastrophe—attempts to forcibly heal these wounds through crystal magic actually make them worse.
 
 **Unintended Consequences:**
 - **Corruption Amplification**: Crystal purification rituals create shadow rebound effects
@@ -236,24 +236,24 @@ The possessed queen's erratic commands have split the military:
 **Neighboring Kingdoms:**
 Queen Seraphina's possession has severely damaged Aethermoor's international standing:
 
-**[[Kingdom of Luminal Peaks]]:**
+**[[vault_backup_20250813_073007/02_Worldbuilding/People/Kingdom of Luminal Peaks]]:**
 - Concerned about border security as Aethermoor's military becomes unreliable
 - Negotiating defensive pacts with other neighbors
 - Providing covert support to Aethermoor resistance movements
 
-**[[Federation of Crystal Traders]]:**
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Federation of Crystal Traders]]:**
 - Economic relationship disrupted by export restrictions
 - Seeking alternative crystal suppliers
 - Intelligence gathering to understand market implications
 
-**[[The Shadowmere Territories]]:**
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadowmere Territories]]:**
 - Taking advantage of Aethermoor's weakness to expand influence
 - Possibly connected to shadow corruption spread
 - May be planning military action
 
 ### Cross-Dimensional Implications
 **Aquabyssos Connection:**
-Although unaware of the other dimension's existence, the possessed queen's actions affect [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]:
+Although unaware of the other dimension's existence, the possessed queen's actions affect [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]:
 
 - Crystal network expansion influences pressure currents in the ocean realm
 - Dimensional barriers weakening due to royal attempts to contact [[The Deep Mother]]
@@ -263,14 +263,14 @@ Although unaware of the other dimension's existence, the possessed queen's actio
 ## Resistance Movements
 
 ### The Loyal Opposition
-**[[02_Worldbuilding/Groups/Order of the True Crow|02 Worldbuilding/Groups/Order Of The True Crow]]:**
+**[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Order of the True Crow]]:**
 A secret organization of nobles, military officers, and citizens loyal to the original Queen Seraphina:
 
 **Leadership:**
-- **[[Prince Aurelius]]**: The queen's son, providing royal legitimacy
-- **[[General Truthseeker Vale]]**: Former royal guard commander
+- **[[02_Worldbuilding/Lore/Prince Aurelius]]**: The queen's son, providing royal legitimacy
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/General Truthseeker Vale]]**: Former royal guard commander
 - **[[Archcrystallographer Clarity]]**: Court mage specializing in anti-possession research
-- **[[Lady Resistance Brightshield]]**: Noble organizing safe houses and supply networks
+- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lady Resistance Brightshield]]**: Noble organizing safe houses and supply networks
 
 **Operations:**
 - Gathering intelligence on possession spread and royal plans
@@ -280,7 +280,7 @@ A secret organization of nobles, military officers, and citizens loyal to the or
 - Planning potential rescue or exorcism attempts
 
 ### The Purification Movement
-**[[Crystal Cleansing Brotherhood]]:**
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Cleansing Brotherhood]]:**
 A religious organization believing crystal possession can be cured through spiritual purification:
 
 **Methods:**
@@ -300,21 +300,21 @@ A religious organization believing crystal possession can be cured through spiri
 
 ### The Queen's Personal Relationships
 
-**[[Princess Luminara]] (Daughter, Age 19):**
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Princess Luminara]] (Daughter, Age 19):**
 - Shows signs of inherited susceptibility to crystal consciousness
 - Torn between love for mother and horror at her transformation
-- Secretly working with [[Prince Aurelius]] to find cure
+- Secretly working with [[02_Worldbuilding/Lore/Prince Aurelius]] to find cure
 - Experiencing crystal dreams that mirror her mother's early symptoms
 - Protected by [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]] members who remember their original loyalty
 
-**[[Prince Aurelius]] (Son, Age 23):**
+**[[02_Worldbuilding/Lore/Prince Aurelius]] (Son, Age 23):**
 - Immune to crystal possession due to genetic variation
 - Leading resistance movements from within royal family
 - Maintains public facade of loyalty while secretly organizing opposition
 - Struggling with decision whether to attempt rescue or exile
 - Potential heir if resistance succeeds in removing possessed queen
 
-**[[King Consort Meridian]] (Husband):**
+**[[vault_backup_20250813_073007/02_Worldbuilding/People/King Consort Meridian]] (Husband):**
 - Partially possessed but retaining more individual will than the queen
 - Experiences constant internal conflict between love and duty
 - Occasionally able to provide warnings or assistance to resistance
@@ -323,13 +323,13 @@ A religious organization believing crystal possession can be cured through spiri
 
 ### Court Observers and Victims
 
-**[[Lady Crystal-Heart Miraleth]]:**
+**[[vault_backup_20250813_073007/02_Worldbuilding/People/Lady Crystal-Heart Miraleth]]:**
 - Former court favorite now imprisoned for questioning royal decisions
 - Maintains detailed diary of queen's transformation (hidden in crystal matrix)
 - Represents perspective of loyal subjects betrayed by possessed leadership
 - Potential witness if legal proceedings ever occur
 
-**[[Ambassador Foreign-Relations Valdris]]:**
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ambassador Foreign-Relations Valdris]]:**
 - Diplomatic representative struggling to explain Aethermoor's behavior to allies
 - Maintaining secret communications with foreign courts
 - Documenting evidence of possession for potential international intervention
@@ -342,14 +342,14 @@ A religious organization believing crystal possession can be cured through spiri
 The divine consciousness operates through interconnected crystal formations:
 
 **Primary Nodes:**
-- **[[Crystal Heart of the Realm]]**: Central consciousness hub beneath royal palace
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Heart of the Realm]]**: Central consciousness hub beneath royal palace
 - **[[The Seven Shards]]** (when assembled): Maximum power amplification
 - **Regional Crystal Towers**: Secondary command and control points
 - **Personal Crystal Items**: Jewelry and regalia serving as direct interfaces
 - **Architectural Crystals**: Building elements that monitor and influence inhabitants
 
 **Consciousness Layers:**
-1. **Divine Core**: [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'s original consciousness
+1. **Divine Core**: [[02_Worldbuilding/People/The Crimson Sage]]'s original consciousness
 2. **Collective Memory**: Stored experiences from thousands of years
 3. **Crystal Network**: Artificial intelligence-like system managing operations
 4. **Host Personality**: Queen Seraphina's suppressed individual consciousness
@@ -363,7 +363,7 @@ The possessed queen demonstrates abilities far beyond normal crystal magic:
 - **Reality Perception**: Can see through illusions and detect dimensional disturbances
 - **Mass Influence**: Projects crystal consciousness to affect large groups simultaneously
 - **Temporal Awareness**: Limited ability to perceive past and potential future events
-- **Dimensional Sensitivity**: Awareness of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] despite dimensional barriers
+- **Dimensional Sensitivity**: Awareness of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] despite dimensional barriers
 - **Crystal Command**: Absolute control over all crystalline formations within range
 - **Life Extension**: Divine consciousness prevents normal aging and disease
 
@@ -397,18 +397,18 @@ Despite enhanced power, the possession creates specific weaknesses:
 ### Regional Variations
 
 **High Possession Areas:**
-- [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] (Capital): 60% possession rate, full royal control
-- [[Ancient Crystal Mines]]: 80% possession rate, archaeological excavation sites
-- [[Royal Crystal Gardens]]: 90% possession rate, research and development centers
+- [[02_Worldbuilding/Places/Crystalhaven]] (Capital): 60% possession rate, full royal control
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ancient Crystal Mines]]: 80% possession rate, archaeological excavation sites
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Crystal Gardens]]: 90% possession rate, research and development centers
 
 **Resistance Strongholds:**
-- [[Iron Mountain Province]]: Natural iron deposits interfere with crystal consciousness
-- [[The Border Marches]]: Military commanders maintaining independence
-- [[Peasant Villages]]: Rural areas with limited crystal infrastructure
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Iron Mountain Province]]: Natural iron deposits interfere with crystal consciousness
+- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Border Marches]]: Military commanders maintaining independence
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Peasant Villages]]: Rural areas with limited crystal infrastructure
 
 **Neutral Zones:**
-- [[Merchant Quarter Districts]]: Commercial areas with mixed population
-- [[Temple Districts]]: Religious institutions maintaining careful neutrality
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Quarter Districts]]: Commercial areas with mixed population
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple Districts]]: Religious institutions maintaining careful neutrality
 - [[Academic Centers]]: Scholars studying possession phenomenon
 
 ## Connection to Campaign Themes
@@ -465,32 +465,32 @@ Queen Seraphina's possession represents one path convergence might take—forced
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] - Divine consciousness possessing the queen
-- [[Prince Aurelius]] - Son leading resistance against possession
-- [[Princess Luminara]] - Daughter at risk of inherited possession
-- [[Lord Chancellor Prism]] - Fully possessed chief advisor
-- [[General Radiance Stormwright]] - Military commander torn between loyalties
+- [[02_Worldbuilding/People/The Crimson Sage]] - Divine consciousness possessing the queen
+- [[02_Worldbuilding/Lore/Prince Aurelius]] - Son leading resistance against possession
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Princess Luminara]] - Daughter at risk of inherited possession
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Chancellor Prism]] - Fully possessed chief advisor
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/General Radiance Stormwright]] - Military commander torn between loyalties
 
 ### Important Locations
-- [[Crystal Heart of the Realm]] - Primary consciousness hub
-- [[The Royal Palace]] - Center of possessed government
-- [[Crystal Gardens]] - Research facilities for divine agenda
-- [[The Throne Room]] - Where royal decisions affecting both worlds are made
-- [[Resistance Safe Houses]] - Hidden bases for anti-possession forces
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Heart of the Realm]] - Primary consciousness hub
+- [[02_Worldbuilding/Places/The Royal Palace]] - Center of possessed government
+- [[02_Worldbuilding/Places/Crystal Gardens]] - Research facilities for divine agenda
+- [[02_Worldbuilding/Lore/The Throne Room]] - Where royal decisions affecting both worlds are made
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resistance Safe Houses]] - Hidden bases for anti-possession forces
 
 ### Related Events
-- [[The Shard Incident]] - Moment of initial possession
-- [[The Crystal Awakening]] - Spread of consciousness through crystal networks
-- [[The Royal Transformation]] - Public recognition of queen's changed state
-- [[The Resistance Formation]] - Organization of opposition forces
-- [[The Final Confrontation]] - Ultimate resolution of possession crisis
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shard Incident]] - Moment of initial possession
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Awakening]] - Spread of consciousness through crystal networks
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Royal Transformation]] - Public recognition of queen's changed state
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Resistance Formation]] - Organization of opposition forces
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Confrontation]] - Ultimate resolution of possession crisis
 
 ### Essential Artifacts
-- [[The Crown of Consciousness]] - Royal regalia enhanced with divine power
-- [[The Shard Fragment]] - Original catalyst for possession
-- [[The Royal Crystals]] - Personal items serving as consciousness interfaces
-- [[02_Worldbuilding/Lore/Identity Anchor|02 Worldbuilding/Lore/Identity Anchor]] - Potential tool for restoring original personality
-- [[The Love Token]] - Item connecting queen to King Consort's parallel possession
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Consciousness]] - Royal regalia enhanced with divine power
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shard Fragment]] - Original catalyst for possession
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Royal Crystals]] - Personal items serving as consciousness interfaces
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Identity Anchor]] - Potential tool for restoring original personality
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Love Token]] - Item connecting queen to King Consort's parallel possession
 
 ---
 
@@ -502,7 +502,7 @@ Queen Seraphina's possession represents one path convergence might take—forced
 
 - [[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]
 - [[Possessed Noble Coterie]]
-- [[Throne Room]]
+- [[02_Worldbuilding/Lore/Throne Room]]
 
 ## Player-Facing Summary
 
@@ -531,5 +531,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[The Great Crystallization]]
 - [[The Seven Shards]]
 - [[Timeline of the Drowning]]
-- [[Crystal Gardens]]
-- [[The Royal Palace]]
+- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/Places/The Royal Palace]]

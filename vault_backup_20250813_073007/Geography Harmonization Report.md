@@ -314,6 +314,6 @@ The harmonized geography creates a solid foundation for campaign adventures whil
 ### Related Documents
 - [[CANONICAL_WORLD_MAP|CANONICAL WORLD MAP]] - Master geographic reference
 - [[DEPTH_ALTITUDE_CHARTS|DEPTH ALTITUDE CHARTS]] - Environmental standards  
-- [[TRADE_ROUTE_OVERLAYS|TRADE ROUTE OVERLAYS]] - Commercial networks
+- [[vault_backup_20250813_073007/Trade Route Overlays]] - Commercial networks
 - [[DISTRICT_MAPS_MAJOR_CITIES|DISTRICT MAPS MAJOR CITIES]] - Urban geography
 - [[POPULATION_DISTRIBUTION_MAPS|POPULATION DISTRIBUTION MAPS]] - Demographic analysis

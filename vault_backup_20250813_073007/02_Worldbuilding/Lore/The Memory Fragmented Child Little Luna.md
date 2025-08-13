@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.155822'
+updated: '2025-08-13T12:34:28.774675+00:00'
 world: Both
 ---
+
 
 
 
@@ -40,9 +44,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Transformed Citizens|02 Worldbuilding/Lore/The Transformed Citizens]]
+- [[02_Worldbuilding/Lore/The Transformed Citizens]]
 
 
 ## Connections
 
-- [[The Transformed Citizens]]
+- [[02_Worldbuilding/Lore/The Transformed Citizens]]

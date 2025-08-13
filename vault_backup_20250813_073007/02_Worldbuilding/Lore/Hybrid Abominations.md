@@ -11,13 +11,17 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
+- lore
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.858836'
+updated: '2025-08-13T12:34:29.536778+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -41,14 +45,14 @@ Hybrid Abominations describes a turning current in history where choices about m
 - Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
 
 ## Threads and Revelations
-- Records implicate agents tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
-- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- Testimony suggests [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]] financed a pivotal bribe.
+- Records implicate agents tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius]].
+- A rite echoes the activation cadence needed for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+- Testimony suggests [[02_Worldbuilding/People/Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -73,5 +77,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[The Seven Shards]]
-- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]

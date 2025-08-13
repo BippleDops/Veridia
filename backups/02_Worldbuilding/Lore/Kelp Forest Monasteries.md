@@ -20,9 +20,9 @@ tags:
 
 ## Connections
 
-- [[Kraken Territories]]
-- [[The Bloom Fields]]
-- [[Aethermoor]]
+- [[02_Worldbuilding/Lore/Kraken Territories]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bloom Fields]]
+- [[02_Worldbuilding/Places/Aethermoor]]
 
 ## Player-Facing Summary
 

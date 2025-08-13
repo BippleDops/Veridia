@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.904216+00:00'
+updated: '2025-08-13T12:34:28.198694+00:00'
 world: Both
 type: NPC
 status: complete
 tags:
 - active
 - both
+- complete
 - npc
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-pirate-lords-of-the-spiral-depths-pirate-lords-of-the-spiral-depths.svg)

@@ -32,25 +32,25 @@ obsidianUIMode: preview
 
 **Type:** Tactical Combat/Resistance Operations/Guerrilla Warfare  
 **Level:** 5-10  
-**Location:** [[Border Territories]], [[02_Worldbuilding/Lore/Tradeway|02 Worldbuilding/Lore/Tradeway]], [[Hidden Smuggler's Cove]]  
+**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Border Territories]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tradeway]], [[vault_backup_20250813_073007/02_Worldbuilding/Places/Hidden Smuggler's Cove]]  
 **Duration:** 4-6 sessions  
 **Threat:** A critical supply convoy carrying Shadow Conspiracy resources must be stopped before it reaches its destination and strengthens enemy operations
 
-**Connected Locations:** [[The Whispering Expanse]], [[Shadow Market Canals]], [[The Deepmind]]  
-**Related Groups:** [[The Shadow Conspiracy]], [[Crystal Wardens]], [[The Purist Coalition]], [[Depth Wardens]]  
+**Connected Locations:** [[The Whispering Expanse]], [[02_Worldbuilding/Places/Shadow Market Canals]], [[02_Worldbuilding/Places/The Deepmind]]  
+**Related Groups:** [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]], [[02_Worldbuilding/People/Crystal Wardens]], [[02_Worldbuilding/Lore/The Purist Coalition]], [[02_Worldbuilding/Places/Depth Wardens]]  
 **Key Themes:** Tactical planning, [[The Seven Shards]], guerrilla warfare, moral choices in conflict
 
 ## Overview
 
-Intelligence reports indicate that [[The Shadow Conspiracy]] is transporting a massive supply convoy through the [[Border Territories]] - weapons, corrupted crystals, mind-control devices, and worst of all, a shipment of imprisoned citizens being taken to shadow replacement facilities. The convoy is too well-guarded for a direct assault, but there's a perfect ambush point where the [[Tradeway]] passes through [[Devil's Gorge]] - a narrow canyon where superior numbers mean little and tactical positioning means everything.
+Intelligence reports indicate that [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]] is transporting a massive supply convoy through the [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Border Territories]] - weapons, corrupted crystals, mind-control devices, and worst of all, a shipment of imprisoned citizens being taken to shadow replacement facilities. The convoy is too well-guarded for a direct assault, but there's a perfect ambush point where the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tradeway]] passes through [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Devil's Gorge]] - a narrow canyon where superior numbers mean little and tactical positioning means everything.
 
 The party must organize, plan, and execute a precision strike that stops the convoy while minimizing casualties and preventing the Shadow Conspiracy from retaliating against innocent communities. But they'll discover that this "simple" ambush is part of a much larger conflict, and success here will mark them as primary targets for shadow retaliation.
 
 ## Background
 
-The [[Shadow Conspiracy]] has been growing bolder in their operations, no longer content with subtle infiltration and replacement. This convoy represents their largest single movement of resources in decades - enough to establish permanent shadow strongholds in three major cities and begin mass population replacement.
+The [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Conspiracy]] has been growing bolder in their operations, no longer content with subtle infiltration and replacement. This convoy represents their largest single movement of resources in decades - enough to establish permanent shadow strongholds in three major cities and begin mass population replacement.
 
-[[Captain Marina Saltborn]] intercepted communications about the convoy through her network of resistance contacts, but official military channels are compromised. The party represents the only force capable of independent action without alerting shadow agents embedded in the government.
+[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Marina Saltborn]] intercepted communications about the convoy through her network of resistance contacts, but official military channels are compromised. The party represents the only force capable of independent action without alerting shadow agents embedded in the government.
 
 ### The Stakes
 - **Immediate**: 200 innocent citizens face shadow replacement or worse
@@ -61,8 +61,8 @@ The [[Shadow Conspiracy]] has been growing bolder in their operations, no longer
 ## Act I: Intelligence Gathering (Sessions 1-2)
 
 ### Scene 1: The Resistance Contact
-**Location**: [[Hidden Smuggler's Cove]]  
-**NPCs**: [[Captain Marina Saltborn]], [[Reef Saltwater]], Underground resistance cell
+**Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Hidden Smuggler's Cove]]  
+**NPCs**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Marina Saltborn]], [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reef Saltwater]], Underground resistance cell
 
 The party is contacted by Captain Saltborn through intermediaries - she can't meet them directly due to shadow surveillance, but she has crucial intelligence about the convoy. The meeting takes place in a network of sea caves used by smugglers and resistance fighters.
 
@@ -71,7 +71,7 @@ The party is contacted by Captain Saltborn through intermediaries - she can't me
 - Guard complement of 60+ shadow agents and replaced soldiers
 - Three cargo ships carrying prisoners, weapons, and corrupted crystals
 - Route passes through Devil's Gorge in exactly 8 days
-- Convoy commander is [[Shadow Admiral Vex]], a high-ranking replacement
+- Convoy commander is [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Admiral Vex]], a high-ranking replacement
 
 **Initial Challenges**:
 - **Trust Issues**: Resistance members test party loyalty and competence
@@ -80,7 +80,7 @@ The party is contacted by Captain Saltborn through intermediaries - she can't me
 - **Resource Limitations**: Understanding what materials are available for the operation
 
 ### Scene 2: Scouting Devil's Gorge
-**Location**: [[Border Territories]] - Devil's Gorge  
+**Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Border Territories]] - Devil's Gorge  
 **Challenge Type**: Reconnaissance and tactical assessment
 
 The party must thoroughly scout the ambush site to understand the tactical situation and plan their assault. Devil's Gorge is a narrow underwater canyon with steep walls, strong currents, and multiple hiding spots.
@@ -126,7 +126,7 @@ Success requires more than just the party - they need local allies, supplies, an
 - **Intelligence Network**: Information about convoy schedules
 - **Motivation**: Shadow Conspiracy threatens free trade
 
-**[[Crystal Wardens]]** Cell Leader - Magical support
+**[[02_Worldbuilding/People/Crystal Wardens]]** Cell Leader - Magical support
 - **Spell Services**: Tactical magic and battlefield control
 - **Crystal Knowledge**: Understanding corrupted cargo dangers
 - **Healing Support**: Medical aid during and after the battle
@@ -309,7 +309,7 @@ Victory in the ambush is only the beginning - the party must escape with prisone
 The captured cargo reveals intelligence about broader Shadow Conspiracy operations, but processing it safely requires expertise and careful handling.
 
 **Cargo Analysis**:
-- **Corrupted Crystals**: Require [[Crystal Wardens]] expertise to safely contain
+- **Corrupted Crystals**: Require [[02_Worldbuilding/People/Crystal Wardens]] expertise to safely contain
 - **Mind Control Devices**: Technological analysis reveals manufacturing origins
 - **Prisoner Testimonies**: Intelligence about shadow replacement facilities
 - **Communication Equipment**: Encrypted messages about future operations
@@ -483,7 +483,7 @@ This quest provides a masterclass in tactical planning and execution while explo
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -504,13 +504,13 @@ Legends speak of Ambush Point as a nexus where past and present converge. Locals
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Traveling Merchant Finn|02 Worldbuilding/Quests/Traveling Merchant Finn]]
-- [[Crystal Wardens]]
-- [[The Shadow Conspiracy]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
 - [[The Seven Shards]]
-- [[Shadow Conspiracy]]
-- [[Depth Wardens]]
-- [[Hidden Smuggler's Cove]]
-- [[Shadow Market Canals]]
-- [[The Deepmind]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Conspiracy]]
+- [[02_Worldbuilding/Places/Depth Wardens]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+- [[02_Worldbuilding/Places/Shadow Market Canals]]
+- [[02_Worldbuilding/Places/The Deepmind]]
 - [[The Whispering Expanse]]
 - [[Traveling Merchant Finn]]

@@ -20,9 +20,9 @@ tags:
 
 ## Connections
 
-- [[Deep Mother Influence]]
-- [[Desperate Plague Victim]]
-- [[Merged Reality Zones]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Influence]]
+- [[02_Worldbuilding/Lore/Desperate Plague Victim]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
 - [[The Convergence Point]]
 - [[The Crimson Hand]]
 - [[The Great Crystallization]]

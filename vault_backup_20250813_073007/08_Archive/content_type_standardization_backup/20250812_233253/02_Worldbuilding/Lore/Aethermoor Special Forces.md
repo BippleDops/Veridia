@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.544865+00:00'
+updated: '2025-08-13T12:34:26.661455+00:00'
 world: Aethermoor
 type: Lore
 status: complete
 tags:
 - active
 - aethermoor
+- complete
 - lore
 ---
+
 
 
 

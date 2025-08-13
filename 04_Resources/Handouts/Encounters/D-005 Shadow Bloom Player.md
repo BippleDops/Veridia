@@ -3,18 +3,22 @@ audience: player
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - campaign/session
+- complete
 - handout
+- lore
 - status/complete
 - world/aquabyssos
 - world/both
 title: Player Handout — D-005 Shadow Bloom
 type: Lore
-updated: '2025-08-12T23:37:41.250097'
+updated: '2025-08-13T12:34:32.385394+00:00'
 world: Both
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.469461
 ---
-
-
 # Shadow Bloom
 
 The dark grows thick as water around the ship. Every motion leaves a trailing shadow that doesn’t quite follow.
@@ -36,4 +40,4 @@ Possible outcomes
 
 ## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01|06 GM Resources/Session Packets/Aquabyssos Session 01]]
+- [[vault_backup_20250813_073007/06_GM_Resources/Session_Packets/Aquabyssos Session 01]]

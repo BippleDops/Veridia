@@ -3,16 +3,20 @@ audience: dm
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - guide
+- lore
 - status/complete
 - world/both
 title: Handouts Export Guide
 type: Lore
-updated: '2025-08-12T23:37:41.211368'
+updated: '2025-08-13T12:34:32.366024+00:00'
 world: Both
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.466828
 ---
-
-
 # Handouts Export Guide
 
 This guide explains how to export player handouts and GM encounter sheets to PDF.

@@ -3,6 +3,7 @@ type: Group
 tags:
 - active
 - both
+- complete
 - criminal
 - faction
 - group
@@ -14,9 +15,10 @@ MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:36.803414+00:00'
+updated: '2025-08-13T12:34:28.078206+00:00'
 status: complete
 ---
+
 
 
 

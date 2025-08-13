@@ -20,7 +20,7 @@ tags:
 
 ## Connections
 
-- [[Quest - The Pretender]]
+- [[02_Worldbuilding/People/Quest - The Pretender]]
 - [[The Crown's Burden]]
 
 ## Player-Facing Summary

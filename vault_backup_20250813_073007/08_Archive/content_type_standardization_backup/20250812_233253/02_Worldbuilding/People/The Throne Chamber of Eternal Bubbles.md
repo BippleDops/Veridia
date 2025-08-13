@@ -2,13 +2,15 @@
 tags:
 - active
 - both
+- complete
 - npc
 type: NPC
 world: Both
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:37.034741+00:00'
+updated: '2025-08-13T12:34:28.368244+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-throne-chamber-of-eternal-bubbles-the-throne-chamber-of-eternal-bubbles.svg)

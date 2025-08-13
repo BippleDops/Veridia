@@ -1,17 +1,19 @@
 ---
-title: "Session Packet \u2014 Aquabyssos Session 01"
+title: Session Packet — Aquabyssos Session 01
 type: session_packet
 status: complete
 session_number: 1
 campaign_name: Aquabyssos
 created: null
-updated: '2025-08-13T01:18:31.119929+00:00'
+updated: '2025-08-13T12:34:25.236353+00:00'
 world: Aquabyssos
 tags:
 - aquabyssos
+- complete
 - ready
 - session_packet
 ---
+
 
 
 # Session Packet — Aquabyssos 01

@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/aethermoor
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.156811'
+updated: '2025-08-13T12:34:29.047184+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -42,9 +46,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystallium|02 Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Crystallium]]
 
 
 ## Connections
 
-- [[Crystallium]]
+- [[02_Worldbuilding/Places/Crystallium]]

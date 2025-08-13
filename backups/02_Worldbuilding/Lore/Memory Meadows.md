@@ -50,8 +50,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Deep Mother]]
-- [[Memory Harvester Kythara]]
-- [[Memory Merchant Valeria Siltweave]]
-- [[Amnesia Gallery]]
-- [[The Deepmind]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[02_Worldbuilding/Places/Amnesia Gallery]]
+- [[02_Worldbuilding/Places/The Deepmind]]
 - [[Quest - The Convergence Crisis]]

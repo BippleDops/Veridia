@@ -8,7 +8,8 @@ location: '[[The Abyss Beneath Aquabyssos]]'
 npcs_featured:
 - '[[The Deep Mother]]'
 - '[[United Councils of Both Worlds]]'
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] (Echo)'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]] (Echo)'
 - '[[Eastern Kingdom Fleet]]'
 quests_advanced:
 - '[[Face the Ancient Threat]]'
@@ -20,6 +21,7 @@ tags:
 - active
 - aethermoor
 - aquabyssos
+- complete
 - deep-mother
 - finale
 - lore
@@ -30,9 +32,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-13T01:18:37.182142+00:00'
+updated: '2025-08-13T12:34:28.481696+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

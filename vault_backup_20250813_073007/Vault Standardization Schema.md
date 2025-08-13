@@ -56,12 +56,12 @@ type: "npc"
 npc_type: "ally|enemy|neutral|quest-giver"
 race: "string"
 class: "string"
-location: "[[Location]]"
+location: "[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location]]"
 faction: "[[Faction]]"
 disposition: "friendly|neutral|hostile|unknown"
 importance: "minor|major|critical|legendary"
 relationships:
-  - character: "[[Name]]"
+  - character: "[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Name]]"
     type: "ally|enemy|family|romantic|rival"
 ```
 
@@ -471,7 +471,7 @@ cssclasses:
 [[03_Mechanics/Rules/System Name|03 Mechanics/Rules/System Name]]
 
 ## Contextual links with descriptions
-- [[Location Name]] - Brief context why it's relevant
+- [[02_Worldbuilding/Lore/Location Name]] - Brief context why it's relevant
 - [[NPC Name]] - Their role or relationship
 ```
 

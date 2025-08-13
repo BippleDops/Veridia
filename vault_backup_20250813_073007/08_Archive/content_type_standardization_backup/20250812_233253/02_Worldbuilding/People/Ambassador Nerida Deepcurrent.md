@@ -1,30 +1,15 @@
 ---
-tags:
-- active - category/people
-- active
-status: draft
----category/people
-- aquabyssos
-- both
-- diplomat
-- foreign-power
-- merchant-princes
-- npc
-type: NPC
-location: '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'
-faction: Tidal Courts of Aquabyssos
-race: Sea Elf (Aquatic Variant)
-class: Bard/Warlock
-level: 11
-alignment: Lawful Neutral
-status: Active - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+created: null
+updated: '2025-08-13T12:34:28.108225+00:00'
 world: Both
-updated: '2025-08-13T01:18:36.835446+00:00'
-created: 2025-08-11
+type: NPC
+status: active
+tags:
+- active
+- both
+- npc
 ---
+
 
 
 > [!figure] Portrait

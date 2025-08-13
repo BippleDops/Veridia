@@ -38,7 +38,7 @@ world: Both
 - Fail: Dissonance; Group Sanity DC 14 or short-term madness
 
 ## Integrations
-- [[Complete Reality Merger System]]; [[Sanity System]]; Fleet doctrines
+- [[03_Mechanics/Complete Reality Merger System]]; [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]; Fleet doctrines
 
 ## Quick-Run
 - Anchorite→Performance→apply Integrity and any sanity effects

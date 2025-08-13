@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.296153+00:00'
+updated: '2025-08-13T12:34:27.444878+00:00'
 world: Both
 type: Location
 status: complete
 tags:
 - active
 - both
+- complete
 - location
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-shadow-trackhound-shadow-trackhound.svg)

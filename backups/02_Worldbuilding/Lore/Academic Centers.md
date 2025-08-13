@@ -21,7 +21,7 @@ tags:
 ## Connections
 
 - [[The Queen]]
-- [[The Transformed Citizens]]
+- [[02_Worldbuilding/Lore/The Transformed Citizens]]
 
 ## Player-Facing Summary
 

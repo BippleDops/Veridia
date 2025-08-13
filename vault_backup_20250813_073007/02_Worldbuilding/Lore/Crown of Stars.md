@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
+- lore
 - mechanics/magic
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.971730'
+updated: '2025-08-13T12:34:28.733507+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -42,10 +46,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Crystallium|02 Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Crystallium]]
 
 
 ## Connections
 
-- [[Crystallium]]
-- [[The Lock]]
+- [[02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/The Lock]]

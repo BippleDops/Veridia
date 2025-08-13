@@ -3,18 +3,22 @@ audience: player
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - campaign/session
+- complete
 - handout
+- lore
 - status/complete
 - world/aquabyssos
 - world/both
 title: Player Handout — D-L-03 Deep Mother Dream Tide
 type: Lore
-updated: '2025-08-12T23:37:41.249449'
+updated: '2025-08-13T12:34:32.378425+00:00'
 world: Both
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.468419
 ---
-
-
 # Deep Mother Dream Tide
 
 Sleep tugs at the bones. The ship hums a lullaby no one taught it.
@@ -34,4 +38,4 @@ Possible outcomes
 
 ## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01|06 GM Resources/Session Packets/Aquabyssos Session 01]]
+- [[vault_backup_20250813_073007/06_GM_Resources/Session_Packets/Aquabyssos Session 01]]

@@ -1,12 +1,13 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.042927+00:00'
+updated: '2025-08-13T12:34:27.208783+00:00'
 world: Both
 status: complete
 tags:
 - active
 - both
 - caverns
+- complete
 - crystals
 - dangerous
 - location
@@ -15,7 +16,8 @@ tags:
 type: Location
 danger_level: High
 location_type: Underground Crystal Formation
-parent_location: '[[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The Sundered Peaks]]'
+parent_location: '[[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The
+  Sundered Peaks]]'
 depth: 200-2000 feet underground
 access_restrictions: Magical wards, natural hazards, crystal guardians
 notable_resources:
@@ -24,6 +26,7 @@ notable_resources:
 - Memory Crystals
 - Corrupted Shards
 ---
+
 
 
 > [!figure] View

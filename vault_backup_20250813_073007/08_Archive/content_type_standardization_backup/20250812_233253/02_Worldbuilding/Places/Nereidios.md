@@ -3,6 +3,7 @@ tags:
 - active
 - aquabyssos
 - both
+- complete
 - continent
 - horror
 - knowledge
@@ -17,10 +18,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:36.192299+00:00'
+updated: '2025-08-13T12:34:27.363111+00:00'
 status: complete
 type: Location
 ---
+
 
 
 

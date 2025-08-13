@@ -3,24 +3,28 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
+- lore
 - mechanics/magic
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.681072'
+updated: '2025-08-13T12:34:28.784119+00:00'
 world: Aquabyssos
 ---
 
 
+
 # The Enchantment School: Threads of Will and Influence
 
-The school of **Enchantment** represents the weaving of magical influence over minds and emotions, a practice that manifests differently across the realms of [[02_Worldbuilding/Locations/Aethermoor|02 Worldbuilding/Locations/Aethermoor]] and [[02_Worldbuilding/Locations/Aquabyssos|02 Worldbuilding/Locations/Aquabyssos]]. This ancient art draws upon the fundamental forces that bind consciousness to reality, manipulating the threads of thought and desire.
+The school of **Enchantment** represents the weaving of magical influence over minds and emotions, a practice that manifests differently across the realms of [[02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. This ancient art draws upon the fundamental forces that bind consciousness to reality, manipulating the threads of thought and desire.
 
 ## Regional Manifestations
 
 ### Aethermoor: The Harmony of Resonance
-In the floating realm of Aethermoor, enchantment magic takes on a musical quality, resonating through the crystalline structures that support the sky cities. [[02_Worldbuilding/Factions/The Resonance Keepers|02 Worldbuilding/Factions/The Resonance Keepers]] have mastered techniques where enchantments are literally sung into existence, their spells harmonizing with the natural frequencies of the [[02_Worldbuilding/Artifacts/Seven Shards|02 Worldbuilding/Artifacts/Seven Shards]].
+In the floating realm of Aethermoor, enchantment magic takes on a musical quality, resonating through the crystalline structures that support the sky cities. [[02_Worldbuilding/Factions/The Resonance Keepers|02 Worldbuilding/Factions/The Resonance Keepers]] have mastered techniques where enchantments are literally sung into existence, their spells harmonizing with the natural frequencies of the [[02_Worldbuilding/Places/Seven Shards]].
 
 The [[02_Worldbuilding/Locations/Crystal Conservatory|02 Worldbuilding/Locations/Crystal Conservatory]] serves as the premier academy for enchantment studies in Aethermoor, where students learn to modulate their magical resonance to influence emotions without overwhelming the target's free will. This practice, known as "Harmonic Persuasion," is considered the most ethical form of enchantment magic.
 
@@ -55,7 +59,7 @@ Legend speaks of the **Shard of Dominion**, a theoretical eighth shard that woul
 ## Legendary Enchantments and Artifacts
 
 ### The Crown of Whispered Truths
-Hidden somewhere in the [[02_Worldbuilding/Locations/Sunken Palace|02 Worldbuilding/Locations/Sunken Palace]], this artifact can compel absolute honesty from anyone within its presence. The [[02_Worldbuilding/Factions/The Depth Wardens|02 Worldbuilding/Factions/The Depth Wardens]] have sought it for centuries, believing it could force the Deep Mother to reveal her true nature.
+Hidden somewhere in the [[02_Worldbuilding/Locations/Sunken Palace|02 Worldbuilding/Locations/Sunken Palace]], this artifact can compel absolute honesty from anyone within its presence. The [[vault_backup_20250813_073007/02_Worldbuilding/People/The Depth Wardens]] have sought it for centuries, believing it could force the Deep Mother to reveal her true nature.
 
 ### The Lullaby of Eternal Rest
 A spell-song created by ancient Aethermoor enchanters, said to be able to put the Deep Mother herself to sleep. The complete melody is scattered across multiple [[02_Worldbuilding/Organizations/The Chroniclers|02 Worldbuilding/Organizations/The Chroniclers]]' records, requiring cooperation between realms to reconstruct.
@@ -96,4 +100,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-necromancy|02 Worldbuilding/Lore/Ω System CLI Spells School Necromancy]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/System Cli Spells School Necromancy]]

@@ -50,12 +50,12 @@ Essential reference for dungeon masters running dual-realm campaigns.
 
 ## Connections
 
-- [[Campaign World]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign World]]
 - [[Comprehensive-World-Connection-Guide]]
-- [[Current PC Lead]]
-- [[Party Information]]
-- [[Random Encounter Tables]]
-- [[Templater Advanced]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Current PC Lead]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Party Information]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random Encounter Tables]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Templater Advanced]]
 
 ## Player-Facing Summary
 

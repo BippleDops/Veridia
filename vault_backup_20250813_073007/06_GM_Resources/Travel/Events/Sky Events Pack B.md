@@ -22,7 +22,7 @@ world: Both
 
 # Sky Events Pack B — 50 Ready-to-Run Encounters (S-101–S-150)
 
-Complements [[06_GM_Resources/Travel/Events/Sky_Events_Pack_A|Pack A]].
+Complements [[vault_backup_20250813_073007/06_GM_Resources/Travel/Events/Sky Events Pack A]].
 
 ---
 

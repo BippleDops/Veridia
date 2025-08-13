@@ -41,11 +41,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/The Crown|02 Worldbuilding/Groups/The Crown]]
+- [[02_Worldbuilding/Groups/The Crown]]
 
 
 ## Connections
 
-- [[The Crown]]
-- [[The Senator]]
-- [[The Siren]]
+- [[02_Worldbuilding/Groups/The Crown]]
+- [[02_Worldbuilding/People/The Senator]]
+- [[02_Worldbuilding/People/The Siren]]

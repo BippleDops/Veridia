@@ -60,19 +60,19 @@ WHERE quest_status = "Active" OR quest_status = "In Progress"
 - Homebrew notes (player-facing)
 
 ## Vehicles & Travel
-- Ship Handouts: [[04_Resources/Handouts/Ships/Player_Handout_Aquabyssos_Submarines|Aquabyssos Submarines]] • [[04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships|Aethermoor Airships]] • [[04_Resources/Handouts/Ships/Player_Handout_Merger_Vessels|Merger Vessels]]
+- Ship Handouts: [[04_Resources/Handouts/Ships/Player Handout Aquabyssos Submarines]] • [[04_Resources/Handouts/Ships/Player Handout Aethermoor Airships]] • [[04_Resources/Handouts/Ships/Player Handout Merger Vessels]]
 - Encounter Handouts:
 ```dataview
 LIST FROM "04_Resources/Handouts/Encounters"
 SORT file.name ASC
 ```
-- Doctrine Quick Reference: [[04_Resources/Handouts/Doctrines/Doctrine_Quick_Reference|Doctrine Quick Reference]]
+- Doctrine Quick Reference: [[04_Resources/Handouts/Doctrines/Doctrine Quick Reference]]
 
 ## Quick References
-- [[07_Player_Resources/Handouts/Sanity_Quick_Reference|Sanity System]] — Mental health mechanics
-- [[07_Player_Resources/Handouts/Welcome_to_Aquabyssos|Welcome to Aquabyssos]] — World primer
-- [[07_Player_Resources/Character_Creation_Extended|Character Creation]] — Build options
-- [[07_Player_Resources/Faction_Guide|Faction Guide]] — Political landscape
+- [[vault_backup_20250813_073007/07_Player_Resources/Handouts/Sanity Quick Reference]] — Mental health mechanics
+- [[vault_backup_20250813_073007/07_Player_Resources/Handouts/Welcome to Aquabyssos]] — World primer
+- [[vault_backup_20250813_073007/07_Player_Resources/Character Creation Extended]] — Build options
+- [[vault_backup_20250813_073007/07_Player_Resources/Faction Guide]] — Political landscape
 
 ---
 Last updated: {{date:YYYY-MM-DD}}

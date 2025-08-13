@@ -1,6 +1,6 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.344811+00:00'
+updated: '2025-08-13T12:34:27.497644+00:00'
 world: Both
 location_name: Crystal Palace
 location_type: Royal Residence
@@ -15,11 +15,13 @@ tags:
 - active
 - aquabyssos
 - both
+- complete
 - crystal
 - location
 - palace
 - royal
 ---
+
 
 
 > [!figure] View

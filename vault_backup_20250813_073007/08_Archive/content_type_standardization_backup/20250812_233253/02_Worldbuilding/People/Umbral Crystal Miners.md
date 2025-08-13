@@ -2,13 +2,15 @@
 tags:
 - active
 - both
+- complete
 - npc
 type: NPC
 world: Both
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:37.037113+00:00'
+updated: '2025-08-13T12:34:28.370587+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-umbral-crystal-miners-umbral-crystal-miners.svg)

@@ -42,7 +42,7 @@ world: Both
 AC 14; HP 40; Attack +5 (resonance carbine 1d8+3, stun DC 13)
 
 ## Integrations
-- Resonance warfare; [[Complete Reality Merger System]]
+- Resonance warfare; [[03_Mechanics/Complete Reality Merger System]]
 
 ## Scaling
 - Elite bands add gravity snares

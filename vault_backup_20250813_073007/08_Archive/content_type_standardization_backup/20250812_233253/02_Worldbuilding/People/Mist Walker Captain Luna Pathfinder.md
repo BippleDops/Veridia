@@ -2,13 +2,15 @@
 tags:
 - active
 - aquabyssos
+- complete
 - npc
 type: NPC
 world: Aquabyssos
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:37.035506+00:00'
+updated: '2025-08-13T12:34:28.369230+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-mist-walker-captain-luna-pathfinder-mist-walker-captain-luna-pathfinder.svg)

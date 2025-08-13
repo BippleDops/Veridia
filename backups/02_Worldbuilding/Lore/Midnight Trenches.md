@@ -46,5 +46,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[The Original Palace]]
+- [[02_Worldbuilding/Places/The Original Palace]]
 - [[The Depth Accords]]

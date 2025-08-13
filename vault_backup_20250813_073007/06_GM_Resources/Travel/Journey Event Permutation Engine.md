@@ -25,7 +25,7 @@ Combine one result from each d20 list to form a unique encounter. This exceeds 1
 
 Roll: 1d20 Environment + 1d20 Faction + 1d20 Horror + 1d20 Discovery + 1d20 Systems (+ optional 1d6 Tone, 1d20 Complication).
 
-Integration: Apply Zone Modifiers from [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]]; sanity from [[Sanity System]]; anchors/RSB from [[Complete Reality Merger System]]; memory payouts from [[Memory Trading Economy System|Memory Economy]]; faction impacts from [[Complete Faction Warfare System]].
+Integration: Apply Zone Modifiers from [[vault_backup_20250813_073007/03_Mechanics/Vehicles - Vehicle Core Rules]]; sanity from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]; anchors/RSB from [[03_Mechanics/Complete Reality Merger System]]; memory payouts from [[Memory Trading Economy System|Memory Economy]]; faction impacts from [[03_Mechanics/Complete Faction Warfare System]].
 
 ## Environment (d20)
 1 Pressure surge wall

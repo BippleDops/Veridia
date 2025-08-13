@@ -2,14 +2,16 @@
 tags:
 - active
 - both
+- complete
 - game-mechanics
 - lore
 type: Lore
 world: Both
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.508933+00:00'
+updated: '2025-08-13T12:34:26.555606+00:00'
 ---
+
 
 
 

@@ -10,9 +10,10 @@ tags:
 type: Lore
 updated: '2025-08-13T12:34:03.148848+00:00'
 world: Both
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.321272
 ---
-
-
 # Vault Enhancement Roadmap - Cordelia World Building
 
 ## Executive Summary
@@ -312,3 +313,25 @@ zip -r archive_phase_X.zip 02_Worldbuilding/ 03_Mechanics/
 ---
 
 *This roadmap provides a systematic approach to vault enhancement, prioritizing content completion, narrative depth, and mechanical integration while maintaining quality and consistency throughout the development process.*
+## Faction Relationships
+
+### Network Position
+**Direct Connections**: 0 faction relationships
+**Network Influence**: 0 degrees of separation reach
+**Relationship Complexity**: Low
+
+### Key Relationships
+
+
+### Relationship Dynamics
+- **Alliance Potential**: Opportunities for cooperation and mutual benefit
+- **Conflict Risk**: Areas of potential disagreement or competition  
+- **Neutral Interactions**: Routine diplomatic and trade relationships
+- **Unknown Factors**: Relationships requiring further investigation
+
+### Network Strategy
+**Expansion Opportunities**: Potential new alliances and partnerships
+**Risk Management**: Monitoring threats and hostile relationships
+**Influence Maximization**: Leveraging relationships for faction goals
+**Diplomatic Priorities**: Key relationships requiring attention
+

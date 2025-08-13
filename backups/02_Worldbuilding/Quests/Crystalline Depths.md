@@ -27,30 +27,30 @@ updated: '2025-08-13T01:18:34.492536+00:00'
 
 **Type:** Exploration/Horror/Environmental  
 **Level:** 3-7  
-**Location:** [[The Cerulean Trench]], [[Crystalline Depths]], [[The Lock]]  
+**Location:** [[02_Worldbuilding/Places/The Cerulean Trench]], [[Crystalline Depths]], [[02_Worldbuilding/Places/The Lock]]  
 **Duration:** 2-4 sessions  
-**Threat:** A newly discovered region where [[Aether Crystals]] are growing wild threatens to corrupt all life in [[Aquabyssos]]
+**Threat:** A newly discovered region where [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]] are growing wild threatens to corrupt all life in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 
 ## Overview
-Deep beyond [[The Lock]], where few dare to venture, explorers have discovered vast caverns where [[Aether Crystals]] grow like living organisms. These "Crystalline Depths" pulse with unnatural energy, transforming everything they touch. What began as an exciting discovery has become a nightmare as the crystal growth accelerates, threatening to spread throughout [[Aquabyssos]] and crystallize all life.
+Deep beyond [[02_Worldbuilding/Places/The Lock]], where few dare to venture, explorers have discovered vast caverns where [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]] grow like living organisms. These "Crystalline Depths" pulse with unnatural energy, transforming everything they touch. What began as an exciting discovery has become a nightmare as the crystal growth accelerates, threatening to spread throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and crystallize all life.
 
 ## Background
-The discovery happened during a routine deep patrol led by [[Admiral Thorne Blackwater]]. His scouts found caverns that shouldn't exist - chambers filled with massive crystal formations that seem to be actively expanding. More disturbing, the crystals show signs of intelligence, creating patterns and responding to presence. Initial samples brought back to [[Abyssos Prime]] began growing immediately, forcing a quarantine that may already be too late.
+The discovery happened during a routine deep patrol led by [[02_Worldbuilding/People/Admiral Thorne Blackwater]]. His scouts found caverns that shouldn't exist - chambers filled with massive crystal formations that seem to be actively expanding. More disturbing, the crystals show signs of intelligence, creating patterns and responding to presence. Initial samples brought back to [[02_Worldbuilding/Places/Abyssos Prime]] began growing immediately, forcing a quarantine that may already be too late.
 
 ## Key NPCs
-- **[[Admiral Thorne Blackwater]]**: Military commander who ordered the initial quarantine
-- **[[Professor Aldric Crystalweaver]]**: Crystal expert studying the phenomenon
-- **[[Vault Keeper Eternal]]**: Ancient guardian who recognizes this threat from millennia past
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]**: Military commander who ordered the initial quarantine
+- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]]**: Crystal expert studying the phenomenon
+- **[[02_Worldbuilding/Places/Vault Keeper Eternal]]**: Ancient guardian who recognizes this threat from millennia past
 - **Scout Captain Vera Deepwatch**: Led the discovery expedition, now partially crystallized
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Crystal mage whose research may have inadvertently triggered this
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: Crystal mage whose research may have inadvertently triggered this
 - **The Crystal Shepherd**: Mysterious entity that seems to guide the crystal growth
 - **[[The Deep Mother]]**: Ancient entity whose dreams may be connected to the crystal awakening
-- **[[Memory Merchant Zara Mindweave]]**: Trader whose memories contain crucial pre-crystallization data
-- **Dr. Thaddeus Resonance**: Researcher studying harmonic frequencies in [[The Singing Trenches]]
+- **[[02_Worldbuilding/Lore/Memory Merchant Zara Mindweave]]**: Trader whose memories contain crucial pre-crystallization data
+- **Dr. Thaddeus Resonance**: Researcher studying harmonic frequencies in [[02_Worldbuilding/Places/The Singing Trenches]]
 - **Captain [[Kelp Forest Rangers|Marina Kelp]]**: Leader of the [[Kelp Forest Rangers]] monitoring ecological changes
 
 ## Phase 1: The Discovery (1 session)
-**Location:** [[Abyssos Prime]] - Emergency Crisis Center  
+**Location:** [[02_Worldbuilding/Places/Abyssos Prime]] - Emergency Crisis Center  
 **Objective:** Learn about the threat and prepare for expedition
 
 ### The Initial Report
@@ -63,7 +63,7 @@ The discovery happened during a routine deep patrol led by [[Admiral Thorne Blac
 - The growth rate is accelerating exponentially
 
 ### The Quarantine Zone
-**[[Abyssos Prime]] - Research District:**
+**[[02_Worldbuilding/Places/Abyssos Prime]] - Research District:**
 - **Sealed Laboratory**: Where initial samples are contained
 - **Affected Personnel**: Researchers showing early signs of crystallization
 - **Containment Failure**: Evidence that crystals are spreading despite precautions
@@ -77,7 +77,7 @@ The discovery happened during a routine deep patrol led by [[Admiral Thorne Blac
 - **Research Goals**: Samples and data needed to understand the phenomenon
 
 ## Phase 2: Into the Depths (1-2 sessions)
-**Location:** [[The Cerulean Trench]] - Journey to [[Crystalline Depths]]  
+**Location:** [[02_Worldbuilding/Places/The Cerulean Trench]] - Journey to [[Crystalline Depths]]  
 **Objective:** Navigate the dangerous waters and reach the source
 
 ### Journey Hazards
@@ -136,7 +136,7 @@ The discovery happened during a routine deep patrol led by [[Admiral Thorne Blac
 **Condition Immunities** Charmed
 **Senses** Darkvision 120 ft., passive Perception 9
 **Languages** Aquan, Common
-**Description:** Citizen of [[Abyssos Prime]] in early stages of crystallization  
+**Description:** Citizen of [[02_Worldbuilding/Places/Abyssos Prime]] in early stages of crystallization  
 **Abilities:**
 - **Crystal Memory**: Can access memories stored in crystal formations through touch
 - **Harmonic Speech**: Can communicate with crystal creatures and formations
@@ -223,7 +223,7 @@ The depths reveal a vast underwater cathedral made entirely of living crystal:
 - **Moral Weight**: Accepting the crystallization of those already transformed
 
 ### Option 3: Scientific Solution
-**Approach:** Work with [[Professor Aldric Crystalweaver]] to find a cure
+**Approach:** Work with [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]] to find a cure
 - **Challenges**: Understanding alien biology and reversing crystallization
 - **Methods**: Create harmonic frequencies that separate crystal from organic matter
 - **Consequences**: Some beings can be saved, but process is incomplete and dangerous
@@ -241,7 +241,7 @@ The depths reveal a vast underwater cathedral made entirely of living crystal:
 - **Challenges**: Overcoming fundamental incompatibilities between life forms
 - **Methods**: Create hybrid zones where both forms of life can thrive
 - **Consequences**: Gradual evolution of new forms of existence
-- **Moral Weight**: Accepting permanent change to the nature of life in [[Aquabyssos]]
+- **Moral Weight**: Accepting permanent change to the nature of life in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 
 ## Combat Encounter: The Heart of Crystal
 
@@ -284,8 +284,8 @@ If combat becomes necessary:
 **Abilities:**
 - **Memory Trading**: Can extract and store memories in crystals, sell/trade them to others
 - **Psychic Resistance**: Advantage on saves against mental effects
-- **Crystal Focus**: Uses modified [[Aether Crystals]] as spellcasting focus, adding +2 to spell attack rolls
-- **Emergency Escape** (1/day): Teleport to any location within [[Abyssos Prime]] where she has stored a memory crystal
+- **Crystal Focus**: Uses modified [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]] as spellcasting focus, adding +2 to spell attack rolls
+- **Emergency Escape** (1/day): Teleport to any location within [[02_Worldbuilding/Places/Abyssos Prime]] where she has stored a memory crystal
 
 ### Environmental Combat Factors
 - **Living Arena**: The chamber itself participates in combat
@@ -300,7 +300,7 @@ If combat becomes necessary:
 - **Quarantine Status**: Success or failure determines if threat spreads beyond the depths
 - **Transformed Personnel**: Fate of partially crystallized individuals
 - **Scientific Understanding**: Knowledge gained about crystal life and interdimensional biology
-- **Political Ramifications**: How [[Aquabyssos]] leadership responds to the crisis
+- **Political Ramifications**: How [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] leadership responds to the crisis
 
 ### Long-term Impact
 - **Ecological Changes**: Permanent alterations to deep-sea environment
@@ -314,7 +314,7 @@ If combat becomes necessary:
 - **Base XP**: 12,000 XP for resolving the crisis
 - **Bonus XP**: Additional rewards based on preservation of life and innovative solutions
 - **Scientific Data**: Valuable research on crystal life and dimensional biology
-- **Military Recognition**: Commendations from [[Admiral Thorne Blackwater]] and [[Depth Wardens]]
+- **Military Recognition**: Commendations from [[02_Worldbuilding/People/Admiral Thorne Blackwater]] and [[02_Worldbuilding/Places/Depth Wardens]]
 
 ### Unique Items
 - **Crystalline Resonator**: Device for communicating with crystal life forms
@@ -333,28 +333,28 @@ If combat becomes necessary:
 
 ### Core Campaign Elements
 - **[[The Seven Shards]]**: Crystal phenomena may be connected to these ancient artifacts
-- **[[Aether Crystals]]**: The corrupted crystals are a mutation of these standard magical components
-- **[[The Lock]]**: Ancient barrier that may have contained this threat previously
-- **[[Aquabyssos]]**: The underwater realm threatened by crystalline expansion
-- **[[Abyssos Prime]]**: Capital city facing potential crystallization disaster
-- **[[The Cerulean Trench]]**: Deep ocean area where the crystals first emerged
-- **[[The Hadal Depths]]**: Deepest regions where the crystal intelligence originated
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]**: The corrupted crystals are a mutation of these standard magical components
+- **[[02_Worldbuilding/Places/The Lock]]**: Ancient barrier that may have contained this threat previously
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: The underwater realm threatened by crystalline expansion
+- **[[02_Worldbuilding/Places/Abyssos Prime]]**: Capital city facing potential crystallization disaster
+- **[[02_Worldbuilding/Places/The Cerulean Trench]]**: Deep ocean area where the crystals first emerged
+- **[[02_Worldbuilding/Places/The Hadal Depths]]**: Deepest regions where the crystal intelligence originated
 - **[[The Deep Mother]]**: Primordial entity whose dreams may connect to crystal awakening
-- **[[The Singing Trenches]]**: Geological formations that resonate with crystal harmonics
-- **[[The Archive of Unremembered Things]]**: Contains records of similar historical incidents
-- **[[Depth Wardens]]**: Military organization responsible for deep-sea security
-- **[[Shadow Surgeons Collective]]**: Underground organization studying memory-crystal interfaces
-- **[[Parliament of Echoes]]**: Government body coordinating the crisis response
+- **[[02_Worldbuilding/Places/The Singing Trenches]]**: Geological formations that resonate with crystal harmonics
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]**: Contains records of similar historical incidents
+- **[[02_Worldbuilding/Places/Depth Wardens]]**: Military organization responsible for deep-sea security
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]**: Underground organization studying memory-crystal interfaces
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Government body coordinating the crisis response
 - **[[Crystal Festival]]**: Annual celebration that may amplify the crystal threat
 - **[[Memory Tides]]**: Psychic phenomena affecting the crystallization process
 
 ## Connected Adventures
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: The Oracle may have foreseen this crystalline threat
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: The Oracle may have foreseen this crystalline threat
 - **[[The Maw of Darkness]]**: Connection between reality-consuming entities
-- **[[Professor Aldric Crystalweaver]]**: Continued research into crystal applications
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Investigation into whether her research triggered the crisis
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Crystal weapons trade may be connected to this phenomenon
-- **[[The Crystal Throne]]**: Political faction that may exploit or cause the crisis
+- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]]**: Continued research into crystal applications
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: Investigation into whether her research triggered the crisis
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: Crystal weapons trade may be connected to this phenomenon
+- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Political faction that may exploit or cause the crisis
 
 ## DM Notes
 
@@ -383,16 +383,16 @@ If combat becomes necessary:
 - **Session 4**: Resolution attempt and dealing with consequences
 
 > [!danger] DM Secret
-> The Crystal Intelligence is not truly alien - it's an evolved form of the original [[Seven Shards]] consciousness that was shattered eons ago. The "invasion" is actually the Shards trying to reunify themselves by converting all matter in the area to crystal form. This connection means that any solution involving the Seven Shards could either solve the problem completely or make it exponentially worse, depending on how the party uses them.
+> The Crystal Intelligence is not truly alien - it's an evolved form of the original [[02_Worldbuilding/Places/Seven Shards]] consciousness that was shattered eons ago. The "invasion" is actually the Shards trying to reunify themselves by converting all matter in the area to crystal form. This connection means that any solution involving the Seven Shards could either solve the problem completely or make it exponentially worse, depending on how the party uses them.
 
 
 ## Connections
 
-- [[Aether Crystals]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
 - [[Rescue Senator Glaucus]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 - [[The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -412,17 +412,17 @@ Legends speak of Crystalline Depths as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Aether Crystals|02 Worldbuilding/Quests/Aether Crystals]]
-- [[Shadow Surgeons Collective]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
 - [[The Seven Shards]]
-- [[Admiral Thorne Blackwater]]
-- [[Professor Aldric Crystalweaver]]
-- [[Abyssos Prime]]
-- [[Depth Wardens]]
-- [[Parliament of Echoes]]
-- [[The Archive of Unremembered Things]]
-- [[The Cerulean Trench]]
-- [[The Hadal Depths]]
-- [[The Lock]]
-- [[The Singing Trenches]]
-- [[Vault Keeper Eternal]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Depth Wardens]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/The Archive of Unremembered Things]]
+- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/Places/The Lock]]
+- [[02_Worldbuilding/Places/The Singing Trenches]]
+- [[02_Worldbuilding/Places/Vault Keeper Eternal]]

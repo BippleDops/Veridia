@@ -9,14 +9,17 @@ obsidianUIMode: preview
 quest_type: Diplomatic Mission & Ancient Mystery
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
 - diplomatic
 - leviathan
+- lore
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.776463'
+updated: '2025-08-13T12:34:28.555205+00:00'
 world: Aquabyssos
 ---
 
@@ -24,9 +27,10 @@ world: Aquabyssos
 
 
 
+
 # The Depth Accords
 
-*An ancient treaty between surface dwellers and the depths of [[Aquabyssos]] has been broken, and the characters must navigate treacherous political waters—both literal and metaphorical—to prevent an all-out war between the realms.*
+*An ancient treaty between surface dwellers and the depths of [[02_Worldbuilding/Places/Aquabyssos]] has been broken, and the characters must navigate treacherous political waters—both literal and metaphorical—to prevent an all-out war between the realms.*
 
 ## Quest Overview
 
@@ -34,16 +38,16 @@ world: Aquabyssos
 **Estimated Duration:** 6-8 sessions  
 **Quest Type:** Diplomatic Mission, Ancient Mystery, Underwater Adventure
 
-Deep beneath the waves of [[Aquabyssos]], an ancient pact known as the [[Depth Accords]] has maintained peace between the surface kingdoms and the mysterious [[Abyssal Courts]] for over a millennium. When the sacred [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] is shattered and the [[Leviathan Princes]] begin mobilizing their armies, the characters are chosen as unlikely ambassadors to restore the accords before the depths rise to reclaim the surface world.
+Deep beneath the waves of [[02_Worldbuilding/Places/Aquabyssos]], an ancient pact known as the [[02_Worldbuilding/Lore/Depth Accords]] has maintained peace between the surface kingdoms and the mysterious [[Abyssal Courts]] for over a millennium. When the sacred [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Coral Throne]] is shattered and the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Leviathan Princes]] begin mobilizing their armies, the characters are chosen as unlikely ambassadors to restore the accords before the depths rise to reclaim the surface world.
 
 ## Background: The Original Accords
 
-One thousand years ago, the surface kingdoms of [[Aquabyssos]] were locked in a devastating war with the [[Deep Ones]], ancient beings who ruled the ocean's depths. The conflict ended only when the legendary diplomat [[Admiral Cordelia Tidewright]] negotiated the [[Depth Accords]]—a complex treaty that established:
+One thousand years ago, the surface kingdoms of [[02_Worldbuilding/Places/Aquabyssos]] were locked in a devastating war with the [[02_Worldbuilding/Places/Deep Ones]], ancient beings who ruled the ocean's depths. The conflict ended only when the legendary diplomat [[02_Worldbuilding/Lore/Admiral Cordelia Tidewright]] negotiated the [[02_Worldbuilding/Lore/Depth Accords]]—a complex treaty that established:
 
 - Territorial boundaries between surface and deep-sea realms
-- Trade agreements for rare [[Abyssal Pearls]] and [[Sunlight Crystals]]
+- Trade agreements for rare [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Pearls]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sunlight Crystals]]
 - Mutual non-aggression pacts
-- The sacred [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] as a neutral meeting ground
+- The sacred [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Coral Throne]] as a neutral meeting ground
 - Ritualistic renewal ceremonies every century
 
 The accords were sealed with powerful magic, binding both realms to honor their terms. But now the throne lies shattered, and ancient powers stir in the depths.
@@ -51,24 +55,24 @@ The accords were sealed with powerful magic, binding both realms to honor their 
 ## Act I: The Shattering (Levels 8-9)
 
 ### The Inciting Incident
-The quest begins when [[Captain Marina Saltborn]] of the [[Aquabyssos Royal Navy]] recruits the characters after the [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] is mysteriously destroyed during what should have been a routine renewal ceremony.
+The quest begins when [[02_Worldbuilding/People/Captain Marina Saltborn]] of the [[02_Worldbuilding/Lore/Aquabyssos Royal Navy]] recruits the characters after the [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Coral Throne]] is mysteriously destroyed during what should have been a routine renewal ceremony.
 
 ### The Hook Options
-- **Royal Summons:** Characters are summoned directly by [[Queen Nerida]] of [[Aquabyssos]]
+- **Royal Summons:** Characters are summoned directly by [[02_Worldbuilding/People/Queen Nerida]] of [[02_Worldbuilding/Places/Aquabyssos]]
 - **Diplomatic Corps:** Characters are already members of the royal diplomatic mission
 - **Survivors:** Characters were present during the throne's destruction and are the only witnesses
 - **Treasure Hunters:** Rumors of ancient [[Abyssal Treasures]] draw the characters into the crisis
 
 ### Key NPCs
 
-**[[Captain Marina Saltborn]]** (Triton Paladin/Diplomat)
+**[[02_Worldbuilding/People/Captain Marina Saltborn]]** (Triton Paladin/Diplomat)
 *AS 18, HP 112, STR 16, DEX 10, CON 14, INT 12, WIS 16, CHA 18*
 - **Skills:** Diplomacy +8, Insight +7, Persuasion +8, Religion +5
 - **Spells:** 1st (4): Command, Cure Wounds, 2nd (3): Hold Person, Zone of Truth, 3rd (3): Counterspell, Dispel Magic, 4th (1): Freedom of Movement
 - **Equipment:** Trident of Tidal Command, Plate Armor (adapted for aquatic use), Diplomatic Seal
 - **Personality:** Honorable but pragmatic, carries the weight of preventing war
 
-**[[Elder Kythara]]** (Ancient Sea Elf Oracle)
+**[[02_Worldbuilding/Lore/Elder Kythara]]** (Ancient Sea Elf Oracle)
 *AS 15, HP 82, STR 8, DEX 16, CON 12, INT 20, WIS 18, CHA 14*
 - **Skills:** Arcana +11, History +11, Insight +10, Investigation +11
 - **Spells:** 9th level spellcaster, specializing in divination and illusion magic
@@ -77,16 +81,16 @@ The quest begins when [[Captain Marina Saltborn]] of the [[Aquabyssos Royal Navy
 - **Personality:** Cryptic but wise, speaks in riddles and ancient metaphors
 
 ### Initial Investigation
-Characters must uncover what happened to the [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]]:
-- **Arcana (DC 18):** The destruction was caused by [[Void Magic]], not natural forces
+Characters must uncover what happened to the [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Coral Throne]]:
+- **Arcana (DC 18):** The destruction was caused by [[02_Worldbuilding/Lore/Void Magic]], not natural forces
 - **Investigation (DC 16):** Evidence points to sabotage rather than accident
 - **History (DC 20):** Discovery of similar incidents in ancient texts
 - **Survival (DC 15):** Tracking unusual magical disturbances in the area
 
 ### First Contact
-The party encounters [[Depth Walker Zephys]], an emissary from the [[Abyssal Courts]] who delivers an ultimatum: restore the accords within seven days, or the depths will consider the treaty void and act accordingly.
+The party encounters [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Walker Zephys]], an emissary from the [[Abyssal Courts]] who delivers an ultimatum: restore the accords within seven days, or the depths will consider the treaty void and act accordingly.
 
-**[[Depth Walker Zephys]]** (Deep One Sorcerer)
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Walker Zephys]]** (Deep One Sorcerer)
 *AS 16, HP 78, STR 12, DEX 14, CON 16, INT 16, WIS 13, CHA 18*
 - **Skills:** Arcana +7, Deception +8, Intimidation +8, Persuasion +8
 - **Spells:** 7th level spellcaster, specializing in enchantment and transmutation
@@ -97,41 +101,41 @@ The party encounters [[Depth Walker Zephys]], an emissary from the [[Abyssal Cou
 ## Act II: Descent into Diplomacy (Levels 9-10)
 
 ### The Journey to the Depths
-Using ancient [[Breathing Apparatus]] and guided by [[Elder Kythara]]'s knowledge, the characters must descend to the [[Abyssal Courts]] located in the [[Midnight Trenches]].
+Using ancient [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Breathing Apparatus]] and guided by [[02_Worldbuilding/Lore/Elder Kythara]]'s knowledge, the characters must descend to the [[Abyssal Courts]] located in the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Midnight Trenches]].
 
 ### Environmental Challenges
 - **Pressure Adaptation:** Constitution saves (DC 15) or suffer exhaustion
 - **Navigation:** Complex underwater terrain requiring Survival checks
-- **Hostile Creatures:** Encounters with [[Kraken Spawn]], [[Aboleth Servants]], and territorial [[Deep Dragons]]
+- **Hostile Creatures:** Encounters with [[02_Worldbuilding/Lore/Kraken Spawn]], [[Aboleth Servants]], and territorial [[02_Worldbuilding/Lore/Deep Dragons]]
 
 ### The Abyssal Courts
-The characters arrive at [[Ry'leth]], the ancient city of the [[Deep Ones]], where they must navigate three distinct courts:
+The characters arrive at [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ry'leth]], the ancient city of the [[02_Worldbuilding/Places/Deep Ones]], where they must navigate three distinct courts:
 
 **The Court of Currents** (Political Power)
-- Ruled by [[Prince Thalassic]], master of ocean currents and trade routes
+- Ruled by [[02_Worldbuilding/Lore/Prince Thalassic]], master of ocean currents and trade routes
 - Focuses on territorial disputes and resource rights
 - Key issue: Surface vessels violating deep-sea boundaries
 
 **The Court of Whispers** (Intelligence and Secrets)
-- Ruled by [[Princess Nereia]], keeper of ancient knowledge
+- Ruled by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Princess Nereia]], keeper of ancient knowledge
 - Focuses on information exchange and magical research
-- Key issue: Theft of [[Abyssal Secrets]] by surface scholars
+- Key issue: Theft of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Secrets]] by surface scholars
 
 **The Court of the Depths** (Military Might)
-- Ruled by [[Prince Abyssos]], commander of the deep-sea armies
+- Ruled by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Prince Abyssos]], commander of the deep-sea armies
 - Focuses on security and military preparedness
 - Key issue: Increasing surface activity threatening sacred sites
 
 ### Major NPCs of the Courts
 
-**[[Prince Thalassic]]** (Ancient Deep One Noble)
+**[[02_Worldbuilding/Lore/Prince Thalassic]]** (Ancient Deep One Noble)
 *AS 17, HP 135, STR 18, DEX 14, CON 16, INT 18, WIS 15, CHA 16*
 - **Skills:** Intimidation +7, Persuasion +7, Nature +8, Athletics +8
 - **Special Abilities:** Control Currents, Telepathic Command, Pressure Immunity
 - **Equipment:** Crown of Flowing Waters, Trident of Depths, Ancient Armor
 - **Personality:** Pragmatic ruler who values strength and clear agreements
 
-**[[Princess Nereia]]** (Deep One Archsage)
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Princess Nereia]]** (Deep One Archsage)
 *AS 16, HP 95, STR 10, DEX 16, CON 14, INT 22, WIS 17, CHA 14*
 - **Skills:** Arcana +14, History +14, Investigation +14, Insight +9
 - **Spells:** 18th level spellcaster with access to unique deep-sea magic
@@ -139,7 +143,7 @@ The characters arrive at [[Ry'leth]], the ancient city of the [[Deep Ones]], whe
 - **Equipment:** Tome of Abyssal Knowledge, Circlet of Deep Thoughts, Staff of Forgotten Lore
 - **Personality:** Curious and scholarly, but protective of ancient secrets
 
-**[[Prince Abyssos]]** (Deep One Warlord)
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Prince Abyssos]]** (Deep One Warlord)
 *AS 19, HP 180, STR 20, DEV 12, CON 18, INT 14, WIS 16, CHA 14*
 - **Skills:** Athletics +11, Intimidation +8, Perception +9, Survival +9
 - **Special Abilities:** Command Deep Armies, Battle Frenzy, Crushing Depths
@@ -170,20 +174,20 @@ Each court presents different negotiation challenges:
 ## Act III: The Ancient Conspiracy (Levels 10-11)
 
 ### The Hidden Truth
-Through successful negotiations and investigation, the characters discover that the [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] was not destroyed by either surface dwellers or the [[Deep Ones]], but by the [[Cult of the Endless Void]]—a faction that seeks to destroy the barriers between dimensions and unleash chaos upon both realms.
+Through successful negotiations and investigation, the characters discover that the [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Coral Throne]] was not destroyed by either surface dwellers or the [[02_Worldbuilding/Places/Deep Ones]], but by the [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Endless Void]]—a faction that seeks to destroy the barriers between dimensions and unleash chaos upon both realms.
 
 ### Key Revelations
 - The cult has infiltrated both surface and deep-sea societies
 - The throne's destruction was meant to trigger a war that would weaken both realms
-- The cult leader is [[Magister Voidheart]], a former diplomat who helped negotiate the original accords
-- The cult possesses a fragment of the original [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] and plans to corrupt it
+- The cult leader is [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Magister Voidheart]], a former diplomat who helped negotiate the original accords
+- The cult possesses a fragment of the original [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Coral Throne]] and plans to corrupt it
 
 ### The Cult's Base
-The characters must infiltrate the [[Void Sanctum]], a hidden fortress built within a dimensional rift between the surface and the depths.
+The characters must infiltrate the [[02_Worldbuilding/Lore/Void Sanctum]], a hidden fortress built within a dimensional rift between the surface and the depths.
 
 ### Major Cult NPCs
 
-**[[Magister Voidheart]]** (Corrupted Human Warlock)
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Magister Voidheart]]** (Corrupted Human Warlock)
 *AS 17, HP 132, STR 10, DEX 14, CON 16, INT 18, WIS 12, CHA 20*
 - **Skills:** Arcana +10, Deception +11, History +10, Persuasion +11
 - **Spells:** 11th level warlock with unique void magic
@@ -191,7 +195,7 @@ The characters must infiltrate the [[Void Sanctum]], a hidden fortress built wit
 - **Equipment:** Robes of the Endless Void, Staff of Dimensional Rifts, Corrupted Diplomatic Seal
 - **Personality:** Charismatic madman who believes chaos will bring true freedom
 
-**[[The Void Speaker]]** (Aberrant Entity)
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Void Speaker]]** (Aberrant Entity)
 *AS 18, HP 165, STR 16, DEX 12, CON 18, INT 20, WIS 15, CHA 22*
 - **Skills:** All mental skills at +12 or higher
 - **Special Abilities:** Mind Control, Reality Alteration, Void Summoning
@@ -200,7 +204,7 @@ The characters must infiltrate the [[Void Sanctum]], a hidden fortress built wit
 - **Personality:** Alien intelligence that views destruction as beautiful art
 
 ### The Sanctum Assault
-The [[Void Sanctum]] presents unique challenges:
+The [[02_Worldbuilding/Lore/Void Sanctum]] presents unique challenges:
 - **Dimensional Instability:** Random magical effects and shifting geography
 - **Void Creatures:** Encounters with beings from the spaces between dimensions
 - **Corrupted Allies:** Former diplomats and deep-sea nobles turned to the cult
@@ -209,20 +213,20 @@ The [[Void Sanctum]] presents unique challenges:
 ## Act IV: Forging New Accords (Levels 11-12)
 
 ### The Ritual of Restoration
-With the cult defeated and the throne fragment recovered, the characters must participate in an ancient ritual to create a new [[02_Worldbuilding/Lore/The Coral Throne|02 Worldbuilding/Lore/The Coral Throne]] and restore the [[Depth Accords]].
+With the cult defeated and the throne fragment recovered, the characters must participate in an ancient ritual to create a new [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Coral Throne]] and restore the [[02_Worldbuilding/Lore/Depth Accords]].
 
 ### The Ceremony Requirements
 - Representatives from all three [[Abyssal Courts]] must be present
 - A surface kingdom diplomat must speak the ancient words
 - The ceremony must take place at the exact intersection of three ocean currents
-- [[Sunlight Crystals]] and [[Abyssal Pearls]] must be sacrificed to power the ritual
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sunlight Crystals]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Pearls]] must be sacrificed to power the ritual
 - The characters must each contribute a personal sacrifice (memory, ability point, magic item, etc.)
 
 ### Potential Complications
 **Void Cultist Infiltration**
 - Remaining cultists attempt to disrupt the ceremony
 - Skill challenge to identify and neutralize infiltrators
-- Combat encounter with [[Void-touched Assassins]]
+- Combat encounter with [[02_Worldbuilding/Lore/Void-touched Assassins]]
 
 **Political Opposition**
 - Some factions on both sides oppose the new accords
@@ -269,10 +273,10 @@ With the cult defeated and the throne fragment recovered, the characters must pa
 - **Sacrifice Recognition:** Powerful blessings from ocean deities
 
 ### Unique Magic Items
-- **[[Medallion of the Depths]]:** Allows communication with sea creatures and water breathing
-- **[[Crown of Currents]]:** Grants control over water and weather in limited areas
-- **[[Void Ward Pendant]]:** Protection against dimensional magic and aberrant creatures
-- **[[Trident of Accord]]:** Weapon that deals extra damage to creatures that break oaths
+- **[[02_Worldbuilding/Lore/Medallion of the Depths]]:** Allows communication with sea creatures and water breathing
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crown of Currents]]:** Grants control over water and weather in limited areas
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Void Ward Pendant]]:** Protection against dimensional magic and aberrant creatures
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Trident of Accord]]:** Weapon that deals extra damage to creatures that break oaths
 
 ### Political Rewards
 - **Ambassador Status:** Permanent diplomatic immunity and high social standing
@@ -355,11 +359,11 @@ This quest serves as a masterclass in diplomatic adventure design, offering play
 
 ## Connections
 
-- [[The Original Palace]]
-- [[Vault Breach]]
-- [[Diplomatic Tides]]
-- [[Quest - Nature's Balance]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Places/The Original Palace]]
+- [[02_Worldbuilding/Places/Vault Breach]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Diplomatic Tides]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -379,4 +383,4 @@ Legends speak of The Depth Accords as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Diplomatic Tides|02 Worldbuilding/Quests/Diplomatic Tides]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Diplomatic Tides]]

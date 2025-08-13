@@ -2,6 +2,7 @@
 tags:
 - active
 - aquabyssos
+- complete
 - lore
 - military-ethics
 - moral-dilemmas
@@ -11,8 +12,9 @@ type: Lore
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-13T01:18:35.329174+00:00'
+updated: '2025-08-13T12:34:26.329784+00:00'
 ---
+
 
 
 # Military Moral Quandaries

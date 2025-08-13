@@ -39,7 +39,7 @@ world: Both
 - Fail: Reign of dreams; day-night inversion in zones
 
 ## Integrations
-- [[Deep Mother]]; Sanity; Memory economy
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]; Sanity; Memory economy
 
 ## Quick-Run
 - Sanity→Religion→decide bargain/banish; set world tag

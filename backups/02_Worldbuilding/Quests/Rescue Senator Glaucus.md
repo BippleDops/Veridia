@@ -27,39 +27,39 @@ updated: '2025-08-13T01:18:34.500405+00:00'
 
 **Type:** Rescue/Political Intrigue  
 **Level:** 1-5  
-**Location:** [[The Sunken Markets]], [[Parliament of Echoes]], [[Smuggler's Cove]]  
+**Location:** [[02_Worldbuilding/Places/The Sunken Markets]], [[02_Worldbuilding/Places/Parliament of Echoes]], [[02_Worldbuilding/Places/Smuggler's Cove]]  
 **Duration:** 2-3 sessions  
-**Threat:** A key political figure has been kidnapped to destabilize [[Aquabyssos]] democracy
+**Threat:** A key political figure has been kidnapped to destabilize [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] democracy
 
 ## Overview
-[[Senator Glaucus]], a moderate voice in the [[Parliament of Echoes]] and key supporter of surface-depth cooperation, has vanished during a routine visit to [[The Sunken Markets]]. His disappearance threatens to collapse delicate peace negotiations between [[Aethermoor]] and [[Aquabyssos]]. Time is running out as political extremists on both sides use his absence to push for war.
+[[02_Worldbuilding/People/Senator Glaucus]], a moderate voice in the [[02_Worldbuilding/Places/Parliament of Echoes]] and key supporter of surface-depth cooperation, has vanished during a routine visit to [[02_Worldbuilding/Places/The Sunken Markets]]. His disappearance threatens to collapse delicate peace negotiations between [[02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Time is running out as political extremists on both sides use his absence to push for war.
 
 ## Background
-Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collective]] operations in the market district when he disappeared. Security footage from [[Pressure Tubes]] shows him entering a seemingly legitimate memory merchant's stall, but he never emerged. His bodyguards were found days later, their memories completely wiped.
+Senator Glaucus was investigating reports of illegal [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]] operations in the market district when he disappeared. Security footage from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]] shows him entering a seemingly legitimate memory merchant's stall, but he never emerged. His bodyguards were found days later, their memories completely wiped.
 
 ## Key NPCs
-- **[[Senator Glaucus]]**: Moderate politician, expert negotiator, secretly dying from pressure poisoning
-- **[[Shadow Merchant Riptide]]**: Ruthless trader who arranged the kidnapping for political gain
-- **[[Memory Merchant Zephyr Mindweaver]]**: Reluctant accomplice with crucial information
-- **[[Commander Drake Pressureborn]]**: Military leader demanding immediate action
-- **[[Mediator Serenity Stillwater]]**: Desperate diplomat trying to prevent war
-- **[[Admiral Thorne Blackwater]]**: Naval commander coordinating search operations
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Crystal mage investigating magical aspects of the kidnapping
-- **Detective Coral Truthseeker**: [[Parliament of Echoes]] investigator with inside knowledge
-- **[[Vault Keeper Eternal]]**: Ancient guardian who may have witnessed similar incidents
+- **[[02_Worldbuilding/People/Senator Glaucus]]**: Moderate politician, expert negotiator, secretly dying from pressure poisoning
+- **[[02_Worldbuilding/Places/Shadow Merchant Riptide]]**: Ruthless trader who arranged the kidnapping for political gain
+- **[[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]**: Reluctant accomplice with crucial information
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Commander Drake Pressureborn]]**: Military leader demanding immediate action
+- **[[02_Worldbuilding/Places/Mediator Serenity Stillwater]]**: Desperate diplomat trying to prevent war
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]**: Naval commander coordinating search operations
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: Crystal mage investigating magical aspects of the kidnapping
+- **Detective Coral Truthseeker**: [[02_Worldbuilding/Places/Parliament of Echoes]] investigator with inside knowledge
+- **[[02_Worldbuilding/Places/Vault Keeper Eternal]]**: Ancient guardian who may have witnessed similar incidents
 - **Nurse Tidal Mercy**: Medical professional treating pressure poisoning symptoms
-- **[[The Recursion Oracle]]**: Seer whose visions might reveal the Senator's location
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Recursion Oracle]]**: Seer whose visions might reveal the Senator's location
 
 ## Investigation Phase
 
 ### Phase 1: The Senator's Last Steps (1 session)
-**Location:** [[The Sunken Markets]]  
+**Location:** [[02_Worldbuilding/Places/The Sunken Markets]]  
 **Objective:** Trace the senator's movements and identify suspects
 
 **Key Locations to Investigate:**
 - **Memory Merchant Stalls**: Several report unusual "bulk orders" for political memories
-- **[[Pressure Tube Terminal]]**: Security constructs have partial recordings
-- **[[The Depth Market]]**: Black market dealers may have seen something
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tube Terminal]]**: Security constructs have partial recordings
+- **[[02_Worldbuilding/Places/The Depth Market]]**: Black market dealers may have seen something
 - **Senator's Office**: Contains evidence of his investigation into shadow surgeries
 
 **Clues to Discover:**
@@ -70,7 +70,7 @@ Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collectiv
 5. **Temporal Disturbances**: Minor time anomalies suggest magical transportation
 
 ### Phase 2: Following the Trail (1 session)
-**Location:** [[Shadow Market Canals]], [[Smuggler's Cove]]  
+**Location:** [[02_Worldbuilding/Places/Shadow Market Canals]], [[02_Worldbuilding/Places/Smuggler's Cove]]  
 **Objective:** Navigate the criminal underworld to find the kidnapping network
 
 **Challenges:**
@@ -80,15 +80,15 @@ Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collectiv
 - **Time Pressure**: Every hour increases the chance of permanent memory damage
 
 **Key Encounters:**
-- **[[Current Riders Guild]] Smuggler**: Has transport records showing unusual cargo
+- **[[02_Worldbuilding/Places/Current Riders Guild]] Smuggler**: Has transport records showing unusual cargo
 - **Former Shadow Surgery Patient**: Victim who escaped, has inside knowledge
-- **[[Coral Throne Syndicate]] Enforcer**: Wants the senator found to maintain stability
+- **[[02_Worldbuilding/Places/Coral Throne Syndicate]] Enforcer**: Wants the senator found to maintain stability
 - **Crooked Pressure Tube Operator**: Accepting bribes to alter transport logs
 
 ## The Rescue Location: Hidden Surgical Facility
 
 ### Facility Layout
-**Location:** Converted section of [[Ancient Siege Tunnels]] beneath [[The Sunken Markets]]  
+**Location:** Converted section of [[02_Worldbuilding/Lore/Ancient Siege Tunnels]] beneath [[02_Worldbuilding/Places/The Sunken Markets]]  
 **Security:** Memory-locked doors, emotional manipulation traps, shadow construct guards
 
 **Key Areas:**
@@ -96,7 +96,7 @@ Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collectiv
 2. **Holding Cells**: Where victims await "treatment"
 3. **Surgery Theater**: Where memories are extracted and altered
 4. **Storage Vaults**: Crystalline containers holding stolen memories
-5. **Escape Routes**: Emergency tunnels leading to [[The Cerulean Trench]]
+5. **Escape Routes**: Emergency tunnels leading to [[02_Worldbuilding/Places/The Cerulean Trench]]
 
 ### Facility Defenses
 - **Memory Scramblers**: Devices that confuse intruders' recollections
@@ -122,7 +122,7 @@ Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collectiv
 - **Memory Drain** (3/day): Target makes DC 16 Int save or loses one spell slot (spellcasters) or gains disadvantage on one skill for 24 hours
 - **Shadow Clone** (1/day): Create illusory duplicate using stolen identity that lasts 1 hour
 - **Despair Aura**: Enemies within 20 feet have disadvantage on attack rolls and saving throws against fear
-- **Escape Protocol** (1/day): Can teleport to any location within [[The Sunken Markets]] where he's stored memories
+- **Escape Protocol** (1/day): Can teleport to any location within [[02_Worldbuilding/Places/The Sunken Markets]] where he's stored memories
 - **Multiattack**: Makes two Psychic Blade attacks
 - **Psychic Blade**: +7 to hit, 1d6 + 4 piercing plus 1d6 psychic damage
 
@@ -156,7 +156,7 @@ Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collectiv
 - **Keen Investigation**: Advantage on Investigation checks and can determine lies with 90% accuracy
 - **Evidence Analysis**: Can reconstruct crime scenes from minimal clues
 - **Legal Authority**: Can arrest suspects and access government facilities
-- **Network of Informants**: Has contacts throughout [[Abyssos Prime]]'s criminal underworld
+- **Network of Informants**: Has contacts throughout [[02_Worldbuilding/Places/Abyssos Prime]]'s criminal underworld
 - **Truth Sense** (3/day): Can cast *detect thoughts* without using a spell slot
 
 **Nurse Tidal Mercy**
@@ -200,7 +200,7 @@ When found, the senator is in critical condition:
 ### Moral Dilemmas
 - **Other Victims**: Facility holds dozens of other kidnapping victims
 - **Collateral Damage**: Shutting down facility destroys stored memories of all victims
-- **Criminal Cooperation**: May need to work with [[Thieves Guild]] for information
+- **Criminal Cooperation**: May need to work with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Thieves Guild]] for information
 - **Public Revelation**: Exposing the truth could destabilize the government
 
 ## Resolution Paths
@@ -237,8 +237,8 @@ When found, the senator is in critical condition:
 - **Base XP**: 7,800 XP for successful rescue
 - **Bonus XP**: 1,500 XP for exposing the full network
 - **Political Favors**: Access to government resources and information
-- **[[Memory Crystal]]**: Contains the senator's knowledge of secret negotiations
-- **5,000 gp**: Reward from grateful [[Parliament of Echoes]]
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Crystal]]**: Contains the senator's knowledge of secret negotiations
+- **5,000 gp**: Reward from grateful [[02_Worldbuilding/Places/Parliament of Echoes]]
 
 ### Long-term Benefits
 - **Political Connections**: Regular access to high-level government officials
@@ -249,31 +249,31 @@ When found, the senator is in critical condition:
 ## ## Wiki Links and Campaign Connections
 
 ### Core Campaign Elements
-- **[[The Sunken Markets]]**: Commercial district where the senator was kidnapped
-- **[[Parliament of Echoes]]**: Government body coordinating the search and managing political fallout
-- **[[Smuggler's Cove]]**: Underground area where the criminal network operates
-- **[[Shadow Surgeons Collective]]**: Organization behind the memory modification operations
-- **[[Abyssos Prime]]**: Capital city dealing with political crisis
-- **[[Aquabyssos]]**: Underwater realm whose stability depends on successful negotiations
-- **[[Aethermoor]]**: Surface realm involved in the peace negotiations
-- **[[Pressure Tubes]]**: Transportation system with security footage of the kidnapping
-- **[[The Depth Market]]**: Black market area where information can be purchased
-- **[[Ancient Siege Tunnels]]**: Underground passages used by criminals
-- **[[The Cerulean Trench]]**: Escape route for fleeing criminals
+- **[[02_Worldbuilding/Places/The Sunken Markets]]**: Commercial district where the senator was kidnapped
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Government body coordinating the search and managing political fallout
+- **[[02_Worldbuilding/Places/Smuggler's Cove]]**: Underground area where the criminal network operates
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]**: Organization behind the memory modification operations
+- **[[02_Worldbuilding/Places/Abyssos Prime]]**: Capital city dealing with political crisis
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: Underwater realm whose stability depends on successful negotiations
+- **[[02_Worldbuilding/Places/Aethermoor]]**: Surface realm involved in the peace negotiations
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]]**: Transportation system with security footage of the kidnapping
+- **[[02_Worldbuilding/Places/The Depth Market]]**: Black market area where information can be purchased
+- **[[02_Worldbuilding/Lore/Ancient Siege Tunnels]]**: Underground passages used by criminals
+- **[[02_Worldbuilding/Places/The Cerulean Trench]]**: Escape route for fleeing criminals
 - **[[Memory Tides]]**: Psychic phenomena affecting memory-related magic
-- **[[Depth Wardens]]**: Military force providing security for government officials
+- **[[02_Worldbuilding/Places/Depth Wardens]]**: Military force providing security for government officials
 - **[[Crystal Festival]]**: Upcoming event that increases political tensions
-- **[[The Archive of Unremembered Things]]**: Repository where stolen memories might be stored
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]**: Repository where stolen memories might be stored
 
 Connected Adventures
 - **[[Crystalline Depths]]**: Political stability needed to coordinate response to crystal threat
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Peace negotiations crucial for preventing the Final Sundering
-- **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Criminal networks involved in both memory theft and weapon smuggling
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: Peace negotiations crucial for preventing the Final Sundering
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: Criminal networks involved in both memory theft and weapon smuggling
 - **[[The Maw of Darkness]]**: Political unity essential for fighting reality-consuming threats
-- **[[The Shadow Surgeons]]**: This rescue exposes a larger conspiracy
-- **[[Investigate Shadow Conspiracy]]**: The kidnapping is part of a broader plot
+- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Surgeons]]**: This rescue exposes a larger conspiracy
+- **[[02_Worldbuilding/People/Investigate Shadow Conspiracy]]**: The kidnapping is part of a broader plot
 - **[[Diplomatic Tides]]**: Success here enables future peace negotiations
-- **[[The Memory Weapon Arms Race]]**: Discovery leads to arms control investigations
+- **[[02_Worldbuilding/Lore/The Memory Weapon Arms Race]]**: Discovery leads to arms control investigations
 
 ## Campaign Impact
 
@@ -281,7 +281,7 @@ Connected Adventures
 - **Moderate Coalition Strengthened**: Successful rescue boosts centrist politicians
 - **Security Reforms**: New protections for government officials
 - **Shadow Surgery Regulations**: Stricter controls on memory modification
-- **Inter-Realm Cooperation**: Success improves [[Aethermoor]]-[[Aquabyssos]] relations
+- **Inter-Realm Cooperation**: Success improves [[02_Worldbuilding/Places/Aethermoor]]-[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] relations
 
 ### Character Development
 - **Moral Complexity**: Players must balance individual rescue vs. systemic change
@@ -309,16 +309,16 @@ Connected Adventures
 - **Session 3**: Rescue mission and dealing with consequences
 
 > [!danger] DM Secret
-> Senator Glaucus has been replaced by a [[Shadow Surgeons Collective]] duplicate. The real senator died during the first memory extraction, but the duplicate believes it's the original. The truth will only emerge through careful magical examination.
+> Senator Glaucus has been replaced by a [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]] duplicate. The real senator died during the first memory extraction, but the duplicate believes it's the original. The truth will only emerge through careful magical examination.
 
 
 ## Connections
 
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 - [[Smuggler]]
 - [[The Maw of Darkness]]
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -339,31 +339,31 @@ Legends speak of Rescue Senator Glaucus as a nexus where past and present conver
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/Diplomatic Tides|02 Worldbuilding/Quests/Diplomatic Tides]]
-- [[Shadow Surgeons Collective]]
-- [[Thieves Guild]]
-- [[Ancient Siege Tunnels]]
-- [[The Recursion Oracle]]
-- [[Admiral Thorne Blackwater]]
-- [[Senator Glaucus]]
-- [[The Shadow Surgeons]]
-- [[Abyssos Prime]]
-- [[Aethermoor]]
-- [[Commander Drake Pressureborn]]
-- [[Coral Throne Syndicate]]
-- [[Current Riders Guild]]
-- [[Depth Wardens]]
-- [[Mediator Serenity Stillwater]]
-- [[Memory Merchant Zephyr Mindweaver]]
-- [[Parliament of Echoes]]
-- [[Pressure Tube Terminal]]
-- [[Pressure Tubes]]
-- [[Shadow Market Canals]]
-- [[Shadow Merchant Riptide]]
-- [[Smuggler's Cove]]
-- [[The Archive of Unremembered Things]]
-- [[The Cerulean Trench]]
-- [[The Depth Market]]
-- [[The Sunken Markets]]
-- [[Vault Keeper Eternal]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Thieves Guild]]
+- [[02_Worldbuilding/Lore/Ancient Siege Tunnels]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Recursion Oracle]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/People/Senator Glaucus]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Surgeons]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Commander Drake Pressureborn]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[02_Worldbuilding/Places/Depth Wardens]]
+- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tube Terminal]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]]
+- [[02_Worldbuilding/Places/Shadow Market Canals]]
+- [[02_Worldbuilding/Places/Shadow Merchant Riptide]]
+- [[02_Worldbuilding/Places/Smuggler's Cove]]
+- [[02_Worldbuilding/Places/The Archive of Unremembered Things]]
+- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/Places/The Depth Market]]
+- [[02_Worldbuilding/Places/The Sunken Markets]]
+- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
 - [[Crystalline Depths]]
 - [[Diplomatic Tides]]

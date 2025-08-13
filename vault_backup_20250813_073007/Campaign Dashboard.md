@@ -46,8 +46,8 @@ WHERE file.name = this.file.name
 - **Deep Mother Influence**: 34/100 (Rising)
 - **Merger Events Active**: 3
 - **Active Fleets**: see [[08_Tracking/Fleet_Tracker.base|Fleet Tracker]]; ships in [[08_Tracking/Ship_Registry.base|Ship Registry]]
-- **Travel Events**: use [[06_GM_Resources/Travel/Travel_Event_Table|Travel Event Table]]
-- **Vehicle Rules**: [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Core Vehicle Rules]]
+- **Travel Events**: use [[vault_backup_20250813_073007/06_GM_Resources/Travel/Travel Event Table]]
+- **Vehicle Rules**: [[vault_backup_20250813_073007/03_Mechanics/Vehicles - Vehicle Core Rules]]
 - **Time Until Convergence**: 6 months (in-game)
 
 ### 🌊 Aquabyssos Status
@@ -272,25 +272,25 @@ SORT file.name ASC
 ## 🔧 GM Tools & References
 
 ### Quick Links
-- [[Master Index]] - Complete vault navigation
-- [[World Bible]] - Comprehensive lore reference
-- [[Session Planning Toolkit]] - Session preparation
-- [[Encounter Builder]] - Combat encounter creation
-- [[NPC Dialogue Generator]] - Instant NPC responses
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Master Index]] - Complete vault navigation
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/World Bible]] - Comprehensive lore reference
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Planning Toolkit]] - Session preparation
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Encounter Builder]] - Combat encounter creation
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/NPC Dialogue Generator]] - Instant NPC responses
 
 ### Active Mechanics
-- [[Complete Pressure Adaptation System]] - Full transformation rules
-- [[Complete Faction Warfare System]] - Political maneuvering
-- [[Complete Reality Merger System]] - Dimensional mechanics
-- [[Memory Trading Economy]] - Memory as currency
-- [[Sanity Horror Framework]] - Madness tracking
+- [[03_Mechanics/Complete Pressure Adaptation System]] - Full transformation rules
+- [[03_Mechanics/Complete Faction Warfare System]] - Political maneuvering
+- [[03_Mechanics/Complete Reality Merger System]] - Dimensional mechanics
+- [[03_Mechanics/Memory Trading Economy]] - Memory as currency
+- [[03_Mechanics/Sanity Horror Framework]] - Madness tracking
 
 ### Resource Management
 - [[04_Resources/Assets|04 Resources/Assets]] - Visual materials
 - [[04_Resources/Handouts|04 Resources/Handouts]] - Player handouts
 - [[04_Resources/Random_Tables|04 Resources/Random Tables]] - Generation tables
 - [[07_Player_Resources|07 Player Resources]] - Player references
-- [[02_Worldbuilding/Lore/GM Resources|02 Worldbuilding/Lore/GM Resources]] - GM materials
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/GM Resources]] - GM materials
 
 ## 🎯 Session Preparation Checklist
 
@@ -378,11 +378,11 @@ if (daysSinceUpdate > 7) {
 ---
 
 ## Navigation
-- [[Master Index]] - Complete vault navigation
-- [[World Bible]] - Comprehensive lore reference  
-- [[Campaign Index]] - Session archive
-- [[Quick_Start_Guide|Quick Start Guide]] - New player onboarding
-- [[GM Resources]] - Gamemaster tools
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Master Index]] - Complete vault navigation
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/World Bible]] - Comprehensive lore reference  
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]] - Session archive
+- [[vault_backup_20250813_073007/07_Player_Resources/Quick Start Guide]] - New player onboarding
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/GM Resources]] - Gamemaster tools
 
 ---
 
@@ -397,17 +397,17 @@ if (daysSinceUpdate > 7) {
 
 ## Connections
 
-- [[02_Worldbuilding/Lore/GM Resources|02 Worldbuilding/Lore/GM Resources]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/GM Resources]]
 - [[07_Player_Resources|07 Player Resources]]
-- [[Complete Pressure Adaptation System]]
-- [[Complete Reality Merger System]]
-- [[Encounter Builder]]
-- [[GM Resources]]
-- [[Memory Trading Economy]]
-- [[NPC Dialogue Generator]]
-- [[Sanity Horror Framework]]
-- [[Session Planning Toolkit]]
-- [[World Bible]]
-- [[Vehicle_Core_Rules|Vehicle Core Rules]]
-- [[Travel_Event_Table|Travel Event Table]]
-- [[Quick_Start_Guide|Quick Start Guide]]
+- [[03_Mechanics/Complete Pressure Adaptation System]]
+- [[03_Mechanics/Complete Reality Merger System]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Encounter Builder]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/GM Resources]]
+- [[03_Mechanics/Memory Trading Economy]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/NPC Dialogue Generator]]
+- [[03_Mechanics/Sanity Horror Framework]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Planning Toolkit]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/World Bible]]
+- [[vault_backup_20250813_073007/03_Mechanics/Vehicles - Vehicle Core Rules]]
+- [[vault_backup_20250813_073007/06_GM_Resources/Travel/Travel Event Table]]
+- [[vault_backup_20250813_073007/07_Player_Resources/Quick Start Guide]]

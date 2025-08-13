@@ -6,12 +6,14 @@ tags:
 - commercial-district
 - completed
 - district
+- draft
 - location
 - port
 - trading
 status: draft
 world: Aethermoor
-parent_location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
+parent_location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port
+  Meridian]]'
 region: '[[The Azure Coast]]'
 type: Location
 population: 85000
@@ -26,8 +28,9 @@ created: '2025-08-11'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:27.827392+00:00'
 ---
+
 
 
 > [!figure] View

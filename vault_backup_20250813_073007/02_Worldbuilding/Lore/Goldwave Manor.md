@@ -2,10 +2,10 @@
 access: By invitation only
 architecture: Crystal and Gold Fusion
 connected_locations:
-- '[[Port Meridian Harbor]]'
-- '[[The Royal Palace]]'
-- '[[Silverscale Banking House]]'
-- '[[The Shadow Markets]]'
+- '[[02_Worldbuilding/Places/Port Meridian Harbor]]'
+- '[[02_Worldbuilding/Places/The Royal Palace]]'
+- '[[02_Worldbuilding/Lore/Silverscale Banking House]]'
+- '[[02_Worldbuilding/Places/The Shadow Markets]]'
 created: '2025-08-08'
 created_by: auto-stub
 current_state: Thriving financial hub
@@ -14,11 +14,11 @@ discovered: false
 location_name: Goldwave Manor
 location_type: Noble Estate and Financial Complex
 notable_residents:
-- '[[Aurelius Goldwave]]'
+- '[[02_Worldbuilding/Lore/Aurelius Goldwave]]'
 - '[[Lady Serena Goldwave]]'
 - '[[Master Valet Sterling Currentborn]]'
-owner: '[[Aurelius Goldwave]]'
-parent_location: '[[Port Meridian - Market Square]]'
+owner: '[[02_Worldbuilding/Lore/Aurelius Goldwave]]'
+parent_location: '[[02_Worldbuilding/Places/Port Meridian - Market Square]]'
 security_level: High
 services:
 - Private Banking
@@ -36,9 +36,12 @@ sub_locations:
 - '[[The Vault of Currents]]'
 - '[[Goldwave Guest Quarters]]'
 tags:
+- aethermoor
+- complete
 - content/location
 - cross-realm-trade
 - financial-power
+- location
 - luxury
 - manor
 - merchant
@@ -48,7 +51,7 @@ tags:
 - world/aethermoor
 temporal_stability: 95
 type: Location
-updated: '2025-08-12T23:37:38.782264'
+updated: '2025-08-13T12:34:29.458017+00:00'
 visited: false
 wealth_level: Extreme
 world: Aethermoor
@@ -57,21 +60,22 @@ world: Aethermoor
 
 
 
+
 # Goldwave Manor
 ## The Crown Jewel of Merchant Nobility
 
 > *"Gold flows like water through these halls, and water shimmers like gold in the light of our success. Here, where crystal meets current, the future of two realms is bought and sold with the elegance befitting true nobility."*
-> — [[Aurelius Goldwave]], Master of the House
+> — [[02_Worldbuilding/Lore/Aurelius Goldwave]], Master of the House
 
 ## Overview
 
-Goldwave Manor stands as the most magnificent private residence in [[Port Meridian - Market Square]], serving simultaneously as luxurious family estate, sophisticated financial headquarters, and exclusive social center for [[Aethermoor]]'s mercantile elite. Built by the legendary [[Goldwave Trading Empire]] over three generations, this architectural marvel demonstrates how vast wealth can be transformed into lasting power and influence.
+Goldwave Manor stands as the most magnificent private residence in [[02_Worldbuilding/Places/Port Meridian - Market Square]], serving simultaneously as luxurious family estate, sophisticated financial headquarters, and exclusive social center for [[02_Worldbuilding/Places/Aethermoor]]'s mercantile elite. Built by the legendary [[Goldwave Trading Empire]] over three generations, this architectural marvel demonstrates how vast wealth can be transformed into lasting power and influence.
 
 Unlike traditional noble houses that derive their status from bloodlines and land holdings, the Goldwave family has created their aristocracy through commercial genius and financial innovation. Their manor reflects this unique position, combining the grandeur expected of high nobility with cutting-edge magical technology and practical business facilities that manage a trading empire spanning multiple realms.
 
-The estate occupies a prime location overlooking both [[Port Meridian Harbor]] and the city's central financial district, strategically positioned to monitor commercial activity while displaying the family's prosperity. The manor's distinctive architecture, featuring walls that literally flow with liquid gold suspended in crystal matrices, has become an iconic symbol of merchant power and sophisticated wealth.
+The estate occupies a prime location overlooking both [[02_Worldbuilding/Places/Port Meridian Harbor]] and the city's central financial district, strategically positioned to monitor commercial activity while displaying the family's prosperity. The manor's distinctive architecture, featuring walls that literally flow with liquid gold suspended in crystal matrices, has become an iconic symbol of merchant power and sophisticated wealth.
 
-Beyond its role as private residence, Goldwave Manor functions as an exclusive financial institution, diplomatic center, and social hub where the most important commercial and political decisions affecting [[Aethermoor]]'s economy are negotiated over elegant dinners and in opulent private chambers.
+Beyond its role as private residence, Goldwave Manor functions as an exclusive financial institution, diplomatic center, and social hub where the most important commercial and political decisions affecting [[02_Worldbuilding/Places/Aethermoor]]'s economy are negotiated over elegant dinners and in opulent private chambers.
 
 ### Key Statistics
 - **Construction Value:** Over 2.5 million gold pieces
@@ -97,7 +101,7 @@ Magical systems allow rooms to reconfigure themselves based on their intended us
 
 **The Residential Wing**
 Private family quarters designed for luxury and security:
-- **Master Suites:** [[Aurelius Goldwave]] and [[Lady Serena Goldwave]]'s private apartments
+- **Master Suites:** [[02_Worldbuilding/Lore/Aurelius Goldwave]] and [[Lady Serena Goldwave]]'s private apartments
 - **Family Chambers:** Accommodations for visiting relatives and close business partners
 - **Service Quarters:** High-quality housing for essential personal staff
 - **Private Dining:** Intimate spaces for family meals and confidential discussions
@@ -137,7 +141,7 @@ Defensive systems and personnel quarters:
 
 ## Connected Locations and Adventure Integration
 
-Goldwave Manor serves as a natural hub connecting to numerous other important locations throughout [[Aethermoor]] and beyond, providing rich opportunities for campaign development and character engagement across multiple storylines and adventure themes.
+Goldwave Manor serves as a natural hub connecting to numerous other important locations throughout [[02_Worldbuilding/Places/Aethermoor]] and beyond, providing rich opportunities for campaign development and character engagement across multiple storylines and adventure themes.
 
 ## Player-Facing Summary
 
@@ -161,10 +165,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
+- [[vault_backup_20250813_073007/Campaign Quick Reference Sheets]]
 
 
 ## Connections
 
-- [[The Silverscale Conspiracy]]
-- [[Aethermoor - Session 03 Council of Shadows]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[1-Session Journals/Aethermoor - Session 03 Council of Shadows]]

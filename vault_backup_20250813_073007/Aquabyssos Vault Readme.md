@@ -25,7 +25,7 @@ This vault contains worldbuilding, mechanics, assets, canvases, and tools for ru
 ## Getting started
 - Open the canvas: [[04_Resources/Assets/Canvas/Vault_Overview.canvas|04 Resources/Assets/Canvas/Vault Overview.canvas]]
 - Browse visual assets via [[04_Resources/Assets/Galleries/Index.md|04 Resources/Assets/Galleries/Index.md]]
-- Explore the interactive world map: [[04_Resources/Maps/Aquabyssos_World_Map.md|04 Resources/Maps/Aquabyssos World Map.md]] and overlays [[04_Resources/Assets/Maps/World_Map_Layers.md|04 Resources/Assets/Maps/World Map Layers.md]]
+- Explore the interactive world map: [[04_Resources/Maps/Aquabyssos World Map]] and overlays [[04_Resources/Assets/Maps/World_Map_Layers.md|04 Resources/Assets/Maps/World Map Layers.md]]
 
 ## Key directories
 - People/Groups/Places: `02_Worldbuilding/`
@@ -64,9 +64,9 @@ This README is the stable entry point; update canvases and galleries as content 
 
 ## Cross-References
 
-- [[04_Resources/Maps/Aquabyssos_World_Map|04 Resources/Maps/Aquabyssos World Map]]
+- [[04_Resources/Maps/Aquabyssos World Map]]
 
 
 ## Connections
 
-- [[Aquabyssos_World_Map|Aquabyssos World Map]]
+- [[04_Resources/Maps/Aquabyssos World Map]]

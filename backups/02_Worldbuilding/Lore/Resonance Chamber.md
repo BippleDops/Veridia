@@ -20,14 +20,14 @@ tags:
 
 ## Connections
 
-- [[Master Artificers Guild]]
-- [[Crystal-Corruption-Tracking-Sheet]]
-- [[Eastern Kingdom]]
-- [[Resonance Peaks]]
-- [[The Possessed Queen]]
+- [[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
+- [[02_Worldbuilding/Lore/Eastern Kingdom]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Peaks]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Possessed Queen]]
 - [[United Councils of Both Worlds]]
-- [[Aethermoor]]
-- [[Royal Palace]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Palace]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

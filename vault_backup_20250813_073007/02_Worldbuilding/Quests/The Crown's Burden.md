@@ -12,9 +12,12 @@ quest_type: Character Quest
 rewards: Royal Blessing, Curse Removal, Ancient Knowledge
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/lore
 - curse
+- lore
 - moral-choice
 - psychological
 - royalty
@@ -22,9 +25,10 @@ tags:
 - world/aethermoor
 time_limit: Before the Queen's Mind Breaks (21 days)
 type: Lore
-updated: '2025-08-12T23:37:37.758313'
+updated: '2025-08-13T12:34:28.537058+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -35,7 +39,7 @@ world: Aethermoor
 
 ## Quest Overview
 
-[[Queen Seraphina Lumengarde]] is dying—not physically, but mentally. The Crown of Aethermoor carries a terrible secret: it contains the accumulated consciousness of every monarch who has ever worn it. Their memories, regrets, triumphs, and madnesses all press against the current ruler's mind. After decades of rule, the Queen's psyche is fracturing under the weight of a thousand royal souls. She secretly seeks heroes to either lift this burden or help her bear it before she descends into the same madness that claimed her predecessors.
+[[02_Worldbuilding/People/Queen Seraphina Lumengarde]] is dying—not physically, but mentally. The Crown of Aethermoor carries a terrible secret: it contains the accumulated consciousness of every monarch who has ever worn it. Their memories, regrets, triumphs, and madnesses all press against the current ruler's mind. After decades of rule, the Queen's psyche is fracturing under the weight of a thousand royal souls. She secretly seeks heroes to either lift this burden or help her bear it before she descends into the same madness that claimed her predecessors.
 
 This deeply personal quest explores themes of leadership, sacrifice, and the price of power. The party must navigate not just physical dangers but the labyrinthine depths of royal memory, confronting the ghosts of history and the weight of responsibility that comes with absolute authority.
 
@@ -117,7 +121,7 @@ The Queen summons the party through unconventional means—dreams, coded message
 
 ### The Psychic Dive
 **Method**: Ritual allowing party to enter Queen's mindscape  
-**Guide**: [[Memory Harvester Kythara]] or similar specialist
+**Guide**: [[02_Worldbuilding/People/Memory Harvester Kythara]] or similar specialist
 
 **The Mental Landscape**:
 The Queen's mind is a vast palace where each room represents a different monarch's reign. The party must navigate this psychological maze to reach the Crown's core.
@@ -179,11 +183,11 @@ While party explores Queen's mind, crisis erupts outside:
 **Political Chaos**:
 - Duke Aldwin declares regency
 - Parliament attempts to seize power
-- [[Crystal Wardens]] split into factions
+- [[02_Worldbuilding/People/Crystal Wardens]] split into factions
 - Common people riot from confusion
 
 **Shadow Opportunity**:
-The [[Shadow-Crystal Synthesis]] sends agents to steal the weakened Crown, planning to corrupt it into a tool of mass mind control.
+The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow-Crystal Synthesis]] sends agents to steal the weakened Crown, planning to corrupt it into a tool of mass mind control.
 
 **Time Pressure**:
 Each day spent in the mindscape, the Queen deteriorates:
@@ -360,7 +364,7 @@ Seraphina has been pregnant this entire time, hiding it even from herself.
 - Others see opportunity
 - Need careful handling
 
-**[[Crystal Wardens]]**
+**[[02_Worldbuilding/People/Crystal Wardens]]**
 - Sworn to protect Crown
 - Conflicted about Queen's condition
 - May oppose or support based on approach
@@ -460,31 +464,31 @@ Seraphina has been pregnant this entire time, hiding it even from herself.
 ## Connected Elements
 
 ### Related Quests
-- [[Quest - The Pretender's Crown]]
-- [[Quest - Divine Intervention]]
-- [[Quest - The Crown Reborn]]
-- [[The Convergence Crisis]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Divine Intervention]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Crown Reborn]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Crisis]]
 
 ### Key Locations
-- [[Crystal Palace]]
-- [[The Throne Room]]
-- [[Royal Archives]]
-- [[The Crystal Heart Chamber]]
-- [[Memory Merchant Zephyr Mindweaver]]
+- [[02_Worldbuilding/Places/Crystal Palace]]
+- [[02_Worldbuilding/Lore/The Throne Room]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Archives]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Heart Chamber]]
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
 
 ### Important NPCs
-- [[Queen Seraphina Lumengarde]]
-- [[High Priestess Celeste Dawnbringer]]
-- [[The Nameless Auditor]]
-- [[Memory Harvester Kythara]]
-- [[Crystal Wardens]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/The Nameless Auditor]]
+- [[02_Worldbuilding/People/Memory Harvester Kythara]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
 
 ### Relevant Items
-- [[Crown of Aethermoor]]
-- [[Memory Crystals]]
-- [[Royal Regalia]]
-- [[Psychic Shields]]
-- [[The First King's Diary]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crown of Aethermoor]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Crystals]]
+- [[02_Worldbuilding/Lore/Royal Regalia]]
+- [[02_Worldbuilding/Lore/Psychic Shields]]
+- [[02_Worldbuilding/People/The First King's Diary]]
 
 ## Player-Facing Summary
 
@@ -508,4 +512,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Divine Intervention|02 Worldbuilding/Quests/Quest Divine Intervention]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Divine Intervention]]

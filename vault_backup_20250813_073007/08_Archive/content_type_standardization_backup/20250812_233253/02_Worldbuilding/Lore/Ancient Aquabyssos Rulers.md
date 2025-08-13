@@ -3,6 +3,7 @@ tags:
 - ancient
 - aquabyssos
 - completed
+- draft
 - historical-records
 - history
 - lore
@@ -16,13 +17,17 @@ type: Lore
 time_period: Pre-Drowning to Third Age of Aquabyssos
 historical_accuracy: Mix of verified records and recovered myths
 created: '2025-08-09'
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:27.046025+00:00'
 related_entities:
 - '[[02_Worldbuilding/Lore/The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]'
-- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
-- '[[02_Worldbuilding/People/Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor Thalassius The Wise]]'
-- '[[02_Worldbuilding/Places/The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]]'
+- '[[02_Worldbuilding/People/Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor
+  Thalassius The Wise]]'
+- '[[02_Worldbuilding/Places/The Bathyal Palace|02 Worldbuilding/Places/The Bathyal
+  Palace]]'
 ---
+
 
 
 

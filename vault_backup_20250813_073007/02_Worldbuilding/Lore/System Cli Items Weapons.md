@@ -3,28 +3,32 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/item
 - content/lore
 - crafting
+- lore
 - mechanics/combat
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.491735'
+updated: '2025-08-13T12:34:29.313479+00:00'
 world: Aquabyssos
 ---
 
 
+
 # Weapons of the Split Realms: Steel, Crystal, and Corruption
 
-The art of weaponcraft has evolved dramatically since the sundering of the realms. In [[02_Worldbuilding/Locations/Aethermoor|02 Worldbuilding/Locations/Aethermoor]] and [[02_Worldbuilding/Locations/Aquabyssos|02 Worldbuilding/Locations/Aquabyssos]], weapons are not merely tools of war—they are expressions of the fundamental forces that shape reality itself. Each realm's unique environment and the ever-present influence of the [[02_Worldbuilding/Entities/Deep Mother|02 Worldbuilding/Entities/Deep Mother]] have given rise to entirely new categories of arms.
+The art of weaponcraft has evolved dramatically since the sundering of the realms. In [[02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], weapons are not merely tools of war—they are expressions of the fundamental forces that shape reality itself. Each realm's unique environment and the ever-present influence of the [[02_Worldbuilding/Entities/Deep Mother|02 Worldbuilding/Entities/Deep Mother]] have given rise to entirely new categories of arms.
 
 ## Regional Weapon Traditions
 
 ### Aethermoor: Resonance Weapons
-In the sky realm, weaponsmiths work with crystalline materials that naturally harmonize with the [[02_Worldbuilding/Artifacts/Seven Shards|02 Worldbuilding/Artifacts/Seven Shards]]. The [[02_Worldbuilding/Factions/The Crystal Forge Guild|02 Worldbuilding/Factions/The Crystal Forge Guild]] has mastered the art of "Harmonic Smithing," creating weapons that channel sonic frequencies to devastating effect.
+In the sky realm, weaponsmiths work with crystalline materials that naturally harmonize with the [[02_Worldbuilding/Places/Seven Shards]]. The [[02_Worldbuilding/Factions/The Crystal Forge Guild|02 Worldbuilding/Factions/The Crystal Forge Guild]] has mastered the art of "Harmonic Smithing," creating weapons that channel sonic frequencies to devastating effect.
 
-**Resonance Blades** vibrate at specific frequencies that can shatter armor, disrupt magical shields, or even cause internal organs to rupture. The most skilled [[02_Worldbuilding/Factions/The Storm Riders|02 Worldbuilding/Factions/The Storm Riders]] carry "Windcutters"—swords that slice through air resistance itself, allowing for impossible aerial maneuvers.
+**Resonance Blades** vibrate at specific frequencies that can shatter armor, disrupt magical shields, or even cause internal organs to rupture. The most skilled [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Storm Riders]] carry "Windcutters"—swords that slice through air resistance itself, allowing for impossible aerial maneuvers.
 
 The [[02_Worldbuilding/Locations/Floating Arsenal|02 Worldbuilding/Locations/Floating Arsenal]] houses the legendary **Chorus of a Thousand Cuts**, a set of crystalline daggers that sing in perfect harmony when drawn together, their combined resonance capable of leveling entire buildings.
 
@@ -38,7 +42,7 @@ The [[02_Worldbuilding/Locations/Abyssal Forges|02 Worldbuilding/Locations/Abyss
 ## Legendary Weapons
 
 ### The Shard-Touched Arsenal
-Seven legendary weapons were forged in the moments immediately following the Sundering, each infused with fragments of the [[02_Worldbuilding/Artifacts/Seven Shards|02 Worldbuilding/Artifacts/Seven Shards]]:
+Seven legendary weapons were forged in the moments immediately following the Sundering, each infused with fragments of the [[02_Worldbuilding/Places/Seven Shards]]:
 
 1. **Lightrender** - A crystalline spear that fires beams of pure illumination, wielded by the first [[02_Worldbuilding/Factions/The Resonance Keepers|02 Worldbuilding/Factions/The Resonance Keepers]]
 2. **Deepbane** - A pressure-forged trident that can control ocean currents, lost somewhere in the [[02_Worldbuilding/Locations/Sunken Palace|02 Worldbuilding/Locations/Sunken Palace]]
@@ -86,10 +90,10 @@ A mysterious figure who appears in both realms, crafting weapons that seem to ex
 Every weapon forged in either realm must undergo the Ritual of First Strike, where it draws its first blood from its own creator. This binding ceremony ensures the weapon will serve its intended purpose and warns smiths against creating instruments of pure malice.
 
 ### Shard Resonance Testing
-Weapons crafted in Aethermoor are tested for their ability to harmonize with the [[02_Worldbuilding/Artifacts/Seven Shards|02 Worldbuilding/Artifacts/Seven Shards]]. Those that show natural resonance are marked with the [[02_Worldbuilding/Organizations/The Chroniclers|02 Worldbuilding/Organizations/The Chroniclers]]' seal and their origins carefully recorded.
+Weapons crafted in Aethermoor are tested for their ability to harmonize with the [[02_Worldbuilding/Places/Seven Shards]]. Those that show natural resonance are marked with the [[02_Worldbuilding/Organizations/The Chroniclers|02 Worldbuilding/Organizations/The Chroniclers]]' seal and their origins carefully recorded.
 
 ### Corruption Resistance Protocols
-All weapons made in Aquabyssos undergo testing to ensure they won't be turned against their wielders by the Deep Mother's influence. The [[02_Worldbuilding/Factions/The Depth Wardens|02 Worldbuilding/Factions/The Depth Wardens]] maintain strict standards for this process, as corrupted weapons have been responsible for numerous tragedies.
+All weapons made in Aquabyssos undergo testing to ensure they won't be turned against their wielders by the Deep Mother's influence. The [[vault_backup_20250813_073007/02_Worldbuilding/People/The Depth Wardens]] maintain strict standards for this process, as corrupted weapons have been responsible for numerous tragedies.
 
 ## Magical Enhancement
 

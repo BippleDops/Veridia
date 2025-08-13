@@ -3,8 +3,10 @@ type: Lore
 status: draft
 created: '2024-01-01'
 updated: '2024-01-01T00:00:00+00:00'
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.477477
 ---
-
 # Vehicle & Ship Blueprint Prompts
 
 ```json

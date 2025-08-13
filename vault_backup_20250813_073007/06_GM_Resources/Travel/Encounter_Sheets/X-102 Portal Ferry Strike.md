@@ -39,7 +39,7 @@ world: Both
 - Fail: Forced detour through dangerous route
 
 ## Integrations
-- [[Economic Warfare Simulator]]; Faction standing
+- [[03_Mechanics/Economic Warfare Simulator]]; Faction standing
 
 ## Quick-Run
 - Talk→Plan→Leverage; resolve pass/toll/detour

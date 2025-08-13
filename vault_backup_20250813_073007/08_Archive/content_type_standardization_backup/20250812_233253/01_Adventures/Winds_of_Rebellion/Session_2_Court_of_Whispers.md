@@ -3,6 +3,7 @@ tags:
 - active
 - adventure-session
 - aethermoor
+- complete
 - levels-4-6
 - political-intrigue
 - social-investigation
@@ -20,9 +21,10 @@ themes:
 - hidden-agendas
 - social-maneuvering
 created: '2025-08-11'
-updated: '2025-08-13T01:18:37.152387+00:00'
+updated: '2025-08-13T12:34:28.427818+00:00'
 status: complete
 ---
+
 
 
 # Session 2: Court of Whispers

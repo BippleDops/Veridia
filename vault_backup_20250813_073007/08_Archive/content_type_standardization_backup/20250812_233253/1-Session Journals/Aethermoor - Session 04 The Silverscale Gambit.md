@@ -2,6 +2,7 @@
 tags:
 - active
 - aethermoor
+- complete
 - crystal-plague
 - lore
 - session
@@ -21,9 +22,11 @@ locations_visited:
 - '[[Abandoned Consortium Warehouse]]'
 npcs_met:
 - '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
-- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina
+  Red Tide Coralheart]]'
 - '[[Director Hadrian Silverscale]]'
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]]'
 encounters:
 - '[[Crimson Hand Strike Team]]'
 - '[[Vex Shadowthorn Boss Fight]]'
@@ -56,10 +59,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-13T01:18:37.183599+00:00'
+updated: '2025-08-13T12:34:28.483398+00:00'
 created: '2025-08-11'
 status: complete
 ---
+
 
 
 

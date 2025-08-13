@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - content/lore
+- lore
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.452281'
+updated: '2025-08-13T12:34:28.768338+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -41,9 +45,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Vote Vaults|02 Worldbuilding/Places/Vote Vaults]]
+- [[02_Worldbuilding/Places/Vote Vaults]]
 
 
 ## Connections
 
-- [[Vote Vaults]]
+- [[02_Worldbuilding/Places/Vote Vaults]]

@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/lore
+- lore
 - status/in-progress
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.253206'
+updated: '2025-08-13T12:34:29.013293+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -41,11 +45,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Blackmail Papers|02 Worldbuilding/Places/Quest The Blackmail Papers]]
+- [[02_Worldbuilding/Places/Quest - The Blackmail Papers]]
 
 
 ## Connections
 
-- [[Purist Coalition Thugs]]
-- [[Shadow Conspiracy Investigation]]
-- [[Quest - The Blackmail Papers]]
+- [[02_Worldbuilding/Groups/Purist Coalition Thugs]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]]
+- [[02_Worldbuilding/People/Quest - The Blackmail Papers]]

@@ -20,10 +20,10 @@ tags:
 
 ## Connections
 
-- [[Silver Mask]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
 - [[The Final Choice]]
-- [[The Restoration Movement]]
-- [[The Silverscale Conspiracy]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 

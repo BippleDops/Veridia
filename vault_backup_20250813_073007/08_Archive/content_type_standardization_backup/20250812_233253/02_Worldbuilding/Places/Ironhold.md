@@ -3,6 +3,7 @@ tags:
 - aethermoor
 - city
 - completed
+- draft
 - dwarven
 - fortress
 - industrial
@@ -15,7 +16,8 @@ world: Aethermoor
 type: Location
 population: 280000
 government: Council of Forgemasters
-leader: '[[02_Worldbuilding/People/Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master Smith Vulcan Deepforge]]'
+leader: '[[02_Worldbuilding/People/Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master
+  Smith Vulcan Deepforge]]'
 specialties:
 - Metalworking
 - Engineering
@@ -24,13 +26,16 @@ specialties:
 founded: First Age
 climate: Alpine, Cold Winters
 created: '2025-08-09'
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:27.475769+00:00'
 related_entities:
-- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels|02 Worldbuilding/Lore/Ancient Siege Tunnels]]'
+- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels|02 Worldbuilding/Lore/Ancient Siege
+  Tunnels]]'
 - '[[02_Worldbuilding/Lore/Continental War|02 Worldbuilding/Lore/Continental War]]'
-- '[[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The Sundered Peaks]]'
+- '[[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The Sundered
+  Peaks]]'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-ironhold-ironhold.svg)

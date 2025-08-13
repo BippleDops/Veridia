@@ -3,17 +3,21 @@ audience: player
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - handout
+- lore
 - status/complete
 - vehicles
 - world/aquabyssos
 title: Player Handout — Aquabyssos Submarines
 type: Lore
-updated: '2025-08-12T23:37:41.212043'
+updated: '2025-08-13T12:34:32.368176+00:00'
 world: Aquabyssos
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.467169
 ---
-
-
 # Aquabyssos Submarines — Visual & Vibe Guide
 
 - Coral Leviathan: Living reef hull, bioluminescent veins, cathedral spine.
@@ -25,8 +29,8 @@ world: Aquabyssos
 - Lantern Warden: Lantern fields along flanks; soft teal glow.
 - Maelstrom Rider: Vortex thrusters, spiral fins, trailing turbulence.
 
-Choosing a ship affects your story: see [[Vehicle_Core_Rules|Vehicle Core Rules]] for piloting, sanity, and upgrade paths.
+Choosing a ship affects your story: see [[vault_backup_20250813_073007/03_Mechanics/Vehicles - Vehicle Core Rules]] for piloting, sanity, and upgrade paths.
 
 ## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01|06 GM Resources/Session Packets/Aquabyssos Session 01]]
+- [[vault_backup_20250813_073007/06_GM_Resources/Session_Packets/Aquabyssos Session 01]]

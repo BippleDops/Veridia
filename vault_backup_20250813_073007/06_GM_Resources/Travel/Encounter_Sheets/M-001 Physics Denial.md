@@ -37,7 +37,7 @@ world: Both
 - Fail: 2d6 segment damage; 1 long-term madness
 
 ## Integrations
-- [[Complete Reality Merger System]]; [[Sanity System]]
+- [[03_Mechanics/Complete Reality Merger System]]; [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]
 
 ## Scaling
 - In paradox core: DCs +2; add Complication roll

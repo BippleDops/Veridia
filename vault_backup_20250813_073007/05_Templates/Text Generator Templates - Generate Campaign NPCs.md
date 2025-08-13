@@ -42,7 +42,7 @@ Create a detailed D&D NPC for the trade city of Shadowhaven. Include:
 
 **Plot Integration:**
 - Connection to Shadowhaven's guild system
-- Relationship to at least 2 existing NPCs: [[Councillor Elara Brightwater]], [[Whisper Jack]], [[Master Thorne Blackforge]], [[Lady Seraphina Goldleaf]]
+- Relationship to at least 2 existing NPCs: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Councillor Elara Brightwater]], [[02_Worldbuilding/Lore/Whisper Jack]], [[02_Worldbuilding/Lore/Master Thorne Blackforge]], [[02_Worldbuilding/People/Lady Seraphina Goldleaf]]
 - A quest hook they could provide
 - Something valuable they know or possess
 
@@ -286,4 +286,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Councillor Elara Brightwater|02 Worldbuilding/Lore/Councillor Elara Brightwater]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Councillor Elara Brightwater]]

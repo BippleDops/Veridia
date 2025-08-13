@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.404868+00:00'
+updated: '2025-08-13T12:34:27.585636+00:00'
 world: Both
 type: Location
 status: complete
 tags:
 - active
 - both
+- complete
 - location
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-wise-tide-truthseeker-v1-wise-tide-truthseeker.svg)

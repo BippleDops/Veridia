@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.689080+00:00'
+updated: '2025-08-13T12:34:27.954000+00:00'
 world: Both
 type: Group
 status: complete
 tags:
 - active
 - both
+- complete
 - group
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-high-oracle-serenity-deepcall-high-oracle-serenity-deepcall.svg)

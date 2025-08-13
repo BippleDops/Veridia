@@ -15,36 +15,34 @@ title: Master Campaign Index
 type: Lore
 updated: '2025-08-13T12:34:03.151422+00:00'
 world: Both
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.321845
 ---
-
-
-
-
-
 # Master Campaign Index
 *Complete Navigation System for Aquabyssos & Aethermoor*
 
-See also: [[03_Mechanics/Phase_Omega_Enhanced_Index|Phase Omega Enhanced Index]]
+See also: [[vault_backup_20250813_073007/03_Mechanics/Phase Omega Enhanced Index]]
 
 ## 🎮 Control Centers
 
 ### Existing Dashboards & Trackers
-- [[DM Board]] - Quick creation buttons and party overview
-- [[Quest Campaign Tracker]] - Comprehensive quest management
-- [[Faction_Tracker|Faction Tracker]] - Faction relationship tracking
-- [[Session Log]] - Session history and notes
+- [[vault_backup_20250813_073007/1-DM Toolkit/DM Board]] - Quick creation buttons and party overview
+- [[02_Worldbuilding/Lore/Quest Campaign Tracker]] - Comprehensive quest management
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Faction Tracker]] - Faction relationship tracking
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Log]] - Session history and notes
 - [[02_Worldbuilding/Lore/NPC Directory.base|02 Worldbuilding/Lore/NPC Directory.base]] - Complete NPC management
-- [[Combat Tracker]] - Battle management
-- [[Location Tracker]] - Place tracking system
-- [[Item_Catalog|Item Catalog]] - Equipment and treasure
-- [[Spell Compendium]] - Magic reference
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Combat Tracker]] - Battle management
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location_Tracker]] - Place tracking system
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Item Catalog]] - Equipment and treasure
+- [[02_Worldbuilding/Lore/Spell Compendium]] - Magic reference
 
 ### New Integrated Systems
 - [[Campaign_Dashboard|Campaign Dashboard]] - High-level campaign overview
-- [[Complete Pressure Adaptation System]] - Full transformation mechanics
-- [[Complete Faction Warfare System]] - Political warfare rules
-- [[Complete Reality Merger System]] - Dimensional mechanics
-- [[03_Mechanics/Vehicles/Vehicles_Index|Vehicle Systems Index]] - Aquatic, aerial, and merger vessels
+- [[03_Mechanics/Complete Pressure Adaptation System]] - Full transformation mechanics
+- [[03_Mechanics/Complete Faction Warfare System]] - Political warfare rules
+- [[03_Mechanics/Complete Reality Merger System]] - Dimensional mechanics
+- [[vault_backup_20250813_073007/03_Mechanics/Vehicles - Vehicles Index]] - Aquatic, aerial, and merger vessels
 
 ## 📚 Content by Category
 
@@ -82,24 +80,24 @@ SORT file.name ASC
 
 #### Core Systems
 **Environmental**:
-- [[Aquabyssos Survival Mechanics]] - Underwater survival
-- [[Depth Adaptation System]] - Transformation mechanics
-- [[Crystal Plague Mechanics]] - Corruption system
+- [[03_Mechanics/Aquabyssos Survival Mechanics]] - Underwater survival
+- [[03_Mechanics/Depth Adaptation System]] - Transformation mechanics
+- [[03_Mechanics/Crystal Plague Mechanics]] - Corruption system
 
 **Social/Political**:
-- [[Faction Standing System]] - Reputation tracking
-- [[NPC Reactions]] - Social mechanics
-- [[Political Maneuvering]] - Intrigue rules
+- [[03_Mechanics/Faction Standing System]] - Reputation tracking
+- [[03_Mechanics/NPC Reactions]] - Social mechanics
+- [[02_Worldbuilding/Lore/Political Maneuvering]] - Intrigue rules
 
 **Combat/Action**:
-- [[Underwater Combat Rules]] - 3D combat
-- [[Pressure Combat Modifiers]] - Environmental effects
+- [[03_Mechanics/Underwater Combat Rules]] - 3D combat
+- [[03_Mechanics/Pressure Combat Modifiers]] - Environmental effects
 - [[Mass Combat Resolution]] - Large battles
 
 **Reality/Horror**:
-- [[Reality Merger Mechanics]] - Dimensional rules
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Madness tracking
-- [[Memory Absorption Rules]] - Memory mechanics
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merger Mechanics]] - Dimensional rules
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Madness tracking
+- [[03_Mechanics/Memory Absorption Rules]] - Memory mechanics
 
 ### 📁 Resources (04_Resources/)
 
@@ -110,29 +108,29 @@ SORT file.name ASC
 - **Items**: [[04_Resources/Assets/items|04 Resources/Assets/items]] - Equipment visuals
 
 #### Tables & Generators
-- [[Random Encounter Tables]] - Comprehensive encounters
-- [[Random Encounter Tables - Aquabyssos]] - Underwater specific
-- [[Aquabyssos Rumors]] - Information generation
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random Encounter Tables]] - Comprehensive encounters
+- [[02_Worldbuilding/Lore/Random Encounter Tables - Aquabyssos]] - Underwater specific
+- [[02_Worldbuilding/Lore/Aquabyssos Rumors]] - Information generation
 
 #### Templates
 - [[05_Templates|05 Templates]] - All template files
-- [[Meta Bind Examples]] - Button and form templates
-- [[Dataview Query Guide]] - Query references
+- [[02_Worldbuilding/Lore/Meta Bind Examples]] - Button and form templates
+- [[02_Worldbuilding/Lore/Dataview Query Guide]] - Query references
 
 ### 👥 Player Resources (07_Player_Resources/)
-- [[Player_Portal|Player Portal]] - Central player hub
-- [[Quick_Start_Guide|Quick Start Guide]] - New player introduction
-- [[Character_Creation_Extended|Character Creation Extended]] - Full character building
-- [[Rules_Reference|Rules Reference]] - Complete rules compilation
-- [[World_Primer|World Primer]] - Setting information
-- [[Faction_Guide|Faction Guide]] - Organization details
+- [[vault_backup_20250813_073007/07_Player_Resources/Player Portal]] - Central player hub
+- [[vault_backup_20250813_073007/07_Player_Resources/Quick Start Guide]] - New player introduction
+- [[vault_backup_20250813_073007/07_Player_Resources/Character Creation Extended]] - Full character building
+- [[vault_backup_20250813_073007/07_Player_Resources/Rules Reference]] - Complete rules compilation
+- [[vault_backup_20250813_073007/07_Player_Resources/World Primer]] - Setting information
+- [[vault_backup_20250813_073007/07_Player_Resources/Faction Guide]] - Organization details
 
 ### 🎲 GM Resources (06_GM_Resources/)
-- [[Campaign_Management_Guide|Campaign Management Guide]] - Campaign orchestration
-- [[Encounter_Builder|Encounter Builder]] - Combat creation
-- [[Session_Planning_Toolkit|Session Planning Toolkit]] - Session preparation
-- [[NPC Quick Reference Guide]] - NPC management
-- [[Scene Framing Templates]] - Narrative tools
+- [[vault_backup_20250813_073007/06_GM_Resources/Campaign Management Guide]] - Campaign orchestration
+- [[vault_backup_20250813_073007/06_GM_Resources/Encounter Builder]] - Combat creation
+- [[vault_backup_20250813_073007/06_GM_Resources/Session Planning Toolkit]] - Session preparation
+- [[vault_backup_20250813_073007/06_GM_Resources/NPC Quick Reference Guide]] - NPC management
+- [[vault_backup_20250813_073007/06_GM_Resources/Scene Framing Templates]] - Narrative tools
 
 ### 📖 Session Records (1-Session Journals/)
 
@@ -214,7 +212,7 @@ LIMIT 10
 
 ### Cross-System References
 Every major system connects to:
-- [[02_Worldbuilding/Lore/Faction_Tracker|02 Worldbuilding/Lore/Faction Tracker]] - Live faction tracking
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Faction Tracker]] - Live faction tracking
 - [[Quest Campaign Tracker.base]] - Quest management
 - [[NPC Directory.base]] - Character relationships
 - [[Session Log.base]] - Historical record
@@ -234,8 +232,8 @@ Reality Stability → Merger Events
 
 ### Vault Health Checks
 - [[VAULT_COMPLETION_STATUS|VAULT COMPLETION STATUS]] - Current completion metrics
-- [[UNIFIED_VAULT_COMPLETION_GUIDE|UNIFIED VAULT COMPLETION GUIDE]] - Standards guide
-- [[README_FUTURE_WORK|README FUTURE WORK]] - Technical maintenance
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Unified Vault Completion Guide]] - Standards guide
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Readme Future Work]] - Technical maintenance
 
 ### Update Procedures
 1. Run completion status check
@@ -259,25 +257,25 @@ FROM "02_Worldbuilding"
 ## 🎮 Quick Actions
 
 ### Session Prep
-1. Check [[Session Log]] for last session
-2. Update [[Faction_Tracker|Faction Tracker]] standings
-3. Review [[Quest Campaign Tracker]] status
+1. Check [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Log]] for last session
+2. Update [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Faction Tracker]] standings
+3. Review [[02_Worldbuilding/Lore/Quest Campaign Tracker]] status
 4. Check [[02_Worldbuilding/Lore/NPC Directory.base|02 Worldbuilding/Lore/NPC Directory.base]] for active NPCs
-5. Generate encounters with [[Encounter_Builder|Encounter Builder]]
-6. Prepare scenes with [[Scene Framing Templates]]
+5. Generate encounters with [[vault_backup_20250813_073007/06_GM_Resources/Encounter Builder]]
+6. Prepare scenes with [[vault_backup_20250813_073007/06_GM_Resources/Scene Framing Templates]]
 
 ### World Building
-1. Use [[DM Board]] creation buttons
+1. Use [[vault_backup_20250813_073007/1-DM Toolkit/DM Board]] creation buttons
 2. Follow [[05_Templates|05 Templates]] for consistency
 3. Update relevant trackers
 4. Cross-reference with existing content
 5. Maintain completion status
 
 ### Player Management
-1. Direct players to [[Player_Portal|Player Portal]]
-2. Use [[Quick_Start_Guide|Quick Start Guide]] for new players
-3. Reference [[Rules_Reference|Rules Reference]] for disputes
-4. Track progress in [[Session Log]]
+1. Direct players to [[vault_backup_20250813_073007/07_Player_Resources/Player Portal]]
+2. Use [[vault_backup_20250813_073007/07_Player_Resources/Quick Start Guide]] for new players
+3. Reference [[vault_backup_20250813_073007/07_Player_Resources/Rules Reference]] for disputes
+4. Track progress in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Log]]
 
 ---
 
@@ -286,3 +284,30 @@ FROM "02_Worldbuilding"
 ## Cross-References
 
 - [[Vault_Navigation_Hub|Vault Navigation Hub]]
+
+## Faction Relationships
+
+### Network Position
+**Direct Connections**: 6 faction relationships
+**Network Influence**: 12 degrees of separation reach
+**Relationship Complexity**: High
+
+### Key Relationships
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Faction Tracker]]: Relationship status pending classification
+- [[03_Mechanics/Complete Faction Warfare System]]: Relationship status pending classification
+- [[03_Mechanics/Faction Standing System]]: Relationship status pending classification
+- [[vault_backup_20250813_073007/07_Player_Resources/Faction Guide]]: Relationship status pending classification
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Faction Tracker]]: Relationship status pending classification
+
+### Relationship Dynamics
+- **Alliance Potential**: Opportunities for cooperation and mutual benefit
+- **Conflict Risk**: Areas of potential disagreement or competition  
+- **Neutral Interactions**: Routine diplomatic and trade relationships
+- **Unknown Factors**: Relationships requiring further investigation
+
+### Network Strategy
+**Expansion Opportunities**: Potential new alliances and partnerships
+**Risk Management**: Monitoring threats and hostile relationships
+**Influence Maximization**: Leveraging relationships for faction goals
+**Diplomatic Priorities**: Key relationships requiring attention
+

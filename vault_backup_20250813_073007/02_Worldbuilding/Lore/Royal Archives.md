@@ -2,26 +2,30 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.957271'
+updated: '2025-08-13T12:34:28.721571+00:00'
 world: Both
 ---
 
 
 
 
+
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
 
 
 ## Connections
 
-- [[Quest - The Pretender]]
-- [[The Crown's Burden]]
+- [[02_Worldbuilding/People/Quest - The Pretender]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
 
 ## Player-Facing Summary
 

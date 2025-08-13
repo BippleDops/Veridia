@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/lore
+- lore
 - status/in-progress
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:39.615188'
+updated: '2025-08-13T12:34:29.224769+00:00'
 world: Aethermoor
 ---
+
 
 
 
@@ -41,9 +45,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Pretender|02 Worldbuilding/Places/Quest The Pretender]]
+- [[02_Worldbuilding/Places/Quest - The Pretender]]
 
 
 ## Connections
 
-- [[Quest - The Pretender]]
+- [[02_Worldbuilding/People/Quest - The Pretender]]

@@ -2,25 +2,29 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.592344'
+updated: '2025-08-13T12:34:28.872984+00:00'
 world: Both
 ---
 
 
 
 
+
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Transformed Citizens|02 Worldbuilding/Lore/The Transformed Citizens]]
+- [[02_Worldbuilding/Lore/The Transformed Citizens]]
 
 
 ## Connections
 
-- [[The Transformed Citizens]]
+- [[02_Worldbuilding/Lore/The Transformed Citizens]]
 
 ## Player-Facing Summary
 

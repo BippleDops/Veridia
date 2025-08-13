@@ -2,6 +2,7 @@
 tags:
 - active
 - both
+- complete
 - criminal
 - investigation
 - lore
@@ -9,28 +10,35 @@ tags:
 - mid-level
 - quest
 type: Lore
-quest_giver: '[[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan Ironledger III]]'
+quest_giver: '[[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan
+  Ironledger III]]'
 level_range: 6-9
 reward_tier: Significant
 locations:
 - '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
-- '[[02_Worldbuilding/Places/The Sunken Markets|02 Worldbuilding/Places/The Sunken Markets]]'
+- '[[02_Worldbuilding/Places/The Sunken Markets|02 Worldbuilding/Places/The Sunken
+  Markets]]'
 - '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'
 npcs_involved:
-- '[[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan Ironledger III]]'
+- '[[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan
+  Ironledger III]]'
 - '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
-- '[[02_Worldbuilding/People/Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus Shardbreaker Grimm]]'
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]]'
+- '[[02_Worldbuilding/People/Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus
+  Shardbreaker Grimm]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master
+  Artificer Korvin Gearwright]]'
 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:34.468309+00:00'
+updated: '2025-08-13T12:34:25.320425+00:00'
 created: '2025-08-11'
 status: complete
 ---
+
 
 
 

@@ -31,13 +31,13 @@ updated: '2025-08-11T00:00:00+00:00'
 
 ## Overview
 
-The Crimson Hand is a secretive organization that operates across both [[Aethermoor]] and [[Aquabyssos]], making them unique among the factions vying for power as [[The Convergence Point]] approaches. Unlike other groups that favor one world over another, the Crimson Hand seeks to control the convergence process itself, positioning themselves to rule whatever reality emerges from the merger. They are masters of shadow corruption, memory manipulation, and dimensional infiltration, with cells and agents embedded throughout both civilizations.
+The Crimson Hand is a secretive organization that operates across both [[02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], making them unique among the factions vying for power as [[The Convergence Point]] approaches. Unlike other groups that favor one world over another, the Crimson Hand seeks to control the convergence process itself, positioning themselves to rule whatever reality emerges from the merger. They are masters of shadow corruption, memory manipulation, and dimensional infiltration, with cells and agents embedded throughout both civilizations.
 
 ## Origins and History
 
 ### The Founding Vision
 **Pre-Convergence Formation (approximately 50 years ago):**
-The Crimson Hand was founded by a cabal of individuals who experienced prophetic visions of the coming convergence between worlds. These founders, drawn from both [[Aethermoor]] and [[Aquabyssos]], recognized that the approaching reality merger would create unprecedented opportunities for those prepared to seize them. Rather than fight against convergence or try to prevent it, they chose to position themselves as its architects and beneficiaries.
+The Crimson Hand was founded by a cabal of individuals who experienced prophetic visions of the coming convergence between worlds. These founders, drawn from both [[02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], recognized that the approaching reality merger would create unprecedented opportunities for those prepared to seize them. Rather than fight against convergence or try to prevent it, they chose to position themselves as its architects and beneficiaries.
 
 **Founding Principles:**
 - Convergence is inevitable and should be embraced rather than resisted
@@ -50,7 +50,7 @@ The Crimson Hand was founded by a cabal of individuals who experienced prophetic
 **The Shadow Awakening (Years 1-10):**
 - Discovery that shadow corruption could be controlled and weaponized
 - Recruitment of individuals with natural resistance or affinity to shadows
-- Establishment of communication networks between [[Aethermoor]] and [[Aquabyssos]], utilizing [[Crystal Forest]] resonance and [[Umbral Exchange]] shadow channels
+- Establishment of communication networks between [[02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], utilizing [[02_Worldbuilding/Lore/Crystal Forest]] resonance and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Umbral Exchange]] shadow channels
 - Development of memory manipulation techniques for recruitment and infiltration
 - Creation of safe houses and hidden sanctuaries in both worlds
 
@@ -78,21 +78,21 @@ With convergence approaching rapidly, the Crimson Hand has moved from covert pre
 **The Crimson Triumvirate:**
 Three supreme leaders, each representing different aspects of the organization:
 
-**[[The Shadow Architect]]** (Aethermoor):
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Architect]]** (Aethermoor):
 - Master of reality manipulation and dimensional engineering
 - Believes convergence can be controlled through precise reality surgery
 - Oversees technical aspects of convergence preparation
 - Commands shadow-enhanced crystal technology networks
 - Identity unknown even to most Crimson Hand members
 
-**[[The Memory Weaver]]** (Aquabyssos):
+**[[02_Worldbuilding/Lore/The Memory Weaver]]** (Aquabyssos):
 - Expert in consciousness manipulation and collective psychology
 - Believes control over memory means control over reality itself
 - Oversees infiltration, recruitment, and information warfare
 - Commands networks of memory traders and consciousness manipulators
 - May be multiple individuals sharing collective identity
 
-**[[The Convergence Oracle]]** (Dimensional Entity):
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Oracle]]** (Dimensional Entity):
 - Prophetic entity existing partially in both worlds
 - Provides visions and guidance for long-term planning
 - Oversees spiritual and mystical aspects of organization
@@ -102,21 +102,21 @@ Three supreme leaders, each representing different aspects of the organization:
 ### Regional Commands
 
 **Aethermoor Division - "The Crystal Shadows":**
-- **Commander**: High Shadow [[Vex Shadowthorn]] (publicly known as crystal merchant)
+- **Commander**: High Shadow [[02_Worldbuilding/People/Vex Shadowthorn]] (publicly known as crystal merchant)
 - **Specialization**: Crystal technology corruption, political infiltration
 - **Membership**: ~2,000 active agents, 8,000 sympathizers
-- **Operations**: Manipulation of [[The Seven Shards]] seekers, corruption of [[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]]
+- **Operations**: Manipulation of [[The Seven Shards]] seekers, corruption of [[02_Worldbuilding/Groups/The Crystal Throne]]
 - **Resources**: Corrupted crystal networks, shadow-enhanced magic items
 
 **Aquabyssos Division - "The Depth Whispers":**
-- **Commander**: Deep Voice [[Nyx Thalassic]] (publicly known as memory merchant)
+- **Commander**: Deep Voice [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Nyx Thalassic]] (publicly known as memory merchant)
 - **Specialization**: Memory warfare, pressure-based infiltration
 - **Membership**: ~1,500 active agents, 6,000 sympathizers
-- **Operations**: Manipulation of [[Memory Alteration Consequences|memory alteration]] technology, infiltration of [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
+- **Operations**: Manipulation of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alteration Consequences]] technology, infiltration of [[02_Worldbuilding/Places/Parliament of Echoes]]
 - **Resources**: Shadow-enhanced memory crystals, corrupted depth facilities
 
 **Convergence Division - "The Reality Shapers":**
-- **Commander**: Flux Lord [[Zephyr Voidtouch]] (exists in multiple realities simultaneously)
+- **Commander**: Flux Lord [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Zephyr Voidtouch]] (exists in multiple realities simultaneously)
 - **Specialization**: Dimensional manipulation, convergence acceleration
 - **Membership**: ~500 active agents with dimensional capabilities
 - **Operations**: Direct manipulation of convergence zones, reality stability undermining
@@ -164,21 +164,21 @@ The Crimson Hand sees themselves as the only group with the vision, knowledge, a
 - Focus on practical control of convergence process
 - Willing to work with existing power structures when beneficial
 - Prefer subtle manipulation to direct confrontation
-- Led by [[The Memory Weaver]] and regional commanders
+- Led by [[02_Worldbuilding/Lore/The Memory Weaver]] and regional commanders
 - Approximately 60% of organization membership
 
 **The Transcendence Faction:**
 - Seek fundamental transformation of reality and consciousness
 - Believe convergence is opportunity for evolutionary leap
 - More willing to use dramatic and destructive methods
-- Led by [[The Convergence Oracle]] and mystical elements
+- Led by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Oracle]] and mystical elements
 - Approximately 25% of organization membership
 
 **The Domination Faction:**
 - Focus on establishing absolute control over post-convergence reality
 - View current conflicts as preparation for ultimate conquest
 - Prefer direct action and overwhelming force
-- Led by [[The Shadow Architect]] and military elements
+- Led by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Architect]] and military elements
 - Approximately 15% of organization membership
 
 ## Methods and Tactics
@@ -241,8 +241,8 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 - **Resource Extraction**: ~25% through direct control of strategic assets
 
 **Major Economic Holdings:**
-- Crystal mining operations in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
-- Memory trading networks in [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
+- Crystal mining operations in [[02_Worldbuilding/Places/Aethermoor]]
+- Memory trading networks in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
 - Cross-dimensional shipping and communication services
 - Shadow-enhanced technology development and manufacturing
 - Financial services and currency exchange operations
@@ -276,7 +276,7 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 - Complete infiltration of at least 40% of major governmental communications
 - Access to ~60% of major commercial and financial information systems
 - Network of informants in virtually every significant organization
-- Prophetic intelligence through [[The Convergence Oracle]]'s visions
+- Prophetic intelligence through [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Oracle]]'s visions
 - Cross-dimensional intelligence gathering capabilities
 
 ## Current Operations and Plans
@@ -291,7 +291,7 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 - Resources: 40% of Aethermoor division committed to this operation
 
 **The Memory Sovereignty Initiative:**
-- Objective: Achieve dominant control over [[Memory Alteration Consequences|memory alteration]] technology
+- Objective: Achieve dominant control over [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alteration Consequences]] technology
 - Methods: Infiltration of research facilities, corruption of key scientists
 - Status: Significant influence over 65% of memory technology development
 - Timeline: Market dominance expected within 12 months
@@ -331,25 +331,25 @@ Unlike other factions that fear or resist shadow corruption, the Crimson Hand ha
 
 ### Primary Adversaries
 
-**[[02_Worldbuilding/Groups/The Purist Coalition|02 Worldbuilding/Groups/The Purist Coalition]]:**
+**[[02_Worldbuilding/Lore/The Purist Coalition]]:**
 - **Conflict Nature**: Ideological opposition to shadow corruption integration
 - **Threat Level**: High - significant military and political resources
 - **Crimson Hand Response**: Infiltration, memory manipulation, targeted assassination
 - **Status**: ~30% of Coalition leadership compromised or eliminated
 
-**[[The Reality Guards]]:**
+**[[02_Worldbuilding/Lore/The Reality Guards]]:**
 - **Conflict Nature**: Direct opposition to convergence acceleration
 - **Threat Level**: Medium - specialized anti-dimensional capabilities
 - **Crimson Hand Response**: Reality distortion attacks, corruption of equipment
 - **Status**: Significant operational disruption achieved
 
-**[[02_Worldbuilding/Groups/The Unity Seekers|02 Worldbuilding/Groups/The Unity Seekers]]:**
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Unity Seekers]]:**
 - **Conflict Nature**: Competing vision for convergence management
 - **Threat Level**: Medium - popular support but limited resources
 - **Crimson Hand Response**: Ideological subversion, leadership corruption
 - **Status**: Some success in redirecting Unity Seeker activities
 
-**[[The Memory Purist Movement]]:**
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Purist Movement]]:**
 - **Conflict Nature**: Opposition to consciousness manipulation
 - **Threat Level**: Low-Medium - grassroots opposition with moral authority
 - **Crimson Hand Response**: Counter-propaganda, selective elimination
@@ -417,7 +417,7 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 
 ### The Ultimate Truth
 > [!warning] DM Only
-> The Crimson Hand was originally founded by a fragment of [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] (Aetheron) that separated during [[The Great Crystallization]]. This fragment, containing Aetheron's darker impulses and desire for control, has been working to reunite the worlds under authoritarian rule. The organization doesn't know their true origin - they believe they're serving convergence when they're actually serving a corrupted divine fragment's desire for absolute power.
+> The Crimson Hand was originally founded by a fragment of [[02_Worldbuilding/People/The Crimson Sage]] (Aetheron) that separated during [[The Great Crystallization]]. This fragment, containing Aetheron's darker impulses and desire for control, has been working to reunite the worlds under authoritarian rule. The organization doesn't know their true origin - they believe they're serving convergence when they're actually serving a corrupted divine fragment's desire for absolute power.
 
 ### The Shadow Corruption Source
 > [!warning] DM Secret
@@ -425,11 +425,11 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 
 ### The Convergence Oracle's Nature
 > [!warning] Hidden Knowledge
-> [[The Convergence Oracle]] is actually a collective consciousness formed from individuals who died during convergence experiments. Their prophetic abilities come from existing partially outside time in the spaces between dimensions. They genuinely want to help guide convergence successfully but have been gradually corrupted by the same divine fragment that founded the organization.
+> [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Oracle]] is actually a collective consciousness formed from individuals who died during convergence experiments. Their prophetic abilities come from existing partially outside time in the spaces between dimensions. They genuinely want to help guide convergence successfully but have been gradually corrupted by the same divine fragment that founded the organization.
 
 ### The Memory Weaver's Identity
 > [!warning] Secret Truth
-> [[The Memory Weaver]] is not multiple individuals sharing identity, but rather [[Memory Merchant Valeria]] who has been using memory technology to create multiple personality aspects and distribute her consciousness. She maintains control over the Aquabyssos division by literally being multiple trusted leaders simultaneously, though the process is slowly fragmenting her original personality.
+> [[02_Worldbuilding/Lore/The Memory Weaver]] is not multiple individuals sharing identity, but rather [[02_Worldbuilding/Lore/Memory Merchant Valeria]] who has been using memory technology to create multiple personality aspects and distribute her consciousness. She maintains control over the Aquabyssos division by literally being multiple trusted leaders simultaneously, though the process is slowly fragmenting her original personality.
 
 ## Adventure Hooks and Campaign Integration
 
@@ -457,32 +457,32 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 ## Connected Elements
 
 ### Key NPCs
-- [[Vex Shadowthorn]] - Aethermoor regional commander
-- [[The Shadow Architect]] - Inner Circle member and master reality manipulator
-- [[The Memory Weaver]] - Inner Circle member controlling Aquabyssos operations
-- [[The Convergence Oracle]] - Prophetic entity guiding organization strategy
-- [[Nyx Thalassic]] - Aquabyssos division commander
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Aethermoor regional commander
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Architect]] - Inner Circle member and master reality manipulator
+- [[02_Worldbuilding/Lore/The Memory Weaver]] - Inner Circle member controlling Aquabyssos operations
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Oracle]] - Prophetic entity guiding organization strategy
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Nyx Thalassic]] - Aquabyssos division commander
 
 ### Important Locations
-- [[The Shadow Nexus]] - Hidden cross-dimensional command center
-- [[Corruption Gardens]] - Research and weaponization facilities
-- [[02_Worldbuilding/Lore/The Memory Vaults|02 Worldbuilding/Lore/The Memory Vaults]] - Consciousness storage and manipulation centers
-- [[Reality Laboratories]] - Convergence research installations
-- [[The Crimson Sanctuaries]] - Safe houses and recruitment centers
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Nexus]] - Hidden cross-dimensional command center
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corruption Gardens]] - Research and weaponization facilities
+- [[02_Worldbuilding/Lore/The Memory Vaults]] - Consciousness storage and manipulation centers
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Laboratories]] - Convergence research installations
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Sanctuaries]] - Safe houses and recruitment centers
 
 ### Related Events
-- [[The Great Infiltration]] - Organization's expansion into both worlds
-- [[The Shadow Awakening]] - Discovery of corruption control techniques
-- [[The Reality Destabilization Campaign]] - Current convergence acceleration efforts
-- [[The Shard Manipulation Project]] - Attempts to control divine artifacts
-- [[The Final Convergence]] - Organization's ultimate goal achievement
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Infiltration]] - Organization's expansion into both worlds
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Awakening]] - Discovery of corruption control techniques
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Reality Destabilization Campaign]] - Current convergence acceleration efforts
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shard Manipulation Project]] - Attempts to control divine artifacts
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Convergence]] - Organization's ultimate goal achievement
 
 ### Strategic Assets
-- [[Shadow Blade Networks]] - Dimensional weaponry systems
-- [[Memory Disruptor Arrays]] - Consciousness warfare technology
-- [[Reality Anchor Bombs]] - Dimensional manipulation devices
-- [[The Corruption Codex]] - Master guide to shadow manipulation
-- [[The Convergence Prophecies]] - Oracle's visions and predictions
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Blade Networks]] - Dimensional weaponry systems
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Disruptor Arrays]] - Consciousness warfare technology
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Anchor Bombs]] - Dimensional manipulation devices
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Corruption Codex]] - Master guide to shadow manipulation
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Prophecies]] - Oracle's visions and predictions
 
 ---
 
@@ -495,21 +495,21 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 - [[Crystal Festival]]
 - [[Crystal Garden]]
 - [[Customs House]]
-- [[Desperate Plague Victim]]
+- [[02_Worldbuilding/Lore/Desperate Plague Victim]]
 - [[Healing Two Worlds]]
-- [[Merged Reality Zones]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
 - [[Possessed Noble Coterie]]
-- [[Silver Mask]]
-- [[Temple of the First Tide]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[02_Worldbuilding/Lore/Temple of the First Tide]]
 - [[The Convergence Point]]
 - [[The Deep Mother]]
-- [[The Forgetting Bomb]]
-- [[The Memory Weapon Arms Race]]
+- [[02_Worldbuilding/Lore/The Forgetting Bomb]]
+- [[02_Worldbuilding/Lore/The Memory Weapon Arms Race]]
 - [[The Real Marina]]
-- [[The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
 - [[The Seven Shards]]
-- [[The Silverscale Conspiracy]]
-- [[Throne Room]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[02_Worldbuilding/Lore/Throne Room]]
 
 ## Player-Facing Summary
 
@@ -534,9 +534,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Vault_Navigation_Hub|Vault Navigation Hub]]
-- [[Vex Shadowthorn]]
-- [[Crystal Forest]]
-- [[Memory Alteration Consequences]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/Lore/Crystal Forest]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alteration Consequences]]
 - [[The Great Crystallization]]
-- [[Umbral Exchange]]
-- [[Aethermoor]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Umbral Exchange]]
+- [[02_Worldbuilding/Places/Aethermoor]]

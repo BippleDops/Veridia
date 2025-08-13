@@ -1,29 +1,15 @@
 ---
-tags:
-- active - category/people
-- active
----category/people
-- aquabyssos
-- both
-- merchant
-- nobility
-- npc
-- spy-master
-type: NPC
-location: '[[Gold-Grave Harbor]]'
-faction: '[[The Current Merchants]]'
-race: Depth Adapted (Former Elf)
-class: Rogue/Bard/Wizard
-level: 15
-alignment: Neutral Evil
-status: Active - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+created: null
+updated: '2025-08-13T12:34:23.419988+00:00'
 world: Both
-updated: '2025-08-13T01:18:37.076526+00:00'
-created: 2025-08-11
+type: NPC
+status: active
+tags:
+- active
+- both
+- npc
 ---
+
 
 
 > [!figure] Portrait

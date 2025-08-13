@@ -16,16 +16,16 @@ tags:
 
 
 > [!cards|4]
-> **[[Island of Skulls]]**
+> **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Island of Skulls]]**
 > ![[The Island of Screams.jpg\|sban htiny ctr]]
 > 
-> **[[Journey Board]]**
+> **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Journey Board]]**
 > [![[JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
 >
-> **[[City of Screams]]**
+> **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/City of Screams]]**
 > ![[AdventureIcon.png\|sban htiny ctr]]
 > 
-> **[[02_Worldbuilding/Lore/Example Party |02 Worldbuilding/Lore/Example Party]]**
+> **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Example Party ]]**
 > ![[PartyLogo.jpg\|sban htiny ctr p+t]]
 
 > [!NOTE|no-title]
@@ -41,20 +41,20 @@ tags:
 > ~~~
 > >[!tabbed-box-maxh]
 > > >[!div-m|no-title]
-> > > ![[Home Embeds - DV#Party|no-h1 clean]]
+> > > ![[vault_backup_20250813_073007/1-DM Toolkit/Home Embeds - DV]]
 > >
 > > >[!div-m|no-title]
-> > > ![[Home Embeds - DV#Session Journals|no-h clean]]
+> > > ![[vault_backup_20250813_073007/1-DM Toolkit/Home Embeds - DV]]
 > >
 > > >[!div-m|no-title]
-> > > ![[Home Embeds - DV#Create New|no-h1 clean]]
+> > > ![[vault_backup_20250813_073007/1-DM Toolkit/Home Embeds - DV]]
 > >
 > > > [!div-m|no-title]
-> > > ![[Home Embeds - DV#Recently Modified|no-h1 clean]]
+> > > ![[vault_backup_20250813_073007/1-DM Toolkit/Home Embeds - DV]]
 > > 
 > > > [!div-m|no-title]
-> > > ![[Home Embeds - DV#Vault Graph|no-h clean]]
+> > > ![[vault_backup_20250813_073007/1-DM Toolkit/Home Embeds - DV]]
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Island of Skulls|02 Worldbuilding/Lore/Island Of Skulls]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Island of Skulls]]

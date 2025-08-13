@@ -27,7 +27,7 @@ updated: '2025-08-13T01:18:34.562222+00:00'
 
 ## The Event
 
-On the 17th day of Highsummer, exactly 500 years ago, the world of [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] changed forever. At the moment of solar eclipse, seven massive crystal spires erupted from the earth simultaneously across the continent. The sky itself seemed to shatter, raining down crystal fragments that embedded themselves in the ground, growing into the Aether Crystal formations we know today.
+On the 17th day of Highsummer, exactly 500 years ago, the world of [[02_Worldbuilding/Places/Aethermoor]] changed forever. At the moment of solar eclipse, seven massive crystal spires erupted from the earth simultaneously across the continent. The sky itself seemed to shatter, raining down crystal fragments that embedded themselves in the ground, growing into the Aether Crystal formations we know today.
 
 ## The Moment of Shattering
 
@@ -46,13 +46,13 @@ On the 17th day of Highsummer, exactly 500 years ago, the world of [[02_Worldbui
 ## The Seven Spires
 
 ### Primary Eruption Sites
-1. **The Northern Spire** - Now center of [[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]
-2. **The Eastern Spire** - Heart of [[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The Sundered Peaks]]
-3. **The Southern Spire** - Deep in [[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]]
-4. **The Western Spire** - Beneath the waves of [[The Azure Coast]]
-5. **The Central Spire** - Where [[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] was built
+1. **The Northern Spire** - Now center of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]]
+2. **The Eastern Spire** - Heart of [[02_Worldbuilding/Places/The Sundered Peaks]]
+3. **The Southern Spire** - Deep in [[02_Worldbuilding/Places/The Verdant Reach]]
+4. **The Western Spire** - Beneath the waves of [[02_Worldbuilding/Places/The Azure Coast]]
+5. **The Central Spire** - Where [[02_Worldbuilding/Places/Crystalhaven]] was built
 6. **The Desert Spire** - Center of [[The Whispering Expanse]]
-7. **The Shadow Spire** - Lost in [[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]
+7. **The Shadow Spire** - Lost in [[02_Worldbuilding/Places/The Shadowmere]]
 
 ### The Crystal Types
 Each spire produced different crystal variants:
@@ -67,20 +67,20 @@ Each spire produced different crystal variants:
 ## Theories of Causation
 
 ### The Orthodox View
-The [[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] teaches that mortal hubris brought divine punishment. The God-King Aetheron's pride grew too great, and the heavens struck him down, shattering his crown and cursing the land with crystalline corruption.
+The [[02_Worldbuilding/Groups/Purist Coalition]] teaches that mortal hubris brought divine punishment. The God-King Aetheron's pride grew too great, and the heavens struck him down, shattering his crown and cursing the land with crystalline corruption.
 
 ### The Progressive Theory
-[[02_Worldbuilding/Groups/The Crystal Throne|02 Worldbuilding/Groups/The Crystal Throne]] scholars believe it was a natural magical phenomenon, possibly triggered by an alignment of ley lines or a surge from another plane. The crystals are a resource to be understood and harnessed.
+[[02_Worldbuilding/Groups/The Crystal Throne]] scholars believe it was a natural magical phenomenon, possibly triggered by an alignment of ley lines or a surge from another plane. The crystals are a resource to be understood and harnessed.
 
 ### The Heretical Truth
 > [!warning] DM Only - The Real Story
-> God-King Aetheron was betrayed by his seven most trusted advisors, each representing a different aspect of mortal ambition. They attempted to steal his Crown of Stars to claim divinity for themselves. In the struggle, the crown shattered, its seven shards piercing the earth. Aetheron fell but did not die, becoming [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]].
+> God-King Aetheron was betrayed by his seven most trusted advisors, each representing a different aspect of mortal ambition. They attempted to steal his Crown of Stars to claim divinity for themselves. In the struggle, the crown shattered, its seven shards piercing the earth. Aetheron fell but did not die, becoming [[02_Worldbuilding/People/The Crimson Sage]].
 
 ## The Seven Betrayers
 > [!warning] DM Only - Secret History
-> 1. **Marcus the Just** - Wanted perfect order (ancestor of [[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]])
+> 1. **Marcus the Just** - Wanted perfect order (ancestor of [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]])
 > 2. **Seraphina the Beautiful** - Craved eternal youth (ancestor of the Lumengarde line)
-> 3. **Goldwin the Merchant** - Desired infinite wealth (ancestor of [[Lord Aurelius Goldwave]])
+> 3. **Goldwin the Merchant** - Desired infinite wealth (ancestor of [[02_Worldbuilding/People/Lord Aurelius Goldwave]])
 > 4. **Shadowthorn the Assassin** - Sought ultimate power over death
 > 5. **Thornweaver the Druid** - Wished to become one with nature
 > 6. **Stormwind the Navigator** - Yearned to control the elements
@@ -163,9 +163,9 @@ Was the Crystallization:
 - Deliberate transformation?
 
 ## Connection to Current Events
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] may be sign of change
-- [[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] investigations intensifying
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption accelerating
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] may be sign of change
+- [[02_Worldbuilding/People/The Crimson Sage]] investigations intensifying
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption accelerating
 - The Seven Shards becoming active
 - Time distortions increasing
 
@@ -173,35 +173,35 @@ Was the Crystallization:
 The Great Crystallization is the defining event of the campaign world. Its true nature should be revealed gradually. Different factions have different interpretations, all partially correct. The event's full truth ties directly to the campaign's ultimate resolution.
 
 ## Related Topics
-- [[The Shattering of the Crown]] - The moment itself
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shattering of the Crown]] - The moment itself
 - [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] - Fragments of divine power
-- [[The Crown of Stars]] - The original artifact
-- [[Aetheron]] - The fallen god-king
-- [[The Seven Betrayers]] - Those who caused it
+- [[02_Worldbuilding/Lore/The Crown of Stars]] - The original artifact
+- [[02_Worldbuilding/Lore/Aetheron]] - The fallen god-king
+- [[02_Worldbuilding/Lore/The Seven Betrayers]] - Those who caused it
 
 ## Connections
 
-- [[Master Artificers Guild]]
-- [[Crystal Corruption Taboos]]
+- [[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Corruption Taboos]]
 - [[Eastern Kingdoms 2]]
-- [[Eastern Kingdoms]]
-- [[Evidence Chain Analysis]]
-- [[Fear Farms]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdoms]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[02_Worldbuilding/Lore/Fear Farms]]
 - [[Healing Two Worlds]]
-- [[Kraken Territories]]
-- [[Merged Reality Zones]]
+- [[02_Worldbuilding/Lore/Kraken Territories]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
 - [[Thalassius the Wise]]
 - [[The Convergence Point]]
 - [[The Crimson Hand]]
 - [[The Final Choice]]
 - [[The Queen]]
 - [[The Real Marina]]
-- [[The Seven Betrayers]]
+- [[02_Worldbuilding/Lore/The Seven Betrayers]]
 - [[The Seven Shards]]
-- [[The Shattering of the Crown]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shattering of the Crown]]
 - [[Timeline of the Drowning]]
-- [[Cathedral of Light]]
-- [[Quest - The Root Network]]
+- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[02_Worldbuilding/People/Quest - The Root Network]]
 
 ## Player-Facing Summary
 
@@ -226,9 +226,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[02_Worldbuilding/Quests/The Whispering Expanse|02 Worldbuilding/Quests/The Whispering Expanse]]
-- [[Aetheron]]
-- [[Eastern Kingdom]]
-- [[The Crown of Stars]]
-- [[Lord Aurelius Goldwave]]
-- [[The Azure Coast]]
+- [[02_Worldbuilding/Lore/Aetheron]]
+- [[02_Worldbuilding/Lore/Eastern Kingdom]]
+- [[02_Worldbuilding/Lore/The Crown of Stars]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/Places/The Azure Coast]]
 - [[The Whispering Expanse]]

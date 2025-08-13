@@ -4,15 +4,19 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- complete
 - content/location
 - content/lore
 - index
+- lore
 - status/complete
+- universal
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.601015'
+updated: '2025-08-13T12:34:29.280052+00:00'
 world: Universal
 ---
+
 
 
 # Location Index
@@ -24,217 +28,217 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 ### Major Cities & Settlements
 
 #### Abyssos Prime - Capital of the Depths
-- [[Abyssos Prime]] - The great underwater capital city
-- [[Abyssos Prime Docks]] - Harbor and shipping district
-- [[Abyssos Prime Upper Districts]] - Elite residential and government areas
-- [[Parliament of Echoes]] - Seat of government and shadow politics
-- [[Parliament of Echoes - Public Gallery]] - Citizen observation areas
-- [[The Inverse Palace]] - Royal residence with reality-warping architecture
-- [[Party Quarters - Inverse Palace]] - Guest accommodations
-- [[Inverted Ballroom Wing]] - Entertainment and social areas
-- [[Inverted Ballroom Wing - Party Quarters]] - Formal guest suites
-- [[Throne Room - Heart of Palace]] - Royal audience chamber
-- [[Secret Vault Beneath Throne]] - Hidden royal treasury
-- [[Ancient Tunnels Beneath Palace]] - Underground passage network
+- [[02_Worldbuilding/Places/Abyssos Prime]] - The great underwater capital city
+- [[02_Worldbuilding/Places/Abyssos Prime Docks]] - Harbor and shipping district
+- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]] - Elite residential and government areas
+- [[02_Worldbuilding/Places/Parliament of Echoes]] - Seat of government and shadow politics
+- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]] - Citizen observation areas
+- [[02_Worldbuilding/Places/The Inverse Palace]] - Royal residence with reality-warping architecture
+- [[02_Worldbuilding/Places/Party Quarters - Inverse Palace]] - Guest accommodations
+- [[02_Worldbuilding/Places/Inverted Ballroom Wing]] - Entertainment and social areas
+- [[02_Worldbuilding/Places/Inverted Ballroom Wing - Party Quarters]] - Formal guest suites
+- [[02_Worldbuilding/Places/Throne Room - Heart of Palace]] - Royal audience chamber
+- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]] - Hidden royal treasury
+- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]] - Underground passage network
 
 #### Port Meridian - Surface Gateway
-- [[Port Meridian]] - Primary surface-depth interface city
-- [[Port Meridian Harbor]] - Main docking and trade area
-- [[Port Meridian - Harbor District]] - Merchant and worker quarters
-- [[Port Meridian - Market Square]] - Central commercial hub
-- [[Port Meridian - Merchant Quarter]] - Trade guild headquarters
-- [[Port Meridian - Noble Quarter]] - Aristocratic residential area
-- [[Royal Palace of Meridian]] - Surface royal residence
-- [[Royal Palace]] - Government administrative center
-- [[Royal Vault]] - Secure storage and treasury
-- [[Harbor District]] - Extended port facilities
-- [[Harbor District Customs House]] - Trade regulation offices
-- [[Market_District|Market District]] - Expanded commercial zone
-- [[Noble Quarter]] - Elite living areas
+- [[02_Worldbuilding/Places/Port Meridian]] - Primary surface-depth interface city
+- [[02_Worldbuilding/Places/Port Meridian Harbor]] - Main docking and trade area
+- [[02_Worldbuilding/Places/Port Meridian - Harbor District]] - Merchant and worker quarters
+- [[02_Worldbuilding/Places/Port Meridian - Market Square]] - Central commercial hub
+- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]] - Trade guild headquarters
+- [[02_Worldbuilding/Places/Port Meridian - Noble Quarter]] - Aristocratic residential area
+- [[02_Worldbuilding/Places/Royal Palace of Meridian]] - Surface royal residence
+- [[02_Worldbuilding/Places/Royal Palace]] - Government administrative center
+- [[02_Worldbuilding/Places/Royal Vault]] - Secure storage and treasury
+- [[02_Worldbuilding/Places/Harbor District]] - Extended port facilities
+- [[02_Worldbuilding/Places/Harbor District Customs House]] - Trade regulation offices
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market District]] - Expanded commercial zone
+- [[02_Worldbuilding/Places/Noble Quarter]] - Elite living areas
 
 #### Other Major Settlements
-- [[New Tethys]] - Secondary underwater city
-- [[New Thalassopolis]] - Ancient mer-folk settlement ruins
-- [[Crystalhaven]] - Crystal-focused trading post
-- [[Goldspire Port]] - Wealthy merchant harbor town
-- [[Pearl_Harbor_City|Pearl Harbor City]] - Pearl diving and trade center
-- [[Nereidios]] - Sea-elf cultural center
-- [[Ironhold]] - Industrial and manufacturing hub
-- [[Lumengarde]] - Sky-touching lighthouse city
-- [[Sylvanheart]] - Forest-sea interface settlement
+- [[02_Worldbuilding/Places/New Tethys]] - Secondary underwater city
+- [[02_Worldbuilding/Places/New Thalassopolis]] - Ancient mer-folk settlement ruins
+- [[02_Worldbuilding/Places/Crystalhaven]] - Crystal-focused trading post
+- [[02_Worldbuilding/Places/Goldspire Port]] - Wealthy merchant harbor town
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]] - Pearl diving and trade center
+- [[02_Worldbuilding/Places/Nereidios]] - Sea-elf cultural center
+- [[02_Worldbuilding/Places/Ironhold]] - Industrial and manufacturing hub
+- [[02_Worldbuilding/Places/Lumengarde]] - Sky-touching lighthouse city
+- [[02_Worldbuilding/Places/Sylvanheart]] - Forest-sea interface settlement
 
 ### Specialized Locations
 
 #### Government & Administrative
-- [[Parliament of Echoes - Shadow Chamber]] - Secret government meetings
-- [[The Eternal Senate]] - Ancient governing body remnants
-- [[The Unremembered Parliament]] - Lost political institution
-- [[Royal Embassy]] - Diplomatic headquarters
-- [[The Embassy Quarter]] - Foreign diplomatic district
-- [[Vote Vaults]] - Secure voting and record storage
-- [[Senator's Private Chambers]] - Government official quarters
-- [[Customs House]] - Trade and border control
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes - Shadow Chamber]] - Secret government meetings
+- [[02_Worldbuilding/Places/The Eternal Senate]] - Ancient governing body remnants
+- [[02_Worldbuilding/Places/The Unremembered Parliament]] - Lost political institution
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Embassy]] - Diplomatic headquarters
+- [[02_Worldbuilding/Places/The Embassy Quarter]] - Foreign diplomatic district
+- [[02_Worldbuilding/Places/Vote Vaults]] - Secure voting and record storage
+- [[02_Worldbuilding/Places/Senator's Private Chambers]] - Government official quarters
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Customs House]] - Trade and border control
 
 #### Commercial & Economic
-- [[The Grand Bazaar of Echoing Coins]] - Massive marketplace
-- [[02_Worldbuilding/Lore/pat|02 Worldbuilding/Lore/pat]] - Mobile trading platform
-- [[The Floating Markets of Nereidios]] - Sea-elf commerce center
-- [[The Sunken Markets]] - Underwater trading district
-- [[The Tidepool Markets]] - Tidal zone commerce
-- [[The Phosphor Markets]] - Bioluminescent goods trading
-- [[The Depth Market]] - Deep-sea resource exchange
-- [[Shadow Market Canals]] - Illicit trade waterways
-- [[The Shadow Markets]] - Black market trading zone
-- [[The Shadow Markets New]] - Expanded illegal commerce
-- [[Memory Meadows Black Market]] - Memory trade center
-- [[The Crystal Stock Exchange]] - Crystal commodity trading
-- [[Silverscale Banking House]] - Financial institution headquarters
+- [[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]] - Massive marketplace
+- [[02_Worldbuilding/Lore/pat]] - Mobile trading platform
+- [[02_Worldbuilding/Places/The Floating Markets of Nereidios]] - Sea-elf commerce center
+- [[02_Worldbuilding/Places/The Sunken Markets]] - Underwater trading district
+- [[02_Worldbuilding/Places/The Tidepool Markets]] - Tidal zone commerce
+- [[02_Worldbuilding/Places/The Phosphor Markets]] - Bioluminescent goods trading
+- [[02_Worldbuilding/Places/The Depth Market]] - Deep-sea resource exchange
+- [[02_Worldbuilding/Places/Shadow Market Canals]] - Illicit trade waterways
+- [[02_Worldbuilding/Places/The Shadow Markets]] - Black market trading zone
+- [[02_Worldbuilding/Places/The Shadow Markets New]] - Expanded illegal commerce
+- [[02_Worldbuilding/Places/Memory Meadows Black Market]] - Memory trade center
+- [[02_Worldbuilding/Places/The Crystal Stock Exchange]] - Crystal commodity trading
+- [[02_Worldbuilding/Lore/Silverscale Banking House]] - Financial institution headquarters
 
 #### Religious & Cultural
-- [[Cathedral of Light]] - Primary religious center
-- [[Church of the Tidal Throne]] - State religious institution
-- [[Temple Ward]] - Religious district
-- [[The Temple of Eternal Tides]] - Ancient worship site
-- [[Temple of the First Tide]] - Historical religious location
-- [[The Sunken Cathedral of Stars]] - Submerged worship site
-- [[Abyssal Cathedral]] - Deep-sea religious center
-- [[The Divine Trial]] - Religious testing grounds
+- [[02_Worldbuilding/Places/Cathedral of Light]] - Primary religious center
+- [[02_Worldbuilding/Places/Church of the Tidal Throne]] - State religious institution
+- [[02_Worldbuilding/Places/Temple Ward]] - Religious district
+- [[02_Worldbuilding/Places/The Temple of Eternal Tides]] - Ancient worship site
+- [[02_Worldbuilding/Lore/Temple of the First Tide]] - Historical religious location
+- [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]] - Submerged worship site
+- [[02_Worldbuilding/People/Abyssal Cathedral]] - Deep-sea religious center
+- [[02_Worldbuilding/Places/The Divine Trial]] - Religious testing grounds
 
 #### Educational & Archives
-- [[Aethermoor Archives]] - Historical record repository
-- [[The Forgotten Archive]] - Lost knowledge storage
-- [[The Archive of Unremembered Things]] - Memory-focused library
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Ancient underwater library
-- [[Abyssal Academy]] - Deep-sea learning institution
+- [[02_Worldbuilding/Lore/Aethermoor Archives]] - Historical record repository
+- [[02_Worldbuilding/Lore/The Forgotten Archive]] - Lost knowledge storage
+- [[02_Worldbuilding/Places/The Archive of Unremembered Things]] - Memory-focused library
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Ancient underwater library
+- [[02_Worldbuilding/Lore/Abyssal Academy]] - Deep-sea learning institution
 
 ### Natural & Mystical Locations
 
 #### Depth-Based Regions
-- [[The Hadal Depths]] - Deepest ocean regions
-- [[The Foundation Depths]] - Structural bedrock areas
-- [[The Bathyal Palace]] - Mid-depth royal residence
-- [[The Cerulean Trench]] - Deep blue water chasm
-- [[The Singing Trenches]] - Acoustically active depths
-- [[The Whispering Depths]] - Mystery-shrouded deep areas
-- [[The Void Touched Depths]] - Cosmically influenced regions
-- [[The Harbor Depths]] - Deep port facilities
-- [[The Mourning Depths]] - Melancholy deep-sea areas
+- [[02_Worldbuilding/Places/The Hadal Depths]] - Deepest ocean regions
+- [[02_Worldbuilding/Places/The Foundation Depths]] - Structural bedrock areas
+- [[02_Worldbuilding/Places/The Bathyal Palace]] - Mid-depth royal residence
+- [[02_Worldbuilding/Places/The Cerulean Trench]] - Deep blue water chasm
+- [[02_Worldbuilding/Places/The Singing Trenches]] - Acoustically active depths
+- [[02_Worldbuilding/Places/The Whispering Depths]] - Mystery-shrouded deep areas
+- [[02_Worldbuilding/Places/The Void Touched Depths]] - Cosmically influenced regions
+- [[02_Worldbuilding/Places/The Harbor Depths]] - Deep port facilities
+- [[02_Worldbuilding/Places/The Mourning Depths]] - Melancholy deep-sea areas
 
 #### Memory & Temporal Zones
-- [[The Memory Meadows]] - Temporal grass fields
-- [[The Memory Storm Fields]] - Chaotic memory weather
-- [[Memory Meadows Black Market]] - Memory trade center
-- [[Reflection Pools]] - Memory viewing chambers
-- [[The Reflection Pools]] - Expanded memory pools
-- [[Reflection Pools - Surgical Theater]] - Memory surgery facility
-- [[Tidal Memory Ceremonies]] - Ritual memory sites
-- [[Temporal Distortion Zones]] - Time-warped areas
-- [[The Temporal Convergence Storms]] - Time storm phenomena
+- [[02_Worldbuilding/Places/The Memory Meadows]] - Temporal grass fields
+- [[02_Worldbuilding/Places/The Memory Storm Fields]] - Chaotic memory weather
+- [[02_Worldbuilding/Places/Memory Meadows Black Market]] - Memory trade center
+- [[02_Worldbuilding/People/Reflection Pools]] - Memory viewing chambers
+- [[02_Worldbuilding/Places/The Reflection Pools]] - Expanded memory pools
+- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]] - Memory surgery facility
+- [[02_Worldbuilding/Lore/Tidal Memory Ceremonies]] - Ritual memory sites
+- [[02_Worldbuilding/Lore/Temporal Distortion Zones]] - Time-warped areas
+- [[02_Worldbuilding/Places/The Temporal Convergence Storms]] - Time storm phenomena
 
 #### Mysterious & Dangerous Areas
-- [[The Abyss Beneath Aquabyssos]] - Ultimate depth mystery
-- [[The Void Tears]] - Reality rupture locations
-- [[The Shattered Sanctum]] - Broken holy site
-- [[The Sundered Vaults]] - Damaged storage areas
-- [[The Vanishing Depths]] - Mysteriously disappearing areas
-- [[The Screaming Battleground]] - Ancient conflict site
-- [[Leviathan Graveyard]] - Giant creature burial ground
-- [[Kraken Territories]] - Massive creature domains
-- [[Fear Farms]] - Terror cultivation areas
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Ultimate depth mystery
+- [[02_Worldbuilding/Places/The Void Tears]] - Reality rupture locations
+- [[02_Worldbuilding/Places/The Shattered Sanctum]] - Broken holy site
+- [[02_Worldbuilding/Places/The Sundered Vaults]] - Damaged storage areas
+- [[02_Worldbuilding/Places/The Vanishing Depths]] - Mysteriously disappearing areas
+- [[02_Worldbuilding/Places/The Screaming Battleground]] - Ancient conflict site
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Leviathan Graveyard]] - Giant creature burial ground
+- [[02_Worldbuilding/Lore/Kraken Territories]] - Massive creature domains
+- [[02_Worldbuilding/Lore/Fear Farms]] - Terror cultivation areas
 
 ## 🌬️ Aethermoor World Locations
 
 ### Sky Realm Settlements
-- [[Aethermoor]] - Primary floating sky city
-- [[Lumengarde]] - Crystal-powered sky fortress
-- [[Arcanum Heights]] - Magical research floating city
-- [[Azure Citadel]] - Military sky stronghold
-- [[The Crystal Cathedral of Pure Light]] - Floating religious center
+- [[02_Worldbuilding/Places/Aethermoor]] - Primary floating sky city
+- [[02_Worldbuilding/Places/Lumengarde]] - Crystal-powered sky fortress
+- [[02_Worldbuilding/Lore/Arcanum Heights]] - Magical research floating city
+- [[02_Worldbuilding/Places/Azure Citadel]] - Military sky stronghold
+- [[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]] - Floating religious center
 
 ### Surface Locations
-- [[Goldwave Manor]] - Noble estate and grounds
-- [[Crystal Gardens]] - Cultivated crystal growing areas
-- [[The Crystal Festival Grounds]] - Ritual preparation site
-- [[Crystal Festival Grounds]] - Secondary festival area
-- [[The Synthesis Gardens]] - Harmony cultivation center
-- [[The Purification Gardens]] - Cleansing ritual grounds
-- [[The Infinite Garden]] - Reality-bending natural space
-- [[The Gloom Gardens]] - Shadow-touched growing areas
-- [[Screaming Gardens]] - Sound-affected botanical areas
-- [[Screaming Gardens - Songwood Grove]] - Musical tree clusters
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Goldwave Manor]] - Noble estate and grounds
+- [[02_Worldbuilding/Places/Crystal Gardens]] - Cultivated crystal growing areas
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Festival Grounds]] - Ritual preparation site
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival Grounds]] - Secondary festival area
+- [[02_Worldbuilding/Places/The Synthesis Gardens]] - Harmony cultivation center
+- [[02_Worldbuilding/People/The Purification Gardens]] - Cleansing ritual grounds
+- [[02_Worldbuilding/Places/The Infinite Garden]] - Reality-bending natural space
+- [[02_Worldbuilding/Places/The Gloom Gardens]] - Shadow-touched growing areas
+- [[02_Worldbuilding/Places/Screaming Gardens]] - Sound-affected botanical areas
+- [[02_Worldbuilding/Places/Screaming Gardens - Songwood Grove]] - Musical tree clusters
 
 ### Crystal-Affected Regions
-- [[The Crystalline Wastes]] - Crystal-corrupted wasteland
-- [[The Crystalline Foundry]] - Crystal processing facility
-- [[Crystal Forest]] - Tree-crystal hybrid ecosystem
-- [[The Crystal Hive Collective]] - Crystal organism colony
-- [[Crystallium]] - Pure crystal formation area
-- [[Pressure Crystals]] - Depth-influenced crystal zones
+- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Crystal-corrupted wasteland
+- [[02_Worldbuilding/Places/The Crystalline Foundry]] - Crystal processing facility
+- [[02_Worldbuilding/Lore/Crystal Forest]] - Tree-crystal hybrid ecosystem
+- [[02_Worldbuilding/Places/The Crystal Hive Collective]] - Crystal organism colony
+- [[02_Worldbuilding/Places/Crystallium]] - Pure crystal formation area
+- [[02_Worldbuilding/Places/Pressure Crystals]] - Depth-influenced crystal zones
 
 ### Mountain & Peak Locations
-- [[The Sundered Peaks]] - Broken mountain ranges
-- [[The Whispering Peaks]] - Sound-carrying mountain tops
-- [[Resonance Peaks]] - Acoustically active summits
-- [[Lighthouse Peak - Resonance Chamber]] - Signal amplification site
-- [[Prismatic Falls]] - Rainbow waterfall location
+- [[02_Worldbuilding/Places/The Sundered Peaks]] - Broken mountain ranges
+- [[02_Worldbuilding/Places/The Whispering Peaks]] - Sound-carrying mountain tops
+- [[02_Worldbuilding/Lore/Resonance Peaks]] - Acoustically active summits
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lighthouse Peak - Resonance Chamber]] - Signal amplification site
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Prismatic Falls]] - Rainbow waterfall location
 
 ## Cross-World & Transition Locations
 
 ### Convergence Points
-- [[The Convergence Point]] - World intersection location
-- [[Convergence Point]] - Primary world meeting point
-- [[Merged Reality Zones]] - Blended world areas
-- [[Reality Merge Zones]] - World fusion locations
-- [[The Threshold]] - Dimensional barrier location
-- [[The Threshold Chambers]] - Transition facility rooms
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]] - World intersection location
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Convergence Point]] - Primary world meeting point
+- [[02_Worldbuilding/Lore/Merged Reality Zones]] - Blended world areas
+- [[02_Worldbuilding/Lore/Reality Merge Zones]] - World fusion locations
+- [[02_Worldbuilding/Lore/The Threshold]] - Dimensional barrier location
+- [[02_Worldbuilding/Places/The Threshold Chambers]] - Transition facility rooms
 
 ### Lighthouse Network
-- [[The Lighthouse of Storms]] - Weather control beacon
-- [[Lighthouse of Storms]] - Storm manipulation facility
-- [[Lighthouse Ruins]] - Damaged beacon remnants
-- [[Resonance Chamber]] - Signal amplification room
-- [[Lighthouse Peak - Resonance Chamber]] - Mountain-top signal facility
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms]] - Weather control beacon
+- [[02_Worldbuilding/Lore/Lighthouse of Storms]] - Storm manipulation facility
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lighthouse Ruins]] - Damaged beacon remnants
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Chamber]] - Signal amplification room
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lighthouse Peak - Resonance Chamber]] - Mountain-top signal facility
 
 ### Historical & Ancient Sites
-- [[Pre-Submersion Ruins]] - Pre-flood civilization remains
-- [[Ancient Siege Tunnels]] - Historical warfare passages
-- [[The Forgotten Isles]] - Lost island chain
-- [[The Shattered Isles]] - Broken archipelago
-- [[Fortress of the Deeps]] - Ancient military stronghold
-- [[The Bone Palace of Sorrows]] - Macabre historical site
-- [[The Primordial Vaults]] - Ancient storage chambers
+- [[02_Worldbuilding/Lore/Pre-Submersion Ruins]] - Pre-flood civilization remains
+- [[02_Worldbuilding/Lore/Ancient Siege Tunnels]] - Historical warfare passages
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgotten Isles]] - Lost island chain
+- [[02_Worldbuilding/Places/The Shattered Isles]] - Broken archipelago
+- [[02_Worldbuilding/Lore/Fortress of the Deeps]] - Ancient military stronghold
+- [[02_Worldbuilding/Places/The Bone Palace of Sorrows]] - Macabre historical site
+- [[02_Worldbuilding/Places/The Primordial Vaults]] - Ancient storage chambers
 
 ## Specialized Location Categories
 
 ### Transportation Hubs
-- [[Pressure Terminal]] - Depth transport facility
-- [[Pressure Tube Terminal]] - Pneumatic transport station
-- [[Pressure Tubes]] - Transportation tunnel network
-- [[Dream Rails]] - Mystical transport system
-- [[02_Worldbuilding/Lore/NPC |02 Worldbuilding/Lore/NPC]] - Natural underwater roadway
-- [[Surface Portal Alpha]] - Primary surface-depth gateway
-- [[Blood Current Express]] - Rapid transport system
+- [[02_Worldbuilding/Places/Pressure Terminal]] - Depth transport facility
+- [[02_Worldbuilding/Places/Pressure Tube Terminal]] - Pneumatic transport station
+- [[02_Worldbuilding/Places/Pressure Tubes]] - Transportation tunnel network
+- [[02_Worldbuilding/Places/Dream Rails]] - Mystical transport system
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Npc]] - Natural underwater roadway
+- [[02_Worldbuilding/Places/Surface Portal Alpha]] - Primary surface-depth gateway
+- [[02_Worldbuilding/Places/Blood Current Express]] - Rapid transport system
 
 ### Taverns & Social Venues
-- [[The Siren's Rest Tavern]] - Popular gathering spot
-- [[The Shadowmire Tavern]] - Dark atmosphere establishment
-- [[The Neutral Current Tavern]] - Politically neutral venue
-- [[The Neutral Ground]] - Diplomatic meeting space
-- [[Taverner Bubbles McGill]] - Specific tavern operation
+- [[02_Worldbuilding/Places/The Siren's Rest Tavern]] - Popular gathering spot
+- [[02_Worldbuilding/Places/The Shadowmire Tavern]] - Dark atmosphere establishment
+- [[02_Worldbuilding/Places/The Neutral Current Tavern]] - Politically neutral venue
+- [[02_Worldbuilding/Places/The Neutral Ground]] - Diplomatic meeting space
+- [[02_Worldbuilding/Places/Taverner Bubbles McGill]] - Specific tavern operation
 
 ### Criminal & Shadow Locations
-- [[Hidden Smuggler's Cove]] - Illicit goods staging area
-- [[Smuggler's Cove]] - Criminal hideout location
-- [[Shadow Wells]] - Dark magic water sources
-- [[The Shadow Warren]] - Criminal underground network
-- [[Shadow Surgery Centers]] - Illegal medical facilities
-- [[Shadow Binding Sanctum]] - Shadow magic ritual site
+- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]] - Illicit goods staging area
+- [[02_Worldbuilding/Places/Smuggler's Cove]] - Criminal hideout location
+- [[02_Worldbuilding/Places/Shadow Wells]] - Dark magic water sources
+- [[02_Worldbuilding/People/The Shadow Warren]] - Criminal underground network
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgery Centers]] - Illegal medical facilities
+- [[02_Worldbuilding/People/Shadow Binding Sanctum]] - Shadow magic ritual site
 
 ### Industrial & Manufacturing
-- [[The Crimson Foundries]] - Red metal production facility
-- [[Forge of War]] - Military equipment production
-- [[The Iron Pits of Malachar]] - Mining and metalworking site
-- [[Crystallization Process]] - Crystal manufacturing area
+- [[02_Worldbuilding/Places/The Crimson Foundries]] - Red metal production facility
+- [[02_Worldbuilding/Places/Forge of War]] - Military equipment production
+- [[02_Worldbuilding/Places/The Iron Pits of Malachar]] - Mining and metalworking site
+- [[02_Worldbuilding/Places/Crystallization Process]] - Crystal manufacturing area
 
 ## Regional Organization
 
@@ -262,9 +266,9 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 ---
 
 ## Navigation Links
-- **Back to**: [[Update Indexes]] - Main navigation hub
-- **See Also**: [[Campaign Index]] - Campaign-specific content
-- **Related**: [[Quest Index]] - Location-based adventures
+- **Back to**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Update Indexes]] - Main navigation hub
+- **See Also**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]] - Campaign-specific content
+- **Related**: [[02_Worldbuilding/Lore/Quest Index]] - Location-based adventures
 
 ---
 
@@ -295,4 +299,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Update Indexes|02 Worldbuilding/Lore/Update Indexes]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Update Indexes]]

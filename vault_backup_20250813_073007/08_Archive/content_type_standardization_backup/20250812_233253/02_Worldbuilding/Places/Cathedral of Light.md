@@ -3,6 +3,7 @@ tags:
 - aethermoor
 - cathedral
 - completed
+- draft
 - grand-cathedral
 - holy
 - light
@@ -15,7 +16,8 @@ region: '[[Capital District]]'
 type: Location
 population: 500
 danger_level: 1
-government: '[[02_Worldbuilding/Groups/Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]'
+government: '[[02_Worldbuilding/Groups/Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred
+  Order Of Luminous Daw]]'
 leader: '[[High Luminary Celestine Brightward]]'
 specialties:
 - Divine Magic
@@ -26,8 +28,9 @@ created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-12T00:00:00+00:00'
+updated: '2025-08-13T12:34:27.372325+00:00'
 ---
+
 
 
 > [!figure] View

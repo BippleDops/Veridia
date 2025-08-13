@@ -33,7 +33,7 @@ partner:
 - Jane
 relationships:
 - strength: 3
-  target: '[[Captain Garrett Stormcutter]]'
+  target: '[[02_Worldbuilding/People/Captain Garrett Stormcutter]]'
   type: ally
 siblings:
 - Flip

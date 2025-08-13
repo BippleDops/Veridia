@@ -23,7 +23,7 @@ world: Both
 
 # Merger Events Pack D — Faction Spotlight (24)
 
-Use with [[Complete Reality Merger System]], [[Sanity System]], [[03_Mechanics/Vehicles/Merger_Hybrid_Vehicles|Merger Hybrid Vehicles]], [[Memory Trading Economy System|Memory Economy]], [[Complete Faction Warfare System]].
+Use with [[03_Mechanics/Complete Reality Merger System]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]], [[vault_backup_20250813_073007/03_Mechanics/Vehicles - Merger Hybrid Vehicles]], [[Memory Trading Economy System|Memory Economy]], [[03_Mechanics/Complete Faction Warfare System]].
 
 ---
 

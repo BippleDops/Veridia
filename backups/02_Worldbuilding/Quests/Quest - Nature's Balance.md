@@ -38,7 +38,7 @@ obsidianUIMode: preview
 
 ## Quest Overview
 
-The delicate balance between the elemental forces of [[Aethermoor]] and [[Aquabyssos]] has been shattered by the spreading shadow corruption and reckless crystal experimentation. Without intervention, both realms face environmental catastrophe as fire consumes the forests above while ice spreads through the oceans below. The party must unite opposing elemental factions, perform ancient rituals, and confront those who profit from the chaos.
+The delicate balance between the elemental forces of [[02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] has been shattered by the spreading shadow corruption and reckless crystal experimentation. Without intervention, both realms face environmental catastrophe as fire consumes the forests above while ice spreads through the oceans below. The party must unite opposing elemental factions, perform ancient rituals, and confront those who profit from the chaos.
 
 This quest spans both realms, requiring the party to navigate not just physical dangers but also political tensions, ancient grudges, and the fundamental incompatibility between crystal magic and oceanic power. Success means restoring the natural order; failure means watching both worlds consumed by elemental chaos.
 
@@ -75,10 +75,10 @@ The ancient Worldtree that maintains elemental balance in Aethermoor is dying, i
 1. **Investigate the Infection**: Discover crystals are sentient and feeding on elemental energy
 2. **Find the Source**: Trace parasites to illegal crystal mining operation
 3. **Cleanse the Roots**: Perform ritual requiring water from Aquabyssos
-4. **Defend the Tree**: Protect it from [[Crystal Wardens]] who want to "preserve" it in crystal
+4. **Defend the Tree**: Protect it from [[02_Worldbuilding/People/Crystal Wardens]] who want to "preserve" it in crystal
 
 **Key NPCs**:
-- **[[The Emerald Sage Willowbark]]**: Quest giver, last druid of the grove
+- **[[02_Worldbuilding/People/The Emerald Sage Willowbark]]**: Quest giver, last druid of the grove
 - **Foreman Grax**: Corrupt miner profiting from the chaos
 - **Seedling**: Awakened tree sprite holding the tree's consciousness
 
@@ -91,7 +91,7 @@ The ancient Worldtree that maintains elemental balance in Aethermoor is dying, i
 **Location**: The Thermal Gardens, Aquabyssos  
 **Objective**: Restore the underwater volcanic vents
 
-The thermal vents that warm Aquabyssos's inhabited regions are being frozen by unnatural ice spreading from [[Shadow Wells]]. The party must:
+The thermal vents that warm Aquabyssos's inhabited regions are being frozen by unnatural ice spreading from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Wells]]. The party must:
 
 1. **Navigate Frozen Waters**: Travel through increasingly cold zones
 2. **Investigate the Ice**: Discover it's elemental ice corrupted by shadow
@@ -127,7 +127,7 @@ The elemental lords of both realms must be brought together to discuss restorati
    - Countess Aetheria (Air) - Insists on closing realm borders
 
 2. **Prepare the Summit**: Secure neutral meeting ground
-   - Clear [[The Threshold Chambers]] of corrupted guardians
+   - Clear [[02_Worldbuilding/Places/The Threshold Chambers]] of corrupted guardians
    - Establish elemental balance in the meeting space
    - Prevent assassination attempts by extremist factions
 
@@ -228,7 +228,7 @@ With the device destroyed, the party must perform a forgotten ritual to permanen
 ## Key NPCs
 
 ### Quest Givers
-**[[The Emerald Sage Willowbark]]**  
+**[[02_Worldbuilding/People/The Emerald Sage Willowbark]]**  
 - Last druid maintaining failing barriers
 - Provides guidance and natural magic support
 - May sacrifice themselves if party fails
@@ -331,34 +331,34 @@ With the device destroyed, the party must perform a forgotten ritual to permanen
 
 ### Related Quests
 - [[Quest - The Convergence Crisis]]
-- [[Quest - Divine Intervention]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Divine Intervention]]
 - [[Stop the Crystal Festival Ritual]]
 - [[The Depth Accords]]
 
 ### Key Locations
-- [[Sylvanheart]]
-- [[The Thermal Gardens]]
-- [[The Threshold Chambers]]
-- [[Shadow Wells]]
-- [[Crystal Gardens]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sylvanheart]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Thermal Gardens]]
+- [[02_Worldbuilding/Places/The Threshold Chambers]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Wells]]
+- [[02_Worldbuilding/Places/Crystal Gardens]]
 
 ### Important NPCs
-- [[The Emerald Sage Willowbark]]
-- [[Sister Thalassa the Depth-Touched]]
-- [[High Priestess Celeste Dawnbringer]]
-- [[The Shadow Singer Naia]]
+- [[02_Worldbuilding/People/The Emerald Sage Willowbark]]
+- [[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/The Shadow Singer Naia]]
 
 ### Relevant Items
-- [[Elemental Crystals]]
-- [[The Concordat Seal]]
-- [[Nature's Heart]]
-- [[Balance Stones]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Elemental Crystals]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Concordat Seal]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Nature's Heart]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Balance Stones]]
 
 ## Connections
 
-- [[The Forsaken Consortium Collective]]
-- [[Archdruid Thornweaver]]
-- [[The Verdant Reach]]
+- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
+- [[02_Worldbuilding/People/Archdruid Thornweaver]]
+- [[02_Worldbuilding/Places/The Verdant Reach]]
 
 ## Player-Facing Summary
 
@@ -382,6 +382,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Quests/Quest - Divine Intervention|02 Worldbuilding/Quests/Quest Divine Intervention]]
-- [[Crystal Wardens]]
-- [[Aethermoor]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Divine Intervention]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Places/Aethermoor]]

@@ -2,13 +2,15 @@
 tags:
 - active
 - both
+- complete
 - quest
 type: Quest
 world: Both
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.819177+00:00'
+updated: '2025-08-13T12:34:25.316568+00:00'
 ---
+
 
 
 

@@ -37,7 +37,7 @@ world: Both
 - Fail: Stall/spin; crew Con DC 14 vs. vertigo; minor damage 2d6
 
 ## Integrations
-- [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]]; anchors; altitude inversion
+- [[vault_backup_20250813_073007/03_Mechanics/Vehicles - Vehicle Core Rules]]; anchors; altitude inversion
 
 ## Quick-Run
 - Call three checks; apply result; proceed into sky encounter

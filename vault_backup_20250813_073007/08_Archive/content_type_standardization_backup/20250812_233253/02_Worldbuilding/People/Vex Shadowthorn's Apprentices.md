@@ -6,20 +6,23 @@ tags:
 - aquabyssos
 - both realms
 - both-realms
+- complete
 - criminal
 - npc
 - npc-group
 - syndicate
 type: NPC
 world: Both Realms
-faction: '[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]'
+faction: '[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The
+  Whisper Syndicate]]'
 status: complete
 created: '2025-08-11'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
-updated: '2025-08-13T01:18:37.020889+00:00'
+updated: '2025-08-13T12:34:28.349955+00:00'
 ---
+
 
 
 > [!figure] Portrait

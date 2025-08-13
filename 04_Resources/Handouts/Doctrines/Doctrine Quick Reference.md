@@ -3,36 +3,63 @@ audience: player
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/faction
 - doctrine
 - handout
+- lore
 - status/complete
 - world/both
 title: Player Handout — Doctrine Quick Reference
 type: Lore
-updated: '2025-08-12T23:37:41.217895'
+updated: '2025-08-13T12:34:32.374691+00:00'
 world: Both
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.467876
 ---
-
-
 # Doctrine Quick Reference
 
 Travel feels different under each doctrine. Use this as a vibe guide and checklist for your crew.
 
 ## Doctrines
-- [[04_Resources/Handouts/Doctrines/Stealth_and_Ambush_Player|Stealth & Ambush]]
-- [[04_Resources/Handouts/Doctrines/Anchor_Fortress_Player|Anchor Fortress]]
-- [[04_Resources/Handouts/Doctrines/Parasite_Swarm_Player|Parasite Swarm]]
-- [[04_Resources/Handouts/Doctrines/Crystal_Artillery_Player|Crystal Artillery]]
-- [[04_Resources/Handouts/Doctrines/Carrier_Strike_Player|Carrier Strike]]
-- [[04_Resources/Handouts/Doctrines/Trade_Escort_Player|Trade Escort]]
-- [[04_Resources/Handouts/Doctrines/Guerrilla_Currents_Player|Guerrilla Currents]]
-- [[04_Resources/Handouts/Doctrines/Zealot_Crusade_Player|Zealot Crusade]]
-- [[04_Resources/Handouts/Doctrines/Memory_Warfare_Player|Memory Warfare]]
-- [[04_Resources/Handouts/Doctrines/Reality_Control_Player|Reality Control]]
-- [[04_Resources/Handouts/Doctrines/Humanitarian_Relief_Player|Humanitarian Relief]]
-- [[04_Resources/Handouts/Doctrines/Pirate_Confederacy_Player|Pirate Confederacy]]
+- [[04_Resources/Handouts/Doctrines/Stealth and Ambush Player]]
+- [[04_Resources/Handouts/Doctrines/Anchor Fortress Player]]
+- [[04_Resources/Handouts/Doctrines/Parasite Swarm Player]]
+- [[04_Resources/Handouts/Doctrines/Crystal Artillery Player]]
+- [[04_Resources/Handouts/Doctrines/Carrier Strike Player]]
+- [[04_Resources/Handouts/Doctrines/Trade Escort Player]]
+- [[04_Resources/Handouts/Doctrines/Guerrilla Currents Player]]
+- [[04_Resources/Handouts/Doctrines/Zealot Crusade Player]]
+- [[04_Resources/Handouts/Doctrines/Memory Warfare Player]]
+- [[04_Resources/Handouts/Doctrines/Reality Control Player]]
+- [[04_Resources/Handouts/Doctrines/Humanitarian Relief Player]]
+- [[04_Resources/Handouts/Doctrines/Pirate Confederacy Player]]
 
 ## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01|06 GM Resources/Session Packets/Aethermoor Session 01]]
+- [[vault_backup_20250813_073007/06_GM_Resources/Session_Packets/Aethermoor Session 01]]
+
+## Faction Relationships
+
+### Network Position
+**Direct Connections**: 0 faction relationships
+**Network Influence**: 0 degrees of separation reach
+**Relationship Complexity**: Low
+
+### Key Relationships
+
+
+### Relationship Dynamics
+- **Alliance Potential**: Opportunities for cooperation and mutual benefit
+- **Conflict Risk**: Areas of potential disagreement or competition  
+- **Neutral Interactions**: Routine diplomatic and trade relationships
+- **Unknown Factors**: Relationships requiring further investigation
+
+### Network Strategy
+**Expansion Opportunities**: Potential new alliances and partnerships
+**Risk Management**: Monitoring threats and hostile relationships
+**Influence Maximization**: Leveraging relationships for faction goals
+**Diplomatic Priorities**: Key relationships requiring attention
+

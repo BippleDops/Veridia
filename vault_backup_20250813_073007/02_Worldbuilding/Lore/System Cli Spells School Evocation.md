@@ -7,21 +7,25 @@ practitioners: Battle mages, energy manipulators, destroyers
 school: Evocation
 status: complete
 tags:
+- both worlds
+- complete
 - content/lore
 - content/mechanics
 - destruction
 - energy
 - evocation
 - force
+- lore
 - mechanics/magic
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.490292'
+updated: '2025-08-13T12:34:29.192845+00:00'
 world: Both Worlds
 ---
+
 
 
 
@@ -31,15 +35,15 @@ world: Both Worlds
 *The Art of Destruction, Energy, and Force*
 
 > *"In the crushing depths where every breath is earned through struggle, evocation becomes more than the art of destruction - it is the fundamental expression of will against entropy. We do not simply cast fire into water; we command reality itself to burn."*
-> — [[Arcane Destroyer Tidal Stormcaller]], Master of Combat Magic at the [[War College of Depths]]
+> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Arcane Destroyer Tidal Stormcaller]], Master of Combat Magic at the [[02_Worldbuilding/Lore/War College of Depths]]
 
 ## Overview
 
-Evocation represents one of the most feared and respected schools of magic across both [[Aethermoor]] and [[Aquabyssos]], encompassing the arts of destruction, energy manipulation, and force projection. In the vast underwater realm where traditional weapons lose effectiveness and conventional warfare becomes impossible, evocation has evolved into sophisticated systems of combat magic, environmental control, and reality manipulation that enable civilization to defend itself against cosmic threats.
+Evocation represents one of the most feared and respected schools of magic across both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], encompassing the arts of destruction, energy manipulation, and force projection. In the vast underwater realm where traditional weapons lose effectiveness and conventional warfare becomes impossible, evocation has evolved into sophisticated systems of combat magic, environmental control, and reality manipulation that enable civilization to defend itself against cosmic threats.
 
 The school's principles center on the direct manipulation of raw magical energy to create destructive effects, generate elemental forces, and project power across vast distances. Evocation operates through the fundamental understanding that magical energy can be shaped and directed to achieve immediate, dramatic effects that bypass natural limitations and conventional defenses.
 
-In [[Aquabyssos]], evocation has developed unique characteristics due to the underwater environment's energy-conducting properties and the proximity to cosmic forces that amplify magical effects. Practitioners have mastered techniques for directing destructive force through water, channeling pressure as a weapon, and accessing void energy for attacks that transcend conventional physics.
+In [[02_Worldbuilding/Places/Aquabyssos]], evocation has developed unique characteristics due to the underwater environment's energy-conducting properties and the proximity to cosmic forces that amplify magical effects. Practitioners have mastered techniques for directing destructive force through water, channeling pressure as a weapon, and accessing void energy for attacks that transcend conventional physics.
 
 The school serves multiple crucial functions in underwater society: defending cities from hostile creatures and cosmic threats, clearing obstacles for construction and exploration, providing energy for large-scale magical systems, and maintaining the balance of power that prevents any single force from dominating the ocean depths.
 
@@ -61,13 +65,13 @@ Evocation magic operates on the fundamental principle that raw magical energy ca
 
 ### Underwater Adaptations
 
-**Pressure Channeling**: [[Aquabyssos]] evocation incorporates ocean pressure as both a medium for energy transmission and an amplification mechanism. Water's density allows for more efficient energy conduction while pressure differentials can be used to enhance the power and range of evocation effects.
+**Pressure Channeling**: [[02_Worldbuilding/Places/Aquabyssos]] evocation incorporates ocean pressure as both a medium for energy transmission and an amplification mechanism. Water's density allows for more efficient energy conduction while pressure differentials can be used to enhance the power and range of evocation effects.
 
 **Thermal Dynamics**: Underwater evocation has been adapted to work within the ocean's thermal layers, using temperature differentials to create more efficient heating and cooling effects. Practitioners can manipulate thermal dynamics to create localized weather systems or devastating temperature attacks.
 
 **Sonic Manipulation**: Sound travels more efficiently through water than air, making sonic-based evocation particularly powerful in underwater environments. Advanced practitioners can create sound-based attacks that are devastating to underwater creatures while being nearly undetectable to surface dwellers.
 
-**Void Integration**: The proximity to cosmic forces has allowed [[Aquabyssos]] evokers to channel void energy - a destructive force that exists outside normal reality. This provides access to attacks that can bypass conventional defenses but requires extreme caution due to corruption risks.
+**Void Integration**: The proximity to cosmic forces has allowed [[02_Worldbuilding/Places/Aquabyssos]] evokers to channel void energy - a destructive force that exists outside normal reality. This provides access to attacks that can bypass conventional defenses but requires extreme caution due to corruption risks.
 
 ### Advanced Applications
 
@@ -184,10 +188,10 @@ Military academy specializing in combat evocation adapted to underwater warfare.
 
 **Arcane Destroyer Tidal Stormcaller**: Dean whose innovations in pressure-based combat magic revolutionized underwater warfare. His techniques allow single practitioners to destroy entire enemy formations while preserving allied forces.
 
-**General Thermal Depthstrike**: Master of temperature-based combat who developed techniques for creating massive thermal shocks. Her strategies have been crucial in defending [[Aquabyssos]] against large-scale monster incursions.
+**General Thermal Depthstrike**: Master of temperature-based combat who developed techniques for creating massive thermal shocks. Her strategies have been crucial in defending [[02_Worldbuilding/Places/Aquabyssos]] against large-scale monster incursions.
 
 ### The Engineering Corps
-Military and civilian organization responsible for large-scale construction and demolition projects throughout [[Aquabyssos]]. Their evokers specialize in precise applications of destructive force for beneficial purposes.
+Military and civilian organization responsible for large-scale construction and demolition projects throughout [[02_Worldbuilding/Places/Aquabyssos]]. Their evokers specialize in precise applications of destructive force for beneficial purposes.
 
 **Chief Engineer Pressure Shapeforge**: Expert in construction-oriented evocation who can carve complex structures from solid rock using controlled explosive force. His projects include many of the major architectural achievements of underwater civilization.
 
@@ -254,9 +258,9 @@ Evocation magic works synergistically with other magical traditions:
 - **Environmental Impact**: Considering the long-term effects of large-scale destruction
 
 ## Connected Magical Systems
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration|02 Worldbuilding/Lore/Ω System CLI Spells School Abjuration]] - Protective barriers for evocation practitioners
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-conjuration|02 Worldbuilding/Lore/Ω System CLI Spells School Conjuration]] - Summoning energy and effects from other locations
-- [[02_Worldbuilding/Lore/War College of Depths|02 Worldbuilding/Lore/War College Of Depths]] - Military academy for combat evocation
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/System Cli Spells School Abjuration]] - Protective barriers for evocation practitioners
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/System Cli Spells School Conjuration]] - Summoning energy and effects from other locations
+- [[02_Worldbuilding/Lore/War College of Depths]] - Military academy for combat evocation
 - [[02_Worldbuilding/Lore/The Void Currents|02 Worldbuilding/Lore/The Void Currents]] - Source of cosmic destructive energy
 - [[02_Worldbuilding/Lore/Engineering Corps|02 Worldbuilding/Lore/Engineering Corps]] - Organization specializing in construction-oriented destruction
 
@@ -282,9 +286,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Spell Lists|02 Worldbuilding/Lore/Spell Lists]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spell Lists]]
 
 
 ## Connections
 
-- [[Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor]]

@@ -2,28 +2,32 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.305008'
+updated: '2025-08-13T12:34:29.053992+00:00'
 world: Both
 ---
 
 
 
 
+
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/The Final Choice|02 Worldbuilding/Lore/The Final Choice]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
 
 
 ## Connections
 
-- [[Silver Mask]]
-- [[The Final Choice]]
-- [[The Restoration Movement]]
-- [[The Silverscale Conspiracy]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 

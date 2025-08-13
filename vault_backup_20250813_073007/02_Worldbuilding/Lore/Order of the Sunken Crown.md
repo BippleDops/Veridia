@@ -3,16 +3,20 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/lore
+- lore
 - order
 - status/complete
 - sunken-crown
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.400879'
+updated: '2025-08-13T12:34:29.129405+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -56,13 +60,13 @@ Provides political intrigue, ancient mysteries, and moral complexity around legi
 
 ## Connections
 
-- [[Kraken Territories]]
-- [[Leviathan Graveyard]]
-- [[Thalassius the Wise]]
-- [[The Deep Mother]]
-- [[The Seven Shards]]
-- [[The Cerulean Trench]]
-- [[The Primordial Vaults]]
+- [[02_Worldbuilding/Lore/Kraken Territories]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Leviathan Graveyard]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/Places/The Primordial Vaults]]
 
 ## Player-Facing Summary
 
@@ -80,4 +84,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Lore/Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]

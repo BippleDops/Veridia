@@ -2,26 +2,30 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.826049'
+updated: '2025-08-13T12:34:29.517227+00:00'
 world: Both
 ---
 
 
 
 
+
 ## Cross-References
 
-- [[02_Worldbuilding/People/Commander Thrace Ironwood|02 Worldbuilding/People/Commander Thrace Ironwood]]
+- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
 
 
 ## Connections
 
-- [[Commander Thrace Ironwood]]
-- [[Lady Jade Clawgrip]]
+- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
 
 ## Player-Facing Summary
 

@@ -38,7 +38,7 @@ world: Both
 - Fail: Lost in dreams; rescue arc
 
 ## Integrations
-- [[Deep Mother]]; Sanity; campaign arc pivot
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]; Sanity; campaign arc pivot
 
 ## Quick-Run
 - Religion→Sanity; choose bargain; set path stability

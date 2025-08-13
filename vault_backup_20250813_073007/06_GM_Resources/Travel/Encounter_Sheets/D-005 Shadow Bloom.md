@@ -47,8 +47,8 @@ Effects: Dim bright light to dim; creates echo images; imposes Disadvantage on P
 Countermeasures: Anchor hymn (Religion DC 14) reduces DCs by 1 for duration
 
 ## Integrations
-- [[Sanity System]]: apply madness tables
-- [[Complete Reality Merger System]]: on flicker, roll Merger Complications (severity -1 if anchor active)
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanity System]]: apply madness tables
+- [[03_Mechanics/Complete Reality Merger System]]: on flicker, roll Merger Complications (severity -1 if anchor active)
 - [[Memory Trading Economy System|Memory Economy]]: harvestable shadow fragments (illegal, 150 gp)
 
 ## Scaling

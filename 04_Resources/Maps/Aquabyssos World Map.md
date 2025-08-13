@@ -4,19 +4,21 @@ aliases:
 created: '2025-08-12'
 status: draft
 tags:
+- aquabyssos
 - content/lore
+- draft
 - leaflet
+- lore
 - map
 - stable
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:41.210683'
+updated: '2025-08-13T12:34:32.365044+00:00'
 world: Aquabyssos
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.466320
 ---
-
-
-
-
 # Aquabyssos World Map (Leaflet Demo)
 
 Use this interactive map to drop markers that link to locations in Aquabyssos.
@@ -34,10 +36,10 @@ tileServer: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
 marker:
   - coordinates: [42.1, 12.5]
     name: Abyssos Prime
-    link: [[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]
+    link: [[02_Worldbuilding/Places/Abyssos Prime]]
   - coordinates: [41.7, 13.0]
     name: Parliament of Echoes
-    link: [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
+    link: [[02_Worldbuilding/Places/Parliament of Echoes]]
 ``` 
 
 Notes
@@ -46,4 +48,4 @@ Notes
 
 ## Cross-References
 
-- [[AQUABYSSOS_VAULT_README|AQUABYSSOS VAULT README]]
+- [[vault_backup_20250813_073007/Aquabyssos Vault Readme]]

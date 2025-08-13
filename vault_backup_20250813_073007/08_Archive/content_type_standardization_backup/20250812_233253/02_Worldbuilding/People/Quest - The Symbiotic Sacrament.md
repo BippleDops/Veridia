@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.894412+00:00'
+updated: '2025-08-13T12:34:28.188956+00:00'
 world: Both
 type: NPC
 status: complete
 tags:
 - active
 - both
+- complete
 - npc
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-symbiotic-sacrament-quest-the-symbiotic-sacrament.svg)

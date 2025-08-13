@@ -3,17 +3,21 @@ audience: player
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - doctrine
 - handout
+- lore
 - status/complete
 - world/both
 title: Player Handout — Crystal Artillery Doctrine
 type: Lore
-updated: '2025-08-12T23:37:41.215970'
+updated: '2025-08-13T12:34:32.377057+00:00'
 world: Both
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.468225
 ---
-
-
 # Crystal Artillery
 
 How it feels
@@ -31,4 +35,4 @@ Risks
 
 ## Cross-References
 
-- [[04_Resources/Handouts/Doctrines/Doctrine_Quick_Reference|04 Resources/Handouts/Doctrines/Doctrine Quick Reference]]
+- [[04_Resources/Handouts/Doctrines/Doctrine Quick Reference]]

@@ -49,7 +49,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[Discover Marina's Truth]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
 - [[Quest - Nature's Balance]]
 - [[Quest - The Pretender's Crown]]
 - [[The Crown's Burden]]

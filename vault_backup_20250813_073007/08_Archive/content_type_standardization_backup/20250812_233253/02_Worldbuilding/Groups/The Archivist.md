@@ -2,13 +2,15 @@
 tags:
 - active
 - both
+- complete
 - group
 type: Group
 world: Both
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.697836+00:00'
+updated: '2025-08-13T12:34:27.961279+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-archivist-the-archivist.svg)

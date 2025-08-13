@@ -6,13 +6,15 @@ tags:
 - active
 - aquabyssos
 - both
+- complete
 - npc
 - parliament
 - shadow-replaced
 first_name: Glaucus
 last_name: Tidecaller
 location: '[[Abyssos Prime - Parliament of Echoes]]'
-faction: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
+faction: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]]'
 secondary_faction: '[[Shadow Conspiracy]]'
 occupation: Senator (Shadow-replaced)
 disposition: -2
@@ -32,8 +34,10 @@ depth_adapted: 4
 portrait: ''
 relationship_type: political
 relationships:
-- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'
-- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered
+  Emperor]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess
+  Nyx]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
 - '[[Original Glaucus]] (imprisoned)'
 related_quests:
@@ -56,10 +60,11 @@ secrets:
 - Knows location of shadow transformation facility
 - Original Glaucus still alive but imprisoned
 created: '2025-08-07'
-updated: '2025-08-13T01:18:37.013844+00:00'
+updated: '2025-08-13T12:34:28.341881+00:00'
 obsidianUIMode: preview
 world: Both
 ---
+
 
 
 

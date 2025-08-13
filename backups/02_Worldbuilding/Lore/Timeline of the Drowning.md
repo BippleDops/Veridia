@@ -29,15 +29,15 @@ updated: '2025-08-11T00:00:00+00:00'
 
 ## Overview
 
-The Drowning represents the cataclysmic transformation of a surface civilization into the underwater realm of [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Unlike a simple flood, this was a gradual, supernatural process spanning decades that fundamentally altered not just geography, but the very nature of reality, consciousness, and life itself. The event was both natural disaster and divine intervention, orchestrated by the stirring dreams of [[The Deep Mother]] as she began her long awakening.
+The Drowning represents the cataclysmic transformation of a surface civilization into the underwater realm of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Unlike a simple flood, this was a gradual, supernatural process spanning decades that fundamentally altered not just geography, but the very nature of reality, consciousness, and life itself. The event was both natural disaster and divine intervention, orchestrated by the stirring dreams of [[The Deep Mother]] as she began her long awakening.
 
 ## Pre-Drowning Era: The Tethyan Hegemony
 *Dates: Ancient Era - Year 0 (Before Submersion)*
 
 ### The Surface Empire
 **Years -2000 to -500 BS (Before Submersion)**
-- Massive continental empire centered around the [[Tethyan Basin]]
-- Advanced civilization with crystal-based technology similar to [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
+- Massive continental empire centered around the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tethyan Basin]]
+- Advanced civilization with crystal-based technology similar to [[02_Worldbuilding/Places/Aethermoor]]
 - Population of approximately 50 million across seven major city-states
 - Sophisticated understanding of pressure, water, and depth-based engineering
 - Complex trade networks spanning three continents
@@ -45,13 +45,13 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 
 ### The Great Cities (Pre-Submersion)
 **Major Population Centers:**
-1. **Tethyopolis** (Capital) - 8 million residents, now [[The Parliament of Echoes]]
-2. **Benthica** (Military Hub) - 4 million residents, now [[The Citadel of Depths]]
-3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal|02 Worldbuilding/Places/Abyssos Prime Pressure Terminal]]
-4. **Pelagia** (Religious Center) - 2 million residents, now [[The Temple of First Tide]]
-5. **Hadalia** (Industrial Hub) - 5 million residents, now [[The Forge Depths]]
-6. **Nereia** (Academic Center) - 3 million residents, now [[The Memory Vaults]]
-7. **Oceania** (Agricultural Hub) - 4 million residents, now [[The Kelp Territories]]
+1. **Tethyopolis** (Capital) - 8 million residents, now [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Echoes]]
+2. **Benthica** (Military Hub) - 4 million residents, now [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Citadel of Depths]]
+3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
+4. **Pelagia** (Religious Center) - 2 million residents, now [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Temple of First Tide]]
+5. **Hadalia** (Industrial Hub) - 5 million residents, now [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forge Depths]]
+6. **Nereia** (Academic Center) - 3 million residents, now [[02_Worldbuilding/Lore/The Memory Vaults]]
+7. **Oceania** (Agricultural Hub) - 4 million residents, now [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Kelp Territories]]
 
 ### Technological Achievements
 **Scientific Advances:**
@@ -172,7 +172,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - **The Depth Constitution** (Year 37 AS): Formal legal framework for underwater society
 - **The Deep Trade Establishment** (Year 40 AS): Economic networks spanning all depth zones
 - **The Memory Academies** (Year 43 AS): Educational institutions teaching pressure-based disciplines
-- **The Aboleth Integration** (Year 46 AS): [[Aboleth Prime Yoth]] accepts position as advisor to government
+- **The Aboleth Integration** (Year 46 AS): [[02_Worldbuilding/People/Aboleth Prime Yoth]] accepts position as advisor to government
 - **The Final Descent** (Year 49 AS): Deepest settlements reach the [[Hadal Depths]]
 
 ## Post-Drowning Developments
@@ -191,16 +191,16 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Gradual increase in shadow corruption phenomena
 - Development of shadow-manipulation technologies
 - First major conflicts with shadow entities
-- Discovery of connections to surface world [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
+- Discovery of connections to surface world [[02_Worldbuilding/Places/Aethermoor]]
 - Beginning of dimensional research programs
 
 ### The Memory Wars
 **Years 400-600 AS**
 - Conflicts over control of memory-manipulation technology
-- Rise of the [[02_Worldbuilding/People/Sire|02 Worldbuilding/People/Sire]] class
+- Rise of the [[vault_backup_20250813_073007/02_Worldbuilding/People/Sire]] class
 - Development of memory-based weapons and defenses
 - Establishment of memory-preservation protocols
-- Creation of the [[Memory Vault]] system
+- Creation of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Vault]] system
 
 ### The Modern Era
 **Years 600+ AS (Current Time)**
@@ -365,7 +365,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Religious authority advising secular power
 
 **Post-Drowning Parliament System:**
-- **[[Parliament of Echoes]]**: Democratic assembly in former capital
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Democratic assembly in former capital
 - **Depth Councils**: Representatives from each pressure zone
 - **Memory Tribunals**: Judicial system using memory evidence
 - **Shadow Integration Board**: Managing corruption phenomena
@@ -495,7 +495,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Shadow corruption continues to spread and evolve
 - Memory alteration creates questions about historical accuracy
 - Depth hierarchy creates social inequality and conflict
-- Connection to surface world [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]] raises identity questions
+- Connection to surface world [[02_Worldbuilding/Places/Aethermoor]] raises identity questions
 - [[The Deep Mother]]'s increasing activity creates uncertainty
 
 **Future Concerns:**
@@ -524,47 +524,47 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 
 ### Key Figures
 - [[The Deep Mother]] - Divine entity orchestrating the Drowning
-- [[Aboleth Prime Yoth]] - Ancient witness and participant
-- [[The Scattered Emperor]] - Pre-Drowning ruler who adapted to survive
-- [[Prophet Nerida Voidgazer]] - Modern interpreter of Drowning prophecy
-- [[High Priestess Scylla Deepdream]] - Religious leader connecting to Deep Mother
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Ancient witness and participant
+- [[02_Worldbuilding/People/The Scattered Emperor]] - Pre-Drowning ruler who adapted to survive
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Modern interpreter of Drowning prophecy
+- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]] - Religious leader connecting to Deep Mother
 
 ### Related Events
-- [[The Great Crystallization]] - Parallel event in [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]
+- [[The Great Crystallization]] - Parallel event in [[02_Worldbuilding/Places/Aethermoor]]
 - [[The Convergence Point]] - Potential reversal or transformation
-- [[The Deep Mother Rises]] - Culmination of the awakening process
-- [[The Shadow Integration]] - Managing corruption as natural phenomenon
-- [[The Memory Synthesis]] - Combining pre and post-Drowning knowledge
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother Rises]] - Culmination of the awakening process
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Integration]] - Managing corruption as natural phenomenon
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Synthesis]] - Combining pre and post-Drowning knowledge
 
 ### Important Locations
-- [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Former capital, now government center
-- [[The Hadal Depths]] - Deepest regions where [[The Deep Mother]] rests
-- [[The Memory Vaults]] - Preserved pre-Drowning knowledge and experiences
-- [[The Pressure Forges]] - Industrial centers using depth for manufacturing
-- [[The Shadow Markets]] - Centers of corruption-based commerce
+- [[02_Worldbuilding/Places/Parliament of Echoes]] - Former capital, now government center
+- [[02_Worldbuilding/Places/The Hadal Depths]] - Deepest regions where [[The Deep Mother]] rests
+- [[02_Worldbuilding/Lore/The Memory Vaults]] - Preserved pre-Drowning knowledge and experiences
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Pressure Forges]] - Industrial centers using depth for manufacturing
+- [[02_Worldbuilding/Places/The Shadow Markets]] - Centers of corruption-based commerce
 
 ### Artifacts and Technology
-- [[02_Worldbuilding/Lore/Deep Archives|02 Worldbuilding/Lore/Deep Archives]] - Complete record of Drowning process
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Archives]] - Complete record of Drowning process
 - [[Memory Crystals]] - Technology preserving pre-Drowning experiences
-- [[The Pressure Crown]] - Symbol of successful adaptation
-- [[02_Worldbuilding/Lore/The Shadow Integration|02 Worldbuilding/Lore/The Shadow Integration]] - Methods for managing corruption
-- [[The Current Maps]] - Navigation systems for underwater travel
+- [[02_Worldbuilding/Places/The Pressure Crown]] - Symbol of successful adaptation
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Integration]] - Methods for managing corruption
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Current Maps]] - Navigation systems for underwater travel
 
 ---
 
 *"The Drowning was not the end of our world, but the birth of our true nature."*
-*- Inscription at the [[Parliament of Echoes]]*
+*- Inscription at the [[02_Worldbuilding/Places/Parliament of Echoes]]*
 
 
 ## Connections
 
 - [[Healing Two Worlds]]
-- [[Memory Alteration Consequences]]
-- [[Merged Reality Zones]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alteration Consequences]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
 - [[Thalassius the Wise]]
 - [[The Convergence Point]]
 - [[The Drowning Welcome]]
-- [[The Memory Weapon Arms Race]]
+- [[02_Worldbuilding/Lore/The Memory Weapon Arms Race]]
 - [[The Queen]]
 - [[The Real Marina]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
@@ -593,9 +593,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Master_Lore_Index|Master Lore Index]]
 - [[The Great Crystallization]]
-- [[Aboleth Prime Yoth]]
-- [[High Priestess Scylla Deepdream]]
-- [[Prophet Nerida Voidgazer]]
-- [[The Scattered Emperor]]
-- [[Parliament of Echoes]]
-- [[The Hadal Depths]]
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
+- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]]
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[02_Worldbuilding/People/The Scattered Emperor]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]

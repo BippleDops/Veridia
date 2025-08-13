@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
+- lore
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.449968'
+updated: '2025-08-13T12:34:29.195354+00:00'
 world: Aquabyssos
 ---
+
 
 
 
@@ -41,10 +45,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/The Pressure Conspiracy|02 Worldbuilding/Places/The Pressure Conspiracy]]
+- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
 
 
 ## Connections
 
-- [[Abyssos Prime - Inverse Palace]]
-- [[The Pressure Conspiracy]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [[02_Worldbuilding/Places/The Pressure Conspiracy]]

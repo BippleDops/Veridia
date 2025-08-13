@@ -18,12 +18,10 @@ tags:
 type: Lore
 updated: '2025-08-12T23:37:32.978053'
 world: Both
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.494011
 ---
-
-
-
-
-
 # 🧭 AQUABYSSOS & AETHERMOOR - Vault Navigation Hub
 
 > *Your complete guide to navigating the twin realms where ocean depths meet sky kingdoms*
@@ -32,8 +30,8 @@ world: Both
 
 ### Essential Documents
 - [[Campaign_Dashboard|Campaign Dashboard]] - Live session tracker & DM tools
-- [[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] - Complete setting guide  
-- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]] - Rules & mechanics at a glance
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Complete setting guide  
+- [[vault_backup_20250813_073007/Campaign Quick Reference Sheets]] - Rules & mechanics at a glance
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]] - NPC & faction connections
 - [[Master_Campaign_Index|Master Campaign Index]] - Complete content directory
 
@@ -48,93 +46,93 @@ world: Both
 ### 🌊 AQUABYSSOS - The Sunken Kingdoms
 
 #### Major Cities
-- [[The Silent Marketplace]] - Trade hub of the depths
-- [[Port Meridian]] - Gateway between worlds
-- [[The Crystal Forest]] - Living mineral groves
-- [[The Sunken Palace]] - Ancient seat of power
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silent Marketplace]] - Trade hub of the depths
+- [[02_Worldbuilding/Places/Port Meridian]] - Gateway between worlds
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Forest]] - Living mineral groves
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Palace]] - Ancient seat of power
 
 #### Key Districts  
-- [[The Forge of War]] - Military industrial complex
-- [[Port Meridian - Harbor District]] - Maritime commerce
-- [[Port Meridian - Market District]] - General trade
-- [[The Living Docks]] - Biotechnology harbor
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forge of War]] - Military industrial complex
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Harbor District]] - Maritime commerce
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Market District]] - General trade
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Living Docks]] - Biotechnology harbor
 
 #### Natural Features
-- [[02_Worldbuilding/Lore/NPC |02 Worldbuilding/Lore/NPC]] - Underwater trade routes
-- [[The Void Touched Depths]] - Corrupted ocean floor
-- [[The Bloom Fields]] - Bioluminescent gardens
-- [[The Pressure Crown]] - Deep sea power nexus
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Npc]] - Underwater trade routes
+- [[02_Worldbuilding/Places/The Void Touched Depths]] - Corrupted ocean floor
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bloom Fields]] - Bioluminescent gardens
+- [[02_Worldbuilding/Places/The Pressure Crown]] - Deep sea power nexus
 
 ### ☁️ AETHERMOOR - The Sky Kingdoms
 
 #### Major Cities
-- [[Skyhold Citadel]] - Capital of the clouds
-- [[Windweaver Spire]] - Magical academy
-- [[The Floating Markets]] - Aerial trade center
-- [[Stormwatch Keep]] - Military stronghold
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Skyhold Citadel]] - Capital of the clouds
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Windweaver Spire]] - Magical academy
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Floating Markets]] - Aerial trade center
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Stormwatch Keep]] - Military stronghold
 
 #### Key Features
-- [[The Wind Roads]] - Aerial travel routes
-- [[Cloud Gardens]] - Agricultural platforms
-- [[The Lightning Forge]] - Storm-powered industry
-- [[The Observatory]] - Knowledge center
-- [[The Singing Shadows]] - Mysterious acoustic phenomena
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Wind Roads]] - Aerial travel routes
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Cloud Gardens]] - Agricultural platforms
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Lightning Forge]] - Storm-powered industry
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Observatory]] - Knowledge center
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Singing Shadows]] - Mysterious acoustic phenomena
 
 ## 👥 Major Players
 
 ### Power Brokers
-- [[Admiral Coralheart]] - Aquabyssos naval commander
-- [[Sky Marshal Windstrider]] - Aethermoor defense chief
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Admiral Coralheart]] - Aquabyssos naval commander
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sky Marshal Windstrider]] - Aethermoor defense chief
 - [[The Deep Mother]] - Ancient entity of the depths
-- [[Elder Stormcaller]] - Weather control master
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Elder Stormcaller]] - Weather control master
 
 ### Key NPCs by Role
-- **Merchants**: [[Balta Kaine]], [[Memory Merchant Valeria]], [[Forge Master Thorne]]
-- **Mystics**: [[The Tidecaller]], [[Oracle Mistweaver]], [[Void Prophet Zephyr]]
-- **Adventurers**: [[Captain Nautilus]], [[Ranger Skybow]], [[Scout Deepfinder]]
-- **Faction Leaders**: [[Guild Master Shellforge]], [[Matriarch Cloudweaver]]
+- **Merchants**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Balta Kaine]], [[02_Worldbuilding/Lore/Memory Merchant Valeria]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Forge Master Thorne]]
+- **Mystics**: [[02_Worldbuilding/People/The Tidecaller]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Oracle Mistweaver]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Void Prophet Zephyr]]
+- **Adventurers**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Nautilus]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ranger Skybow]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Scout Deepfinder]]
+- **Faction Leaders**: [[02_Worldbuilding/People/Guild Master Shellforge]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Matriarch Cloudweaver]]
 
 ## 🏛️ Major Factions
 
 ### Political Powers
 - [[United Councils of Both Worlds]] - Joint governance
-- [[The Depth Wardens]] - Aquabyssos protectors
-- [[Sky Sovereign Alliance]] - Aethermoor coalition
-- [[The Neutral Zones Treaty]] - Peace keepers
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Depth Wardens]] - Aquabyssos protectors
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sky Sovereign Alliance]] - Aethermoor coalition
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Neutral Zones Treaty]] - Peace keepers
 
 ### Secret Organizations
 - [[The Crimson Hand]] - Shadow operatives
-- [[Void Touched Cult]] - Corruption spreaders
-- [[The Preservers]] - Ancient knowledge guardians
-- [[02_Worldbuilding/Groups/Shadow Market Syndicat|02 Worldbuilding/Groups/Shadow Market Syndicat]] - Underground trade
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Void Touched Cult]] - Corruption spreaders
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Preservers]] - Ancient knowledge guardians
+- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Market Syndicat]] - Underground trade
 
 ## 📚 Lore & History
 
 ### Core Concepts
-- [[Timeline of the Catastrophe]] - The world-changing event
-- [[The Merging]] - Planar collision aftermath
-- [[02_Worldbuilding/Lore/Pressure Magic|02 Worldbuilding/Lore/Pressure Magic]] - Aquabyssos power source
-- [[Wind Song Traditions]] - Aethermoor culture
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Catastrophe]] - The world-changing event
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Merging]] - Planar collision aftermath
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Magic]] - Aquabyssos power source
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Wind Song Traditions]] - Aethermoor culture
 
 ### Mysteries & Secrets
-- [[The Void Conspiracy]] - Reality's threat
-- [[Lost Archives]] - Forgotten knowledge
-- [[The Prophecy of Tides]] - Future visions
-- [[Ancient Pacts]] - Binding agreements
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Void Conspiracy]] - Reality's threat
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lost Archives]] - Forgotten knowledge
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Prophecy of Tides]] - Future visions
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ancient Pacts]] - Binding agreements
 
 ## 🎲 Game Resources
 
 ### DM Tools
 - [[Campaign_Dashboard|Campaign Dashboard]] - Live tracking
-- [[Random_Encounter_Tables|Random Encounter Tables]] - Quick content
-- [[Treasure_Generators|Treasure Generators]] - Loot systems
-- [[NPC_Generator|NPC Generator]] - Quick characters
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random_Encounter_Tables]] - Quick content
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Treasure Generators]] - Loot systems
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Npc Generator]] - Quick characters
 
 ### Player Resources
-- [[Character_Creation_Guide|Character Creation Guide]] - Build heroes
-- [[Equipment_Catalogs|Equipment Catalogs]] - Gear lists
-- [[Spell_Compendiums|Spell Compendiums]] - Magic reference
-- [[Player_Handouts|Player Handouts]] - In-game documents
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Character Creation Guide]] - Build heroes
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Equipment Catalogs]] - Gear lists
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spell Compendiums]] - Magic reference
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Player Handouts]] - In-game documents
 
 ## 🗂️ Master Indexes
 
@@ -148,62 +146,62 @@ world: Both
 ## ⚡ Quick Start Adventures
 
 ### Levels 1-5: Local Heroes
-- [[Quest - Missing Shipments]] - Trade route mystery
-- [[Quest - The Haunted Depths]] - Underwater horror
-- [[Quest - Sky Pirates]] - Aerial bandits
-- [[Quest - Crystal Corruption]] - Environmental threat
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Missing Shipments]] - Trade route mystery
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Haunted Depths]] - Underwater horror
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Sky Pirates]] - Aerial bandits
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Crystal Corruption]] - Environmental threat
 
 ### Levels 6-10: Regional Champions
-- [[Quest - The Void Conspiracy]] - Reality breach
-- [[Quest - War of Tides]] - Faction conflict
-- [[Quest - The Lost City]] - Ancient exploration
-- [[Quest - Storm Lord's Challenge]] - Elemental trial
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Void Conspiracy]] - Reality breach
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - War of Tides]] - Faction conflict
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Lost City]] - Ancient exploration
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - Storm Lord's Challenge]] - Elemental trial
 
 ### Levels 11-15: World Shapers
-- [[Quest - The Deep Mother Awakens]] - Cosmic threat
-- [[Quest - Planar Convergence]] - Reality merger
-- [[Quest - The Final Tide]] - Apocalyptic prevention
-- [[Quest - Ascension]] - Godhood paths
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Deep Mother Awakens]] - Cosmic threat
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Planar Convergence]] - Reality merger
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Final Tide]] - Apocalyptic prevention
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Ascension]] - Godhood paths
 
 ## 🛠️ Mechanics & Systems
 
 ### Unique Rules
-- [[Pressure & Depth Mechanics]] - Underwater survival
-- [[Altitude & Wind Effects]] - Aerial navigation
-- [[Corruption & Sanity]] - Mental health tracking
-- [[Faction Reputation]] - Social standing
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure & Depth Mechanics]] - Underwater survival
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Altitude & Wind Effects]] - Aerial navigation
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corruption & Sanity]] - Mental health tracking
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Faction Reputation]] - Social standing
 
 ### Magic Systems
-- [[Pressure Magic]] - Aquabyssos spellcasting
-- [[Wind Songs]] - Aethermoor traditions
-- [[Void Touch]] - Corruption powers
-- [[Merged Magic]] - Hybrid techniques
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Magic]] - Aquabyssos spellcasting
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Wind Songs]] - Aethermoor traditions
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Void Touch]] - Corruption powers
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merged Magic]] - Hybrid techniques
 
 ## 📊 Campaign Management
 
 ### Session Tools
-- [[Session_Zero_Checklist|Session Zero Checklist]] - Campaign setup
-- [[Session_Notes_Template|Session Notes Template]] - Documentation
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Zero Checklist]] - Campaign setup
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Notes Template]] - Documentation
 - [[Initiative_Tracker|Initiative Tracker]] - Combat management
-- [[Campaign_Calendar|Campaign Calendar]] - Timeline tracking
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Calendar]] - Timeline tracking
 
 ### World Building
-- [[Random_Location_Generator|Random Location Generator]] - Quick places
-- [[Culture_Builder|Culture Builder]] - Society creation
-- [[Faction_Relationship_Web|Faction Relationship Web]] - Politics tracker
-- [[Economic_Systems|Economic Systems]] - Trade & commerce
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random Location Generator]] - Quick places
+- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Culture Builder]] - Society creation
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Faction Relationship Web]] - Politics tracker
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Economic Systems]] - Trade & commerce
 
 ## 🌟 Featured Content
 
 ### New Additions
-- [[03_Mechanics/Deep_Mother_Subsystem|03 Mechanics/Deep Mother Subsystem]] - Eldritch horror mechanics
-- [[03_Mechanics/Sanity_Horror_Framework|03 Mechanics/Sanity Horror Framework]] - Mental health rules
-- [[03_Mechanics/Transformation_Compendium|03 Mechanics/Transformation Compendium]] - Mutation systems
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep_Mother_Subsystem]] - Eldritch horror mechanics
+- [[vault_backup_20250813_073007/03_Mechanics/Sanity Horror Framework]] - Mental health rules
+- [[vault_backup_20250813_073007/03_Mechanics/Transformation Compendium]] - Mutation systems
 
 ### Recently Updated
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]] - Complete NPC connections
-- [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Comprehensive setting guide
-- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]] - Enhanced quick references
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Comprehensive setting guide
+- [[vault_backup_20250813_073007/Campaign Quick Reference Sheets]] - Enhanced quick references
 
 ## 🎭 Quick Reference
 
@@ -239,68 +237,68 @@ world: Both
 
 ## Connections
 
-- [[Culture_Builder|Culture Builder]]
-- [[Guild Master Shellforge]]
-- [[02_Worldbuilding/Groups/Shadow Market Syndicat|02 Worldbuilding/Groups/Shadow Market Syndicat]]
-- [[Void Touched Cult]]
-- [[Altitude & Wind Effects]]
-- [[Balta Kaine]]
-- [[Campaign_Calendar|Campaign Calendar]]
-- [[Character_Creation_Guide|Character Creation Guide]]
-- [[Cloud Gardens]]
-- [[Corruption & Sanity]]
-- [[Economic_Systems|Economic Systems]]
-- [[Elder Stormcaller]]
-- [[Equipment_Catalogs|Equipment Catalogs]]
-- [[Faction Reputation]]
-- [[Forge Master Thorne]]
-- [[Lost Archives]]
-- [[Matriarch Cloudweaver]]
-- [[NPC ]]
-- [[NPC_Generator|NPC Generator]]
-- [[Oracle Mistweaver]]
-- [[Player_Handouts|Player Handouts]]
-- [[Pressure & Depth Mechanics]]
-- [[02_Worldbuilding/Lore/Pressure Magic|02 Worldbuilding/Lore/Pressure Magic]]
-- [[Pressure Magic]]
-- [[Quest - Ascension]]
-- [[Quest - Crystal Corruption]]
-- [[Quest - Missing Shipments]]
-- [[Quest - Planar Convergence]]
-- [[Quest - Sky Pirates]]
-- [[Quest - The Final Tide]]
-- [[Quest - The Haunted Depths]]
-- [[Quest - The Lost City]]
-- [[Quest - War of Tides]]
-- [[Random_Encounter_Tables|Random Encounter Tables]]
-- [[Random_Location_Generator|Random Location Generator]]
-- [[Ranger Skybow]]
-- [[Scout Deepfinder]]
-- [[Session_Notes_Template|Session Notes Template]]
-- [[Session_Zero_Checklist|Session Zero Checklist]]
-- [[Sky Marshal Windstrider]]
-- [[The Bloom Fields]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Culture Builder]]
+- [[02_Worldbuilding/People/Guild Master Shellforge]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Market Syndicat]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Void Touched Cult]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Altitude & Wind Effects]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Balta Kaine]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Calendar]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Character Creation Guide]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Cloud Gardens]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corruption & Sanity]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Economic Systems]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Elder Stormcaller]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Equipment Catalogs]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Faction Reputation]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Forge Master Thorne]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lost Archives]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Matriarch Cloudweaver]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Npc]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Npc Generator]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Oracle Mistweaver]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Player Handouts]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure & Depth Mechanics]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Magic]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Magic]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Ascension]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Crystal Corruption]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Missing Shipments]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Planar Convergence]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Sky Pirates]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Final Tide]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Haunted Depths]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Lost City]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - War of Tides]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random_Encounter_Tables]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random Location Generator]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ranger Skybow]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Scout Deepfinder]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Notes Template]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Zero Checklist]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sky Marshal Windstrider]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bloom Fields]]
 - [[The Crimson Hand]]
-- [[The Crystal Forest]]
-- [[The Floating Markets]]
-- [[The Forge of War]]
-- [[The Lightning Forge]]
-- [[The Living Docks]]
-- [[The Merging]]
-- [[The Neutral Zones Treaty]]
-- [[The Preservers]]
-- [[The Prophecy of Tides]]
-- [[The Silent Marketplace]]
-- [[The Void Conspiracy]]
-- [[The Wind Roads]]
-- [[Timeline of the Catastrophe]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Forest]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Floating Markets]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forge of War]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Lightning Forge]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Living Docks]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Merging]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Neutral Zones Treaty]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Preservers]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Prophecy of Tides]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silent Marketplace]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Void Conspiracy]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Wind Roads]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Catastrophe]]
 - [[United Councils of Both Worlds]]
-- [[Void Prophet Zephyr]]
-- [[Void Touch]]
-- [[Windweaver Spire]]
-- [[Deep_Mother_Subsystem|Deep Mother Subsystem]]
-- [[Sanity_Horror_Framework|Sanity Horror Framework]]
-- [[Transformation_Compendium|Transformation Compendium]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Void Prophet Zephyr]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Void Touch]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Windweaver Spire]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep_Mother_Subsystem]]
+- [[vault_backup_20250813_073007/03_Mechanics/Sanity Horror Framework]]
+- [[vault_backup_20250813_073007/03_Mechanics/Transformation Compendium]]
 - [[Campaign_Dashboard|Campaign Dashboard]]
-- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
+- [[vault_backup_20250813_073007/Campaign Quick Reference Sheets]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

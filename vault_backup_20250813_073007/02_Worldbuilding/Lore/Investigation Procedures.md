@@ -4,7 +4,10 @@ date_created: '2025-08-11'
 date_modified: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - mechanics/exploration
 - procedures
 - status/complete
@@ -12,9 +15,10 @@ tags:
 - world/both
 - worldbuilding
 type: Lore
-updated: '2025-08-12T23:37:37.830357'
+updated: '2025-08-13T12:34:28.597486+00:00'
 world: Both
 ---
+
 
 
 
@@ -119,11 +123,11 @@ Procedural knowledge becomes crucial for uncovering larger conspiracies and navi
 Mastery of investigation procedures allows the party to uncover the deepest secrets of Aquabyssos and solve mysteries that have persisted for generations.
 
 ## Related Lore
-- [[The Pearl Guard]]
-- [[The Shadow Warren]]
-- [[Corruption Exposure Tracking]]
-- [[Spymaster Crow]]
-- [[Crystal corruption mechanics]]
+- [[02_Worldbuilding/People/The Pearl Guard]]
+- [[02_Worldbuilding/People/The Shadow Warren]]
+- [[02_Worldbuilding/Lore/Corruption Exposure Tracking]]
+- [[02_Worldbuilding/Places/Spymaster Crow]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal corruption mechanics]]
 
 ## DM Guidance
 ### Running This Element
@@ -142,21 +146,21 @@ Adapt procedures to reflect your campaign's tone - more bureaucratic for politic
 
 ## Connections
 
-- [[Citizens of Meridian]]
-- [[Crimson Hand Strike Team]]
-- [[Evidence Chain Analysis]]
-- [[Evidence Types Guide]]
-- [[Fear Farms]]
-- [[Pressure Tube Operator Krill]]
-- [[Random Encounters]]
-- [[Reputation System]]
-- [[Session 0 - Aquabyssos]]
-- [[Silver Mask]]
-- [[Spell Components]]
-- [[Thalassius the Wise]]
-- [[The Deep Mother]]
-- [[The Restoration Movement]]
-- [[The Silverscale Conspiracy]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Citizens of Meridian]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crimson Hand Strike Team]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[02_Worldbuilding/Lore/Evidence Types Guide]]
+- [[02_Worldbuilding/Lore/Fear Farms]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Tube Operator Krill]]
+- [[02_Worldbuilding/Lore/Random Encounters]]
+- [[02_Worldbuilding/Lore/Reputation System]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session 0 - Aquabyssos]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spell Components]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 

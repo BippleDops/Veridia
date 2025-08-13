@@ -14,9 +14,10 @@ total_lore_entries: 194
 type: Lore
 updated: '2025-08-12T23:37:32.984220'
 world: Universal
+timeline: current_era
+chronology: active
+updated: 2025-08-13T07:59:50.494449
 ---
-
-
 # Master Lore Index
 *Comprehensive Directory of All Lore, History, and World Knowledge*
 
@@ -43,21 +44,21 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Ancient Era (Pre-Drowning)
 
-#### **[[Ancient Aquabyssos Rulers]]** - The First Dynasties
+#### **[[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers]]** - The First Dynasties
 - **Era**: Pre-Drowning (1000+ years ago)
 - **Significance**: Foundation of underwater civilization governance
 - **Key Figures**: First Emperor lineage, ancient court structure
 - **Modern Relevance**: Legitimacy claims, ancient laws, buried treasures
 - **Adventure Hooks**: Archaeological discoveries, succession disputes, ancient magic
 
-#### **[[The Sundering]]** - The Great Division
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sundering]]** - The Great Division
 - **Era**: Ancient Past
 - **Significance**: Original separation of the two worlds
 - **Key Elements**: Reality fracture, world division, cosmic forces
 - **Modern Impact**: Ongoing reality instability, merger possibilities
 - **Campaign Role**: Ultimate origin story, world-healing quests
 
-#### **[[Ancient Mer-Folk Empire]]** - The Precursor Civilization
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]** - The Precursor Civilization
 - **Era**: Pre-Drowning Era
 - **Significance**: Advanced underwater civilization before current order
 - **Technology**: Pre-drowning architecture, ancient magic systems
@@ -73,14 +74,14 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Consequences**: Cultural trauma, technological adaptation, social restructuring
 - **Modern Effects**: Memory issues, adaptation technologies, social hierarchies
 
-#### **[[The Bathyal Succession]]** - Depth-Based Politics
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bathyal Succession]]** - Depth-Based Politics
 - **Era**: Post-Drowning (400 years ago)
 - **Significance**: Establishment of depth-based social hierarchy
 - **Key Principles**: Pressure adaptation as social status, governmental organization by depth
 - **Modern Impact**: Current social systems, political structures, class conflicts
 - **Adventure Elements**: Social mobility quests, political reform, class warfare
 
-#### **[[The Shattering of the Crown]]** - Imperial Crisis
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shattering of the Crown]]** - Imperial Crisis
 - **Era**: Medieval Period (300 years ago)
 - **Significance**: Destruction of unified imperial authority
 - **Key Events**: Crown destruction, power fragmentation, shard scattering
@@ -89,21 +90,21 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Recent History (100-10 years ago)
 
-#### **[[The Restoration Movement]]** - Reform Efforts
+#### **[[02_Worldbuilding/Lore/The Restoration Movement]]** - Reform Efforts
 - **Era**: Recent Past (50-20 years ago)
 - **Significance**: Attempts to restore unified governance and ancient ways
 - **Key Figures**: Reform leaders, political activists, cultural preservationists
 - **Outcomes**: Partial success, ongoing political tensions, cultural revival
 - **Modern Politics**: Current reform parties, conservative opposition, moderate compromises
 
-#### **[[Eastern Kingdoms]]** - Foreign Relations
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdoms]]** - Foreign Relations
 - **Era**: Ongoing (100 years to present)
 - **Significance**: Complex international relationships affecting both worlds
 - **Key Elements**: Trade relationships, diplomatic tensions, military conflicts
 - **Modern Impact**: Foreign influence, trade dependencies, alliance politics
 - **Adventure Potential**: Diplomatic missions, trade wars, espionage activities
 
-#### **[[Timeline of Crimes]]** - Modern Mysteries
+#### **[[02_Worldbuilding/Lore/Timeline of Crimes]]** - Modern Mysteries
 - **Era**: Recent (20 years to present)
 - **Significance**: Pattern of criminal activities and conspiracies
 - **Key Elements**: Political assassinations, theft patterns, conspiracy connections
@@ -112,14 +113,14 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Contemporary Events (Present Day)
 
-#### **[[The Silverscale Conspiracy]]** - Current Crisis
+#### **[[02_Worldbuilding/Lore/The Silverscale Conspiracy]]** - Current Crisis
 - **Era**: Immediate Present
 - **Significance**: Modern financial and political corruption scandal
 - **Key Players**: Silverscale Consortium, government officials, criminal networks
 - **Current Status**: Active investigation, political ramifications, economic effects
 - **Adventure Opportunities**: Investigation missions, political intrigue, economic warfare
 
-#### **[[The Shadow Conspiracy]]** - Ongoing Threat
+#### **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]** - Ongoing Threat
 - **Era**: Current
 - **Significance**: Shadow magic manipulation affecting government and society
 - **Key Elements**: Memory manipulation, shadow surgery, political control
@@ -132,7 +133,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Government Systems
 
-#### **[[Aquabyssos Depth Caste System]]** - Social Stratification
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Depth Caste System]]** - Social Stratification
 - **World**: Aquabyssos
 - **Type**: Social/Political System
 - **Key Elements**: Depth-based social hierarchy, pressure adaptation requirements
@@ -140,7 +141,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Conflicts**: Class warfare, adaptation requirements, equality movements
 - **Adventure Integration**: Social climbing quests, revolution potential, reform movements
 
-#### **[[Legal System of Aquabyssos]]** - Justice Structure
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Legal System of Aquabyssos]]** - Justice Structure
 - **World**: Aquabyssos
 - **Type**: Legal Framework
 - **Key Elements**: Depth-adapted courts, memory-based evidence, pressure-qualified judges
@@ -173,14 +174,14 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Conspiracy and Corruption
 
-#### **[[Evidence Chain Analysis]]** - Investigation Framework
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]** - Investigation Framework
 - **World**: Universal
 - **Type**: Investigative Methodology
 - **Purpose**: Tracking evidence connections, building conspiracy cases, uncovering truth
 - **Key Elements**: Evidence types, connection mapping, proof standards
 - **Campaign Integration**: Mystery adventures, investigative campaigns, conspiracy exposure
 
-#### **[[Evidence Types Guide]]** - Investigation Tools
+#### **[[02_Worldbuilding/Lore/Evidence Types Guide]]** - Investigation Tools
 - **World**: Universal
 - **Type**: Investigative Reference
 - **Content**: Evidence categories, collection methods, analysis techniques
@@ -193,7 +194,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Divine and Spiritual Systems
 
-#### **[[Temple of the First Tide]]** - Origin Religion
+#### **[[02_Worldbuilding/Lore/Temple of the First Tide]]** - Origin Religion
 - **World**: Aquabyssos
 - **Type**: Religious Institution/Belief System
 - **Significance**: Worship of drowning origins, tide-based theology
@@ -201,7 +202,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Modern Role**: State religion influence, ceremonial functions, political power
 - **Adventure Elements**: Divine quests, religious politics, ancient rituals
 
-#### **[[The Festival of Rising Tides]]** - Religious Celebration
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Festival of Rising Tides]]** - Religious Celebration
 - **World**: Aquabyssos
 - **Type**: Cultural/Religious Event
 - **Significance**: Annual celebration of water mastery, community unity
@@ -209,7 +210,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Political Importance**: Unity demonstration, cultural preservation, social bonding
 - **Campaign Integration**: Festival adventures, cultural missions, community building
 
-#### **[[Crystal Corruption Taboos]]** - Religious Restrictions
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Corruption Taboos]]** - Religious Restrictions
 - **World**: Aethermoor
 - **Type**: Religious/Cultural Prohibition
 - **Key Beliefs**: Crystal corruption as spiritual contamination, purification requirements
@@ -219,7 +220,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Mystical Phenomena
 
-#### **[[Temporal Anomaly Resolution]]** - Time Magic Theory
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Anomaly Resolution]]** - Time Magic Theory
 - **World**: Universal
 - **Type**: Mystical Phenomenon/Theory
 - **Key Elements**: Time distortion effects, resolution techniques, temporal stability
@@ -227,7 +228,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Dangers**: Timeline fractures, paradox creation, reality instability
 - **Adventure Integration**: Time travel quests, timeline repair, temporal mysteries
 
-#### **[[The Bloom Fields]]** - Mystical Location Lore
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bloom Fields]]** - Mystical Location Lore
 - **World**: Aquabyssos
 - **Type**: Natural/Mystical Phenomenon
 - **Key Features**: Reality-warping vegetation, temporal effects, magical enhancement
@@ -235,7 +236,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Hazards**: Reality distortion, time dilation, consciousness effects
 - **Campaign Use**: Mystical exploration, magical research, reality manipulation
 
-#### **[[Skyforged Crystal Worship]]** - Crystal Religion
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Skyforged Crystal Worship]]** - Crystal Religion
 - **World**: Aethermoor
 - **Type**: Religious/Mystical Practice
 - **Core Beliefs**: Crystals as divine gifts, sky-origin theology, purification through crystals
@@ -245,7 +246,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Cultural and Spiritual Practices
 
-#### **[[Sky Burial Traditions]]** - Death Customs
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sky Burial Traditions]]** - Death Customs
 - **World**: Aethermoor
 - **Type**: Cultural/Religious Practice
 - **Key Elements**: Aerial burial rites, sky-based afterlife beliefs, elemental return
@@ -253,7 +254,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Modern Adaptations**: Urban modifications, crystal enhancement, political ceremonies
 - **Adventure Integration**: Honor quests, cultural preservation, family obligations
 
-#### **[[Pearl Diving Honor Culture]]** - Warrior Traditions
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pearl Diving Honor Culture]]** - Warrior Traditions
 - **World**: Aquabyssos
 - **Type**: Cultural Honor System
 - **Key Elements**: Diving prowess as honor, depth challenges, warrior recognition
@@ -261,7 +262,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Honor Codes**: Courage requirements, peer recognition, community respect
 - **Campaign Use**: Honor challenges, cultural quests, warrior development
 
-#### **[[Tidal Memory Ceremonies]]** - Memory Rituals
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Memory Ceremonies]]** - Memory Rituals
 - **World**: Aquabyssos
 - **Type**: Cultural/Mystical Practice
 - **Purpose**: Memory preservation, cultural continuity, historical accuracy
@@ -271,7 +272,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Mystical Organizations
 
-#### **[[Deep Mother Cult Practices]]** - Forbidden Religion
+#### **[[02_Worldbuilding/Lore/Deep Mother Cult Practices]]** - Forbidden Religion
 - **World**: Aquabyssos
 - **Type**: Secret Religious Organization
 - **Beliefs**: Deep Mother worship, void acceptance, reality transcendence
@@ -292,7 +293,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Trade and Commerce
 
-#### **[[The Merchant Code of Ethics]]** - Commercial Standards
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Merchant Code of Ethics]]** - Commercial Standards
 - **World**: Universal
 - **Type**: Commercial/Social System
 - **Key Elements**: Trading standards, ethical business practices, dispute resolution
@@ -300,7 +301,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Conflicts**: Ethical vs. profitable practices, enforcement challenges, cultural differences
 - **Adventure Opportunities**: Commercial disputes, ethical dilemmas, trade missions
 
-#### **[[Aquabyssos Trade Seal]]** - Commercial Authentication
+#### **[[02_Worldbuilding/Lore/Aquabyssos Trade Seal]]** - Commercial Authentication
 - **World**: Aquabyssos
 - **Type**: Commercial/Legal System
 - **Function**: Trade verification, quality assurance, legal protection
@@ -318,7 +319,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Social and Cultural Systems
 
-#### **[[Cloud Shepherd Guild Customs]]** - Professional Culture
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Cloud Shepherd Guild Customs]]** - Professional Culture
 - **World**: Aethermoor
 - **Type**: Professional/Social System
 - **Key Elements**: Guild traditions, professional standards, cultural practices
@@ -326,7 +327,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Social Role**: Professional identity, community service, traditional knowledge
 - **Campaign Applications**: Professional quests, cultural preservation, weather magic
 
-#### **[[The Coral Architecture Philosophy]]** - Design Principles
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Coral Architecture Philosophy]]** - Design Principles
 - **World**: Aquabyssos
 - **Type**: Cultural/Architectural System
 - **Key Concepts**: Living building integration, symbiotic design, sustainable architecture
@@ -348,7 +349,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Core Magic Systems
 
-#### **[[Shadow Magic Integration Practices]]** - Shadow Magic Framework
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Magic Integration Practices]]** - Shadow Magic Framework
 - **World**: Aquabyssos
 - **Type**: Magical System/Theory
 - **Key Elements**: Shadow manipulation techniques, integration methods, practical applications
@@ -356,7 +357,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Dangers**: Shadow corruption, reality distortion, consciousness separation
 - **Campaign Role**: Player abilities, NPC powers, conspiracy tools
 
-#### **[[Temporal Distortion Zones]]** - Time Magic Phenomena
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Distortion Zones]]** - Time Magic Phenomena
 - **World**: Both
 - **Type**: Magical/Environmental Phenomenon
 - **Key Features**: Time flow alteration, temporal stability issues, navigation challenges
@@ -364,7 +365,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Navigation**: Specialized techniques, temporal magic, guide requirements
 - **Adventure Applications**: Time travel adventures, temporal mysteries, causality puzzles
 
-#### **[[Memory Tide Events]]** - Memory Magic Phenomena
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Tide Events]]** - Memory Magic Phenomena
 - **World**: Aquabyssos
 - **Type**: Magical/Environmental System
 - **Key Elements**: Collective memory surges, information transmission, consciousness effects
@@ -374,7 +375,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Magical Applications
 
-#### **[[Multiple Recursion Levels]]** - Reality Magic Theory
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multiple Recursion Levels]]** - Reality Magic Theory
 - **World**: Both
 - **Type**: Advanced Magical Theory
 - **Concepts**: Layered reality manipulation, recursive effects, complexity management
@@ -382,7 +383,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Dangers**: Reality fragmentation, recursive loops, consciousness loss
 - **Campaign Use**: High-level adventures, reality manipulation, cosmic horror elements
 
-#### **[[Temporal Navigation Hazards]]** - Time Travel Dangers
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Navigation Hazards]]** - Time Travel Dangers
 - **World**: Universal
 - **Type**: Magical Hazard System
 - **Key Dangers**: Paradox creation, timeline corruption, temporal displacement
@@ -390,7 +391,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Consequences**: Reality damage, timeline fractures, character displacement
 - **Adventure Elements**: Time travel risks, temporal rescue missions, timeline repair
 
-#### **[[Reality Merge Zones]]** - Dimensional Magic
+#### **[[02_Worldbuilding/Lore/Reality Merge Zones]]** - Dimensional Magic
 - **World**: Both
 - **Type**: Magical/Dimensional Phenomenon
 - **Key Features**: Dimensional overlap, dual existence, reality choice points
@@ -400,7 +401,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Magical Research and Development
 
-#### **[[Multi-Phase Boss Fights]]** - Combat Magic Theory
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multi-Phase Boss Fights]]** - Combat Magic Theory
 - **World**: Universal
 - **Type**: Magical/Combat System
 - **Applications**: Phased combat encounters, escalating magical effects, strategic complexity
@@ -408,7 +409,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Campaign Use**: Boss encounters, magical duels, escalating conflicts
 - **Design Principles**: Mechanical complexity, narrative integration, player challenge
 
-#### **[[Environmental Hazards]]** - Magical Environment Theory
+#### **[[02_Worldbuilding/Lore/Environmental Hazards]]** - Magical Environment Theory
 - **World**: Both
 - **Type**: Environmental/Magical System
 - **Categories**: Natural magic, corrupted zones, unstable magic areas
@@ -422,7 +423,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Historical Conflicts
 
-#### **[[Ancient Siege Tunnels]]** - Military Engineering
+#### **[[02_Worldbuilding/Lore/Ancient Siege Tunnels]]** - Military Engineering
 - **World**: Both (Historical References)
 - **Type**: Military/Historical Infrastructure
 - **Purpose**: Siege warfare, underground assault, defensive bypassing
@@ -430,7 +431,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Modern Relevance**: Archaeological sites, historical lessons, tactical knowledge
 - **Adventure Opportunities**: Historical exploration, tactical education, archaeological discovery
 
-#### **[[The Deep Uprising]]** - Revolutionary History
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Uprising]]** - Revolutionary History
 - **World**: Aquabyssos
 - **Type**: Military/Political Conflict
 - **Key Events**: Lower-class rebellion, governmental response, social change
@@ -448,7 +449,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Military Systems
 
-#### **[[Depth Effect Quick Reference]]** - Combat Mechanics
+#### **[[02_Worldbuilding/Lore/Depth Effect Quick Reference]]** - Combat Mechanics
 - **World**: Aquabyssos
 - **Type**: Military/Environmental System
 - **Key Elements**: Pressure-based combat effects, depth advantages, environmental tactics
@@ -456,7 +457,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Modern Military**: Training requirements, equipment adaptation, tactical doctrine
 - **Campaign Use**: Combat encounters, environmental tactics, strategic challenges
 
-#### **[[The Deep Harvest]]** - Resource Warfare
+#### **[[02_Worldbuilding/Lore/The Deep Harvest]]** - Resource Warfare
 - **World**: Aquabyssos
 - **Type**: Military/Economic Campaign
 - **Purpose**: Resource acquisition, economic control, strategic advantage
@@ -470,7 +471,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Environmental Systems
 
-#### **[[Pressure Adaptation System]]** - Environmental Mechanics
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]]** - Environmental Mechanics
 - **World**: Aquabyssos
 - **Type**: Environmental/Biological System
 - **Key Elements**: Depth adaptation requirements, pressure effects, biological changes
@@ -478,7 +479,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Medical Aspects**: Adaptation procedures, medical support, health consequences
 - **Campaign Integration**: Environmental challenges, social issues, medical adventures
 
-#### **[[Resonance Peaks]]** - Geological Phenomena
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Peaks]]** - Geological Phenomena
 - **World**: Both
 - **Type**: Geographical/Mystical Feature
 - **Key Features**: Sound amplification, magical resonance, communication networks
@@ -486,7 +487,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Dangers**: Sonic damage, magical overload, communication interference
 - **Adventure Applications**: Communication missions, mystical exploration, strategic operations
 
-#### **[[Fear Farms]]** - Psychological Environment
+#### **[[02_Worldbuilding/Lore/Fear Farms]]** - Psychological Environment
 - **World**: Aquabyssos
 - **Type**: Environmental/Psychological Phenomenon
 - **Key Features**: Fear cultivation, emotional manipulation, psychological harvesting
@@ -504,7 +505,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Dangers**: Undead creatures, necromantic effects, environmental hazards
 - **Adventure Elements**: Exploration missions, resource gathering, undead encounters
 
-#### **[[Kraken Territories]]** - Dangerous Regions
+#### **[[02_Worldbuilding/Lore/Kraken Territories]]** - Dangerous Regions
 - **World**: Aquabyssos
 - **Type**: Geographical/Monster Territory
 - **Key Features**: Extreme depth, ancient creatures, territorial dangers
@@ -512,7 +513,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Resources**: Rare materials, ancient artifacts, legendary treasures
 - **Campaign Role**: Epic exploration, legendary encounters, ultimate challenges
 
-#### **[[Crystal Forest]]** - Mystical Environment
+#### **[[02_Worldbuilding/Lore/Crystal Forest]]** - Mystical Environment
 - **World**: Aethermoor
 - **Type**: Geographical/Mystical Site
 - **Key Features**: Living crystal formations, magical resonance, growth patterns
@@ -542,7 +543,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Ethical Considerations**: Consent issues, coercion concerns, truth vs. privacy
 - **Campaign Use**: Social encounters, investigation adventures, information gathering
 
-#### **[[Corruption Tracking]]** - Evidence Management
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corruption Tracking]]** - Evidence Management
 - **World**: Both
 - **Type**: Investigative/Political System
 - **Purpose**: Corruption detection, evidence tracking, accountability enforcement
@@ -552,7 +553,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Mystery Elements
 
-#### **[[Crystal-Corruption-Tracking-Sheet]]** - Medical Investigation
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]** - Medical Investigation
 - **World**: Aethermoor
 - **Type**: Medical/Investigative Tool
 - **Purpose**: Corruption progression tracking, treatment monitoring, research data
@@ -560,7 +561,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Research Value**: Medical understanding, treatment development, epidemic tracking
 - **Campaign Applications**: Medical mysteries, epidemic response, research adventures
 
-#### **[[Memory Alterations]]** - Psychological Mystery
+#### **[[02_Worldbuilding/Lore/Memory Alterations]]** - Psychological Mystery
 - **World**: Aquabyssos
 - **Type**: Psychological/Investigative Element
 - **Key Features**: Memory modification, identity confusion, truth distortion
@@ -568,7 +569,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Social Impact**: Trust issues, identity crises, social instability
 - **Campaign Integration**: Identity mysteries, truth-seeking adventures, psychological horror
 
-#### **[[Reputation System]]** - Social Investigation
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reputation System]]** - Social Investigation
 - **World**: Universal
 - **Type**: Social/Investigative Framework
 - **Purpose**: Social standing tracking, relationship mapping, influence measurement
@@ -582,7 +583,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### World Linking Elements
 
-#### **[[Continental Connections Map]]** - Geographic Links
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Continental Connections Map]]** - Geographic Links
 - **World**: Both
 - **Type**: Geographical/Narrative Connection
 - **Purpose**: World relationship mapping, travel planning, narrative integration
@@ -590,7 +591,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Campaign Integration**: Cross-world travel, unified adventures, world exploration
 - **Navigation Aid**: Travel planning, adventure connections, world understanding
 
-#### **[[Merged Zone Navigation]]** - Dimensional Travel
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merged Zone Navigation]]** - Dimensional Travel
 - **World**: Both
 - **Type**: Dimensional/Navigation System
 - **Key Features**: Reality intersection navigation, dual-world existence
@@ -608,7 +609,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Shared History
 
-#### **[[The Seven Betrayers]]** - Historical Figures
+#### **[[02_Worldbuilding/Lore/The Seven Betrayers]]** - Historical Figures
 - **World**: Both
 - **Type**: Historical/Mythical Figures
 - **Significance**: Cross-world historical impact, legendary status
@@ -616,7 +617,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Modern Relevance**: Historical parallels, cautionary tales, legendary quests
 - **Campaign Integration**: Historical adventures, legacy quests, mythical encounters
 
-#### **[[Marriage Between Worlds]]** - Cultural Practice
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marriage Between Worlds]]** - Cultural Practice
 - **World**: Both
 - **Type**: Cultural/Social Institution
 - **Purpose**: Cross-world unity, cultural exchange, political alliance
@@ -624,7 +625,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Modern Application**: Diplomatic marriage, cultural exchange, unity symbolism
 - **Adventure Elements**: Diplomatic missions, cultural adventures, unity quests
 
-#### **[[Unite the Two Worlds]]** - Unification Movement
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Unite the Two Worlds]]** - Unification Movement
 - **World**: Both
 - **Type**: Political/Cultural Movement
 - **Purpose**: World reunification, reality merger, cultural unity
@@ -638,7 +639,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Mechanical Systems
 
-#### **[[Faction Standing System]]** - Relationship Mechanics
+#### **[[vault_backup_20250813_073007/03_Mechanics/Faction Standing System]]** - Relationship Mechanics
 - **World**: Universal
 - **Type**: Social/Political Mechanic
 - **Purpose**: Relationship tracking, faction interaction, political consequences
@@ -646,7 +647,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Campaign Integration**: Political adventures, faction quests, relationship management
 - **Player Impact**: Social consequences, adventure opportunities, story branching
 
-#### **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - Mental Health Mechanics
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]** - Mental Health Mechanics
 - **World**: Universal
 - **Type**: Psychological/Horror Mechanic
 - **Purpose**: Mental health tracking, horror effects, psychological realism
@@ -654,7 +655,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Horror Integration**: Cosmic horror, psychological thriller, mental challenge
 - **Player Experience**: Psychological stakes, mental health awareness, character development
 
-#### **[[The Depth Chart]]** - Environmental Mechanics
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Depth Chart]]** - Environmental Mechanics
 - **World**: Aquabyssos
 - **Type**: Environmental/Mechanical System
 - **Purpose**: Depth tracking, pressure effects, environmental challenges
@@ -664,7 +665,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 
 ### Adventure Generation
 
-#### **[[Random Encounters]]** - Adventure Tools
+#### **[[02_Worldbuilding/Lore/Random Encounters]]** - Adventure Tools
 - **World**: Universal
 - **Type**: Adventure Generation System
 - **Purpose**: Dynamic content creation, unpredictable events, world immersion
@@ -672,7 +673,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **DM Tools**: Session preparation, improvisation support, world building
 - **Campaign Enhancement**: Spontaneous adventures, world detail, player surprise
 
-#### **[[Initiative Tracker]]** - Combat Management
+#### **[[02_Worldbuilding/Lore/Initiative Tracker]]** - Combat Management
 - **World**: Universal
 - **Type**: Combat/Management Tool
 - **Purpose**: Combat organization, turn tracking, mechanical efficiency
@@ -694,7 +695,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **DM Support**: Preparation efficiency, content quality, session flow
 - **Campaign Management**: Long-term planning, story coordination, player management
 
-#### **[[NPC Name Generator]]** - Character Creation Tool
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/NPC Name Generator]]** - Character Creation Tool
 - **World**: Universal
 - **Type**: Creative/Generation Tool
 - **Purpose**: NPC creation, character naming, world population
@@ -702,7 +703,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **DM Utility**: Improvisation support, world building, character creation
 - **Campaign Enhancement: World detail, character diversity, improvisation capability
 
-#### **[[Treasure by Depth]]** - Reward System
+#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Treasure by Depth]]** - Reward System
 - **World**: Aquabyssos
 - **Type**: Mechanical/Reward System
 - **Purpose**: Treasure scaling, environmental integration, reward balance
@@ -715,32 +716,32 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 ## Thematic Collections
 
 ### Horror and Investigation Themes
-- **[[Memory Alterations]]** - Psychological horror and identity confusion
-- **[[Fear Farms]]** - Psychological manipulation and terror cultivation
-- **[[Crystal-Corruption-Tracking-Sheet]]** - Medical horror and epidemic tracking
-- **[[Shadow Magic Integration Practices]]** - Dark magic and consciousness manipulation
-- **[[Deep Mother Cult Practices]]** - Cosmic horror and forbidden religion
+- **[[02_Worldbuilding/Lore/Memory Alterations]]** - Psychological horror and identity confusion
+- **[[02_Worldbuilding/Lore/Fear Farms]]** - Psychological manipulation and terror cultivation
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]** - Medical horror and epidemic tracking
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Magic Integration Practices]]** - Dark magic and consciousness manipulation
+- **[[02_Worldbuilding/Lore/Deep Mother Cult Practices]]** - Cosmic horror and forbidden religion
 
 ### Political Intrigue Themes
-- **[[The Silverscale Conspiracy]]** - Financial corruption and political manipulation
-- **[[Timeline of Crimes]]** - Criminal patterns and investigative mysteries
-- **[[Corruption Tracking]]** - Governmental accountability and investigation
-- **[[Faction Standing System]]** - Political relationships and consequences
-- **[[Evidence Chain Analysis]]** - Investigation methodology and truth discovery
+- **[[02_Worldbuilding/Lore/The Silverscale Conspiracy]]** - Financial corruption and political manipulation
+- **[[02_Worldbuilding/Lore/Timeline of Crimes]]** - Criminal patterns and investigative mysteries
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corruption Tracking]]** - Governmental accountability and investigation
+- **[[vault_backup_20250813_073007/03_Mechanics/Faction Standing System]]** - Political relationships and consequences
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]** - Investigation methodology and truth discovery
 
 ### Cultural and Social Themes
-- **[[The Festival of Rising Tides]]** - Community celebration and cultural unity
-- **[[Pearl Diving Honor Culture]]** - Warrior traditions and social honor
-- **[[Sky Burial Traditions]]** - Death customs and spiritual beliefs
-- **[[The Merchant Code of Ethics]]** - Commercial standards and business ethics
-- **[[Cloud Shepherd Guild Customs]]** - Professional culture and traditional knowledge
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Festival of Rising Tides]]** - Community celebration and cultural unity
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pearl Diving Honor Culture]]** - Warrior traditions and social honor
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sky Burial Traditions]]** - Death customs and spiritual beliefs
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Merchant Code of Ethics]]** - Commercial standards and business ethics
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Cloud Shepherd Guild Customs]]** - Professional culture and traditional knowledge
 
 ### Mystical and Magical Themes  
-- **[[Temporal Anomaly Resolution]]** - Time magic and temporal mechanics
-- **[[Reality Merge Zones]]** - Dimensional magic and world intersection
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Anomaly Resolution]]** - Time magic and temporal mechanics
+- **[[02_Worldbuilding/Lore/Reality Merge Zones]]** - Dimensional magic and world intersection
 - **[[The Great Convergence Prophecies]]** - Prophetic knowledge and destiny
-- **[[Multiple Recursion Levels]]** - Advanced reality manipulation theory
-- **[[Skyforged Crystal Worship]]** - Divine magic and religious practice
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multiple Recursion Levels]]** - Advanced reality manipulation theory
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Skyforged Crystal Worship]]** - Divine magic and religious practice
 
 ---
 
@@ -757,10 +758,10 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - Community traditions and values
 
 **Adventure-Ready Lore:**
-- [[The Festival of Rising Tides]] - Community events and local culture
-- [[The Merchant Code of Ethics]] - Commercial interactions and trade basics
-- [[Pearl Diving Honor Culture]] - Local traditions and social expectations
-- [[Sky Burial Traditions]] - Cultural customs and religious practices
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Festival of Rising Tides]] - Community events and local culture
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Merchant Code of Ethics]] - Commercial interactions and trade basics
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pearl Diving Honor Culture]] - Local traditions and social expectations
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sky Burial Traditions]] - Cultural customs and religious practices
 
 ### Intermediate Campaign Lore (Levels 5-10)
 *Deeper world understanding and complex systems*
@@ -773,9 +774,9 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - Professional and organizational cultures
 
 **Campaign-Relevant Lore:**
-- [[Aquabyssos Depth Caste System]] - Social hierarchy and political structure
-- [[The Restoration Movement]] - Political movements and reform efforts
-- [[Shadow Magic Integration Practices]] - Magical systems and applications
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Depth Caste System]] - Social hierarchy and political structure
+- [[02_Worldbuilding/Lore/The Restoration Movement]] - Political movements and reform efforts
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Magic Integration Practices]] - Magical systems and applications
 - [[Continental Connections & Story Weave]] - International relations and politics
 
 ### Advanced Campaign Lore (Levels 11-15)
@@ -789,10 +790,10 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - High-level political and mystical secrets
 
 **Investigation-Heavy Lore:**
-- [[The Silverscale Conspiracy]] - Financial corruption and political intrigue
-- [[Timeline of Crimes]] - Criminal patterns and conspiracy connections
-- [[Evidence Chain Analysis]] - Investigation methodology and truth discovery
-- [[Memory Alterations]] - Psychological manipulation and identity mysteries
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]] - Financial corruption and political intrigue
+- [[02_Worldbuilding/Lore/Timeline of Crimes]] - Criminal patterns and conspiracy connections
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]] - Investigation methodology and truth discovery
+- [[02_Worldbuilding/Lore/Memory Alterations]] - Psychological manipulation and identity mysteries
 
 ### Epic Campaign Lore (Levels 16-20)
 *World-shaping knowledge and cosmic understanding*
@@ -805,10 +806,10 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - World-saving or world-changing information
 
 **World-Altering Lore:**
-- [[The Sundering]] - Original world division and cosmic forces
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sundering]] - Original world division and cosmic forces
 - [[The Great Convergence Prophecies]] - Prophetic knowledge and world destiny
-- [[Multiple Recursion Levels]] - Advanced reality manipulation theory
-- [[Unite the Two Worlds]] - World reunification and reality merger
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multiple Recursion Levels]] - Advanced reality manipulation theory
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Unite the Two Worlds]] - World reunification and reality merger
 
 ---
 
@@ -842,7 +843,7 @@ All lore connects to:
 - **[[Master_People_Index|Master People Index]]** - Complete NPC and character reference system
 - **[[Master_Groups_Index|Master Groups Index]]** - Faction and organization comprehensive guide
 - **[[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]** - Cross-category connection mapping system
-- **[[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]** - Session-ready reference materials
+- **[[vault_backup_20250813_073007/Campaign Quick Reference Sheets]]** - Session-ready reference materials
 
 ---
 
@@ -859,13 +860,13 @@ All lore connects to:
 
 ## Orphaned Content
 
-- [[02_Worldbuilding/Lore/Name.md|Name]]
-- [[02_Worldbuilding/Lore/Merchant Thane Goldwhisper.md|Merchant Thane Goldwhisper]]
-- [[02_Worldbuilding/Lore/Depth Chronicler Maris Saltwater.md|Depth Chronicler Maris Saltwater]]
-- [[02_Worldbuilding/Lore/Memory Merchant Mneme.md|Memory Merchant Mneme]]
-- [[02_Worldbuilding/Lore/Non-Existence Protocols.md|Non-Existence Protocols]]
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide.md|Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Giant Seahorse.md|Giant Seahorse]]
-- [[02_Worldbuilding/Lore/Royal Guard.md|Royal Guard]]
-- [[02_Worldbuilding/Lore/Heart of Chrono.md|Heart of Chrono]]
-- [[02_Worldbuilding/Lore/Quest - The Shadow Market Wars.md|Quest - The Shadow Market Wars]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Name]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merchant Thane Goldwhisper]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Chronicler Maris Saltwater]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Merchant Mneme]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Non-Existence Protocols]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Giant Seahorse]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Guard]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Heart of Chrono]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Shadow Market Wars]]

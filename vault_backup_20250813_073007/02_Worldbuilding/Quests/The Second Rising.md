@@ -22,36 +22,41 @@ objectives:
 - Category/Quest
 obsidianUIMode: preview
 prerequisite_quests:
-- '[[02_Worldbuilding/Quests/Find_the_Missing_Caravan|02 Worldbuilding/Quests/Find The Missing Caravan]]'
-- '[[Diplomatic Tides]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Find the Missing Caravan]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Diplomatic Tides]]'
 priority: urgent
-quest_giver: '[[High Tidecaller Nerissa]]'
+quest_giver: '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/High Tidecaller Nerissa]]'
 quest_image: 04_Resources/Assets/quests/second-rising.png
 quest_start: 2025-08-10
 related_locations:
-- '[[02_Worldbuilding/Places/Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]]'
-- '[[Maelstrom Palace]]'
-- '[[The Maw of Darkness]]'
-- '[[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]'
-- '[[Crystalline Depths]]'
+- '[[02_Worldbuilding/Places/Pearl_Harbor_City]]'
+- '[[02_Worldbuilding/Places/Maelstrom Palace]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Market District]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Crystalline Depths]]'
 related_npcs:
-- '[[High Tidecaller Nerissa]]'
-- '[[Prophet Miralyn Surfacer]]'
-- '[[Commander Varek Irontrident]]'
-- '[[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]'
-- '[[Aboleth Prime Yoth]]'
-- '[[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/High Tidecaller Nerissa]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Prophet Miralyn Surfacer]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Commander Varek Irontrident]]'
+- '[[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson
+  Pearl]]'
+- '[[02_Worldbuilding/People/Aboleth Prime Yoth]]'
+- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Gareth Ironforge]]'
 reward: 10000gp + Blessing of the Depths + Surface/Depth Citizenship
 status: complete
 tags:
+- both
+- complete
 - content/adventure
 - content/lore
+- lore
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.789593'
+updated: '2025-08-13T12:34:28.549751+00:00'
 world: Both
 ---
+
 
 
 
@@ -82,32 +87,32 @@ The Oracle bloodline has spoken again after centuries of silence. The prophecy s
 ## Part 1: The Prophecy Investigation
 
 ### The Pearl and Iron
-[[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] and [[Master Smith Coral-Hammer]] have been working on a project that unexpectedly fulfills this line. Their pressure-forged weapons are creating a resonance that's awakening something ancient.
+[[vault_backup_20250813_073007/02_Worldbuilding/People/Gareth Ironforge]] and [[02_Worldbuilding/Places/Master Smith Coral-Hammer]] have been working on a project that unexpectedly fulfills this line. Their pressure-forged weapons are creating a resonance that's awakening something ancient.
 
 ### The Crimson Taint
 [[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]'s vampire nature is spreading - she's accidentally created three new sea-vampire spawn who are contaminating the deepest trenches with undead energy.
 
 ### The Questioning and Crying
-- [[Commander Varek Irontrident]] has discovered evidence the original threat was fabricated
-- [[Prophet Miralyn Surfacer]] leads growing protests for return
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Commander Varek Irontrident]] has discovered evidence the original threat was fabricated
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Prophet Miralyn Surfacer]] leads growing protests for return
 
 ## Part 2: The Hidden Verses
 
 ### First Verse Location
-**[[The Sunken Library of Thalassius]]**
+**[[02_Worldbuilding/Places/The Sunken Library of Thalassius]]**
 - Guarded by knowledge elementals
 - Contains Emperor's personal account
 - Reveals the Void Plague might have been stopped differently
 
 ### Second Verse Location
-**[[Depths of Whispers]]**
-- Held by [[Aboleth Prime Yoth]]
+**[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Depths of Whispers]]**
+- Held by [[02_Worldbuilding/People/Aboleth Prime Yoth]]
 - Requires negotiation or combat
 - Shows the Aboleths caused the original threat
 
 ### Third Verse Location
-**[[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]] - Secret Vault**
-- [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'s ancestor hid it
+**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Market District]] - Secret Vault**
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Gareth Ironforge]]'s ancestor hid it
 - Links surface and depth permanently
 - Contains the transformation ritual
 
@@ -117,11 +122,11 @@ The artifact that sank Aquathys was broken into five pieces:
 
 ### Heart Fragments
 
-1. **The Core** - [[High Tidecaller Nerissa]] wears it
-2. **The Pulse** - Hidden in [[The Maw of Darkness]]
+1. **The Core** - [[vault_backup_20250813_073007/02_Worldbuilding/Quests/High Tidecaller Nerissa]] wears it
+2. **The Pulse** - Hidden in [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
 3. **The Flow** - [[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]'s pearl collection
-4. **The Pressure** - [[Commander Varek Irontrident]]'s trident
-5. **The Memory** - Inside [[Prophet Miralyn Surfacer]]
+4. **The Pressure** - [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Commander Varek Irontrident]]'s trident
+5. **The Memory** - Inside [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Prophet Miralyn Surfacer]]
 
 ## Part 4: The Five Factions
 
@@ -164,7 +169,7 @@ Each faction leader must be dealt with:
 - Massive casualties from pressure change
 - War with surface nations likely
 - Aboleths lose all power
-- [[02_Worldbuilding/Places/Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]] becomes capital
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]] becomes capital
 
 ### Option 2: Sink Deeper
 **Consequences:**
@@ -172,13 +177,13 @@ Each faction leader must be dealt with:
 - Complete isolation from surface
 - Aboleth control strengthens
 - Safety but stagnation
-- [[The Maw of Darkness]] becomes gateway
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]] becomes gateway
 
 ### Option 3: The Transformation
 **Consequences:**
 - Aquathys exists in both realms
 - Citizens can shift between forms
-- Permanent link to [[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]
+- Permanent link to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market District]]
 - New hybrid civilization
 - Party becomes legends
 
@@ -218,32 +223,32 @@ Each faction leader must be dealt with:
 - Party's actions have lasting consequences
 
 ### Hidden Actors
-- [[The Barnacle]] is an aboleth spy
-- [[Elena Starweaver]] seeks the Heart
+- [[02_Worldbuilding/People/The Barnacle]] is an aboleth spy
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Elena Starweaver]] seeks the Heart
 - Surface nations have infiltrators
 - Ancient evil awakening below
 
 ## Side Quests Connected
 
-- [[Smuggler's Gambit]] - Pearl's fragment
-- [[The Lock Saboteur]] - Prevents escape
-- [[Blood in the Water]] - Vampire spread
-- [[Diplomatic Tides]] - Faction relations
-- [[The Depth Accords]] - Legal framework
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Smuggler's Gambit]] - Pearl's fragment
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Lock Saboteur]] - Prevents escape
+- [[02_Worldbuilding/People/Blood in the Water]] - Vampire spread
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Diplomatic Tides]] - Faction relations
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Depth Accords]] - Legal framework
 
 ## NPCs Involved
 
 ### Major Players
 - All faction leaders
-- [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] - Surface connection
-- [[Elena Starweaver]] - Magical expertise
-- [[Mayor Thompson]] - Diplomatic channel
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Gareth Ironforge]] - Surface connection
+- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Elena Starweaver]] - Magical expertise
+- [[02_Worldbuilding/People/Mayor Thompson]] - Diplomatic channel
 
 ### Support Cast
-- [[Captain Marlowe Tidecrest]] - Transportation
-- [[02_Worldbuilding/Places/Dr. Siphon Gillwater|02 Worldbuilding/Places/Dr. Siphon Gillwater]] - Pressure adaptation
+- [[02_Worldbuilding/Places/Captain Marlowe Tidecrest]] - Transportation
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Dr Siphon Gillwater]] - Pressure adaptation
 - Whisper Jack - Information network
-- [[Master Smith Coral-Hammer]] - Heart restoration
+- [[02_Worldbuilding/Places/Master Smith Coral-Hammer]] - Heart restoration
 
 ## Locations Visited
 
@@ -290,7 +295,7 @@ Each faction leader must be dealt with:
 
 ### The Oracle's Awakening
 
-**Opening Scene**: The party is summoned to the **[[High Tidecaller Nerissa]]**'s sacred chambers within the **Maelstrom Palace**. Ancient crystals pulse with an otherworldly light as she emerges from a prophetic trance that has lasted three days. Her eyes glow with residual divine energy as she speaks:
+**Opening Scene**: The party is summoned to the **[[vault_backup_20250813_073007/02_Worldbuilding/Quests/High Tidecaller Nerissa]]**'s sacred chambers within the **Maelstrom Palace**. Ancient crystals pulse with an otherworldly light as she emerges from a prophetic trance that has lasted three days. Her eyes glow with residual divine energy as she speaks:
 
 *"The bloodline speaks again! After seven centuries of silence, the Oracle has shown me visions of three paths. But the images are fractured, scattered across time and depth. You must help me understand what the ancestors demand of us."*
 
@@ -312,8 +317,8 @@ Each faction leader must be dealt with:
 
 #### "When pearl meets iron in the market of sky"
 **Investigation Leads**:
-- **[[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]**: Recently began trading pressure-forged weapons with Aquathys
-- **[[Master Smith Coral-Hammer]]**: Joint project creating hybrid surface-depth weapons
+- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Gareth Ironforge]]**: Recently began trading pressure-forged weapons with Aquathys
+- **[[02_Worldbuilding/Places/Master Smith Coral-Hammer]]**: Joint project creating hybrid surface-depth weapons
 - **Market Activity**: Unusual resonances when surface metals meet depth pearls
 - **Sky Reference**: May refer to Aquathys rising toward surface, or surface "sky-markets"
 
@@ -330,8 +335,8 @@ Each faction leader must be dealt with:
 
 #### "When warriors question and prophets cry"
 **Current Manifestations**:
-- **[[Commander Varek Irontrident]]**: Publicly questioning orders and historical accounts
-- **[[Prophet Miralyn Surfacer]]**: Leading protests and demanding return to surface
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Commander Varek Irontrident]]**: Publicly questioning orders and historical accounts
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Prophet Miralyn Surfacer]]**: Leading protests and demanding return to surface
 - **Military Unrest**: Growing dissent among the Depth Guard
 - **Religious Schism**: Competing interpretations of Aquathys's divine destiny
 
@@ -476,7 +481,7 @@ For the day when their civilization dies."*
 ### Third Verse: The Transformation Secret
 
 #### Location: Market District Secret Vault
-**Setting**: Hidden beneath [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'s trading post, accessible through combined surface and depth magic
+**Setting**: Hidden beneath [[vault_backup_20250813_073007/02_Worldbuilding/People/Gareth Ironforge]]'s trading post, accessible through combined surface and depth magic
 
 **Discovery Process**:
 1. **Historical Research** (Investigation DC 18): Gareth's ancestor was involved in the original sinking

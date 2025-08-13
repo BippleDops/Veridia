@@ -54,15 +54,15 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Crystalhaven (Aethermoor) - The Royal Capital**
 **Primary Residents:**
-- [[Queen Seraphina Lumengarde]] - Royal Palace (permanent residence)
-- [[Lord Commander Gareth Steelborn]] - Crystal Wardens headquarters
-- [[High Priestess Celeste Dawnbringer]] - Cathedral of Light
-- [[Master Artificer Korvin Gearwright]] - Master Artificers Guild
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Royal Palace (permanent residence)
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Crystal Wardens headquarters
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Cathedral of Light
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Master Artificers Guild
 
 **Frequent Visitors:**
-- [[Prince Caspian Duskwater]] - Occasional diplomatic visits (under guard)
-- [[Professor Aldric Crystalweaver]] - Research consultations with court
-- [[The Crimson Sage]] - Secret meetings with Queen (hidden identity)
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Occasional diplomatic visits (under guard)
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] - Research consultations with court
+- [[02_Worldbuilding/People/The Crimson Sage]] - Secret meetings with Queen (hidden identity)
 
 **Political Connections:**
 - **Power Center**: Royal authority and governmental decision-making
@@ -72,15 +72,15 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Abyssos Prime (Aquabyssos) - The Drowned Capital**
 **Primary Residents:**
-- [[Emperor Thalassius the Wise]] - Maelstrom Palace (imperial residence)
-- [[Admiral Thorne Blackwater]] - Deep Fleet headquarters
-- [[Senator Glaucus]] - Parliament of Echoes (primary chamber)
-- [[Vex Shadowthorn]] - Shadow Surgeons facilities (hidden)
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]] - Maelstrom Palace (imperial residence)
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Deep Fleet headquarters
+- [[02_Worldbuilding/People/Senator Glaucus]] - Parliament of Echoes (primary chamber)
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Shadow Surgeons facilities (hidden)
 
 **Power Brokers:**
-- [[Director Hadrian Silverscale]] - Silverscale Banking House
-- [[Duke Cyrus Reefheart]] - Regional governance, frequent presence
-- [[Shadow Duchess Nyx]] - Underground nobility networks
+- [[02_Worldbuilding/Lore/Director Hadrian Silverscale]] - Silverscale Banking House
+- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Regional governance, frequent presence
+- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Underground nobility networks
 
 **Hidden Networks:**
 - **Shadow Conspiracy Operations**: Parliament shadow chamber activities
@@ -92,19 +92,19 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Port Meridian (Aethermoor) - The Trading Gateway**
 **Commercial Leaders:**
-- [[Lord Aurelius Goldwave]] - Merchant Princes council headquarters
-- [[Master Chen Wei]] - The Exotic Emporium (international trade)
-- [[Lady Venetia Silkwind]] - Textile trade operations
-- [[Captain Rodrigo Ironanchor]] - Maritime merchant representation
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] - Merchant Princes council headquarters
+- [[02_Worldbuilding/Groups/Master Chen Wei]] - The Exotic Emporium (international trade)
+- [[02_Worldbuilding/Groups/Lady Venetia Silkwind]] - Textile trade operations
+- [[02_Worldbuilding/Groups/Captain Rodrigo Ironanchor]] - Maritime merchant representation
 
 **Military and Law Enforcement:**
-- [[Admiral Cassandra Stormwind]] - Naval headquarters and flagship
-- [[Captain Lyanna Brightshield]] - City Watch command
-- [[Harbormaster Erik Saltbeard]] - Port authority and shipping control
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Naval headquarters and flagship
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - City Watch command
+- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]] - Port authority and shipping control
 
 **Underground Networks:**
-- [[Marina-Red-Tide-Coralheart]] - The Salty Serpent tavern (smuggling hub)
-- [[The Tidecaller]] - Mysterious maritime operations
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - The Salty Serpent tavern (smuggling hub)
+- [[02_Worldbuilding/People/The Tidecaller]] - Mysterious maritime operations
 - Various smuggling and criminal contacts
 
 **Economic Relationships:**
@@ -117,12 +117,12 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 #### **The Umbral Exchange (Aquabyssos) - Shadow Market Center**
 **Criminal Leadership:**
 - [[02_Worldbuilding/Groups/The Shadow Merchant Prim|02 Worldbuilding/Groups/The Shadow Merchant Prim]] - Overall criminal economy direction
-- [[02_Worldbuilding/Groups/Master Trader Darkmarke|02 Worldbuilding/Groups/Master Trader Darkmarke]] - Daily operations management
-- [[Commander Shadowguard]] - Security and enforcement
+- [[02_Worldbuilding/Groups/Master Trader Darkmarke]] - Daily operations management
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Commander Shadowguard]] - Security and enforcement
 
 **Service Providers:**
-- [[Memory Merchant Valeria Siltweave]] - Consciousness commerce
-- [[Jasper "Three-Eyes" Flint]] - Memory theft operations
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]] - Consciousness commerce
+- [[vault_backup_20250813_073007/02_Worldbuilding/People/Jasper Three Eyes Flint]] - Memory theft operations
 - Various criminal specialists and underground merchants
 
 **Shadow Network Connections:**
@@ -136,7 +136,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Azure Citadel (Aethermoor) - Flying Fortress**
 **Military Command:**
-- [[Lord Commander Gareth Steelborn]] - Crystal Wardens supreme command
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Crystal Wardens supreme command
 - Elite Crystal Warden officers and specialists
 - Aerial defense coordinators and crystal magic specialists
 
@@ -162,9 +162,9 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Cathedral of Light (Aethermoor) - Religious Headquarters**
 **Religious Leadership:**
-- [[High Priestess Celeste Dawnbringer]] - Supreme religious authority
-- [[Brother Marcus Steelbane]] - Community service and plague response
-- [[Choir Master Celestine Hymnsinger]] - Cultural and musical leadership
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Supreme religious authority
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]] - Community service and plague response
+- [[02_Worldbuilding/Places/Choir Master Celestine Hymnsinger]] - Cultural and musical leadership
 
 **Religious Services:**
 - **Healing and Spiritual Guidance**: Community medical and spiritual support
@@ -174,7 +174,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Temple of the First Tide (Aquabyssos) - Origin Religion Center**
 **Religious Authority:**
-- [[High Priest Dagon Deepcaller]] - Supreme tidal religion leadership
+- [[02_Worldbuilding/People/High Priest Dagon Deepcaller]] - Supreme tidal religion leadership
 - Ancient religion specialists and historical scholars
 - Tidal magic practitioners and ceremonial coordinators
 
@@ -192,10 +192,10 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Royal Authority Territory (Aethermoor)**
 **Primary Control Zones:**
-- [[Crystalhaven]] - **The Crown Authority** (absolute control)
-- [[Port Meridian]] - **Merchant Princes** (economic control) + **Crown Authority** (political oversight)
-- [[Ironhold]] - **Regional governors** (Crown appointments)
-- [[Sylvanheart]] - **The Verdant Accord** (environmental authority) + **Crown Authority** (political oversight)
+- [[02_Worldbuilding/Places/Crystalhaven]] - **The Crown Authority** (absolute control)
+- [[02_Worldbuilding/Places/Port Meridian]] - **Merchant Princes** (economic control) + **Crown Authority** (political oversight)
+- [[02_Worldbuilding/Places/Ironhold]] - **Regional governors** (Crown appointments)
+- [[02_Worldbuilding/Places/Sylvanheart]] - **The Verdant Accord** (environmental authority) + **Crown Authority** (political oversight)
 
 **Military Control Integration:**
 - **Crystal Wardens**: Elite security in all major cities
@@ -209,8 +209,8 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Imperial Authority Territory (Aquabyssos)**
 **Primary Control Zones:**
-- [[Abyssos Prime]] - **Parliament of Echoes** + **Imperial authority** (shared governance)
-- [[New Thalassopolis]] - **Regional governors** (Imperial appointments)
+- [[02_Worldbuilding/Places/Abyssos Prime]] - **Parliament of Echoes** + **Imperial authority** (shared governance)
+- [[02_Worldbuilding/Places/New Thalassopolis]] - **Regional governors** (Imperial appointments)
 - Deep territories - **The Deepwatch Guard** (military administration)
 - Coastal regions - **Maritime authorities** (Imperial coordination)
 
@@ -228,7 +228,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Economic Power Zones**
 **Aethermoor Commercial Control:**
-- [[Port Meridian]] - **Merchant Princes** (primary economic authority)
+- [[02_Worldbuilding/Places/Port Meridian]] - **Merchant Princes** (primary economic authority)
 - International trade routes - **Maritime trading organizations**
 - Crystal production areas - **Master Artificers Guild** + **Crown oversight**
 - Resource extraction zones - **Mining consortiums** + **Regional governance**
@@ -249,7 +249,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Underground Territory Networks**
 **Major Criminal Territories:**
-- [[The Umbral Exchange]] - **The Shadow Trade Network** (absolute control)
+- [[02_Worldbuilding/Groups/The Umbral Exchange]] - **The Shadow Trade Network** (absolute control)
 - Memory crime districts - **Memory criminal organizations**
 - Maritime smuggling routes - **The Brotherhood of the Black Anchor**
 - Cross-world criminal operations - **The Forsaken Consortium Collective**
@@ -274,57 +274,57 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **The Great Drowning Impact Sites**
 **Primary Affected Locations:**
-- [[New Thalassopolis]] - Rebuilt coastal city showcasing adaptation
-- [[Temple of the First Tide]] - Religious response to drowning trauma
-- [[Abyssos Prime]] - New capital built for underwater existence
-- [[Parliament of Echoes]] - Government adaptation to new reality
+- [[02_Worldbuilding/Places/New Thalassopolis]] - Rebuilt coastal city showcasing adaptation
+- [[02_Worldbuilding/Lore/Temple of the First Tide]] - Religious response to drowning trauma
+- [[02_Worldbuilding/Places/Abyssos Prime]] - New capital built for underwater existence
+- [[02_Worldbuilding/Places/Parliament of Echoes]] - Government adaptation to new reality
 
 **Historical Significance Connections:**
-- **[[Timeline of the Drowning]]** → Physical evidence at adaptation sites
-- **[[Aquabyssos Depth Caste System]]** → Social hierarchy visible in city layout
-- **[[Pressure Adaptation System]]** → Medical and social infrastructure throughout cities
-- **[[Tidal Memory Ceremonies]]** → Ceremonial sites and cultural memory preservation
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]** → Physical evidence at adaptation sites
+- **[[02_Worldbuilding/Lore/Aquabyssos Depth Caste System]]** → Social hierarchy visible in city layout
+- **[[02_Worldbuilding/Lore/Pressure Adaptation System]]** → Medical and social infrastructure throughout cities
+- **[[02_Worldbuilding/Lore/Tidal Memory Ceremonies]]** → Ceremonial sites and cultural memory preservation
 
 #### **Crystal Plague Event Locations**
 **Current Crisis Centers:**
-- [[Port Meridian]] - Primary outbreak and response coordination
-- [[Crystalhaven]] - Royal medical response and research efforts
-- [[Crystal Gardens]] - Research sites for understanding crystal corruption
+- [[02_Worldbuilding/Places/Port Meridian]] - Primary outbreak and response coordination
+- [[02_Worldbuilding/Places/Crystalhaven]] - Royal medical response and research efforts
+- [[02_Worldbuilding/Places/Crystal Gardens]] - Research sites for understanding crystal corruption
 - Various medical facilities - Treatment and quarantine operations
 
 **Lore Integration:**
-- **[[Crystal Corruption Taboos]]** → Social discrimination and medical response
-- **[[Crystal-Corruption-Tracking-Sheet]]** → Medical documentation and patient tracking
-- **[[Temple of Divine Order]]** → Religious response and healing services
-- **[[Master Artificers Guild]]** → Technological solutions and protective equipment
+- **[[02_Worldbuilding/Lore/Crystal Corruption Taboos]]** → Social discrimination and medical response
+- **[[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]** → Medical documentation and patient tracking
+- **[[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]** → Religious response and healing services
+- **[[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]** → Technological solutions and protective equipment
 
 ### Ancient History Location Preservation
 
 #### **Pre-Drowning Archaeological Sites**
 **Historical Preservation Locations:**
-- [[Gallery of Frozen Waves]] - Memory and historical artifact preservation
-- [[Ancient Siege Tunnels]] - Military history and archaeological significance
-- [[Pre-Submersion Ruins]] - Original civilization remains and cultural artifacts
+- [[02_Worldbuilding/Places/Gallery of Frozen Waves]] - Memory and historical artifact preservation
+- [[02_Worldbuilding/Lore/Ancient Siege Tunnels]] - Military history and archaeological significance
+- [[02_Worldbuilding/Lore/Pre-Submersion Ruins]] - Original civilization remains and cultural artifacts
 - Various underwater archaeological sites
 
 **Historical Lore Connections:**
-- **[[Ancient Aquabyssos Rulers]]** → Imperial sites and governmental continuity
-- **[[Ancient Mer-Folk Empire]]** → Predecessor civilization evidence
-- **[[Timeline of Crimes]]** → Historical criminal activities and investigation records
-- **[[Continental Connections & Story Weave]]** → International historical relationships
+- **[[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers]]** → Imperial sites and governmental continuity
+- **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]** → Predecessor civilization evidence
+- **[[02_Worldbuilding/Lore/Timeline of Crimes]]** → Historical criminal activities and investigation records
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Continental Connections & Story Weave]]** → International historical relationships
 
 #### **Mystical and Magical Site Significance**
 **Reality Manipulation Centers:**
-- [[The Lighthouse of Storms]] - Ancient technology and reality control
-- [[Resonance Chamber]] - Communication nexus and reality effects
-- [[Merged Reality Zones]] - Cross-world intersection points
-- [[The Convergence Point]] - Dimensional gateway and world travel
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms]] - Ancient technology and reality control
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Chamber]] - Communication nexus and reality effects
+- [[02_Worldbuilding/Lore/Merged Reality Zones]] - Cross-world intersection points
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]] - Dimensional gateway and world travel
 
 **Mystical Lore Integration:**
-- **[[Temporal Anomaly Resolution]]** → Time magic effects and navigation challenges
-- **[[Multiple Recursion Levels]]** → Advanced reality manipulation theory
-- **[[The Great Convergence Prophecies]]** → Prophetic significance and destiny fulfillment
-- **[[Reality Merge Zones]]** → Dimensional magic and world intersection mechanics
+- **[[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]** → Time magic effects and navigation challenges
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multiple Recursion Levels]]** → Advanced reality manipulation theory
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]]** → Prophetic significance and destiny fulfillment
+- **[[02_Worldbuilding/Lore/Reality Merge Zones]]** → Dimensional magic and world intersection mechanics
 
 ---
 
@@ -390,9 +390,9 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Research and Knowledge Communities**
 **Academic Cooperation Networks:**
-- [[Professor Aldric Crystalweaver]] ↔ [[Master Artificer Korvin Gearwright]] (crystal research)
-- [[Archivist Mnemonic the Forgotten]] ↔ [[Scholar Vivienne the Chronicler]] (historical research)
-- [[The Seekers' Guild]] ↔ [[The Convergence Seekers]] (specialized research cooperation)
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] ↔ [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] (crystal research)
+- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]] ↔ [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]] (historical research)
+- [[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]] ↔ [[02_Worldbuilding/Groups/The Convergence Seekers]] (specialized research cooperation)
 
 **Research Resource Sharing:**
 - **Government Funding**: Official research grants and institutional support
@@ -426,10 +426,10 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 - **Technological Innovation**: Pressure adaptation and underwater living technology
 
 **Modern Continuing Effects:**
-- **[[Aquabyssos Depth Caste System]]** → Current social inequality and political tension
-- **[[Pressure Adaptation System]]** → Medical requirements and social discrimination
-- **[[Tidal Memory Ceremonies]]** → Cultural memory preservation and identity maintenance
-- **[[Temple of the First Tide]]** → Religious authority and historical interpretation
+- **[[02_Worldbuilding/Lore/Aquabyssos Depth Caste System]]** → Current social inequality and political tension
+- **[[02_Worldbuilding/Lore/Pressure Adaptation System]]** → Medical requirements and social discrimination
+- **[[02_Worldbuilding/Lore/Tidal Memory Ceremonies]]** → Cultural memory preservation and identity maintenance
+- **[[02_Worldbuilding/Lore/Temple of the First Tide]]** → Religious authority and historical interpretation
 
 **Current Political Consequences:**
 - **Imperial Legitimacy**: Historical continuity vs. adaptive governance
@@ -445,14 +445,14 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 - **Cultural Symbol Loss**: Unity symbol destruction and identity crisis
 
 **Modern Restoration Efforts:**
-- **[[Order of the Shattered Crown]]** → Secret restoration movement and legitimacy claims
-- **[[The Seven Shards]]** quest → Individual shard recovery and power reassembly
+- **[[02_Worldbuilding/People/Order of the Shattered Crown]]** → Secret restoration movement and legitimacy claims
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]** quest → Individual shard recovery and power reassembly
 - **Royal Family**: Current monarchy vs. historical imperial authority
 - **Regional Politics**: Central authority vs. local autonomy tensions
 
 **Contemporary Search Activities:**
-- **[[Lord Aurelius Goldwave]]** → Secret shard seeking for personal redemption
-- **[[Queen Seraphina Lumengarde]]** → Royal shard collection for corruption cure
+- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** → Secret shard seeking for personal redemption
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** → Royal shard collection for corruption cure
 - **Various Treasure Hunters** → Individual shard recovery for profit and power
 - **Academic Researchers** → Historical significance and cultural restoration
 
@@ -492,15 +492,15 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Crystal Commerce Networks (Aethermoor)**
 **Primary Resource Flows:**
-- **Raw Crystal Extraction** → [[The Sundered Peaks]] (mining operations)
-- **Crystal Processing** → [[Crystalhaven]] (Master Artificers Guild facilities)
-- **International Distribution** → [[Port Meridian]] (Merchant Princes coordination)
+- **Raw Crystal Extraction** → [[02_Worldbuilding/Places/The Sundered Peaks]] (mining operations)
+- **Crystal Processing** → [[02_Worldbuilding/Places/Crystalhaven]] (Master Artificers Guild facilities)
+- **International Distribution** → [[02_Worldbuilding/Places/Port Meridian]] (Merchant Princes coordination)
 - **Finished Product Sales** → Regional distribution networks
 
 **Economic Control Points:**
-- **[[Master Artificers Guild]]** - Technology control and quality standards
-- **[[Merchant Princes]]** - Trade regulation and international distribution
-- **[[The Crown Authority]]** - Taxation and regulatory oversight
+- **[[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]** - Technology control and quality standards
+- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Trade regulation and international distribution
+- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]** - Taxation and regulatory oversight
 - **Criminal Networks** - Contraband and illegal crystal trade
 
 **Trade Route Security:**
@@ -517,7 +517,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 - **Consumer Services** → Legal memory enhancement and restoration
 
 **Illegal Memory Markets:**
-- **[[Memory Meadows Black Market]]** → Unregulated consciousness commerce
+- **[[02_Worldbuilding/Places/Memory Meadows Black Market]]** → Unregulated consciousness commerce
 - **Memory Theft Operations** → Criminal memory extraction and identity theft
 - **Black Market Distribution** → Underground memory trading networks
 - **Criminal Service Integration** → Memory services for illegal activities
@@ -538,7 +538,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 - **Academic Collaboration** - Research partnership and knowledge sharing
 
 **Underground International Networks:**
-- **[[The Forsaken Consortium Collective]]** - Cross-world criminal operations
+- **[[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]** - Cross-world criminal operations
 - **Smuggling Networks** - Illegal goods transportation and distribution
 - **Information Trading** - Intelligence and secrets exchange
 - **Criminal Service Coordination** - Underground service provision and cooperation
@@ -568,13 +568,13 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Royal Alliance System (Aethermoor)**
 **Core Royal Alliance:**
-- **[[The Crown Authority]]** ↔ **[[Crystal Wardens]]** (mutual protection and authority)
-- **[[Queen Seraphina]]** ↔ **[[High Priestess Celeste]]** (religious support and secret medical aid)
-- **[[Royal Government]]** ↔ **[[Merchant Princes]]** (economic cooperation and political support)
+- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]** ↔ **[[02_Worldbuilding/People/Crystal Wardens]]** (mutual protection and authority)
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]]** ↔ **[[02_Worldbuilding/People/High Priestess Celeste]]** (religious support and secret medical aid)
+- **[[02_Worldbuilding/Lore/Royal Government]]** ↔ **[[02_Worldbuilding/Groups/Merchant Princes]]** (economic cooperation and political support)
 
 **Extended Alliance Network:**
-- **[[Master Artificers Guild]]** - Technology support and equipment provision
-- **[[Temple of Divine Order]]** - Religious legitimacy and community support
+- **[[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]** - Technology support and equipment provision
+- **[[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]** - Religious legitimacy and community support
 - **Regional governance bodies** - Administrative cooperation and territorial management
 
 **Alliance Strain Points:**
@@ -585,12 +585,12 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Imperial Coalition System (Aquabyssos)**
 **Parliamentary-Imperial Balance:**
-- **[[Parliament of Echoes]]** ↔ **[[Emperor Thalassius]]** (shared governance and constitutional monarchy)
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]** ↔ **[[02_Worldbuilding/People/Emperor Thalassius]]** (shared governance and constitutional monarchy)
 - **Imperial Authority** ↔ **Regional Governors** (central coordination and local administration)
 - **Military Command** ↔ **Civilian Government** (defense coordination and civil authority)
 
 **Coalition Support Network:**
-- **[[The Deepwater Trading Consortium]]** - Economic support and commercial cooperation
+- **[[02_Worldbuilding/Groups/The Deepwater Trading Consortium]]** - Economic support and commercial cooperation
 - **Regional cultural institutions** - Community support and cultural preservation
 - **Academic institutions** - Knowledge support and policy expertise
 - **International diplomatic partners** - Foreign relations and trade cooperation
@@ -605,12 +605,12 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Anti-Government Opposition Networks**
 **Aethermoor Opposition Forces:**
-- **[[Prince Caspian Duskwater]]** + **Exile Support Movement** (alternative royal authority)
-- **[[Purist Coalition]]** + **Anti-Crystal Extremists** (religious and cultural opposition)
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** + **Exile Support Movement** (alternative royal authority)
+- **[[02_Worldbuilding/Groups/Purist Coalition]]** + **Anti-Crystal Extremists** (religious and cultural opposition)
 - **Regional Independence Movements** (territorial autonomy vs. central authority)
 
 **Aquabyssos Opposition Elements:**
-- **[[The Shadow Conspiracy]]** (governmental infiltration and control)
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]** (governmental infiltration and control)
 - **Reform Movement Radicals** (revolutionary change vs. gradual reform)
 - **Regional Separatist Movements** (local independence vs. imperial unity)
 
@@ -628,7 +628,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 - **Academic and Professional Support** - Expert assistance and technical support
 
 **Criminal Network Resistance:**
-- **[[The Shadow Trade Network]]** + **Criminal Alliance** (economic crime coordination)
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]** + **Criminal Alliance** (economic crime coordination)
 - **Corruption Networks** - Government infiltration and official cooperation
 - **Community Infiltration** - Social integration and service provision
 - **International Criminal Cooperation** - Cross-border criminal coordination
@@ -643,7 +643,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Cultural and Professional Mediators**
 **Neutral Organizations:**
-- **[[The Harmony Collective]]** - Conflict mediation and cultural balance
+- **[[02_Worldbuilding/People/The Harmony Collective]]** - Conflict mediation and cultural balance
 - **Academic Institutions** - Knowledge-based neutrality and research focus
 - **Professional Guilds** - Industry focus and economic neutrality
 - **International Organizations** - Cross-world cooperation and diplomatic neutrality
@@ -656,7 +656,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Independent Economic Powers**
 **Neutral Commercial Entities:**
-- **[[Goldspire Confederacy]]** - Independent city-state and neutral territory
+- **[[02_Worldbuilding/Places/Goldspire Confederacy]]** - Independent city-state and neutral territory
 - **Independent Merchants** - Non-aligned commercial operations
 - **International Trade Organizations** - Cross-border commercial cooperation
 - **Professional Service Providers** - Industry-specific neutral services
@@ -674,9 +674,9 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 ### Character Cross-World Relationships
 
 #### **Dual-World Character Operations**
-**[[Marina-Red-Tide-Coralheart]] - Cross-World Criminal Coordinator:**
-- **Aethermoor Activities**: [[Port Meridian]] smuggling operations and criminal networking
-- **Aquabyssos Operations**: [[Abyssos Prime]] underground economy and information brokerage
+**[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Cross-World Criminal Coordinator:**
+- **Aethermoor Activities**: [[02_Worldbuilding/Places/Port Meridian]] smuggling operations and criminal networking
+- **Aquabyssos Operations**: [[02_Worldbuilding/Places/Abyssos Prime]] underground economy and information brokerage
 - **Government Connections**: Secret Crown agent status in both worlds
 - **Criminal Bridge**: Information and resource coordination between criminal networks
 
@@ -687,13 +687,13 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 - **Operational Coordination** - Joint operations and strategic planning
 
 #### **Dimensional and Reality-Based Relationships**
-**[[The Senator]] - Dimensional Political Figure:**
+**[[02_Worldbuilding/People/The Senator]] - Dimensional Political Figure:**
 - **Government Presence** - Official representation in both world governments
 - **Dimensional Authority** - Cross-world political coordination and policy alignment
 - **Reality Management** - Dimensional stability and cross-world governance
 - **Political Complexity** - Multi-dimensional loyalty and allegiance questions
 
-**[[Tenebrarum Ambassadors]] - Shadow Diplomats:**
+**[[02_Worldbuilding/People/Tenebrarum Ambassadors]] - Shadow Diplomats:**
 - **Shadow Realm Representation** - Dimensional entity diplomatic relations
 - **Reality Manipulation** - Cross-world shadow magic and dimensional influence
 - **Political Infiltration** - Government influence and shadow authority
@@ -703,7 +703,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Academic and Research Cooperation**
 **Cross-World Knowledge Networks:**
-- **[[The Seekers' Guild]]** ↔ **[[The Convergence Seekers]]** (reality research cooperation)
+- **[[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]** ↔ **[[02_Worldbuilding/Groups/The Convergence Seekers]]** (reality research cooperation)
 - **Academic Institution Partnerships** - Research collaboration and knowledge sharing
 - **Professional Exchange Programs** - Expert consultation and skill sharing
 - **Cultural Documentation Projects** - Cross-world cultural study and preservation
@@ -716,7 +716,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Criminal Network Integration**
 **Cross-World Criminal Cooperation:**
-- **[[The Forsaken Consortium Collective]]** - Multi-world criminal operations
+- **[[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]** - Multi-world criminal operations
 - **Information Network Integration** - Intelligence sharing and coordination
 - **Resource Trafficking Networks** - Illegal goods and services exchange
 - **Corruption Network Coordination** - Cross-world governmental infiltration
@@ -730,26 +730,26 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 ### Historical and Cultural Cross-World Connections
 
 #### **Shared Historical Legacy**
-**[[Ancient Mer-Folk Empire]] - Predecessor Civilization:**
+**[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]] - Predecessor Civilization:**
 - **Cultural Foundation** - Shared cultural and governmental traditions
 - **Technological Heritage** - Ancient technology and magical applications
 - **Historical Legitimacy** - Governmental authority and cultural continuity
 - **Archaeological Evidence** - Physical remains and cultural artifacts
 
-**[[The Seven Betrayers]] - Cross-World Historical Impact:**
+**[[02_Worldbuilding/Lore/The Seven Betrayers]] - Cross-World Historical Impact:**
 - **Historical Lessons** - Cautionary tales and moral guidance
 - **Cultural Memory** - Shared historical trauma and recovery
 - **Political Parallels** - Contemporary situations and historical patterns
 - **Moral Framework** - Ethical standards and behavioral expectations
 
 #### **Prophetic and Mystical Connections**
-**[[The Great Convergence Prophecies]] - World Reunion Predictions:**
+**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]] - World Reunion Predictions:**
 - **Prophetic Guidance** - Future planning and decision-making direction
 - **Mystical Preparation** - Reality manipulation and convergence preparation
 - **Cultural Significance** - Shared destiny and community purpose
 - **Political Implications** - Governmental planning and policy development
 
-**[[Reality Merge Zones]] - Physical World Intersection:**
+**[[02_Worldbuilding/Lore/Reality Merge Zones]] - Physical World Intersection:**
 - **Dimensional Travel** - Cross-world movement and exploration
 - **Reality Navigation** - Dimensional stability and travel safety
 - **Resource Exchange** - Cross-world trade and resource sharing
@@ -763,38 +763,38 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Government Crisis Scenarios**
 **Royal Succession Crisis (Aethermoor):**
-- **Key Locations**: [[Crystalhaven]], [[Royal Palace]], [[Azure Citadel]]
-- **Primary NPCs**: [[Queen Seraphina]], [[Prince Caspian]], [[Lord Commander Gareth]]
-- **Faction Involvement**: [[The Crown Authority]], [[Crystal Wardens]], Exile supporters
-- **Lore Integration**: [[The Shattering of the Crown]], succession laws, royal legitimacy
+- **Key Locations**: [[02_Worldbuilding/Places/Crystalhaven]], [[02_Worldbuilding/Places/Royal Palace]], [[02_Worldbuilding/Places/Azure Citadel]]
+- **Primary NPCs**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]], [[02_Worldbuilding/Lore/Prince Caspian]], [[02_Worldbuilding/People/Lord Commander Gareth]]
+- **Faction Involvement**: [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]], [[02_Worldbuilding/People/Crystal Wardens]], Exile supporters
+- **Lore Integration**: [[02_Worldbuilding/Lore/The Shattering of the Crown]], succession laws, royal legitimacy
 
 **Parliamentary Corruption Investigation (Aquabyssos):**
-- **Key Locations**: [[Parliament of Echoes]], [[Silverscale Banking House]], [[Abyssos Prime]]
-- **Primary NPCs**: [[Senator Glaucus]], [[Director Hadrian Silverscale]], [[Emperor Thalassius]]
-- **Faction Involvement**: [[Parliament of Echoes]], [[Silverscale Consortium]], Reform movements
-- **Lore Integration**: [[The Silverscale Conspiracy]], [[Timeline of Crimes]], governmental reform
+- **Key Locations**: [[02_Worldbuilding/Places/Parliament of Echoes]], [[02_Worldbuilding/Lore/Silverscale Banking House]], [[02_Worldbuilding/Places/Abyssos Prime]]
+- **Primary NPCs**: [[02_Worldbuilding/People/Senator Glaucus]], [[02_Worldbuilding/Lore/Director Hadrian Silverscale]], [[02_Worldbuilding/People/Emperor Thalassius]]
+- **Faction Involvement**: [[02_Worldbuilding/Places/Parliament of Echoes]], [[02_Worldbuilding/Groups/Silverscale Consortium]], Reform movements
+- **Lore Integration**: [[02_Worldbuilding/Lore/The Silverscale Conspiracy]], [[02_Worldbuilding/Lore/Timeline of Crimes]], governmental reform
 
 #### **Cross-World Political Coordination**
 **Diplomatic Crisis Management:**
-- **Key Locations**: Diplomatic facilities in both worlds, [[The Convergence Point]]
-- **Primary NPCs**: [[Ambassador Korvin Blacktide]], [[The Senator]], diplomatic staff
+- **Key Locations**: Diplomatic facilities in both worlds, [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
+- **Primary NPCs**: [[02_Worldbuilding/People/Ambassador Korvin Blacktide]], [[02_Worldbuilding/People/The Senator]], diplomatic staff
 - **Faction Involvement**: Both world governments, diplomatic organizations
-- **Lore Integration**: [[Continental Connections & Story Weave]], diplomatic history
+- **Lore Integration**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Continental Connections & Story Weave]], diplomatic history
 
 ### Economic and Commercial Adventure Networks
 
 #### **Trade War Scenarios**
 **Crystal Commerce Conflicts (Aethermoor):**
-- **Key Locations**: [[Port Meridian]], crystal production facilities, trade routes
-- **Primary NPCs**: [[Lord Aurelius Goldwave]], [[Master Chen Wei]], trade representatives
-- **Faction Involvement**: [[Merchant Princes]], [[Master Artificers Guild]], international traders
-- **Lore Integration**: [[The Merchant Code of Ethics]], trade relationships, economic warfare
+- **Key Locations**: [[02_Worldbuilding/Places/Port Meridian]], crystal production facilities, trade routes
+- **Primary NPCs**: [[02_Worldbuilding/People/Lord Aurelius Goldwave]], [[02_Worldbuilding/Groups/Master Chen Wei]], trade representatives
+- **Faction Involvement**: [[02_Worldbuilding/Groups/Merchant Princes]], [[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]], international traders
+- **Lore Integration**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Merchant Code of Ethics]], trade relationships, economic warfare
 
 **Memory Commerce Ethics (Aquabyssos):**
-- **Key Locations**: [[Memory Meadows Black Market]], legal memory facilities, research centers
-- **Primary NPCs**: [[Memory Merchant Valeria Siltweave]], medical specialists, legal authorities
+- **Key Locations**: [[02_Worldbuilding/Places/Memory Meadows Black Market]], legal memory facilities, research centers
+- **Primary NPCs**: [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]], medical specialists, legal authorities
 - **Faction Involvement**: Memory trading organizations, medical communities, government regulators
-- **Lore Integration**: [[Memory Alterations]], consciousness ethics, legal frameworks
+- **Lore Integration**: [[02_Worldbuilding/Lore/Memory Alterations]], consciousness ethics, legal frameworks
 
 #### **Resource Control Conflicts**
 **Strategic Resource Access:**
@@ -807,15 +807,15 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Criminal Investigation Scenarios**
 **Shadow Conspiracy Infiltration (Aquabyssos):**
-- **Key Locations**: [[The Umbral Exchange]], [[Reflection Pools - Surgical Theater]], government facilities
-- **Primary NPCs**: [[Vex Shadowthorn]], [[Shadow Duchess Nyx]], investigating authorities
-- **Faction Involvement**: [[The Shadow Conspiracy]], [[Shadow Surgeons Collective]], law enforcement
-- **Lore Integration**: [[Shadow Magic Integration Practices]], consciousness manipulation, reality alteration
+- **Key Locations**: [[02_Worldbuilding/Groups/The Umbral Exchange]], [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]], government facilities
+- **Primary NPCs**: [[02_Worldbuilding/People/Vex Shadowthorn]], [[02_Worldbuilding/People/Shadow Duchess Nyx]], investigating authorities
+- **Faction Involvement**: [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]], [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]], law enforcement
+- **Lore Integration**: [[02_Worldbuilding/Lore/Shadow Magic Integration Practices]], consciousness manipulation, reality alteration
 
 **Cross-World Criminal Networks:**
 - **Key Locations**: Criminal facilities in both worlds, border crossing points
-- **Primary NPCs**: [[Marina-Red-Tide-Coralheart]], [[Marcus "The Shade" Blackwood]]
-- **Faction Involvement**: [[The Forsaken Consortium Collective]], law enforcement cooperation
+- **Primary NPCs**: [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]], [[Marcus "The Shade" Blackwood]]
+- **Faction Involvement**: [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]], law enforcement cooperation
 - **Lore Integration**: Cross-world crime, international cooperation, jurisdiction challenges
 
 #### **Moral Complexity Scenarios**
@@ -829,23 +829,23 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Reality Manipulation Scenarios**
 **Cross-World Reality Management:**
-- **Key Locations**: [[Merged Reality Zones]], [[The Convergence Point]], reality research facilities
-- **Primary NPCs**: [[The Convergence Seekers]], reality specialists, dimensional entities
+- **Key Locations**: [[02_Worldbuilding/Lore/Merged Reality Zones]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]], reality research facilities
+- **Primary NPCs**: [[02_Worldbuilding/Groups/The Convergence Seekers]], reality specialists, dimensional entities
 - **Faction Involvement**: Reality research organizations, government authorities, mystical orders
-- **Lore Integration**: [[Reality Merge Zones]], [[Temporal Anomaly Resolution]], dimensional theory
+- **Lore Integration**: [[02_Worldbuilding/Lore/Reality Merge Zones]], [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]], dimensional theory
 
 **Ancient Power Recovery:**
-- **Key Locations**: [[The Lighthouse of Storms]], [[Seven Shards]] locations, ancient ruins
-- **Primary NPCs**: [[The Crimson Sage]], [[Order of the Shattered Crown]] members, power seekers
+- **Key Locations**: [[02_Worldbuilding/Lore/The Lighthouse of Storms]], [[02_Worldbuilding/Places/Seven Shards]] locations, ancient ruins
+- **Primary NPCs**: [[02_Worldbuilding/People/The Crimson Sage]], [[02_Worldbuilding/People/Order of the Shattered Crown]] members, power seekers
 - **Faction Involvement**: Ancient orders, government authorities, treasure hunters
-- **Lore Integration**: [[The Shattering of the Crown]], ancient technologies, power restoration
+- **Lore Integration**: [[02_Worldbuilding/Lore/The Shattering of the Crown]], ancient technologies, power restoration
 
 #### **Prophetic and Destiny Scenarios**
 **Prophecy Fulfillment Missions:**
 - **Key Locations**: Prophetic sites, mystical locations, convergence points
-- **Primary NPCs**: [[Oracle Nerida the Tidereader]], prophetic authorities, destiny seekers
+- **Primary NPCs**: [[02_Worldbuilding/People/Oracle Nerida the Tidereader]], prophetic authorities, destiny seekers
 - **Faction Involvement**: Religious organizations, mystical orders, governmental planning
-- **Lore Integration**: [[The Great Convergence Prophecies]], prophetic interpretation, destiny fulfillment
+- **Lore Integration**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]], prophetic interpretation, destiny fulfillment
 
 ---
 
@@ -855,10 +855,10 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Ultimate Authority Networks**
 **World-Shaping Power Centers:**
-- **[[Queen Seraphina Lumengarde]]** (Aethermoor) - Royal authority with corruption vulnerability
-- **[[Emperor Thalassius the Wise]]** (Aquabyssos) - Imperial authority with parliamentary constraints
-- **[[The Shadow Conspiracy]]** (Aquabyssos) - Hidden reality manipulation network
-- **[[Vex Shadowthorn]]** (Aquabyssos) - Criminal empire leadership with reality alteration capability
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** (Aethermoor) - Royal authority with corruption vulnerability
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** (Aquabyssos) - Imperial authority with parliamentary constraints
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]** (Aquabyssos) - Hidden reality manipulation network
+- **[[02_Worldbuilding/People/Vex Shadowthorn]]** (Aquabyssos) - Criminal empire leadership with reality alteration capability
 
 **Authority Relationship Dynamics:**
 - **Official vs. Hidden Authority** - Governmental power vs. shadow network influence
@@ -868,10 +868,10 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Regional and Specialized Authority Networks**
 **High-Influence Regional Powers:**
-- **[[Admiral Cassandra Stormwind]]** + **[[Admiral Thorne Blackwater]]** - Naval authority coordination
-- **[[Lord Commander Gareth Steelborn]]** - Elite military command and royal protection
-- **[[Lord Aurelius Goldwave]]** - Economic authority and commercial coordination
-- **[[Duke Cyrus Reefheart]]** - Regional governance and environmental authority
+- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** + **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Naval authority coordination
+- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Elite military command and royal protection
+- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Economic authority and commercial coordination
+- **[[02_Worldbuilding/People/Duke Cyrus Reefheart]]** - Regional governance and environmental authority
 
 **Specialized Authority Domains:**
 - **Military Command Networks** - Defense coordination and territorial security
@@ -883,8 +883,8 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Economic Influence Networks**
 **Financial Control Systems:**
-- **[[Silverscale Consortium]]** → Government policy influence through corruption
-- **[[Merchant Princes]]** → International trade control and economic policy
+- **[[02_Worldbuilding/Groups/Silverscale Consortium]]** → Government policy influence through corruption
+- **[[02_Worldbuilding/Groups/Merchant Princes]]** → International trade control and economic policy
 - **Criminal financial networks** → Underground economy and corruption funding
 - **Professional guilds** → Industry standards and market regulation
 
@@ -895,9 +895,9 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Information and Knowledge Influence Networks**
 **Information Control Systems:**
-- **[[The Whisper Syndicate]]** → Political blackmail and information manipulation
-- **[[Archivist Mnemonic the Forgotten]]** → Historical knowledge and cultural authority
-- **[[The Seekers' Guild]]** → Research coordination and knowledge development
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]** → Political blackmail and information manipulation
+- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]** → Historical knowledge and cultural authority
+- **[[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]** → Research coordination and knowledge development
 - **Memory trading networks** → Consciousness manipulation and identity control
 
 **Information Power Flow:**
@@ -907,8 +907,8 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **Military and Security Influence Networks**
 **Force Projection Systems:**
-- **[[Crystal Wardens]]** → Elite military capability and royal protection
-- **[[The Deepwatch Guard]]** → Territorial control and extreme environment authority
+- **[[02_Worldbuilding/People/Crystal Wardens]]** → Elite military capability and royal protection
+- **[[02_Worldbuilding/Groups/The Deepwatch Guard]]** → Territorial control and extreme environment authority
 - **Criminal enforcement networks** → Underground security and territory control
 - **International military cooperation** → Cross-border security and diplomatic protection
 
@@ -924,22 +924,22 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 ### Instant Relationship Lookup
 
 #### **By Character Name:**
-- **[[Queen Seraphina]]** → Royal court networks, Crystal Wardens, Religious authority, Economic allies
-- **[[Vex Shadowthorn]]** → Criminal networks, Shadow conspiracy, Government infiltration, Reality manipulation
-- **[[Lord Aurelius]]** → Economic networks, Royal alliance, International trade, Secret redemption quests
-- **[[Emperor Thalassius]]** → Imperial authority, Parliamentary relations, Military command, Regional governance
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]]** → Royal court networks, Crystal Wardens, Religious authority, Economic allies
+- **[[02_Worldbuilding/People/Vex Shadowthorn]]** → Criminal networks, Shadow conspiracy, Government infiltration, Reality manipulation
+- **[[02_Worldbuilding/People/Lord Aurelius]]** → Economic networks, Royal alliance, International trade, Secret redemption quests
+- **[[02_Worldbuilding/People/Emperor Thalassius]]** → Imperial authority, Parliamentary relations, Military command, Regional governance
 
 #### **By Organization:**
-- **[[Crystal Wardens]]** → Royal authority, Military networks, Religious cooperation, Anti-criminal operations
-- **[[The Shadow Trade Network]]** → Criminal cooperation, Government corruption, Underground economy
-- **[[Parliament of Echoes]]** → Imperial relations, Shadow infiltration, Legislative authority, Public policy
-- **[[Merchant Princes]]** → Economic control, International trade, Royal alliance, Commercial regulation
+- **[[02_Worldbuilding/People/Crystal Wardens]]** → Royal authority, Military networks, Religious cooperation, Anti-criminal operations
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]** → Criminal cooperation, Government corruption, Underground economy
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]** → Imperial relations, Shadow infiltration, Legislative authority, Public policy
+- **[[02_Worldbuilding/Groups/Merchant Princes]]** → Economic control, International trade, Royal alliance, Commercial regulation
 
 #### **By Location:**
-- **[[Port Meridian]]** → Commercial networks, Maritime authority, International connections, Criminal infiltration
-- **[[Abyssos Prime]]** → Imperial authority, Parliamentary politics, Criminal operations, Cultural centers
-- **[[The Umbral Exchange]]** → Criminal networks, Shadow magic, Underground economy, Illegal services
-- **[[Crystalhaven]]** → Royal authority, Military command, Religious center, Academic research
+- **[[02_Worldbuilding/Places/Port Meridian]]** → Commercial networks, Maritime authority, International connections, Criminal infiltration
+- **[[02_Worldbuilding/Places/Abyssos Prime]]** → Imperial authority, Parliamentary politics, Criminal operations, Cultural centers
+- **[[02_Worldbuilding/Groups/The Umbral Exchange]]** → Criminal networks, Shadow magic, Underground economy, Illegal services
+- **[[02_Worldbuilding/Places/Crystalhaven]]** → Royal authority, Military command, Religious center, Academic research
 
 #### **By Adventure Type:**
 - **Political Intrigue** → Government authorities, Opposition movements, Diplomatic networks, Power struggles
@@ -966,7 +966,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 - **[[Master_Lore_Index|Master Lore Index]]** - Historical and cultural information
 - **[[Master_People_Index|Master People Index]]** - Character details and relationships
 - **[[Master_Groups_Index|Master Groups Index]]** - Organization structure and influence
-- **[[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]** - Session-ready reference materials
+- **[[vault_backup_20250813_073007/Campaign Quick Reference Sheets]]** - Session-ready reference materials
 
 ---
 
@@ -978,95 +978,95 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 ## Connections
 
-- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
+- [[vault_backup_20250813_073007/Campaign Quick Reference Sheets]]
 
 ## Cross-References
 
 - [[Vault_Navigation_Hub|Vault Navigation Hub]]
-- [[Ancient Mer-Folk Empire]]
-- [[Captain Rodrigo Ironanchor]]
-- [[Crystal Wardens]]
-- [[Lady Venetia Silkwind]]
-- [[Master Artificers Guild]]
-- [[Master Chen Wei]]
-- [[Merchant Princes]]
-- [[Purist Coalition]]
-- [[Shadow Surgeons Collective]]
-- [[Silverscale Consortium]]
-- [[Temple of Divine Order]]
-- [[The Crown Authority]]
-- [[The Deepwatch Guard]]
-- [[The Deepwater Trading Consortium]]
-- [[The Forsaken Consortium Collective]]
-- [[The Seekers' Guild]]
-- [[The Shadow Conspiracy]]
-- [[The Shadow Trade Network]]
-- [[The Whisper Syndicate]]
-- [[Vex Shadowthorn]]
-- [[Ancient Aquabyssos Rulers]]
-- [[Ancient Siege Tunnels]]
-- [[Commander Shadowguard]]
-- [[Crystal Corruption Taboos]]
-- [[Crystal-Corruption-Tracking-Sheet]]
-- [[02_Worldbuilding/Groups/Master Trader Darkmarke|02 Worldbuilding/Groups/Master Trader Darkmarke]]
-- [[Merged Reality Zones]]
-- [[Multiple Recursion Levels]]
-- [[Pressure Adaptation System]]
-- [[Prince Caspian]]
-- [[Queen Seraphina]]
-- [[Reality Merge Zones]]
-- [[Shadow Magic Integration Practices]]
-- [[Temporal Anomaly Resolution]]
-- [[The Convergence Point]]
-- [[The Great Convergence Prophecies]]
-- [[The Lighthouse of Storms]]
-- [[The Seven Betrayers]]
-- [[The Seven Shards]]
+- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
+- [[02_Worldbuilding/Groups/Captain Rodrigo Ironanchor]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Lady Venetia Silkwind]]
+- [[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
+- [[02_Worldbuilding/Groups/Master Chen Wei]]
+- [[02_Worldbuilding/Groups/Merchant Princes]]
+- [[02_Worldbuilding/Groups/Purist Coalition]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
+- [[02_Worldbuilding/Groups/The Deepwatch Guard]]
+- [[02_Worldbuilding/Groups/The Deepwater Trading Consortium]]
+- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
+- [[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers]]
+- [[02_Worldbuilding/Lore/Ancient Siege Tunnels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Commander Shadowguard]]
+- [[02_Worldbuilding/Lore/Crystal Corruption Taboos]]
+- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
+- [[02_Worldbuilding/Groups/Master Trader Darkmarke]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multiple Recursion Levels]]
+- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
+- [[02_Worldbuilding/Lore/Prince Caspian]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]]
+- [[02_Worldbuilding/Lore/Reality Merge Zones]]
+- [[02_Worldbuilding/Lore/Shadow Magic Integration Practices]]
+- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]]
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[02_Worldbuilding/Lore/The Seven Betrayers]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
 - [[02_Worldbuilding/Groups/The Shadow Merchant Prim|02 Worldbuilding/Groups/The Shadow Merchant Prim]]
-- [[The Shattering of the Crown]]
-- [[The Silverscale Conspiracy]]
-- [[Tidal Memory Ceremonies]]
-- [[Timeline of Crimes]]
-- [[Timeline of the Drowning]]
-- [[Admiral Cassandra Stormwind]]
-- [[Admiral Thorne Blackwater]]
-- [[Archivist Mnemonic the Forgotten]]
-- [[Brother Marcus Steelbane]]
-- [[Captain Lyanna Brightshield]]
-- [[Duke Cyrus Reefheart]]
-- [[Emperor Thalassius the Wise]]
-- [[Emperor Thalassius]]
-- [[High Priest Dagon Deepcaller]]
-- [[High Priestess Celeste Dawnbringer]]
-- [[Lord Aurelius Goldwave]]
-- [[Lord Commander Gareth Steelborn]]
-- [[Marina-Red-Tide-Coralheart]]
-- [[Master Artificer Korvin Gearwright]]
-- [[Memory Merchant Valeria Siltweave]]
-- [[Oracle Nerida the Tidereader]]
-- [[Order of the Shattered Crown]]
-- [[Prince Caspian Duskwater]]
-- [[Professor Aldric Crystalweaver]]
-- [[Queen Seraphina Lumengarde]]
-- [[Scholar Vivienne the Chronicler]]
-- [[Senator Glaucus]]
-- [[Tenebrarum Ambassadors]]
-- [[The Crimson Sage]]
-- [[The Harmony Collective]]
-- [[The Senator]]
-- [[Abyssos Prime]]
-- [[Azure Citadel]]
-- [[Crystal Gardens]]
-- [[Crystalhaven]]
-- [[Goldspire Confederacy]]
-- [[Harbormaster Erik Saltbeard]]
-- [[Ironhold]]
-- [[Memory Meadows Black Market]]
-- [[New Thalassopolis]]
-- [[Parliament of Echoes]]
-- [[Port Meridian]]
-- [[Reflection Pools - Surgical Theater]]
-- [[Royal Palace]]
-- [[Sylvanheart]]
-- [[The Sundered Peaks]]
-- [[The Tidecaller]]
+- [[02_Worldbuilding/Lore/The Shattering of the Crown]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[02_Worldbuilding/Lore/Tidal Memory Ceremonies]]
+- [[02_Worldbuilding/Lore/Timeline of Crimes]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
+- [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/Emperor Thalassius]]
+- [[02_Worldbuilding/People/High Priest Dagon Deepcaller]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
+- [[02_Worldbuilding/People/Order of the Shattered Crown]]
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
+- [[02_Worldbuilding/People/Senator Glaucus]]
+- [[02_Worldbuilding/People/Tenebrarum Ambassadors]]
+- [[02_Worldbuilding/People/The Crimson Sage]]
+- [[02_Worldbuilding/People/The Harmony Collective]]
+- [[02_Worldbuilding/People/The Senator]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/Places/Goldspire Confederacy]]
+- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[02_Worldbuilding/Places/Ironhold]]
+- [[02_Worldbuilding/Places/Memory Meadows Black Market]]
+- [[02_Worldbuilding/Places/New Thalassopolis]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [[02_Worldbuilding/Places/Royal Palace]]
+- [[02_Worldbuilding/Places/Sylvanheart]]
+- [[02_Worldbuilding/Places/The Sundered Peaks]]
+- [[02_Worldbuilding/People/The Tidecaller]]

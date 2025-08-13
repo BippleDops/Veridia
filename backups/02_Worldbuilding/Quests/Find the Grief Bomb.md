@@ -28,49 +28,49 @@ updated: '2025-08-13T01:18:34.507522+00:00'
 
 **Type:** Investigation/Horror  
 **Level:** 8-12  
-**Location:** [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace|02 Worldbuilding/Places/Abyssos Prime Inverse Palace]], [[02_Worldbuilding/Places/The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]  
+**Location:** [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]], [[02_Worldbuilding/Places/The Archive of Unremembered Things]]  
 **Duration:** 3-4 sessions  
 **Threat:** Psychological warfare device threatens to destroy collective memory
 
-**Connected Locations:** [[02_Worldbuilding/Places/The Deepmind|02 Worldbuilding/Places/The Deepmind]], [[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]], [[02_Worldbuilding/Places/Shadow Market Canals|02 Worldbuilding/Places/Shadow Market Canals]]  
-**Related Groups:** [[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]], [[02_Worldbuilding/Groups/Shadow Surgeons Collective|02 Worldbuilding/Groups/Shadow Surgeons Collective]], [[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]  
+**Connected Locations:** [[02_Worldbuilding/Places/The Deepmind]], [[02_Worldbuilding/Places/Parliament of Echoes]], [[02_Worldbuilding/Places/Shadow Market Canals]]  
+**Related Groups:** [[02_Worldbuilding/Groups/Orders/Order of the Drowned Star]], [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]], [[02_Worldbuilding/Places/Memory Farmers]]  
 **Key Themes:** Psychological warfare, [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]], memory manipulation, [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]
 
 ## Overview
-The [[Order of the Drowned Star]] has developed a horrifying weapon called the "Grief Bomb" - a crystalline device that forces entire populations to experience profound, paralyzing sorrow. Intelligence suggests it's hidden somewhere in the [[Abyssos Prime - Inverse Palace]], designed to be detonated during a major political gathering to cripple [[Aquabyssos]]'s leadership permanently.
+The [[02_Worldbuilding/Groups/Orders/Order of the Drowned Star]] has developed a horrifying weapon called the "Grief Bomb" - a crystalline device that forces entire populations to experience profound, paralyzing sorrow. Intelligence suggests it's hidden somewhere in the [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]], designed to be detonated during a major political gathering to cripple [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s leadership permanently.
 
 ## Background
-[[High Inquisitor Maltheos]] discovered plans for the Grief Bomb in captured [[Shadow Surgeons Collective]] documents. The weapon works by amplifying traumatic memories and projecting them into the minds of everyone within a 2-mile radius. Victims become catatonic with grief, reliving their worst losses on an endless loop.
+[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] discovered plans for the Grief Bomb in captured [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]] documents. The weapon works by amplifying traumatic memories and projecting them into the minds of everyone within a 2-mile radius. Victims become catatonic with grief, reliving their worst losses on an endless loop.
 
 ## Key NPCs
-- **[[02_Worldbuilding/People/Anti-Priest Nullus|02 Worldbuilding/People/Anti Priest Nullus]]**: Fanatical creator of the Grief Bomb, believes suffering purifies
-- **[[02_Worldbuilding/People/Memory Merchant Zephyr Mindweaver|02 Worldbuilding/People/Memory Merchant Zephyr Mindweaver]]**: Has crucial intelligence about memory-based weapons
-- **[[02_Worldbuilding/People/Vault Keeper Eternal|02 Worldbuilding/People/Vault Keeper Eternal]]**: Knows the location of emotion-dampening artifacts
-- **[[02_Worldbuilding/People/Time-Lost Delegate Chronus|02 Worldbuilding/People/Time Lost Delegate Chronus]]**: Witnessed similar weapons in other timelines
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]**: Lead investigator who discovered the plot
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Anti-Priest Nullus]]**: Fanatical creator of the Grief Bomb, believes suffering purifies
+- **[[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]**: Has crucial intelligence about memory-based weapons
+- **[[02_Worldbuilding/Places/Vault Keeper Eternal]]**: Knows the location of emotion-dampening artifacts
+- **[[02_Worldbuilding/Places/Time-Lost Delegate Chronus]]**: Witnessed similar weapons in other timelines
+- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]**: Lead investigator who discovered the plot
 - **[[02_Worldbuilding/People/Palace Guard Captain Ironclad|02 Worldbuilding/People/Palace Guard Captain Ironclad]]**: Security expert coordinating palace defenses
 
 ## Investigation Phases
 
 ### Phase 1: Gathering Intelligence (1 session)
-**Location:** [[Port Meridian - Harbor District]]  
+**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Harbor District]]  
 **Objective:** Learn about the weapon and its potential hiding places
 
 **Key Locations:**
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]**: Contains research on emotional manipulation magic
-- **[[02_Worldbuilding/Places/Shadow Market Canals|02 Worldbuilding/Places/Shadow Market Canals]]**: Black market dealers selling "extracted sorrows"
-- **[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]**: Infiltrate to access classified reports
-- **[[02_Worldbuilding/Places/The Deepmind|02 Worldbuilding/Places/The Deepmind]]**: Understanding the psychological impact of memory weapons
-- **[[02_Worldbuilding/Places/Temple District|02 Worldbuilding/Places/Temple District]]**: Religious perspectives on grief and healing
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]**: Contains research on emotional manipulation magic
+- **[[02_Worldbuilding/Places/Shadow Market Canals]]**: Black market dealers selling "extracted sorrows"
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Infiltrate to access classified reports
+- **[[02_Worldbuilding/Places/The Deepmind]]**: Understanding the psychological impact of memory weapons
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple District]]**: Religious perspectives on grief and healing
 
 **Clues to Find:**
-1. **Crystalline Resonance Patterns**: The bomb uses modified [[Seven Shards]] fragments
+1. **Crystalline Resonance Patterns**: The bomb uses modified [[02_Worldbuilding/Places/Seven Shards]] fragments
 2. **Memory Harvesting Equipment**: Strange surgical tools found in raids
 3. **Timeline Anomalies**: Temporal distortions around the palace suggest active magic
 4. **Emotional Residue**: Psychic investigators detect "grief shadows" in certain areas
 
 ### Phase 2: The Palace Infiltration (1-2 sessions)
-**Location:** [[Abyssos Prime - Inverse Palace]]  
+**Location:** [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]  
 **Objective:** Navigate the twisted architecture to locate the bomb
 
 **Challenges:**
@@ -80,13 +80,13 @@ The [[Order of the Drowned Star]] has developed a horrifying weapon called the "
 - **Temporal Loops**: Some rooms repeat the same tragic moment endlessly
 
 **Key Areas:**
-- **[[Inverted Ballroom Wing - Party Quarters]]**: Social events provide cover for investigation
-- **[[Palace Courtyard - Crystal Garden]]**: Crystalline growths here resonate with the bomb
-- **[[Throne Room - Heart of Palace]]**: The ultimate target location for the weapon
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverted Ballroom Wing - Party Quarters]]**: Social events provide cover for investigation
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]**: Crystalline growths here resonate with the bomb
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Throne Room - Heart of Palace]]**: The ultimate target location for the weapon
 
 ### Phase 3: The Confrontation (1 session)
-**Location:** [[The Original Palace]] (accessed through reality tears)  
-**Objective:** Stop [[Anti-Priest Nullus]] from activating the Grief Bomb
+**Location:** [[02_Worldbuilding/Places/The Original Palace]] (accessed through reality tears)  
+**Objective:** Stop [[vault_backup_20250813_073007/02_Worldbuilding/Places/Anti-Priest Nullus]] from activating the Grief Bomb
 
 ## The Grief Bomb
 **Appearance:** A 3-foot crystalline sphere covered in carved faces showing expressions of loss  
@@ -103,10 +103,10 @@ When activated, all creatures in range must make DC 20 Wisdom saves or be affect
 
 ## Defusing the Bomb
 **Requirements:**
-1. **[[Temporal Navigation]] expertise** to access the bomb's temporal core
+1. **[[02_Worldbuilding/Places/Temporal Navigation]] expertise** to access the bomb's temporal core
 2. **Memory healing magic** to repair fractured emotional channels
-3. **Crystal singing techniques** learned from [[The Singing Trenches]]
-4. **Pure joy essence** harvested from [[Memory Farmers]] who cultivate happiness
+3. **Crystal singing techniques** learned from [[02_Worldbuilding/Places/The Singing Trenches]]
+4. **Pure joy essence** harvested from [[02_Worldbuilding/Places/Memory Farmers]] who cultivate happiness
 
 **Skill Challenges:**
 - **Arcana DC 20**: Understand the crystalline matrix binding emotions
@@ -189,42 +189,42 @@ Nullus is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell sa
 
 ### Experience and Treasure
 - **7,200 XP** for defeating Nullus and stopping the bomb
-- **[[Sorrow-Root Nightbloom]]**: Magic item that protects against emotional manipulation
-- **Memory Crystal Fragments**: Can be sold to [[Memory Merchants]] for 2,000 gp each
+- **[[02_Worldbuilding/People/Sorrow-Root Nightbloom]]**: Magic item that protects against emotional manipulation
+- **Memory Crystal Fragments**: Can be sold to [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchants]] for 2,000 gp each
 - **Grief Immunity Potion**: Temporary protection against despair effects
 
 ### Story Rewards
-- **Hero of the Depths**: Recognition from [[Parliament of Echoes]]
-- **Memory Keeper Status**: Access to [[The Archive of Unremembered Things]]
-- **Temporal Clearance**: [[Time-Lost Delegate Chronus]] shares timeline secrets
+- **Hero of the Depths**: Recognition from [[02_Worldbuilding/Places/Parliament of Echoes]]
+- **Memory Keeper Status**: Access to [[02_Worldbuilding/Places/The Archive of Unremembered Things]]
+- **Temporal Clearance**: [[02_Worldbuilding/Places/Time-Lost Delegate Chronus]] shares timeline secrets
 
 ## Consequences
 
 ### Success
-- The [[Order of the Drowned Star]] is exposed and hunted by authorities
-- [[Memory Farmers]] develop new techniques to heal emotional trauma
+- The [[02_Worldbuilding/Groups/Orders/Order of the Drowned Star]] is exposed and hunted by authorities
+- [[02_Worldbuilding/Places/Memory Farmers]] develop new techniques to heal emotional trauma
 - Party gains reputation as protectors of Aquabyssos's mental well-being
-- [[Anti-Priest Nullus]]'s defeat weakens grief-based magic across the realm
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Anti-Priest Nullus]]'s defeat weakens grief-based magic across the realm
 
 ### Failure
-- Mass psychological devastation cripples [[Abyssos Prime]] leadership
+- Mass psychological devastation cripples [[02_Worldbuilding/Places/Abyssos Prime]] leadership
 - [[The Deep Mother]] takes advantage of the chaos to expand her influence
 - Surviving officials become paranoid and authoritarian to prevent future attacks
 - The party must live with the knowledge that they could have prevented immense suffering
 
 ## Connected Adventures
-- **[[02_Worldbuilding/Quests/Stop the Shadow Harvest|02 Worldbuilding/Quests/Stop The Shadow Harvest]]**: The Grief Bomb was meant to weaken defenses for this larger plot
-- **[[02_Worldbuilding/Quests/Investigate Shadow Surgeons|02 Worldbuilding/Quests/Investigate Shadow Surgeons]]**: Leads to understanding how the weapon was created
-- **[[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]**: These NPCs become important allies for healing aftermath
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]**: Location holds keys to preventing similar weapons
-- **[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]**: Larger conspiracy behind the psychological weapon
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]**: The Grief Bomb was meant to weaken defenses for this larger plot
+- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Investigate Shadow Surgeons]]**: Leads to understanding how the weapon was created
+- **[[02_Worldbuilding/Places/Memory Farmers]]**: These NPCs become important allies for healing aftermath
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]**: Location holds keys to preventing similar weapons
+- **[[02_Worldbuilding/Groups/Orders/Order of the Drowned Star]]**: Larger conspiracy behind the psychological weapon
 - **[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]**: Connection between grief and divine consciousness
-- **[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched|02 Worldbuilding/People/Sister Thalassa The Depth Touched]]**: Religious perspective on suffering and purification
+- **[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Religious perspective on suffering and purification
 - **[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]**: Crystalline components powering the emotional weapon
-- **[[02_Worldbuilding/Places/The Deepmind|02 Worldbuilding/Places/The Deepmind]]**: Understanding collective psychological trauma
-- **[[02_Worldbuilding/Groups/The Convergence Seekers|02 Worldbuilding/Groups/The Convergence Seekers]]**: Dimensional implications of mass consciousness manipulation
-- **[[02_Worldbuilding/People/Time-Lost Delegate Chronus|02 Worldbuilding/People/Time Lost Delegate Chronus]]**: Temporal perspectives on preventing similar attacks
-- **[[02_Worldbuilding/Groups/The Purist Coalition|02 Worldbuilding/Groups/The Purist Coalition]]**: Opposition to memory and emotion manipulation
+- **[[02_Worldbuilding/Places/The Deepmind]]**: Understanding collective psychological trauma
+- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Dimensional implications of mass consciousness manipulation
+- **[[02_Worldbuilding/Places/Time-Lost Delegate Chronus]]**: Temporal perspectives on preventing similar attacks
+- **[[02_Worldbuilding/Lore/The Purist Coalition]]**: Opposition to memory and emotion manipulation
 
 ## DM Notes
 
@@ -265,23 +265,23 @@ Legends speak of Find the Grief Bomb as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Throne Room - Heart of Palace|02 Worldbuilding/Places/Throne Room Heart Of Palace]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Throne Room - Heart of Palace]]
 
 
 ## Connections
 
-- [[Order of the Drowned Star]]
-- [[Shadow Surgeons Collective]]
-- [[Sorrow-Root Nightbloom]]
-- [[Abyssos Prime - Inverse Palace]]
-- [[Abyssos Prime]]
-- [[Anti-Priest Nullus]]
-- [[Inverted Ballroom Wing - Party Quarters]]
-- [[Memory Farmers]]
-- [[Palace Courtyard - Crystal Garden]]
-- [[Parliament of Echoes]]
-- [[Temporal Navigation]]
-- [[The Archive of Unremembered Things]]
-- [[The Original Palace]]
-- [[The Singing Trenches]]
-- [[Throne Room - Heart of Palace]]
+- [[02_Worldbuilding/Groups/Orders/Order of the Drowned Star]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[02_Worldbuilding/People/Sorrow-Root Nightbloom]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Anti-Priest Nullus]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverted Ballroom Wing - Party Quarters]]
+- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Temporal Navigation]]
+- [[02_Worldbuilding/Places/The Archive of Unremembered Things]]
+- [[02_Worldbuilding/Places/The Original Palace]]
+- [[02_Worldbuilding/Places/The Singing Trenches]]
+- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Throne Room - Heart of Palace]]

@@ -41,10 +41,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Groups/Consortium Security Constructs|02 Worldbuilding/Groups/Consortium Security Constructs]]
+- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
 
 
 ## Connections
 
-- [[Consortium Security Constructs]]
-- [[Silverscale Consortium]]
+- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium]]

@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-wave-healingbringer-v1-wave-healingbringer.svg)
+
+
 
 
 

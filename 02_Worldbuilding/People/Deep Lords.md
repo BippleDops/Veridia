@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-deep-lords-deep-lords.svg)
+
+
 
 
 

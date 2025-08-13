@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-captain-hadal-voidwright-captain-hadal-voidwright.svg)
+
+
 
 
 ## Player-Facing Summary

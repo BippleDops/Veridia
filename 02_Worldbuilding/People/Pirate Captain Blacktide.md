@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-pirate-captain-blacktide-pirate-captain-blacktide.svg)
+
+
 
 
 

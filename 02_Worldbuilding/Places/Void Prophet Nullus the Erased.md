@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:35.963837+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-void-prophet-nullus-the-erased-v1-void-prophet-nullus-the-erased.svg)
+
+
 
 
 

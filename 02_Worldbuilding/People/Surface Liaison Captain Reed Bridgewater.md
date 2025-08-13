@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-surface-liaison-captain-reed-bridgewater-surface-liaison-captain-reed-bridgewater.svg)
+
+
 
 
 

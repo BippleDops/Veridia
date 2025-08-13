@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:36.211240+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-surface-loyalist-safe-houses-surface-loyalist-safe-houses.svg)
+
+
 
 
 

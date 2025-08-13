@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-observatory-district-observatory-district.svg)
+
+
 
 
 ## Player-Facing Summary

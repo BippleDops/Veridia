@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-house-depthguard-house-depthguard.svg)
+
+
 
 
 

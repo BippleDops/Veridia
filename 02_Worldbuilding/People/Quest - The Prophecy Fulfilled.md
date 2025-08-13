@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:36.889513+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-prophecy-fulfilled-quest-the-prophecy-fulfilled.svg)
+
+
 
 
 

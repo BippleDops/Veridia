@@ -31,6 +31,10 @@ related_entities:
 - '[[02_Worldbuilding/Lore/The Deep Mother]]'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-depth-merchants-depth-merchants.svg)
+
+
 
 
 

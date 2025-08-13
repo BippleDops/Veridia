@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:37.028588+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-captain-rhea-blackwater-captain-rhea-blackwater.svg)
+
+
 
 
 

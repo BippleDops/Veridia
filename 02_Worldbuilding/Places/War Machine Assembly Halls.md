@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:35.993398+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-war-machine-assembly-halls-v1-war-machine-assembly-halls.svg)
+
+
 
 
 

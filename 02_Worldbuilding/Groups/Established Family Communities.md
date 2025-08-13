@@ -10,6 +10,10 @@ tags:
 - group
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-established-family-communities-established-family-communities.svg)
+
+
 
 
 

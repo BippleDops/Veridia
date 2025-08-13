@@ -31,6 +31,10 @@ obsidianUIMode: preview
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-pip-goldleaf-pip-goldleaf.svg)
+
+
 
 
 

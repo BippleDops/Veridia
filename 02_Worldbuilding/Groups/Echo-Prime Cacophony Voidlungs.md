@@ -10,6 +10,10 @@ tags:
 - group
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-echo-prime-cacophony-voidlungs-echo-prime-cacophony-voidlungs.svg)
+
+
 
 
 

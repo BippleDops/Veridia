@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:36.174771+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-archive-guardian-thomas-archive-guardian-thomas.svg)
+
+
 
 
 

@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:36.926224+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-tidal-priest-marina-deepcurrent-tidal-priest-marina-deepcurrent.svg)
+
+
 
 
 

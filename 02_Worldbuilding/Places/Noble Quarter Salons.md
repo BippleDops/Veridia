@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-noble-quarter-salons-noble-quarter-salons.svg)
+
+
 
 
 

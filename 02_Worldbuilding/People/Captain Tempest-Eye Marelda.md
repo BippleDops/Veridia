@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:36.972409+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-captain-tempest-eye-marelda-captain-tempest-eye-marelda.svg)
+
+
 
 
 

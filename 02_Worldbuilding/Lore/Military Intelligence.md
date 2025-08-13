@@ -11,6 +11,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:34.769702+00:00'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Locations/location-city-military-intelligence-military-intelligence.svg)
+
+
 
 
 

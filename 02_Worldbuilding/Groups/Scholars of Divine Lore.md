@@ -17,6 +17,10 @@ created: 2025-08-12
 updated: '2025-08-13T01:18:36.689662+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-scholars-of-divine-lore-scholars-of-divine-lore.svg)
+
+
 
 # Scholars of Divine Lore
 

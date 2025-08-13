@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-duke-theron-depthguard-duke-theron-depthguard.svg)
+
+
 
 
 

@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-keeper-of-contracts-minerva-bindingword-keeper-of-contracts-minerva-bindingword.svg)
+
+
 
 
 

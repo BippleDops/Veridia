@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-inter-realm-diplomacy-inter-realm-diplomacy.svg)
+
+
 
 
 

@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-quest-the-harbor-war-quest-the-harbor-war.svg)
+
+
 
 
 

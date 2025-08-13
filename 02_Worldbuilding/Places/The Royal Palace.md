@@ -15,6 +15,10 @@ updated: 2025-08-11
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-royal-palace-the-royal-palace.svg)
+
+
 
 
 

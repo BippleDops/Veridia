@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:36.650688+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-deep-sea-agricultural-research-institut-deep-sea-agricultural-research-institut.svg)
+
+
 
 
 

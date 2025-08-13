@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:36.931545+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-vex-shadowthorn-the-kingpin-v1-vex-shadowthorn-the-kingpin.svg)
+
+
 
 
 

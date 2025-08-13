@@ -10,6 +10,10 @@ tags:
 - lore
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Locations/location-city-law-enforcement-law-enforcement.svg)
+
+
 
 
 ## Cross-References

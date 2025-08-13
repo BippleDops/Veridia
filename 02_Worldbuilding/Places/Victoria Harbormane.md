@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-victoria-harbormane-v1-victoria-harbormane.svg)
+
+
 
 
 

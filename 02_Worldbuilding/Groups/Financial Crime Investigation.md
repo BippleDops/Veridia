@@ -10,6 +10,10 @@ tags:
 - group
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-financial-crime-investigation-financial-crime-investigation.svg)
+
+
 
 
 ## Player-Facing Summary

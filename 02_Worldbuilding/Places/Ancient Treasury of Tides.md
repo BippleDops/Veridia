@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:35.982665+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-ancient-treasury-of-tides-ancient-treasury-of-tides.svg)
+
+
 
 
 

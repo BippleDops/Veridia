@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:36.679899+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-void-echo-silence-deafmake-v1-void-echo-silence-deafmake.svg)
+
+
 
 
 

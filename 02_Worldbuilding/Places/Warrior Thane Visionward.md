@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:36.118625+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-warrior-thane-visionward-v1-warrior-thane-visionward.svg)
+
+
 
 
 

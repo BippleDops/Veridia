@@ -11,6 +11,10 @@ type: Location
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-doctor-coral-shapeshift-doctor-coral-shapeshift.svg)
+
+
 
 
 

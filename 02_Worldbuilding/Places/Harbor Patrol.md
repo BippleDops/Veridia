@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-harbor-patrol-harbor-patrol.svg)
+
+
 
 
 ## Player-Facing Summary

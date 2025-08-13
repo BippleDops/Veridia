@@ -10,6 +10,10 @@ tags:
 - group
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-sacred-texts-of-transformation-sacred-texts-of-transformation.svg)
+
+
 
 
 

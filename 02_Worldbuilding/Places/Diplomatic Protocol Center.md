@@ -14,6 +14,10 @@ created: 2025-08-12
 updated: '2025-08-13T01:18:36.170709+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-diplomatic-protocol-center-diplomatic-protocol-center.svg)
+
+
 
 ## Overview
 

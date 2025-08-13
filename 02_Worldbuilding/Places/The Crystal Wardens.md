@@ -25,6 +25,10 @@ MyCategory: Places
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-crystal-wardens-the-crystal-wardens.svg)
+
+
 
 
 

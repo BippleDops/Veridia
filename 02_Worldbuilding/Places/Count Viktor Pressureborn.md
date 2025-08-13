@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:36.446172+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-count-viktor-pressureborn-count-viktor-pressureborn.svg)
+
+
 
 
 

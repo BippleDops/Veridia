@@ -26,6 +26,10 @@ tags:
 ![](04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-jasper-three-eyes-flint.png)
 
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-jasper-three-eyes-flint.png)
+
+
 
 
 ## Cross-References

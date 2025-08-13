@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:35.980266+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-master-goldwin-ledgerkeeper-master-goldwin-ledgerkeeper.svg)
+
+
 
 
 

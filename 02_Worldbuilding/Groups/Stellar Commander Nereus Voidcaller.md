@@ -10,6 +10,10 @@ tags:
 - group
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-stellar-commander-nereus-voidcaller-stellar-commander-nereus-voidcaller.svg)
+
+
 
 
 

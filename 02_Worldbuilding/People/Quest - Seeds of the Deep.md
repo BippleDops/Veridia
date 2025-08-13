@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:37.018384+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-quest-seeds-of-the-deep-quest-seeds-of-the-deep.svg)
+
+
 
 
 

@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:36.489277+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-marina-clearwater-marina-clearwater.svg)
+
+
 
 
 

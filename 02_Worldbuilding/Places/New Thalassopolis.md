@@ -21,6 +21,10 @@ created: 2025-08-11
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-new-thalassopolis-new-thalassopolis.svg)
+
+
 
 
 

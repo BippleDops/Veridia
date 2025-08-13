@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:36.411424+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-rare-ingredient-network-rare-ingredient-network.svg)
+
+
 
 
 

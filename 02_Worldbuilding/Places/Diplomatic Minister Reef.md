@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-diplomatic-minister-reef-diplomatic-minister-reef.svg)
+
+
 
 
 

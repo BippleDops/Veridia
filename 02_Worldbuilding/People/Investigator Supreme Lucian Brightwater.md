@@ -10,6 +10,10 @@ created: 2025-08-12
 updated: '2025-08-13T01:18:36.994628+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-investigator-supreme-lucian-brightwater-investigator-supreme-lucian-brightwater.svg)
+
+
 
 # Investigator Supreme Lucian Brightwater
 

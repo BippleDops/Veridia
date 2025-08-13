@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-scholar-emperor-thalassius-the-wise-scholar-emperor-thalassius-the-wise.svg)
+
+
 
 
 

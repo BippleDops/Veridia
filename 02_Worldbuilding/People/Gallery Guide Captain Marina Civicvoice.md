@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-gallery-guide-captain-marina-civicvoice-gallery-guide-captain-marina-civicvoice.svg)
+
+
 
 
 

@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-crystal-palace-throne-room-the-crystal-palace-throne-room.svg)
+
+
 
 
 

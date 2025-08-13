@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:36.386333+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-progressive-coalition-headquarters-the-progressive-coalition-headquarters.svg)
+
+
 
 
 

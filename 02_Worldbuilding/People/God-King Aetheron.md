@@ -11,6 +11,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:37.009772+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-god-king-aetheron-god-king-aetheron.svg)
+
+
 
 
 

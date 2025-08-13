@@ -10,6 +10,10 @@ tags:
 - group
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-navigation-post-the-navigation-post.svg)
+
+
 
 
 ## Player-Facing Summary

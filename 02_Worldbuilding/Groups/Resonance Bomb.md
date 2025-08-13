@@ -10,6 +10,10 @@ tags:
 - group
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-resonance-bomb-resonance-bomb.svg)
+
+
 
 
 ## Player-Facing Summary

@@ -10,6 +10,10 @@ tags:
 - group
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-sister-astara-the-ever-watching-sister-astara-the-ever-watching.svg)
+
+
 
 
 

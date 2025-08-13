@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:36.447716+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-countess-marina-stormcrest-countess-marina-stormcrest.svg)
+
+
 
 
 

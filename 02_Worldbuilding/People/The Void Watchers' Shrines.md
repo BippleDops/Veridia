@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-the-void-watchers-shrines-the-void-watchers-shrines.svg)
+
+
 
 
 

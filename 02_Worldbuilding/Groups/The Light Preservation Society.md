@@ -20,6 +20,10 @@ created: '2025-08-12'
 updated: '2025-08-13T01:18:36.684877+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-light-preservation-society-the-light-preservation-society.svg)
+
+
 
 # The Light Preservation Society
 *Guardians of Authentic Humanity*

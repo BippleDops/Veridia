@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:36.392769+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-quartermaster-shadow-supply-quartermaster-shadow-supply.svg)
+
+
 
 
 

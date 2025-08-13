@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-house-of-lords-secret-chamber-house-of-lords-secret-chamber.svg)
+
+
 
 
 

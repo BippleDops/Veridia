@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-the-royal-treasury-depths-the-royal-treasury-depths.svg)
+
+
 
 
 

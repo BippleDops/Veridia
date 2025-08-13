@@ -15,6 +15,10 @@ created: 2025-08-12
 updated: '2025-08-13T04:22:14.944155+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-character-relationship-web-core-npcs-character-relationship-web-core-npcs.svg)
+
+
 
 
 # Character Relationship Web - Core NPCs

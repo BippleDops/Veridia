@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-noble-quarter-market-the-noble-quarter-market.svg)
+
+
 
 
 ## Player-Facing Summary

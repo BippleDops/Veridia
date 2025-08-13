@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:36.299848+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-void-keeper-null-v1-void-keeper-null.svg)
+
+
 
 
 

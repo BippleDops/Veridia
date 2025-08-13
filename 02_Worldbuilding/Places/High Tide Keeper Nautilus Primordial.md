@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-high-tide-keeper-nautilus-primordial-high-tide-keeper-nautilus-primordial.svg)
+
+
 
 
 ## Player-Facing Summary

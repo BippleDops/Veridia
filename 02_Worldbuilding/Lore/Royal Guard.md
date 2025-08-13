@@ -10,6 +10,10 @@ tags:
 - lore
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Locations/location-city-royal-guard-royal-guard.svg)
+
+
 
 
 ## Cross-References

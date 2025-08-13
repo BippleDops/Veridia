@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:36.388715+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-calm-soothingwave-calm-soothingwave.svg)
+
+
 
 
 

@@ -10,6 +10,10 @@ tags:
 - lore
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Locations/location-city-sea-witch-sea-witch.svg)
+
+
 
 
 ## Cross-References

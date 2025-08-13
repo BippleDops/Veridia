@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:36.370486+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-luminous-dawn-cathedral-the-luminous-dawn-cathedral.svg)
+
+
 
 
 

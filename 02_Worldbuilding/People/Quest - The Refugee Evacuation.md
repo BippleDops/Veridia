@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:37.011859+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-refugee-evacuation-quest-the-refugee-evacuation.svg)
+
+
 
 
 

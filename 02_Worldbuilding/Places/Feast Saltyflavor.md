@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:35.969476+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-feast-saltyflavor-feast-saltyflavor.svg)
+
+
 
 
 

@@ -10,6 +10,10 @@ tags:
 - group
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-commander-void-tacticia-commander-void-tacticia.svg)
+
+
 
 
 ## Player-Facing Summary

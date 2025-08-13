@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:36.684117+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-cross-realm-agricultural-exchang-cross-realm-agricultural-exchang.svg)
+
+
 
 
 

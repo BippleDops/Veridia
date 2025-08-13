@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-captain-prism-shield-valeria-captain-prism-shield-valeria.svg)
+
+
 
 
 ## Player-Facing Summary

@@ -11,6 +11,10 @@ updated: '2025-08-13T01:18:36.237361+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-sacred-historian-coral-deepscribe-sacred-historian-coral-deepscribe.svg)
+
+
 
 
 

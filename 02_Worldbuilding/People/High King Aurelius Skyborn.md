@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-high-king-aurelius-skyborn-high-king-aurelius-skyborn.svg)
+
+
 
 
 

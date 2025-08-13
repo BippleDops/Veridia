@@ -26,6 +26,10 @@ related_entities:
 - '[[02_Worldbuilding/People/The Crimson Sage]]'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-crystalline-wastes-the-crystalline-wastes.svg)
+
+
 
 
 

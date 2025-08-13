@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:36.688712+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-grand-abandonment-central-warehouse-comple-the-grand-abandonment-central-warehouse-comple.svg)
+
+
 
 
 

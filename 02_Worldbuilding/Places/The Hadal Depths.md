@@ -23,6 +23,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-hadal-depths-the-hadal-depths.svg)
+
+
 
 
 # The Hadal Depths

@@ -24,6 +24,10 @@ obsidianUIMode: preview
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-senator-s-private-chambers-senator-s-private-chambers.svg)
+
+
 
 
 

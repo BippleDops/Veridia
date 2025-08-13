@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-merchant-lord-cornelius-generous-merchant-lord-cornelius-generous.svg)
+
+
 
 
 

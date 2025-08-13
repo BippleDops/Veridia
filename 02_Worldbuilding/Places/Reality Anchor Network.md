@@ -14,6 +14,10 @@ created: 2025-08-12
 updated: '2025-08-13T01:18:36.349777+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-reality-anchor-network-reality-anchor-network.svg)
+
+
 
 ## Overview
 

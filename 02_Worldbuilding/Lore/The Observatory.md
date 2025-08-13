@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:34.554375+00:00'
 ---
 
+> [!figure] Asset
+![](04_Resources/Assets/Locations/location-city-the-observatory-the-observatory.svg)
+
+
 
 
 

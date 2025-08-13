@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-wandering-prophet-coral-stormrider-v1-wandering-prophet-coral-stormrider.svg)
+
+
 
 
 

@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-navigator-abyssal-truthseeker-navigator-abyssal-truthseeker.svg)
+
+
 
 
 

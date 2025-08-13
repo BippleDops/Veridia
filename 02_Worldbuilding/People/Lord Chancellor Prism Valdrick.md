@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:37.080789+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-lord-chancellor-prism-valdrick-lord-chancellor-prism-valdrick.svg)
+
+
 
 
 

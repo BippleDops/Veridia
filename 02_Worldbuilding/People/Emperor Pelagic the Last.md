@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-emperor-pelagic-the-last-emperor-pelagic-the-last.svg)
+
+
 
 
 

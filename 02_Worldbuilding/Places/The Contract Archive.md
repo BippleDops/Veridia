@@ -10,6 +10,10 @@ tags:
 - location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-contract-archive-the-contract-archive.svg)
+
+
 
 
 ## Player-Facing Summary

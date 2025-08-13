@@ -15,6 +15,10 @@ created: '2025-08-12'
 updated: '2025-08-12'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-agent-whisper-voidheart-agent-whisper-voidheart.svg)
+
+
 # Agent Whisper Voidheart
 *The Parliamentary Shadow*
 

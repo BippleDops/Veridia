@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:37.010508+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-admiral-s-gambit-quest-the-admiral-s-gambit.svg)
+
+
 
 
 

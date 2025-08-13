@@ -13,6 +13,10 @@ created: 2025-08-12
 updated: '2025-08-13T01:18:36.554774+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-pressure-point-settlement-pressure-point-settlement.svg)
+
+
 
 ## Overview
 

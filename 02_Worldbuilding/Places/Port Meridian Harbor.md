@@ -18,6 +18,10 @@ updated: 2025-08-12
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-port-meridian-harbor-port-meridian-harbor.svg)
+
+
 
 
 

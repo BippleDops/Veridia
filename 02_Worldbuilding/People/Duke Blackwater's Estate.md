@@ -10,6 +10,10 @@ created: 2025-08-11
 updated: '2025-08-13T01:18:36.955297+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-duke-blackwater-s-estate-duke-blackwater-s-estate.svg)
+
+
 
 
 

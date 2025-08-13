@@ -10,6 +10,10 @@ tags:
 - group
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-great-cataloguing-the-great-cataloguing.svg)
+
+
 
 
 

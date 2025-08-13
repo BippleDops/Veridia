@@ -15,6 +15,10 @@ created: '2025-08-12'
 updated: '2025-08-13T01:18:36.094380+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-crystal-cult-temples-crystal-cult-temples.svg)
+
+
 
 # Crystal Cult Temples
 

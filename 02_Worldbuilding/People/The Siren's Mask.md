@@ -10,6 +10,10 @@ tags:
 - npc
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-the-siren-s-mask-the-siren-s-mask.svg)
+
+
 
 
 

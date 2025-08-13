@@ -18,6 +18,10 @@ created: 2025-08-12
 updated: '2025-08-13T01:18:36.883544+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-deep-mother-cultist-profiles-deep-mother-cultist-profiles.svg)
+
+
 
 # Deep Mother Cultist Profiles
 

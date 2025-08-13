@@ -17,6 +17,10 @@ created: '2025-08-12'
 updated: '2025-08-13T01:18:36.533048+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Locations/location-city-the-umbral-nexus-the-umbral-nexus.svg)
+
+
 
 # The Umbral Nexus
 *Heart of the Shadow Web*

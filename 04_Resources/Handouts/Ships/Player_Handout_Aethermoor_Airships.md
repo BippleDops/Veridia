@@ -3,10 +3,17 @@ title: Player Handout — Aethermoor Airships
 type: handout
 status: complete
 audience: player
-tags: [handout, vehicles, airships]
+tags:
+- aethermoor
+- airships
+- complete
+- handout
+- vehicles
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.191802+00:00'
+world: Aethermoor
 ---
+
 
 # Aethermoor Airships — Visual & Vibe Guide
 

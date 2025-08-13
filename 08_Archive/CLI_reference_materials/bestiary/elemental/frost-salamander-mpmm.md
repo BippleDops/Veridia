@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.723532+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/9
-  - ttrpg-cli/monster/environment/arctic
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/elemental
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/environment/arctic
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Frost Salamander
+- Frost Salamander
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-frost-salamander-mpmm-frost-salamander-mpmm.svg)

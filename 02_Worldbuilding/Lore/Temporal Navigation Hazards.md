@@ -2,6 +2,7 @@
 tags:
 - aethermoor
 - aquabyssos
+- both worlds
 - both-worlds
 - chronological-threats
 - complete
@@ -17,13 +18,14 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.157055+00:00'
 hazard_type: Temporal Distortion Phenomena
 danger_level: Variable - Moderate to Catastrophic
 scope: Cross-Realm Phenomenon
 frequency: Uncommon but Increasing
 detection_difficulty: Extremely High
 ---
+
 
 
 

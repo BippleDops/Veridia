@@ -2,6 +2,7 @@
 tags:
 - aethermoor
 - aquabyssos
+- both worlds
 - both-worlds
 - complete
 - comprehensive-catalog
@@ -16,13 +17,14 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.164688+00:00'
 magical_focus: Comprehensive Spell Catalog
 scope: Cross-Realm Magic Systems
 application: Spellcaster Reference
 complexity: All Levels
 practitioners: All Magical Traditions
 ---
+
 
 
 

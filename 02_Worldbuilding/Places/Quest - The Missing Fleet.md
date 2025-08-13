@@ -4,6 +4,7 @@ tags:
 - complete
 - diplomatic
 - investigation
+- location
 - military
 - missing-fleet
 - mystery
@@ -14,7 +15,7 @@ world: Aethermoor
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.965659+00:00'
 quest_type: Investigation/Diplomatic Mission
 level_range: 7-11
 party_size: 4-6 characters
@@ -26,6 +27,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View

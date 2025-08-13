@@ -1,5 +1,6 @@
 ---
 tags:
+- active
 - both
 - city
 - location
@@ -16,10 +17,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-12T14:31:04.489625+00:00'
+updated: '2025-08-13T01:18:36.341120+00:00'
 status: active
 type: Location
 ---
+
 
 
 

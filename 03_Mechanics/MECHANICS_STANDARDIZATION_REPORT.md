@@ -3,15 +3,18 @@ title: Mechanics Standardization Report
 type: Documentation
 status: complete
 tags:
-- documentation
-- standardization
-- mechanics
-- changelog
+- both
 - both-worlds
+- changelog
+- complete
+- documentation
+- mechanics
+- standardization
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:37.123082+00:00'
 world: Both
 ---
+
 
 # Mechanics Standardization Report
 *Documentation of Changes Made to Unify Game Systems*

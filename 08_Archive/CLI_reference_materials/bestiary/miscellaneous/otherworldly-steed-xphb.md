@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.689346+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/monster/cr/
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Otherworldly Steed
+- Otherworldly Steed
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-xphb-otherworldly-steed-xphb.svg)

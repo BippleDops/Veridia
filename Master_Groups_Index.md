@@ -3,6 +3,7 @@ tags:
 - complete
 - factions
 - groups
+- lore
 - master-index
 - navigation
 - universal
@@ -14,8 +15,9 @@ created: 2025-08-11
 last_updated: 2025-08-11
 completion: 100%
 total_organizations: 46
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.091080+00:00'
 ---
+
 
 
 # Master Groups Index

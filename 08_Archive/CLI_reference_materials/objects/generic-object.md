@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/object/size/varies
 - ttrpg-cli/object/type/generic
@@ -9,9 +12,12 @@ aliases:
 - Generic Object
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.345167+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Generic Object
 %%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

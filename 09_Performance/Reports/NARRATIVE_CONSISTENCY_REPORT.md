@@ -1,3 +1,15 @@
+---
+created: null
+updated: '2025-08-13T01:18:31.096733+00:00'
+world: Both
+type: Location
+status: draft
+tags:
+- both
+- draft
+- location
+---
+
 # NARRATIVE CONSISTENCY REPORT
 *Analysis of the Obsidian TTRPG Vault - August 12, 2025*
 

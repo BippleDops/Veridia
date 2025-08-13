@@ -2,23 +2,27 @@
 tags:
 - aethermoor
 - aquabyssos
+- both worlds
 - campaign-consequences
-- diplomatic-crisis
-- reality-merger
-- cross-realm-politics
+- complete
 - convergence-event
+- cross-realm-politics
+- diplomatic-crisis
+- lore
+- reality-merger
 type: Lore
 world: Both Worlds
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.297896+00:00'
 magnitude: 5
 visibility: 5
 primary_sessions:
-- "Session 08: Between Two Worlds"
-- "Session 09: The Price of Unity"
-- "Session 10: The Deep Mother Rises"
+- 'Session 08: Between Two Worlds'
+- 'Session 09: The Price of Unity'
+- 'Session 10: The Deep Mother Rises'
 ---
+
 
 # Consequence Chain 3: Reality Merger Diplomatic Crisis
 *When Two Worlds Became One and Politics Had to Follow*

@@ -1,12 +1,22 @@
 ---
-title: "Content Coverage Dashboard"
+title: Content Coverage Dashboard
 type: index
-tags: [index, performance, coverage, statistics]
-status: "complete"
+tags:
+- both
+- complete
+- coverage
+- index
+- performance
+- statistics
+status: complete
 created: 2025-08-11
-updated: 2025-08-11
-cssclasses: [wide-page, index-page]
+updated: '2025-08-13T01:18:31.110651+00:00'
+cssclasses:
+- wide-page
+- index-page
+world: Both
 ---
+
 
 # 📊 Content Coverage Dashboard
 *Tracking Vault Completion and Content Depth*

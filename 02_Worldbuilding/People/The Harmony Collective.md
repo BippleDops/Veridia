@@ -4,6 +4,7 @@ tags:
 - complete
 - cult
 - harmony
+- npc
 - organization
 status: complete
 world: Aquabyssos
@@ -13,8 +14,9 @@ created: 2025-08-12
 MyContainer: None
 MyCategory: Religious
 obsidianUIMode: preview
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.860197+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-harmony-collective-the-harmony-collective.svg)

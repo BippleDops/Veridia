@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-deck
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Deck of Illusions
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.419251+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-deck-of-illusions-xdmg-deck-of-illusions-xdmg.svg)

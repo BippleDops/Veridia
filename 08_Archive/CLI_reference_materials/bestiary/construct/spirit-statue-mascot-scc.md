@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.949361+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/scc
-  - ttrpg-cli/monster/cr/1-4
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/construct
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/scc
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Spirit Statue Mascot
+- Spirit Statue Mascot
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spirit-statue-mascot-scc-spirit-statue-mascot-scc.svg)

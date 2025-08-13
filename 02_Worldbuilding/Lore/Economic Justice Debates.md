@@ -1,16 +1,19 @@
 ---
 tags:
+- active
 - aquabyssos
 - economics
 - justice
+- lore
 - moral-dilemmas
 - resource-allocation
 type: Lore
 world: Aquabyssos
 status: active
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.528258+00:00'
 ---
+
 
 # Economic Justice Debates
 

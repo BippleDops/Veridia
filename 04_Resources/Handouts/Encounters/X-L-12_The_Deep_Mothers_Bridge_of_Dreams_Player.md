@@ -3,10 +3,17 @@ title: Player Handout — X-L-12 The Deep Mother’s Bridge of Dreams
 type: handout
 status: complete
 audience: player
-tags: [handout, encounter, mixed]
+tags:
+- both
+- complete
+- encounter
+- handout
+- mixed
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.205700+00:00'
+world: Both
 ---
+
 
 # The Deep Mother’s Bridge of Dreams
 

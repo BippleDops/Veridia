@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/forge
@@ -10,9 +13,12 @@ aliases:
 - Onatar
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.797922+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Onatar
 *Source: Player's Handbook p. 296, Xanathar's Guide to Everything p. 18* 
 

@@ -1,22 +1,24 @@
 ---
-title: "The Sunken Conspiracy - Session 3: Underwater Chase"
+title: 'The Sunken Conspiracy - Session 3: Underwater Chase'
 type: session
 session_number: 3
-level_range: "2-3"
-duration: "4-5 hours"
-world: "Aquabyssos"
-adventure: "The Sunken Conspiracy"
+level_range: 2-3
+duration: 4-5 hours
+world: Aquabyssos
+adventure: The Sunken Conspiracy
 status: complete
 tags:
-  - session
-  - chase
-  - action
-  - combat
-  - aquabyssos
-  - pressure-tubes
+- action
+- aquabyssos
+- chase
+- combat
+- complete
+- pressure-tubes
+- session
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.159929+00:00'
 ---
+
 
 # Session 3: Underwater Chase
 *The Sunken Conspiracy - Pursuing Suspects Through Pressure Tubes*

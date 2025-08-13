@@ -1,13 +1,16 @@
 ---
 tags:
+- active
+- both worlds
 - both-worlds
 - lore
 type: Lore
 world: Both Worlds
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:02.534679+00:00'
+updated: '2025-08-13T01:18:34.628619+00:00'
 ---
+
 
 
 

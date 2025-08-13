@@ -3,6 +3,7 @@ tags:
 - aquabyssos
 - complete
 - espionage
+- location
 - quest
 - rescue
 - stealth-mission
@@ -11,9 +12,10 @@ world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.438100+00:00'
 danger_level: Moderate
 ---
+
 
 
 

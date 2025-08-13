@@ -1,23 +1,29 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.755555+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/9
-  - ttrpg-cli/monster/environment/coastal
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/grassland
-  - ttrpg-cli/monster/environment/hill
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/fiend/gnoll
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/environment/coastal
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/grassland
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fiend/gnoll
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Flind
+- Flind
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flind-mpmm-flind-mpmm.svg)

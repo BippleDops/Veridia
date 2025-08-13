@@ -5,6 +5,7 @@ tags:
 - depth-wardens
 - government
 - law-enforcement
+- location
 - military
 - organization
 - security
@@ -18,9 +19,10 @@ authority_level: High
 member_count: ~2,000 active wardens
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.295420+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View

@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Random Buildings; Tavern Name Generator
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:31.617404+00:00'
+world: Both
+status: active
 ---
+
 # Random Buildings; Tavern Name Generator
 *Source: Dungeon Master's Guide p. 113* 
 

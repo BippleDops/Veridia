@@ -1,11 +1,20 @@
 ---
-tags: [places, medical, research, crystal, plague, cure]
+tags:
+- aquabyssos
+- complete
+- crystal
+- cure
+- medical
+- places
+- plague
+- research
 type: places
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-12'
+updated: '2025-08-13T01:18:36.450683+00:00'
 ---
+
 
 # Medical Research Facilities
 

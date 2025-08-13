@@ -1,17 +1,20 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.323488+00:00'
 created: 2025-08-12
 tags:
-  - lore
-  - linguistics
-  - aethermoor
-  - communication
-  - tonal
+- aethermoor
+- communication
+- complete
+- cultural_system
+- linguistics
+- lore
+- tonal
 status: complete
 world: Aethermoor
 type: cultural_system
 obsidianUIMode: preview
 ---
+
 
 # Wind Song Linguistic Guide
 

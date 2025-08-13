@@ -1,11 +1,19 @@
 ---
-tags: [aquabyssos, shadow-conspiracy, government, infiltration, political-control, complete]
+tags:
+- aquabyssos
+- complete
+- government
+- infiltration
+- lore
+- political-control
+- shadow-conspiracy
 type: Lore
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-12'
+updated: '2025-08-13T01:18:35.408606+00:00'
 ---
+
 
 # Parliamentary Infiltration Methods
 *The Shadow Government Behind the Government*

@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.826259+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/lmop
-  - ttrpg-cli/monster/cr/1-4
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/undead
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/lmop
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Ash Zombie
+- Ash Zombie
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ash-zombie-lmop-ash-zombie-lmop.svg)

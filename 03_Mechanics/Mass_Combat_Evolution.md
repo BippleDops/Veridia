@@ -2,10 +2,17 @@
 title: Mass Combat Evolution
 type: mechanics
 status: complete
-tags: [mechanics, mass-combat, fleets]
+tags:
+- both
+- complete
+- fleets
+- mass-combat
+- mechanics
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.119546+00:00'
+world: Both
 ---
+
 
 # Mass Combat Evolution
 

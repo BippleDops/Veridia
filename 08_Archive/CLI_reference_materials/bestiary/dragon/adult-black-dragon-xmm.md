@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.916331+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/14
-  - ttrpg-cli/monster/environment/swamp
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/dragon/chromatic
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/14
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/dragon/chromatic
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Adult Black Dragon
+- Adult Black Dragon
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-black-dragon-xmm-adult-black-dragon-xmm.svg)

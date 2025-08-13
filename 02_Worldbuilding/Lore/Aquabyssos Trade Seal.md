@@ -5,6 +5,7 @@ tags:
 - authentication
 - complete
 - diplomacy
+- lore
 - magical-artifact
 - magical-item
 - political-tool
@@ -18,13 +19,14 @@ creator: '[[02_Worldbuilding/Lore/Thalassius the Wise]]'
 created_date: Second Age of Aquabyssos
 current_location: '[[02_Worldbuilding/Places/Parliament of Echoes]] Vault'
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.731152+00:00'
 related_entities:
 - '[[02_Worldbuilding/Places/Parliament of Echoes]]'
 - '[[02_Worldbuilding/Lore/Thalassius the Wise]]'
 - '[[02_Worldbuilding/Lore/The Seven Shards]]'
 - '[[02_Worldbuilding/Groups/Silverscale Banking House]]'
 ---
+
 
 
 

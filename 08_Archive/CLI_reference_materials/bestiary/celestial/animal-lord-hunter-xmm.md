@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.939901+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/20
-  - ttrpg-cli/monster/environment/beastlands
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/celestial
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/20
+- ttrpg-cli/monster/environment/beastlands
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/celestial
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Animal Lord; Hunter
+- Animal Lord; Hunter
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animal-lord-hunter-xmm-animal-lord-hunter-xmm.svg)

@@ -4,11 +4,17 @@ cssclasses: json5e-note
 aliases:
 - Item Properties
 type: note
-tags: []
+tags:
+- active
+- both
+- note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.225305+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Item Properties
 
 ## Attunement

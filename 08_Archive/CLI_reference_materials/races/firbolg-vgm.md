@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/race/firbolg
 aliases:
 - Firbolg
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.419417+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Firbolg
 *Source: Volo's Guide to Monsters p. 107*  
 ![](/03_Mechanics/CLI/races/img/firbolg.webp#right)

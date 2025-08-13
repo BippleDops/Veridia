@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.951674+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/scc
-  - ttrpg-cli/monster/cr/1-4
-  - ttrpg-cli/monster/size/small
-  - ttrpg-cli/monster/type/construct
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/scc
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Fractal Mascot
+- Fractal Mascot
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fractal-mascot-scc-fractal-mascot-scc.svg)

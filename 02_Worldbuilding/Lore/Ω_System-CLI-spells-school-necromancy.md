@@ -2,6 +2,7 @@
 tags:
 - aethermoor
 - aquabyssos
+- both worlds
 - both-worlds
 - complete
 - death
@@ -18,12 +19,13 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.917335+00:00'
 school: Necromancy
 focus: Death, Undeath, and Life Force Magic
 complexity: Fundamental to Forbidden
 practitioners: Death speakers, life mages, preservers
 ---
+
 
 
 

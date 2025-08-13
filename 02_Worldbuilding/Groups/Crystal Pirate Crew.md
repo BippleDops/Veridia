@@ -1,13 +1,15 @@
 ---
 tags:
+- active
 - aethermoor
 - group
 type: Group
 world: Aethermoor
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:04.937572+00:00'
+updated: '2025-08-13T01:18:36.661763+00:00'
 ---
+
 
 
 

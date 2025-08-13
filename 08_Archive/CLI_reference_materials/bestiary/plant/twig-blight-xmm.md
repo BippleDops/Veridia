@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.664371+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/1-8
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/size/small
-  - ttrpg-cli/monster/type/plant
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/1-8
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/plant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Twig Blight
+- Twig Blight
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-twig-blight-xmm-twig-blight-xmm.svg)

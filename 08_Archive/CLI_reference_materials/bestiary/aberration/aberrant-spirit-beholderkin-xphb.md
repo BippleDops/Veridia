@@ -1,22 +1,26 @@
 ---
-type: monster
+type: note
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/monster/cr/
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/aberration
+- active
+- both
+- note
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: '#^statblock'
-statblock-link: '#^statblock'
 aliases:
-  - Aberrant Spirit (Beholderkin)
-type: note
+- Aberrant Spirit (Beholderkin)
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.639291+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aberrant-spirit-beholderkin-xphb-aberrant-spirit-beholderkin-xphb.svg)

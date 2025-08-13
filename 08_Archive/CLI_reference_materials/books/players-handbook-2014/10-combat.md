@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
 - Combat
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.389611+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Combat
 *Source: Player's Handbook (2014), p. 189* 
 

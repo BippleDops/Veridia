@@ -1,27 +1,33 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.488901+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/1-8
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/grassland
-  - ttrpg-cli/monster/environment/hill
-  - ttrpg-cli/monster/environment/mountain
-  - ttrpg-cli/monster/environment/swamp
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/tiny
-  - ttrpg-cli/monster/type/monstrosity
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/1-8
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/grassland
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/environment/mountain
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Stirge
+- Stirge
+world: Both
+status: active
 ---
+
 # [Stirge](3-Mechanics\CLI\bestiary\monstrosity/stirge-xmm.md)
 *Source: Monster Manual (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

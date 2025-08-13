@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/race/half-orc
 aliases:
 - Half-Orc
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.416077+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Half-Orc
 *Source: Player's Handbook p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](/03_Mechanics/CLI/races/img/half-orc.webp#right)

@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/spell/list/feat/telekinetic
 aliases:
 - Spells for Telekinetic
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.108292+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Spells for Telekinetic
 
 ## Cantrip

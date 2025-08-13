@@ -1,17 +1,20 @@
 ---
 tags:
-- aquabyssos
 - academics
-- mentorship
+- aquabyssos
+- complete
 - intellectual-rivalry
-- research
 - knowledge
+- lore
+- mentorship
+- research
 type: Lore
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.140214+00:00'
 ---
+
 
 # Academic Lineages
 *"Knowledge flows like water, deepening as it passes from mind to mind"*

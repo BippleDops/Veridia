@@ -1,8 +1,10 @@
 ---
 tags:
+- active
 - aethermoor
 - intrigue
 - investigation
+- lore
 - political
 - quest
 - succession
@@ -16,13 +18,14 @@ rewards: Noble Title, Royal Artifacts, Political Power
 time_limit: Before the Coronation (14 days)
 created_by: system
 created: 2025-08-08
-updated: '2025-08-12T14:31:02.383639+00:00'
+updated: '2025-08-13T01:18:34.494083+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 status: active
 type: Lore
 ---
+
 
 
 

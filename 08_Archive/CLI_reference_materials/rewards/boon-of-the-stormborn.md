@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/reward/boon
 aliases:
 - Boon of the Stormborn
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.332314+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Boon of the Stormborn
 
 You have immunity to lightning and thunder damage. You can also cast [thunderwave](/03_Mechanics/CLI/spells/thunderwave-xphb.md) (save DC 15) at will, without using a spell slot or any components.

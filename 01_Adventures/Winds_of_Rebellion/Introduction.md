@@ -1,13 +1,26 @@
 ---
-tags: [adventure-module, aethermoor, political-intrigue, levels-4-6, winds-of-rebellion]
-adventure_level: "4-6"
-adventure_type: "Political Intrigue & Social Combat"
-world: "Aethermoor"
-estimated_sessions: "6"
-themes: ["political-conspiracy", "aerial-combat", "court-intrigue", "factional-warfare", "wind-rider-traditions"]
+tags:
+- active
+- adventure-module
+- aethermoor
+- levels-4-6
+- political-intrigue
+- winds-of-rebellion
+adventure_level: 4-6
+adventure_type: Political Intrigue & Social Combat
+world: Aethermoor
+estimated_sessions: '6'
+themes:
+- political-conspiracy
+- aerial-combat
+- court-intrigue
+- factional-warfare
+- wind-rider-traditions
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.155299+00:00'
+status: active
 ---
+
 
 # Winds of Rebellion
 ## A Political Intrigue Adventure for Levels 4-6 in Aethermoor

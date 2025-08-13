@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.813863+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/10
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/swamp
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/gargantuan
-  - ttrpg-cli/monster/type/undead
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Haunting Revenant
+- Haunting Revenant
+world: Both
+status: active
 ---
+
 # [Haunting Revenant](3-Mechanics\CLI\bestiary\undead/haunting-revenant-xmm.md)
 *Source: Monster Manual (2024) p. 260*  
 

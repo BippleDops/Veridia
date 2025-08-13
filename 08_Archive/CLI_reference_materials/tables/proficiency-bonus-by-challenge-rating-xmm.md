@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xmm
 aliases:
 - Proficiency Bonus by Challenge Rating
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.429643+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Proficiency Bonus by Challenge Rating
 *Source: Monster Manual (2024) p. 8. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 

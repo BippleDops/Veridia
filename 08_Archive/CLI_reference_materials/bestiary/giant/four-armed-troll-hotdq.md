@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.517143+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/hotdq
-  - ttrpg-cli/monster/cr/6
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/giant
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/hotdq
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Four-Armed Troll
+- Four-Armed Troll
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-four-armed-troll-hotdq-four-armed-troll-hotdq.svg)

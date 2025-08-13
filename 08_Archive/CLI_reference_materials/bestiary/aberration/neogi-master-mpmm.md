@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.640405+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/4
-  - ttrpg-cli/monster/environment/hill
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/aberration/warlock
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/aberration/warlock
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Neogi Master
+- Neogi Master
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-neogi-master-mpmm-neogi-master-mpmm.svg)

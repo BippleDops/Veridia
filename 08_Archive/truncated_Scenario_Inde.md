@@ -1,12 +1,17 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.206636+00:00'
 created: 2025-08-11
-tags: [one-shot]
-status: "complete"
-world: "Universal"
-type: "adventure"
+tags:
+- adventure
+- complete
+- one-shot
+- universal
+status: complete
+world: Universal
+type: adventure
 obsidianUIMode: preview
 ---
+
 
 # Convergence Crisis Scenarios
 

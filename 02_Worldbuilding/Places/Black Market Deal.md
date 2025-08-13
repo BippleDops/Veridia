@@ -5,6 +5,7 @@ tags:
 - complete
 - deal
 - intrigue
+- location
 - quest
 status: complete
 world: Aquabyssos
@@ -14,9 +15,10 @@ created: 2025-08-12
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.023636+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-black-market-deal-black-market-deal.svg)

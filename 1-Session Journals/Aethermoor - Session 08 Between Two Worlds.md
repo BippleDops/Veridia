@@ -15,9 +15,11 @@ quests_advanced:
 level: 5
 estimated_time: 4 hours
 tags:
+- active
 - aethermoor
 - aquabyssos
 - dual-worlds
+- lore
 - reality-merge
 - session
 - session-journal
@@ -26,10 +28,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-12T14:31:05.687602+00:00'
+updated: '2025-08-13T01:18:37.184999+00:00'
 created: 2025-08-11
 status: active
 ---
+
 
 
 

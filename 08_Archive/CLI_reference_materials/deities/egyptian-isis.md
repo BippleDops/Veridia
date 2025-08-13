@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/egyptian
 - ttrpg-cli/domain/arcana
@@ -11,9 +14,12 @@ aliases:
 - Isis
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.737839+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Isis
 *Source: Player's Handbook p. 299, Sword Coast Adventurer's Guide p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 

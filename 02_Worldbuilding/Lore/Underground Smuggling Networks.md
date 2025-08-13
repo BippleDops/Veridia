@@ -1,11 +1,20 @@
 ---
-tags: [lore, criminal, underground, smuggling, resistance, networks]
+tags:
+- aquabyssos
+- complete
+- criminal
+- lore
+- networks
+- resistance
+- smuggling
+- underground
 type: lore
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-12'
+updated: '2025-08-13T01:18:35.568579+00:00'
 ---
+
 
 # Underground Smuggling Networks
 

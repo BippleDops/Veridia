@@ -1,13 +1,15 @@
 ---
 tags:
+- active
 - aquabyssos
 - npc
 type: NPC
 world: Aquabyssos
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:05.398356+00:00'
+updated: '2025-08-13T01:18:36.843652+00:00'
 ---
+
 
 
 

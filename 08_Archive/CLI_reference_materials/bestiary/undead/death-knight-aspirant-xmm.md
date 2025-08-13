@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.847866+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/11
-  - ttrpg-cli/monster/environment/any
-  - ttrpg-cli/monster/size/small-or-medium
-  - ttrpg-cli/monster/type/undead
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/11
+- ttrpg-cli/monster/environment/any
+- ttrpg-cli/monster/size/small-or-medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Death Knight Aspirant
+- Death Knight Aspirant
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-death-knight-aspirant-xmm-death-knight-aspirant-xmm.svg)

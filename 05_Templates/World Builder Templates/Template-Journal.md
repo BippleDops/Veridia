@@ -16,15 +16,18 @@ timelines:
 - journal
 tags:
 - '#category/journal'
+- active
 - both
 - journal
+- lore
 - session-journal
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-12T14:31:02.328802+00:00'
+updated: '2025-08-13T01:18:31.187744+00:00'
 created: 2025-08-11
 status: active
 ---
+
 
 
 

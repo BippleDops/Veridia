@@ -3,6 +3,7 @@ tags:
 - aquabyssos
 - complete
 - enchanter
+- location
 - magic
 - npc
 - peacewarden
@@ -14,9 +15,10 @@ created: 2025-08-12
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.984469+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-enchanter-valdris-peacewarden-enchanter-valdris-peacewarden.svg)

@@ -3,10 +3,17 @@ title: Player Handout — D-010 Pirate Shadow Net
 type: handout
 status: complete
 audience: player
-tags: [handout, encounter, depth]
+tags:
+- both
+- complete
+- depth
+- encounter
+- handout
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.209787+00:00'
+world: Both
 ---
+
 
 # Pirate Shadow Net
 

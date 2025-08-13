@@ -1,18 +1,23 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
 aliases:
-- "Carpet of Flying, 4 ft. \xD7 6 ft."
-type: note
+- Carpet of Flying, 4 ft. × 6 ft.
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.780309+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-carpet-of-flying-4-ft-6-ft-xdmg-carpet-of-flying-4-ft-6-ft-xdmg.svg)

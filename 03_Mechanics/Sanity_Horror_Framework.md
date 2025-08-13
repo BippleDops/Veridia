@@ -7,6 +7,7 @@ tags:
 - complete
 - cosmic-horror
 - horror
+- lore
 - madness
 - mechanics
 - psychological
@@ -14,8 +15,9 @@ tags:
 created: 2025-01-23
 version: 1.0
 world: Both
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.128723+00:00'
 ---
+
 
 
 

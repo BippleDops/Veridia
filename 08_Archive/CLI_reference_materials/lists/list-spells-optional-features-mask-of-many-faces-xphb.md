@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/spell/list/optfeature/mask-of-many-faces
 aliases:
 - Spells for Mask of Many Faces
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.056953+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Spells for Mask of Many Faces
 
 ## 1st Level

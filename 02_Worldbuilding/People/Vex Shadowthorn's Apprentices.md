@@ -4,6 +4,7 @@ tags:
 - aethermoor
 - apprentice
 - aquabyssos
+- both realms
 - both-realms
 - criminal
 - npc
@@ -17,8 +18,9 @@ created: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.020889+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-vex-shadowthorn-s-apprentices-vex-shadowthorn-s-apprentices.svg)

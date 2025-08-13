@@ -3,6 +3,7 @@ tags:
 - aquabyssos
 - complete
 - medical
+- npc
 - organization
 - shadow
 - surgeons
@@ -14,8 +15,9 @@ created: 2025-08-11
 MyContainer: None
 MyCategory: Medical
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.918876+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-shadow-surgeons-the-shadow-surgeons.svg)

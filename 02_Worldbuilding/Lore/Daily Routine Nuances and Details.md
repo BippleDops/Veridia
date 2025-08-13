@@ -1,18 +1,22 @@
 ---
 tags:
-- daily-life
-- routine
-- culture
-- nuances
+- both
 - both-realms
+- complete
 - comprehensive
+- cultural reference
+- culture
+- daily-life
+- nuances
+- routine
 status: complete
 world: Both
 type: Cultural Reference
 created_by: claude
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.657398+00:00'
 ---
+
 
 # Daily Routine Nuances and Details
 *The Living Details: 30+ Specific Aspects of Daily Life in Two Extraordinary Realms*

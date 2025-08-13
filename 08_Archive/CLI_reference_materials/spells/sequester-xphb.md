@@ -1,5 +1,5 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:33.536854+00:00'
 created: 2025-08-11
 type: quest
 status: active
@@ -7,17 +7,22 @@ priority: medium
 obsidian-u-i-mode: preview
 cssclasses: json5e-spell
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/spell/class/bard
-  - ttrpg-cli/spell/class/wizard
-  - ttrpg-cli/spell/level/7th-level
-  - ttrpg-cli/spell/school/transmutation
+- active
+- both
+- quest
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/bard
+- ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/level/7th-level
+- ttrpg-cli/spell/school/transmutation
 classes:
-  - Bard
-  - Wizard
+- Bard
+- Wizard
 aliases:
-  - Sequester
+- Sequester
+world: Both
 ---
+
 # Sequester
 *7th-level, Transmutation*  
 

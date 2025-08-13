@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.944311+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/17
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/environment/upper
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/celestial
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/17
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/environment/upper
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/celestial
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Sphinx of Valor
+- Sphinx of Valor
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sphinx-of-valor-xmm-sphinx-of-valor-xmm.svg)

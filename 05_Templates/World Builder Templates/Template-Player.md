@@ -2,8 +2,10 @@
 aliases:
 - Bob
 tags:
+- active
 - both
 - category/player
+- lore
 Player: Bob
 Role: Player
 level: 11
@@ -46,11 +48,12 @@ obsidianUIMode: preview
 MyContainer: null
 MyCategory: null
 world: Both
-updated: '2025-08-12T14:31:02.341212+00:00'
+updated: '2025-08-13T01:18:31.200054+00:00'
 created: 2025-08-11
 status: active
 type: Lore
 ---
+
 
 
 

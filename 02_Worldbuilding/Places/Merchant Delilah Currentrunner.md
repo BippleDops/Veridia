@@ -4,6 +4,7 @@ tags:
 - complete
 - currentrunner
 - delilah
+- location
 - merchant
 - npc
 - trade
@@ -15,9 +16,10 @@ created: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.054860+00:00'
 danger_level: Moderate
 ---
+
 
 
 

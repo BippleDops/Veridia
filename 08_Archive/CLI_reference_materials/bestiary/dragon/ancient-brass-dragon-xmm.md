@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.896052+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/20
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/size/gargantuan
-  - ttrpg-cli/monster/type/dragon/metallic
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/20
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Ancient Brass Dragon
+- Ancient Brass Dragon
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ancient-brass-dragon-xmm-ancient-brass-dragon-xmm.png)

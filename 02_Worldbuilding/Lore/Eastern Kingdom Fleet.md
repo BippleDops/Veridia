@@ -1,6 +1,7 @@
 ---
 tags:
 - alliance
+- both worlds
 - both-worlds
 - complete
 - eastern-kingdoms
@@ -17,13 +18,14 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.234380+00:00'
 organization_type: Naval Fleet
 scope: International
 allegiance: Eastern Kingdoms
 current_status: Allied Force
 primary_role: Naval Support
 ---
+
 
 
 

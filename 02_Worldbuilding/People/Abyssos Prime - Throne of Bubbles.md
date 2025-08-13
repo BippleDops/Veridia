@@ -4,6 +4,7 @@ tags:
 - bubbles
 - complete
 - location
+- npc
 - royal
 - throne
 status: complete
@@ -14,8 +15,9 @@ created: 2025-08-11
 MyContainer: None
 MyCategory: Royal
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.825900+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-abyssos-prime-throne-of-bubbles-abyssos-prime-throne-of-bubbles.svg)

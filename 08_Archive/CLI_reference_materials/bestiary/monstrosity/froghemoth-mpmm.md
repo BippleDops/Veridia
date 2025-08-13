@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.467067+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/10
-  - ttrpg-cli/monster/environment/swamp
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/monstrosity
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Froghemoth
+- Froghemoth
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-froghemoth-mpmm-froghemoth-mpmm.svg)

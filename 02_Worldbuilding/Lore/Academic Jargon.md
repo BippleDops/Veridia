@@ -1,17 +1,21 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.686434+00:00'
 created: 2025-08-12
 tags:
-  - lore
-  - linguistics
-  - academic
-  - scholarly
-  - terminology
+- academic
+- both
+- complete
+- linguistics
+- lore
+- professional_reference
+- scholarly
+- terminology
 status: complete
 world: Both
 type: professional_reference
 obsidianUIMode: preview
 ---
+
 
 # Academic Jargon
 

@@ -1,16 +1,19 @@
 ---
 tags:
+- active
 - both
 - category/place
+- lore
 MyContainer: '[[05_Templates/World Builder Templates/Template-Hub.md|Template-Hub]]'
 MyCategory: Commerce
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-12T14:31:02.342936+00:00'
+updated: '2025-08-13T01:18:31.201435+00:00'
 created: 2025-08-11
 status: active
 type: Lore
 ---
+
 
 
 

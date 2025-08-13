@@ -1,20 +1,23 @@
 ---
 tags:
-- aquabyssos
 - aethermoor
+- ancient-lore
+- aquabyssos
+- both
 - complete
 - deep-mother
-- prophecy
-- forbidden-knowledge
-- ancient-lore
 - eldritch-horror
+- forbidden-knowledge
+- lore
+- prophecy
 status: complete
 world: Both
 type: Lore
 created_by: claude
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.461121+00:00'
 ---
+
 
 # The Deep Prophecies
 

@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.606781+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/monster/cr/
-  - ttrpg-cli/monster/size/small
-  - ttrpg-cli/monster/type/fey
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Fey Spirit (Tricksy)
+- Fey Spirit (Tricksy)
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fey-spirit-tricksy-xphb-fey-spirit-tricksy-xphb.svg)

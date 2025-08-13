@@ -1,20 +1,25 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/item/gear/ammunition
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/tier/minor
 aliases:
 - Unbreakable Arrow
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.672926+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Unbreakable Arrow
 *Ammunition, minor, common*  
 ![](/03_Mechanics/CLI/items/img/unbreakable-arrow.webp#right)

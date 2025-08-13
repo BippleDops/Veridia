@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/deity/greyhawk
 aliases:
 - Olidammara
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.902581+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Olidammara
 *Source: Dungeon Master's Guide (2024) p. 148* 
 

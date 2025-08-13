@@ -1,14 +1,15 @@
 ---
 tags:
-- person
+- aquabyssos
+- complete
+- coral-crown
+- crisis-leadership
+- deep-nobility
 - npc
+- person
+- political-leader
 - queen
 - royalty
-- aquabyssos
-- political-leader
-- coral-crown
-- deep-nobility
-- crisis-leadership
 status: complete
 world: Aquabyssos
 type: npc
@@ -24,7 +25,7 @@ ruling_style: Constitutional Monarchy with Emergency Powers
 political_alignment: Moderate Progressive
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.219460+00:00'
 notable_achievements:
 - Survived the Depth Crown Crisis
 - Established the Modern Parliament System
@@ -44,6 +45,7 @@ danger_level: 2
 influence_level: Maximum within Aquabyssos
 access_level: Royal Court Only
 ---
+
 
 
 > [!figure] Portrait

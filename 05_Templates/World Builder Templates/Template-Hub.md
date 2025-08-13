@@ -1,16 +1,19 @@
 ---
 tags:
+- active
 - both
 - category/hub
+- lore
 MyContainer: null
 MyCategory: Hamlet <80
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-12T14:31:02.335719+00:00'
+updated: '2025-08-13T01:18:31.195115+00:00'
 created: 2025-08-11
 status: active
 type: Lore
 ---
+
 
 
 

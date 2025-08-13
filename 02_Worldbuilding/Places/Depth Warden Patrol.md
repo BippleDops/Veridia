@@ -5,6 +5,7 @@ tags:
 - depth-wardens
 - encounter
 - law-enforcement
+- location
 - mobile-unit
 - patrol
 - security
@@ -18,8 +19,9 @@ frequency: Common
 location_type: Any depth zone
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.344084+00:00'
 ---
+
 
 
 > [!figure] View

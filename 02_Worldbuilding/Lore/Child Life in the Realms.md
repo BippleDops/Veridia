@@ -1,18 +1,22 @@
 ---
 tags:
-- children
-- education
-- daily-life
-- family
-- culture
+- both
 - both-realms
+- children
+- complete
+- culture
+- daily-life
+- education
+- family
+- social guide
 status: complete
 world: Both
 type: Social Guide
 created_by: claude
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.867677+00:00'
 ---
+
 
 # Child Life in the Realms
 *Growing Up Between Depths and Heights: Childhood in Two Extraordinary Worlds*

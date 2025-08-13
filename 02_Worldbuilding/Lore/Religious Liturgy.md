@@ -1,17 +1,21 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.755030+00:00'
 created: 2025-08-12
 tags:
-  - lore
-  - linguistics
-  - religion
-  - liturgy
-  - ceremonial
+- both
+- ceremonial
+- complete
+- cultural_reference
+- linguistics
+- liturgy
+- lore
+- religion
 status: complete
 world: Both
 type: cultural_reference
 obsidianUIMode: preview
 ---
+
 
 # Religious Liturgy
 

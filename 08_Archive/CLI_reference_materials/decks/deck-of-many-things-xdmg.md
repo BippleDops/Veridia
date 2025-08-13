@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-deck
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
 - Deck of Many Things
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.419864+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Deck of Many Things
 *Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Mysterious Deck") and the Free Rules (2024)*  
 

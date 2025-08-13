@@ -2,6 +2,7 @@
 tags:
 - aethermoor
 - aquabyssos
+- both worlds
 - both-worlds
 - complete
 - dimensional-bleed
@@ -19,13 +20,14 @@ category: Environmental Phenomenon
 significance: Critical Infrastructure
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.641886+00:00'
 hazard_type: Planar Boundary Distortion
 danger_level: Variable - Moderate to Catastrophic
 scope: Cross-Realm Environmental Zones
 frequency: Rare but Increasing
 detection_difficulty: High
 ---
+
 
 
 

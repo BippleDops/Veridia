@@ -1,10 +1,17 @@
 ---
-tags: [gm_screen]
-status: "complete"
-world: "Universal"
-type: "gm_resource"
+tags:
+- complete
+- gm_resource
+- gm_screen
+- universal
+status: complete
+world: Universal
+type: gm_resource
 obsidianUIMode: preview
+created: null
+updated: '2025-08-13T01:18:31.114962+00:00'
 ---
+
 
 # Ultimate GM Screen
 

@@ -1,19 +1,24 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/cos
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 aliases:
 - Icon of Ravenloft
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.227465+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Icon of Ravenloft
 *Wondrous item, legendary (requires attunement by a creature of good alignment)*  
 ![](/03_Mechanics/CLI/items/img/icon-of-ravenloft.webp#right)

@@ -1,23 +1,29 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.519771+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/0
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/grassland
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/tiny
-  - ttrpg-cli/monster/type/beast
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/grassland
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Cat
+- Cat
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cat-xmm-cat-xmm.svg)

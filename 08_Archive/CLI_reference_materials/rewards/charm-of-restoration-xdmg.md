@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
 aliases:
 - Charm of Restoration
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.330940+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Charm of Restoration
 
 This Charm has 3 charges. You can expend some of its charges to cast one of the following spells: [Greater Restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md) (2 charges) or [Lesser Restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md) (1 charge). Once all its charges have been expended, the Charm vanishes from you.

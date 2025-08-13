@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.729958+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/monster/cr/
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/elemental
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Elemental Spirit (Earth)
+- Elemental Spirit (Earth)
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elemental-spirit-earth-xphb-elemental-spirit-earth-xphb.svg)

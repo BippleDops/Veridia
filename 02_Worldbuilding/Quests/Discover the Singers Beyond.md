@@ -4,6 +4,7 @@ tags:
 - complete
 - exploration
 - first-contact
+- lore
 - music
 - mystery
 - quest
@@ -17,8 +18,9 @@ duration: 3-4 sessions
 threat_level: high
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.030609+00:00'
+updated: '2025-08-13T01:18:34.499753+00:00'
 ---
+
 
 
 # Discover the Singers Beyond

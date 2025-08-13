@@ -1,6 +1,7 @@
 ---
 tags:
 - aftermath
+- both worlds
 - both-worlds
 - campaign-structure
 - complete
@@ -15,13 +16,14 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.853626+00:00'
 structure_type: Campaign Framework
 scope: Both Worlds
 purpose: Campaign Resolution
 usage: Epilogue Guidance
 timeframe: Post-Campaign
 ---
+
 
 
 

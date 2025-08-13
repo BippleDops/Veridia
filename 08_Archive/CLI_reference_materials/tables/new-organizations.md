@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - New Organizations
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.622081+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # New Organizations
 *Source: Dungeon Master's Guide p. 31* 
 

@@ -1,13 +1,16 @@
 ---
 tags:
+- active
 - dual
 - historical_legend
+- lore
 type: Lore
 world: dual
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:02.796365+00:00'
+updated: '2025-08-13T01:18:34.838305+00:00'
 ---
+
 
 
 > [!figure] Portrait

@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.901076+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/3
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/grassland
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/dragon/metallic
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/grassland
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Gold Dragon Wyrmling
+- Gold Dragon Wyrmling
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gold-dragon-wyrmling-xmm-gold-dragon-wyrmling-xmm.svg)

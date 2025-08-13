@@ -1,5 +1,6 @@
 ---
 tags:
+- beyond aethermoor
 - beyond-aethermoor
 - completed
 - confederacy
@@ -24,13 +25,14 @@ specialties:
 - Null Technology
 relationship_with_aethermoor: Opportunistic Economic Partner
 created: 2025-08-09
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.598279+00:00'
 related_entities:
 - '[[02_Worldbuilding/Quests/Economic Warfare]]'
 - '[[02_Worldbuilding/People/Zephyr Goldwhisper]]'
 - '[[02_Worldbuilding/Places/The Azure Coast]]'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View

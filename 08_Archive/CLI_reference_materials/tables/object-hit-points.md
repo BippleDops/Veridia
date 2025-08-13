@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Object Hit Points
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.435545+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Object Hit Points
 *Source: Dungeon Master's Guide p. 247. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 

@@ -5,6 +5,7 @@ tags:
 - combat
 - complete
 - investigation
+- lore
 - quest
 - social
 - trade-routes
@@ -47,9 +48,10 @@ last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.502353+00:00'
 type: Lore
 ---
+
 
 
 

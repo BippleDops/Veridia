@@ -1,9 +1,12 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
@@ -11,11 +14,13 @@ tags:
 - ttrpg-cli/item/weapon/simple
 aliases:
 - Staff of Thunder and Lightning
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.228731+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Staff of Thunder and Lightning
 *Staff, weapon, very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/staff-of-thunder-and-lightning.webp#right)

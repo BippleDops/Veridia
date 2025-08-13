@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
 - Creating a Gnoll War Band; Gnoll War Band Composition
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.597127+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Creating a Gnoll War Band; Gnoll War Band Composition
 *Source: Volo's Guide to Monsters p. 39* 
 

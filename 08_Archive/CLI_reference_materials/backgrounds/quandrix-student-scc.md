@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
+- active
+- both
+- note
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/scc
 aliases:
 - Quandrix Student
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.423247+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Quandrix Student
 *Source: Strixhaven: A Curriculum of Chaos p. 33*  
 ![A Quandrix student magical...](/03_Mechanics/CLI/backgrounds/img/quandrix-student.webp#right "A Quandrix student magically gazes into the intricate patterns of nature")

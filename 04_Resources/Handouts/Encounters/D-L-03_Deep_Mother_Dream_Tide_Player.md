@@ -3,10 +3,17 @@ title: Player Handout — D-L-03 Deep Mother Dream Tide
 type: handout
 status: complete
 audience: player
-tags: [handout, encounter, depth]
+tags:
+- both
+- complete
+- depth
+- encounter
+- handout
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.207712+00:00'
+world: Both
 ---
+
 
 # Deep Mother Dream Tide
 

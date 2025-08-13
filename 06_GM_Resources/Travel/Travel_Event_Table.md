@@ -2,9 +2,18 @@
 title: Travel Event Table
 type: gm_resource
 status: complete
-tags: [gm, travel, encounters]
+tags:
+- both
+- complete
+- encounters
+- gm
+- gm_resource
+- travel
 created: 2025-08-11
+updated: '2025-08-13T01:18:31.124221+00:00'
+world: Both
 ---
+
 
 # Travel Event Table
 

@@ -3,6 +3,7 @@ tags:
 - aquabyssos
 - complete
 - government
+- npc
 - organization
 status: complete
 world: Aquabyssos
@@ -12,8 +13,9 @@ created: 2025-08-11
 MyContainer: None
 MyCategory: Government
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.831590+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-parliament-high-council-parliament-high-council.svg)

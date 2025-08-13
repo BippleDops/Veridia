@@ -1,21 +1,32 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.956024+00:00'
 created: 2025-08-11
-tags: [Category/People]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
+tags:
+- aethermoor
+- category/people
+- complete
+- npc
+status: complete
+world: Aethermoor
+type: npc
 obsidianUIMode: preview
 char_status: Alive
 char_race: Human
 char_gender: Unknown
 char_age: Adult
 accessibility:
-  screen_reader_summary: "Quest - Nature is an NPC entangled with faction politics and memory economies. Contains hooks, tactics, and relationships."
-  content_warnings: ["coercion", "memory manipulation"]
-  pronunciation: "Quest - Nature"
-  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
+  screen_reader_summary: Quest - Nature is an NPC entangled with faction politics
+    and memory economies. Contains hooks, tactics, and relationships.
+  content_warnings:
+  - coercion
+  - memory manipulation
+  pronunciation: Quest - Nature
+  safety_tools:
+  - Lines & Veils
+  - X-Card
+  - Open Door
 ---
+
 
 
 

@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.828460+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/5
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/small-or-medium
-  - ttrpg-cli/monster/type/undead
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/small-or-medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Vampire Spawn
+- Vampire Spawn
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vampire-spawn-xmm-vampire-spawn-xmm.svg)

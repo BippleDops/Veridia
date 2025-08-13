@@ -1,5 +1,6 @@
 ---
 tags:
+- active - category/people
 - active---category/people
 - aquabyssos
 - both
@@ -19,9 +20,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.835446+00:00'
 created: 2025-08-11
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-ambassador-nerida-deepcurrent-ambassador-nerida-deepcurrent.svg)

@@ -1,13 +1,15 @@
 ---
 tags:
+- active
 - both
 - npc
 type: NPC
 world: Both
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:05.501570+00:00'
+updated: '2025-08-13T01:18:36.931086+00:00'
 ---
+
 
 
 

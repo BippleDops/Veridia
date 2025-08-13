@@ -9,10 +9,12 @@ tags:
 - encounters
 - gm-resource
 - gm_resource
+- lore
 created: 2025-08-11
 world: Both
-updated: '2025-08-11T13:08:47.028616+00:00'
+updated: '2025-08-13T01:18:31.117537+00:00'
 ---
+
 
 
 

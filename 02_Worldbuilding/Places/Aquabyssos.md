@@ -1,19 +1,21 @@
 ---
 tags:
+- active
 - aquabyssos
 - continent
-- underwater
-- realm
 - place
+- realm
+- underwater
 type: Place
 world: Aquabyssos
 status: active
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.569100+00:00'
 danger_level: Variable
 population: 15000000
 government_type: Parliamentary Democracy with Shadow Infiltration
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-continent-aquabyssos-aquabyssos.svg)

@@ -1,13 +1,16 @@
 ---
 world: Both
-updated: '2025-08-12T14:31:04.371128+00:00'
+updated: '2025-08-13T01:18:36.212481+00:00'
 created: 2025-08-11
 status: active
 tags:
+- active
 - both
+- location
 type: Location
 danger_level: Moderate
 ---
+
 
 
 

@@ -6,6 +6,7 @@ tags:
 - community
 - complete
 - eccentric
+- location
 - mad
 - npc
 - oracle
@@ -24,11 +25,12 @@ influence: Low
 danger_level: None
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.378837+00:00'
 MyContainer: None
 MyCategory: Community Figure
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View

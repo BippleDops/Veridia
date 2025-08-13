@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Sentient Magic Item Alignment
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.286571+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Sentient Magic Item Alignment
 *Source: Dungeon Master's Guide p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 

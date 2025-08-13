@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/background/quandrix-student
 - ttrpg-cli/spell/class/bard
@@ -29,9 +32,12 @@ aliases:
 - Guiding Bolt
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.352208+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Guiding Bolt
 *1st-level, Evocation*  
 

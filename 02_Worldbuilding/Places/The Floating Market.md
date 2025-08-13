@@ -2,6 +2,7 @@
 tags:
 - complete
 - cross-realm
+- dimensional nexus (both realms)
 - dimensional-nexus
 - dimensional-nexus-(both-realms)
 - location
@@ -18,9 +19,10 @@ size: Large Complex
 population: ~2,000 (rotating)
 created_by: auto-stub
 created: 2025-08-09
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.574674+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-floating-market-the-floating-market.svg)

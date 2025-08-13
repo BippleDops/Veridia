@@ -4,7 +4,15 @@ type: session_packet
 session_number: 10
 campaign_name: Aquabyssos
 status: ready
+created: null
+updated: '2025-08-13T01:18:31.120422+00:00'
+world: Aquabyssos
+tags:
+- aquabyssos
+- ready
+- session_packet
 ---
+
 
 # Session Packet — Aquabyssos 10
 

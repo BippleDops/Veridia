@@ -1,3 +1,15 @@
+---
+created: null
+updated: '2025-08-13T01:18:31.097557+00:00'
+world: Both
+type: Location
+status: draft
+tags:
+- both
+- draft
+- location
+---
+
 # DISTRICT_MAPS_MAJOR_CITIES.md
 *Detailed Urban Geography for Primary Population Centers*
 

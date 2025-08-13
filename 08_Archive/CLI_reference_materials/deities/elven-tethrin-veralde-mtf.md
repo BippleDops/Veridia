@@ -2,15 +2,22 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/elven
 - ttrpg-cli/domain/war
 aliases:
-- "Tethrin Verald\xE9"
+- Tethrin Veraldé
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:31.812403+00:00'
+world: Both
+status: active
 ---
+
 # Tethrin Veraldé
 *Source: Mordenkainen's Tome of Foes p. 43* 
 

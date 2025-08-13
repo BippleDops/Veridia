@@ -2,10 +2,17 @@
 title: Phase Omega Enhanced Index
 type: index
 status: complete
-tags: [index, phase-omega, systems]
+tags:
+- both
+- complete
+- index
+- phase-omega
+- systems
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.115690+00:00'
+world: Both
 ---
+
 
 # Phase Omega Enhanced Index
 

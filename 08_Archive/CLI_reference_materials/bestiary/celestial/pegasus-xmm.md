@@ -1,24 +1,30 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.947677+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/2
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/grassland
-  - ttrpg-cli/monster/environment/hill
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/environment/upper
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/celestial
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/grassland
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/environment/upper
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/celestial
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Pegasus
+- Pegasus
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-pegasus-xmm-pegasus-xmm.svg)

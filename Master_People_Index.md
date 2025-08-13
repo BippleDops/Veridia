@@ -1,6 +1,7 @@
 ---
 tags:
 - complete
+- lore
 - master-index
 - navigation
 - npcs
@@ -14,8 +15,9 @@ created: 2025-08-11
 last_updated: 2025-08-11
 completion: 100%
 total_npcs: 101
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.086865+00:00'
 ---
+
 
 
 # Master People Index

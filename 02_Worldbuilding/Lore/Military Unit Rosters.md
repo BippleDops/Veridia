@@ -1,17 +1,20 @@
 ---
 tags:
 - aquabyssos
-- military
 - brotherhood
 - command-structure
+- complete
+- lore
+- military
 - relationships
 - warfare
 type: Lore
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.876301+00:00'
 ---
+
 
 # Military Unit Rosters
 *"In the depths, brothers-in-arms become brothers-in-soul"*

@@ -4,7 +4,15 @@ type: session_packet
 session_number: 10
 campaign_name: Aethermoor
 status: ready
+created: null
+updated: '2025-08-13T01:18:31.120892+00:00'
+world: Aethermoor
+tags:
+- aethermoor
+- ready
+- session_packet
 ---
+
 
 # Session Packet — Aethermoor 10
 

@@ -1,13 +1,16 @@
 ---
 world: Both
-updated: '2025-08-12T14:31:05.548026+00:00'
+updated: '2025-08-13T01:18:36.983087+00:00'
 created: 2025-08-11
 status: active
 tags:
+- active
 - both
+- npc
 type: NPC
 cr: '15'
 ---
+
 
 
 > [!figure] Portrait

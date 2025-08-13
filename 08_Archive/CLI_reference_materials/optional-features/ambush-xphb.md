@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/mv-b
 aliases:
 - Ambush
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.020512+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Ambush
 *Source: Player's Handbook (2024) p. 94*  
 

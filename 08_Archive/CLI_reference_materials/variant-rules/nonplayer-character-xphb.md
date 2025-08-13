@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 aliases:
 - Nonplayer Character
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:31.979537+00:00'
+world: Both
+status: active
 ---
+
 # Nonplayer Character
 *Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 

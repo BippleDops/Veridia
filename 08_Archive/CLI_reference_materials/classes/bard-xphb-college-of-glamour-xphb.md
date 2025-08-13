@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/bard/glamour
 aliases:
 - College of Glamour
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.129151+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # College of Glamour
 *[Bard](./bard-xphb.md): Bard Subclass*  
 *Source: Player's Handbook (2024) p. 65*  

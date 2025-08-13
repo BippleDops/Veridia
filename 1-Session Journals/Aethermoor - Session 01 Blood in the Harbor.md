@@ -1,7 +1,9 @@
 ---
 tags:
+- active
 - aethermoor
 - crystal-plague
+- lore
 - session
 session: Session-01
 date: null
@@ -47,10 +49,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-12T14:31:05.668136+00:00'
+updated: '2025-08-13T01:18:37.162857+00:00'
 created: 2025-08-11
 status: active
 ---
+
 
 
 

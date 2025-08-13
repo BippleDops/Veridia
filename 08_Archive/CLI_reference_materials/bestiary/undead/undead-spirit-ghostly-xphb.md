@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.816023+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/monster/cr/
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/undead
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Undead Spirit (Ghostly)
+- Undead Spirit (Ghostly)
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-undead-spirit-ghostly-xphb-undead-spirit-ghostly-xphb.svg)

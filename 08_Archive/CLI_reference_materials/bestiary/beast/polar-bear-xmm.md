@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.568215+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/2
-  - ttrpg-cli/monster/environment/arctic
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/beast
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/environment/arctic
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Polar Bear
+- Polar Bear
+world: Both
+status: active
 ---
+
 # [Polar Bear](3-Mechanics\CLI\bestiary\beast/polar-bear-xmm.md)
 *Source: Monster Manual (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

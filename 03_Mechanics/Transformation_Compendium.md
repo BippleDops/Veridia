@@ -8,14 +8,16 @@ tags:
 - character-progression
 - complete
 - evolution
+- lore
 - mechanics
 - mutation
 - transformation
 created: 2025-01-23
 version: 1.0
 world: Both
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.121351+00:00'
 ---
+
 
 
 

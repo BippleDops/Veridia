@@ -1,21 +1,24 @@
 ---
 tags:
-- aquabyssos
 - aethermoor
+- aquabyssos
+- artifacts
+- books
+- both
 - complete
 - deep-mother
 - forbidden-knowledge
-- tomes
-- books
+- items
 - sanity-cost
-- artifacts
+- tomes
 status: complete
 world: Both
 type: Items
 created_by: claude
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:37.088361+00:00'
 ---
+
 
 # Forbidden Tomes of Deep Mother
 

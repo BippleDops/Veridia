@@ -1,19 +1,24 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 aliases:
 - Necklace of Prayer Beads
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.913424+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Necklace of Prayer Beads
 *Wondrous item, rare (requires attunement by a cleric, druid, or paladin)*  
 ![](/03_Mechanics/CLI/items/img/necklace-of-prayer-beads.webp#right)

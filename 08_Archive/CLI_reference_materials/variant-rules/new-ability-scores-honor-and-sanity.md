@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - New Ability Scores: Honor and Sanity
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.025576+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # New Ability Scores: Honor and Sanity
 *Source: Dungeon Master's Guide p. 264* 
 

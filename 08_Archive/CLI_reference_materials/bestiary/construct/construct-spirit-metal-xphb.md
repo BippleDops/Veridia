@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.975138+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/monster/cr/
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/construct
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Construct Spirit (Metal)
+- Construct Spirit (Metal)
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-construct-spirit-metal-xphb-construct-spirit-metal-xphb.svg)

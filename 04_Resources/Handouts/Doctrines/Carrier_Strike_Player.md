@@ -3,10 +3,16 @@ title: Player Handout — Carrier Strike Doctrine
 type: handout
 status: complete
 audience: player
-tags: [handout, doctrine]
+tags:
+- both
+- complete
+- doctrine
+- handout
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.195211+00:00'
+world: Both
 ---
+
 
 # Carrier Strike
 

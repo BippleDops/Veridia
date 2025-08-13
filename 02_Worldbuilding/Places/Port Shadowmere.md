@@ -1,14 +1,16 @@
 ---
 tags:
+- active
 - aquabyssos
 - location
 type: Location
 world: Aquabyssos
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:04.160212+00:00'
+updated: '2025-08-13T01:18:35.989757+00:00'
 danger_level: Moderate
 ---
+
 
 
 

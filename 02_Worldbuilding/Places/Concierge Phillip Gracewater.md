@@ -7,6 +7,7 @@ tags:
 - helpful
 - hospitality
 - information
+- location
 - npc
 - person
 - service
@@ -23,11 +24,12 @@ influence: Low
 danger_level: None
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.551054+00:00'
 MyContainer: None
 MyCategory: Embassy Staff
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View

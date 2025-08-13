@@ -1,13 +1,16 @@
 ---
 tags:
+- active
+- dimensional nexus (both realms)
 - dimensional-nexus-(both-realms)
 - npc
 type: NPC
 world: Dimensional Nexus (Both Realms)
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:05.493396+00:00'
+updated: '2025-08-13T01:18:36.922823+00:00'
 ---
+
 
 
 

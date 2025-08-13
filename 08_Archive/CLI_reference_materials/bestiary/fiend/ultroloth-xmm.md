@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.754878+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/13
-  - ttrpg-cli/monster/environment/lower
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/fiend/yugoloth
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/13
+- ttrpg-cli/monster/environment/lower
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fiend/yugoloth
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Ultroloth
+- Ultroloth
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ultroloth-xmm-ultroloth-xmm.svg)

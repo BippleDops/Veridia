@@ -1,25 +1,31 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.510782+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/6
-  - ttrpg-cli/monster/environment/coastal
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/environment/grassland
-  - ttrpg-cli/monster/environment/hill
-  - ttrpg-cli/monster/environment/mountain
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/giant
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/environment/coastal
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/environment/grassland
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/environment/mountain
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Cyclops Sentry
+- Cyclops Sentry
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cyclops-sentry-xmm-cyclops-sentry-xmm.svg)

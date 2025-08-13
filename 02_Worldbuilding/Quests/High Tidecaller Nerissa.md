@@ -4,6 +4,7 @@ tags:
 - complete
 - corruption
 - cult
+- lore
 - quest
 - redemption
 - religious
@@ -25,11 +26,12 @@ connected_to:
 - Oceanic Divine Magic
 created_by: DM
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.506513+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
 
 
 

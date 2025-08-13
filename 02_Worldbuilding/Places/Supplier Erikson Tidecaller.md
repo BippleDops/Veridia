@@ -3,6 +3,7 @@ tags:
 - aquabyssos
 - business
 - complete
+- location
 - magical-goods
 - merchant
 - naval-supplies
@@ -23,11 +24,12 @@ influence: Moderate
 danger_level: Low
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.375728+00:00'
 MyContainer: None
 MyCategory: Merchant
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View

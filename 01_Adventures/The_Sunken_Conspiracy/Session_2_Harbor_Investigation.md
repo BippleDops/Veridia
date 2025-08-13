@@ -1,22 +1,24 @@
 ---
-title: "The Sunken Conspiracy - Session 2: Harbor Investigation"
+title: 'The Sunken Conspiracy - Session 2: Harbor Investigation'
 type: session
 session_number: 2
-level_range: "1-3"
-duration: "4-5 hours"
-world: "Aquabyssos"
-adventure: "The Sunken Conspiracy"
+level_range: 1-3
+duration: 4-5 hours
+world: Aquabyssos
+adventure: The Sunken Conspiracy
 status: complete
 tags:
-  - session
-  - investigation
-  - social
-  - conspiracy
-  - aquabyssos
-  - port-meridian
+- aquabyssos
+- complete
+- conspiracy
+- investigation
+- port-meridian
+- session
+- social
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.159211+00:00'
 ---
+
 
 # Session 2: Harbor Investigation
 *The Sunken Conspiracy - Uncovering Smuggling Operations*

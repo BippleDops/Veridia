@@ -1,3 +1,13 @@
+---
+created: null
+updated: '2025-08-13T01:18:31.090355+00:00'
+world: Both
+status: draft
+tags:
+- both
+- draft
+---
+
 # Vault Enhancement Roadmap - Cordelia World Building
 
 ## Executive Summary

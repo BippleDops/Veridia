@@ -3,6 +3,7 @@ tags:
 - both
 - draft
 - gm-resource
+- lore
 - npc-guide
 - npcs
 - quick-reference
@@ -11,9 +12,10 @@ type: Lore
 campaign: Aquabyssos
 created: 2025-08-07
 world: Both
-updated: '2025-08-11T13:08:47.030347+00:00'
+updated: '2025-08-13T01:18:31.116177+00:00'
 status: draft
 ---
+
 
 
 

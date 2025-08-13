@@ -3,15 +3,18 @@ title: Unified Mechanics Guide
 type: Reference
 status: complete
 tags:
+- authoritative
+- both
+- both-worlds
+- complete
 - mechanics
 - reference
 - standardized
-- both-worlds
-- authoritative
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:37.096042+00:00'
 world: Both
 ---
+
 
 # Unified Mechanics Guide
 *The Authoritative Rules Reference for Aquabyssos & Aethermoor*

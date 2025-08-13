@@ -1,15 +1,29 @@
 ---
-tags: [adventure-session, winds-of-rebellion, aethermoor, levels-4-6, political-intrigue, social-investigation]
+tags:
+- active
+- adventure-session
+- aethermoor
+- levels-4-6
+- political-intrigue
+- social-investigation
+- winds-of-rebellion
 session_number: 2
-adventure: "Winds of Rebellion"
-level_range: "4-6"
-estimated_duration: "4-5 hours"
-session_type: "Social Investigation & Faction Dynamics"
-world: "Aethermoor"
-themes: ["faction-meetings", "information-gathering", "court-festival", "hidden-agendas", "social-maneuvering"]
+adventure: Winds of Rebellion
+level_range: 4-6
+estimated_duration: 4-5 hours
+session_type: Social Investigation & Faction Dynamics
+world: Aethermoor
+themes:
+- faction-meetings
+- information-gathering
+- court-festival
+- hidden-agendas
+- social-maneuvering
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.152387+00:00'
+status: active
 ---
+
 
 # Session 2: Court of Whispers
 ## A Winds of Rebellion Adventure Session

@@ -1,14 +1,15 @@
 ---
 tags:
+- aethermoor
+- complete
+- cross-realm-trade
+- financial-power
+- goldwave-family
 - location
+- luxury
 - manor
 - merchant
 - noble-house
-- goldwave-family
-- aethermoor
-- luxury
-- financial-power
-- cross-realm-trade
 status: complete
 world: Aethermoor
 type: location
@@ -34,7 +35,7 @@ access: By invitation only
 wealth_level: Extreme
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.209288+00:00'
 services:
 - Private Banking
 - Investment Consultation
@@ -52,6 +53,7 @@ danger_level: 1
 visited: false
 discovered: false
 ---
+
 
 
 

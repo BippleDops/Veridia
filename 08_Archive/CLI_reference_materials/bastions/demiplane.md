@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-bastion
 tags:
+- active
+- both
+- note
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
 - Demiplane
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.406613+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Demiplane
 *Level 17 Bastion facility*  
 

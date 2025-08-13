@@ -1,16 +1,19 @@
 ---
 tags:
 - aquabyssos
-- politics
+- complete
 - government
-- procedures
 - intrigue
+- lore
+- politics
+- procedures
 type: Lore
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.112432+00:00'
 ---
+
 
 # Parliamentary Procedures and Loopholes
 *The Labyrinthine Laws of the Parliament of Echoes*

@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.922312+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/2
-  - ttrpg-cli/monster/environment/arctic
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/dragon/chromatic
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/environment/arctic
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/dragon/chromatic
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - White Dragon Wyrmling
+- White Dragon Wyrmling
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-white-dragon-wyrmling-xmm-v1-white-dragon-wyrmling-xmm.svg)

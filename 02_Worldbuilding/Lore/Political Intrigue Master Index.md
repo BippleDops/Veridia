@@ -1,17 +1,20 @@
 ---
 tags:
 - aquabyssos
-- politics
-- intrigue
+- complete
 - index
+- intrigue
+- lore
 - master-document
 - parliament
+- politics
 type: Lore
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.930843+00:00'
 ---
+
 
 # Political Intrigue Master Index
 *The Complete Guide to Aquabyssos Political Complexity*

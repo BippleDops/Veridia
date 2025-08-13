@@ -1,3 +1,13 @@
+---
+created: null
+updated: '2025-08-13T01:18:31.100342+00:00'
+world: Both
+status: draft
+tags:
+- both
+- draft
+---
+
 # CANONICAL_WORLD_MAP.md
 *Definitive Geographic Reference for the Aethermoor-Aquabyssos Dual Realm*
 

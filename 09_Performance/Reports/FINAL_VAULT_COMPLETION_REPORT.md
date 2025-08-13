@@ -1,10 +1,19 @@
 ---
-tags: [completion-report, vault-status, final-summary]
+tags:
+- both
+- complete
+- completion-report
+- final-summary
+- location
+- vault-status
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.099981+00:00'
 campaign: Aquabyssos & Aethermoor
 status: complete
+world: Both
+type: Location
 ---
+
 
 # 🎯 FINAL VAULT COMPLETION REPORT
 

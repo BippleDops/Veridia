@@ -1,20 +1,25 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/ring
 aliases:
 - Ring of Djinni Summoning
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.143160+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Ring of Djinni Summoning
 *Ring, legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-djinni-summoning.webp#right)

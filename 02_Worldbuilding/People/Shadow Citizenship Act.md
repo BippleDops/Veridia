@@ -5,6 +5,7 @@ tags:
 - complete
 - law
 - lore
+- npc
 - politics
 - shadow
 status: complete
@@ -15,8 +16,9 @@ created: 2025-08-11
 MyContainer: None
 MyCategory: Political
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.952908+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-shadow-citizenship-act-shadow-citizenship-act.svg)

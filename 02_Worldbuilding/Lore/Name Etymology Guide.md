@@ -1,17 +1,21 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.815584+00:00'
 created: 2025-08-12
 tags:
-  - lore
-  - linguistics
-  - names
-  - etymology
-  - culture
+- both
+- complete
+- cultural_reference
+- culture
+- etymology
+- linguistics
+- lore
+- names
 status: complete
 world: Both
 type: cultural_reference
 obsidianUIMode: preview
 ---
+
 
 # Name Etymology Guide
 

@@ -2,6 +2,7 @@
 tags:
 - aethermoor
 - aquabyssos
+- both worlds
 - both-worlds
 - complete
 - divination
@@ -18,12 +19,13 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.003000+00:00'
 school: Divination
 focus: Knowledge, Perception, and Prophecy Magic
 complexity: Fundamental to Cosmic
 practitioners: Seers, scouts, oracles
 ---
+
 
 
 

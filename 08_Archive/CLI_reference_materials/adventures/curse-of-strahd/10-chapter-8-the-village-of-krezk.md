@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/cos
 aliases:
 - Chapter 8: The Village of Krezk
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:32.242776+00:00'
+world: Both
+status: active
 ---
+
 # Chapter 8: The Village of Krezk
 *Source: Curse of Strahd, p. 143* 
 

@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/reward/other
 aliases:
 - The Blessed of Corellon
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.338257+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # The Blessed of Corellon
 *Other*  
 

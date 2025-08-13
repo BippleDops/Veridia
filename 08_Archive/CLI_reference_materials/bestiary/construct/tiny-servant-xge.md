@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.968106+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xge
-  - ttrpg-cli/monster/cr/
-  - ttrpg-cli/monster/size/tiny
-  - ttrpg-cli/monster/type/construct
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xge
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Tiny Servant
+- Tiny Servant
+world: Both
+status: active
 ---
+
 # [Tiny Servant](3-Mechanics\CLI\bestiary\construct/tiny-servant-xge.md)
 *Source: Xanathar's Guide to Everything p. 169*  
 

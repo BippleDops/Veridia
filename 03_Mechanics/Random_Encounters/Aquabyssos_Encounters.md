@@ -3,14 +3,18 @@ title: Aquabyssos Random Encounters
 type: mechanics
 status: complete
 tags:
-  - encounters
-  - aquabyssos
-  - underwater
-  - random-tables
-  - depth-scaled
+- aquabyssos
+- complete
+- depth-scaled
+- encounters
+- mechanics
+- random-tables
+- underwater
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.133192+00:00'
+world: Aquabyssos
 ---
+
 
 # Aquabyssos Random Encounters
 *Where the depths hold both wonder and terror*

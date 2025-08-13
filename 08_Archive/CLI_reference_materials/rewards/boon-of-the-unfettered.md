@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/reward/boon
 aliases:
 - Boon of the Unfettered
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.335831+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Boon of the Unfettered
 
 You have advantage on ability checks made to resist being [grappled](/03_Mechanics/CLI/conditions.md#Grappled). In addition, you can use an action to automatically escape a grapple or free yourself of restraints of any kind. 

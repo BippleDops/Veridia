@@ -1,13 +1,16 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:37.114120+00:00'
 created: 2025-08-12
 tags:
+- aethermoor
+- complete
 - mechanic
 status: complete
 world: Aethermoor
 type: mechanic
 obsidianUIMode: preview
 ---
+
 
 
 

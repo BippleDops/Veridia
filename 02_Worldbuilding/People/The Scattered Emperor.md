@@ -1,5 +1,6 @@
 ---
 tags:
+- active
 - aquabyssos
 - both
 - fragmented-consciousness
@@ -57,10 +58,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-12T14:31:05.461548+00:00'
+updated: '2025-08-13T01:18:36.893457+00:00'
 status: active
 type: NPC
 ---
+
 
 
 

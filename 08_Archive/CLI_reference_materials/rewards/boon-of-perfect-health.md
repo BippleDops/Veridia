@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/reward/boon
 aliases:
 - Boon of Perfect Health
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.338699+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Boon of Perfect Health
 
 You are immune to all diseases and poisons, and you have advantage on Constitution saving throws.

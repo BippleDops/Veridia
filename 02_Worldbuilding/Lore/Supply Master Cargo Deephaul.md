@@ -1,13 +1,16 @@
 ---
 tags:
+- active
 - aquabyssos
 - criminal-headquarters
+- lore
 type: Lore
 world: Aquabyssos
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:02.398926+00:00'
+updated: '2025-08-13T01:18:34.511096+00:00'
 ---
+
 
 
 

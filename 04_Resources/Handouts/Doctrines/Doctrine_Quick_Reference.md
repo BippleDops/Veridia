@@ -3,10 +3,17 @@ title: Player Handout — Doctrine Quick Reference
 type: handout
 status: complete
 audience: player
-tags: [handout, doctrine, factions]
+tags:
+- both
+- complete
+- doctrine
+- factions
+- handout
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.196268+00:00'
+world: Both
 ---
+
 
 # Doctrine Quick Reference
 

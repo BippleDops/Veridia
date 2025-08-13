@@ -1,19 +1,24 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/none
 aliases:
 - Scale Mail
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.695297+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Scale Mail
 *Medium armor*  
 ![](/03_Mechanics/CLI/items/img/scale-mail.webp#right)

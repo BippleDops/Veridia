@@ -1,6 +1,7 @@
 ---
 type: Location
 tags:
+- active
 - both
 - location
 - region
@@ -12,10 +13,11 @@ MyContainer: None
 MyCategory: Unknown - Category/Place
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-12T14:31:04.549093+00:00'
+updated: '2025-08-13T01:18:36.384053+00:00'
 status: active
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View

@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/spell/list/race/triton
 aliases:
 - Spells for Triton
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.118809+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Spells for Triton
 
 ## 1st Level

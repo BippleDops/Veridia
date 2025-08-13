@@ -1,3 +1,15 @@
+---
+created: null
+updated: '2025-08-13T01:18:31.083620+00:00'
+world: Both
+type: Location
+status: draft
+tags:
+- both
+- draft
+- location
+---
+
 # GEOGRAPHY_HARMONIZATION_REPORT.md
 *Comprehensive Geographic Consistency Analysis and Recommendations*
 

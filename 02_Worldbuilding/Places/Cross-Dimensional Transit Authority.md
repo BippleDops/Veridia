@@ -1,16 +1,19 @@
 ---
 tags:
+- both worlds
 - both-worlds
-- place
-- transit-hub
-- security
+- complete
 - dimensional
+- place
+- security
+- transit-hub
 type: Place
 world: Both Worlds
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.398801+00:00'
 ---
+
 
 ## Overview
 

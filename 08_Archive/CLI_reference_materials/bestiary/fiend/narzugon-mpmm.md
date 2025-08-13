@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.752664+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/13
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/fiend/devil
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/13
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fiend/devil
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Narzugon
+- Narzugon
+world: Both
+status: active
 ---
+
 # [Narzugon](3-Mechanics\CLI\bestiary\fiend/narzugon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 190, Mordenkainen's Tome of Foes p. 167*  
 

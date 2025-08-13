@@ -1,12 +1,23 @@
 ---
-title: "World Bible Index"
+title: World Bible Index
 type: index
-tags: [index, lore, world-bible, reference, comprehensive]
-status: "complete"
+tags:
+- both
+- complete
+- comprehensive
+- index
+- lore
+- reference
+- world-bible
+status: complete
 created: 2025-08-11
-updated: 2025-08-11
-cssclasses: [wide-page, index-page]
+updated: '2025-08-13T01:18:31.103414+00:00'
+cssclasses:
+- wide-page
+- index-page
+world: Both
 ---
+
 
 # 📖 World Bible Index
 *The Complete Lore Reference*

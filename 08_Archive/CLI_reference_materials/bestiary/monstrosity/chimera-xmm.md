@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.495401+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/6
-  - ttrpg-cli/monster/environment/grassland
-  - ttrpg-cli/monster/environment/hill
-  - ttrpg-cli/monster/environment/mountain
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/monstrosity
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/environment/grassland
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/environment/mountain
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Chimera
+- Chimera
+world: Both
+status: active
 ---
+
 # [Chimera](3-Mechanics\CLI\bestiary\monstrosity/chimera-xmm.md)
 *Source: Monster Manual (2024) p. 70. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

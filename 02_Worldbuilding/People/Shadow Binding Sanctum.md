@@ -5,6 +5,7 @@ tags:
 - complete
 - location
 - magic
+- npc
 - sanctum
 - shadow
 status: complete
@@ -15,8 +16,9 @@ created: 2025-08-12
 MyContainer: None
 MyCategory: Magical
 obsidianUIMode: preview
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.836267+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-shadow-binding-sanctum-shadow-binding-sanctum.svg)

@@ -4,6 +4,7 @@ tags:
 - betrayal
 - complete
 - espionage
+- npc
 - political
 - quest
 status: complete
@@ -14,9 +15,10 @@ created: 2025-08-08 - Category/Quests
 MyContainer: None
 MyCategory: Political
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.929147+00:00'
 cr: '6'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-traitor-within-quest-the-traitor-within.svg)

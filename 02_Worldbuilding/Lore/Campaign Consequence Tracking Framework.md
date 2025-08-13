@@ -1,17 +1,21 @@
 ---
 tags:
+- both worlds
 - campaign-management
+- complete
 - consequence-tracking
-- political-ripples
 - economic-impacts
 - framework
 - gm-tools
+- lore
+- political-ripples
 type: Lore
 world: Both Worlds
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.100693+00:00'
 ---
+
 
 # Campaign Consequence Tracking Framework
 *Mapping the Ripple Effects of Player Actions Across Two Worlds*

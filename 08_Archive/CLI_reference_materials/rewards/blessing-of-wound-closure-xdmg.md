@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/blessing
 aliases:
 - Blessing of Wound Closure
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.331826+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Blessing of Wound Closure
 
 This Blessing grants you the benefits of a [Periapt of Wound Closure](/03_Mechanics/CLI/items/periapt-of-wound-closure-xdmg.md).

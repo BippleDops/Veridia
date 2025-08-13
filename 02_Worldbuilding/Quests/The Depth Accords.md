@@ -6,6 +6,7 @@ tags:
 - deep-sea
 - diplomatic
 - leviathan
+- lore
 - quest
 - underwater
 status: complete
@@ -19,8 +20,9 @@ created: 2025-08-08 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.487800+00:00'
 ---
+
 
 
 

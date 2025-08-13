@@ -3,6 +3,7 @@ tags:
 - aquabyssos
 - complete
 - intrigue
+- lore
 - political
 - quest
 - rescue
@@ -14,8 +15,9 @@ created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.500405+00:00'
 ---
+
 
 
 

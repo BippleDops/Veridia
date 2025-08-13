@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/rot
 aliases:
 - Chapter 9: Council of Waterdeep
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:32.255072+00:00'
+world: Both
+status: active
 ---
+
 # Chapter 9: Council of Waterdeep
 *Source: Rise of Tiamat, p. 104* 
 

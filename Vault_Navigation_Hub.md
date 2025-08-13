@@ -4,6 +4,7 @@ tags:
 - campaign-tools
 - complete
 - hub
+- lore
 - navigation
 - vault-home
 aliases:
@@ -12,12 +13,13 @@ aliases:
 - Campaign Central
 - Master Index
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.083025+00:00'
 status: complete
 campaign: Aquabyssos & Aethermoor
 world: Both
 type: Lore
 ---
+
 
 
 

@@ -1,18 +1,23 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 aliases:
 - Eyes of the Eagle
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.034588+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Eyes of the Eagle
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/eyes-of-the-eagle.webp#right)

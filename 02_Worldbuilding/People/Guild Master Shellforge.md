@@ -2,12 +2,14 @@
 tags:
 - aquabyssos
 - person
+- stub
 type: Person
 world: Aquabyssos
 status: stub
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:37.007903+00:00'
 ---
+
 
 # Guild Master Shellforge
 

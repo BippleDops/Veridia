@@ -2,10 +2,18 @@
 title: Merger Hybrid Vehicles
 type: mechanics
 status: complete
-tags: [mechanics, vehicles, merger, paradox]
+tags:
+- both
+- complete
+- mechanics
+- merger
+- paradox
+- vehicles
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.146289+00:00'
+world: Both
 ---
+
 
 # Merger Hybrid Vehicles
 

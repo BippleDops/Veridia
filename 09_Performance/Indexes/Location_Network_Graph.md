@@ -1,10 +1,17 @@
 ---
-tags: [index, locations]
-status: "complete"
-world: "Universal"
-type: "index"
+tags:
+- complete
+- index
+- locations
+- universal
+status: complete
+world: Universal
+type: index
 obsidianUIMode: preview
+created: null
+updated: '2025-08-13T01:18:31.109071+00:00'
 ---
+
 
 # Location Network Graph
 

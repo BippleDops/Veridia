@@ -5,6 +5,7 @@ tags:
 - corruption
 - druid
 - exploration
+- location
 - nature
 - network
 - quest
@@ -15,7 +16,7 @@ world: Aethermoor
 type: Location
 created_by: auto-stub
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.213665+00:00'
 quest_type: Exploration/Environmental Adventure
 level_range: 7-13
 party_size: 4-6 characters
@@ -24,6 +25,7 @@ difficulty: Hard
 primary_location: The Verdant Reach underground network and surrounding regions
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-quest-the-root-network-quest-the-root-network.svg)

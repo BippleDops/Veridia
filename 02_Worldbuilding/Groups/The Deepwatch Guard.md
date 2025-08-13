@@ -3,6 +3,7 @@ tags:
 - aquabyssos
 - complete
 - elite-guards
+- group
 - military-unit
 - organization
 - shadow-watchers
@@ -20,8 +21,9 @@ founded: 2987
 motto: Where Light Cannot Reach, We Stand Guard
 created_by: Claude
 created: 2025-08-09
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.663573+00:00'
 ---
+
 
 
 > [!figure] Heraldry

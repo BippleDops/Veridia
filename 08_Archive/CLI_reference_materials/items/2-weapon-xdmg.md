@@ -1,9 +1,12 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/age/futuristic
 - ttrpg-cli/item/age/modern
@@ -66,11 +69,13 @@ aliases:
 - +2 Warhammer
 - +2 Whip
 - +2 Yklwa
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.088611+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-2-weapon-xdmg-2-weapon-xdmg.svg)

@@ -1,12 +1,22 @@
 ---
-title: "Link Integrity Report"
+title: Link Integrity Report
 type: index
-tags: [index, performance, link-analysis, maintenance]
-status: "complete"
+tags:
+- both
+- complete
+- index
+- link-analysis
+- maintenance
+- performance
+status: complete
 created: 2025-08-11
-updated: 2025-08-11
-cssclasses: [wide-page, index-page]
+updated: '2025-08-13T01:18:31.105506+00:00'
+cssclasses:
+- wide-page
+- index-page
+world: Both
 ---
+
 
 # 🔗 Link Integrity Report
 *Tracking Unresolved Links and Orphaned Pages*

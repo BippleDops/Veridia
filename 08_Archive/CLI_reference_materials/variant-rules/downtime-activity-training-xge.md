@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
 - Downtime Activity: Training
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.010794+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Downtime Activity: Training
 *Source: Xanathar's Guide to Everything p. 134* 
 

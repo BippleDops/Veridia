@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/dragonlance
 - ttrpg-cli/domain/peace
@@ -11,7 +14,11 @@ aliases:
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:31.814399+00:00'
+world: Both
+status: active
 ---
+
 # Paladine
 *Source: Player's Handbook p. 295, Tasha's Cauldron of Everything p. 33* 
 

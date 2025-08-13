@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- "Halfling Names \u2013 Female"
+- Halfling Names – Female
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.538651+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Halfling Names – Female
 *Source: Xanathar's Guide to Everything p. 179* 
 

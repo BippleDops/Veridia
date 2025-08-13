@@ -1,11 +1,18 @@
 ---
-tags: [aquabyssos, shadow-conspiracy, medical-horror, facilities, complete]
+tags:
+- aquabyssos
+- complete
+- facilities
+- medical-horror
+- place
+- shadow-conspiracy
 type: Place
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-12'
+updated: '2025-08-13T01:18:36.065434+00:00'
 ---
+
 
 # Shadow Surgery Network
 *The Architecture of Identity Replacement*

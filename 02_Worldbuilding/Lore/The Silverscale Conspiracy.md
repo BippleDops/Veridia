@@ -3,6 +3,7 @@ tags:
 - aethermoor
 - aquabyssos
 - banking
+- both worlds
 - both-worlds
 - complete
 - conspiracy
@@ -18,13 +19,14 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.517529+00:00'
 conspiracy_type: Economic and Political Manipulation
 scope: Cross-world influence network
 danger_level: 4
 active_period: Past 150 years, escalating recently
 primary_agents: Silverscale Banking House and allied organizations
 ---
+
 
 
 

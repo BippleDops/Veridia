@@ -1,9 +1,12 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
@@ -41,11 +44,13 @@ aliases:
 - Flame Tongue War Pick
 - Flame Tongue Warhammer
 - Flame Tongue Whip
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.600654+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Flame Tongue
 *Rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/flame-tongue.webp#right)

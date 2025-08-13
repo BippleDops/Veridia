@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
 aliases:
 - Charm of the Slayer
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.323071+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Charm of the Slayer
 
 One weapon in your possession becomes a [Dragon Slayer](/03_Mechanics/CLI/items/dragon-slayer-xdmg.md) or [Giant Slayer](/03_Mechanics/CLI/items/giant-slayer-xdmg.md) (DM's choice) for the next 9 days. The Charm then vanishes from you, and the weapon returns to normal.

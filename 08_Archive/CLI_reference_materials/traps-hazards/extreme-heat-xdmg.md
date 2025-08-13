@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/env
 aliases:
@@ -9,7 +12,11 @@ aliases:
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:32.297498+00:00'
+world: Both
+status: active
 ---
+
 # Extreme Heat
 *Environmental Hazard*  
 

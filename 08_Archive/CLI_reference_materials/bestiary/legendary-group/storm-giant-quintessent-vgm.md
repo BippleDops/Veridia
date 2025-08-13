@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/monster/legendary-group
 aliases:
 - Storm Giant Quintessent
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.878617+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-storm-giant-quintessent-vgm-storm-giant-quintessent-vgm.svg)

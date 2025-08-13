@@ -5,6 +5,7 @@ tags:
 - environmental
 - exploration
 - horror
+- lore
 - quest
 status: complete
 world: Aquabyssos
@@ -14,8 +15,9 @@ created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.492536+00:00'
 ---
+
 
 
 

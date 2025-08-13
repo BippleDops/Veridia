@@ -1,13 +1,16 @@
 ---
 tags:
+- active
 - aquabyssos
 - faction
+- lore
 type: Lore
 world: Aquabyssos
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:03.834084+00:00'
+updated: '2025-08-13T01:18:35.705943+00:00'
 ---
+
 
 
 

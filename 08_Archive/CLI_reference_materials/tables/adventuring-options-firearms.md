@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Adventuring Options; Firearms
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:31.337475+00:00'
+world: Both
+status: active
 ---
+
 # Adventuring Options; Firearms
 *Source: Dungeon Master's Guide p. 266* 
 

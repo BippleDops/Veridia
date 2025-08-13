@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.749218+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/7
-  - ttrpg-cli/monster/environment/swamp
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/fiend/demon
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fiend/demon
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Maurezhi
+- Maurezhi
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-maurezhi-mpmm-maurezhi-mpmm.svg)

@@ -3,6 +3,7 @@ tags:
 - adaptation
 - aethermoor
 - aquabyssos
+- both worlds
 - both-worlds
 - change
 - complete
@@ -18,12 +19,13 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.742376+00:00'
 school: Transmutation
 focus: Transformation and Adaptation Magic
 complexity: Fundamental to Revolutionary
 practitioners: Shapechangers, adaptors, transformers
 ---
+
 
 
 

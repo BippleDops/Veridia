@@ -1,15 +1,18 @@
 ---
 tags:
-  - vault-maintenance
-  - formatting
-  - metadata
-  - report
+- active
+- both
+- formatting
+- metadata
+- report
+- vault-maintenance
 type: Report
 world: Both
 status: active
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:31.096321+00:00'
 ---
+
 
 # Formatting Normalization Report
 

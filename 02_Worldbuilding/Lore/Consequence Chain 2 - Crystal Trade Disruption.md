@@ -2,20 +2,23 @@
 tags:
 - aethermoor
 - campaign-consequences
-- economic-warfare
-- silverscale-consortium
+- complete
 - crystal-trade
+- economic-warfare
 - financial-corruption
+- lore
+- silverscale-consortium
 type: Lore
 world: Aethermoor
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.737572+00:00'
 magnitude: 4
 visibility: 4
 primary_sessions:
-- "Session 04: The Silverscale Gambit"
+- 'Session 04: The Silverscale Gambit'
 ---
+
 
 # Consequence Chain 2: Crystal Trade Disruption
 *The Silverscale Consortium's Economic Empire Exposed*

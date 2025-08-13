@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/spell/list/optfeature/minions-of-chaos
 aliases:
 - Spells for Minions of Chaos
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.107507+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Spells for Minions of Chaos
 
 ## 5th Level

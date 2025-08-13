@@ -1,13 +1,16 @@
 ---
 tags:
+- active
 - both
 - dashboard
+- lore
 type: Lore
 world: Both
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:04.012760+00:00'
+updated: '2025-08-13T01:18:31.216330+00:00'
 ---
+
 
 
 

@@ -6,6 +6,7 @@ tags:
 - deep
 - lore
 - mind
+- npc
 status: complete
 world: Aquabyssos
 type: NPC
@@ -14,8 +15,9 @@ created: 2025-08-11
 MyContainer: None
 MyCategory: Conspiracy
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.967339+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-deepmind-conspiracy-the-deepmind-conspiracy.svg)

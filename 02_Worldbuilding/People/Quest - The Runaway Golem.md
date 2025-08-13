@@ -4,6 +4,7 @@ tags:
 - complete
 - construct
 - golem
+- npc
 - quest
 - runaway
 status: complete
@@ -14,9 +15,10 @@ created: 2025-08-08 - Category/Quests
 MyContainer: None
 MyCategory: Magical
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.939009+00:00'
 cr: '5'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-runaway-golem-quest-the-runaway-golem.svg)

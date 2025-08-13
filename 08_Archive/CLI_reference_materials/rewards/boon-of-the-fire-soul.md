@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/reward/boon
 aliases:
 - Boon of the Fire Soul
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.313987+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Boon of the Fire Soul
 
 You have immunity to fire damage. You can also cast [burning hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md) (save DC 15) at will, without using a spell slot or any components. 

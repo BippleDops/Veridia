@@ -1,13 +1,16 @@
 ---
 world: Aethermoor
-updated: '2025-08-12T14:31:04.714829+00:00'
+updated: '2025-08-13T01:18:36.508069+00:00'
 created: 2025-08-11
 status: active
 tags:
+- active
 - aethermoor
+- location
 type: Location
 danger_level: Moderate
 ---
+
 
 
 

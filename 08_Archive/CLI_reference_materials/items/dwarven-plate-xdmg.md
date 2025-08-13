@@ -1,9 +1,12 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/armor/heavy
 - ttrpg-cli/item/armor/medium
@@ -13,11 +16,13 @@ aliases:
 - Dwarven Plate
 - Dwarven Half Plate Armor
 - Dwarven Plate Armor
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.734220+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Dwarven Plate
 *Very rare*  
 ![](/03_Mechanics/CLI/items/img/dwarven-plate.webp#right)

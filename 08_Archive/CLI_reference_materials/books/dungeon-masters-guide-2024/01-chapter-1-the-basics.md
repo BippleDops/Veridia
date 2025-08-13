@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
 - Chapter 1: The Basics
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:32.360112+00:00'
+world: Both
+status: active
 ---
+
 # Chapter 1: The Basics
 *Source: Dungeon Master's Guide (2024), p. 5* 
 

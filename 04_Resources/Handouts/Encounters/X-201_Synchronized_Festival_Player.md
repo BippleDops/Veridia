@@ -3,10 +3,17 @@ title: Player Handout — X-201 Synchronized Festival
 type: handout
 status: complete
 audience: player
-tags: [handout, encounter, mixed]
+tags:
+- both
+- complete
+- encounter
+- handout
+- mixed
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.206617+00:00'
+world: Both
 ---
+
 
 # Synchronized Festival Across Worlds
 

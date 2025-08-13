@@ -2,16 +2,19 @@
 tags:
 - aquabyssos
 - assassination
+- complete
 - intrigue
+- lore
+- murder
 - plots
 - politics
-- murder
 type: Lore
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.216966+00:00'
 ---
+
 
 # Assassination Plot Frameworks
 *The Art of Political Elimination in the Depths*

@@ -3,6 +3,7 @@ tags:
 - complete
 - convergence-seekers
 - cross-realm
+- dimensional threshold (both realms)
 - dimensional-nexus
 - dimensional-threshold-(both-realms)
 - location
@@ -18,9 +19,10 @@ size: Large Complex
 population: ~300 researchers and support staff
 created_by: auto-stub
 created: 2025-08-09
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.052245+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View

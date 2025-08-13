@@ -6,6 +6,7 @@ tags:
 - dangerous
 - faction
 - farming
+- location
 - memory
 - merchants
 - psychological
@@ -24,12 +25,13 @@ specialties:
 founded: Second Age of Aquabyssos
 current_status: Active but Underground
 created: 2025-08-09
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.550009+00:00'
 related_entities:
 - '[[02_Worldbuilding/Lore/Memory Alterations]]'
 - '[[02_Worldbuilding/Lore/Aboleth Mind Mazes]]'
 - '[[02_Worldbuilding/People/Memory Trader Kellian]]'
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-memory-farmers-memory-farmers.svg)

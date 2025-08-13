@@ -5,6 +5,7 @@ tags:
 - crown
 - epic
 - level-10-15
+- lore
 - major-campaign
 - quest
 - seven-shards
@@ -16,11 +17,12 @@ quest_type: Epic Campaign Arc
 estimated_sessions: 6-8
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.489566+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 

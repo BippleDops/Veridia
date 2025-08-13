@@ -15,8 +15,10 @@ quests_advanced:
 level: 4
 estimated_time: 3-4 hours
 tags:
+- active
 - aethermoor
 - bloodline
+- lore
 - revelation
 - session
 - session-journal
@@ -25,10 +27,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-12T14:31:05.678839+00:00'
+updated: '2025-08-13T01:18:37.175806+00:00'
 created: 2025-08-11
 status: active
 ---
+
 
 
 

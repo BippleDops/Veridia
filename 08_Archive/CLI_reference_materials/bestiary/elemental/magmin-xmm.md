@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.690827+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/1-2
-  - ttrpg-cli/monster/environment/fire
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/size/small
-  - ttrpg-cli/monster/type/elemental
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/environment/fire
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Magmin
+- Magmin
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-magmin-xmm-magmin-xmm.svg)

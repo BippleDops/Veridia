@@ -1,7 +1,9 @@
 ---
 tags:
+- active
 - both
 - compass
+- item
 - magic-item
 - quest-reward
 - wondrous-item
@@ -23,9 +25,10 @@ image_path: 04_Resources/Assets/Items/harbor_masters_compass.jpg
 created: 2025-01-25
 modified: 2025-07-23 12:39
 world: Both
-updated: '2025-08-12T14:31:05.650600+00:00'
+updated: '2025-08-13T01:18:37.139811+00:00'
 status: active
 ---
+
 
 
 

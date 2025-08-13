@@ -1,5 +1,6 @@
 ---
 tags:
+- active - category/place
 - active---category/place
 - both
 - corrupted
@@ -15,10 +16,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.552638+00:00'
 created: 2025-08-11
 danger_level: High
 ---
+
 
 
 > [!figure] View

@@ -3,11 +3,13 @@ tags:
 - aethermoor
 - agreement
 - aquabyssos
+- both worlds
 - both-worlds
 - complete
 - diplomacy
 - inter-realm
 - law
+- location
 - lore
 - politics
 - treaty
@@ -16,7 +18,7 @@ world: Both Worlds
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.978970+00:00'
 lore_type: Political Document
 scope: Inter-Realm Relations
 time_period: Current Era
@@ -27,6 +29,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 

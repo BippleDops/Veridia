@@ -2,9 +2,18 @@
 title: Merger Transit Complications
 type: gm_resource
 status: complete
-tags: [gm, travel, merger]
+tags:
+- both
+- complete
+- gm
+- gm_resource
+- merger
+- travel
 created: 2025-08-11
+updated: '2025-08-13T01:18:31.122934+00:00'
+world: Both
 ---
+
 
 # Merger Transit Complications
 

@@ -3,7 +3,10 @@ obsidianUIMode: preview
 cssclass: json5e-monster
 statblock: inline
 tags:
+- active
+- both
 - compendium/src/5e/mm
+- note
 - ttrpg-cli/monster/cr/2
 - ttrpg-cli/monster/environment/grassland
 - ttrpg-cli/monster/size/large
@@ -22,9 +25,12 @@ statHP: 51
 statEnv: grassland
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.226914+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-allosaurus-xmm-allosaurus-xmm.svg)

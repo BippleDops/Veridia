@@ -4,6 +4,7 @@ tags:
 - complete
 - cure
 - healing
+- npc
 - quest
 - shadow
 status: complete
@@ -14,9 +15,10 @@ created: 2025-08-12
 MyContainer: None
 MyCategory: Medical
 obsidianUIMode: preview
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.950098+00:00'
 cr: '7'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-find-the-shadow-cure-find-the-shadow-cure.svg)

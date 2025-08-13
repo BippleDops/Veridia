@@ -4,6 +4,7 @@ tags:
 - aquabyssos
 - complete
 - exploration
+- lore
 - magic
 - mystery
 - quest
@@ -44,9 +45,10 @@ last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.491683+00:00'
 type: Lore
 ---
+
 
 
 # Discover Marina

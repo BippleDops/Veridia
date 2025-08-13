@@ -4,6 +4,7 @@ tags:
 - complete
 - faction
 - government
+- group
 - major-faction
 - political
 - royalty
@@ -19,11 +20,12 @@ influence: National
 wealth: Immense
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.657822+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Heraldry

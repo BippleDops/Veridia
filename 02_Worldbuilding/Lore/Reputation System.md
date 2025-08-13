@@ -6,6 +6,7 @@ tags:
 - faction-relations
 - game-mechanics
 - influence
+- lore
 - mechanics
 - reputation
 - social-system
@@ -16,8 +17,9 @@ system: D&D 5e
 complexity: Intermediate
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.873474+00:00'
 ---
+
 
 
 

@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.786682+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/scc
-  - ttrpg-cli/monster/cr/10
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/fiend
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/scc
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/fiend
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Daemogoth
+- Daemogoth
+world: Both
+status: active
 ---
+
 # [Daemogoth](3-Mechanics\CLI\bestiary\fiend/daemogoth-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 189*  
 

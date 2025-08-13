@@ -7,6 +7,7 @@ tags:
 - complete
 - deep-sea-civilization
 - faction
+- group
 - mer-folk
 aliases:
 - The Deep Kingdom
@@ -23,8 +24,9 @@ status: complete
 MyContainer: Aquabyssos
 MyCategory: Ancient Civilization - Category/Group
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.607532+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-ancient-mer-folk-empire-ancient-mer-folk-empire.svg)

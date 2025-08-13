@@ -1,11 +1,20 @@
 ---
-tags: [places, religion, crystal, cult, transformation, temples]
+tags:
+- aquabyssos
+- complete
+- crystal
+- cult
+- places
+- religion
+- temples
+- transformation
 type: places
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-12'
+updated: '2025-08-13T01:18:36.094380+00:00'
 ---
+
 
 # Crystal Cult Temples
 

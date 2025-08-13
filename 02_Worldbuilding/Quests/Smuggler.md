@@ -5,6 +5,7 @@ tags:
 - criminal-network
 - infiltration
 - investigation
+- lore
 - quest
 - smuggling
 - undercover
@@ -13,11 +14,12 @@ world: Aquabyssos
 type: Lore
 created_by: auto-expansion
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.474684+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View

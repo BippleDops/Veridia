@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
 - Using a Published Setting; D&D Settings
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.347276+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Using a Published Setting; D&D Settings
 *Source: Dungeon Master's Guide (2024) p. 136* 
 

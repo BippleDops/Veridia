@@ -2,10 +2,17 @@
 title: Ecosystem Simulation Engine
 type: mechanics
 status: complete
-tags: [mechanics, ecosystem, simulation]
+tags:
+- both
+- complete
+- ecosystem
+- mechanics
+- simulation
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.118951+00:00'
+world: Both
 ---
+
 
 # Ecosystem Simulation Engine
 

@@ -5,6 +5,7 @@ tags:
 - corruption
 - disease
 - investigation
+- lore
 - medical
 - pressure-adaptation
 - quest
@@ -23,8 +24,9 @@ last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.477448+00:00'
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-dr-siphon-gillwater-dr-siphon-gillwater.png)

@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.512871+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/7
-  - ttrpg-cli/monster/environment/mountain
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/giant
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/environment/mountain
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Stone Giant
+- Stone Giant
+world: Both
+status: active
 ---
+
 # [Stone Giant](3-Mechanics\CLI\bestiary\giant/stone-giant-xmm.md)
 *Source: Monster Manual (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

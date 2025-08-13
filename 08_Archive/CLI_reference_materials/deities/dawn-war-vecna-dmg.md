@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/deity/dawn-war
 - ttrpg-cli/domain/arcana
@@ -11,9 +14,12 @@ aliases:
 - Vecna
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.746490+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Vecna
 *Source: Dungeon Master's Guide p. 10, Sword Coast Adventurer's Guide p. 125* 
 

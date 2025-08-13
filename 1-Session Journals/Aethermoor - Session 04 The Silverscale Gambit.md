@@ -1,7 +1,9 @@
 ---
 tags:
+- active
 - aethermoor
 - crystal-plague
+- lore
 - session
 - seven-shards
 session: Session-04
@@ -54,10 +56,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-12T14:31:05.686182+00:00'
+updated: '2025-08-13T01:18:37.183599+00:00'
 created: 2025-08-11
 status: active
 ---
+
 
 
 

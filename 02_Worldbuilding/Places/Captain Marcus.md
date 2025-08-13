@@ -3,6 +3,7 @@ tags:
 - aquabyssos
 - captain
 - complete
+- location
 - marcus
 - military
 - naval
@@ -15,9 +16,10 @@ created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.113048+00:00'
 danger_level: Moderate
 ---
+
 
 
 

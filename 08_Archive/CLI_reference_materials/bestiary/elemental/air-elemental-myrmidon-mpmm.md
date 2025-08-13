@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.735428+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/7
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/elemental
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Air Elemental Myrmidon
+- Air Elemental Myrmidon
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-air-elemental-myrmidon-mpmm-air-elemental-myrmidon-mpmm.svg)

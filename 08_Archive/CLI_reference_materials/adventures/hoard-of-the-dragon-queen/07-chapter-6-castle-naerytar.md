@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/hotdq
 aliases:
 - Chapter 6: Castle Naerytar
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.264097+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Chapter 6: Castle Naerytar
 *Source: Hoard of the Dragon Queen, p. 59* 
 

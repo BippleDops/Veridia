@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/blessing
 aliases:
 - Blessing of Protection
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.337336+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Blessing of Protection
 
 You gain a +1 bonus to AC and saving throws.

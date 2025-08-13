@@ -1,11 +1,19 @@
 ---
-tags: [places, crystal, plague, medical, port-meridian]
+tags:
+- aquabyssos
+- complete
+- crystal
+- medical
+- places
+- plague
+- port-meridian
 type: places
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-12'
+updated: '2025-08-13T01:18:36.368673+00:00'
 ---
+
 
 # Crystal Plague Wards
 

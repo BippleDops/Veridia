@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.511440+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/11
-  - ttrpg-cli/monster/environment/mountain
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/giant
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/11
+- ttrpg-cli/monster/environment/mountain
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Cloud Giant Smiling One
+- Cloud Giant Smiling One
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cloud-giant-smiling-one-mpmm-cloud-giant-smiling-one-mpmm.svg)

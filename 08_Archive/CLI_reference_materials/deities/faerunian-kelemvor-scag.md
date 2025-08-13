@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/death
@@ -12,9 +15,12 @@ aliases:
 - The Judge of the Damned
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.804914+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Kelemvor
 *Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 19* 
 ![](/03_Mechanics/CLI/deities/img/scag-symbol-of-kelemvor.webp#symbol)

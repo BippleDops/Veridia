@@ -1,11 +1,13 @@
 ---
 tags:
 - anomaly
+- both worlds
 - both-worlds
 - complete
 - environmental
 - gravity
 - hazards
+- location
 - lore
 - magic
 - mechanics
@@ -16,7 +18,7 @@ world: Both Worlds
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.975914+00:00'
 lore_type: Magical Mechanics
 scope: Environmental Phenomena
 category: Physics and Magic
@@ -27,6 +29,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View

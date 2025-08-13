@@ -6,6 +6,7 @@ tags:
 - dimensional
 - high-level
 - investigation
+- npc
 - quest
 - shadow-crystal
 - void
@@ -18,11 +19,12 @@ location: Multiple - Aethermoor Cities
 reward: Epic
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.825140+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png)

@@ -3,6 +3,7 @@ tags:
 - aquabyssos
 - complete
 - criminal
+- location
 - merchant
 - npc
 status: complete
@@ -17,9 +18,10 @@ created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.515610+00:00'
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View

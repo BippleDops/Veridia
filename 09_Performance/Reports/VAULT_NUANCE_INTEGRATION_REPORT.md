@@ -1,3 +1,15 @@
+---
+created: null
+updated: '2025-08-13T01:18:31.098380+00:00'
+world: Both
+type: Location
+status: draft
+tags:
+- both
+- draft
+- location
+---
+
 # Vault Nuance Integration Report - 200+ Enhancements Complete
 
 ## Executive Summary

@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
 - Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.567015+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level
 *Source: Xanathar's Guide to Everything p. 88* 
 

@@ -5,6 +5,7 @@ tags:
 - complete
 - goldleaf
 - influencer
+- location
 - madame
 - merchant
 - noble
@@ -15,7 +16,7 @@ world: Aethermoor
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.973337+00:00'
 character_type: Noble Merchant
 faction: Goldleaf Trading House
 class: Noble/Bard
@@ -28,6 +29,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View

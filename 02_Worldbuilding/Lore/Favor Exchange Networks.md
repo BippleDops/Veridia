@@ -1,6 +1,6 @@
 ---
 world: Both
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.050840+00:00'
 created: 2025-08-12
 status: complete
 tags:
@@ -8,11 +8,13 @@ tags:
 - complete
 - economy
 - favors
-- social
+- lore
 - networks
 - non-monetary
+- social
 type: Lore
 ---
+
 
 > [!figure] Favor Networks
 ![](04_Resources/Assets/Symbols/favor-exchange-networks.svg)

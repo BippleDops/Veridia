@@ -2,10 +2,17 @@
 title: Vault Self-Improvement Engine
 type: mechanics
 status: complete
-tags: [mechanics, meta, qa]
+tags:
+- both
+- complete
+- mechanics
+- meta
+- qa
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.113159+00:00'
+world: Both
 ---
+
 
 # Vault Self-Improvement Engine
 

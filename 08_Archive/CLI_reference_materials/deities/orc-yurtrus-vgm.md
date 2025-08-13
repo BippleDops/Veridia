@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/deity/orc
 - ttrpg-cli/domain/death
@@ -10,7 +13,11 @@ aliases:
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:31.914333+00:00'
+world: Both
+status: active
 ---
+
 # Yurtrus
 *Source: Volo's Guide to Monsters p. 84* 
 

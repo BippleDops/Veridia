@@ -1,13 +1,16 @@
 ---
 world: Both
-updated: '2025-08-12T14:31:05.565262+00:00'
+updated: '2025-08-13T01:18:36.999274+00:00'
 created: 2025-08-11
 status: active
 tags:
+- active
 - both
+- npc
 type: NPC
 cr: '16'
 ---
+
 
 
 

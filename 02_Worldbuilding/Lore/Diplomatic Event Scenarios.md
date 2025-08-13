@@ -1,17 +1,20 @@
 ---
 tags:
 - aquabyssos
+- complete
 - diplomacy
 - events
-- politics
 - international
+- lore
+- politics
 - scenarios
 type: Lore
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.559346+00:00'
 ---
+
 
 # Diplomatic Event Scenarios
 *A Generator for International Intrigue and Political Drama*

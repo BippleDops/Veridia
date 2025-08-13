@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.694457+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/2
-  - ttrpg-cli/monster/environment/fire
-  - ttrpg-cli/monster/environment/mountain
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/elemental
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/environment/fire
+- ttrpg-cli/monster/environment/mountain
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Azer Sentinel
+- Azer Sentinel
+world: Both
+status: active
 ---
+
 # [Azer Sentinel](3-Mechanics\CLI\bestiary\elemental/azer-sentinel-xmm.md)
 *Source: Monster Manual (2024) p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

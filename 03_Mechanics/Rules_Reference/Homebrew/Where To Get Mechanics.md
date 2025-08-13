@@ -2,15 +2,18 @@
 obsidianUIMode: preview
 type: Lore
 tags:
+- active
 - both
+- lore
 - note
 aliases: []
 created: 2025-07-23
 modified: 2025-07-23 12:39
 world: Both
-updated: '2025-08-12T14:31:05.647100+00:00'
+updated: '2025-08-13T01:18:37.136399+00:00'
 status: active
 ---
+
 
 
 

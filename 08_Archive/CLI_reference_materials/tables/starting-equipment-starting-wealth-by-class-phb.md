@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
 - Starting Equipment; Starting Wealth by Class
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.306891+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Starting Equipment; Starting Wealth by Class
 *Source: Player's Handbook p. 143. Available in the Basic Rules (2014)* 
 

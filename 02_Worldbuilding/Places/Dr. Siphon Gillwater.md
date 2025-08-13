@@ -1,17 +1,29 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.207350+00:00'
 created: 2025-08-11
-tags: [Category/Place]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
+tags:
+- aquabyssos
+- category/place
+- complete
+- location
+status: complete
+world: Aquabyssos
+type: location
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "Dr. Siphon Gillwater is a notable location in Aquabyssos shaped by tidal politics and Convergence anomalies. This entry is structured for fast table use."
-  content_warnings: ["political coercion", "environmental hazards"]
-  pronunciation: "Dr. Siphon Gillwater"
-  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
+  screen_reader_summary: Dr. Siphon Gillwater is a notable location in Aquabyssos
+    shaped by tidal politics and Convergence anomalies. This entry is structured for
+    fast table use.
+  content_warnings:
+  - political coercion
+  - environmental hazards
+  pronunciation: Dr. Siphon Gillwater
+  safety_tools:
+  - Lines & Veils
+  - X-Card
+  - Open Door
 ---
+
 
 
 

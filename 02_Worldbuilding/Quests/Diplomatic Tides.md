@@ -3,6 +3,7 @@ tags:
 - aquabyssos
 - complete
 - diplomacy
+- lore
 - multi-faction
 - negotiation
 - political
@@ -18,11 +19,12 @@ location: '[[02_Worldbuilding/Places/Parliament of Echoes]], [[The Diplomatic De
 rewards: 2500 gp, Political Influence, Treaty Benefits, Depth Citizenship
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.469435+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 

@@ -4,8 +4,14 @@ type: guide
 status: complete
 audience: dm
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.190567+00:00'
+world: Both
+tags:
+- both
+- complete
+- guide
 ---
+
 
 # Handouts Export Guide
 

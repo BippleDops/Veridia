@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.693565+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/6
-  - ttrpg-cli/monster/environment/hill
-  - ttrpg-cli/monster/environment/mountain
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/elemental
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/environment/mountain
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Galeb Duhr
+- Galeb Duhr
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-galeb-duhr-xmm-galeb-duhr-xmm.svg)

@@ -1,17 +1,20 @@
 ---
 tags:
 - aquabyssos
-- secret-societies
+- complete
 - conspiracies
+- intrigue
+- lore
 - politics
 - relationships
-- intrigue
+- secret-societies
 type: Lore
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.997774+00:00'
 ---
+
 
 # Secret Society Membership Rolls
 *"The deepest currents flow in silence"*

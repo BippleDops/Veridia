@@ -7,12 +7,14 @@ tags:
 - complete
 - gm-resource
 - gm_resource
+- lore
 - session-planning
 - templates
 created: 2025-08-11
 world: Both
-updated: '2025-08-11T13:08:47.029453+00:00'
+updated: '2025-08-13T01:18:31.118209+00:00'
 ---
+
 
 
 

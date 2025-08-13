@@ -1,16 +1,18 @@
 ---
 tags:
+- active
 - aquabyssos
-- lore
-- history
-- post-drowning
 - chronology
+- history
+- lore
+- post-drowning
 type: Lore
 world: Aquabyssos
 status: active
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.916957+00:00'
 ---
+
 
 # Post-Merge Chronology
 *The Birth and Development of Aquabyssos (1 AE - Present)*

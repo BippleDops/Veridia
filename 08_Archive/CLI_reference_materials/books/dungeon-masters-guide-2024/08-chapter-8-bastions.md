@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
 - Chapter 8: Bastions
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:32.360825+00:00'
+world: Both
+status: active
 ---
+
 # Chapter 8: Bastions
 *Source: Dungeon Master's Guide (2024), p. 334* 
 

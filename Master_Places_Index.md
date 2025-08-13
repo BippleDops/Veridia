@@ -1,6 +1,7 @@
 ---
 tags:
 - complete
+- lore
 - master-index
 - navigation
 - places
@@ -13,8 +14,9 @@ created: 2025-08-11
 last_updated: 2025-08-11
 completion: 100%
 total_locations: 248
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.088440+00:00'
 ---
+
 
 
 # Master Places Index

@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/ranger
@@ -32,9 +35,12 @@ aliases:
 - Alarm
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.096728+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Alarm
 *1st-level, Abjuration (ritual)*  
 

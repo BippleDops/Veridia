@@ -1,19 +1,24 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/artisans-tools
 - ttrpg-cli/item/rarity/none
 aliases:
 - Weaver's Tools
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.014066+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-weavers-tools-xphb-v1-weavers-tools-xphb.svg)

@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/race/tiefling/zariel
 aliases:
 - Tiefling (Zariel)
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.412597+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Tiefling (Zariel)
 *Source: Mordenkainen's Tome of Foes p. 23*  
 ![](/03_Mechanics/CLI/races/img/tiefling.webp#right)

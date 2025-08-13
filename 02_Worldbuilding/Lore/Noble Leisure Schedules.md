@@ -1,19 +1,23 @@
 ---
 tags:
-- nobility
-- upper-class
-- leisure
-- daily-life
-- routine
-- culture
+- both
 - both-realms
+- complete
+- culture
+- daily-life
+- leisure
+- nobility
+- routine
+- social guide
+- upper-class
 status: complete
 world: Both
 type: Social Guide
 created_by: claude
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.651097+00:00'
 ---
+
 
 # Noble Leisure Schedules
 *The Art of Refined Living: Daily Patterns of the Elite*

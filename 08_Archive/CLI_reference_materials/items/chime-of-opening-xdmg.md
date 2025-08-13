@@ -1,18 +1,23 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 aliases:
 - Chime of Opening
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.630170+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Chime of Opening
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/chime-of-opening.webp#right)

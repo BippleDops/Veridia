@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Treasure Hoard: Challenge 17+
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.296546+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Treasure Hoard: Challenge 17+
 *Source: Dungeon Master's Guide p. 133* 
 

@@ -5,6 +5,7 @@ tags:
 - construct
 - enforcement
 - faction
+- group
 - security
 - silverscale-consortium
 status: complete
@@ -19,11 +20,12 @@ influence: Continental (enforcement operations)
 wealth: Corporate funded - unlimited budget
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.640433+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Heraldry

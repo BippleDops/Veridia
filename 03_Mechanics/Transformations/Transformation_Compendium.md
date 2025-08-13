@@ -1,11 +1,20 @@
 ---
-title: "Transformation Compendium"
+title: Transformation Compendium
 type: mechanics
-tags: [mechanics, transformation, character-options, horror, progression]
-status: "complete"
+tags:
+- both
+- character-options
+- complete
+- horror
+- mechanics
+- progression
+- transformation
+status: complete
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.130538+00:00'
+world: Both
 ---
+
 
 # Transformation Compendium
 *100+ Paths to Power and Peril*

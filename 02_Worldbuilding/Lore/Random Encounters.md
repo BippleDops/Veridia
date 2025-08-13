@@ -5,6 +5,7 @@ tags:
 - complete
 - encounter-generation
 - game-mechanics
+- lore
 - mechanics
 - procedural-content
 - random-encounters
@@ -15,8 +16,9 @@ system: D&D 5e
 complexity: Advanced
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.435418+00:00'
 ---
+
 
 
 

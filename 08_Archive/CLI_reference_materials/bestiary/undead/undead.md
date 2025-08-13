@@ -2,12 +2,18 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 type: note
-tags: []
+tags:
+- active
+- both
+- note
 aliases: []
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.822135+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-undead-spirit-ghostly-xphb-undead-spirit-ghostly-xphb.svg)

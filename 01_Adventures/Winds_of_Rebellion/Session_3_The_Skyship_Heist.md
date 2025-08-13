@@ -1,15 +1,29 @@
 ---
-tags: [adventure-session, winds-of-rebellion, aethermoor, levels-4-6, skyship-heist, aerial-infiltration]
+tags:
+- active
+- adventure-session
+- aerial-infiltration
+- aethermoor
+- levels-4-6
+- skyship-heist
+- winds-of-rebellion
 session_number: 3
-adventure: "Winds of Rebellion"
-level_range: "4-6"
-estimated_duration: "4-5 hours"
-session_type: "Heist & Aerial Infiltration"
-world: "Aethermoor"
-themes: ["aerial-heist", "stealth-infiltration", "sky-vessel-combat", "evidence-gathering", "naval-politics"]
+adventure: Winds of Rebellion
+level_range: 4-6
+estimated_duration: 4-5 hours
+session_type: Heist & Aerial Infiltration
+world: Aethermoor
+themes:
+- aerial-heist
+- stealth-infiltration
+- sky-vessel-combat
+- evidence-gathering
+- naval-politics
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.156991+00:00'
+status: active
 ---
+
 
 # Session 3: The Skyship Heist
 ## A Winds of Rebellion Adventure Session

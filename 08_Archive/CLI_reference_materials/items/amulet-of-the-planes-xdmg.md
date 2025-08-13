@@ -1,19 +1,24 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 aliases:
 - Amulet of the Planes
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.803582+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Amulet of the Planes
 *Wondrous item, very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/amulet-of-the-planes.webp#right)

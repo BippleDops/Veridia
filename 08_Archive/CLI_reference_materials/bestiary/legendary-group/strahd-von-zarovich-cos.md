@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/cos
 - ttrpg-cli/monster/legendary-group
 aliases:
 - Strahd von Zarovich
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.873776+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-strahd-von-zarovich-cos-strahd-von-zarovich-cos.svg)

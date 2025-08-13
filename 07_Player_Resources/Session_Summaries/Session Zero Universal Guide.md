@@ -1,7 +1,9 @@
 ---
 tags:
+- active
 - both
 - campaign-setup
+- lore
 - player-resource
 - safety-tools
 - session-guide
@@ -11,9 +13,10 @@ campaigns:
 - All Aquabyssos Campaigns
 created: 2025-08-07
 world: Both
-updated: '2025-08-12T14:31:02.324796+00:00'
+updated: '2025-08-13T01:18:31.181694+00:00'
 status: active
 ---
+
 
 
 

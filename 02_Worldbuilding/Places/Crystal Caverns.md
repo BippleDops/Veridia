@@ -1,26 +1,30 @@
 ---
 created: 2025-08-11
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.042927+00:00'
 world: Both
 status: active
 tags:
+- active
+- both
 - caverns
 - crystals
-- underground
-- magical
 - dangerous
+- location
+- magical
+- underground
 type: Location
 danger_level: High
 location_type: Underground Crystal Formation
-parent_location: "[[02_Worldbuilding/Places/The Sundered Peaks]]"
-depth: "200-2000 feet underground"
-access_restrictions: "Magical wards, natural hazards, crystal guardians"
+parent_location: '[[02_Worldbuilding/Places/The Sundered Peaks]]'
+depth: 200-2000 feet underground
+access_restrictions: Magical wards, natural hazards, crystal guardians
 notable_resources:
-- "Pure Aether Crystals"
-- "Crystal Songs"
-- "Memory Crystals"
-- "Corrupted Shards"
+- Pure Aether Crystals
+- Crystal Songs
+- Memory Crystals
+- Corrupted Shards
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-cavern-crystal-caverns-crystal-caverns.svg)

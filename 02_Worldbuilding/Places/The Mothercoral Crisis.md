@@ -8,6 +8,7 @@ tags:
 - crisis
 - environmental
 - investigation
+- location
 - quest
 - time-sensitive
 status: complete
@@ -22,12 +23,13 @@ difficulty: Moderate to Hard
 primary_location: '[[Coral Courts]] and surrounding reef systems'
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.352295+00:00'
 MyContainer: None
 MyCategory: Environmental Quest
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-mothercoral-crisis-the-mothercoral-crisis.svg)

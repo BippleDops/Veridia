@@ -3,13 +3,17 @@ title: Journey Event Compiler
 type: mechanics
 status: complete
 tags:
-- mechanics
-- travel
+- both
+- complete
 - encounters
 - events
+- mechanics
+- travel
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.141875+00:00'
+world: Both
 ---
+
 
 
 # Journey Event Compiler

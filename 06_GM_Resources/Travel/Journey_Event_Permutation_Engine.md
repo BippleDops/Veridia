@@ -2,9 +2,18 @@
 title: Journey Event Permutation Engine
 type: gm_resource
 status: complete
-tags: [gm, travel, generator]
+tags:
+- both
+- complete
+- generator
+- gm
+- gm_resource
+- travel
 created: 2025-08-11
+updated: '2025-08-13T01:18:31.124703+00:00'
+world: Both
 ---
+
 
 # Journey Event Permutation Engine (1,000,000+ combos)
 

@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/hazard/mag
 aliases:
 - Sphere of Annihilation
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.306062+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-sphere-of-annihilation-xdmg-sphere-of-annihilation-xdmg.svg)

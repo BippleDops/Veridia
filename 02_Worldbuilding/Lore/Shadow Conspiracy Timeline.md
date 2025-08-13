@@ -1,17 +1,19 @@
 ---
 tags:
+- active
 - aquabyssos
-- lore
+- conspiracy
 - history
+- lore
 - shadow-conspiracy
 - shadow-surgery
-- conspiracy
 type: Lore
 world: Aquabyssos
 status: active
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.905569+00:00'
 ---
+
 
 # Shadow Conspiracy Timeline
 *The Secret History of Shadow Surgery and Dimensional Infiltration*

@@ -7,13 +7,15 @@ tags:
 - complete
 - factions
 - intrigue
+- lore
 - mechanics
 - politics
 - warfare
 created: 2025-08-11
 world: Both
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.123891+00:00'
 ---
+
 
 
 

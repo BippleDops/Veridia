@@ -1,16 +1,19 @@
 ---
 tags:
+- active
 - aquabyssos
+- dm-resource
 - ethics
+- lore
 - moral-dilemmas
 - shadow-corruption
-- dm-resource
 type: Lore
 world: Aquabyssos
 status: active
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.568520+00:00'
 ---
+
 
 # Ethical Dilemmas in Shadow Times
 

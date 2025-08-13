@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 aliases:
 - Chapter 5: Feats
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:32.385208+00:00'
+world: Both
+status: active
 ---
+
 # Chapter 5: Feats
 *Source: Player's Handbook (2024), p. 199* 
 

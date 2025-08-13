@@ -1,19 +1,24 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 aliases:
 - Instrument of the Bards, Ollamh Harp
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.322360+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Instrument of the Bards, Ollamh Harp
 *Wondrous item, legendary (requires attunement by a bard)*  
 ![](/03_Mechanics/CLI/items/img/ollamh-harp.webp#right)

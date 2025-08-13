@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.913314+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/15
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/dragon/chromatic
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/15
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/dragon/chromatic
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Adult Green Dragon
+- Adult Green Dragon
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-green-dragon-xmm-adult-green-dragon-xmm.svg)

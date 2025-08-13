@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.461295+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/3
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/monstrosity
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Minotaur of Baphomet
+- Minotaur of Baphomet
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-minotaur-of-baphomet-xmm-minotaur-of-baphomet-xmm.svg)

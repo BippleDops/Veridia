@@ -1,17 +1,19 @@
 ---
 world: Both
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.453716+00:00'
 created: 2025-08-12
 status: complete
 tags:
+- banking
 - both
 - complete
-- economy
 - currency
-- banking
+- economy
 - finance
+- lore
 type: Lore
 ---
+
 
 > [!figure] Currency
 ![](04_Resources/Assets/Items/currency-economic-systems-and-currency.svg)

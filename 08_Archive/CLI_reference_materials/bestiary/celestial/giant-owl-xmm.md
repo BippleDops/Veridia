@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.948274+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/1-4
-  - ttrpg-cli/monster/environment/arctic
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/hill
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/celestial
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/environment/arctic
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/celestial
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Giant Owl
+- Giant Owl
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-owl-xmm-giant-owl-xmm.svg)

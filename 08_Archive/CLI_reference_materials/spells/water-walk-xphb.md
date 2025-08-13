@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/background/prismari-student
 - ttrpg-cli/spell/class/bard
@@ -26,9 +29,12 @@ aliases:
 - Water Walk
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.157547+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Water Walk
 *3rd-level, Transmutation (ritual)*  
 ![](/03_Mechanics/CLI/spells/img/water-walk.webp#right)

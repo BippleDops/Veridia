@@ -1,5 +1,11 @@
 ---
-tags: [aquabyssos, resistance, anti-shadow, preservation, complete]
+tags:
+- anti-shadow
+- aquabyssos
+- complete
+- group
+- preservation
+- resistance
 type: Group
 world: Aquabyssos
 status: complete
@@ -11,8 +17,9 @@ members: ~3,400 active resistors, ~15,000 sympathizers
 influence: Underground Continental Network
 purpose: Preserve human identity and resist shadow integration
 created: '2025-08-12'
-updated: '2025-08-12'
+updated: '2025-08-13T01:18:36.684877+00:00'
 ---
+
 
 # The Light Preservation Society
 *Guardians of Authentic Humanity*

@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
 - Magic Item Sale Complications
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.552665+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Magic Item Sale Complications
 *Source: Xanathar's Guide to Everything p. 133* 
 

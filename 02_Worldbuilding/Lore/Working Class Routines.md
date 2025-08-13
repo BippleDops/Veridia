@@ -1,18 +1,22 @@
 ---
 tags:
-- working-class
-- daily-life
-- routine
-- labor
-- culture
+- both
 - both-realms
+- complete
+- culture
+- daily-life
+- labor
+- routine
+- social guide
+- working-class
 status: complete
 world: Both
 type: Social Guide
 created_by: claude
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.322175+00:00'
 ---
+
 
 # Working Class Routines
 *The Backbone of Two Realms: Daily Life of Laborers and Common Folk*

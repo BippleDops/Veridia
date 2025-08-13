@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/warlock/hexblade
 aliases:
 - The Hexblade
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.146144+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # The Hexblade
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
 *Source: Xanathar's Guide to Everything p. 55*  

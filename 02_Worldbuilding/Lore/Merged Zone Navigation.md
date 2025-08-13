@@ -1,5 +1,6 @@
 ---
 tags:
+- both worlds
 - both-worlds
 - complete
 - cross-realm-navigation
@@ -16,13 +17,14 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.665291+00:00'
 navigation_type: Cross-Environmental Specialized
 scope: Inter-Realm Travel
 difficulty_level: Expert
 hazard_rating: Extreme
 specialization_required: Advanced Training
 ---
+
 
 
 

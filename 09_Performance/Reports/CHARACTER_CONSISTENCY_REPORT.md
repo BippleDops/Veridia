@@ -1,3 +1,15 @@
+---
+created: null
+updated: '2025-08-13T01:18:31.098758+00:00'
+world: Both
+type: Location
+status: draft
+tags:
+- both
+- draft
+- location
+---
+
 # Character Consistency Report
 *Comprehensive Analysis of Character Names, Relationships, Locations, and Power Levels*
 

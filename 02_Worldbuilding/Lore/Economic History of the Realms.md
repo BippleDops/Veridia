@@ -1,17 +1,19 @@
 ---
 tags:
+- active
 - aquabyssos
-- lore
-- history
-- economics
-- trade
 - currency
+- economics
+- history
+- lore
+- trade
 type: Lore
 world: Aquabyssos
 status: active
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.074953+00:00'
 ---
+
 
 # Economic History of the Realms
 *From Golden Tides to Consciousness Value Exchange*

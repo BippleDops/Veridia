@@ -1,18 +1,23 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/rot
 - ttrpg-cli/item/rarity/artifact
 aliases:
 - Draakhorn
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.280830+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Draakhorn
 *Wondrous item, artifact*  
 ![](/03_Mechanics/CLI/items/img/draakhorn.webp#right)

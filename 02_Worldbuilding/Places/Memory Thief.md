@@ -4,6 +4,7 @@ tags:
 - complete
 - criminal
 - dangerous
+- location
 - memory-thief
 - mental-crime
 - mind-magic
@@ -23,11 +24,12 @@ influence: Moderate
 danger_level: High
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.349115+00:00'
 MyContainer: None
 MyCategory: Criminal Operative
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] View

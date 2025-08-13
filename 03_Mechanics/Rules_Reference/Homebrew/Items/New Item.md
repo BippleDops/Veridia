@@ -4,6 +4,7 @@ attunement: false
 my-container: '[[The Giants Skull]]'
 my-category: null
 tags:
+- active
 - both
 - category/item
 - item
@@ -15,10 +16,11 @@ connected_-quests:
 connected_-groups:
 - Template-Group
 world: Both
-updated: '2025-08-12T14:31:05.651439+00:00'
+updated: '2025-08-13T01:18:37.140457+00:00'
 created: 2025-08-11
 status: active
 ---
+
 
 
 

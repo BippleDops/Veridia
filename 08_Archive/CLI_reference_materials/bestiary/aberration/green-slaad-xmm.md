@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.626689+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/8
-  - ttrpg-cli/monster/environment/limbo
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/aberration
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/environment/limbo
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Green Slaad
+- Green Slaad
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-green-slaad-xmm-green-slaad-xmm.svg)

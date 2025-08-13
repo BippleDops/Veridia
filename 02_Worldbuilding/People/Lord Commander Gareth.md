@@ -1,13 +1,15 @@
 ---
 tags:
+- active
 - npc
 - universal
 type: NPC
 world: Universal
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:05.595696+00:00'
+updated: '2025-08-13T01:18:37.030685+00:00'
 ---
+
 
 
 

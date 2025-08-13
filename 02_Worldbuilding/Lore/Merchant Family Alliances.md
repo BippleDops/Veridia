@@ -1,17 +1,20 @@
 ---
 tags:
-- aquabyssos
-- merchants
 - alliances
-- trade
-- relationships
+- aquabyssos
+- complete
 - economics
+- lore
+- merchants
+- relationships
+- trade
 type: Lore
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.531378+00:00'
 ---
+
 
 # Merchant Family Alliances
 *"Gold flows like water, but family flows like blood"*

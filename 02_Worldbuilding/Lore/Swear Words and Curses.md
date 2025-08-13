@@ -1,17 +1,21 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.117708+00:00'
 created: 2025-08-12
 tags:
-  - lore
-  - linguistics
-  - culture
-  - profanity
-  - curses
+- both
+- complete
+- cultural_reference
+- culture
+- curses
+- linguistics
+- lore
+- profanity
 status: complete
 world: Both
 type: cultural_reference
 obsidianUIMode: preview
 ---
+
 
 # Swear Words and Curses
 

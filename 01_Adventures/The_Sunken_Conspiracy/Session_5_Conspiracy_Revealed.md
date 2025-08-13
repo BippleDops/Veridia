@@ -1,22 +1,24 @@
 ---
-title: "The Sunken Conspiracy - Session 5: Conspiracy Revealed"
+title: 'The Sunken Conspiracy - Session 5: Conspiracy Revealed'
 type: session
 session_number: 5
-level_range: "3-4"
-duration: "4-5 hours"
-world: "Aquabyssos"
-adventure: "The Sunken Conspiracy"
+level_range: 3-4
+duration: 4-5 hours
+world: Aquabyssos
+adventure: The Sunken Conspiracy
 status: complete
 tags:
-  - session
-  - finale
-  - confrontation
-  - conspiracy
-  - aquabyssos
-  - diplomatic-crisis
+- aquabyssos
+- complete
+- confrontation
+- conspiracy
+- diplomatic-crisis
+- finale
+- session
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.160710+00:00'
 ---
+
 
 # Session 5: Conspiracy Revealed
 *The Sunken Conspiracy - Final Confrontation and Revelations*

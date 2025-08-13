@@ -2,6 +2,7 @@
 tags:
 - ancient-magic
 - betrayer-legacy
+- both worlds
 - both-worlds
 - catastrophe-site
 - complete
@@ -17,13 +18,14 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.331865+00:00'
 location_type: Dimensional Nexus
 scope: Reality-threatening anomaly
 danger_level: 5
 active_period: Post-Catastrophe to present
 primary_effects: Dimensional instability and reality distortion
 ---
+
 
 
 > [!figure] View

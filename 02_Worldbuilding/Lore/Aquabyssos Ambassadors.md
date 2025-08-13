@@ -2,11 +2,13 @@
 tags:
 - ambassadors
 - aquabyssos
+- both aethermoor and aquabyssos
 - both-aethermoor-and-aquabyssos
 - completed
 - diplomacy
 - diplomatic-corps
 - faction
+- lore
 - politics
 - surface-relations
 - underwater
@@ -24,12 +26,13 @@ specialties:
 - Crisis Management
 founded: After the Great Drowning
 created: 2025-08-09
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.530639+00:00'
 related_entities:
 - '[[02_Worldbuilding/Places/Port Meridian]]'
 - '[[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]'
 - '[[02_Worldbuilding/Groups/Surface Syndicate]]'
 ---
+
 
 
 

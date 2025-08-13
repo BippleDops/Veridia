@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Downtime Activity: Training to Gain Levels
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.992661+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Downtime Activity: Training to Gain Levels
 *Source: Dungeon Master's Guide p. 131* 
 

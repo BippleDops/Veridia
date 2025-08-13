@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.467658+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xge
-  - ttrpg-cli/monster/cr/1
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/monstrosity
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xge
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Hound of Ill Omen
+- Hound of Ill Omen
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hound-of-ill-omen-xge-hound-of-ill-omen-xge.svg)

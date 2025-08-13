@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.782402+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/1
-  - ttrpg-cli/monster/environment/any
-  - ttrpg-cli/monster/size/tiny
-  - ttrpg-cli/monster/type/fiend/devil
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/environment/any
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/fiend/devil
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Imp
+- Imp
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-imp-xmm-imp-xmm.svg)

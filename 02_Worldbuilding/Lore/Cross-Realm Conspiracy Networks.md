@@ -1,16 +1,19 @@
 ---
 tags:
+- both worlds
 - both-worlds
-- lore
-- criminal
-- smuggling
+- complete
 - conspiracy
+- criminal
+- lore
+- smuggling
 type: Lore
 world: Both Worlds
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.535710+00:00'
 ---
+
 
 ## Overview
 

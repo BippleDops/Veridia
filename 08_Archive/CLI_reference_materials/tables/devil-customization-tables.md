@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
 - Devil Customization Tables
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.233939+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Devil Customization Tables
 *Source: Mordenkainen's Tome of Foes p. 23* 
 

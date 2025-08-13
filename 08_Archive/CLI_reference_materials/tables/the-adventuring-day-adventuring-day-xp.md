@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - The Adventuring Day; Adventuring Day XP
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:31.282842+00:00'
+world: Both
+status: active
 ---
+
 # The Adventuring Day; Adventuring Day XP
 *Source: Dungeon Master's Guide p. 84. Available in the Basic Rules (2014)* 
 

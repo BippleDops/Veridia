@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
+- active
+- both
+- note
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
 aliases:
 - Criminal
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.421454+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Criminal
 *Source: Player's Handbook (2024) p. 180. Available in the Free Rules (2024)*  
 ![](/03_Mechanics/CLI/backgrounds/img/criminal.webp#right)

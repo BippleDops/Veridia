@@ -1,8 +1,10 @@
 ---
 type: Group
 tags:
+- active
 - both
 - faction
+- group
 - mercantile
 aliases: []
 created: 2025-07-23
@@ -11,9 +13,10 @@ MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-12T14:31:05.067104+00:00'
+updated: '2025-08-13T01:18:36.679454+00:00'
 status: active
 ---
+
 
 
 > [!figure] Heraldry

@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.732890+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/5
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/environment/fire
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/elemental
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/environment/fire
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Fire Elemental
+- Fire Elemental
+world: Both
+status: active
 ---
+
 # [Fire Elemental](3-Mechanics\CLI\bestiary\elemental/fire-elemental-xmm.md)
 *Source: Monster Manual (2024) p. 118. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

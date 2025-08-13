@@ -4,6 +4,7 @@ tags:
 - complete
 - corruption
 - crystal
+- npc
 - purification
 - quest
 status: complete
@@ -14,9 +15,10 @@ created: 2025-08-11
 MyContainer: None
 MyCategory: Magical
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.877650+00:00'
 cr: '8'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-perfect-purifier-quest-the-perfect-purifier.svg)

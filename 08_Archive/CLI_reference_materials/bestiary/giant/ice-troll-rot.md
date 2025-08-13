@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.515385+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/rot
-  - ttrpg-cli/monster/cr/5
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/giant
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/rot
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Ice Troll
+- Ice Troll
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ice-troll-rot-ice-troll-rot.svg)

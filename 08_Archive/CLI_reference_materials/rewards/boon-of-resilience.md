@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/reward/boon
 aliases:
 - Boon of Resilience
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.340339+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Boon of Resilience
 
 You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.

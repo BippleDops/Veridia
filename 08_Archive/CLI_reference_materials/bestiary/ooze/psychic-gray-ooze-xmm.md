@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.685353+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/1
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/ooze
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/ooze
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Psychic Gray Ooze
+- Psychic Gray Ooze
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-psychic-gray-ooze-xmm-psychic-gray-ooze-xmm.svg)

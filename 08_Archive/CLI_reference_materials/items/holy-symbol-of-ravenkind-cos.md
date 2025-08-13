@@ -1,19 +1,24 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/cos
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 aliases:
 - Holy Symbol of Ravenkind
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.829124+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Holy Symbol of Ravenkind
 *Wondrous item, legendary (requires attunement by a cleric or paladin of good alignment)*  
 ![](/03_Mechanics/CLI/items/img/holy-symbol-of-ravenkind.webp#right)

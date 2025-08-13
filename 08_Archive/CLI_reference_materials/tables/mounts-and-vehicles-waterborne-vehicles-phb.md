@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
 - Mounts and Vehicles; Waterborne Vehicles
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.636233+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Mounts and Vehicles; Waterborne Vehicles
 *Source: Player's Handbook p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
 

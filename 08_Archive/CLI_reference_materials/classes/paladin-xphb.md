@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
+- active
+- both
+- note
 - ttrpg-cli/class/paladin
 - ttrpg-cli/compendium/src/5e/xphb
 aliases:
 - Paladin
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.137332+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Paladin
 *Source: Player's Handbook (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

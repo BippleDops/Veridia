@@ -3,13 +3,17 @@ title: Vessel Horror Intensifier
 type: mechanics
 status: complete
 tags:
-- mechanics
+- both
+- complete
 - horror
+- mechanics
 - sanity
 - vessels
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.145776+00:00'
+world: Both
 ---
+
 
 
 # Vessel Horror Intensifier

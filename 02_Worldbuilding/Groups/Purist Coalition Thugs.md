@@ -5,6 +5,7 @@ tags:
 - complete
 - extremist
 - faction
+- group
 - militant
 - minor-faction
 status: complete
@@ -19,11 +20,12 @@ influence: Regional (Underground network)
 wealth: Limited (donations and seized assets)
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.668805+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Heraldry

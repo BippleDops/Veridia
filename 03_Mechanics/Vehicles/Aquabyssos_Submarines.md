@@ -2,10 +2,17 @@
 title: Aquabyssos Submarines
 type: mechanics
 status: complete
-tags: [mechanics, vehicles, submarines, aquabyssos]
+tags:
+- aquabyssos
+- complete
+- mechanics
+- submarines
+- vehicles
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.144415+00:00'
+world: Aquabyssos
 ---
+
 
 # Aquabyssos Submarines
 

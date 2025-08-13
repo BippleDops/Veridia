@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.778897+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/1
-  - ttrpg-cli/monster/environment/abyss
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/fiend/demon
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/environment/abyss
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fiend/demon
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Manes Vaporspawn
+- Manes Vaporspawn
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-manes-vaporspawn-xmm-manes-vaporspawn-xmm.svg)

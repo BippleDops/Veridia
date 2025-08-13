@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.598440+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/3
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/hill
-  - ttrpg-cli/monster/environment/swamp
-  - ttrpg-cli/monster/size/small
-  - ttrpg-cli/monster/type/fey
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Redcap
+- Redcap
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-redcap-mpmm-redcap-mpmm.svg)

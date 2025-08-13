@@ -2,10 +2,17 @@
 title: Reality Breach Event Compiler
 type: mechanics
 status: complete
-tags: [mechanics, reality, events]
+tags:
+- both
+- complete
+- events
+- mechanics
+- reality
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.108174+00:00'
+world: Both
 ---
+
 
 # Reality Breach Event Compiler
 

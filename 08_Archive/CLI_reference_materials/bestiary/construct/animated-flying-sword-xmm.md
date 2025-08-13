@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.972833+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/1-4
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/small
-  - ttrpg-cli/monster/type/construct
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Animated Flying Sword
+- Animated Flying Sword
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-flying-sword-xmm-animated-flying-sword-xmm.png)

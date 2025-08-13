@@ -1,18 +1,23 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
 aliases:
 - Hat of Vermin
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.317068+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Hat of Vermin
 *Wondrous item, common*  
 ![](/03_Mechanics/CLI/items/img/hat-of-vermin.webp#right)

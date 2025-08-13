@@ -1,23 +1,29 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.781863+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/2
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/grassland
-  - ttrpg-cli/monster/environment/hill
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/fiend
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/grassland
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fiend
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Gnoll Pack Lord
+- Gnoll Pack Lord
+world: Both
+status: active
 ---
+
 # [Gnoll Pack Lord](3-Mechanics\CLI\bestiary\fiend/gnoll-pack-lord-xmm.md)
 *Source: Monster Manual (2024) p. 140*  
 

@@ -1,9 +1,12 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
@@ -11,11 +14,13 @@ tags:
 - ttrpg-cli/item/weapon/simple
 aliases:
 - Staff of the Woodlands
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.927438+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Staff of the Woodlands
 *Staff, weapon, rare (requires attunement by a druid)*  
 ![](/03_Mechanics/CLI/items/img/staff-of-the-woodlands.webp#right)

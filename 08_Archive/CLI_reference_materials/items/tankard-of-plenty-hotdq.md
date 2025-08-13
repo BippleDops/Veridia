@@ -1,19 +1,24 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/hotdq
 - ttrpg-cli/item/rarity/unknown/magic
 - ttrpg-cli/item/wondrous/other
 aliases:
 - Tankard of Plenty
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.796942+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-tankard-of-plenty-hotdq-tankard-of-plenty-hotdq.svg)

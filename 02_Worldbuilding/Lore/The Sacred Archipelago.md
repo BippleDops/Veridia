@@ -1,13 +1,16 @@
 ---
 tags:
+- active
 - both
 - historical-event
+- lore
 type: Lore
 world: Both
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:03.441343+00:00'
+updated: '2025-08-13T01:18:35.398834+00:00'
 ---
+
 
 
 

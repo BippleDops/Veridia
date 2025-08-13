@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/level/1st-level
@@ -14,9 +17,12 @@ aliases:
 - Arms of Hadar
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.109858+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Arms of Hadar
 *1st-level, Conjuration*  
 ![](/03_Mechanics/CLI/spells/img/arms-of-hadar.webp#right)

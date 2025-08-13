@@ -2,21 +2,24 @@
 tags:
 - aquabyssos
 - campaign-consequences
+- complete
+- identity-crisis
+- lore
+- parliament-infiltration
 - political-intrigue
 - shadow-conspiracy
-- identity-crisis
-- parliament-infiltration
 type: Lore
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.136916+00:00'
 magnitude: 4
 visibility: 3
 primary_sessions:
-- "Session 03: Gallery Conspiracy"
-- "Session 06: Silhouette Surgeons"
+- 'Session 03: Gallery Conspiracy'
+- 'Session 06: Silhouette Surgeons'
 ---
+
 
 # Consequence Chain 1: Shadow Conspiracy Exposure
 *The Unraveling of the Parliament's Dark Secret*

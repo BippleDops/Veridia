@@ -1,7 +1,15 @@
 ---
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.947170+00:00'
+world: Both
+type: NPC
+status: active
+tags:
+- active
+- both
+- npc
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-investigate-shadow-conspiracy-investigate-shadow-conspiracy.svg)

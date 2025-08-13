@@ -1,26 +1,32 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.588385+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/3
-  - ttrpg-cli/monster/environment/acheron
-  - ttrpg-cli/monster/environment/feywild
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/grassland
-  - ttrpg-cli/monster/environment/hill
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/small
-  - ttrpg-cli/monster/type/fey/goblinoid
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/environment/acheron
+- ttrpg-cli/monster/environment/feywild
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/grassland
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/fey/goblinoid
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Goblin Hexer
+- Goblin Hexer
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-goblin-hexer-xmm-goblin-hexer-xmm.png)

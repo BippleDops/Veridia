@@ -1,13 +1,16 @@
 ---
 tags:
+- active
 - aquabyssos
 - historical-event
+- lore
 type: Lore
 world: Aquabyssos
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:02.569233+00:00'
+updated: '2025-08-13T01:18:34.659651+00:00'
 ---
+
 
 
 

@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Assault or Invasion; Invading Forces
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.298446+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Assault or Invasion; Invading Forces
 *Source: Dungeon Master's Guide p. 29* 
 

@@ -1,12 +1,16 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:37.130047+00:00'
 created: 2025-08-12
-tags: [mechanic]
-status: "complete"
-world: "Aquabyssos"
-type: "mechanic"
+tags:
+- aquabyssos
+- complete
+- mechanic
+status: complete
+world: Aquabyssos
+type: mechanic
 obsidianUIMode: preview
 ---
+
 
 
 # NPC Reactions

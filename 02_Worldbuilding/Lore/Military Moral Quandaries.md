@@ -1,16 +1,19 @@
 ---
 tags:
+- active
 - aquabyssos
+- lore
 - military-ethics
-- warfare
 - moral-dilemmas
 - shadow-corruption
+- warfare
 type: Lore
 world: Aquabyssos
 status: active
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.329174+00:00'
 ---
+
 
 # Military Moral Quandaries
 

@@ -1,17 +1,21 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:31.115506+00:00'
 created: 2025-08-12
 tags:
-  - gm-resource
-  - linguistics
-  - quick-reference
-  - social-encounters
-  - languages
+- both
+- complete
+- gm-resource
+- gm_tool
+- languages
+- linguistics
+- quick-reference
+- social-encounters
 status: complete
 world: Both
 type: gm_tool
 obsidianUIMode: preview
 ---
+
 
 # Linguistic Quick Reference
 

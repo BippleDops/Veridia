@@ -1,10 +1,16 @@
 ---
-tags: [handout]
-status: "complete"
-world: "Universal"
-type: "handout"
+tags:
+- complete
+- handout
+- universal
+status: complete
+world: Universal
+type: handout
 obsidianUIMode: preview
+created: null
+updated: '2025-08-13T01:18:31.179500+00:00'
 ---
+
 
 # Ritual Timing Wheel Convergence
 

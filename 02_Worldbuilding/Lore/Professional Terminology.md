@@ -1,17 +1,21 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.308307+00:00'
 created: 2025-08-12
 tags:
-  - lore
-  - linguistics
-  - professions
-  - terminology
-  - guilds
+- both
+- complete
+- guilds
+- linguistics
+- lore
+- professional_reference
+- professions
+- terminology
 status: complete
 world: Both
 type: professional_reference
 obsidianUIMode: preview
 ---
+
 
 # Professional Terminology
 

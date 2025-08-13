@@ -1,11 +1,21 @@
 ---
-title: "Deep Mother Subsystem"
+title: Deep Mother Subsystem
 type: lore
-tags: [lore, deep-mother, subsystem, horror, aquabyssos, primordial]
-status: "complete"
+tags:
+- aquabyssos
+- both
+- complete
+- deep-mother
+- horror
+- lore
+- primordial
+- subsystem
+status: complete
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.522443+00:00'
+world: Both
 ---
+
 
 # The Deep Mother Subsystem
 *Complete Rules for the Primordial Horror*

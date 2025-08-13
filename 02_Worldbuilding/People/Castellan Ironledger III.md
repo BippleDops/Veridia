@@ -1,5 +1,6 @@
 ---
 tags:
+- active - category/people
 - active---category/people
 - both
 - information-broker
@@ -19,9 +20,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.964305+00:00'
 created: 2025-08-11
 ---
+
 
 
 > [!figure] Portrait

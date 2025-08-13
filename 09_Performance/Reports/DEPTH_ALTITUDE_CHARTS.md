@@ -1,3 +1,13 @@
+---
+created: null
+updated: '2025-08-13T01:18:31.097926+00:00'
+world: Both
+status: draft
+tags:
+- both
+- draft
+---
+
 # DEPTH_ALTITUDE_CHARTS.md
 *Standardized Elevation and Pressure Reference*
 

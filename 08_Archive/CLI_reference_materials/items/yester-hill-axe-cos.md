@@ -1,20 +1,25 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/cos
 - ttrpg-cli/item/rarity/unknown/magic
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 aliases:
 - Yester Hill Axe
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.380185+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-yester-hill-axe-cos-v1-yester-hill-axe-cos.svg)

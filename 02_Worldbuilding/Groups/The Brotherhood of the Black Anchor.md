@@ -1,12 +1,15 @@
 ---
 world: Both
-updated: '2025-08-12T14:31:04.926336+00:00'
+updated: '2025-08-13T01:18:36.657027+00:00'
 created: 2025-08-11
 status: active
 tags:
+- active
 - both
+- group
 type: Group
 ---
+
 
 
 > [!figure] Heraldry

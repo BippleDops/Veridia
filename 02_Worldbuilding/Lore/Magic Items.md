@@ -3,6 +3,7 @@ tags:
 - aethermoor
 - aquabyssos
 - artifacts
+- both worlds
 - both-worlds
 - complete
 - cross-realm-items
@@ -17,13 +18,14 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.534224+00:00'
 item_categories: Comprehensive Catalog
 scope: Both Worlds
 application: Adventure Equipment
 crafting_traditions: Multiple Cultures
 magical_schools: All Schools
 ---
+
 
 
 

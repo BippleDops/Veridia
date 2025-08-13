@@ -1,19 +1,23 @@
 ---
 tags:
-  - npc
-  - ADDITIONAL_TAGS
+- active/missing/dead/unknown
+- additional_tags
+- both
+- npc
 type: NPC
-race: "Race (subrace if applicable)"
-class: "Class/Profession"
+race: Race (subrace if applicable)
+class: Class/Profession
 level: X
-alignment: "Alignment"
-location: "[[Current_Location]]"
-faction: "[[Faction_Name]] OR Independent"
-status: "Active/Missing/Dead/Unknown"
+alignment: Alignment
+location: '[[Current_Location]]'
+faction: '[[Faction_Name]] OR Independent'
+status: Active/Missing/Dead/Unknown
 created: 2025-08-11
-updated: 2025-08-11
-image: "04_Resources/Assets/NPCs/filename.jpg"
+updated: '2025-08-13T01:18:31.183178+00:00'
+image: 04_Resources/Assets/NPCs/filename.jpg
+world: Both
 ---
+
 
 # NPC Name
 *Title or Epithet in Italics*

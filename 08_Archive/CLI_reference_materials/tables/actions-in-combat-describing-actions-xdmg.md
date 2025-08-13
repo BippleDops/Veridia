@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
 - Actions in Combat; Describing Actions
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.632950+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Actions in Combat; Describing Actions
 *Source: Dungeon Master's Guide (2024) p. 46* 
 

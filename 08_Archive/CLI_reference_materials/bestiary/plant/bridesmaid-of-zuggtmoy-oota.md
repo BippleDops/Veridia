@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.663767+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/oota
-  - ttrpg-cli/monster/cr/1-8
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/plant
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/oota
+- ttrpg-cli/monster/cr/1-8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/plant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Bridesmaid of Zuggtmoy
+- Bridesmaid of Zuggtmoy
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bridesmaid-of-zuggtmoy-oota-bridesmaid-of-zuggtmoy-oota.svg)

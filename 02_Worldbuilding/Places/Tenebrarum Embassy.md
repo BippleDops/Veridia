@@ -1,17 +1,20 @@
 ---
 tags:
 - aquabyssos
-- embassy
+- complete
 - diplomacy
-- tenebrarum
+- embassy
 - espionage
+- location
 - shadows
+- tenebrarum
 type: Location
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.996303+00:00'
 ---
+
 
 # Tenebrarum Embassy
 *The House of Shifting Diplomacy*

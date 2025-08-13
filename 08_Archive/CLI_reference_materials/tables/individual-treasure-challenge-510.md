@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Individual Treasure: "Challenge 5\u201410"
+- Individual Treasure: Challenge 5—10
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.409467+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Individual Treasure: Challenge 5—10
 *Source: Dungeon Master's Guide p. 133* 
 

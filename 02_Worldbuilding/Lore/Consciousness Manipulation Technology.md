@@ -1,11 +1,19 @@
 ---
-tags: [aquabyssos, shadow-conspiracy, technology, consciousness, memory-manipulation, complete]
+tags:
+- aquabyssos
+- complete
+- consciousness
+- lore
+- memory-manipulation
+- shadow-conspiracy
+- technology
 type: Lore
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-12'
+updated: '2025-08-13T01:18:34.606969+00:00'
 ---
+
 
 # Consciousness Manipulation Technology
 *The Science of Soul Engineering*

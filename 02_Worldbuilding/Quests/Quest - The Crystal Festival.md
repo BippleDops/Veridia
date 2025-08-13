@@ -5,6 +5,7 @@ tags:
 - crystal
 - festival
 - investigation
+- lore
 - major-quest
 - political
 - quest
@@ -18,11 +19,12 @@ location: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
 rewards: 5000 gp, Noble Title, Crystal Artifacts
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.490528+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 

@@ -3,6 +3,7 @@ tags:
 - aquabyssos
 - complete
 - information
+- location
 - madame
 - npc
 - spy
@@ -15,9 +16,10 @@ created: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.992810+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-madame-whisper-madame-whisper.svg)

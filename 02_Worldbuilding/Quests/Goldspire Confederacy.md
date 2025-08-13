@@ -4,6 +4,7 @@ tags:
 - complete
 - confederacy
 - crystal-corruption
+- lore
 - memory-magic
 - quest
 - shadow-magic
@@ -12,7 +13,7 @@ world: Aethermoor
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.508307+00:00'
 level_range: 3-5
 party_size: 3-6
 estimated_duration: 4-6 sessions
@@ -20,6 +21,7 @@ MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-goldspire-confederacy-goldspire-confederacy.svg)

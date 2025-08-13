@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.636796+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/13
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/gargantuan
-  - ttrpg-cli/monster/type/aberration
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/13
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Neothelid
+- Neothelid
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-neothelid-mpmm-neothelid-mpmm.svg)

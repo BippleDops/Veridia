@@ -3,13 +3,17 @@ title: Transportation Infrastructure
 type: mechanics
 status: complete
 tags:
-- mechanics
-- vehicles
+- both
+- complete
 - infrastructure
+- mechanics
 - networks
+- vehicles
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.141449+00:00'
+world: Both
 ---
+
 
 
 # Transportation Infrastructure

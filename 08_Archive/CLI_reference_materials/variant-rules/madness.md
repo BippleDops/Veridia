@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Madness
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:31.980032+00:00'
+world: Both
+status: active
 ---
+
 # Madness
 *Source: Dungeon Master's Guide p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 

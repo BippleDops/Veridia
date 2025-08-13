@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/feat/fey-touched
@@ -15,9 +18,12 @@ aliases:
 - Hex
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.132108+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Hex
 *1st-level, Enchantment*  
 

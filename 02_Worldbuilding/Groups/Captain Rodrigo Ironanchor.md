@@ -3,6 +3,7 @@ tags:
 - aethermoor
 - complete
 - faction
+- group
 - iron-fleet
 - mercenary
 - military
@@ -19,11 +20,12 @@ influence: Maritime (Coastal waters and shipping lanes)
 wealth: Substantial (mercenary contracts and salvage)
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.696552+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-captain-rodrigo-ironanchor-captain-rodrigo-ironanchor.svg)

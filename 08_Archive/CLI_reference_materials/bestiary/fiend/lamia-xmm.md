@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.805960+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/4
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/fiend
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/fiend
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Lamia
+- Lamia
+world: Both
+status: active
 ---
+
 # [Lamia](3-Mechanics\CLI\bestiary\fiend/lamia-xmm.md)
 *Source: Monster Manual (2024) p. 192. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

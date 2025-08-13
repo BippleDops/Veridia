@@ -1,11 +1,20 @@
 ---
-tags: [lore, economics, criminal, crystal, black-market, trade]
+tags:
+- aquabyssos
+- black-market
+- complete
+- criminal
+- crystal
+- economics
+- lore
+- trade
 type: lore
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-12'
+updated: '2025-08-13T01:18:35.098779+00:00'
 ---
+
 
 # Black Market Crystal Trade
 

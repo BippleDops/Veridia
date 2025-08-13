@@ -8,6 +8,7 @@ tags:
 - curse
 - family-secret
 - legacy
+- npc
 - phenomenon
 - supernatural
 - transformation
@@ -21,8 +22,9 @@ manifestation_rate: Rare but Increasing
 location: Scattered throughout Aquabyssos
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.927412+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-bloodline-awakens-the-bloodline-awakens.svg)

@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.344811+00:00'
 world: Both
 location_name: Crystal Palace
 location_type: Royal Residence
@@ -12,13 +12,15 @@ danger_level: 8
 status: active
 type: Location
 tags:
+- active
 - aquabyssos
 - both
-- royal
 - crystal
-- palace
 - location
+- palace
+- royal
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-palace-crystal-palace.svg)

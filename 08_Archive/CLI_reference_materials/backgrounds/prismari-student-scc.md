@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:
+- active
+- both
+- note
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/scc
 aliases:
 - Prismari Student
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.422658+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Prismari Student
 *Source: Strixhaven: A Curriculum of Chaos p. 32*  
 ![An advanced Prismari stude...](/03_Mechanics/CLI/backgrounds/img/prismari-student.webp#right "An advanced Prismari student artfully harnesses fire")

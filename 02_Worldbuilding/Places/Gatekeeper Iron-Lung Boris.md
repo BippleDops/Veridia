@@ -1,7 +1,15 @@
 ---
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.122665+00:00'
+world: Both
+type: Location
+status: active
+tags:
+- active
+- both
+- location
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-gatekeeper-iron-lung-boris-gatekeeper-iron-lung-boris.svg)

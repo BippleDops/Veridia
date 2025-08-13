@@ -1,14 +1,18 @@
 ---
 tags:
-  - vault-standards
-  - metadata
-  - documentation
+- active
+- both
+- documentation
+- metadata
+- standards
+- vault-standards
 type: Standards
 world: Both
 status: active
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:31.097216+00:00'
 ---
+
 
 # Vault Metadata Standards
 

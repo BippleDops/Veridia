@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.956723+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/oota
-  - ttrpg-cli/monster/cr/10
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/construct
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/oota
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Four-Armed Statue
+- Four-Armed Statue
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-four-armed-statue-oota-four-armed-statue-oota.svg)

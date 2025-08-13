@@ -1,8 +1,10 @@
 ---
 tags:
+- active
 - aquabyssos
 - bestiary
 - homebrew
+- lore
 - monsters
 - stat-blocks
 type: Lore
@@ -10,9 +12,10 @@ system: D&D 5e
 campaign: Aquabyssos
 created: 2025-08-07
 world: Aquabyssos
-updated: '2025-08-12T14:31:05.648616+00:00'
+updated: '2025-08-13T01:18:37.138218+00:00'
 status: active
 ---
+
 
 
 

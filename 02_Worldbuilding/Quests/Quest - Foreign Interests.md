@@ -4,6 +4,7 @@ tags:
 - complete
 - espionage
 - investigation
+- lore
 - major-quest
 - political
 - quest
@@ -17,11 +18,12 @@ location: '[[Lumengarde City]] and surrounding nations'
 rewards: 3000 gp, Diplomatic Immunity, Noble Favor
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.509148+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 

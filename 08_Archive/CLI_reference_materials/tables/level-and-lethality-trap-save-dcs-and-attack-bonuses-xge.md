@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
 - Level and Lethality; Trap Save DCs and Attack Bonuses
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.400419+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Level and Lethality; Trap Save DCs and Attack Bonuses
 *Source: Xanathar's Guide to Everything p. 116* 
 

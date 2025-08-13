@@ -1,23 +1,29 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.739694+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/5
-  - ttrpg-cli/monster/environment/air
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/environment/mountain
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/elemental
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/environment/air
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/environment/mountain
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Air Elemental
+- Air Elemental
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-air-elemental-xmm-air-elemental-xmm.svg)

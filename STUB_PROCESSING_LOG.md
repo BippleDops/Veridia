@@ -1,9 +1,17 @@
 ---
 created: 2025-08-12
-updated: 2025-08-12
-tags: [processing-log, vault-maintenance]
+updated: '2025-08-13T01:18:31.094002+00:00'
+tags:
+- active
+- both
+- lore
+- processing-log
+- vault-maintenance
 status: active
+world: Both
+type: Lore
 ---
+
 
 # STUB PROCESSING LOG
 

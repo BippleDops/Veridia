@@ -3,10 +3,17 @@ title: Player Handout — S-L-08 Gravity Inversion Storm
 type: handout
 status: complete
 audience: player
-tags: [handout, encounter, sky]
+tags:
+- both
+- complete
+- encounter
+- handout
+- sky
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.208712+00:00'
+world: Both
 ---
+
 
 # Gravity Inversion Storm
 

@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/optional-feature/ed
 aliases:
 - Sweeping Cinder Strike
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.003963+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Sweeping Cinder Strike
 *Source: Player's Handbook p. 81*  
 

@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/scc
 aliases:
 - Friends and Foes; Strixhaven Creatures
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:31.490928+00:00'
+world: Both
+status: active
 ---
+
 # Friends and Foes; Strixhaven Creatures
 *Source: Strixhaven: A Curriculum of Chaos p. 183* 
 

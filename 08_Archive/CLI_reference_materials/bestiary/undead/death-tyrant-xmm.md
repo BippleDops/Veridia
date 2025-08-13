@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.849011+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/14
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/undead/beholder
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/14
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/undead/beholder
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Death Tyrant
+- Death Tyrant
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-death-tyrant-xmm-death-tyrant-xmm.svg)

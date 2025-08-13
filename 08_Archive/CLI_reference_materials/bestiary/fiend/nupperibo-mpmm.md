@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.805311+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/1-2
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/fiend/devil
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fiend/devil
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Nupperibo
+- Nupperibo
+world: Both
+status: active
 ---
+
 # [Nupperibo](3-Mechanics\CLI\bestiary\fiend/nupperibo-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*  
 

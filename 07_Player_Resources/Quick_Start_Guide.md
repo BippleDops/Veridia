@@ -5,14 +5,16 @@ status: complete
 tags:
 - both
 - complete
+- lore
 - player-resource
 - player_resource
 - quick-start
 - rules-reference
 created: 2025-08-11
 world: Both
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.154945+00:00'
 ---
+
 
 
 

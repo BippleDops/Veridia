@@ -1,15 +1,18 @@
 ---
 tags:
+- active
 - both
 - category/region
+- lore
 obsidianUIMode: preview
 MyContainer: null
 world: Both
-updated: '2025-08-12T14:31:02.329620+00:00'
+updated: '2025-08-13T01:18:31.188412+00:00'
 created: 2025-08-11
 status: active
 type: Lore
 ---
+
 
 
 

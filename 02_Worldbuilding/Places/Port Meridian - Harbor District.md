@@ -1,8 +1,11 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.244993+00:00'
 created: 2025-08-12
 tags:
-- Category/Place
+- aethermoor
+- category/place
+- complete
+- location
 status: complete
 world: Aethermoor
 type: location
@@ -20,6 +23,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 

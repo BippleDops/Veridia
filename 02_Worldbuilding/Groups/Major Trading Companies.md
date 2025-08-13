@@ -1,17 +1,19 @@
 ---
 world: Both
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.694875+00:00'
 created: 2025-08-12
 status: complete
 tags:
 - both
 - complete
 - economy
-- trading-companies
+- group
 - merchant-princes
 - rivalries
+- trading-companies
 type: Group
 ---
+
 
 > [!figure] Corporate Emblems
 ![](04_Resources/Assets/Symbols/symbol-corporate-major-trading-companies.svg)

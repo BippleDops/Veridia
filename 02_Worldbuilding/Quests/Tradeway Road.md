@@ -4,6 +4,7 @@ tags:
 - complete
 - corruption
 - deep-mother
+- lore
 - memory-magic
 - quest
 - tradeway
@@ -12,7 +13,7 @@ world: Aquabyssos
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.505495+00:00'
 level_range: 4-6
 party_size: 3-6
 estimated_duration: 5-7 sessions
@@ -20,6 +21,7 @@ MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
 
 
 

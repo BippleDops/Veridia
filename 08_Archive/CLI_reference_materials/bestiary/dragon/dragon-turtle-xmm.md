@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.914020+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/17
-  - ttrpg-cli/monster/environment/coastal
-  - ttrpg-cli/monster/environment/underwater
-  - ttrpg-cli/monster/size/gargantuan
-  - ttrpg-cli/monster/type/dragon
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/17
+- ttrpg-cli/monster/environment/coastal
+- ttrpg-cli/monster/environment/underwater
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/dragon
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Dragon Turtle
+- Dragon Turtle
+world: Both
+status: active
 ---
+
 # [Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/dragon-turtle-xmm.md)
 *Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -3,14 +3,16 @@ aliases: []
 tags:
 - both
 - category/note
+- lore
 - note
 - unknown
 type: Lore
 status: unknown
 world: Both
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.202359+00:00'
 created: 2025-08-11
 ---
+
 
 
 <%*

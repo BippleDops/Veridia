@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xmm
 aliases:
 - Monsters A to Z
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:32.354228+00:00'
+world: Both
+status: active
 ---
+
 # Monsters A to Z
 *Source: Monster Manual (2025), p. 10* 
 

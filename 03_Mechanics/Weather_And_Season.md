@@ -1,12 +1,16 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.102956+00:00'
 created: 2025-08-11
-tags: [mechanic]
-status: "complete"
-world: "Universal"
-type: "mechanic"
+tags:
+- complete
+- mechanic
+- universal
+status: complete
+world: Universal
+type: mechanic
 obsidianUIMode: preview
 ---
+
 
 # Weather and Seasons
 

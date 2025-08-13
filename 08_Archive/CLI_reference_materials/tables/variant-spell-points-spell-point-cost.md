@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Variant: Spell Points; Spell Point Cost
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.653899+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Variant: Spell Points; Spell Point Cost
 *Source: Dungeon Master's Guide p. 288* 
 

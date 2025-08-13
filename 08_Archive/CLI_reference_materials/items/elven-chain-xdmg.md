@@ -1,9 +1,12 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/armor/heavy
 - ttrpg-cli/item/armor/medium
@@ -13,11 +16,13 @@ aliases:
 - Elven Chain
 - Elven Chain Mail
 - Elven Chain Shirt
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.857805+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Elven Chain
 *Rare*  
 ![](/03_Mechanics/CLI/items/img/elven-chain.webp#right)

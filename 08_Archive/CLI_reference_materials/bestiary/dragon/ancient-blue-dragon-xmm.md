@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.902022+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/23
-  - ttrpg-cli/monster/environment/coastal
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/size/gargantuan
-  - ttrpg-cli/monster/type/dragon/chromatic
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/23
+- ttrpg-cli/monster/environment/coastal
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/dragon/chromatic
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Ancient Blue Dragon
+- Ancient Blue Dragon
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ancient-blue-dragon-xmm-ancient-blue-dragon-xmm.svg)

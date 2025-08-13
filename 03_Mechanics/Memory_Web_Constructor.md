@@ -2,10 +2,17 @@
 title: Memory Web Constructor
 type: mechanics
 status: complete
-tags: [mechanics, memory, web]
+tags:
+- both
+- complete
+- mechanics
+- memory
+- web
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.109633+00:00'
+world: Both
 ---
+
 
 # Memory Web Constructor
 

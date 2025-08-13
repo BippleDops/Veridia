@@ -2,10 +2,17 @@
 title: Economic Warfare Simulator
 type: mechanics
 status: complete
-tags: [mechanics, economy, warfare]
+tags:
+- both
+- complete
+- economy
+- mechanics
+- warfare
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.122538+00:00'
+world: Both
 ---
+
 
 # Economic Warfare Simulator
 

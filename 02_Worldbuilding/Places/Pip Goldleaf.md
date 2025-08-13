@@ -7,6 +7,7 @@ tags:
 - family
 - goldleaf
 - heir
+- location
 - merchant
 - npc
 - pip
@@ -16,7 +17,7 @@ world: Aethermoor
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.977668+00:00'
 character_type: Merchant Heir
 faction: Goldleaf Trading House
 class: Rogue/Noble
@@ -29,6 +30,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 

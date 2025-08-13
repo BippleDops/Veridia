@@ -6,6 +6,7 @@ tags:
 - corruption
 - cult
 - mysterious
+- npc
 - organization
 - parasite
 - symbiosis
@@ -18,11 +19,12 @@ size: Unknown (Estimated 200-500 Members)
 location: '[[The Symbiotic Sanctuaries]] - Hidden throughout Aquabyssos'
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.974707+00:00'
 influence: Growing
 secrecy_level: High
 danger_level: Extreme
 ---
+
 
 
 > [!figure] Portrait

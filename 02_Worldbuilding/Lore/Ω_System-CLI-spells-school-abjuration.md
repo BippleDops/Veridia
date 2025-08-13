@@ -4,6 +4,7 @@ tags:
 - aethermoor
 - aquabyssos
 - banishment
+- both worlds
 - both-worlds
 - complete
 - lore
@@ -18,12 +19,13 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.297257+00:00'
 school: Abjuration
 focus: Protective and Banishment Magic
 complexity: Fundamental to Advanced
 practitioners: Protective mages, clerics, wardens
 ---
+
 
 
 

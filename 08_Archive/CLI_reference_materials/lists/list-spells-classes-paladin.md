@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/spell/list/class/paladin
 aliases:
 - Paladin Spells
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.049690+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Paladin Spells
 
 ## 1st Level

@@ -1,20 +1,25 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/ring
 aliases:
 - Ring of Spell Storing
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.065585+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Ring of Spell Storing
 *Ring, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-spell-storing.webp#right)

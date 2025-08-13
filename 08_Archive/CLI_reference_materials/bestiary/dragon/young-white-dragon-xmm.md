@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.893413+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/6
-  - ttrpg-cli/monster/environment/arctic
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/dragon/chromatic
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/environment/arctic
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/dragon/chromatic
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Young White Dragon
+- Young White Dragon
+world: Both
+status: active
 ---
+
 # [Young White Dragon](3-Mechanics\CLI\bestiary\dragon/young-white-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

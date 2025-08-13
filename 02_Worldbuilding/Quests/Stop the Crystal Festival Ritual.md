@@ -5,6 +5,7 @@ tags:
 - complete
 - crystal-festival
 - high-stakes
+- lore
 - quest
 - ritual
 status: complete
@@ -16,8 +17,9 @@ created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.471541+00:00'
 ---
+
 
 
 

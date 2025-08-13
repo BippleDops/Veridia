@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/blessing
 aliases:
 - Blessing of Weapon Enhancement
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.336821+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Blessing of Weapon Enhancement
 
 One nonmagical weapon in your possession becomes a [+1 Weapon](/03_Mechanics/CLI/items/1-weapon-xdmg.md) while you wield it.

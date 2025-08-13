@@ -1,20 +1,22 @@
 ---
 tags:
-- aquabyssos
 - aethermoor
+- aquabyssos
+- both
 - complete
 - deep-mother
+- group
+- research
 - resistance
 - scholars
-- research
-- group
 status: complete
 world: Both
 type: Group
 created_by: claude
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.689662+00:00'
 ---
+
 
 # Scholars of Divine Lore
 

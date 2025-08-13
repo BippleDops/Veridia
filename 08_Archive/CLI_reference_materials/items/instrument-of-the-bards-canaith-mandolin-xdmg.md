@@ -1,19 +1,24 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 aliases:
 - Instrument of the Bards, Canaith Mandolin
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.829633+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Instrument of the Bards, Canaith Mandolin
 *Wondrous item, rare (requires attunement by a bard)*  
 ![](/03_Mechanics/CLI/items/img/canaith-mandolin.webp#right)

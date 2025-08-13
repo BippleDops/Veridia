@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 aliases:
 - Ability Modifier; Ability Check Examples
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.393432+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Ability Modifier; Ability Check Examples
 *Source: Player's Handbook (2024) p. 10. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 

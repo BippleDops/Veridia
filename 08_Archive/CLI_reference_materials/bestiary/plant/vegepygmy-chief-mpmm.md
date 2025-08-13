@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.661167+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/2
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/swamp
-  - ttrpg-cli/monster/size/small
-  - ttrpg-cli/monster/type/plant
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/plant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Vegepygmy Chief
+- Vegepygmy Chief
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vegepygmy-chief-mpmm-v1-vegepygmy-chief-mpmm.svg)

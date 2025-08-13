@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/drow
 - ttrpg-cli/domain/nature
@@ -10,9 +13,12 @@ aliases:
 - Keptolo
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.855032+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Keptolo
 *Source: Mordenkainen's Tome of Foes p. 54* 
 

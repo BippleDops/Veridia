@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.770054+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/10
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/fiend/devil
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/fiend/devil
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Orthon
+- Orthon
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-orthon-mpmm-orthon-mpmm.svg)

@@ -2,12 +2,14 @@
 tags:
 - aquabyssos
 - lore
+- stub
 type: Lore
 world: Aquabyssos
 status: stub
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.049317+00:00'
 ---
+
 
 # Shadow Corruption
 

@@ -1,16 +1,19 @@
 ---
 tags:
 - aquabyssos
-- lore
-- timeline
+- authoritative
 - canonical
+- lore
+- master reference
 - reference
+- timeline
 type: Master Reference
 world: Aquabyssos
 status: authoritative
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:31.099312+00:00'
 ---
+
 
 # CANONICAL TIMELINE
 *Authoritative Chronology of Aquabyssos and the Convergence*

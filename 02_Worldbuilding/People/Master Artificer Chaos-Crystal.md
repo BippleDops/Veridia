@@ -2,12 +2,14 @@
 tags:
 - aquabyssos
 - person
+- stub
 type: Person
 world: Aquabyssos
 status: stub
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.877112+00:00'
 ---
+
 
 # Master Artificer Chaos-Crystal
 

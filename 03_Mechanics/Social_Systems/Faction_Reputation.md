@@ -1,12 +1,21 @@
 ---
-tags: [mechanics, social, faction, reputation, political-gameplay]
-status: "complete"
-world: "Both Worlds"
-type: "mechanic"
-created_by: "Claude"
+tags:
+- both worlds
+- complete
+- faction
+- mechanic
+- mechanics
+- political-gameplay
+- reputation
+- social
+status: complete
+world: Both Worlds
+type: mechanic
+created_by: Claude
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.133666+00:00'
 ---
+
 
 # Faction Reputation System
 *Tracking Standing with Groups*

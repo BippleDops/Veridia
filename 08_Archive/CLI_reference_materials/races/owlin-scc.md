@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/scc
 - ttrpg-cli/race/owlin
 aliases:
 - Owlin
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.433216+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Owlin
 *Source: Strixhaven: A Curriculum of Chaos p. 29*  
 ![Owlin unleash magic in the sky above Strixhaven](/03_Mechanics/CLI/races/img/owlin.webp#right)

@@ -2,10 +2,17 @@
 title: Crafting Transcendence
 type: mechanics
 status: complete
-tags: [mechanics, crafting, artifacts]
+tags:
+- artifacts
+- both
+- complete
+- crafting
+- mechanics
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.108658+00:00'
+world: Both
 ---
+
 
 # Crafting Transcendence
 

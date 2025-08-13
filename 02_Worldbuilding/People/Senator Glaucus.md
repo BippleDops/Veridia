@@ -1,5 +1,6 @@
 ---
 tags:
+- active
 - aquabyssos
 - both
 - npc
@@ -53,12 +54,13 @@ secrets:
 - Knows location of shadow transformation facility
 - Original Glaucus still alive but imprisoned
 created: 2025-08-07
-updated: '2025-08-12T14:31:05.578437+00:00'
+updated: '2025-08-13T01:18:37.013844+00:00'
 obsidianUIMode: preview
 world: Both
 status: active
 type: NPC
 ---
+
 
 
 

@@ -2,9 +2,18 @@
 title: Crew Relationship Events
 type: gm_resource
 status: complete
-tags: [gm, travel, crew]
+tags:
+- both
+- complete
+- crew
+- gm
+- gm_resource
+- travel
 created: 2025-08-11
+updated: '2025-08-13T01:18:31.123350+00:00'
+world: Both
 ---
+
 
 # Crew Relationship Events
 

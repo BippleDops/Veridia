@@ -3,13 +3,17 @@ title: Vehicle Customization & Progression
 type: mechanics
 status: complete
 tags:
+- both
+- complete
 - mechanics
-- vehicles
-- upgrades
 - progression
+- upgrades
+- vehicles
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.143885+00:00'
+world: Both
 ---
+
 
 
 # Vehicle Customization & Progression

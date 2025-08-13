@@ -1,13 +1,15 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:47.052514+00:00'
+updated: '2025-08-13T01:18:34.460569+00:00'
 created: '2025-08-11T13:08:47.052514+00:00'
 status: draft
 tags:
 - both
 - draft
+- lore
 type: Lore
 ---
+
 
 
 # TTRPG Vault Progress Report - Session 2 (2025-08-10)

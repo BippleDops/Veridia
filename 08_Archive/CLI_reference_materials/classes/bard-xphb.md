@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
+- active
+- both
+- note
 - ttrpg-cli/class/bard
 - ttrpg-cli/compendium/src/5e/xphb
 aliases:
@@ -9,7 +12,11 @@ aliases:
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:32.156042+00:00'
+world: Both
+status: active
 ---
+
 # Bard
 *Source: Player's Handbook (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

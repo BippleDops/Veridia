@@ -3,8 +3,10 @@ type: Lore
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
+- active
 - both
 - compendium/src/5e/ccodex
+- lore
 - monster/cr/9
 - monster/environment/any
 - monster/size/medium
@@ -16,9 +18,10 @@ aliases:
 created: 2025-07-23
 modified: 2025-07-23 12:39
 world: Both
-updated: '2025-08-12T14:31:05.647915+00:00'
+updated: '2025-08-13T01:18:37.137598+00:00'
 status: active
 ---
+
 
 
 

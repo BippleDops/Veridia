@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/oota
 aliases:
 - Chapter 8: Audience in Gauntlgrym
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:32.273333+00:00'
+world: Both
+status: active
 ---
+
 # Chapter 8: Audience in Gauntlgrym
 *Source: Out of the Abyss, p. 120* 
 

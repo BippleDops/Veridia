@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
 - Nonplayer Characters
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:32.356855+00:00'
+world: Both
+status: active
 ---
+
 # Nonplayer Characters
 *Source: Volo's Guide to Monsters* 
 

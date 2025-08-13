@@ -1,13 +1,22 @@
 ---
-tags: [treasure, magical-items, aquabyssos, pressure-artifacts, depth-magic, seven-shards-connected]
-status: "complete"
-world: "Aquabyssos"
-type: "treasure_catalog"
-rarity_range: "Common to Legendary"
-created_by: "Claude"
+tags:
+- aquabyssos
+- complete
+- depth-magic
+- magical-items
+- pressure-artifacts
+- seven-shards-connected
+- treasure
+- treasure_catalog
+status: complete
+world: Aquabyssos
+type: treasure_catalog
+rarity_range: Common to Legendary
+created_by: Claude
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.147417+00:00'
 ---
+
 
 # Pressure Artifacts
 *Magical Items Forged in the Depths of Aquabyssos*

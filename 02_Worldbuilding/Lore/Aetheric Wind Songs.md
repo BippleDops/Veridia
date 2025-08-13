@@ -1,36 +1,48 @@
 ---
-tags: [lore, culture, music, aethermoor, wind-songs, oral-tradition, magical-music, elemental-harmony, cultural-preservation, bardic-tradition]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-cultural_type: "Musical and Oral Tradition"
+tags:
+- aethermoor
+- bardic-tradition
+- complete
+- cultural-preservation
+- culture
+- elemental-harmony
+- lore
+- magical-music
+- music
+- oral-tradition
+- wind-songs
+status: complete
+world: Aethermoor
+type: lore
+cultural_type: Musical and Oral Tradition
 regions:
-  - "[[The Windswept Heights]]"
-  - "[[Port Meridian Harbor]]"
-  - "[[The Royal Palace]]"
-  - "[[Lighthouse Peak - Resonance Chamber]]"
+- '[[The Windswept Heights]]'
+- '[[Port Meridian Harbor]]'
+- '[[The Royal Palace]]'
+- '[[Lighthouse Peak - Resonance Chamber]]'
 practitioners:
-  - "[[The Wind Singers Guild]]"
-  - "[[Master Melodist Zephyr Cloudwalker]]"
-  - "[[The Stormcaller Chorus]]"
-  - "[[Wandering Wind Minstrels]]"
-magical_properties: "Elemental wind manipulation and weather influence"
-cultural_significance: "Core identity and communication system for wind-touched communities"
-preservation_status: "Actively maintained and evolving"
-transmission_method: "Oral tradition with magical resonance"
-historical_period: "Ancient origins, continuous development"
-created_by: "cultural-expansion"
+- '[[The Wind Singers Guild]]'
+- '[[Master Melodist Zephyr Cloudwalker]]'
+- '[[The Stormcaller Chorus]]'
+- '[[Wandering Wind Minstrels]]'
+magical_properties: Elemental wind manipulation and weather influence
+cultural_significance: Core identity and communication system for wind-touched communities
+preservation_status: Actively maintained and evolving
+transmission_method: Oral tradition with magical resonance
+historical_period: Ancient origins, continuous development
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.442560+00:00'
 related_phenomena:
-  - "[[Resonance Peaks]]"
-  - "[[The Lighthouse of Storms]]"
-  - "[[Crystal Resonance Networks]]"
-  - "[[Temporal Wind Patterns]]"
+- '[[Resonance Peaks]]'
+- '[[The Lighthouse of Storms]]'
+- '[[Crystal Resonance Networks]]'
+- '[[Temporal Wind Patterns]]'
 danger_level: 1
-magical_intensity: "Moderate to High"
-access_requirements: "Wind affinity or magical training"
+magical_intensity: Moderate to High
+access_requirements: Wind affinity or magical training
 ---
+
 
 
 # Aetheric Wind Songs

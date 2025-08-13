@@ -5,6 +5,7 @@ tags:
 - historical
 - historical-infrastructure
 - location
+- lore
 - military
 - siege
 - tunnels
@@ -18,13 +19,14 @@ era: The Continental Wars
 builders: '[[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers]]'
 current_status: Partially Collapsed, Some Sections Active
 created: 2025-08-09
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.848026+00:00'
 related_entities:
 - '[[02_Worldbuilding/Lore/Continental War]]'
 - '[[02_Worldbuilding/Places/Port Meridian]]'
 - '[[02_Worldbuilding/Places/Crystalhaven]]'
 - '[[02_Worldbuilding/Places/Ironhold]]'
 ---
+
 
 
 

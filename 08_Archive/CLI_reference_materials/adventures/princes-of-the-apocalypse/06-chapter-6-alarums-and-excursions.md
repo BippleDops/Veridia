@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/pota
 aliases:
 - Chapter 6: Alarums and Excursions
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:32.251406+00:00'
+world: Both
+status: active
 ---
+
 # Chapter 6: Alarums and Excursions
 *Source: Princes of the Apocalypse, p. 148* 
 

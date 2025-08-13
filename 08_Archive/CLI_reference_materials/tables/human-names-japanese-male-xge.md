@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- "Human Names \u2013 Japanese, Male"
+- Human Names – Japanese, Male
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:31.345018+00:00'
+world: Both
+status: active
 ---
+
 # Human Names – Japanese, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 

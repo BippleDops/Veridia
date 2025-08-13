@@ -1,18 +1,21 @@
 ---
 tags:
+- aerial-realm
 - aethermoor
+- complete
+- cultural guide
+- culture
 - daily-life
 - routine
-- culture
 - worldbuilding
-- aerial-realm
 status: complete
 world: Aethermoor
 type: Cultural Guide
 created_by: claude
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.698445+00:00'
 ---
+
 
 # Aethermoor Daily Rhythms
 *Life Among the Clouds: The Aerial Dance of Daily Existence*

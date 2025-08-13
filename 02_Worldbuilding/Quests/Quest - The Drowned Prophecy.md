@@ -1,7 +1,9 @@
 ---
 tags:
+- active
 - both
 - investigation
+- lore
 - mid-level
 - political
 - quest
@@ -24,10 +26,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-12T14:31:02.374861+00:00'
+updated: '2025-08-13T01:18:34.479424+00:00'
 created: 2025-08-11
 status: active
 ---
+
 
 
 

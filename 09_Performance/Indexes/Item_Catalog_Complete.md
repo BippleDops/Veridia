@@ -1,10 +1,17 @@
 ---
-tags: [index, items]
-status: "complete"
-world: "Universal"
-type: "index"
+tags:
+- complete
+- index
+- items
+- universal
+status: complete
+world: Universal
+type: index
 obsidianUIMode: preview
+created: null
+updated: '2025-08-13T01:18:31.108211+00:00'
 ---
+
 
 # Item Catalog Complete
 

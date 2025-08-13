@@ -1,11 +1,19 @@
 ---
-title: "Crystal Bloom Transformation"
+title: Crystal Bloom Transformation
 type: transformation
-tags: [transformation, crystal, progression, character-options]
-status: "complete"
+tags:
+- both
+- character-options
+- complete
+- crystal
+- progression
+- transformation
+status: complete
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.131232+00:00'
+world: Both
 ---
+
 
 # Crystal Bloom
 *Living Crystal Growth Transformation*

@@ -1,13 +1,16 @@
 ---
 tags:
+- active
 - aethermoor
+- lore
 - quest
 type: Lore
 world: Aethermoor
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:03.693269+00:00'
+updated: '2025-08-13T01:18:35.596587+00:00'
 ---
+
 
 
 

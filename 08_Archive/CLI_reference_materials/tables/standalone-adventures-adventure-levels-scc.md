@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/scc
 aliases:
 - Standalone Adventures; Adventure Levels
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.559354+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Standalone Adventures; Adventure Levels
 *Source: Strixhaven: A Curriculum of Chaos p. 41* 
 

@@ -1,3 +1,13 @@
+---
+created: null
+updated: '2025-08-13T01:18:31.154418+00:00'
+world: Both
+status: active
+tags:
+- active
+- both
+---
+
 # NPC Roleplay Guide
 *Master the art of bringing Non-Player Characters to life*
 

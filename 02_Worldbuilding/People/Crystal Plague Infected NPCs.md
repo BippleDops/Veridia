@@ -1,11 +1,20 @@
 ---
-tags: [people, npcs, crystal, plague, infected, character-profiles]
+tags:
+- aquabyssos
+- character-profiles
+- complete
+- crystal
+- infected
+- npcs
+- people
+- plague
 type: people
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-12'
+updated: '2025-08-13T01:18:36.858165+00:00'
 ---
+
 
 # Crystal Plague Infected NPCs
 

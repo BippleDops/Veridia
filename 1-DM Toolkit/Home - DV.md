@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-12T14:31:02.280862+00:00'
+updated: '2025-08-13T01:18:31.111143+00:00'
 created: 2025-08-11
 status: active
 tags:
+- active
 - both
+- lore
 type: Lore
 ---
+
 
 
 

@@ -1,11 +1,18 @@
 ---
-tags: [background, aquabyssos, character-creation, player-resources]
-status: "complete"
-world: "Aquabyssos"
-type: "character-option"
+tags:
+- aquabyssos
+- background
+- character-creation
+- character-option
+- complete
+- player-resources
+status: complete
+world: Aquabyssos
+type: character-option
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.158959+00:00'
 ---
+
 
 # Depth Adapted Background
 *"The pressure doesn't break me - it makes me stronger."*

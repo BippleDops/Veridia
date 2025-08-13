@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
 aliases:
 - Charm of Heroism
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.314970+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Charm of Heroism
 
 This Charm allows you to give yourself the benefit of a [Potion of Heroism](/03_Mechanics/CLI/items/potion-of-heroism-xdmg.md) as a [Magic](/03_Mechanics/CLI/actions.md#Magic) action. Once you do so, the Charm vanishes from you.

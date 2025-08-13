@@ -5,6 +5,7 @@ tags:
 - emergence
 - event
 - lore
+- npc
 - transformation
 status: complete
 world: Aquabyssos
@@ -14,8 +15,9 @@ created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Events
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.966826+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-emergence-the-emergence.svg)

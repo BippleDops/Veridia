@@ -5,6 +5,7 @@ tags:
 - dangerous-region
 - environmental-hazard
 - environmental_hazard
+- location
 - memory-phenomena
 - temporal-distortion
 status: complete
@@ -19,8 +20,9 @@ discovery_date: 2985
 research_status: Ongoing Investigation
 created_by: Claude
 created: 2025-08-09
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.078958+00:00'
 ---
+
 
 
 > [!figure] View

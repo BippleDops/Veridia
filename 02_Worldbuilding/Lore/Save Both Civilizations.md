@@ -1,6 +1,7 @@
 ---
 tags:
 - alliance-building
+- both worlds
 - both-worlds
 - campaign-objective
 - civilization-preservation
@@ -17,13 +18,14 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.539190+00:00'
 objective_type: Ultimate Campaign Goal
 scope: Both Worlds
 urgency: Critical
 alliance_requirement: Essential
 threat_level: Existential
 ---
+
 
 
 

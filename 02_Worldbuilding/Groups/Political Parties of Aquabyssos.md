@@ -1,17 +1,20 @@
 ---
 tags:
 - aquabyssos
-- politics
-- parties
+- complete
 - democracy
-- parliament
+- group
 - intrigue
+- parliament
+- parties
+- politics
 type: Group
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.693771+00:00'
 ---
+
 
 # Political Parties of Aquabyssos
 *The Fractured Spectrum of Underwater Democracy*

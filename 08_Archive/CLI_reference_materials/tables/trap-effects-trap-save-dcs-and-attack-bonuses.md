@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Trap Effects; Trap Save DCs and Attack Bonuses
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.622965+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Trap Effects; Trap Save DCs and Attack Bonuses
 *Source: Dungeon Master's Guide p. 121. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 

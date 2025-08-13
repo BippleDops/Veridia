@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.773603+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/2
-  - ttrpg-cli/monster/environment/nine-hells
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/size/small
-  - ttrpg-cli/monster/type/fiend/devil
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/environment/nine-hells
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/fiend/devil
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Spined Devil
+- Spined Devil
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spined-devil-xmm-spined-devil-xmm.svg)

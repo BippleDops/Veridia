@@ -1,18 +1,23 @@
 ---
-type: location
+type: note
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 aliases:
 - Amulet of Proof against Detection and Location
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.940139+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Amulet of Proof against Detection and Location
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/amulet-of-proof-against-detection-and-location.webp#right)

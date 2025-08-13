@@ -3,10 +3,17 @@ title: Player Handout — S-018 Choir Pirates
 type: handout
 status: complete
 audience: player
-tags: [handout, encounter, sky]
+tags:
+- both
+- complete
+- encounter
+- handout
+- sky
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.203778+00:00'
+world: Both
 ---
+
 
 # Choir Pirates
 

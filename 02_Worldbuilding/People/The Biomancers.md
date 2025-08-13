@@ -1,7 +1,15 @@
 ---
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.027905+00:00'
+world: Both
+type: NPC
+status: active
+tags:
+- active
+- both
+- npc
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-biomancers-the-biomancers.svg)

@@ -1,18 +1,20 @@
 ---
 world: Both
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.926651+00:00'
 created: 2025-08-12
 status: complete
 tags:
 - both
 - complete
-- economy
-- crime
-- fraud
 - corruption
+- crime
+- economy
 - financial
+- fraud
+- lore
 type: Lore
 ---
+
 
 > [!figure] Economic Crimes
 ![](04_Resources/Assets/Symbols/economic-crime-methods.svg)

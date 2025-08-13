@@ -1,17 +1,19 @@
 ---
 world: Both
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.837652+00:00'
 created: 2025-08-12
 status: complete
 tags:
 - both
 - complete
-- economy
 - districts
-- prices
+- economy
 - geography
+- lore
+- prices
 type: Lore
 ---
+
 
 > [!figure] Economic Districts
 ![](04_Resources/Assets/Maps/economic-districts-profile.svg)

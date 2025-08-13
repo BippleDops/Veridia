@@ -6,6 +6,7 @@ tags:
 - espionage
 - international
 - intrigue/social
+- lore
 - political
 - quest
 level: 6-8
@@ -16,9 +17,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.466567+00:00'
 created: 2025-08-11
 ---
+
 
 
 

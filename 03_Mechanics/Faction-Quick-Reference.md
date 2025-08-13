@@ -1,12 +1,16 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.115247+00:00'
 created: 2025-08-11
-tags: [mechanic]
-status: "complete"
-world: "Aethermoor"
-type: "mechanic"
+tags:
+- aethermoor
+- complete
+- mechanic
+status: complete
+world: Aethermoor
+type: mechanic
 obsidianUIMode: preview
 ---
+
 
 
 # Faction-Quick-Reference

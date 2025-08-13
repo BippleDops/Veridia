@@ -1,5 +1,11 @@
 ---
-tags: [aquabyssos, shadow-conspiracy, secret-facility, headquarters, complete]
+tags:
+- aquabyssos
+- complete
+- headquarters
+- place
+- secret-facility
+- shadow-conspiracy
 type: Place
 world: Aquabyssos
 status: complete
@@ -8,8 +14,9 @@ location_type: Secret Headquarters
 security_level: Maximum
 access_restriction: First and Second Sphere Shadow Operatives Only
 created: '2025-08-12'
-updated: '2025-08-12'
+updated: '2025-08-13T01:18:36.533048+00:00'
 ---
+
 
 # The Umbral Nexus
 *Heart of the Shadow Web*

@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/race/gnome
 aliases:
 - Gnome
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.438951+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Gnome
 *Source: Player's Handbook (2024) p. 191. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](/03_Mechanics/CLI/races/img/gnome.webp#right)

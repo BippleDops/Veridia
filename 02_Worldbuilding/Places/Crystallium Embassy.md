@@ -1,17 +1,20 @@
 ---
 tags:
 - aquabyssos
-- embassy
-- diplomacy
+- complete
 - crystallium
+- diplomacy
+- embassy
 - espionage
+- location
 - technology
 type: Location
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.251003+00:00'
 ---
+
 
 # Crystallium Embassy
 *The Glass House of Transparent Secrets*

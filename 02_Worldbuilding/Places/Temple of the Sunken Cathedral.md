@@ -1,20 +1,22 @@
 ---
 tags:
+- aberrant-architecture
 - aquabyssos
 - complete
-- deep-mother
-- temple
 - cult
-- aberrant-architecture
+- deep-mother
 - eldritch-horror
+- places
+- temple
 - underwater
 status: complete
 world: Aquabyssos
 type: Places
 created_by: claude
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.258194+00:00'
 ---
+
 
 # Temple of the Sunken Cathedral
 

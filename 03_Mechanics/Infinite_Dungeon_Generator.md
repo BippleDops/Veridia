@@ -2,10 +2,17 @@
 title: Infinite Dungeon Generator
 type: mechanics
 status: complete
-tags: [mechanics, procedural, dungeon]
+tags:
+- both
+- complete
+- dungeon
+- mechanics
+- procedural
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.111071+00:00'
+world: Both
 ---
+
 
 # Infinite Dungeon Generator
 

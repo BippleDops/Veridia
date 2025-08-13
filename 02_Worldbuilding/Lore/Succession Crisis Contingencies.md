@@ -1,17 +1,20 @@
 ---
 tags:
 - aquabyssos
-- politics
-- succession
-- royalty
+- complete
 - crisis
 - intrigue
+- lore
+- politics
+- royalty
+- succession
 type: Lore
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:34.845311+00:00'
 ---
+
 
 # Succession Crisis Contingencies
 *The Fractured Crown and the Drowning Dynasty*

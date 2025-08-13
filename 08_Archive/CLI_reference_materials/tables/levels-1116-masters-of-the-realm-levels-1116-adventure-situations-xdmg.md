@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- "Levels 11\u201316": "Masters of the Realm; Levels 11\u201316 Adventure Situations"
+- Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.551409+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations
 *Source: Dungeon Master's Guide (2024) p. 106* 
 

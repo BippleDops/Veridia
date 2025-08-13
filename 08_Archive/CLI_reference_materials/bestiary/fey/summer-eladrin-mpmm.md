@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.608127+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/10
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/fey/elf
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fey/elf
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Summer Eladrin
+- Summer Eladrin
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-summer-eladrin-mpmm-summer-eladrin-mpmm.svg)

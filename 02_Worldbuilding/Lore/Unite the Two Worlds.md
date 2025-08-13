@@ -1,17 +1,25 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.389219+00:00'
 created: 2025-08-12
-tags: [Category/Lore]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
+tags:
+- aethermoor
+- category/lore
+- complete
+- lore
+status: complete
+world: Aethermoor
+type: lore
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "This lore entry explains a pivotal principle or event and its consequences for play."
+  screen_reader_summary: This lore entry explains a pivotal principle or event and
+    its consequences for play.
   content_warnings: []
-  pronunciation: "Unite the Two Worlds"
-  safety_tools: ["Lines & Veils", "X-Card"]
+  pronunciation: Unite the Two Worlds
+  safety_tools:
+  - Lines & Veils
+  - X-Card
 ---
+
 
 
 # Unite the Two Worlds

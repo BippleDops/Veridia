@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
 - Deities of the Forgotten Realms
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:31.282395+00:00'
+world: Both
+status: active
 ---
+
 # Deities of the Forgotten Realms
 *Source: Player's Handbook p. 293. Available in the Basic Rules (2014)* 
 

@@ -1,9 +1,12 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/age/futuristic
 - ttrpg-cli/item/age/modern
@@ -70,11 +73,13 @@ aliases:
 - Nine Lives Stealer Whip
 - Nine Lives Stealer Wooden Staff
 - Nine Lives Stealer Yklwa
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.634551+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Nine Lives Stealer
 *Very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/nine-lives-stealer.webp#right)

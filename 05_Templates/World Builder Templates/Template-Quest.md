@@ -1,7 +1,9 @@
 ---
 tags:
+- active
 - both
 - category/quest
+- lore
 MyContainer: []
 MyCategory: null
 obsidianUIMode: preview
@@ -15,11 +17,12 @@ questLootAvail: null
 questLookEarned: null
 NoteIcon: quest
 world: Both
-updated: '2025-08-12T14:31:02.334880+00:00'
+updated: '2025-08-13T01:18:31.193835+00:00'
 created: 2025-08-11
 status: active
 type: Lore
 ---
+
 
 
 

@@ -1,5 +1,6 @@
 ---
 tags:
+- active
 - aethermoor
 - aquabyssos
 - both
@@ -64,11 +65,12 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-12T14:31:05.485826+00:00'
+updated: '2025-08-13T01:18:36.913687+00:00'
 created: 2025-08-11
 status: active
 type: NPC
 ---
+
 
 
 

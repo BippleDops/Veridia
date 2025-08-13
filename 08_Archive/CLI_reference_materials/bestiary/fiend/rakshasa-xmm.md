@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.766779+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/13
-  - ttrpg-cli/monster/environment/nine-hells
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/fiend
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/13
+- ttrpg-cli/monster/environment/nine-hells
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fiend
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Rakshasa
+- Rakshasa
+world: Both
+status: active
 ---
+
 # [Rakshasa](3-Mechanics\CLI\bestiary\fiend/rakshasa-xmm.md)
 *Source: Monster Manual (2024) p. 253. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

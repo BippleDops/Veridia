@@ -4,6 +4,7 @@ tags:
 - complete
 - environmental-horror
 - infiltration
+- lore
 - mystery
 - quest
 - sabotage
@@ -16,8 +17,9 @@ duration: 2-3 sessions
 threat_level: extreme
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.503279+00:00'
 ---
+
 
 
 

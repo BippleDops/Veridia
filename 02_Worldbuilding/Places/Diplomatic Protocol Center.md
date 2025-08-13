@@ -1,16 +1,19 @@
 ---
 tags:
+- both worlds
 - both-worlds
-- place
+- complete
+- cultural-exchange
 - diplomacy
 - embassy
-- cultural-exchange
+- place
 type: Place
 world: Both Worlds
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.170709+00:00'
 ---
+
 
 ## Overview
 

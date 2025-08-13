@@ -1,19 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.538292+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/oota
-  - ttrpg-cli/monster/cr/1-2
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/beast
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/oota
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Fiendish Giant Spider
+- Fiendish Giant Spider
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fiendish-giant-spider-oota-fiendish-giant-spider-oota.svg)

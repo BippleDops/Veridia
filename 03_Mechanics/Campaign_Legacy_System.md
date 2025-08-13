@@ -2,10 +2,17 @@
 title: Campaign Legacy System
 type: mechanics
 status: complete
-tags: [mechanics, legacy, generations]
+tags:
+- both
+- complete
+- generations
+- legacy
+- mechanics
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.117750+00:00'
+world: Both
 ---
+
 
 # Campaign Legacy System
 

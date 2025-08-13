@@ -2,8 +2,10 @@
 MyContainer: []
 MyCategory: null
 tags:
+- active
 - both
 - category/people
+- lore
 obsidianUIMode: preview
 aliases:
 - characters other name
@@ -40,11 +42,12 @@ relationships:
   type: ally
   strength: 3
 world: Both
-updated: '2025-08-12T14:31:02.332350+00:00'
+updated: '2025-08-13T01:18:31.190995+00:00'
 created: 2025-08-11
 status: active
 type: Lore
 ---
+
 
 
 

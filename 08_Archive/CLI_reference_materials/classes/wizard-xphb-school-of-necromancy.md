@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/subclass/wizard/necromancy
 aliases:
 - School of Necromancy
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.134182+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # School of Necromancy
 *[Wizard](./wizard-xphb.md): Wizard Subclass*  
 *Source: Player's Handbook p. 118*  

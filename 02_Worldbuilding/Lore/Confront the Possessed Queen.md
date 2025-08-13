@@ -1,17 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.592482+00:00'
 created: 2025-08-11
-tags: [Category/Lore]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
+tags:
+- aethermoor
+- category/lore
+- complete
+- lore
+status: complete
+world: Aethermoor
+type: lore
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "This lore entry explains a pivotal principle or event and its consequences for play."
+  screen_reader_summary: This lore entry explains a pivotal principle or event and
+    its consequences for play.
   content_warnings: []
-  pronunciation: "Confront the Possessed Queen"
-  safety_tools: ["Lines & Veils", "X-Card"]
+  pronunciation: Confront the Possessed Queen
+  safety_tools:
+  - Lines & Veils
+  - X-Card
 ---
+
 
 
 # Confront the Possessed Queen

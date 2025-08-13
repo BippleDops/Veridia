@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/optional-feature/ei
 aliases:
 - Sculptor of Flesh
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.992925+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Sculptor of Flesh
 *Source: Player's Handbook p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 

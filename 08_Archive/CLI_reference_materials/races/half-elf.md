@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/race/half-elf
 aliases:
 - Half-Elf
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.429287+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Half-Elf
 *Source: Player's Handbook p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](/03_Mechanics/CLI/races/img/half-elf.webp#right)

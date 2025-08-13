@@ -1,20 +1,23 @@
 ---
 tags:
-- aquabyssos
 - aethermoor
+- aquabyssos
+- both
 - complete
-- deep-mother
 - cultists
-- transformation
-- npcs
+- deep-mother
 - eldritch-horror
+- npcs
+- people
+- transformation
 status: complete
 world: Both
 type: People
 created_by: claude
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.883544+00:00'
 ---
+
 
 # Deep Mother Cultist Profiles
 

@@ -1,13 +1,16 @@
 ---
 tags:
+- active
 - aquabyssos
 - cursed-natural-formation
+- lore
 type: Lore
 world: Aquabyssos
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:03.687136+00:00'
+updated: '2025-08-13T01:18:35.590159+00:00'
 ---
+
 
 
 

@@ -1,5 +1,6 @@
 ---
 tags:
+- active - category/people
 - active---category/people
 - both
 - corrupted
@@ -19,10 +20,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.008614+00:00'
 created: 2025-08-11
 type: NPC
 ---
+
 
 
 > [!figure] Portrait

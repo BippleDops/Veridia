@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.677034+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/8
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/swamp
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/plant
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/plant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Corpse Flower
+- Corpse Flower
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-corpse-flower-mpmm-corpse-flower-mpmm.svg)

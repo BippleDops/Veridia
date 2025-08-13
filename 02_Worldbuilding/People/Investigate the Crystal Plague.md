@@ -4,6 +4,7 @@ tags:
 - complete
 - crystal
 - investigation
+- npc
 - plague
 - quest
 status: complete
@@ -14,9 +15,10 @@ created: 2025-08-11
 MyContainer: None
 MyCategory: Investigation
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.834409+00:00'
 cr: '8'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-investigate-the-crystal-plague-investigate-the-crystal-plague.svg)

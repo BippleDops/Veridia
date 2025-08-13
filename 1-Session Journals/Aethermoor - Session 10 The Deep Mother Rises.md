@@ -15,10 +15,12 @@ quests_advanced:
 level: 6
 estimated_time: 4-5 hours
 tags:
+- active
 - aethermoor
 - aquabyssos
 - deep-mother
 - finale
+- lore
 - primordial
 - session
 - session-journal
@@ -27,10 +29,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-12T14:31:05.684607+00:00'
+updated: '2025-08-13T01:18:37.182142+00:00'
 created: 2025-08-11
 status: active
 ---
+
 
 
 

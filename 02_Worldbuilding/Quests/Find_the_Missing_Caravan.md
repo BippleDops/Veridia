@@ -2,6 +2,7 @@
 tags:
 - both
 - complete
+- lore
 - quest
 quest_giver: '[[02_Worldbuilding/People/Gareth_Ironforge]]'
 status: complete
@@ -42,10 +43,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:50.080993+00:00'
+updated: '2025-08-13T01:18:34.483277+00:00'
 created: '2025-08-11T13:08:50.080993+00:00'
 type: Lore
 ---
+
 
 
 

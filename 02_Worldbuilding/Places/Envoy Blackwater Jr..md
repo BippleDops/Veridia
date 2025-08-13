@@ -6,6 +6,7 @@ tags:
 - complete
 - diplomat
 - envoy
+- location
 - negotiator
 - noble
 - npc
@@ -15,7 +16,7 @@ world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.954680+00:00'
 character_type: Political Envoy
 faction: Blackwater Noble House
 class: Noble/Diplomat
@@ -28,6 +29,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-envoy-blackwater-jr-envoy-blackwater-jr.svg)

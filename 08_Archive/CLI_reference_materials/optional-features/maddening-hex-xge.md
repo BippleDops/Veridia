@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/optional-feature/ei
 aliases:
 - Maddening Hex
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.044444+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Maddening Hex
 *Source: Xanathar's Guide to Everything p. 57*  
 

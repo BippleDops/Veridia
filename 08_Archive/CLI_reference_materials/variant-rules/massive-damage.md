@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Massive Damage
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.024529+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Massive Damage
 *Source: Dungeon Master's Guide p. 273* 
 

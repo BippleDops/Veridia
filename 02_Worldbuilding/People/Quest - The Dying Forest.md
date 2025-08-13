@@ -5,6 +5,7 @@ tags:
 - corruption
 - death
 - forest
+- npc
 - quest
 status: complete
 world: Aethermoor
@@ -14,9 +15,10 @@ created: 2025-08-08 - Category/Quests
 MyContainer: None
 MyCategory: Environmental
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.847432+00:00'
 cr: '6'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-dying-forest-quest-the-dying-forest.svg)

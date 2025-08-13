@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/cos
 - ttrpg-cli/reward/charm
 aliases:
 - Dark Gift of Tarakamedes, the Grave Wyrm
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.324566+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Dark Gift of Tarakamedes, the Grave Wyrm
 *Charm*  
 

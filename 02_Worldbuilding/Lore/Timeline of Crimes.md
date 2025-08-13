@@ -1,6 +1,7 @@
 ---
 tags:
 - aquabyssos-aethermoor
+- both worlds
 - both-worlds
 - chronological-crimes
 - complete
@@ -23,8 +24,9 @@ timeline_span: From pre-history to current events, approximately 3,000+ years
 primary_users: Master Investigators, Temporal Researchers, Conspiracy Analysts
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.533787+00:00'
 ---
+
 
 
 

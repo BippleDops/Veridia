@@ -1,18 +1,20 @@
 ---
 world: Both
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.273525+00:00'
 created: 2025-08-12
 status: complete
 tags:
 - both
 - complete
 - economy
-- warfare
-- sanctions
+- lore
 - merchant-princes
 - politics
+- sanctions
+- warfare
 type: Lore
 ---
+
 
 > [!figure] Economic Warfare
 ![](04_Resources/Assets/Concepts/concept-economic-warfare-trade-sanctions.svg)

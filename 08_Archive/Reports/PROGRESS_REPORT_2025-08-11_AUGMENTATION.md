@@ -1,3 +1,15 @@
+---
+created: null
+updated: '2025-08-13T01:18:34.462645+00:00'
+world: Both
+type: Location
+status: draft
+tags:
+- both
+- draft
+- location
+---
+
 # Vault Augmentation Progress Report - 2025-08-11
 
 ## Executive Summary

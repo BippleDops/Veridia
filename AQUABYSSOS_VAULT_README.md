@@ -1,12 +1,17 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.092389+00:00'
 created: 2025-08-11
 tags:
-- readme
+- aquabyssos
+- guide
 - index
+- readme
+- stable
 type: Guide
 status: stable
+world: Aquabyssos
 ---
+
 
 
 # Aquabyssos / Aethermoor Vault

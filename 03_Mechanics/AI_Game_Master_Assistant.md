@@ -2,10 +2,17 @@
 title: AI Game Master Assistant
 type: mechanics
 status: complete
-tags: [mechanics, ai, gm-tools]
+tags:
+- ai
+- both
+- complete
+- gm-tools
+- mechanics
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.107671+00:00'
+world: Both
 ---
+
 
 # AI Game Master Assistant
 

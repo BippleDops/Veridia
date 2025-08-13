@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/mm
 aliases:
 - Resistances
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.537514+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Resistances
 *Source: Monster Manual p. 180* 
 

@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 aliases:
 - Starting Equipment at Higher Levels
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.581304+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Starting Equipment at Higher Levels
 *Source: Player's Handbook (2024) p. 43. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 

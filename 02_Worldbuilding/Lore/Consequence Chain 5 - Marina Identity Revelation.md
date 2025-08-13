@@ -2,22 +2,26 @@
 tags:
 - aethermoor
 - aquabyssos
+- both worlds
 - campaign-consequences
-- depth-guard
+- complete
 - cross-realm-bloodline
+- depth-guard
 - diplomatic-revolution
 - identity-crisis
+- lore
 type: Lore
 world: Both Worlds
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.397422+00:00'
 magnitude: 3
 visibility: 3
 primary_sessions:
-- "Session 04: The Silverscale Gambit"
-- "Session 08: Between Two Worlds"
+- 'Session 04: The Silverscale Gambit'
+- 'Session 08: Between Two Worlds'
 ---
+
 
 # Consequence Chain 5: Marina's Identity Revelation
 *When a Smuggler Became a Bridge Between Worlds*

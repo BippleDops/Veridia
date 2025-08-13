@@ -2,10 +2,16 @@
 title: New Fleet Template
 type: template
 status: complete
-tags: [template, fleets]
+tags:
+- both
+- complete
+- fleets
+- template
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.204799+00:00'
+world: Both
 ---
+
 
 # New Fleet Template
 

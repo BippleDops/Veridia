@@ -6,13 +6,15 @@ tags:
 - both
 - complete
 - factions
+- lore
 - player-resource
 - player_resource
 - politics
 created: 2025-08-11
 world: Both
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.157754+00:00'
 ---
+
 
 
 

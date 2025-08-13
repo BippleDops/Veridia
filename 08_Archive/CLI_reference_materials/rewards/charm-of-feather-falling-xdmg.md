@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
 aliases:
 - Charm of Feather Falling
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.328977+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Charm of Feather Falling
 
 This Charm grants you the benefits of a [Ring of Feather Falling](/03_Mechanics/CLI/items/ring-of-feather-falling-xdmg.md). These benefits last for 10 days, after which the Charm vanishes from you.

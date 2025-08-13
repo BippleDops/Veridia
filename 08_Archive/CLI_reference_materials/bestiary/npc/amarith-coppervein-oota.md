@@ -1,20 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.935526+00:00'
 created: 2025-08-11
 type: npc
 status: alive
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/oota
-  - ttrpg-cli/monster/cr/3
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/humanoid/any-race
+- alive
+- both
+- npc
+- ttrpg-cli/compendium/src/5e/oota
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Amarith Coppervein
+- Amarith Coppervein
+world: Both
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-amarith-coppervein-oota-amarith-coppervein-oota.svg)

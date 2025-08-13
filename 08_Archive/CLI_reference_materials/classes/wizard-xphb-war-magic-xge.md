@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/wizard/war
 aliases:
 - War Magic
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.150156+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # War Magic
 *[Wizard](./wizard-xphb.md): Wizard Subclass*  
 *Source: Xanathar's Guide to Everything p. 59*  

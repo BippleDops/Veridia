@@ -4,6 +4,7 @@ tags:
 - complete
 - crime
 - heist
+- location
 - quest
 - stealth
 status: complete
@@ -11,9 +12,10 @@ world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.427127+00:00'
 danger_level: Moderate
 ---
+
 
 
 

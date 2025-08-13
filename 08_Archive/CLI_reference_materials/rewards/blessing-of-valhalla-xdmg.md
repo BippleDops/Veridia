@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/blessing
 aliases:
 - Blessing of Valhalla
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.319333+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Blessing of Valhalla
 
 This Blessing grants you the power to summon spirit warriors, as if you are blowing a [silver Horn of Valhalla](/03_Mechanics/CLI/items/horn-of-valhalla-silver-xdmg.md). Once you use this Blessing, you can't use it again until 7 days have passed.

@@ -3,10 +3,17 @@ title: Player Handout — M-003 Duplicate Crew Arrival
 type: handout
 status: complete
 audience: player
-tags: [handout, encounter, merger]
+tags:
+- both
+- complete
+- encounter
+- handout
+- merger
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.201277+00:00'
+world: Both
 ---
+
 
 # Duplicate Crew Arrival
 

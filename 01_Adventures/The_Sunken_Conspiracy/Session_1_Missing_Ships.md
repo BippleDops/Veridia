@@ -1,22 +1,24 @@
 ---
-title: "The Sunken Conspiracy - Session 1: Missing Ships"
+title: 'The Sunken Conspiracy - Session 1: Missing Ships'
 type: session
 session_number: 1
-level_range: "1-3"
-duration: "4-5 hours"
-world: "Aquabyssos"
-adventure: "The Sunken Conspiracy"
+level_range: 1-3
+duration: 4-5 hours
+world: Aquabyssos
+adventure: The Sunken Conspiracy
 status: complete
 tags:
-  - session
-  - investigation
-  - mystery
-  - aquabyssos
-  - port-meridian
-  - conspiracy
+- aquabyssos
+- complete
+- conspiracy
+- investigation
+- mystery
+- port-meridian
+- session
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.161478+00:00'
 ---
+
 
 # Session 1: Missing Ships
 *The Sunken Conspiracy - Opening Investigation*

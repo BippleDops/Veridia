@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/cos
 aliases:
 - Chapter 9: Tsolenka Pass
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.236493+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Chapter 9: Tsolenka Pass
 *Source: Curse of Strahd, p. 157* 
 

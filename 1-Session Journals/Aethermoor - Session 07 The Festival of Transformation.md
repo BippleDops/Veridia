@@ -16,9 +16,11 @@ quests_advanced:
 level: 5
 estimated_time: 4 hours
 tags:
+- active
 - aethermoor
 - climax
 - festival
+- lore
 - session
 - session-journal
 - transformation
@@ -27,10 +29,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-12T14:31:05.689497+00:00'
+updated: '2025-08-13T01:18:37.187471+00:00'
 created: 2025-08-11
 status: active
 ---
+
 
 
 

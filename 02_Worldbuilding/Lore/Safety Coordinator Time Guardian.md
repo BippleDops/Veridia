@@ -1,7 +1,15 @@
 ---
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.878585+00:00'
+world: Both
+type: Lore
+status: active
+tags:
+- active
+- both
+- lore
 ---
+
 
 
 

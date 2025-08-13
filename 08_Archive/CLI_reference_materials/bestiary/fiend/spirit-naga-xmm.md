@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.756765+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/8
-  - ttrpg-cli/monster/environment/lower
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/fiend
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/environment/lower
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/fiend
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Spirit Naga
+- Spirit Naga
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spirit-naga-xmm-spirit-naga-xmm.svg)

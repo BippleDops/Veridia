@@ -3,10 +3,17 @@ title: Player Handout — Merger Vessels
 type: handout
 status: complete
 audience: player
-tags: [handout, vehicles, merger]
+tags:
+- both
+- complete
+- handout
+- merger
+- vehicles
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.192342+00:00'
+world: Both
 ---
+
 
 # Merger Vessels — What Impossible Looks Like
 

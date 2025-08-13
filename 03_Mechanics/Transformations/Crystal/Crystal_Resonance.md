@@ -1,11 +1,22 @@
 ---
-title: "Crystal Resonance Transformation"
+title: Crystal Resonance Transformation
 type: mechanics
-tags: [transformation, crystal, resonance, progression, body-horror, magic-enhancement]
-status: "complete"
+tags:
+- body-horror
+- both
+- complete
+- crystal
+- magic-enhancement
+- mechanics
+- progression
+- resonance
+- transformation
+status: complete
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.132487+00:00'
+world: Both
 ---
+
 
 # Crystal Resonance Transformation Path
 

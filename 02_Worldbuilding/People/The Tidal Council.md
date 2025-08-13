@@ -4,6 +4,7 @@ tags:
 - complete
 - council
 - government
+- npc
 - organization
 - tidal
 status: complete
@@ -14,8 +15,9 @@ created: 2025-08-08 - Category/Groups
 MyContainer: None
 MyCategory: Government
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.962333+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-tidal-council-the-tidal-council.svg)

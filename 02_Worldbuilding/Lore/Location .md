@@ -1,13 +1,16 @@
 ---
 tags:
+- active
 - both
+- lore
 - note
 type: Lore
 world: Both
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:02.978090+00:00'
+updated: '2025-08-13T01:18:35.019501+00:00'
 ---
+
 
 
 > [!figure] View

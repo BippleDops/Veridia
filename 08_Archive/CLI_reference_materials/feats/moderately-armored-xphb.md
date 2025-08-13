@@ -1,7 +1,13 @@
 ---
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.187455+00:00'
+world: Both
+status: active
+tags:
+- active
+- both
 ---
+
 
 
 ## Player-Facing Summary

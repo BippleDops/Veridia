@@ -3,10 +3,17 @@ title: Player Handout — D-019 Oracle Whale
 type: handout
 status: complete
 audience: player
-tags: [handout, encounter, depth]
+tags:
+- both
+- complete
+- depth
+- encounter
+- handout
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.201749+00:00'
+world: Both
 ---
+
 
 # Oracle Whale
 

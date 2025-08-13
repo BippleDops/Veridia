@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
@@ -20,9 +23,12 @@ aliases:
 - Whirlwind
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.087797+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Whirlwind
 *7th-level, Evocation*  
 ![](/03_Mechanics/CLI/spells/img/whirlwind.webp#right)

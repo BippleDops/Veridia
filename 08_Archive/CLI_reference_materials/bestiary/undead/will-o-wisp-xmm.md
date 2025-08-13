@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.839452+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/2
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/swamp
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/tiny
-  - ttrpg-cli/monster/type/undead
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Will-o'-Wisp
+- Will-o'-Wisp
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-will-o-wisp-xmm-v1-will-o-wisp-xmm.svg)

@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/greek
 - ttrpg-cli/domain/forge
@@ -10,9 +13,12 @@ aliases:
 - Hephaestus
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.745946+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Hephaestus
 *Source: Player's Handbook p. 298, Xanathar's Guide to Everything p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 

@@ -2,6 +2,7 @@
 tags:
 - aethermoor
 - aquabyssos
+- both aethermoor & aquabyssos
 - both-aethermoor-&-aquabyssos
 - complete
 - cross-realm
@@ -22,8 +23,9 @@ influence: Significant (controls cross-realm commerce)
 purpose: Profit from inter-dimensional trade
 created_by: auto-stub
 created: 2025-08-09
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.711399+00:00'
 ---
+
 
 
 > [!figure] Heraldry

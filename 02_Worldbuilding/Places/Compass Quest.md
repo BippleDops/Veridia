@@ -6,6 +6,7 @@ tags:
 - complete
 - depth-navigation
 - exploration
+- location
 - mystery
 - navigation
 - quest
@@ -21,8 +22,9 @@ required_skills:
 - Survival
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.099585+00:00'
 ---
+
 
 
 > [!figure] View

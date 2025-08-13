@@ -1,15 +1,29 @@
 ---
-tags: [adventure-session, winds-of-rebellion, aethermoor, levels-4-6, ancient-magic, spiritual-journey]
+tags:
+- active
+- adventure-session
+- aethermoor
+- ancient-magic
+- levels-4-6
+- spiritual-journey
+- winds-of-rebellion
 session_number: 5
-adventure: "Winds of Rebellion"
-level_range: "4-6"
-estimated_duration: "4-5 hours"
-session_type: "Mystical Journey & Alliance Building"
-world: "Aethermoor"
-themes: ["ancient-magic", "spiritual-trial", "cultural-heritage", "alliance-building", "power-sacrifice"]
+adventure: Winds of Rebellion
+level_range: 4-6
+estimated_duration: 4-5 hours
+session_type: Mystical Journey & Alliance Building
+world: Aethermoor
+themes:
+- ancient-magic
+- spiritual-trial
+- cultural-heritage
+- alliance-building
+- power-sacrifice
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.154474+00:00'
+status: active
 ---
+
 
 # Session 5: The Wind Singer
 ## A Winds of Rebellion Adventure Session

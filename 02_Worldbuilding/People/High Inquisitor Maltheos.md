@@ -1,16 +1,19 @@
 ---
 created: 2025-08-11
-updated: 2025-08-12
+updated: '2025-08-13T01:18:37.005137+00:00'
 world: Aethermoor
 type: NPC
 status: active
 tags:
+- active
 - aethermoor
-- religious-leader
+- anti-crystal
+- npc
 - political-opposition
 - purist-coalition
-- anti-crystal
+- religious-leader
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-high-inquisitor-maltheos-high-inquisitor-maltheos.svg)

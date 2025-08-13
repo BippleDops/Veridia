@@ -1,8 +1,10 @@
 ---
 tags:
+- active
 - aquabyssos
 - both
 - comprehensive
+- lore
 - mechanics
 - reference
 - survival
@@ -11,10 +13,11 @@ mechanic_type: Complete Survival System
 created: 2025-08-07
 version: 2.0
 world: Both
-updated: '2025-08-12T14:31:05.634424+00:00'
+updated: '2025-08-13T01:18:37.116274+00:00'
 status: active
 type: Lore
 ---
+
 
 
 

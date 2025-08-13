@@ -1,8 +1,10 @@
 ---
 type: Lore
 tags:
+- active
 - both
 - index
+- lore
 - navigation
 - performance
 aliases:
@@ -14,9 +16,10 @@ cssclasses:
 - wide-page
 - index-page
 world: Both
-updated: '2025-08-12T14:31:02.275731+00:00'
+updated: '2025-08-13T01:18:31.102796+00:00'
 status: active
 ---
+
 
 
 

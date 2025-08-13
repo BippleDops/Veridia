@@ -1,7 +1,9 @@
 ---
 tags:
+- active
 - aethermoor
 - crystal-plague
+- lore
 - queen-seraphina
 - session
 - seven-shards
@@ -57,10 +59,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-12T14:31:05.676265+00:00'
+updated: '2025-08-13T01:18:37.173172+00:00'
 created: 2025-08-11
 status: active
 ---
+
 
 
 

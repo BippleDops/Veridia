@@ -1,19 +1,24 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/ring
 aliases:
 - Ring of Animal Influence
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.134430+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Ring of Animal Influence
 *Ring, rare*  
 ![](/03_Mechanics/CLI/items/img/ring-of-animal-influence.webp#right)

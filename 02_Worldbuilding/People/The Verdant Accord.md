@@ -1,8 +1,11 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.880901+00:00'
 created: 2025-08-12
 tags:
-- Category/People
+- aethermoor
+- category/people
+- complete
+- npc
 status: complete
 world: Aethermoor
 type: npc
@@ -23,6 +26,7 @@ accessibility:
   - X-Card
   - Open Door
 ---
+
 
 
 

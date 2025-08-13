@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.497355+00:00'
 world: Both
 location_name: Harbor District
 location_type: Commercial Port
@@ -11,13 +11,15 @@ danger_level: 4
 status: active
 type: Location
 tags:
+- active
 - aquabyssos
 - both
-- harbor
 - commercial
 - dock
+- harbor
 - location
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-harbor-district-harbor-district.svg)

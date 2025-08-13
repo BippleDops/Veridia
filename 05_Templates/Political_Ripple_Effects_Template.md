@@ -1,15 +1,19 @@
 ---
 tags:
-- template
-- political-consequences
+- both
 - campaign-management
-- gm-tools
+- complete
 - faction-tracking
+- gm-tools
+- political-consequences
+- template
 type: Template
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:31.183626+00:00'
+world: Both
 ---
+
 
 # Political Ripple Effects Template
 *Tracking How Player Actions Reshape Power, Authority, and Governance*

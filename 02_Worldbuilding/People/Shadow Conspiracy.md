@@ -6,6 +6,7 @@ tags:
 - espionage
 - information-broker
 - mysterious
+- npc
 - organization
 - shadow
 - underground
@@ -18,10 +19,11 @@ size: Unknown (Estimated 500-2000 Members)
 location: '[[02_Worldbuilding/Places/The Shadow Markets]]'
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.953720+00:00'
 influence: Extensive
 secrecy_level: Maximum
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-investigate-shadow-conspiracy-investigate-shadow-conspiracy.svg)

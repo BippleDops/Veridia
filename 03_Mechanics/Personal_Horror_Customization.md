@@ -2,10 +2,17 @@
 title: Personal Horror Customization
 type: mechanics
 status: complete
-tags: [mechanics, horror, personal]
+tags:
+- both
+- complete
+- horror
+- mechanics
+- personal
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.097617+00:00'
+world: Both
 ---
+
 
 # Personal Horror Customization
 

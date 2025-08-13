@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deity
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/gnome
 - ttrpg-cli/domain/knowledge
@@ -10,9 +13,12 @@ aliases:
 - Callarduran Smoothhands
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.880188+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Callarduran Smoothhands
 *Source: Mordenkainen's Tome of Foes p. 111* 
 

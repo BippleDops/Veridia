@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.971769+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/16
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/construct
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/16
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Steel Predator
+- Steel Predator
+world: Both
+status: active
 ---
+
 # [Steel Predator](3-Mechanics\CLI\bestiary\construct/steel-predator-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*  
 

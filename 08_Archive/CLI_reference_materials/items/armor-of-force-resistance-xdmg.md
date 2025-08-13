@@ -1,9 +1,12 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/armor/heavy
 - ttrpg-cli/item/armor/light
@@ -25,11 +28,13 @@ aliases:
 - Scale Mail of Force Resistance
 - Splint Armor of Force Resistance
 - Studded Leather Armor of Force Resistance
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.008446+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-armor-of-force-resistance-xdmg-armor-of-force-resistance-xdmg.svg)

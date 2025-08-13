@@ -1,15 +1,30 @@
 ---
-tags: [adventure-session, winds-of-rebellion, aethermoor, levels-4-6, political-intrigue, court-politics]
+tags:
+- active
+- adventure-session
+- aethermoor
+- court-politics
+- levels-4-6
+- npc
+- political-intrigue
+- winds-of-rebellion
 session_number: 1
-adventure: "Winds of Rebellion"
-level_range: "4-6"
-estimated_duration: "4-5 hours"
-session_type: "Introduction & Social Intrigue"
-world: "Aethermoor"
-themes: ["first-impressions", "court-politics", "hidden-agendas", "faction-introductions"]
+adventure: Winds of Rebellion
+level_range: 4-6
+estimated_duration: 4-5 hours
+session_type: Introduction & Social Intrigue
+world: Aethermoor
+themes:
+- first-impressions
+- court-politics
+- hidden-agendas
+- faction-introductions
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.156118+00:00'
+type: NPC
+status: active
 ---
+
 
 # Session 1: The Queen's Summons
 ## A Winds of Rebellion Adventure Session

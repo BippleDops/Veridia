@@ -8,11 +8,13 @@ tags:
 - complete
 - gm-resource
 - gm_resource
+- lore
 - organization
 created: 2025-08-11
 world: Both
-updated: '2025-08-11T13:08:47.031206+00:00'
+updated: '2025-08-13T01:18:31.116814+00:00'
 ---
+
 
 
 

@@ -4,6 +4,7 @@ tags:
 - combat-training
 - complete
 - faction
+- group
 - martial-order
 - monastery
 - spiritual-discipline
@@ -19,11 +20,12 @@ influence: Regional (Martial arts community and spiritual seekers)
 wealth: Modest (Donations and training fees)
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.644515+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.png)

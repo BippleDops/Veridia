@@ -5,15 +5,17 @@ tags:
 - eel-handlers
 - faction
 - guild
+- location
 - specialized
 status: complete
 world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.517952+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-eel-keepers-the-eel-keepers.svg)

@@ -1,16 +1,19 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:37.190071+00:00'
 created: 2025-08-12
 tags:
 - aquabyssos
 - leaflet
+- lore
 - map
+- stable
 status: stable
 type: Lore
 aliases:
 - Aquabyssos Map Demo
 world: Aquabyssos
 ---
+
 
 
 

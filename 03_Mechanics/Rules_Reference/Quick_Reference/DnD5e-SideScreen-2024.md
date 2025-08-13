@@ -2,17 +2,20 @@
 type: Lore
 tags:
 - 5e
+- active
 - both
 - dm-screen
+- lore
 - note
 aliases:
 - Side Screen 2024
 created: 2025-07-23
 modified: 2025-07-23 12:39
 world: Both
-updated: '2025-08-12T14:31:05.646334+00:00'
+updated: '2025-08-13T01:18:37.135834+00:00'
 status: active
 ---
+
 
 
 

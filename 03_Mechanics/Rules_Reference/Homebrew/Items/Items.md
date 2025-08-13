@@ -1,15 +1,18 @@
 ---
 type: Item
 tags:
+- active
 - both
+- item
 - note
 aliases: []
 created: 2025-07-23
 modified: 2025-07-23 12:39
 world: Both
-updated: '2025-08-12T14:31:05.649748+00:00'
+updated: '2025-08-13T01:18:37.139126+00:00'
 status: active
 ---
+
 
 
 > [!figure] Item

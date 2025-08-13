@@ -1,10 +1,12 @@
 ---
 tags:
+- both worlds
 - both-worlds
 - complete
 - crime
 - heist
 - investigation
+- location
 - lore
 - magic
 - memory
@@ -16,7 +18,7 @@ world: Both Worlds
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.974237+00:00'
 lore_type: Criminal Technique
 scope: Magical Crime
 category: Mental Magic Applications
@@ -27,6 +29,7 @@ MyCategory: Unknown
 obsidianUIMode: preview
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View

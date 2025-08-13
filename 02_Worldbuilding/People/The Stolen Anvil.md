@@ -5,6 +5,7 @@ tags:
 - complete
 - crafting
 - lore
+- npc
 - theft
 status: complete
 world: Aquabyssos
@@ -14,8 +15,9 @@ created: 2025-08-11
 MyContainer: None
 MyCategory: Events
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.934411+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-stolen-anvil-the-stolen-anvil.svg)

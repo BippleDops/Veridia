@@ -2,10 +2,17 @@
 title: New Journey Event Template
 type: template
 status: complete
-tags: [template, travel, events]
+tags:
+- both
+- complete
+- events
+- template
+- travel
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.204324+00:00'
+world: Both
 ---
+
 
 # New Journey Event Template
 

@@ -1,10 +1,18 @@
 ---
 title: Session Packet — Aquabyssos Session 01
 type: session_packet
-session_number: 01
+session_number: 1
 campaign_name: Aquabyssos
 status: ready
+created: null
+updated: '2025-08-13T01:18:31.119929+00:00'
+world: Aquabyssos
+tags:
+- aquabyssos
+- ready
+- session_packet
 ---
+
 
 # Session Packet — Aquabyssos 01
 

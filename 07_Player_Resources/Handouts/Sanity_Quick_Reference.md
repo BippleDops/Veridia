@@ -1,11 +1,20 @@
 ---
-title: "Sanity Quick Reference"
+title: Sanity Quick Reference
 type: handout
-tags: [handout, player-resource, sanity, horror, rules]
-status: "complete"
+tags:
+- both
+- complete
+- handout
+- horror
+- player-resource
+- rules
+- sanity
+status: complete
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.160862+00:00'
+world: Both
 ---
+
 
 # Sanity Quick Reference
 *When Reality Breaks*

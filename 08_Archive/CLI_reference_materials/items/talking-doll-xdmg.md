@@ -1,19 +1,24 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/common
 aliases:
 - Talking Doll
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.297218+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Talking Doll
 *Wondrous item, common (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/talking-doll.webp#right)

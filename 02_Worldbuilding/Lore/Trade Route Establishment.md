@@ -1,18 +1,20 @@
 ---
 tags:
+- active
 - aquabyssos
-- lore
-- history
-- trade
 - commerce
-- maritime
 - exploration
+- history
+- lore
+- maritime
+- trade
 type: Lore
 world: Aquabyssos
 status: active
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.542488+00:00'
 ---
+
 
 # Trade Route Establishment
 *The Development of Maritime Commerce Networks (2456-634 PD)*

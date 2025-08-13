@@ -6,12 +6,14 @@ tags:
 - both
 - complete
 - index
+- lore
 - master-control
 - navigation
 created: 2025-08-11
 world: Both
-updated: 2025-08-11
+updated: '2025-08-13T01:18:31.093054+00:00'
 ---
+
 
 
 

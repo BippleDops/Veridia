@@ -1,20 +1,25 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/shield/
 aliases:
 - Shield of the Cavalier
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.785933+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Shield of the Cavalier
 *Armor ([shield](/03_Mechanics/CLI/items/shield-xphb.md)), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/shield-of-the-cavalier.webp#right)

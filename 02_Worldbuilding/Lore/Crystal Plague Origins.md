@@ -1,17 +1,19 @@
 ---
 tags:
+- active
 - aquabyssos
-- lore
-- history
 - crystal-plague
+- history
+- lore
 - medical-crisis
 - patient-zero
 type: Lore
 world: Aquabyssos
 status: active
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.079497+00:00'
 ---
+
 
 # Crystal Plague Origins
 *The Complete History of the Crystal Corruption Crisis (634-456 PD)*

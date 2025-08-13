@@ -9,6 +9,7 @@ tags:
 - group
 - guardians
 - military
+- npc
 status: complete
 world: Aquabyssos
 type: NPC
@@ -18,11 +19,12 @@ alignment: Lawful Neutral
 influence: High in Deep Ocean Territories
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.851410+00:00'
 MyContainer: None
 MyCategory: Group
 obsidianUIMode: preview
 ---
+
 
 
 > [!figure] Portrait

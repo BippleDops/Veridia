@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
 - Creating a Gnoll War Band; War Band Leadership
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.441119+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Creating a Gnoll War Band; War Band Leadership
 *Source: Volo's Guide to Monsters p. 39* 
 

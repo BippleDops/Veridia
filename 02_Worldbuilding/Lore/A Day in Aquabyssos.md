@@ -1,17 +1,20 @@
 ---
 tags:
 - aquabyssos
+- complete
+- cultural guide
+- culture
 - daily-life
 - routine
-- culture
 - worldbuilding
 status: complete
 world: Aquabyssos
 type: Cultural Guide
 created_by: claude
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.401552+00:00'
 ---
+
 
 # A Day in Aquabyssos
 *Life Beneath the Waves: Daily Rhythms of the Deep*

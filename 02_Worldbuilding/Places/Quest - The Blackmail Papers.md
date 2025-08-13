@@ -6,6 +6,7 @@ tags:
 - documents
 - espionage
 - intrigue
+- location
 - political-corruption
 - quest
 - secrets
@@ -15,7 +16,7 @@ world: Aethermoor
 type: Location
 created_by: auto-stub
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.296840+00:00'
 quest_type: Social Intrigue/Heist Adventure
 level_range: 4-9
 party_size: 3-6 characters
@@ -24,6 +25,7 @@ difficulty: Moderate to Hard
 primary_location: Port Meridian and Noble Quarter
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-quest-the-blackmail-papers-quest-the-blackmail-papers.svg)

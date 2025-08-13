@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/race/goliath
 aliases:
 - Goliath
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.438465+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Goliath
 *Source: Player's Handbook (2024) p. 192. Available in the Free Rules (2024)*  
 ![](/03_Mechanics/CLI/races/img/goliath.webp#right)

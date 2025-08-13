@@ -2,6 +2,7 @@
 tags:
 - aquabyssos
 - complete
+- location
 - marcus
 - npc
 - prison
@@ -15,9 +16,10 @@ created: 2025-08-12
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.124884+00:00'
 danger_level: Moderate
 ---
+
 
 
 

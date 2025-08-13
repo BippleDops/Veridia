@@ -3,6 +3,7 @@ tags:
 - ancient-evil
 - aquabyssos
 - complete
+- location
 - quest
 - ritual
 - supernatural
@@ -11,9 +12,10 @@ world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.439750+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-quieting-the-depths-quieting-the-depths.svg)

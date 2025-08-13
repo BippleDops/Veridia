@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.572884+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/1-2
-  - ttrpg-cli/monster/environment/coastal
-  - ttrpg-cli/monster/environment/swamp
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/beast
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/environment/coastal
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Crocodile
+- Crocodile
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-crocodile-xmm-crocodile-xmm.svg)

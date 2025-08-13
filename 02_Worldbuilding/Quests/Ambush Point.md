@@ -4,6 +4,7 @@ tags:
 - aquabyssos
 - complete
 - guerrilla-tactics
+- lore
 - quest
 - resistance-movement
 - shadow-conspiracy
@@ -16,11 +17,12 @@ quest_type: Tactical Combat & Resistance Operations
 estimated_sessions: 4-6
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.472845+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 
 

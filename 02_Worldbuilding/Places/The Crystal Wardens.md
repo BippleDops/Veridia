@@ -5,6 +5,7 @@ tags:
 - crystal
 - elite
 - guardian
+- location
 - magical
 - military
 - order
@@ -18,11 +19,12 @@ access: military_only
 danger_level: Moderate
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.217536+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
 
 
 

@@ -1,13 +1,16 @@
 ---
 tags:
+- active
 - aquabyssos
+- lore
 - organization
 type: Lore
 world: Aquabyssos
 status: active
 created: 2025-08-11
-updated: '2025-08-12T14:31:04.031639+00:00'
+updated: '2025-08-13T01:18:35.878964+00:00'
 ---
+
 
 
 

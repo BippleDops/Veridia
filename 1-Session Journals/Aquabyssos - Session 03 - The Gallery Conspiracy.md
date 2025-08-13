@@ -1,7 +1,9 @@
 ---
 tags:
+- active
 - aquabyssos
 - identity-horror
+- lore
 - parliament-shadows
 - session
 session: Session 03 Aquabyssos
@@ -56,10 +58,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: '2025-08-12T14:31:05.673448+00:00'
+updated: '2025-08-13T01:18:37.169752+00:00'
 created: 2025-08-11
 status: active
 ---
+
 
 
 

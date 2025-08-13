@@ -1,5 +1,6 @@
 ---
 tags:
+- active
 - both
 - city
 - gloom_gardens
@@ -16,10 +17,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-12T14:31:04.658916+00:00'
+updated: '2025-08-13T01:18:36.462254+00:00'
 status: active
 type: Location
 ---
+
 
 
 

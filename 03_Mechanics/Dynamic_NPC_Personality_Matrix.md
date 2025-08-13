@@ -2,10 +2,17 @@
 title: Dynamic NPC Personality Matrix
 type: mechanics
 status: complete
-tags: [mechanics, npc, personality]
+tags:
+- both
+- complete
+- mechanics
+- npc
+- personality
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.111586+00:00'
+world: Both
 ---
+
 
 # Dynamic NPC Personality Matrix
 

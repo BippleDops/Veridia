@@ -4,6 +4,7 @@ tags:
 - complete
 - horror
 - investigation
+- lore
 - memory-manipulation
 - order-drowned-star
 - psychological-warfare
@@ -16,8 +17,9 @@ duration: 3-4 sessions
 threat_level: high
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.507522+00:00'
 ---
+
 
 
 

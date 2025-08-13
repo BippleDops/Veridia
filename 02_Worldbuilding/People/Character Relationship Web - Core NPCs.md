@@ -1,15 +1,19 @@
 ---
 tags:
-- relationship-web
+- both
 - character-connections
-- plot-hooks
+- complete
 - npc-network
+- plot-hooks
+- relationship guide
+- relationship-web
 status: complete
 world: Both
 type: Relationship Guide
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:37.082042+00:00'
 ---
+
 
 # Character Relationship Web - Core NPCs
 *How the Major Characters' Backstories Interconnect and Create Plot Opportunities*

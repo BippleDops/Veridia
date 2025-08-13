@@ -1,20 +1,26 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.465775+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/30
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/gargantuan
-  - ttrpg-cli/monster/type/monstrosity/titan
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/30
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/monstrosity/titan
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Tarrasque
+- Tarrasque
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-tarrasque-xmm-tarrasque-xmm.svg)

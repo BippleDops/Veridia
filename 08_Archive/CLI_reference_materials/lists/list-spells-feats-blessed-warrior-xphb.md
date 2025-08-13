@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/spell/list/feat/blessed-warrior
 aliases:
 - Spells for Blessed Warrior
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:32.074683+00:00'
+world: Both
+status: active
 ---
+
 # Spells for Blessed Warrior
 
 ## Cantrip

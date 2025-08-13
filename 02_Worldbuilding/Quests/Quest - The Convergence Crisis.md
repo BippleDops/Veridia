@@ -1,11 +1,13 @@
 ---
 tags:
+- both aethermoor & aquabyssos
 - both-aethermoor-&-aquabyssos
 - complete
 - convergence
 - crisis-management
 - cross-realm
 - high-stakes
+- lore
 - quest
 - world-bridging
 status: complete
@@ -17,7 +19,7 @@ patron: '[[The Void Watchers]] or [[The Convergence Seekers]]'
 location: Multiple locations in both realms
 created_by: auto-stub
 created: 2025-08-09
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.488714+00:00'
 quest_length: Legendary Campaign Arc (40-50 sessions)
 sessions_per_act: 6-12 sessions each
 total_acts: 5
@@ -27,6 +29,7 @@ world_consequences: Reality-shaping
 prerequisite_level: 10
 content_warning: Contains themes of reality alteration and existential choice
 ---
+
 
 
 

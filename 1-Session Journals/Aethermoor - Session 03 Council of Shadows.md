@@ -2,6 +2,7 @@
 tags:
 - aethermoor
 - intrigue
+- lore
 - murder
 - political
 - prepared
@@ -29,9 +30,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.166488+00:00'
 created: 2025-08-11
 ---
+
 
 
 

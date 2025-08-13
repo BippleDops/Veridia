@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Artifact Properties; Major Beneficial Properties
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:31.342896+00:00'
+world: Both
+status: active
 ---
+
 # Artifact Properties; Major Beneficial Properties
 *Source: Dungeon Master's Guide p. 219* 
 

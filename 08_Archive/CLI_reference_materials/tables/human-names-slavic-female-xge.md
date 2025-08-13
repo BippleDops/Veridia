@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- "Human Names \u2013 Slavic, Female"
+- Human Names – Slavic, Female
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.372176+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Human Names – Slavic, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 

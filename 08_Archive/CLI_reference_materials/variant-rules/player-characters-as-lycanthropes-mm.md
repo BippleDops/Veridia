@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/mm
 aliases:
 - Player Characters as Lycanthropes
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.972802+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Player Characters as Lycanthropes
 *Source: Monster Manual p. 207, Curse of Strahd p. 242, Waterdeep: Dungeon of the Mad Mage p. 317, Van Richten's Guide to Ravenloft p. 237* 
 

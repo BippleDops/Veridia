@@ -1,15 +1,18 @@
 ---
 tags:
+- active
 - both
 - category/galaxy
+- lore
 obsidianUIMode: preview
 MyContainer: null
 world: Both
-updated: '2025-08-12T14:31:02.330196+00:00'
+updated: '2025-08-13T01:18:31.188986+00:00'
 created: 2025-08-11
 status: active
 type: Lore
 ---
+
 
 
 

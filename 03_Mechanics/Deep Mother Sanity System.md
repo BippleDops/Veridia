@@ -1,20 +1,22 @@
 ---
 tags:
-- aquabyssos
 - aethermoor
+- aquabyssos
+- both
 - complete
 - deep-mother
-- sanity
-- madness
 - horror
+- madness
 - mechanics
+- sanity
 status: complete
 world: Both
 type: Mechanics
 created_by: claude
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:37.106283+00:00'
 ---
+
 
 # Deep Mother Sanity System
 

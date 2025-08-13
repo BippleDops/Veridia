@@ -2,10 +2,18 @@
 title: Merger Vessels Catalog
 type: mechanics
 status: complete
-tags: [mechanics, vehicles, merger, catalog]
+tags:
+- both
+- catalog
+- complete
+- mechanics
+- merger
+- vehicles
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.144810+00:00'
+world: Both
 ---
+
 
 # Merger Vessels Catalog (36)
 

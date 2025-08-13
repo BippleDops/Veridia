@@ -1,16 +1,19 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.756892+00:00'
 created: 2025-08-12
 tags:
-  - lore
-  - linguistics
-  - aquabyssos
-  - communication
+- aquabyssos
+- communication
+- complete
+- cultural_system
+- linguistics
+- lore
 status: complete
 world: Aquabyssos
 type: cultural_system
 obsidianUIMode: preview
 ---
+
 
 # Depth Speak Variations
 

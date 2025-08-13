@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
 aliases:
 - Charm of Vitality
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.328435+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Charm of Vitality
 
 This Charm allows you to give yourself the benefit of a [Potion of Vitality](/03_Mechanics/CLI/items/potion-of-vitality-xdmg.md) as a [Magic](/03_Mechanics/CLI/actions.md#Magic) action. Once you do so, the Charm vanishes from you.

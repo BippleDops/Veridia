@@ -1,15 +1,19 @@
 ---
 tags:
-- template
-- economic-consequences
+- both
 - campaign-management
+- complete
+- economic-consequences
 - gm-tools
+- template
 - trade-tracking
 type: Template
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:31.184120+00:00'
+world: Both
 ---
+
 
 # Economic Ripple Effects Template
 *Tracking How Player Actions Reshape Markets, Trade, and Wealth*

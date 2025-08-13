@@ -3,6 +3,7 @@ tags:
 - aethermoor
 - alliance
 - aquabyssos
+- both worlds
 - both-worlds
 - complete
 - cooperation
@@ -16,13 +17,14 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.510517+00:00'
 organization_type: International Alliance
 scope: Both Worlds
 authority: Diplomatic/Advisory
 current_status: Active
 leadership: Joint Council
 ---
+
 
 
 

@@ -1,17 +1,19 @@
 ---
 tags:
+- active merger possibility
 - active-merger-possibility
 - aethermoor
 - aquabyssos
 - both
 - campaign-guide
 - connections
+- lore
 - worldbuilding
 world_type: Parallel Realms
 connection_type: Dimensional Convergence
 status: Active Merger Possibility
 created: 2025-08-07
-updated: 2025-08-11
+updated: '2025-08-13T01:18:34.791034+00:00'
 aliases:
 - World Connection Guide
 - Realm Merger Guide
@@ -19,6 +21,7 @@ aliases:
 world: Both
 type: Lore
 ---
+
 
 
 

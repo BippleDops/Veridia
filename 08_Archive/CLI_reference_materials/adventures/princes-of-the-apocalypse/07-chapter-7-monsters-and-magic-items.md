@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/pota
 aliases:
 - Chapter 7: Monsters and Magic Items
 type: note
 created: 2025-07-23
 modified: 2025-07-23 12:39
+updated: '2025-08-13T01:18:32.248146+00:00'
+world: Both
+status: active
 ---
+
 # Chapter 7: Monsters and Magic Items
 *Source: Princes of the Apocalypse, p. 188* 
 

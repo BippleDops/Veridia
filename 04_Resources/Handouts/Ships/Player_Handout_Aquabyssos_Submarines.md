@@ -3,10 +3,17 @@ title: Player Handout — Aquabyssos Submarines
 type: handout
 status: complete
 audience: player
-tags: [handout, vehicles, submarines]
+tags:
+- aquabyssos
+- complete
+- handout
+- submarines
+- vehicles
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.191209+00:00'
+world: Aquabyssos
 ---
+
 
 # Aquabyssos Submarines — Visual & Vibe Guide
 

@@ -1,17 +1,19 @@
 ---
 world: Both
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.552832+00:00'
 created: 2025-08-12
 status: complete
 tags:
 - both
 - complete
-- economy
-- trade-routes
-- merchant-princes
 - cross-realm
+- economy
+- lore
+- merchant-princes
+- trade-routes
 type: Lore
 ---
+
 
 > [!figure] Map
 ![](04_Resources/Assets/Maps/map-trade-routes-the-grand-trade-routes.svg)

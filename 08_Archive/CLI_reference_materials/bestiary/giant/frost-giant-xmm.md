@@ -1,21 +1,27 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.513505+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/8
-  - ttrpg-cli/monster/environment/arctic
-  - ttrpg-cli/monster/environment/mountain
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/giant
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/environment/arctic
+- ttrpg-cli/monster/environment/mountain
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Frost Giant
+- Frost Giant
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-frost-giant-xmm-frost-giant-xmm.svg)

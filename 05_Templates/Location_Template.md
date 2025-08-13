@@ -1,14 +1,16 @@
 ---
 tags:
+- active
+- additional_tags
+- aquabyssos or aethermoor
 - location
-- WORLD_NAME
-- ADDITIONAL_TAGS
+- world_name
 status: active
 world: Aquabyssos OR Aethermoor
 type: location
 created_by: YOUR_NAME
 created: 2025-08-11
-updated: '2025-08-12T14:31:02.325521+00:00'
+updated: '2025-08-13T01:18:31.182480+00:00'
 location_type: TYPE (e.g., City, Dungeon, Wilderness)
 parent_location: '[[Parent_Location_Name]]'
 depth: Surface/Shallow/Medium/Deep/Abyss
@@ -16,6 +18,7 @@ danger_level: 1-6
 population: ~NUMBER and demographics
 government: Government type and leadership
 ---
+
 
 
 # Location Name

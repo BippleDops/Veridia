@@ -2,6 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/level/3rd-level
@@ -12,9 +15,12 @@ aliases:
 - Blinding Smite
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.563938+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Blinding Smite
 *3rd-level, Evocation*  
 

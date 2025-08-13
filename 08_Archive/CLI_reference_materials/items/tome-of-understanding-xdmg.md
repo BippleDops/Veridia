@@ -1,18 +1,23 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
 aliases:
 - Tome of Understanding
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.165361+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Tome of Understanding
 *Wondrous item, very rare*  
 ![](/03_Mechanics/CLI/items/img/tome-of-understanding.webp#right)

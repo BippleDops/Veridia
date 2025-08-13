@@ -7,13 +7,15 @@ tags:
 - both
 - character-progression
 - complete
+- lore
 - mechanics
 - pressure
 - transformation
 created: 2025-08-11
 world: Both
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.122026+00:00'
 ---
+
 
 
 

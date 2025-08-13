@@ -2,14 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xphb
 aliases:
 - Proficiency Bonus
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:31.594837+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Proficiency Bonus
 *Source: Player's Handbook (2024) p. 13. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 

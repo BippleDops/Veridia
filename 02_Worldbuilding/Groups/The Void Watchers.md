@@ -1,6 +1,7 @@
 ---
 tags:
 - ancient
+- both aethermoor & aquabyssos
 - both-aethermoor-&-aquabyssos
 - complete
 - cross-realm
@@ -21,8 +22,9 @@ influence: Hidden but Critical
 purpose: Prevent reality collapse and dimensional instability
 created_by: auto-stub
 created: 2025-08-09
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.680537+00:00'
 ---
+
 
 
 > [!figure] Heraldry

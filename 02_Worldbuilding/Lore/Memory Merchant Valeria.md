@@ -1,8 +1,11 @@
 ---
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.813976+00:00'
 created: 2025-08-12
 tags:
-- Category/Lore
+- aquabyssos
+- category/lore
+- complete
+- lore
 status: complete
 world: Aquabyssos
 type: lore
@@ -16,6 +19,7 @@ accessibility:
   - Lines & Veils
   - X-Card
 ---
+
 
 
 

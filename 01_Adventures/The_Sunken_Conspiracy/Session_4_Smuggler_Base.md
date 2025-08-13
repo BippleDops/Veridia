@@ -1,22 +1,24 @@
 ---
-title: "The Sunken Conspiracy - Session 4: Smuggler Base"
+title: 'The Sunken Conspiracy - Session 4: Smuggler Base'
 type: session
 session_number: 4
-level_range: "2-3"
-duration: "4-5 hours"
-world: "Aquabyssos"
-adventure: "The Sunken Conspiracy"
+level_range: 2-3
+duration: 4-5 hours
+world: Aquabyssos
+adventure: The Sunken Conspiracy
 status: complete
 tags:
-  - session
-  - infiltration
-  - exploration
-  - conspiracy
-  - aquabyssos
-  - ancient-facility
+- ancient-facility
+- aquabyssos
+- complete
+- conspiracy
+- exploration
+- infiltration
+- session
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.157839+00:00'
 ---
+
 
 # Session 4: Smuggler Base
 *The Sunken Conspiracy - Infiltrating the Hidden Base*

@@ -1,17 +1,25 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.327515+00:00'
 created: 2025-08-11
-tags: [Category/Lore]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
+tags:
+- aquabyssos
+- category/lore
+- complete
+- lore
+status: complete
+world: Aquabyssos
+type: lore
 obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: "This lore entry explains a pivotal principle or event and its consequences for play."
+  screen_reader_summary: This lore entry explains a pivotal principle or event and
+    its consequences for play.
   content_warnings: []
-  pronunciation: "Location Name"
-  safety_tools: ["Lines & Veils", "X-Card"]
+  pronunciation: Location Name
+  safety_tools:
+  - Lines & Veils
+  - X-Card
 ---
+
 
 
 # Location Name

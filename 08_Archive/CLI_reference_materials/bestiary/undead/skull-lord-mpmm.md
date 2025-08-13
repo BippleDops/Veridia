@@ -1,22 +1,28 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:32.829776+00:00'
 created: 2025-08-11
 type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/15
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/environment/swamp
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/undead/sorcerer
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/15
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead/sorcerer
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Skull Lord
+- Skull Lord
+world: Both
+status: active
 ---
+
 # [Skull Lord](3-Mechanics\CLI\bestiary\undead/skull-lord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230*  
 

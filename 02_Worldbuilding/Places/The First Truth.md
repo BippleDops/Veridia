@@ -2,6 +2,7 @@
 tags:
 - aquabyssos
 - complete
+- location
 - lore
 - philosophy
 - revelation
@@ -14,9 +15,10 @@ created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Philosophy
 obsidianUIMode: preview
-updated: 2025-08-11
+updated: '2025-08-13T01:18:36.029673+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-first-truth-the-first-truth.svg)

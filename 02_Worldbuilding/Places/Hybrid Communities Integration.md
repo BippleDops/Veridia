@@ -1,16 +1,19 @@
 ---
 tags:
+- both worlds
 - both-worlds
-- place
-- hybrid-species
 - community
+- complete
+- hybrid-species
 - integration
+- place
 type: Place
 world: Both Worlds
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:36.435583+00:00'
 ---
+
 
 ## Overview
 

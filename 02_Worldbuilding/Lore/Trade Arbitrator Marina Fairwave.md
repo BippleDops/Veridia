@@ -1,13 +1,15 @@
 ---
 tags:
+- active
 - both
 - lore
 type: Lore
 world: Both
 status: active
 created: '2025-08-11T13:08:45.821601+00:00'
-updated: '2025-08-12T14:31:02.427894+00:00'
+updated: '2025-08-13T01:18:34.537063+00:00'
 ---
+
 
 
 

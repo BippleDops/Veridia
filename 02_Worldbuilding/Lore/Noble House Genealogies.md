@@ -1,16 +1,19 @@
 ---
 tags:
 - aquabyssos
-- noble-houses
+- complete
 - genealogy
+- lore
+- noble-houses
 - politics
 - relationships
 type: Lore
 world: Aquabyssos
 status: complete
 created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-13T01:18:35.037054+00:00'
 ---
+
 
 # Noble House Genealogies
 *"Blood remembers what the mind forgets"*

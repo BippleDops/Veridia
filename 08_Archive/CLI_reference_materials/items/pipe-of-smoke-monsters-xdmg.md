@@ -1,17 +1,22 @@
 ---
-type: monster
+type: note
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
 aliases:
 - Pipe of Smoke Monsters
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:34.282570+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Pipe of Smoke Monsters
 *Wondrous item, common*  
 ![](/03_Mechanics/CLI/items/img/pipe-of-smoke-monsters.webp#right)

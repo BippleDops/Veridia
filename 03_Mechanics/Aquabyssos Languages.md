@@ -1,13 +1,16 @@
 ---
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.118333+00:00'
 created: 2025-08-11
 tags:
+- aquabyssos
+- complete
 - mechanic
 status: complete
 world: Aquabyssos
 type: mechanic
 obsidianUIMode: preview
 ---
+
 
 
 

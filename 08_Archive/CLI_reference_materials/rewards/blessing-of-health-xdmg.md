@@ -2,15 +2,21 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/blessing
 aliases:
 - Blessing of Health
 type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:32.324055+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Blessing of Health
 
 Your Constitution score increases by 2, up to a maximum of 22.

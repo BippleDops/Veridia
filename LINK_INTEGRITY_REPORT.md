@@ -1,3 +1,15 @@
+---
+created: null
+updated: '2025-08-13T01:18:31.083926+00:00'
+world: Both
+type: Location
+status: draft
+tags:
+- both
+- draft
+- location
+---
+
 # Link Integrity Report
 
 **Generated:** 2025-08-12  

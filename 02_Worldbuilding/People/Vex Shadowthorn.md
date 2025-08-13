@@ -1,5 +1,6 @@
 ---
 tags:
+- active
 - both
 - category/people
 - npc
@@ -13,11 +14,12 @@ current_hp: 45
 max_hp: 68
 ac: 16
 world: Both
-updated: '2025-08-12T14:31:05.613469+00:00'
+updated: '2025-08-13T01:18:37.083056+00:00'
 created: 2025-08-11
 status: active
 type: NPC
 ---
+
 
 
 

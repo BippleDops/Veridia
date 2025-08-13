@@ -3,13 +3,17 @@ title: Complete Temporal Mechanics System
 type: mechanics
 status: complete
 tags:
-- mechanics
-- time
-- paradox
+- both
 - combat
+- complete
+- mechanics
+- paradox
+- time
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-13T01:18:37.120118+00:00'
+world: Both
 ---
+
 
 
 # Complete Temporal Mechanics System

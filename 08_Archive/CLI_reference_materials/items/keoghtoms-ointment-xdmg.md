@@ -1,18 +1,23 @@
 ---
-type: item
+type: note
 attunement: false
 obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 aliases:
 - Keoghtom's Ointment
-type: note
 created: 2025-07-23
-updated: 2025-07-23
+updated: '2025-08-13T01:18:33.940733+00:00'
 modified: 2025-07-23 12:39
+world: Both
+status: active
 ---
+
 # Keoghtom's Ointment
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/keoghtoms-ointment.webp#right)

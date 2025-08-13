@@ -2,6 +2,7 @@
 tags:
 - aethermoor
 - aquabyssos
+- both worlds
 - both-worlds
 - complete
 - destruction
@@ -18,12 +19,13 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-13T01:18:35.789554+00:00'
 school: Evocation
 focus: Destructive and Energy Manipulation Magic
 complexity: Fundamental to Catastrophic
 practitioners: Battle mages, energy manipulators, destroyers
 ---
+
 
 
 

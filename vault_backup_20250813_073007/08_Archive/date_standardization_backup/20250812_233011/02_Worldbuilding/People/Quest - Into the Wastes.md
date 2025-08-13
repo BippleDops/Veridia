@@ -1,0 +1,94 @@
+---
+updated: '2025-08-13T01:18:36.998745+00:00'
+created: 2025-08-11
+tags:
+- aethermoor
+- category/people
+- complete
+- npc
+status: complete
+world: Aethermoor
+type: npc
+obsidianUIMode: preview
+char_status: Alive
+char_race: Human
+char_gender: Unknown
+char_age: Adult
+accessibility:
+  screen_reader_summary: Quest - Into the Wastes is an NPC entangled with faction
+    politics and memory economies. Contains hooks, tactics, and relationships.
+  content_warnings:
+  - coercion
+  - memory manipulation
+  pronunciation: Quest - Into the Wastes
+  safety_tools:
+  - Lines & Veils
+  - X-Card
+  - Open Door
+---
+
+
+
+
+
+
+# Quest - Into the Wastes
+
+![[04_Resources/Assets/Art/NPCs/Quest_-_Into_the_Wastes.png|Quest - Into the Wastes Portrait]]
+
+## Role and Motive
+Quest - Into the Wastes moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
+
+- Ideal: Stability through controlled risk.
+- Bond: A family archive tied to [[02_Worldbuilding/Lore/The Lighthouse of Storms.md|The Lighthouse of Storms]].
+- Flaw: Overconfidence in leverage; underestimates zealots and true believers.
+
+## Tactics and Traits
+- Conversational Disarm: First parley each day imposes disadvantage on Insight checks to read their tells.
+- Ledger of Debts: Knows a favor owed by agents linked to [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]].
+- Contingency: Keeps a sealed route toward [[02_Worldbuilding/Quests/The Whispering Expanse.md|The Whispering Expanse]] if negotiations sour.
+
+## For the Table (Use Now)
+- Opening Line: “Prices rise with fear; calm your breath and we can afford the truth.”
+- Quick Offers: passage papers, rumor bundles, bonded cargo, introductions to a discreet artificer.
+- Failure Still Progresses: Even when rebuffed, Quest - Into the Wastes sends a warning of a raid that creates a time-sensitive window.
+
+## Relationships (score -3..+3)
+- Pearl Guard customs captain: 0 (mutual irritation)
+- Coral Throne Syndicate quartermaster: +2 (profitable ties)
+- Verdant Accord observer: -1 (ideological friction)
+
+## Hooks to the Main Campaign
+- Offers a map shard pointing toward [[02_Worldbuilding/Lore/The Lighthouse of Storms.md|The Lighthouse of Storms]].
+- Brokers a ceasefire to enable [[02_Worldbuilding/Quests/The Whispering Expanse.md|The Whispering Expanse]].
+- Sells a rumor naming [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] as the true buyer behind a recent theft.
+
+## Cross-References
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms.md|The Lighthouse of Storms]]
+- [[02_Worldbuilding/Quests/The Whispering Expanse.md|The Whispering Expanse]]
+- [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
+
+## Player-Facing Summary
+
+Quest   Into the Wastes is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Quest   Into the Wastes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   Into the Wastes.
+
+## Adventure Hooks
+
+- A rumor ties Quest   Into the Wastes to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Quest   Into the Wastes to avert a public scandal.
+- A map overlay reveals a hidden approach to Quest   Into the Wastes active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->
+
+
+## Connections
+
+- [[Captain Thaddeus Blackwater]]

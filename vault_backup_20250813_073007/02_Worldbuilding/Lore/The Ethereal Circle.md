@@ -1,0 +1,39 @@
+---
+created: '2025-08-11'
+status: complete
+tags:
+- content/location
+- content/lore
+- status/in-progress
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:38.852503'
+world: Aethermoor
+---
+
+
+
+
+## Overview
+
+TODO
+
+## Player-Facing Summary
+
+The Ethereal Circle is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Ethereal Circle as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Ethereal Circle.
+
+## Adventure Hooks
+
+- A rumor ties The Ethereal Circle to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Ethereal Circle to avert a public scandal.
+- A map overlay reveals a hidden approach to The Ethereal Circle active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

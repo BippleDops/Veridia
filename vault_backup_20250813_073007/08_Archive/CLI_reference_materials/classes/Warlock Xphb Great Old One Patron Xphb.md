@@ -1,0 +1,126 @@
+---
+aliases:
+- Great Old One Patron
+created: 2025-07-23
+cssclasses: json5e-class
+modified: 2025-07-23 12:39
+obsidianUIMode: preview
+status: active
+tags:
+- note
+- status/archived
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+- world/both
+type: note
+updated: '2025-08-12T23:37:34.392456'
+world: Both
+---
+
+# Great Old One Patron
+*[[./warlock-xphb|Warlock]]: Warlock Subclass*  
+*Source: Player's Handbook (2024) p. 162*  
+
+> [!tldr] Class and Feature Progression
+> 
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='3'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Great Old One Patron (Level 3)' class='internal-link'>Great Old One Patron</a></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Clairvoyant Combatant (Level 6)' class='internal-link'>Clairvoyant Combatant</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Eldritch Hex (Level 10)' class='internal-link'>Eldritch Hex</a>, <a href='#Thought Shield (Level 10)' class='internal-link'>Thought Shield</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Create Thrall (Level 14)' class='internal-link'>Create Thrall</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> </tbody></table>
+
+^class-progression
+
+
+## Class Features
+
+### Great Old One Patron (Level 3)
+
+*Unearth Forbidden Lore of Ineffable Beings*
+
+When you choose this subclass, you might bind yourself to an unspeakable being from the Far Realm or an elder god—a being such as Tharizdun, the Chained God; Zargon, the Returner; Hadar, the Dark Hunger; or Great Cthulhu. Or you might invoke several entities without yoking yourself to one. The motives of these beings are incomprehensible, and the Great Old One might be indifferent to your existence. But the secrets you've learned nevertheless allow you to draw strange magic from it.
+
+### Great Old One Spells (Level 3)
+
+The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Great Old One Spells table, you thereafter always have the listed spells prepared.
+
+**Great Old One Spells**
+
+| Warlock Level | Spells |
+|---------------|--------|
+| 3 | [[/03_Mechanics/CLI/spells/detect-thoughts-xphb|Detect Thoughts]], [[/03_Mechanics/CLI/spells/dissonant-whispers-xphb|Dissonant Whispers]], [[/03_Mechanics/CLI/spells/phantasmal-force-xphb|Phantasmal Force]], [[/03_Mechanics/CLI/spells/tashas-hideous-laughter-xphb|Tasha's Hideous Laughter]] |
+| 5 | [[/03_Mechanics/CLI/spells/clairvoyance-xphb|Clairvoyance]], [[/03_Mechanics/CLI/spells/hunger-of-hadar-xphb|Hunger of Hadar]] |
+| 7 | [[/03_Mechanics/CLI/spells/confusion-xphb|Confusion]], [[/03_Mechanics/CLI/spells/summon-aberration-xphb|Summon Aberration]] |
+| 9 | [[/03_Mechanics/CLI/spells/modify-memory-xphb|Modify Memory]], [[/03_Mechanics/CLI/spells/telekinesis-xphb|Telekinesis]] |
+^great-old-one-spells
+
+### Awakened Mind (Level 3)
+
+You can form a telepathic connection between your mind and the mind of another. As a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]], choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.
+
+The telepathic connection lasts for a number of minutes equal to your Warlock level. It ends early if you use this feature to connect with a different creature.
+
+### Psychic Spells (Level 3)
+
+When you cast a Warlock spell that deals damage, you can change its damage type to Psychic. In addition, when you cast a Warlock spell that is an Enchantment or [[/03_Mechanics/CLI/variant-rules/illusions-xphb|Illusion]], you can do so without Verbal or Somatic components.
+
+### Clairvoyant Combatant (Level 6)
+
+When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on attack rolls against you, and you have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on attack rolls against that creature for the duration of the bond.
+
+Once you use this feature, you can't use it again until you finish a [[/03_Mechanics/CLI/variant-rules/short-rest-xphb|Short]] or [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]] unless you expend a Pact [[/03_Mechanics/CLI/actions#Magic|Magic]] spell slot (no action required) to restore your use of it.
+
+### Eldritch Hex (Level 10)
+
+Your alien patron grants you a powerful curse. You always have the [[/03_Mechanics/CLI/spells/hex-xphb|Hex]] spell prepared. When you cast [[/03_Mechanics/CLI/spells/hex-xphb|Hex]] and choose an ability, the target also has [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on saving throws of the chosen ability for the duration of the spell.
+
+### Thought Shield (Level 10)
+
+Your thoughts can't be read by telepathy or other means unless you allow it. You also have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take.
+
+### Create Thrall (Level 14)
+
+When you cast [[/03_Mechanics/CLI/spells/summon-aberration-xphb|Summon Aberration]], you can modify it so that it doesn't require [[/03_Mechanics/CLI/conditions#Concentration|Concentration]]. If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of [[/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb|Temporary Hit Points]] equal to your Warlock level plus your Charisma modifier.
+
+In addition, the first time each turn the Aberration hits a creature under the effect of your [[/03_Mechanics/CLI/spells/hex-xphb|Hex]], the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.
+
+## Player-Facing Summary
+
+Warlock xphb great old one patron xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of warlock xphb great old one patron xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around warlock xphb great old one patron xphb.
+
+## Adventure Hooks
+
+- A rumor ties warlock xphb great old one patron xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at warlock xphb great old one patron xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to warlock xphb great old one patron xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

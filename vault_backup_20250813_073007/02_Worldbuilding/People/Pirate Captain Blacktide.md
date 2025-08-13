@@ -1,0 +1,47 @@
+---
+created: '2025-08-11'
+status: complete
+tags:
+- content/npc
+- status/in-progress
+- world/both
+type: Npc
+updated: '2025-08-12T23:37:40.968330'
+world: Both
+---
+
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-pirate-captain-blacktide-pirate-captain-blacktide.svg)
+
+
+
+
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Quest - The Missing Fleet|02 Worldbuilding/Places/Quest The Missing Fleet]]
+
+
+## Connections
+
+- [[Quest - The Missing Fleet]]
+
+## Player-Facing Summary
+
+Pirate Captain Blacktide is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Pirate Captain Blacktide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pirate Captain Blacktide.
+
+## Adventure Hooks
+
+- A rumor ties Pirate Captain Blacktide to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Pirate Captain Blacktide to avert a public scandal.
+- A map overlay reveals a hidden approach to Pirate Captain Blacktide active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -1,0 +1,119 @@
+---
+aliases:
+- Darkmantle
+created: 2025-08-11
+cssclasses: json5e-monster
+obsidian-u-i-mode: preview
+statblock: inline
+statblock-link: '#^statblock'
+status: active
+tags:
+- monster
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/aberration
+- world/both
+type: monster
+updated: '2025-08-12T23:37:35.325705'
+world: Both
+---
+
+
+> [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-darkmantle-xmm-darkmantle-xmm.svg)
+
+# [[3-Mechanics\CLI\bestiary\aberration/darkmantle-xmm|Darkmantle]]
+*Source: Monster Manual (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+## Darkmantle
+
+*Ceiling-Clinging Ambush Predator*
+
+- **Habitat.** Underdark  
+- **Treasure.** None  
+
+Unnatural subterranean hunters, darkmantles veil themselves in magical shadows and use their bizarre anatomies to disguise themselves as stalactites. When prey passes below, lurking darkmantles drop and unfurl their webbed tentacles, attempting to blind, suffocate, or crush their victims.
+
+Darkmantles share similarities with piercers and ropers and often hunt near those monsters. Scholars have attempted to establish a shared origin or life cycle between those creatures, but their efforts are thwarted by those monsters' supernatural physiologies and deadly natures.
+
+> [!quote] A quote from S. Wakeman, Underdark Explorer  
+> 
+> Just assume there's no such thing as a stalactite.
+
+
+```statblock
+"name": "Darkmantle (XMM)"
+"size": "Small"
+"type": "aberration"
+"alignment": "Unaligned"
+"ac": !!int "11"
+"hp": !!int "22"
+"hit_dice": "5d6 + 5"
+"modifier": !!int "3"
+"stats":
+  - !!int "16"
+  - !!int "12"
+  - !!int "13"
+  - !!int "2"
+  - !!int "10"
+  - !!int "5"
+"speed": "10 ft., fly 30 ft."
+"skillsaves":
+  - "name": "[[/03_Mechanics/CLI/skills#Stealth|Stealth]]"
+    "desc": "+3"
+"senses": "blindsight 60 ft., passive Perception 10"
+"languages": ""
+"cr": "1/2"
+"actions":
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage,\
+      \ and the darkmantle attaches to the target. If the target is a Medium or smaller\
+      \ creature and the darkmantle had [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+      \ on the attack roll, it covers the target, which has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]]\
+      \ condition and is suffocating while the darkmantle is attached in this way.\n\
+      \nWhile attached to a target, the darkmantle can attack only the target but\
+      \ has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on its attack\
+      \ rolls. Its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] becomes 0,\
+      \ it can't benefit from any bonus to its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
+      \ and it moves with the target.\n\nA creature can take an action to try to detach\
+      \ the darkmantle from itself, doing so with a successful DC 13 Strength ([[/03_Mechanics/CLI/skills#Athletics|Athletics]])\
+      \ check. On its turn, the darkmantle can detach itself by using 5 feet of movement."
+    "name": "Crush"
+  - "desc": "Magical [[/03_Mechanics/CLI/variant-rules/darkness-xphb|Darkness]] fills\
+      \ a 15-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from the darkmantle. This effect lasts while the darkmantle maintains\
+      \ [[/03_Mechanics/CLI/conditions#Concentration|Concentration]] on it, up to\
+      \ 10 minutes. Darkvision can't penetrate this area, and no light can illuminate\
+      \ it."
+    "name": "Darkness Aura (1/Day)"
+"source":
+  - "XMM"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/darkmantle-xmm.webp"
+```
+^statblock
+
+## Environment
+
+underdark
+
+## Player-Facing Summary
+
+Darkmantle xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of darkmantle xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around darkmantle xmm.
+
+## Adventure Hooks
+
+- A rumor ties darkmantle xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at darkmantle xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to darkmantle xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

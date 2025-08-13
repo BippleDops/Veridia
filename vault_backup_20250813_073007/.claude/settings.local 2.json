@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(mkdir:*)",
+      "WebFetch(domain:docs.obsidian.md)",
+      "Bash(rm:*)",
+      "Bash(mv:*)",
+      "Bash(touch:*)"
+    ],
+    "deny": []
+  }
+}

@@ -1,0 +1,332 @@
+---
+aliases:
+- Adamantine Weapon
+- Adamantine Arrow
+- Adamantine Battleaxe
+- Adamantine Bolt
+- Adamantine Club
+- Adamantine Dagger
+- Adamantine Energy Cell
+- Adamantine Firearm Bullet
+- Adamantine Flail
+- Adamantine Glaive
+- Adamantine Greataxe
+- Adamantine Greatclub
+- Adamantine Greatsword
+- Adamantine Halberd
+- Adamantine Handaxe
+- Adamantine Javelin
+- Adamantine Lance
+- Adamantine Light Hammer
+- Adamantine Longsword
+- Adamantine Mace
+- Adamantine Maul
+- Adamantine Morningstar
+- Adamantine Needle
+- Adamantine Pike
+- Adamantine Quarterstaff
+- Adamantine Rapier
+- Adamantine Scimitar
+- Adamantine Shortsword
+- Adamantine Sickle
+- Adamantine Sling Bullet
+- Adamantine Spear
+- Adamantine Trident
+- Adamantine War Pick
+- Adamantine Warhammer
+- Adamantine Whip
+attunement: false
+created: 2025-07-23
+cssclasses: json5e-item
+modified: 2025-07-23 12:39
+obsidian-u-i-mode: preview
+status: active
+tags:
+- content/item
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xdmg
+- world/both
+type: note
+updated: '2025-08-12T23:37:37.154276'
+world: Both
+---
+
+
+> [!figure] Item
+![](04_Resources/Assets/Items/item-artifact-adamantine-weapon-xdmg-adamantine-weapon-xdmg.svg)
+
+# Adamantine Weapon
+*Uncommon*  
+
+
+
+This weapon or piece of ammunition is made of adamantine, one of the hardest substances in existence. Whenever this weapon or piece of ammunition hits an object, the hit is a [[/03_Mechanics/CLI/variant-rules/critical-hit-xphb|Critical Hit]].
+
+**Variants**:
+- [Adamantine Arrow](#Adamantine%20Arrow)
+- [Adamantine Battleaxe](#Adamantine%20Battleaxe)
+- [Adamantine Bolt](#Adamantine%20Bolt)
+- [Adamantine Club](#Adamantine%20Club)
+- [Adamantine Dagger](#Adamantine%20Dagger)
+- [Adamantine Energy Cell](#Adamantine%20Energy%20Cell)
+- [Adamantine Firearm Bullet](#Adamantine%20Firearm%20Bullet)
+- [Adamantine Flail](#Adamantine%20Flail)
+- [Adamantine Glaive](#Adamantine%20Glaive)
+- [Adamantine Greataxe](#Adamantine%20Greataxe)
+- [Adamantine Greatclub](#Adamantine%20Greatclub)
+- [Adamantine Greatsword](#Adamantine%20Greatsword)
+- [Adamantine Halberd](#Adamantine%20Halberd)
+- [Adamantine Handaxe](#Adamantine%20Handaxe)
+- [Adamantine Javelin](#Adamantine%20Javelin)
+- [Adamantine Lance](#Adamantine%20Lance)
+- [Adamantine Light Hammer](#Adamantine%20Light%20Hammer)
+- [Adamantine Longsword](#Adamantine%20Longsword)
+- [Adamantine Mace](#Adamantine%20Mace)
+- [Adamantine Maul](#Adamantine%20Maul)
+- [Adamantine Morningstar](#Adamantine%20Morningstar)
+- [Adamantine Needle](#Adamantine%20Needle)
+- [Adamantine Pike](#Adamantine%20Pike)
+- [Adamantine Quarterstaff](#Adamantine%20Quarterstaff)
+- [Adamantine Rapier](#Adamantine%20Rapier)
+- [Adamantine Scimitar](#Adamantine%20Scimitar)
+- [Adamantine Shortsword](#Adamantine%20Shortsword)
+- [Adamantine Sickle](#Adamantine%20Sickle)
+- [Adamantine Sling Bullet](#Adamantine%20Sling%20Bullet)
+- [Adamantine Spear](#Adamantine%20Spear)
+- [Adamantine Trident](#Adamantine%20Trident)
+- [Adamantine War Pick](#Adamantine%20War%20Pick)
+- [Adamantine Warhammer](#Adamantine%20Warhammer)
+- [Adamantine Whip](#Adamantine%20Whip)
+
+## Adamantine Arrow
+
+- **Weight**: 0.05 lbs.
+
+### Adamantine Battleaxe
+
+- **Damage**:
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Weight**: 4.0 lbs.
+
+### Adamantine Bolt
+
+- **Weight**: 0.075 lbs.
+
+### Adamantine Club
+
+- **Damage**: 1d4 bludgeoning
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Weight**: 2.0 lbs.
+
+### Adamantine Dagger
+
+- **Damage**: 1d4 piercing
+- **Range**: 20/60
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Weight**: 1.0 lbs.
+
+### Adamantine Energy Cell
+
+- **Weight**: 0.5 lbs.
+
+### Adamantine Firearm Bullet
+
+- **Weight**: 0.2 lbs.
+
+### Adamantine Flail
+
+- **Damage**: 1d8 bludgeoning
+- **Weight**: 2.0 lbs.
+
+### Adamantine Glaive
+
+- **Damage**: 1d10 slashing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Weight**: 6.0 lbs.
+
+### Adamantine Greataxe
+
+- **Damage**: 1d12 slashing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Weight**: 7.0 lbs.
+
+### Adamantine Greatclub
+
+- **Damage**: 1d8 bludgeoning
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Weight**: 10.0 lbs.
+
+### Adamantine Greatsword
+
+- **Damage**: 2d6 slashing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Weight**: 6.0 lbs.
+
+### Adamantine Halberd
+
+- **Damage**: 1d10 slashing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Weight**: 6.0 lbs.
+
+### Adamantine Handaxe
+
+- **Damage**: 1d6 slashing
+- **Range**: 20/60
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Weight**: 2.0 lbs.
+
+### Adamantine Javelin
+
+- **Damage**: 1d6 piercing
+- **Range**: 30/120
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Weight**: 2.0 lbs.
+
+### Adamantine Lance
+
+- **Damage**: 1d10 piercing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
+- **Weight**: 6.0 lbs.
+
+### Adamantine Light Hammer
+
+- **Damage**: 1d4 bludgeoning
+- **Range**: 20/60
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]], [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]]
+- **Weight**: 2.0 lbs.
+
+### Adamantine Longsword
+
+- **Damage**:
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Weight**: 3.0 lbs.
+
+### Adamantine Mace
+
+- **Damage**: 1d6 bludgeoning
+- **Weight**: 4.0 lbs.
+
+### Adamantine Maul
+
+- **Damage**: 2d6 bludgeoning
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Weight**: 10.0 lbs.
+
+### Adamantine Morningstar
+
+- **Damage**: 1d8 piercing
+- **Weight**: 4.0 lbs.
+
+### Adamantine Needle
+
+- **Weight**: 0.02 lbs.
+
+### Adamantine Pike
+
+- **Damage**: 1d10 piercing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Heavy|Heavy]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]], [[/03_Mechanics/CLI/item-properties#Two-Handed|Two-Handed]]
+- **Weight**: 18.0 lbs.
+
+### Adamantine Quarterstaff
+
+- **Damage**:
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Weight**: 4.0 lbs.
+
+### Adamantine Rapier
+
+- **Damage**: 1d8 piercing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]]
+- **Weight**: 2.0 lbs.
+
+### Adamantine Scimitar
+
+- **Damage**: 1d6 slashing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Weight**: 3.0 lbs.
+
+### Adamantine Shortsword
+
+- **Damage**: 1d6 piercing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Weight**: 2.0 lbs.
+
+### Adamantine Sickle
+
+- **Damage**: 1d4 slashing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Light|Light]]
+- **Weight**: 2.0 lbs.
+
+### Adamantine Sling Bullet
+
+- **Weight**: 0.075 lbs.
+
+### Adamantine Spear
+
+- **Damage**:
+  - One-handed: 1d6 piercing
+  - Two-handed: 1d8 piercing
+- **Range**: 20/60
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Weight**: 3.0 lbs.
+
+### Adamantine Trident
+
+- **Damage**:
+  - One-handed: 1d8 piercing
+  - Two-handed: 1d10 piercing
+- **Range**: 20/60
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Thrown|Thrown]], [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Weight**: 4.0 lbs.
+
+### Adamantine War Pick
+
+- **Damage**:
+  - One-handed: 1d8 piercing
+  - Two-handed: 1d10 piercing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Weight**: 2.0 lbs.
+
+### Adamantine Warhammer
+
+- **Damage**:
+  - One-handed: 1d8 bludgeoning
+  - Two-handed: 1d10 bludgeoning
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Versatile|Versatile]]
+- **Weight**: 5.0 lbs.
+
+### Adamantine Whip
+
+- **Damage**: 1d4 slashing
+- **Properties**: [[/03_Mechanics/CLI/item-properties#Finesse|Finesse]], [[/03_Mechanics/CLI/item-properties#Reach|Reach]]
+- **Weight**: 3.0 lbs.
+
+
+*Source: Dungeon Master's Guide (2024) p. 227*
+
+## Player-Facing Summary
+
+Adamantine weapon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of adamantine weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adamantine weapon xdmg.
+
+## Adventure Hooks
+
+- A rumor ties adamantine weapon xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at adamantine weapon xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to adamantine weapon xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

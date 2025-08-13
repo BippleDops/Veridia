@@ -1,0 +1,138 @@
+---
+aliases:
+- Path of the Wild Heart
+created: 2025-07-23
+cssclasses: json5e-class
+modified: 2025-07-23 12:39
+obsidianUIMode: preview
+status: active
+tags:
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/subclass/barbarian/wild-heart
+- world/both
+type: note
+updated: '2025-08-12T23:37:34.382782'
+world: Both
+---
+
+# Path of the Wild Heart
+*[[./barbarian-xphb|Barbarian]]: Barbarian Subclass*  
+*Source: Player's Handbook (2024) p. 55*  
+
+> [!tldr] Class and Feature Progression
+> 
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='3'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path of the Wild Heart (Level 3)' class='internal-link'>Path of the Wild Heart</a></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Aspect of the Wilds (Level 6)' class='internal-link'>Aspect of the Wilds</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Nature Speaker (Level 10)' class='internal-link'>Nature Speaker</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Power of the Wilds (Level 14)' class='internal-link'>Power of the Wilds</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> </tbody></table>
+
+^class-progression
+
+
+## Class Features
+
+### Path of the Wild Heart (Level 3)
+
+*Walk in Community with the Animal World*
+
+Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
+
+### Animal Speaker (Level 3)
+
+You can cast the [[/03_Mechanics/CLI/spells/beast-sense-xphb|Beast Sense]] and [[/03_Mechanics/CLI/spells/speak-with-animals-xphb|Speak with Animals]] spells but only as Rituals. Wisdom is your spellcasting ability for them.
+
+### Rage of the Wilds (Level 3)
+
+Your Rage taps into the primal power of animals. Whenever you activate your Rage, you gain one of the following options of your choice.
+
+#### Bear
+
+While your Rage is active, you have [[/03_Mechanics/CLI/variant-rules/resistance-xphb|Resistance]] to every damage type except Force, Necrotic, Psychic, and Radiant.
+
+#### Eagle
+
+When you activate your Rage, you can take the [[/03_Mechanics/CLI/actions#Disengage|Disengage]] and [[/03_Mechanics/CLI/actions#Dash|Dash]] actions as part of that [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]]. While your Rage is active, you can take a [[/03_Mechanics/CLI/variant-rules/bonus-action-xphb|Bonus Action]] to take both of those actions.
+
+#### Wolf
+
+While your Rage is active, your allies have [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]] on attack rolls against any enemy of yours within 5 feet of you.
+
+### Aspect of the Wilds (Level 6)
+
+You gain one of the following options of your choice. Whenever you finish a [[/03_Mechanics/CLI/variant-rules/long-rest-xphb|Long Rest]], you can change your choice.
+
+#### Owl
+
+You have [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]] with a range of 60 feet. If you already have [[/03_Mechanics/CLI/senses#Darkvision|Darkvision]], its range increases by 60 feet.
+
+#### Panther
+
+You have a [[/03_Mechanics/CLI/variant-rules/climb-speed-xphb|Climb Speed]] equal to your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]].
+
+#### Salmon
+
+You have a [[/03_Mechanics/CLI/variant-rules/swim-speed-xphb|Swim Speed]] equal to your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]].
+
+### Nature Speaker (Level 10)
+
+You can cast the [[/03_Mechanics/CLI/spells/commune-with-nature-xphb|Commune with Nature]] spell but only as a [[/03_Mechanics/CLI/variant-rules/ritual-xphb|Ritual]]. Wisdom is your spellcasting ability for it.
+
+### Power of the Wilds (Level 14)
+
+Whenever you activate your Rage, you gain one of the following options of your choice.
+
+#### Falcon
+
+While your Rage is active, you have a [[/03_Mechanics/CLI/variant-rules/fly-speed-xphb|Fly Speed]] equal to your [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]] if you aren't wearing any armor.
+
+#### Lion
+
+While your Rage is active, any of your enemies within 5 feet of you have [[/03_Mechanics/CLI/variant-rules/disadvantage-xphb|Disadvantage]] on attack rolls against targets other than you or another Barbarian who has this option active.
+
+#### Ram
+
+While your Rage is active, you can cause a Large or smaller creature to have the [[/03_Mechanics/CLI/conditions#Prone|Prone]] condition when you hit it with a melee attack.
+
+## Player-Facing Summary
+
+Barbarian xphb path of the wild heart xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of barbarian xphb path of the wild heart xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbarian xphb path of the wild heart xphb.
+
+## Adventure Hooks
+
+- A rumor ties barbarian xphb path of the wild heart xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at barbarian xphb path of the wild heart xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to barbarian xphb path of the wild heart xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

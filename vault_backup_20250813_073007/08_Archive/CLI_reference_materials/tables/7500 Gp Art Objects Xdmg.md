@@ -1,0 +1,58 @@
+---
+aliases:
+- 7,500 GP Art Objects
+created: 2025-07-23 12:39
+cssclasses: json5e-note
+modified: 2025-07-23 12:39
+obsidianUIMode: preview
+status: active
+tags:
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xdmg
+- world/both
+type: note
+updated: '2025-08-12T23:37:33.502415'
+world: Both
+---
+
+# 7,500 GP Art Objects
+*Source: Dungeon Master's Guide (2024) p. 215* 
+
+**7,500 GP Art Objects**
+
+`dice: [](7500-gp-art-objects-xdmg.md#^7500-gp-art-objects)`
+
+| dice: 1d10 | Object |
+|------------|--------|
+| 1 | [[/03_Mechanics/CLI/items/jeweled-gold-crown-xdmg|Jeweled gold crown]] |
+| 2 | [[/03_Mechanics/CLI/items/jeweled-platinum-ring-xdmg|Jeweled platinum ring]] |
+| 3 | [[/03_Mechanics/CLI/items/gold-statuette-set-with-rubies-xdmg|Gold statuette set with rubies]] |
+| 4 | [[/03_Mechanics/CLI/items/gold-cup-set-with-emeralds-xdmg|Gold cup set with emeralds]] |
+| 5 | [[/03_Mechanics/CLI/items/gold-jewelry-box-with-platinum-filigree-xdmg|Gold jewelry box with platinum filigree]] |
+| 6 | [[/03_Mechanics/CLI/items/set-of-gold-nesting-dolls-xdmg|Set of gold nesting dolls]] |
+| 7 | [[/03_Mechanics/CLI/items/jade-game-board-with-gold-playing-pieces-xdmg|Jade game board with gold playing pieces]] |
+| 8 | [[/03_Mechanics/CLI/items/bejeweled-ivory-drinking-horn-with-gold-filigree-xdmg|Bejeweled ivory drinking horn with gold filigree]] |
+| 9 | [[/03_Mechanics/CLI/items/gilded-royal-coach-or-funeral-barge-xdmg|Gilded royal coach or funeral barge]] |
+| 10 | [[/03_Mechanics/CLI/items/ceremonial-gold-armor-with-black-pearls-xdmg|Ceremonial gold armor with black pearls]] |
+^7500-gp-art-objects
+
+## Player-Facing Summary
+
+7500 gp art objects xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 7500 gp art objects xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 7500 gp art objects xdmg.
+
+## Adventure Hooks
+
+- A rumor ties 7500 gp art objects xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 7500 gp art objects xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to 7500 gp art objects xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

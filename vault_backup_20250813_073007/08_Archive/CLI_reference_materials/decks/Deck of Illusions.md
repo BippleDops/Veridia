@@ -1,0 +1,191 @@
+---
+aliases:
+- Deck of Illusions
+created: 2025-07-23
+cssclasses: json5e-deck
+modified: 2025-07-23 12:39
+obsidianUIMode: preview
+status: active
+tags:
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/dmg
+- world/both
+type: note
+updated: '2025-08-12T23:37:34.911201'
+world: Both
+---
+
+
+> [!figure] Item
+![](04_Resources/Assets/Items/item-artifact-deck-of-illusions-xdmg-deck-of-illusions-xdmg.svg)
+
+# Deck of Illusions
+*Source: Dungeon Master's Guide p. 161. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing ` - 1` cards.
+
+The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.
+
+An illusion of one or more creatures forms over the thrown card and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature, except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 feet of its card. Any physical interaction with the illusory creature reveals it to be an illusion, because objects pass through it. Someone who uses an action to visually inspect the creature identifies it as illusory with a successful DC 15 Intelligence ([[/03_Mechanics/CLI/skills#Investigation|Investigation]]) check. The creature then appears translucent.
+
+The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.
+
+`dice: [](deck-of-illusions.md#^1-playing-card-illusion)`
+
+| dice: 1d34 | Playing Card | Illusion |
+|------------|--------------|----------|
+| 1 | Ace of hearts | [[/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm|Red dragon]] |
+| 2 | King of hearts | [[/03_Mechanics/CLI/bestiary/humanoid/knight-xmm|Knight]] and four [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] |
+| 3 | Queen of hearts | [[/03_Mechanics/CLI/bestiary/fiend/succubus-xmm|Succubus/Incubus]] |
+| 4 | Jack of hearts | [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|Druid]] |
+| 5 | Ten of hearts | [[/03_Mechanics/CLI/bestiary/giant/cloud-giant-xmm|Cloud giant]] |
+| 6 | Nine of hearts | [[/03_Mechanics/CLI/bestiary/giant/ettin-xmm|Ettin]] |
+| 7 | Eight of hearts | [[/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm|Bugbear]] |
+| 8 | Two of hearts | [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|Goblin]] |
+| 9 | Ace of diamonds | [[/03_Mechanics/CLI/bestiary/aberration/beholder-xmm|Beholder]] |
+| 10 | King of diamonds | [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|Archmage]] and [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] apprentice |
+| 11 | Queen of diamonds | [[/03_Mechanics/CLI/bestiary/fiend/night-hag-xmm|Night hag]] |
+| 12 | Jack of diamonds | [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|Assassin]] |
+| 13 | Ten of diamonds | [[/03_Mechanics/CLI/bestiary/giant/fire-giant-xmm|Fire giant]] |
+| 14 | Nine of diamonds | [[/03_Mechanics/CLI/bestiary/fiend/oni-xmm|Ogre mage]] |
+| 15 | Eight of diamonds | [[/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm|Gnoll]] |
+| 16 | Two of diamonds | [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|Kobold]] |
+| 17 | Ace of spades | [[/03_Mechanics/CLI/bestiary/undead/lich-xmm|Lich]] |
+| 18 | King of spades | [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|Priest]] and two [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|acolytes]] |
+| 19 | Queen of spades | [[/03_Mechanics/CLI/bestiary/monstrosity/medusa-xmm|Medusa]] |
+| 20 | Jack of spades | [[/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm|Veteran]] |
+| 21 | Ten of spades | [[/03_Mechanics/CLI/bestiary/giant/frost-giant-xmm|Frost giant]] |
+| 22 | Nine of spades | [[/03_Mechanics/CLI/bestiary/giant/troll-xmm|Troll]] |
+| 23 | Eight of spades | [[/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm|Hobgoblin]] |
+| 24 | Two of spades | [[/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm|Goblin]] |
+| 25 | Ace of clubs | [[/03_Mechanics/CLI/bestiary/construct/iron-golem-xmm|Iron golem]] |
+| 26 | King of clubs | [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|Bandit captain]] and three [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] |
+| 27 | Queen of clubs | [[/03_Mechanics/CLI/bestiary/fiend/erinyes-xmm|Erinyes]] |
+| 28 | Jack of clubs | [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|Berserker]] |
+| 29 | Ten of clubs | [[/03_Mechanics/CLI/bestiary/giant/hill-giant-xmm|Hill giant]] |
+| 30 | Nine of clubs | [[/03_Mechanics/CLI/bestiary/giant/ogre-xmm|Ogre]] |
+| 31 | Eight of clubs | [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|Orc]] |
+| 32 | Two of clubs | [[/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm|Kobold]] |
+| 33-34 | jokers (2) | You (the deck's owner) |
+^1-playing-card-illusion
+
+## Cards
+
+### Red Dragon
+
+
+### Knight and Four Guards
+
+
+### Succubus/Incubus
+
+
+### Druid
+
+
+### Cloud Giant
+
+
+### Ettin
+
+
+### Bugbear
+
+
+### Goblin
+
+
+### Beholder
+
+
+### Archmage and Mage Apprentice
+
+
+### Night Hag
+
+
+### Assassin
+
+
+### Fire Giant
+
+
+### Ogre Mage
+
+
+### Gnoll
+
+
+### Kobold
+
+
+### Lich
+
+
+### Priest and Two Acolytes
+
+
+### Medusa
+
+
+### Veteran
+
+
+### Frost Giant
+
+
+### Troll
+
+
+### Hobgoblin
+
+
+### Goblin
+
+
+### Iron Golem
+
+
+### Bandit Captain and Three Bandits
+
+
+### Erinyes
+
+
+### Berserker
+
+
+### Hill Giant
+
+
+### Ogre
+
+
+### Orc
+
+
+### Kobold
+
+
+### You (The Deck's Owner)
+
+## Player-Facing Summary
+
+Deck of illusions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of deck of illusions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deck of illusions.
+
+## Adventure Hooks
+
+- A rumor ties deck of illusions to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at deck of illusions to avert a public scandal.
+- A map overlay reveals a hidden approach to deck of illusions active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

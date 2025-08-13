@@ -1,0 +1,186 @@
+---
+aliases:
+- Tarrasque
+created: 2025-08-11
+cssclasses: json5e-monster
+obsidian-u-i-mode: preview
+statblock: inline
+statblock-link: '#^statblock'
+status: active
+tags:
+- monster
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/30
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/monstrosity/titan
+- world/both
+type: monster
+updated: '2025-08-12T23:37:34.983070'
+world: Both
+---
+
+
+> [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-tarrasque-xmm-tarrasque-xmm.svg)
+
+# [[3-Mechanics\CLI\bestiary\monstrosity/tarrasque-xmm|Tarrasque]]
+*Source: Monster Manual (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+## Tarrasque
+
+*The Shape of Calamity*
+
+- **Habitat.** Urban  
+- **Treasure.** None  
+
+Among the most devastating creatures in existence, the tarrasque is an engine of catastrophe and a ruiner of nations. A terror of massive size and overwhelming might, this primeval destroyer survives from the earliest epochs of the Material Plane, when it served as a weapon of immortal forces. Since then, the tarrasque has slumbered in secret, rising every few ages to usher in eras of destruction.
+
+The tarrasque is a bipedal, prehistoric Monstrosity that stands over seventy feet tall. Bristling with horns and spikes, its spiny carapace deflects harm and can reflect magical attacks.
+
+The tarrasque is a creature of tireless rage. It lashes out at any creature that catches its attention, thrashing with claws and its mighty tail while swallowing smaller beings whole. It seems to take instinctual offense at the works of lesser beings, venting its rage at buildings, bridges, ships, and monuments. The larger a structure or foe is, the greater the tarrasque's wrath.
+
+It is a mystery what—if anything—calms the tarrasque, but eventually it returns to its slumber, leaving the world irrevocably changed. While the tarrasque might be halted by incredible opposition, its threat can never be wiped from the multiverse. Whenever the tarrasque is defeated, another tarrasque awakes somewhere else on the Material Plane.
+
+Few things survive the tarrasque's rampages, and reports of the monster's devastation are often contradictory, incomplete, or beyond belief. In cases where it leaves no survivors, its calamities might initially be blamed on evil dragons or magical disasters, but the tarrasque frequently leaves behind some unmistakable indication of its passage. Roll on or choose a result from the Tarrasque Evidence table to inspire what marks the monster's rampages.
+
+**Tarrasque Evidence**
+
+`dice: [](tarrasque-xmm.md#^tarrasque-evidence)`
+
+| dice: 1d4 | Amid Destruction, the Tarrasque Leaves... |
+|-----------|-------------------------------------------|
+| 1 | Evidence of a magic spell reflected back on its caster, like Ice Knife or Melf's Acid Arrow. |
+| 2 | Massive footprints or claw marks. |
+| 3 | A russet scale the size of a knight's shield. |
+| 4 | A shattered mountain or diverted river. |
+^tarrasque-evidence
+
+```statblock
+"name": "Tarrasque (XMM)"
+"size": "Gargantuan"
+"type": "monstrosity"
+"subtype": "titan"
+"alignment": "Unaligned"
+"ac": !!int "25"
+"hp": !!int "697"
+"hit_dice": "34d20 + 340"
+"modifier": !!int "18"
+"stats":
+  - !!int "30"
+  - !!int "11"
+  - !!int "30"
+  - !!int "3"
+  - !!int "11"
+  - !!int "11"
+"speed": "60 ft., burrow 40 ft., climb 60 ft."
+"saves":
+  - "dexterity": !!int "9"
+  - "intelligence": !!int "5"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "9"
+"skillsaves":
+  - "name": "[[/03_Mechanics/CLI/skills#Perception|Perception]]"
+    "desc": "+9"
+"damage_resistances": "bludgeoning, piercing, slashing"
+"damage_immunities": "fire, poison"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Deafened|deafened]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]]"
+"senses": "blindsight 120 ft., passive Perception 19"
+"languages": ""
+"cr": "30"
+"traits":
+  - "desc": "If the tarrasque fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (6/Day)"
+  - "desc": "The tarrasque has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "If the tarrasque is targeted by a [[/03_Mechanics/CLI/spells/magic-missile-xphb|Magic Missile]]\
+      \ spell or a spell that requires a ranged attack roll, roll d6. On a 1-5, the\
+      \ tarrasque is unaffected. On a 6, the tarrasque is unaffected and reflects\
+      \ the spell, turning the caster into the target."
+    "name": "Reflective Carapace"
+  - "desc": "The tarrasque deals double damage to objects and structures."
+    "name": "Siege Monster"
+"actions":
+  - "desc": "The tarrasque makes one Bite attack and three other attacks, using Claw\
+      \ or Tail in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +19, reach 15 ft. Hit: 36 (4d12 + 10) Piercing\
+      \ damage, and the target has the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ condition (escape DC 20). Until the grapple ends, the target has the [[/03_Mechanics/CLI/conditions#Restrained|Restrained]]\
+      \ condition and can't teleport."
+    "name": "Bite"
+  - "desc": "Melee Attack Roll: +19, reach 15 ft. Hit: 28 (4d8 + 10) Slashing\
+      \ damage."
+    "name": "Claw"
+  - "desc": "Melee Attack Roll: +19, reach 30 ft. Hit: 23 (3d8 + 10) Bludgeoning\
+      \ damage. If the target is a Huge or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ condition."
+    "name": "Tail"
+  - "desc": "Constitution Saving Throw: DC 27, each creature and each object that\
+      \ isn't being worn or carried in a 150-foot [[/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb|Cone]].\
+      \ Failure: 78 (12d12) Thunder damage, and the target has the [[/03_Mechanics/CLI/conditions#Deafened|Deafened]]\
+      \ and [[/03_Mechanics/CLI/conditions#Frightened|Frightened]] conditions until\
+      \ the end of its next turn. Success: Half damage only."
+    "name": "Thunderous Bellow (Recharge 5-6)"
+"bonus_actions":
+  - "desc": "Strength Saving Throw: DC 27, one Large or smaller creature [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ by the tarrasque (it can have up to six creatures swallowed at a time). Failure:\
+      \ The target is swallowed, and the [[/03_Mechanics/CLI/conditions#Grappled|Grappled]]\
+      \ condition ends. A swallowed creature has the [[/03_Mechanics/CLI/conditions#Blinded|Blinded]]\
+      \ and [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] conditions and\
+      \ can't teleport, it has [[/03_Mechanics/CLI/variant-rules/cover-xphb|Total Cover]]\
+      \ against attacks and other effects outside the tarrasque, and it takes 56 (16d6)\
+      \ Acid damage at the start of each of the tarrasque's turns.\n\nIf the tarrasque\
+      \ takes 60 damage or more on a single turn from a creature inside it, the tarrasque\
+      \ must succeed on a DC 20 Constitution saving throw at the end of that turn\
+      \ or regurgitate all swallowed creatures, each of which falls in a space within\
+      \ 10 feet of the tarrasque and has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ condition. If the tarrasque dies, any swallowed creature no longer has the\
+      \ [[/03_Mechanics/CLI/conditions#Restrained|Restrained]] condition and can\
+      \ escape from the corpse using 20 feet of movement, exiting [[/03_Mechanics/CLI/conditions#Prone|Prone]]."
+    "name": "Swallow"
+"legendary_actions":
+  - "desc": "The tarrasque moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]],\
+      \ and it makes one Claw or Tail attack."
+    "name": "Onslaught"
+  - "desc": "The tarrasque moves up to its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]].\
+      \ At the end of this movement, the tarrasque creates an instantaneous shock\
+      \ wave in a 60-foot [[/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb|Emanation]]\
+      \ originating from itself. Creatures in that area lose [[/03_Mechanics/CLI/conditions#Concentration|Concentration]]\
+      \ and, if Medium or smaller, have the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ condition. The tarrasque can't take this action again until the start of its\
+      \ next turn."
+    "name": "World-Shaking Movement"
+"source":
+  - "XMM"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/tarrasque-xmm.webp"
+```
+^statblock
+
+## Environment
+
+urban
+
+## Player-Facing Summary
+
+Tarrasque xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of tarrasque xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tarrasque xmm.
+
+## Adventure Hooks
+
+- A rumor ties tarrasque xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at tarrasque xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to tarrasque xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

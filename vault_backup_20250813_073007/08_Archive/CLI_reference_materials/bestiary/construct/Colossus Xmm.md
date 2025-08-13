@@ -1,0 +1,137 @@
+---
+aliases:
+- Colossus
+created: 2025-08-11
+cssclasses: json5e-monster
+obsidian-u-i-mode: preview
+statblock: inline
+statblock-link: '#^statblock'
+status: active
+tags:
+- monster
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/25
+- ttrpg-cli/monster/environment/any
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/construct/titan
+- world/both
+type: monster
+updated: '2025-08-12T23:37:35.835834'
+world: Both
+---
+
+
+> [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-colossus-xmm-colossus-xmm.svg)
+
+# [[3-Mechanics\CLI\bestiary\construct/colossus-xmm|Colossus]]
+*Source: Monster Manual (2024) p. 76*  
+
+## Colossus
+
+*Titanic Vessel of Divine Might*
+
+- **Habitat.** Any  
+- **Treasure.** Relics  
+
+Colossi are massive Constructs created by the devout to reflect the nature of a deity, which could be benevolent or wicked. Colossi thrum with incredible magic and work divine will on the land.
+
+Droves of faithful artisans craft a colossus in a shape to honor their deity, then call on that god to infuse the statue with life. This arduous process might take decades and involve hundreds of workers. If the god favors the creation, the mighty crystal at the construct's heart pulses with divine power, and the colossus rises to protect the faithful or enact the god's will.
+
+Most colossi were created in ages past and now lie dormant in secluded wilderness, awakening only when disturbed or called on to serve once more.
+
+```statblock
+"name": "Colossus (XMM)"
+"size": "Gargantuan"
+"type": "construct"
+"subtype": "titan"
+"alignment": "Unaligned"
+"ac": !!int "23"
+"hp": !!int "553"
+"hit_dice": "27d20 + 270"
+"modifier": !!int "16"
+"stats":
+  - !!int "30"
+  - !!int "11"
+  - !!int "30"
+  - !!int "3"
+  - !!int "11"
+  - !!int "8"
+"speed": "60 ft."
+"saves":
+  - "dexterity": !!int "8"
+  - "wisdom": !!int "8"
+"damage_resistances": "necrotic, radiant"
+"damage_immunities": "poison, psychic"
+"condition_immunities": "[[/03_Mechanics/CLI/conditions#Charmed|charmed]], [[/03_Mechanics/CLI/conditions#Exhaustion|exhaustion]],\
+  \ [[/03_Mechanics/CLI/conditions#Frightened|frightened]], [[/03_Mechanics/CLI/conditions#Paralyzed|paralyzed]],\
+  \ [[/03_Mechanics/CLI/conditions#Petrified|petrified]], [[/03_Mechanics/CLI/conditions#Poisoned|poisoned]],\
+  \ [[/03_Mechanics/CLI/conditions#Stunned|stunned]], [[/03_Mechanics/CLI/conditions#Unconscious|unconscious]]"
+"senses": "truesight 300 ft., passive Perception 10"
+"languages": "understands Celestial and Common but can't speak"
+"cr": "25"
+"traits":
+  - "desc": "The colossus can't shape-shift."
+    "name": "Immutable Form"
+  - "desc": "If the colossus fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (4/Day)"
+  - "desc": "The colossus has [[/03_Mechanics/CLI/variant-rules/advantage-xphb|Advantage]]\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The colossus deals double damage to objects and structures."
+    "name": "Siege Monster"
+"actions":
+  - "desc": "The colossus makes three attacks, using Slam or Radiant Ray in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +18, reach 20 ft. Hit: 32 (4d10 + 10) Bludgeoning\
+      \ damage, and the colossus pushes the target up to 20 feet straight away from\
+      \ itself."
+    "name": "Slam"
+  - "desc": "Ranged Attack Roll: +18, range 300 ft. Hit: 22 (4d10) Radiant damage.\
+      \ If the target is a Large or smaller creature, it has the [[/03_Mechanics/CLI/conditions#Prone|Prone]]\
+      \ condition."
+    "name": "Radiant Ray"
+  - "desc": "Dexterity Saving Throw: DC 26, each creature in a 300-foot-long, 10-foot-wide\
+      \ [[/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb|Line]]. Failure:\
+      \ 65 (10d12) Radiant damage. Success: Half damage. Failure or Success: A\
+      \ creature reduced to 0 [[/03_Mechanics/CLI/variant-rules/hit-points-xphb|Hit Points]]\
+      \ by this beam disintegrates into dust, leaving behind any magic items it was\
+      \ wearing or carrying."
+    "name": "Divine Beam (Recharge 5-6)"
+"legendary_actions":
+  - "desc": "The colossus makes one Radiant Ray attack."
+    "name": "Smite"
+  - "desc": "The colossus moves up to half its [[/03_Mechanics/CLI/variant-rules/speed-xphb|Speed]]\
+      \ without provoking [[/03_Mechanics/CLI/actions#Opportunity%20Attack|Opportunity Attacks]],\
+      \ and it can make one Slam attack at any point during that move."
+    "name": "Stomp"
+"source":
+  - "XMM"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/colossus-xmm.webp"
+```
+^statblock
+
+## Environment
+
+any
+
+## Player-Facing Summary
+
+Colossus xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of colossus xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around colossus xmm.
+
+## Adventure Hooks
+
+- A rumor ties colossus xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at colossus xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to colossus xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

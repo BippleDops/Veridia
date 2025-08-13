@@ -1,0 +1,417 @@
+{
+  "main": {
+    "id": "35dc58889efc7af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7e5c3e8fb693144",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d3631f7ef3dd649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Worldbuilding/People/The Waking Prophets.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Waking Prophets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2fa061dc384dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "776915f0f047e046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2911de48d50d504c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7191f1a02d83b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "stormwind",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6da38734e1b60552",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2e6355ae312b2c82",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f6ef017cc52d2e49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "4376769ea3073bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "09384058bb1c4e72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01866bcbc2fd8a19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "z_Templates/World Builder Templates/Template-Place-BASES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Template-Place-BASES"
+            }
+          },
+          {
+            "id": "505cdf32bf6b016b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-DM Toolkit/City of Trade.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from City of Trade"
+            }
+          },
+          {
+            "id": "e0476cfc571d360e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "734965fc2bb6a962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Worldbuilding/People/The Waking Prophets.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Waking Prophets"
+            }
+          },
+          {
+            "id": "c8c0bd3a84d4d5f1",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "MAIN_VIEW"
+            }
+          },
+          {
+            "id": "bb21e6fb9beae31a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "9f06b744419e5dab",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "78f62065b0218d76",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "3939dbe56020682d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d20c07dc4a561dd1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "33e43c5d7da41f41",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "2028fd2f7979a7e3",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "f7f37bd6d5e169da",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "cdc9155f3adc05c0",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "1-DM Toolkit/Home - DV.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "ba21682bbe574eec",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "33a8e0adef57580b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "56b99a107cf9d281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93fbbf0ef96c2eda",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1daf628a52fe86ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dad808187ac5278e",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "helpmate:HelpMate": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false
+    }
+  },
+  "active": "8d3631f7ef3dd649",
+  "lastOpenFiles": [
+    "09_Performance/Indexes/Complete_NPC_Matrix.md",
+    "09_Performance/Indexes/Master_Narrative_Web.md",
+    "03_Mechanics/Aquabyssos Character Creation.md",
+    "03_Mechanics/Activate the Grief Bomb.md",
+    "04_Resources/Assets/Location_Prompts/Cities.md",
+    "02_Worldbuilding/People/Admiral Cassandra Stormwind.md",
+    "02_Worldbuilding/Places/Port Meridian.md",
+    "Master_People_Index.md",
+    "03_Mechanics/CLI/bestiary/giant/ogre-xmm.md",
+    "scripts/build_prompts.js",
+    "03_Mechanics/CLI/books/monster-manual-2014/1-introduction.md",
+    "09_Performance/Monster Gallery.base",
+    "09_Performance/Location Tracker.base",
+    "09_Performance/Image Library.base",
+    "09_Performance/Faction_Tracker.base",
+    "09_Performance/Combat Tracker.base",
+    "04_Player_Resources/Character_Options/Depth_Adapted_Background.md",
+    "03_Mechanics/Vault_Self_Improvement_Engine.md",
+    "03_Mechanics/Weather_And_Seasons.md",
+    "03_Mechanics/Travel Rules.md",
+    "03_Mechanics/Memory Absorption Rules.md",
+    "03_Mechanics/Language_Evolution_Tracker.md",
+    "03_Mechanics/Aquabyssos Survival Mechanics.md",
+    "03_Mechanics/Aquabyssos Languages.md",
+    "03_Mechanics/Vehicles/Aethermoor_Airships_Catalog.md",
+    "03_Mechanics/Social_Systems/Faction_Reputation.md",
+    "03_Mechanics/Crystal-Plague-Mechanics.md",
+    "03_Mechanics/Crystal Plague Mechanics.md",
+    "03_Mechanics/Comprehensive Survival System.md",
+    "02_Worldbuilding/Items/The Tidal Shard of Memory.md",
+    "02_Worldbuilding/Lore/The Sundering.md",
+    "02_Worldbuilding/Lore/The Forgotten Isles.md",
+    "Combat Tracker.base",
+    "Faction_Tracker.base",
+    "Image Library.base",
+    "Item Showcase.base",
+    "04_Resources/Assets/quests/missing-caravan.png",
+    "04_Resources/Assets/Canvas/Relationship_Graph.canvas",
+    "Ω_Assets/Pasted image 20250121213204.png",
+    "Ω_Assets/Pasted Image 20240630225934_265.png",
+    "Ω_Assets/Pasted image 20240630204305.png",
+    "Ω_Assets/Pasted image 20240630203445.png",
+    "Ω_Assets/Pasted image 20240630203450.png",
+    "3-Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp",
+    "3-Mechanics/CLI/vehicles/token/astral-skiff-mtf.webp",
+    "3-Mechanics/CLI/vehicles/token/apparatus-of-kwalish-xdmg.webp",
+    "3-Mechanics/CLI/vehicles/token/astral-brig-mtf.webp",
+    "0-Scratch Notes/Untitled.canvas",
+    "0-Scratch Notes/MoC - Canvas Home Page.canvas",
+    "Untitled.canvas"
+  ]
+}

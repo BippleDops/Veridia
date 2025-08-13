@@ -1,0 +1,246 @@
+date: invalid argument 's' for -I
+[] auto-commit cycle
+[] auto-commit cycle
+Embedded portraits into 271 People notes.
+Embedded heraldry into 135 Group notes.
+Embedded views into 710 Place notes.
+Upgraded 0 notes from SVG to PNG where available.
+Broad enrichment across 01..07 added assets to 3 notes.
+Built galleries:
+ - 04_Resources/Assets/Galleries/NPC_Portraits_Gallery.md
+ - 04_Resources/Assets/Galleries/Creatures_Gallery.md
+ - 04_Resources/Assets/Galleries/Locations_Gallery.md
+ - 04_Resources/Assets/Galleries/Scenes_Gallery.md
+ - 04_Resources/Assets/Galleries/Battle_Maps_Gallery.md
+ - 04_Resources/Assets/Galleries/Vehicles_&_Ships_Gallery.md
+ - 04_Resources/Assets/Galleries/Faction_Symbols_&_Heraldry.md
+ - 04_Resources/Assets/Galleries/In-World_Handouts_Gallery.md
+ - 04_Resources/Assets/Galleries/Magical_Items_Gallery.md
+ - 04_Resources/Assets/Galleries/Index.md
+Upgraded images in 17 markdown files and 0 canvas files.
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[main 5f89aecf1] chore(nightly): batch assets + link/sweep
+ 1156 files changed, 17250 insertions(+), 479 deletions(-)
+ create mode 100644 09_Performance/.autopush.pid
+ create mode 100644 09_Performance/.nightly_A.pid
+ create mode 100644 09_Performance/.nightly_B.pid
+ create mode 100644 09_Performance/.smoke_pid
+ create mode 100644 09_Performance/asset_smoke_20250812_2329.log
+ create mode 100644 09_Performance/auto_commit_push.log
+ create mode 100644 09_Performance/nightly_A.log
+ create mode 100644 09_Performance/nightly_B.log
+ create mode 100644 VAULT_STANDARDIZATION_SCHEMA.md
+ create mode 100644 scripts/launch_nightly.sh
+To https://github.com/BippleDops/Veridia.git
+   c627aa41f..5f89aecf1  main -> main
+date: invalid argument 's' for -I
+[] auto-commit cycle
+[] auto-commit cycle
+Embedded portraits into 0 People notes.
+Embedded heraldry into 0 Group notes.
+Embedded views into 0 Place notes.
+Upgraded 0 notes from SVG to PNG where available.
+Broad enrichment across 01..07 added assets to 3 notes.
+Built galleries:
+ - 04_Resources/Assets/Galleries/NPC_Portraits_Gallery.md
+ - 04_Resources/Assets/Galleries/Creatures_Gallery.md
+ - 04_Resources/Assets/Galleries/Locations_Gallery.md
+ - 04_Resources/Assets/Galleries/Scenes_Gallery.md
+ - 04_Resources/Assets/Galleries/Battle_Maps_Gallery.md
+ - 04_Resources/Assets/Galleries/Vehicles_&_Ships_Gallery.md
+ - 04_Resources/Assets/Galleries/Faction_Symbols_&_Heraldry.md
+ - 04_Resources/Assets/Galleries/In-World_Handouts_Gallery.md
+ - 04_Resources/Assets/Galleries/Magical_Items_Gallery.md
+ - 04_Resources/Assets/Galleries/Index.md
+Upgraded images in 0 markdown files and 0 canvas files.
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[main ae05d9136] chore(nightly): batch assets + link/sweep
+ 35 files changed, 3847 insertions(+), 20 deletions(-)
+ create mode 100644 06_GM_Resources/Travel/Events/Sky_Events_Pack_C.md
+ create mode 100644 08_Archive/CLI_reference_materials/books/xanathars-guide-to-everything/1-introduction.md
+ create mode 100644 08_Archive/CLI_reference_materials/books/xanathars-guide-to-everything/2-character-options.md
+ create mode 100644 08_Archive/CLI_reference_materials/books/xanathars-guide-to-everything/4-spells.md
+ create mode 100644 08_Archive/CLI_reference_materials/books/xanathars-guide-to-everything/5-shared-campaigns.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/barbarian-xphb-path-of-the-berserker-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/barbarian-xphb-path-of-the-storm-herald-xge.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/barbarian-xphb-path-of-the-wild-heart-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/bard-xphb-college-of-glamour-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/bard-xphb-college-of-swords-xge.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/bard-xphb-college-of-valor-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/bard-xphb-college-of-whispers-xge.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/bard-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/cleric-xphb-forge-domain-xge.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/cleric-xphb-grave-domain-xge.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/cleric-xphb-knowledge-domain.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/cleric-xphb-life-domain-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/cleric-xphb-light-domain-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/classes/cleric-xphb-nature-domain.md
+ create mode 100644 08_Archive/CLI_reference_materials/items/firearm-bullets-10-xphb.md
+ create mode 100644 08_Archive/CLI_reference_materials/lists/list-spells-classes-paladin.md
+ create mode 100644 08_Archive/CLI_reference_materials/lists/list-spells-classes-warlock.md
+ create mode 100644 08_Archive/CLI_reference_materials/tables/human-names-norse-female-xge.md
+ create mode 100644 08_Archive/CLI_reference_materials/tables/treasure-hoard-challenge-17.md
+ create mode 100644 "backups/02_Worldbuilding/Lore/Dock Worker Tom\303\241s (conflicted).md"
+ create mode 100644 "backups/02_Worldbuilding/Lore/Gast\303\263n Flamb\303\251heart (conflicted).md"
+ create mode 100644 "backups/02_Worldbuilding/Places/Ma\303\256tre d' Pelagia Smoothcurrent (conflicted).md"
+ create mode 100644 scripts/optimize_folder_structure.py
+To https://github.com/BippleDops/Veridia.git
+   ad26479be..ae05d9136  main -> main
+date: invalid argument 's' for -I
+[] auto-commit cycle
+[] auto-commit cycle
+Embedded portraits into 0 People notes.
+Embedded heraldry into 0 Group notes.
+Embedded views into 0 Place notes.
+Upgraded 0 notes from SVG to PNG where available.
+Broad enrichment across 01..07 added assets to 3 notes.
+Built galleries:
+ - 04_Resources/Assets/Galleries/NPC_Portraits_Gallery.md
+ - 04_Resources/Assets/Galleries/Creatures_Gallery.md
+ - 04_Resources/Assets/Galleries/Locations_Gallery.md
+ - 04_Resources/Assets/Galleries/Scenes_Gallery.md
+ - 04_Resources/Assets/Galleries/Battle_Maps_Gallery.md
+ - 04_Resources/Assets/Galleries/Vehicles_&_Ships_Gallery.md
+ - 04_Resources/Assets/Galleries/Faction_Symbols_&_Heraldry.md
+ - 04_Resources/Assets/Galleries/In-World_Handouts_Gallery.md
+ - 04_Resources/Assets/Galleries/Magical_Items_Gallery.md
+ - 04_Resources/Assets/Galleries/Index.md
+Upgraded images in 0 markdown files and 0 canvas files.
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[main 5faf9e4a2] chore(nightly): batch assets + link/sweep
+ 4 files changed, 34 insertions(+)
+To https://github.com/BippleDops/Veridia.git
+   87f0d0295..5faf9e4a2  main -> main
+date: invalid argument 's' for -I
+[] auto-commit cycle
+[] auto-commit cycle
+Embedded portraits into 0 People notes.
+Embedded heraldry into 0 Group notes.
+Embedded views into 0 Place notes.
+Upgraded 0 notes from SVG to PNG where available.
+Broad enrichment across 01..07 added assets to 3 notes.
+Built galleries:
+ - 04_Resources/Assets/Galleries/NPC_Portraits_Gallery.md
+ - 04_Resources/Assets/Galleries/Creatures_Gallery.md
+ - 04_Resources/Assets/Galleries/Locations_Gallery.md
+ - 04_Resources/Assets/Galleries/Scenes_Gallery.md
+ - 04_Resources/Assets/Galleries/Battle_Maps_Gallery.md
+ - 04_Resources/Assets/Galleries/Vehicles_&_Ships_Gallery.md
+ - 04_Resources/Assets/Galleries/Faction_Symbols_&_Heraldry.md
+ - 04_Resources/Assets/Galleries/In-World_Handouts_Gallery.md
+ - 04_Resources/Assets/Galleries/Magical_Items_Gallery.md
+ - 04_Resources/Assets/Galleries/Index.md
+Upgraded images in 0 markdown files and 0 canvas files.
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[main 8d7fc3153] chore(nightly): batch assets + link/sweep
+ 4 files changed, 34 insertions(+)
+To https://github.com/BippleDops/Veridia.git
+   5268a13fb..8d7fc3153  main -> main
+date: invalid argument 's' for -I
+[] auto-commit cycle
+[] auto-commit cycle
+Embedded portraits into 0 People notes.
+Embedded heraldry into 0 Group notes.
+Embedded views into 0 Place notes.
+Upgraded 0 notes from SVG to PNG where available.
+Broad enrichment across 01..07 added assets to 3 notes.
+Built galleries:
+ - 04_Resources/Assets/Galleries/NPC_Portraits_Gallery.md
+ - 04_Resources/Assets/Galleries/Creatures_Gallery.md
+ - 04_Resources/Assets/Galleries/Locations_Gallery.md
+ - 04_Resources/Assets/Galleries/Scenes_Gallery.md
+ - 04_Resources/Assets/Galleries/Battle_Maps_Gallery.md
+ - 04_Resources/Assets/Galleries/Vehicles_&_Ships_Gallery.md
+ - 04_Resources/Assets/Galleries/Faction_Symbols_&_Heraldry.md
+ - 04_Resources/Assets/Galleries/In-World_Handouts_Gallery.md
+ - 04_Resources/Assets/Galleries/Magical_Items_Gallery.md
+ - 04_Resources/Assets/Galleries/Index.md
+Upgraded images in 0 markdown files and 0 canvas files.
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[main 92fcdf2a3] chore(nightly): batch assets + link/sweep
+ 4 files changed, 34 insertions(+)
+To https://github.com/BippleDops/Veridia.git
+   0da8b385e..92fcdf2a3  main -> main
+date: invalid argument 's' for -I
+[] auto-commit cycle
+[] auto-commit cycle
+Embedded portraits into 0 People notes.
+Embedded heraldry into 0 Group notes.
+Embedded views into 0 Place notes.
+Upgraded 0 notes from SVG to PNG where available.
+Broad enrichment across 01..07 added assets to 3 notes.
+Built galleries:
+ - 04_Resources/Assets/Galleries/NPC_Portraits_Gallery.md
+ - 04_Resources/Assets/Galleries/Creatures_Gallery.md
+ - 04_Resources/Assets/Galleries/Locations_Gallery.md
+ - 04_Resources/Assets/Galleries/Scenes_Gallery.md
+ - 04_Resources/Assets/Galleries/Battle_Maps_Gallery.md
+ - 04_Resources/Assets/Galleries/Vehicles_&_Ships_Gallery.md
+ - 04_Resources/Assets/Galleries/Faction_Symbols_&_Heraldry.md
+ - 04_Resources/Assets/Galleries/In-World_Handouts_Gallery.md
+ - 04_Resources/Assets/Galleries/Magical_Items_Gallery.md
+ - 04_Resources/Assets/Galleries/Index.md
+Upgraded images in 0 markdown files and 0 canvas files.
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[main b0c751557] chore(nightly): batch assets + link/sweep
+ 4 files changed, 34 insertions(+)
+To https://github.com/BippleDops/Veridia.git
+   3127f783e..b0c751557  main -> main
+date: invalid argument 's' for -I
+[] auto-commit cycle
+[] auto-commit cycle
+Embedded portraits into 0 People notes.
+Embedded heraldry into 0 Group notes.
+Embedded views into 0 Place notes.
+Upgraded 0 notes from SVG to PNG where available.
+Broad enrichment across 01..07 added assets to 3 notes.
+Built galleries:
+ - 04_Resources/Assets/Galleries/NPC_Portraits_Gallery.md
+ - 04_Resources/Assets/Galleries/Creatures_Gallery.md
+ - 04_Resources/Assets/Galleries/Locations_Gallery.md
+ - 04_Resources/Assets/Galleries/Scenes_Gallery.md
+ - 04_Resources/Assets/Galleries/Battle_Maps_Gallery.md
+ - 04_Resources/Assets/Galleries/Vehicles_&_Ships_Gallery.md
+ - 04_Resources/Assets/Galleries/Faction_Symbols_&_Heraldry.md
+ - 04_Resources/Assets/Galleries/In-World_Handouts_Gallery.md
+ - 04_Resources/Assets/Galleries/Magical_Items_Gallery.md
+ - 04_Resources/Assets/Galleries/Index.md
+Upgraded images in 0 markdown files and 0 canvas files.
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[main c2b9abf77] chore(nightly): batch assets + link/sweep
+ 4 files changed, 34 insertions(+)
+To https://github.com/BippleDops/Veridia.git
+   e9ec91b25..c2b9abf77  main -> main
+date: invalid argument 's' for -I
+[] auto-commit cycle
+[] auto-commit cycle
+Embedded portraits into 0 People notes.
+Embedded heraldry into 0 Group notes.
+Embedded views into 0 Place notes.
+Upgraded 0 notes from SVG to PNG where available.
+Broad enrichment across 01..07 added assets to 3 notes.
+Built galleries:
+ - 04_Resources/Assets/Galleries/NPC_Portraits_Gallery.md
+ - 04_Resources/Assets/Galleries/Creatures_Gallery.md
+ - 04_Resources/Assets/Galleries/Locations_Gallery.md
+ - 04_Resources/Assets/Galleries/Scenes_Gallery.md
+ - 04_Resources/Assets/Galleries/Battle_Maps_Gallery.md
+ - 04_Resources/Assets/Galleries/Vehicles_&_Ships_Gallery.md
+ - 04_Resources/Assets/Galleries/Faction_Symbols_&_Heraldry.md
+ - 04_Resources/Assets/Galleries/In-World_Handouts_Gallery.md
+ - 04_Resources/Assets/Galleries/Magical_Items_Gallery.md
+ - 04_Resources/Assets/Galleries/Index.md
+Upgraded images in 0 markdown files and 0 canvas files.
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[main 3c777004a] chore(nightly): batch assets + link/sweep
+ 4 files changed, 34 insertions(+)
+To https://github.com/BippleDops/Veridia.git
+   885971fae..3c777004a  main -> main

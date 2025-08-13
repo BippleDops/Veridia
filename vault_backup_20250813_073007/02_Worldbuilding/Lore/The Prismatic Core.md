@@ -1,0 +1,43 @@
+---
+created: '2025-08-11'
+status: complete
+tags:
+- content/lore
+- status/in-progress
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:38.707269'
+world: Both
+---
+
+
+
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Crystallium|02 Worldbuilding/Places/Crystallium]]
+
+
+## Connections
+
+- [[Crystallium]]
+
+## Player-Facing Summary
+
+The Prismatic Core is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Prismatic Core as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Prismatic Core.
+
+## Adventure Hooks
+
+- A rumor ties The Prismatic Core to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Prismatic Core to avert a public scandal.
+- A map overlay reveals a hidden approach to The Prismatic Core active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

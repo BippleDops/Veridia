@@ -2,7 +2,7 @@
   {
     "file": "04_Resources/Assets/Audio/Curated/Aethermoor/Airship_Ambience.wav",
     "world": "Aethermoor",
-    "peak": 0.190826416015625,
+    "peak": 0.20013427734375,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/Airship_Ambience.wav"
@@ -26,7 +26,7 @@
   {
     "file": "04_Resources/Assets/Audio/Curated/Aethermoor/Storm_Approach.wav",
     "world": "Aethermoor",
-    "peak": 0.54339599609375,
+    "peak": 0.54705810546875,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/Storm_Approach.wav"
@@ -306,7 +306,7 @@
   {
     "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/Coral_Reef_Clicks.wav",
     "world": "Aquabyssos",
-    "peak": 0.107086181640625,
+    "peak": 0.106964111328125,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Coral_Reef_Clicks.wav"
@@ -346,7 +346,7 @@
   {
     "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/Trench_Geyser.wav",
     "world": "Aquabyssos",
-    "peak": 0.0611572265625,
+    "peak": 0.06292724609375,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Trench_Geyser.wav"
@@ -354,7 +354,7 @@
   {
     "file": "04_Resources/Assets/Audio/Curated/Aquabyssos/Underwater_Ambience.wav",
     "world": "Aquabyssos",
-    "peak": 0.220245361328125,
+    "peak": 0.2127685546875,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Underwater_Ambience.wav"
@@ -770,7 +770,7 @@
   {
     "file": "04_Resources/Assets/Audio/Curated/Generic/Library_Whisper.wav",
     "world": "Generic",
-    "peak": 0.12591552734375,
+    "peak": 0.1259765625,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Generic/Library_Whisper.wav"
@@ -778,7 +778,7 @@
   {
     "file": "04_Resources/Assets/Audio/Curated/Generic/Market_Ambience.wav",
     "world": "Generic",
-    "peak": 0.134857177734375,
+    "peak": 0.134796142578125,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Generic/Market_Ambience.wav"
@@ -802,7 +802,7 @@
   {
     "file": "04_Resources/Assets/Audio/Curated/Generic/Tavern_Chatter.wav",
     "world": "Generic",
-    "peak": 0.1739501953125,
+    "peak": 0.173980712890625,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Generic/Tavern_Chatter.wav"
@@ -962,7 +962,7 @@
   {
     "file": "04_Resources/Assets/Audio/Generated/Airship_Ambience.wav",
     "world": "Aethermoor",
-    "peak": 0.19329833984375,
+    "peak": 0.200408935546875,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/Airship_Ambience.wav"
@@ -978,7 +978,7 @@
   {
     "file": "04_Resources/Assets/Audio/Generated/Coral_Reef_Clicks.wav",
     "world": "Aquabyssos",
-    "peak": 0.10699462890625,
+    "peak": 0.107818603515625,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Coral_Reef_Clicks.wav"
@@ -1018,7 +1018,7 @@
   {
     "file": "04_Resources/Assets/Audio/Generated/Library_Whisper.wav",
     "world": "Generic",
-    "peak": 0.125946044921875,
+    "peak": 0.1259765625,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Generic/Library_Whisper.wav"
@@ -1034,7 +1034,7 @@
   {
     "file": "04_Resources/Assets/Audio/Generated/Market_Ambience.wav",
     "world": "Generic",
-    "peak": 0.134979248046875,
+    "peak": 0.1348876953125,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Generic/Market_Ambience.wav"
@@ -1074,7 +1074,7 @@
   {
     "file": "04_Resources/Assets/Audio/Generated/Storm_Approach.wav",
     "world": "Aethermoor",
-    "peak": 0.553009033203125,
+    "peak": 0.571807861328125,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Aethermoor/Storm_Approach.wav"
@@ -1082,7 +1082,7 @@
   {
     "file": "04_Resources/Assets/Audio/Generated/Tavern_Chatter.wav",
     "world": "Generic",
-    "peak": 0.1739501953125,
+    "peak": 0.17388916015625,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Generic/Tavern_Chatter.wav"
@@ -1098,7 +1098,7 @@
   {
     "file": "04_Resources/Assets/Audio/Generated/Trench_Geyser.wav",
     "world": "Aquabyssos",
-    "peak": 0.058868408203125,
+    "peak": 0.0623779296875,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Trench_Geyser.wav"
@@ -1106,7 +1106,7 @@
   {
     "file": "04_Resources/Assets/Audio/Generated/Underwater_Ambience.wav",
     "world": "Aquabyssos",
-    "peak": 0.21441650390625,
+    "peak": 0.222259521484375,
     "clips": false,
     "needsHeadroom": false,
     "curated": "04_Resources/Assets/Audio/Curated/Aquabyssos/Underwater_Ambience.wav"

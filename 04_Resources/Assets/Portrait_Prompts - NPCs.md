@@ -36093,3 +36093,103 @@ The actions and decisions involving Major NPC Portrait Prompts create cascading 
 ```json
 []
 ```
+\n\n## Aethermoor portrait prompts (2025-08-13T19:06:12Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T19:06:22Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T19:10:43Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T19:11:28Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T19:15:05Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T19:16:43Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T19:19:25Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T19:21:59Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T19:23:46Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T19:27:15Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T19:28:07Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T19:32:28Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T19:32:31Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T19:36:48Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T19:37:46Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T19:41:09Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T19:43:02Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T19:45:30Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T19:48:19Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T19:49:51Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T19:53:35Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T19:54:13Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T19:58:34Z)\n
+```json
+[]
+```
+\n\n## Aethermoor portrait prompts (2025-08-13T19:58:50Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos portrait prompts (2025-08-13T20:02:55Z)\n
+```json
+[]
+```

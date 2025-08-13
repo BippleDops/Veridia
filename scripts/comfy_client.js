@@ -53,7 +53,7 @@ function buildPromptGraph({ prompt, width = 512, height = 512, steps = 20, cfg =
         'seed': seed,
         'steps': steps,
         'cfg': cfg,
-        'sampler_name': 'euler',
+        'sampler_name': 'euler_ancestral',
         'scheduler': 'normal',
         'denoise': 1,
         'model': [ '3', 0 ],

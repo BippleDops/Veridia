@@ -1,49 +1,47 @@
 ---
-tags:
-- aquabyssos
-- complete
-- coral-crown
-- crisis-leadership
-- deep-nobility
-- npc
-- person
-- political-leader
-- queen
-- royalty
-status: complete
-world: Aquabyssos
-type: npc
-role: Reigning Monarch
+access_level: Royal Court Only
 affiliation: '[[The Coral Crown]]'
 age: '47'
-race: Human (Deep-Adapted)
-location: '[[The Royal Palace - Aquabyssos]]'
-title: Queen of the Depths, Sovereign of the Coral Throne, Protector of the Abyssal
-  Realms
-reign_length: 23 years
-ruling_style: Constitutional Monarchy with Emergency Powers
-political_alignment: Moderate Progressive
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.219460+00:00'
-notable_achievements:
-- Survived the Depth Crown Crisis
-- Established the Modern Parliament System
-- Led Defense Against the Shadow Incursions
-- Negotiated Peace with Surface Realms
 current_challenges:
 - The Scattered Emperor Problem
 - Rising Political Extremism
 - Deep Mother Activity Increase
 - Economic Instability from Crisis
+danger_level: 2
+influence_level: Maximum within Aquabyssos
+location: '[[The Royal Palace - Aquabyssos]]'
+notable_achievements:
+- Survived the Depth Crown Crisis
+- Established the Modern Parliament System
+- Led Defense Against the Shadow Incursions
+- Negotiated Peace with Surface Realms
 personality_traits:
 - Diplomatic but Decisive
 - Protective of Citizens
 - Burden of Crown Weighs Heavily
 - Pragmatic about Power
-danger_level: 2
-influence_level: Maximum within Aquabyssos
-access_level: Royal Court Only
+political_alignment: Moderate Progressive
+race: Human (Deep-Adapted)
+reign_length: 23 years
+role: Reigning Monarch
+ruling_style: Constitutional Monarchy with Emergency Powers
+status: complete
+tags:
+- campaign/hook
+- content/npc
+- coral-crown
+- deep-nobility
+- queen
+- royalty
+- status/complete
+- world/aquabyssos
+title: Queen of the Depths, Sovereign of the Coral Throne, Protector of the Abyssal
+  Realms
+type: Npc
+updated: '2025-08-12T23:37:38.794719'
+world: Aquabyssos
 ---
 
 

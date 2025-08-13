@@ -1,20 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-background
-tags:
-- active
-- both
-- note
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/phb
 aliases:
 - Urchin
-type: note
 created: 2025-07-23
-updated: '2025-08-13T01:18:32.436058+00:00'
+cssclasses: json5e-background
 modified: 2025-07-23 12:39
-world: Both
+obsidianUIMode: preview
 status: active
+tags:
+- content/lore
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/phb
+- world/both
+type: note
+updated: '2025-08-12T23:37:34.937094'
+world: Both
 ---
 
 

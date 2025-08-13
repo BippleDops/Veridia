@@ -1,17 +1,16 @@
 ---
-tags:
-- both worlds
-- both-worlds
-- complete
-- dimensional-stability
-- infrastructure
-- place
-- reality-anchors
-type: Place
-world: Both Worlds
+created: '2025-08-12'
 status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:36.349777+00:00'
+tags:
+- content/location
+- content/template
+- mechanics/skill
+- reality-anchors
+- status/complete
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.183114'
+world: Both Worlds
 ---
 
 > [!figure] View

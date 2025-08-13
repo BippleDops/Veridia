@@ -1,20 +1,19 @@
 ---
-status: complete
+created: '2025-08-11'
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
+status: complete
 tags:
-- aethermoor
-- both
 - celebration
-- complete
-- crystal-festival
+- content/lore
 - grounds
-- lore
+- status/complete
+- world/aethermoor
+- world/both
 - worldbuilding
-world: Both
-updated: 2025-08-11
-created: 2025-08-11
 type: Lore
+updated: '2025-08-12T23:37:37.928344'
+world: Both
 ---
 
 

@@ -1,20 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-feat
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/feat
 aliases:
 - Linguist
-type: note
 created: 2025-07-23
-updated: '2025-08-13T01:18:32.208895+00:00'
+cssclasses: json5e-feat
 modified: 2025-07-23 12:39
-world: Both
+obsidianUIMode: preview
 status: active
+tags:
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/phb
+- ttrpg-cli/feat
+- world/both
+type: note
+updated: '2025-08-12T23:37:34.496920'
+world: Both
 ---
 
 # Linguist

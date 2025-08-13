@@ -1,14 +1,14 @@
 ---
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- aquabyssos
-- faction
-- lore
+- content/faction
+- content/lore
+- status/in-progress
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:39.393805'
 world: Aquabyssos
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:35.690677+00:00'
 ---
 
 

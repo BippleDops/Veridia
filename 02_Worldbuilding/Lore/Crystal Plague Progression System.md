@@ -1,16 +1,16 @@
 ---
-tags:
-- aquabyssos
-- complete
-- crystal
-- lore
-- mechanics
-- plague
-type: lore
-world: Aquabyssos
-status: complete
 created: '2025-08-12'
-updated: '2025-08-13T01:18:35.536257+00:00'
+status: complete
+tags:
+- content/lore
+- content/mechanics
+- plague
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:39.210363'
+world: Aquabyssos
 ---
 
 

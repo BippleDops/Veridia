@@ -1,30 +1,28 @@
 ---
-tags:
-- ancient_power
-- aquabyssos
-- artifact
-- completed
-- dual
-- legendary_artifact
-- legendary_weapon
-- lore
-- tide_magic
-status: completed
-type: Lore
-world: dual
 connections:
 - '[[Tide Turner]]'
 - '[[Deep Mother]]'
 - '[[Ancient Aquabyssos Rulers]]'
 - '[[Tidal Council]]'
 - '[[The Drowned God]]'
+created: '2025-08-11'
+status: draft
+tags:
+- ancient_power
+- content/item
+- content/lore
+- dual
+- mechanics/magic
+- status/complete
+- world/aquabyssos
 themes:
 - mastery_over_currents
 - balance_of_power
 - ancient_bloodlines
 - oceanic_authority
-created: 2025-08-11
-updated: 2025-08-11
+type: Lore
+updated: '2025-08-12T23:37:38.684169'
+world: dual
 ---
 
 

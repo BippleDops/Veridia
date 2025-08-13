@@ -1,20 +1,19 @@
 ---
-tags:
-- active
-- both
-- investigation
-- lore
-- player-resource
-- random-tables
-- rumor-table
-- rumors
-type: Lore
+created: '2025-08-07'
 location: Abyssos Prime
 spoiler_level: Mixed truth and lies
-created: 2025-08-07
+status: complete
+tags:
+- campaign/hook
+- content/lore
+- mechanics/exploration
+- player-resource
+- random-tables
+- status/in-progress
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:41.257551'
 world: Both
-updated: '2025-08-13T01:18:37.211947+00:00'
-status: active
 ---
 
 

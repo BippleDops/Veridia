@@ -1,22 +1,21 @@
 ---
+created: '2025-08-11'
+created_by: cultural-expansion
+status: complete
 tags:
-- aethermoor
-- aquabyssos
-- both
-- complete
+- content/lore
 - culture
 - customs
-- diplomacy
 - inter-realm
-- lore
 - marriage
-- social-practices
-status: complete
-world: Both
+- mechanics/social
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
 type: Lore
-created_by: cultural-expansion
-created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.183375'
+world: Both
 ---
 
 

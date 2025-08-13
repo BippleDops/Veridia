@@ -1,42 +1,40 @@
 ---
-tags:
-- aquabyssos
-- aquabyssos-history
-- bathyal-zone
-- civil-war
-- complete
-- historical-event
-- historical-events
-- history
-- lore
-- political-conflict
-- royal-succession
-- succession
-- timeline
-- war
-status: complete
-world: Aquabyssos
-type: Lore
 category: Political Succession War
-significance: Constitutional Crisis
-time_period: Years 234-267 AS (After Submersion)
+created: '2025-08-08'
+created_by: auto-stub
 duration: 33 years of active conflict
-scale: Continental (All Depth Zones)
+outcome: Establishment of Modern Parliamentary System
 participants:
 - Bathyal Royal Houses
 - Deep Parliament
 - Pressure Nobility
 - Hadal Council
-outcome: Establishment of Modern Parliamentary System
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
 related_entities:
 - '[[The Parliament of Echoes]]'
 - '[[Aboleth Prime Yoth]]'
 - '[[The Deep Mother]]'
 - '[[Emperor Thalassius]]'
 - '[[The Pressure Wars]]'
+scale: Continental (All Depth Zones)
+significance: Constitutional Crisis
+status: complete
+tags:
+- bathyal-zone
+- civil-war
+- content/lore
+- historical-event
+- historical-events
+- mechanics/combat
+- royal-succession
+- status/complete
+- succession
+- timeline
+- war
+- world/aquabyssos
+time_period: Years 234-267 AS (After Submersion)
+type: Lore
+updated: '2025-08-12T23:37:39.456779'
+world: Aquabyssos
 ---
 
 

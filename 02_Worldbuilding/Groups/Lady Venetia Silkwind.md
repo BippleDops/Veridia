@@ -1,29 +1,27 @@
 ---
-tags:
-- aethermoor
-- complete
-- faction
-- group
-- luxury-goods
-- merchant-guild
-- silk-trade
-- textiles
-status: complete
-world: Aethermoor
-type: Group
-faction_type: Luxury Merchant Guild
+MyCategory: Unknown
+MyContainer: None
 alignment: Lawful Neutral
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Luxury Merchant Guild
 headquarters: '[[The Golden Loom]]'
+influence: International (Aethermoor and Aquabyssos)
 leader: '[[Lady Venetia Silkwind]]'
 members: ~800 artisans, merchants, and traders
-influence: International (Aethermoor and Aquabyssos)
-wealth: Exceptional (luxury goods monopoly)
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.701745+00:00'
-MyContainer: None
-MyCategory: Unknown
 obsidianUIMode: preview
+status: complete
+tags:
+- content/faction
+- luxury-goods
+- silk-trade
+- status/complete
+- textiles
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.633843'
+wealth: Exceptional (luxury goods monopoly)
+world: Aethermoor
 ---
 
 

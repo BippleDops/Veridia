@@ -1,18 +1,18 @@
 ---
+campaign: Aquabyssos
+created: '2025-08-07'
+status: complete
+system: D&D 5e
 tags:
-- active
-- aquabyssos
-- encounters
-- lore
+- campaign/session
+- content/lore
 - random-tables
 - reference
+- status/in-progress
+- world/aquabyssos
 type: Lore
-system: D&D 5e
-campaign: Aquabyssos
-created: 2025-08-07
+updated: '2025-08-12T23:37:41.258884'
 world: Aquabyssos
-updated: '2025-08-13T01:18:37.213178+00:00'
-status: active
 ---
 
 

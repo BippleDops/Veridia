@@ -1,19 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/xphb
 aliases:
 - Mounts and Vehicles; Mounts and Other Animals
-type: note
 created: 2025-07-23 12:39
+cssclasses: json5e-note
 modified: 2025-07-23 12:39
-updated: '2025-08-13T01:18:31.556254+00:00'
-world: Both
+obsidianUIMode: preview
 status: active
+tags:
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xphb
+- world/both
+type: note
+updated: '2025-08-12T23:37:33.627790'
+world: Both
 ---
 
 # Mounts and Vehicles; Mounts and Other Animals

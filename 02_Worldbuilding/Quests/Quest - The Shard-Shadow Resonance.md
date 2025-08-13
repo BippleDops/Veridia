@@ -1,13 +1,13 @@
 ---
-created: 2024-01-01
-updated: '2025-08-13T04:22:13.291795+00:00'
-world: Both
-status: active
+created: '2024-01-01'
+status: complete
 tags:
-- active
-- both
-- quest
-type: Quest
+- content/adventure
+- status/in-progress
+- world/both
+type: Adventure
+updated: '2025-08-12T23:37:37.760862'
+world: Both
 ---
 
 

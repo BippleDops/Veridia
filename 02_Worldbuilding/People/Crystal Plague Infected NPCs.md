@@ -1,18 +1,16 @@
 ---
-tags:
-- aquabyssos
-- character-profiles
-- complete
-- crystal
-- infected
-- npcs
-- people
-- plague
-type: people
-world: Aquabyssos
-status: complete
 created: '2025-08-12'
-updated: '2025-08-13T01:18:36.858165+00:00'
+status: complete
+tags:
+- content/npc
+- infected
+- plague
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.816670'
+world: Aquabyssos
 ---
 
 > [!figure] Portrait

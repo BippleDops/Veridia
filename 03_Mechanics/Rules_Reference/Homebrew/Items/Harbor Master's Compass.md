@@ -1,32 +1,30 @@
 ---
-tags:
-- active
-- both
-- compass
-- item
-- magic-item
-- quest-reward
-- wondrous-item
 aliases:
 - Strange Compass
 - The Wayward Needle
+attunement: true
+created: '2025-01-25'
 cssclasses:
 - magic-item
 - rare-item
-type: Item
-rarity: Rare
-attunement: true
-school: Divination
-price: 2500
-weight: 1
 description: A brass compass whose needle spins wildly, pointing toward mysteries
   rather than magnetic north
 image_path: 04_Resources/Assets/Items/harbor_masters_compass.jpg
-created: 2025-01-25
 modified: 2025-07-23 12:39
+price: 2500
+rarity: Rare
+school: Divination
+status: complete
+tags:
+- compass
+- content/adventure
+- content/item
+- status/in-progress
+- world/both
+type: Item
+updated: '2025-08-12T23:37:41.135305'
+weight: 1
 world: Both
-updated: '2025-08-13T01:18:37.139811+00:00'
-status: active
 ---
 
 

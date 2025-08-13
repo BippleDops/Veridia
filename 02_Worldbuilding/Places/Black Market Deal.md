@@ -1,22 +1,22 @@
 ---
+MyCategory: Quest
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
 - black_market
-- complete
+- content/adventure
+- content/location
 - deal
 - intrigue
-- location
-- quest
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
-MyCategory: Quest
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.023636+00:00'
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.793783'
+world: Aquabyssos
 ---
 
 

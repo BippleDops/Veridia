@@ -1,31 +1,27 @@
 ---
-tags:
-- aquabyssos
-- aquatic-ecology
-- bioluminescent-ecosystem
-- complete
-- crystal-coral-synthesis
-- deep-sea-agriculture
-- environmental-phenomenon
-- environmental-zone
-- lore
-- marine-biodiversity
-- pressure-adapted-flora
-- underwater-cultivation
-status: complete
-world: Aquabyssos
-type: Lore
+access_level: Managed Cultivation
+biodiversity_index: Exceptional
 category: Environmental Zone
-significance: Critical Ecosystem
+created: '2025-08-08'
 created_by: environmental-expansion
-created: 2025-08-08
-updated: 2025-08-11
-zone_type: Bioluminescent Agricultural Complex
 danger_level: Low to Moderate
 ecological_status: Thriving
-access_level: Managed Cultivation
 seasonal_variation: Bioluminescent Tide Cycles
-biodiversity_index: Exceptional
+significance: Critical Ecosystem
+status: complete
+tags:
+- aquatic-ecology
+- content/lore
+- content/mechanics
+- environmental-phenomenon
+- environmental-zone
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:39.304897'
+world: Aquabyssos
+zone_type: Bioluminescent Agricultural Complex
 ---
 
 

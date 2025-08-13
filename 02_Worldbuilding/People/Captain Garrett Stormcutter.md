@@ -1,46 +1,45 @@
 ---
-tags:
-- alive
-- both
-- category/people
-- free_current
-- merchant
-- npc
-- smuggler
+MyCategory: Unknown
+MyContainer: None
 aliases:
 - Captain Stormcutter
 - The Honest Smuggler
 - Garrett
-created: 2024-12-19
-image: 04_Resources/Assets/NPCs/garrett_stormcutter.jpg
-level: 11
-class: Rogue/Fighter
-race: Surface-Preserved Human
 alignment: Chaotic Good
-status: Alive
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-relationships:
-- target: '[[Admiral Thorne Blackwater]]'
-  type: rival
-  strength: 3
-- target: '[[The Whisper Syndicate]]'
-  type: ally
-  strength: 2
-- target: '[[Prince Caspian Duskwater]]'
-  type: neutral
-  strength: 1
-- target: '[[Template-Person]]'
-  type: ally
-  strength: 3
+class: Rogue/Fighter
+created: '2024-12-19'
+current_hp: 15
+image: 04_Resources/Assets/NPCs/garrett_stormcutter.jpg
 in_combat: true
 initiative: 12
-current_hp: 15
+level: 11
 max_hp: 20
+obsidianUIMode: preview
+race: Surface-Preserved Human
+relationships:
+- strength: 3
+  target: '[[Admiral Thorne Blackwater]]'
+  type: rival
+- strength: 2
+  target: '[[The Whisper Syndicate]]'
+  type: ally
+- strength: 1
+  target: '[[Prince Caspian Duskwater]]'
+  type: neutral
+- strength: 3
+  target: '[[Template-Person]]'
+  type: ally
+status: draft
+tags:
+- alive
+- content/npc
+- merchant
+- smuggler
+- status/in-progress
+- world/both
+type: Npc
+updated: '2025-08-12T23:37:41.038209'
 world: Both
-updated: 2025-08-11
-type: NPC
 ---
 
 

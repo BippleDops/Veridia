@@ -1,31 +1,30 @@
 ---
-tags:
-- aquabyssos
-- communal
-- complete
-- current
-- location
-- neutral
-- trade-route
-- transportation
-- transportation-corridor
-- underwater-highway
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 danger_level: 3
-length: Over 2,000 miles of interconnected currents
-traffic: High - Major commercial and civilian route
-government: Collective Self-Governance
-population: ~15,000 (rotating community of travelers and workers)
 established: Ancient natural phenomenon, organized 400+ years ago
-created: 2025-08-08
-updated: 2025-08-11
+government: Collective Self-Governance
+length: Over 2,000 miles of interconnected currents
+population: ~15,000 (rotating community of travelers and workers)
 related_entities:
 - '[[02_Worldbuilding/Groups/Current Riders Guild]]'
 - '[[02_Worldbuilding/Places/Abyssos Prime]]'
 - '[[02_Worldbuilding/Places/New Tethys]]'
 - '[[02_Worldbuilding/Places/The Memory Meadows]]'
+status: complete
+tags:
+- communal
+- content/location
+- neutral
+- status/complete
+- status/in-progress
+- trade-route
+- transportation
+- transportation-corridor
+- world/aquabyssos
+traffic: High - Major commercial and civilian route
+type: Location
+updated: '2025-08-12T23:37:39.841763'
+world: Aquabyssos
 ---
 
 > [!figure] View

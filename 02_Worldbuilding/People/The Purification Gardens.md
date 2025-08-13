@@ -1,21 +1,21 @@
 ---
+MyCategory: Religious
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
+obsidianUIMode: preview
+status: complete
 tags:
-- aethermoor
-- complete
+- content/location
+- content/npc
 - gardens
 - healing
-- location
-- npc
 - purification
-status: complete
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:40.959971'
 world: Aethermoor
-type: NPC
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
-MyCategory: Religious
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.970774+00:00'
 ---
 
 

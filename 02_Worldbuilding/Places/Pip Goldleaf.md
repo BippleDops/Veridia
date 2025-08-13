@@ -1,34 +1,33 @@
 ---
-tags:
-- aethermoor
-- apprentice
-- character
-- complete
-- family
-- goldleaf
-- heir
-- location
-- merchant
-- npc
-- pip
-- young
-status: complete
-world: Aethermoor
-type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.977668+00:00'
-character_type: Merchant Heir
-faction: Goldleaf Trading House
-class: Rogue/Noble
-level: 6
-cr: 4
-occupation: Apprentice Merchant
-location: Various Trade Routes, Aethermoor
-MyContainer: None
 MyCategory: Unknown
-obsidianUIMode: preview
+MyContainer: None
+character_type: Merchant Heir
+class: Rogue/Noble
+cr: 4
+created: '2025-08-08'
+created_by: auto-stub
 danger_level: Moderate
+faction: Goldleaf Trading House
+level: 6
+location: Various Trade Routes, Aethermoor
+obsidianUIMode: preview
+occupation: Apprentice Merchant
+status: complete
+tags:
+- apprentice
+- content/location
+- content/npc
+- family
+- heir
+- merchant
+- pip
+- status/archived
+- status/complete
+- world/aethermoor
+- young
+type: Location
+updated: '2025-08-12T23:37:39.757539'
+world: Aethermoor
 ---
 
 > [!figure] View

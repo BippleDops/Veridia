@@ -1,13 +1,13 @@
 ---
-world: Both
-updated: '2025-08-13T01:18:36.867584+00:00'
-created: 2025-08-11
-status: active
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- both
-- npc
-type: NPC
+- content/npc
+- status/in-progress
+- world/both
+type: Npc
+updated: '2025-08-12T23:37:40.829795'
+world: Both
 ---
 
 

@@ -1,27 +1,27 @@
 ---
-tags:
-- aethermoor
-- complete
-- conspiracy
-- high-stakes
-- investigation
-- location
-- mystery
-- political-intrigue
-- quest
-status: complete
-world: Aethermoor
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.605275+00:00'
-quest_type: Investigation/Political Thriller
+danger_level: Moderate
+difficulty: Hard
+duration: 6-8 sessions
 level_range: 5-10
 party_size: 3-6 characters
-duration: 6-8 sessions
-difficulty: Hard
 primary_location: Port Meridian and surrounding regions
-danger_level: Moderate
+quest_type: Investigation/Political Thriller
+status: complete
+tags:
+- conspiracy
+- content/adventure
+- content/location
+- high-stakes
+- mechanics/exploration
+- mystery
+- political-intrigue
+- status/complete
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:40.549174'
+world: Aethermoor
 ---
 
 

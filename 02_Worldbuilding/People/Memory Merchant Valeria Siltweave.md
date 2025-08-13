@@ -1,23 +1,22 @@
 ---
-tags:
-- aquabyssos
-- business-owner
-- complete
-- ethical-merchant
-- memory-trader
-- npc
-- person
-status: complete
-world: Aquabyssos
-type: NPC
-role: Ethical Memory Merchant
 affiliation: '[[Memory Farmers]] (Reformed Branch)'
 age: '36'
-race: Human
-location: '[[Memory Meadows]] - The Ethical Exchange'
+created: '2025-08-09'
 created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
+location: '[[Memory Meadows]] - The Ethical Exchange'
+race: Human
+role: Ethical Memory Merchant
+status: complete
+tags:
+- business-owner
+- content/npc
+- ethical-merchant
+- memory-trader
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.872023'
+world: Aquabyssos
 ---
 
 

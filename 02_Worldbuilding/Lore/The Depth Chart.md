@@ -1,26 +1,23 @@
 ---
+access_restriction: Public Access with Security Restrictions
+category: Navigation Technology
+created: '2025-08-08'
+created_by: auto-stub
+significance: Critical Infrastructure
+status: complete
 tags:
-- aquabyssos
 - cartography
-- complete
-- depth-mapping
+- content/lore
+- content/mechanics
 - innovation
-- lore
-- navigation-system
-- pressure-zones
+- status/complete
 - survey-technology
 - technology
-- underwater-navigation
-status: complete
-world: Aquabyssos
-type: Lore
-category: Navigation Technology
-significance: Critical Infrastructure
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+- world/aquabyssos
 technology_type: Advanced Underwater Mapping System
-access_restriction: Public Access with Security Restrictions
+type: Lore
+updated: '2025-08-12T23:37:38.865281'
+world: Aquabyssos
 ---
 
 

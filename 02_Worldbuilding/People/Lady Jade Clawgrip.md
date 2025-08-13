@@ -1,23 +1,22 @@
 ---
-tags:
-- aethermoor
-- complete
-- corporate-raider
-- npc
-- person
-- ruthless-executive
-- silverscale-consortium
-status: complete
-world: Aethermoor
-type: NPC
-role: Scale of Acquisition
 affiliation: '[[02_Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales'
 age: '38'
-race: Half-Dragon (Silver Heritage)
-location: '[[The Silver Tower of Commerce]] - Acquisitions Floor'
+created: '2025-08-09'
 created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
+location: '[[The Silver Tower of Commerce]] - Acquisitions Floor'
+race: Half-Dragon (Silver Heritage)
+role: Scale of Acquisition
+status: complete
+tags:
+- content/npc
+- corporate-raider
+- ruthless-executive
+- silverscale-consortium
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:41.045336'
+world: Aethermoor
 ---
 
 

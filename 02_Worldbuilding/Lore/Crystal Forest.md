@@ -1,29 +1,27 @@
 ---
-tags:
-- aquabyssos
-- bio-magical-farming
-- complete
-- crystal-cultivation
-- crystal-technology
-- innovation
-- location
-- lore
-- magical-agriculture
-- resource-production
-- sustainability
-status: complete
-world: Aquabyssos
-type: Lore
-category: Resource Production Facility
-significance: Critical Infrastructure
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-location_type: Magical Agricultural Complex
-scope: City-Wide Resource Production
-danger_level: Moderate
-magical_properties: Crystal Growth Acceleration
 access_restriction: Authorized Personnel and Guided Tours
+category: Resource Production Facility
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+location_type: Magical Agricultural Complex
+magical_properties: Crystal Growth Acceleration
+scope: City-Wide Resource Production
+significance: Critical Infrastructure
+status: complete
+tags:
+- content/location
+- content/lore
+- innovation
+- mechanics/magic
+- mechanics/skill
+- resource-production
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:38.899860'
+world: Aquabyssos
 ---
 
 

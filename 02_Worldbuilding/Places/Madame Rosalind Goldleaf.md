@@ -1,33 +1,32 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+character_type: Noble Merchant
+class: Noble/Bard
+cr: 8
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+faction: Goldleaf Trading House
+level: 11
+location: Goldleaf Manor, Aethermoor
+obsidianUIMode: preview
+occupation: Trading House Matriarch
+status: complete
 tags:
-- aethermoor
-- character
-- complete
-- goldleaf
+- content/location
+- content/npc
 - influencer
-- location
 - madame
+- mechanics/social
 - merchant
 - noble
-- npc
-- socialite
-status: complete
-world: Aethermoor
+- status/archived
+- status/complete
+- world/aethermoor
 type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.973337+00:00'
-character_type: Noble Merchant
-faction: Goldleaf Trading House
-class: Noble/Bard
-level: 11
-cr: 8
-occupation: Trading House Matriarch
-location: Goldleaf Manor, Aethermoor
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.751491'
+world: Aethermoor
 ---
 
 

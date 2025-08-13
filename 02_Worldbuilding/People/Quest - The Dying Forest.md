@@ -1,22 +1,22 @@
 ---
+MyCategory: Environmental
+MyContainer: None
+cr: '6'
+created: 2025-08-08 - Category/Quests
+created_by: auto-stub
+obsidianUIMode: preview
+status: complete
 tags:
-- aethermoor
-- complete
+- content/adventure
+- content/npc
 - corruption
 - death
 - forest
-- npc
-- quest
-status: complete
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:40.802420'
 world: Aethermoor
-type: NPC
-created_by: auto-stub
-created: 2025-08-08 - Category/Quests
-MyContainer: None
-MyCategory: Environmental
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.847432+00:00'
-cr: '6'
 ---
 
 

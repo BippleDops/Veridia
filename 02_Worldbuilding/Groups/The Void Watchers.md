@@ -1,28 +1,26 @@
 ---
-tags:
-- ancient
-- both aethermoor & aquabyssos
-- both-aethermoor-&-aquabyssos
-- complete
-- cross-realm
-- faction
-- group
-- guardians
-- reality-protectors
-- void-watchers
-status: complete
-world: Both Aethermoor & Aquabyssos
-type: Group
-faction_type: Reality Guardian Order
 alignment: Lawful Neutral (Cosmic Perspective)
+created: '2025-08-09'
+created_by: auto-stub
+faction_type: Reality Guardian Order
 headquarters: '[[The Observatory Between]] (outside normal reality)'
+influence: Hidden but Critical
 leader: '[[The First Watcher]] (ancient entity)'
 members: ~200 across both realms and beyond
-influence: Hidden but Critical
 purpose: Prevent reality collapse and dimensional instability
-created_by: auto-stub
-created: 2025-08-09
-updated: '2025-08-13T01:18:36.680537+00:00'
+status: complete
+tags:
+- content/faction
+- content/lore
+- cross-realm
+- guardians
+- reality-protectors
+- status/complete
+- void-watchers
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.606515'
+world: Both Aethermoor & Aquabyssos
 ---
 
 

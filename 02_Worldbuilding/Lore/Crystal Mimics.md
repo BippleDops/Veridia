@@ -1,19 +1,18 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+status: complete
 tags:
 - aberrations
-- aethermoor
-- complete
+- content/lore
 - creatures
-- crystals
-- lore
 - mimics
 - shapeshifters
-status: complete
-world: Aethermoor
+- status/complete
+- world/aethermoor
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.395018'
+world: Aethermoor
 ---
 
 

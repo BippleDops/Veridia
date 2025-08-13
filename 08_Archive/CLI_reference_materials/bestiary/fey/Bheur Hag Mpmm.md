@@ -1,0 +1,143 @@
+---
+aliases:
+- Bheur Hag
+created: 2025-08-11
+cssclasses: json5e-monster
+obsidian-u-i-mode: preview
+statblock: inline
+statblock-link: '#^statblock'
+status: active
+tags:
+- campaign/arc
+- monster
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fey
+- world/both
+type: monster
+updated: '2025-08-12T23:37:35.275405'
+world: Both
+---
+
+
+> [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-bheur-hag-mpmm-bheur-hag-mpmm.svg)
+
+# [Bheur Hag](3-Mechanics\CLI\bestiary\fey/bheur-hag-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*  
+
+Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
+
+A bheur hag's skin has the bluish hue of a person who has frozen to death. The hag's hair is white, and the hag is emaciated, with pale eyes surrounded by bruise-colored flesh. A bheur hag carries a twisted gray wooden staff that can be ridden like a flying broom and that augments the hag's magic.
+
+Bheur hags are attracted to selfish actions inspired by deadly cold, such as murdering a traveler for a winter coat or chopping down a dryad's grove for firewood. These actions are especially sweet to a bheur if they are unwarranted, such as a greedy merchant hoarding excess food for the winter while others starve. Bheurs use their ability to manipulate weather to batter villages with freezing cold, hoping to instill a despair that turns folk against each other.
+
+In combat, a bheur hag also strives to inspire horror. When near a recently slain foe, the hag may forgo an attack to feed on the corpse. The sight of this butchery is enough to terrify most witnesses.
+
+```statblock
+"name": "Bheur Hag (MPMM)"
+"size": "Medium"
+"type": "fey"
+"alignment": "Typically  Chaotic Evil"
+"ac": !!int "17"
+"ac_class": "natural armor"
+"hp": !!int "91"
+"hit_dice": "14d8 + 28"
+"modifier": !!int "3"
+"stats":
+  - !!int "13"
+  - !!int "16"
+  - !!int "14"
+  - !!int "12"
+  - !!int "13"
+  - !!int "16"
+"speed": "30 ft., fly 50 ft. (hover, Graystaff magic)"
+"saves":
+  - "wisdom": !!int "4"
+"skillsaves":
+  - "name": "[Nature](/03_Mechanics/CLI/skills.md#Nature)"
+    "desc": "+4"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+6"
+  - "name": "[Survival](/03_Mechanics/CLI/skills.md#Survival)"
+    "desc": "+4"
+"damage_immunities": "cold"
+"senses": "darkvision 60 ft., passive Perception 14"
+"languages": "Auran, Common, Giant"
+"cr": "7"
+"traits":
+  - "desc": "The hag can cast the [control weather](/03_Mechanics/CLI/spells/control-weather-xphb.md)\
+      \ spell, requiring no material components and using Charisma as the spellcasting\
+      \ ability."
+    "name": "Control Weather (1/Day)"
+  - "desc": "The hag carries a graystaff, a magic staff. The hag can use its flying\
+      \ speed only while astride the staff. If the staff is lost or destroyed, the\
+      \ hag must craft another, which takes a year and a day. Only a bheur hag can\
+      \ use a graystaff"
+    "name": "Graystaff Magic"
+  - "desc": "The hag can move across and climb icy surfaces without needing to make\
+      \ an ability check, and difficult terrain composed of ice or snow doesn't cost\
+      \ the hag extra moment."
+    "name": "Ice Walk"
+"actions":
+  - "desc": "The hag makes two Slam or Frost Shard attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 10\
+      \ (2d8 + 1) bludgeoning damage plus 18 (4d8) cold damage."
+    "name": "Slam"
+  - "desc": "Ranged Spell Attack: +6 to hit, range 60 ft., one target. Hit: 30\
+      \ (6d8 + 3) cold damage, and the target's speed is reduced by 10 feet until\
+      \ the start of the hag's next turn."
+    "name": "Frost Shard"
+  - "desc": "The hag feeds on the corpse of one enemy within reach that died within\
+      \ the past minute. Each creature of the hag's choice that is within 60 feet\
+      \ and able to see the feeding must succeed on a DC 15 Wisdom saving throw or\
+      \ be [frightened](/03_Mechanics/CLI/conditions.md#Frightened) of the hag for\
+      \ 1 minute. While [frightened](/03_Mechanics/CLI/conditions.md#Frightened) in\
+      \ this way, a creature is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated),\
+      \ can't understand what others say, can't read, and speaks only in gibberish.\
+      \ A creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success. If a creature's saving throw is successful\
+      \ or the effect ends for it, the creature is immune to the hag's Horrific Feast\
+      \ for the next 24 hours."
+    "name": "Horrific Feast"
+  - "desc": "While holding or riding the graystaff, the hag casts one of the following\
+      \ spells, requiring no material components and using Charisma as the spellcasting\
+      \ ability (spell save DC 14):\n\nAt will: [hold person](/03_Mechanics/CLI/spells/hold-person-xphb.md)\n\
+      \n1/day each: [cone of cold](/03_Mechanics/CLI/spells/cone-of-cold-xphb.md),\
+      \ [ice storm](/03_Mechanics/CLI/spells/ice-storm-xphb.md), [wall of ice](/03_Mechanics/CLI/spells/wall-of-ice-xphb.md)"
+    "name": "Spellcasting"
+"source":
+  - "MPMM"
+  - "VGM"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/bheur-hag-mpmm.webp"
+```
+^statblock
+
+## Environment
+
+arctic
+
+## Player-Facing Summary
+
+Bheur hag mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of bheur hag mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bheur hag mpmm.
+
+## Adventure Hooks
+
+- A rumor ties bheur hag mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at bheur hag mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to bheur hag mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

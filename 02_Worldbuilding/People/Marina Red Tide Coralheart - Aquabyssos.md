@@ -1,29 +1,28 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+alignment: Neutral Good
+class: Ranger/Druid
+created: '2025-08-08'
+created_by: auto-stub
+faction: Independent (Former [[Depth Guard]])
+level: 10
+location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
+obsidianUIMode: preview
+race: Human (Depth-Adapted)
+status: complete
+status_condition: Switching with Shadow
 tags:
 - adapted
-- aquabyssos
-- complete
+- content/npc
 - guide
-- major-npc
-- npc
 - ranger
 - shadow-resistant
-status: complete
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.845052'
 world: Aquabyssos
-type: NPC
-race: Human (Depth-Adapted)
-class: Ranger/Druid
-level: 10
-alignment: Neutral Good
-location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
-faction: Independent (Former [[Depth Guard]])
-status_condition: Switching with Shadow
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
 
 

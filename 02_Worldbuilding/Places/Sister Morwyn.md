@@ -1,53 +1,53 @@
 ---
-tags:
-- aquabyssos
-- both
-- complete
-- death
-- location
-- memory
-- temple
-location_name: Sister Morwyn's Memorial Sanctuary
-location_type: Sacred Memorial Site
-parent_location: '[[Abyssos Prime]]'
-sub_locations:
-- '[[02_Worldbuilding/Places/The Archive of Unremembered Things]]'
-- '[[02_Worldbuilding/Lore/The Memory Vaults]]'
-- '[[Garden of Whispered Names]]'
-- '[[Hall of Final Echoes]]'
+MyCategory: Unknown
+MyContainer: None
+created: 2025-08-11 - Category/Place
+current_state: Active memorial site
+danger_level: 3
 depth: 2500-2800 feet
-population: 50
-government: Sacred Trust
-ruler: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+discovered: true
 factions:
 - '[[02_Worldbuilding/Groups/Order of the Drowned Star]]'
 - '[[02_Worldbuilding/Places/Keepers of Memory]]'
 - '[[The Forgiveness Seekers]]'
-danger_level: 3
-visited: false
-discovered: true
+government: Sacred Trust
+location_name: Sister Morwyn's Memorial Sanctuary
+location_type: Sacred Memorial Site
+notable_npcs:
+- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+- '[[Brother Thaddeus the Rememberer]]'
+- '[[Echo-Keeper Selin]]'
+obsidianUIMode: preview
+parent_location: '[[Abyssos Prime]]'
+population: 50
+pressure_effects: Moderate
+ruler: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
 services:
 - Death Rites
 - Memory Preservation
 - Final Forgiveness
 - Soul Guidance
 - Grief Counseling
-notable_npcs:
-- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
-- '[[Brother Thaddeus the Rememberer]]'
-- '[[Echo-Keeper Selin]]'
-current_state: Active memorial site
-temporal_stability: 95
 shadow_density: Low
-pressure_effects: Moderate
 status: complete
-created: 2025-08-11 - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-world: Both
-updated: 2025-08-11
+sub_locations:
+- '[[02_Worldbuilding/Places/The Archive of Unremembered Things]]'
+- '[[02_Worldbuilding/Lore/The Memory Vaults]]'
+- '[[Garden of Whispered Names]]'
+- '[[Hall of Final Echoes]]'
+tags:
+- content/location
+- death
+- memory
+- status/complete
+- temple
+- world/aquabyssos
+- world/both
+temporal_stability: 95
 type: Location
+updated: '2025-08-12T23:37:39.856222'
+visited: false
+world: Both
 ---
 
 

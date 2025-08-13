@@ -1,23 +1,21 @@
 ---
+MyCategory: Antiquarian Shop
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
 - antiquarian
-- aquabyssos
-- artifacts
 - collection
-- complete
-- deep-sea-treasures
-- location
-- ocean-relics
-status: complete
-world: Aquabyssos
+- content/item
+- content/location
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
-MyCategory: Antiquarian Shop
-obsidianUIMode: preview
-updated: 2025-08-11
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.435275'
+world: Aquabyssos
 ---
 
 > [!figure] View

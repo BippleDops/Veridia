@@ -1,22 +1,22 @@
 ---
+MyCategory: Medical
+MyContainer: None
+cr: '7'
+created: '2025-08-12'
+created_by: auto-stub
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/adventure
+- content/npc
 - cure
 - healing
-- npc
-- quest
 - shadow
-status: complete
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.934513'
 world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
-MyCategory: Medical
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.950098+00:00'
-cr: '7'
 ---
 
 

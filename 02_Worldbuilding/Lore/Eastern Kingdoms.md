@@ -1,33 +1,13 @@
 ---
-tags:
-- aethermoor
-- complete
-- eastern-kingdoms
-- historical-events
-- historical-region
-- history
-- lore
-- military-history
-- monarchy
-- political-history
-- timeline
-- trade-empire
-status: complete
-world: Aethermoor
-type: Lore
 category: Political Entity
-significance: Major Continental Power
-time_period: Ancient Era - Current Era
-scale: Multi-Continental Empire
+created: '2025-08-08'
+created_by: auto-stub
+outcome: Ongoing Major Power
 participants:
 - Eastern Royal Houses
 - Imperial Navy
 - Colonial Administrations
 - Trade Guilds
-outcome: Ongoing Major Power
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
 related_entities:
 - '[[Aethermoor]]'
 - '[[Continental War]]'
@@ -35,6 +15,23 @@ related_entities:
 - '[[The Bathyal Succession]]'
 - '[[Aquabyssos]]'
 - '[[The Shattering of the Crown]]'
+scale: Multi-Continental Empire
+significance: Major Continental Power
+status: complete
+tags:
+- campaign/arc
+- content/lore
+- eastern-kingdoms
+- historical-events
+- historical-region
+- status/complete
+- timeline
+- trade-empire
+- world/aethermoor
+time_period: Ancient Era - Current Era
+type: Lore
+updated: '2025-08-12T23:37:39.128913'
+world: Aethermoor
 ---
 
 

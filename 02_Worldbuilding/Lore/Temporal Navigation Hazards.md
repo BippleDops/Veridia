@@ -1,29 +1,27 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Variable - Moderate to Catastrophic
+detection_difficulty: Extremely High
+frequency: Uncommon but Increasing
+hazard_type: Temporal Distortion Phenomena
+scope: Cross-Realm Phenomenon
+status: complete
 tags:
-- aethermoor
-- aquabyssos
-- both worlds
-- both-worlds
 - chronological-threats
-- complete
+- content/lore
 - hazards
-- lore
-- magical-phenomena
+- mechanics/magic
 - navigation-dangers
-- temporal-magic
+- status/complete
 - time-distortion
 - time-manipulation
-status: complete
-world: Both Worlds
+- world/aethermoor
+- world/aquabyssos
+- world/both
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.157055+00:00'
-hazard_type: Temporal Distortion Phenomena
-danger_level: Variable - Moderate to Catastrophic
-scope: Cross-Realm Phenomenon
-frequency: Uncommon but Increasing
-detection_difficulty: Extremely High
+updated: '2025-08-12T23:37:38.711392'
+world: Both Worlds
 ---
 
 

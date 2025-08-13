@@ -1,18 +1,17 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+status: complete
 tags:
 - advanced-techniques
-- aquabyssos
-- complete
-- lore
-- magic
-- spellcrafting
+- content/lore
+- mechanics/magic
+- status/complete
 - templating
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.174654'
+world: Aquabyssos
 ---
 
 

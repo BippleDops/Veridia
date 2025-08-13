@@ -1,27 +1,23 @@
 ---
-tags:
-- aquabyssos
-- biological-systems
-- complete
-- depth-adaptation
-- environmental-hazards
-- environmental-mechanics
-- lore
-- pressure-effects
-- quick-reference
-- underwater-survival
-status: complete
-world: Aquabyssos
-type: Lore
+application: Field Reference and Survival Planning
 category: Environmental Reference Guide
-significance: Essential Survival Information
+complexity: Moderate to Advanced
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
 reference_type: Depth-Based Environmental Effects
 scope: Underwater Environmental Conditions
-application: Field Reference and Survival Planning
-complexity: Moderate to Advanced
+significance: Essential Survival Information
+status: complete
+tags:
+- content/lore
+- content/mechanics
+- environmental-hazards
+- quick-reference
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:39.669657'
+world: Aquabyssos
 ---
 
 

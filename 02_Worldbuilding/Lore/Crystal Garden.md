@@ -1,25 +1,24 @@
 ---
+category: Unique Location
+created: '2025-08-08'
+created_by: auto-stub
+significance: Major Landmark
+status: complete
 tags:
-- aethermoor
-- aquabyssos
-- both
-- complete
-- crystal-garden
+- content/location
+- content/lore
 - dimensional-bleed
 - impossible-growth
-- lore
-- magical-sanctuary
+- mechanics/magic
 - merged-reality
 - reality-anchor
-- transformation-site
-status: complete
-world: Both
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
 type: Lore
-category: Unique Location
-significance: Major Landmark
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.762609'
+world: Both
 ---
 
 

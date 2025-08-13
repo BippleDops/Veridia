@@ -1,35 +1,33 @@
 ---
-tags:
-- aethermoor
-- city
-- completed
-- dwarven
-- fortress
-- industrial
-- location
-- mining
-- mountain-fortress-city
-- stronghold
-status: completed
-world: Aethermoor
-type: Location
-population: 280000
+climate: Alpine, Cold Winters
+created: '2025-08-09'
+danger_level: Moderate
+founded: First Age
 government: Council of Forgemasters
 leader: '[[02_Worldbuilding/People/Master Smith Vulcan Deepforge]]'
+population: 280000
+related_entities:
+- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels]]'
+- '[[02_Worldbuilding/Lore/Continental War]]'
+- '[[02_Worldbuilding/Places/The Sundered Peaks]]'
 specialties:
 - Metalworking
 - Engineering
 - Mountain Defense
 - Industrial Production
-founded: First Age
-climate: Alpine, Cold Winters
-created: 2025-08-09
-updated: 2025-08-11
-related_entities:
-- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels]]'
-- '[[02_Worldbuilding/Lore/Continental War]]'
-- '[[02_Worldbuilding/Places/The Sundered Peaks]]'
-danger_level: Moderate
+status: draft
+tags:
+- content/location
+- dwarven
+- fortress
+- industrial
+- mining
+- status/archived
+- status/complete
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:40.148513'
+world: Aethermoor
 ---
 
 > [!figure] View

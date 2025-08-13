@@ -1,14 +1,14 @@
 ---
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- aquabyssos
+- content/lore
 - haunted-mountain-range
-- lore
+- status/in-progress
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:38.121551'
 world: Aquabyssos
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:34.756102+00:00'
 ---
 
 

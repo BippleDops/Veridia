@@ -1,34 +1,34 @@
 ---
-tags:
-- aquabyssos
-- complete
-- elemental-magic
-- location
-- maelstrom
-- palace
-- royal-palace
-- royal-residence
-- storm
-- tempest-throne
-- weather-control
-status: complete
-world: Aquabyssos
-type: Location
+age: 300 years (built post-Drowning)
 category: Government Seat/Magical Fortress
+created: '2025-08-10'
+danger_level: Extreme
 depth: Variable (0-4000 feet)
 difficulty: Levels 10-18
-ruler: '[[Storm Empress Tempestas Maelstrom]]'
 government: '[[02_Worldbuilding/Lore/Tempest Sovereignty]]'
-danger_level: Extreme
 population: 800+ (court, staff, guards, prisoners)
-age: 300 years (built post-Drowning)
-created: 2025-08-10
-updated: 2025-08-11
 related_entities:
 - '[[Storm Empress Tempestas Maelstrom]]'
 - '[[02_Worldbuilding/Lore/Tempest Sovereignty]]'
 - '[[Stormcaller Navy]]'
 - '[[The Maelstrom Court]]'
+ruler: '[[Storm Empress Tempestas Maelstrom]]'
+status: complete
+tags:
+- content/location
+- maelstrom
+- mechanics/magic
+- palace
+- royal-palace
+- royal-residence
+- status/complete
+- storm
+- tempest-throne
+- weather-control
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.113910'
+world: Aquabyssos
 ---
 
 > [!figure] View

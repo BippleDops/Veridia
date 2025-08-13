@@ -1,28 +1,27 @@
 ---
+MyCategory: Places
+MyContainer: None
+access: military_only
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+security_level: high
+status: complete
 tags:
-- aethermoor
-- complete
-- crystal
+- content/faction
+- content/location
 - elite
 - guardian
-- location
-- magical
+- mechanics/magic
 - military
 - order
-- organization
 - protection
-status: complete
-world: Aethermoor
+- status/complete
+- world/aethermoor
 type: Location
-security_level: high
-access: military_only
-danger_level: Moderate
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.217536+00:00'
-MyContainer: None
-MyCategory: Places
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:40.032282'
+world: Aethermoor
 ---
 
 > [!figure] View

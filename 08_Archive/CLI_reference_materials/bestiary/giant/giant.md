@@ -1,17 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-type: note
-tags:
-- active
-- both
-- note
 aliases: []
 created: 2025-07-23
-updated: '2025-08-13T01:18:32.501728+00:00'
+cssclasses: json5e-note
 modified: 2025-07-23 12:39
-world: Both
+obsidianUIMode: preview
 status: active
+tags:
+- note
+- status/in-progress
+- world/both
+type: note
+updated: '2025-08-12T23:37:35.039869'
+world: Both
 ---
 
 

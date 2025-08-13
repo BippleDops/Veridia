@@ -1,16 +1,16 @@
 ---
 aliases: []
+created: '2025-08-11'
+status: draft
 tags:
-- both
 - category/note
-- lore
+- content/lore
 - note
 - unknown
+- world/both
 type: Lore
-status: unknown
+updated: '2025-08-12T23:37:33.132357'
 world: Both
-updated: '2025-08-13T01:18:31.202862+00:00'
-created: 2025-08-11
 ---
 
 

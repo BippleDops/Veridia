@@ -1,29 +1,26 @@
 ---
-tags:
-- aethermoor
-- bureaucracy
-- complete
-- faction
-- government
-- group
-- major-faction
-- political
-status: complete
-world: Aethermoor
-type: Group
-faction_type: Royal Administration
+MyCategory: Unknown
+MyContainer: None
 alignment: Lawful Neutral
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Royal Administration
 headquarters: '[[The Administrative Palace]]'
+influence: Kingdom-wide
 leader: '[[High Administrator Cornelius Protocols]]'
 members: ~15,000 civil servants, clerks, and administrators
-influence: Kingdom-wide
-wealth: Substantial (royal treasury access)
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.766907+00:00'
-MyContainer: None
-MyCategory: Unknown
 obsidianUIMode: preview
+status: complete
+tags:
+- bureaucracy
+- content/faction
+- political
+- status/complete
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.710700'
+wealth: Substantial (royal treasury access)
+world: Aethermoor
 ---
 
 

@@ -1,24 +1,23 @@
 ---
+affiliation: '[[The Verdant Accord]] & The Heart Tree'
+age: Unknown (appears ancient)
+created: '2025-08-09'
+created_by: auto-stub
+location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Heart Tree Grove'
+race: Half-Dryad (Shard-fused)
+role: Shard-Bonded Druid
+status: complete
 tags:
-- aethermoor
-- complete
+- content/npc
 - druid
 - emerald-shard
 - nature-guardian
-- npc
-- person
 - seven-shards
-status: complete
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:40.915097'
 world: Aethermoor
-type: NPC
-role: Shard-Bonded Druid
-affiliation: '[[The Verdant Accord]] & The Heart Tree'
-age: Unknown (appears ancient)
-race: Half-Dryad (Shard-fused)
-location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Heart Tree Grove'
-created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
 ---
 
 > [!figure] Portrait

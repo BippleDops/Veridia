@@ -1,30 +1,28 @@
 ---
-tags:
-- apprenticeship
-- aquabyssos
-- complete
-- faction
-- group
-- healing-arts
-- medical-organization
-- shadow-surgery
-status: complete
-world: Aquabyssos
-type: Group
-faction_type: Medical Training Organization
+MyCategory: Training Organization
+MyContainer: Medical Community
 alignment: Neutral Good (Healing Focus)
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Medical Training Organization
 headquarters: '[[The Umbral Medical Academy]]'
+influence: Shadow Medical Community, Specialized Healthcare
 leader: '[[Master Surgeon Thane Shadowmend]]'
 members: ~80 apprentices, ~25 master surgeons, ~120 support staff
-influence: Shadow Medical Community, Specialized Healthcare
-purpose: Train the next generation of shadow surgery specialists
-created_by: auto-stub
-created: 2025-08-08
 modified: 2025-08-11 - Category/Group
-MyContainer: Medical Community
-MyCategory: Training Organization
 obsidianUIMode: preview
-updated: 2025-08-11
+purpose: Train the next generation of shadow surgery specialists
+status: complete
+tags:
+- apprenticeship
+- content/faction
+- healing-arts
+- shadow-surgery
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.664142'
+world: Aquabyssos
 ---
 
 > [!figure] Heraldry

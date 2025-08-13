@@ -1,35 +1,32 @@
 ---
+created: '2025-08-11'
+created_by: cultural-expansion
+cultural_scope: Universal Across Both Worlds
+current_status: Actively Enforced
+enforcement_level: Community-Based Social Control
+historical_period: Post-Great Crystallization to Present (500+ Years)
+significance: Fundamental Cultural Framework
+status: complete
+taboo_category: Existential Threat Response
 tags:
-- both
-- both-worlds
 - collective-fear
-- complete
+- content/lore
 - corruption-prevention
-- crystal-corruption
 - cultural-evolution
 - cultural-identity
 - cultural-restrictions
 - cultural-taboos
 - historical-development
 - historical-trauma
-- lore
+- mechanics/social
 - moral-boundaries
-- social-control
-- social-ostracism
-- social-stigma
+- status/complete
 - traditional-beliefs
-status: complete
-world: Both
+- world/aethermoor
+- world/both
 type: Lore
-created_by: cultural-expansion
-created: 2025-08-11
-updated: 2025-08-11
-historical_period: Post-Great Crystallization to Present (500+ Years)
-significance: Fundamental Cultural Framework
-taboo_category: Existential Threat Response
-current_status: Actively Enforced
-cultural_scope: Universal Across Both Worlds
-enforcement_level: Community-Based Social Control
+updated: '2025-08-12T23:37:38.971678'
+world: Both
 ---
 
 

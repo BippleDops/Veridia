@@ -1,11 +1,12 @@
 ---
-created: 2024-01-01
-updated: '2025-08-13T01:18:31.091569+00:00'
-world: Both
+created: '2024-01-01'
 status: draft
 tags:
-- both
-- draft
+- status/draft
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:32.990383'
+world: Both
 ---
 
 

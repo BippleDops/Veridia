@@ -1,30 +1,28 @@
 ---
-tags:
-- aquabyssos
-- completed
-- dual
-- history
-- lore
-- plot
-- political_intrigue
-- political_legend
-- strategy
-status: completed
-type: Lore
-world: dual
 connections:
 - '[[The Scattered Emperor]]'
 - '[[Parliament of Echoes]]'
 - '[[Tidal Council]]'
 - '[[Deep Mother]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
+created: '2025-08-11'
+status: draft
+tags:
+- campaign/arc
+- content/lore
+- dual
+- political_intrigue
+- status/complete
+- strategy
+- world/aquabyssos
 themes:
 - political_manipulation
 - long_term_strategy
 - hidden_knowledge
 - sacrifice_of_self
-created: 2025-08-11
-updated: 2025-08-11
+type: Lore
+updated: '2025-08-12T23:37:39.566454'
+world: dual
 ---
 
 

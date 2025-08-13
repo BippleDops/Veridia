@@ -1,21 +1,21 @@
 ---
-tags:
-- aquabyssos
-- complete
-- cosmic-threat
-- exploration
-- horror
-- lore
-- quest
-status: complete
-world: Aquabyssos
-type: Lore
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
 MyCategory: Unknown
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
 obsidianUIMode: preview
-updated: '2025-08-13T01:18:34.504254+00:00'
+status: complete
+tags:
+- content/adventure
+- content/lore
+- cosmic-threat
+- horror
+- mechanics/exploration
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:37.796438'
+world: Aquabyssos
 ---
 
 

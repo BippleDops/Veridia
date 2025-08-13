@@ -1,25 +1,23 @@
 ---
-tags:
-- aethermoor
-- complete
-- confederacy
-- crystal-corruption
-- lore
-- memory-magic
-- quest
-- shadow-magic
-status: complete
-world: Aethermoor
-type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.508307+00:00'
-level_range: 3-5
-party_size: 3-6
-estimated_duration: 4-6 sessions
-MyContainer: None
 MyCategory: Quest
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
+estimated_duration: 4-6 sessions
+level_range: 3-5
 obsidianUIMode: preview
+party_size: 3-6
+status: complete
+tags:
+- confederacy
+- content/adventure
+- content/lore
+- mechanics/magic
+- status/complete
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:37.800251'
+world: Aethermoor
 ---
 
 

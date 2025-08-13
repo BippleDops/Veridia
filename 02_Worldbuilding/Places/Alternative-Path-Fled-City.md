@@ -1,27 +1,25 @@
 ---
-tags:
-- aethermoor
-- alternative-community
-- complete
-- floating-city
-- freedom
-- location
-- rebellion
-- refugee-settlement
-status: complete
-world: Aethermoor
-type: Location
-category: Refugee Settlement
-altitude: 8,000-12,000 feet
-difficulty: Levels 4-10
-owner: Free Council of Refugees
-danger_level: Moderate
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
 MyCategory: Alternative Settlement
+MyContainer: None
+altitude: 8,000-12,000 feet
+category: Refugee Settlement
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+difficulty: Levels 4-10
 obsidianUIMode: preview
+owner: Free Council of Refugees
+status: complete
+tags:
+- alternative-community
+- content/location
+- freedom
+- rebellion
+- status/complete
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:40.476497'
+world: Aethermoor
 ---
 
 

@@ -1,32 +1,32 @@
 ---
-tags:
-- aethermoor
-- coastal
-- coastal-region
-- completed
-- location
-- maritime
-- region
-- strategic
-- trade-routes
-status: completed
-world: Aethermoor
-type: Location
-danger_level: 3
 climate: Temperate Maritime
+created: '2025-08-09'
+danger_level: 3
+government: Multiple City-States and Kingdoms
 length: 400 miles of coastline
 major_cities:
 - '[[02_Worldbuilding/Places/Port Meridian]]'
 - '[[02_Worldbuilding/Places/Goldspire Port]]'
 - Azure Bay
-government: Multiple City-States and Kingdoms
 population: 850000
-created: 2025-08-09
-updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Places/The Cerulean Archipelago]]'
 - '[[02_Worldbuilding/Lore/Aquabyssos Ambassadors]]'
 - '[[02_Worldbuilding/Groups/The Crimson Fleet]]'
+status: draft
+tags:
+- coastal
+- coastal-region
+- content/location
+- maritime
+- region
+- status/complete
+- strategic
+- trade-routes
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:40.118178'
+world: Aethermoor
 ---
 
 > [!figure] View

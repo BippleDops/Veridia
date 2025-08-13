@@ -1,20 +1,18 @@
 ---
-tags:
-- active
-- aquabyssos
-- both
-- lore
-- mechanical_system
-- mechanics
-- rules
-- survival
-system: D&D 5e
-type: Lore
 complexity: advanced
-created: 2025-08-07
+created: '2025-08-07'
+status: complete
+system: D&D 5e
+tags:
+- content/lore
+- content/mechanics
+- status/in-progress
+- survival
+- world/aquabyssos
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:41.119051'
 world: Both
-updated: '2025-08-13T01:18:37.128051+00:00'
-status: active
 ---
 
 

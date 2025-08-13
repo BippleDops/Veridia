@@ -1,30 +1,29 @@
 ---
-tags:
-- aquabyssos
-- behavioral-code
-- complete
-- ethical-framework
-- faction
-- group
-- self-regulation
-- shadow-society
-status: complete
-world: Aquabyssos
-type: Group
-faction_type: Shadow Society Regulatory Body
+MyCategory: Regulatory Body
+MyContainer: Shadow Society
 alignment: Lawful Neutral (Ethical Framework)
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Shadow Society Regulatory Body
 headquarters: '[[The Council of Shadows]]'
+influence: Shadow-Touched Community Self-Regulation
 leader: '[[Shadow Magistrate Umbrian Darkwise]]'
 members: ~50 magistrates, ~200 enforcement officers, ~1000 community volunteers
-influence: Shadow-Touched Community Self-Regulation
-purpose: Establish ethical standards for shadow energy use
-created_by: auto-stub
-created: 2025-08-08
 modified: 2025-08-11 - Category/Group
-MyContainer: Shadow Society
-MyCategory: Regulatory Body
 obsidianUIMode: preview
-updated: 2025-08-11
+purpose: Establish ethical standards for shadow energy use
+status: complete
+tags:
+- behavioral-code
+- content/faction
+- content/template
+- self-regulation
+- shadow-society
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.660939'
+world: Aquabyssos
 ---
 
 > [!figure] Heraldry

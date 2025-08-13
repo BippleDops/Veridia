@@ -1,19 +1,18 @@
 ---
-tags:
-- aquabyssos
-- complete
-- government
-- npc
-- organization
-status: complete
-world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
 MyCategory: Government
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
 obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.831590+00:00'
+status: complete
+tags:
+- content/faction
+- content/npc
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.785398'
+world: Aquabyssos
 ---
 
 

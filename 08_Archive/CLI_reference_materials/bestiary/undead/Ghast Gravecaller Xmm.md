@@ -1,0 +1,121 @@
+---
+aliases:
+- Ghast Gravecaller
+created: 2025-08-11
+cssclasses: json5e-monster
+obsidian-u-i-mode: preview
+statblock: inline
+statblock-link: '#^statblock'
+status: active
+tags:
+- monster
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
+- world/both
+type: monster
+updated: '2025-08-12T23:37:35.599095'
+world: Both
+---
+
+
+> [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-ghast-gravecaller-xmm-ghast-gravecaller-xmm.svg)
+
+# [Ghast Gravecaller](3-Mechanics\CLI\bestiary\undead/ghast-gravecaller-xmm.md)
+*Source: Monster Manual (2024) p. 130*  
+
+Ghast gravecallers wield fell magic and converse with corpses. They might pose as liches or vampires.
+
+## Ghasts
+
+*Tyrants among Corpses*
+
+- **Habitat.** Swamp, Underdark, Urban  
+- **Treasure.** Any  
+
+Ghasts are reeking, undying corpses closely related to ghouls. They hunger for the vices they enjoyed in life as much as they do for rotting flesh.
+
+```statblock
+"name": "Ghast Gravecaller (XMM)"
+"size": "Medium"
+"type": "undead"
+"alignment": "Chaotic Evil"
+"ac": !!int "16"
+"hp": !!int "97"
+"hit_dice": "15d8 + 30"
+"modifier": !!int "3"
+"stats":
+  - !!int "16"
+  - !!int "17"
+  - !!int "14"
+  - !!int "18"
+  - !!int "14"
+  - !!int "8"
+"speed": "30 ft."
+"saves":
+  - "constitution": !!int "5"
+  - "wisdom": !!int "5"
+"damage_immunities": "necrotic, poison"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"senses": "darkvision 120 ft., passive Perception 12"
+"languages": "Abyssal, Common"
+"cr": "6"
+"traits":
+  - "desc": "Constitution Saving Throw: DC 13, any creature that starts its turn\
+      \ in a 5-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the ghast. Failure: The target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition until the start of its next turn. Success: The target is immune\
+      \ to this ghast's Stench for 24 hours."
+    "name": "Stench"
+"actions":
+  - "desc": "The ghast makes two Horrific Necrosis attacks. It can replace one attack\
+      \ with a Claw attack."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 13 (3d6 + 3) Slashing damage.\
+      \ If the target isn't an Undead, it has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
+      \ condition until the end of its next turn."
+    "name": "Claw"
+  - "desc": "Melee  or Ranged Attack Roll: +7, reach 5 ft. or range 120 ft. Hit:\
+      \ 15 (2d10 + 4) Necrotic damage, and the target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ condition until the end of its next turn."
+    "name": "Horrific Necrosis"
+  - "desc": "The ghast casts one of the following spells, requiring no Material components\
+      \ and using Intelligence as the spellcasting ability:\n\nAt will: [Speak\
+      \ with Dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md), [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md)"
+    "name": "Spellcasting"
+"source":
+  - "XMM"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/ghast-gravecaller-xmm.webp"
+```
+^statblock
+
+## Environment
+
+swamp, underdark, urban
+
+## Player-Facing Summary
+
+Ghast gravecaller xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of ghast gravecaller xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ghast gravecaller xmm.
+
+## Adventure Hooks
+
+- A rumor ties ghast gravecaller xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at ghast gravecaller xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to ghast gravecaller xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

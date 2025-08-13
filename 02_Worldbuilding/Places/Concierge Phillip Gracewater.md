@@ -1,33 +1,32 @@
 ---
+MyCategory: Embassy Staff
+MyContainer: None
+category: Service Professional
+class: Expert
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: None
+faction: Embassy Staff
+influence: Low
+location: '[[Ambassador Lysandra Silvertonge''s Embassy]]'
+obsidianUIMode: preview
+race: Sea Elf
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/location
+- content/npc
 - diplomatic
 - embassy
 - helpful
 - hospitality
 - information
-- location
-- npc
-- person
+- mechanics/social
 - service
-- social
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-category: Service Professional
-race: Sea Elf
-class: Expert
-location: '[[Ambassador Lysandra Silvertonge''s Embassy]]'
-faction: Embassy Staff
-influence: Low
-danger_level: None
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.551054+00:00'
-MyContainer: None
-MyCategory: Embassy Staff
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:40.470276'
+world: Aquabyssos
 ---
 
 

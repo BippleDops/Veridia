@@ -1,27 +1,26 @@
 ---
-tags:
-- aethermoor
-- coastal
-- complete
-- crystals
-- dangerous
-- location
-- pirates
-- secret
-- smuggling
-status: complete
-world: Aethermoor
-type: Location
-danger_level: Moderate
-access: hidden
-region: Shattered Coast
-faction_influence: Shadowhawk Syndicate
-created_by: auto-stub
-updated: 2025-08-11
-MyContainer: None
 MyCategory: Places
+MyContainer: None
+access: hidden
+created: '2025-08-11'
+created_by: auto-stub
+danger_level: Moderate
+faction_influence: Shadowhawk Syndicate
 obsidianUIMode: preview
-created: 2025-08-11
+region: Shattered Coast
+status: complete
+tags:
+- access/secret
+- coastal
+- content/location
+- dangerous
+- pirates
+- smuggling
+- status/complete
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:39.864059'
+world: Aethermoor
 ---
 
 

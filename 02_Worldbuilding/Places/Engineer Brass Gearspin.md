@@ -1,23 +1,23 @@
 ---
+MyCategory: Engineering Facility
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
 - brass-works
-- complete
+- content/location
+- content/mechanics
 - engineering
 - innovation
-- location
-- mechanical
+- status/complete
 - workshop
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
-MyCategory: Engineering Facility
-obsidianUIMode: preview
-updated: 2025-08-12
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.450960'
+world: Aquabyssos
 ---
 
 

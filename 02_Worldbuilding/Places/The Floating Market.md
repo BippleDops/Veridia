@@ -1,26 +1,24 @@
 ---
-tags:
-- complete
-- cross-realm
-- dimensional nexus (both realms)
-- dimensional-nexus
-- dimensional-nexus-(both-realms)
-- location
-- neutral-ground
-- place
-- trading-post
-status: complete
-world: Dimensional Nexus (Both Realms)
-type: Location
-location_type: Interdimensional Trading Hub
 affiliation: '[[The Liminal Trading Company]]'
+created: '2025-08-09'
+created_by: auto-stub
+danger_level: Moderate
+location_type: Interdimensional Trading Hub
+population: ~2,000 (rotating)
 significance: Major
 size: Large Complex
-population: ~2,000 (rotating)
-created_by: auto-stub
-created: 2025-08-09
-updated: '2025-08-13T01:18:36.574674+00:00'
-danger_level: Moderate
+status: complete
+tags:
+- content/location
+- cross-realm
+- dimensional-nexus
+- neutral-ground
+- status/complete
+- trading-post
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.503594'
+world: Dimensional Nexus (Both Realms)
 ---
 
 

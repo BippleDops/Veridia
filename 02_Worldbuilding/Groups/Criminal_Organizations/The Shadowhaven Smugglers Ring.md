@@ -1,19 +1,19 @@
 ---
-type: Group
-tags:
-- active
-- both
-- group
-- note
-aliases: []
-created: 2025-07-23
-modified: 2025-07-23 12:39
-MyContainer: None
 MyCategory: Unknown - Category/Group
+MyContainer: None
+aliases: []
+created: '2025-07-23'
+modified: 2025-07-23 12:39
 obsidianUIMode: preview
+status: complete
+tags:
+- content/faction
+- note
+- status/in-progress
+- world/both
+type: Faction
+updated: '2025-08-12T23:37:40.672300'
 world: Both
-updated: '2025-08-13T01:18:36.733083+00:00'
-status: active
 ---
 
 

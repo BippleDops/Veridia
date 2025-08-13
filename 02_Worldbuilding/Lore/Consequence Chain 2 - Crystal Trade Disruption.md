@@ -1,22 +1,21 @@
 ---
-tags:
-- aethermoor
-- campaign-consequences
-- complete
-- crystal-trade
-- economic-warfare
-- financial-corruption
-- lore
-- silverscale-consortium
-type: Lore
-world: Aethermoor
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:34.737572+00:00'
+created: '2025-08-12'
 magnitude: 4
-visibility: 4
 primary_sessions:
 - 'Session 04: The Silverscale Gambit'
+status: complete
+tags:
+- campaign/arc
+- content/lore
+- economic-warfare
+- financial-corruption
+- silverscale-consortium
+- status/complete
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:38.092698'
+visibility: 4
+world: Aethermoor
 ---
 
 

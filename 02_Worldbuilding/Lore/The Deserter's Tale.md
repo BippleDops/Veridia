@@ -1,28 +1,26 @@
 ---
-tags:
-- aquabyssos
-- completed
-- dual
-- event
-- historical_legend
-- history
-- honor
-- lore
-status: completed
-type: Lore
-world: dual
 connections:
 - '[[Pressure''s End]]'
 - '[[Honor Guard]]'
 - '[[Deep Mother]]'
 - '[[The Tidal Council]]'
+created: '2025-08-11'
+status: draft
+tags:
+- content/lore
+- dual
+- event
+- honor
+- status/complete
+- world/aquabyssos
 themes:
 - betrayal
 - redemption
 - duty_vs_survival
 - cosmic_horror
-created: 2025-08-11
-updated: 2025-08-11
+type: Lore
+updated: '2025-08-12T23:37:38.185802'
+world: dual
 ---
 
 

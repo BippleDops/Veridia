@@ -1,27 +1,25 @@
 ---
-tags:
-- ancient
-- aquabyssos
-- completed
-- historical-records
-- history
-- lore
-- monarchy
-- pre-drowning
-- royal-dynasties
-- rulers
-status: completed
-world: Aquabyssos
-type: Lore
-time_period: Pre-Drowning to Third Age of Aquabyssos
+created: '2025-08-09'
 historical_accuracy: Mix of verified records and recovered myths
-created: 2025-08-09
-updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Lore/The Great Drowning]]'
 - '[[02_Worldbuilding/Places/Parliament of Echoes]]'
 - '[[02_Worldbuilding/People/Emperor Thalassius the Wise]]'
 - '[[02_Worldbuilding/Places/The Bathyal Palace]]'
+status: draft
+tags:
+- campaign/arc
+- content/lore
+- content/mechanics
+- historical-records
+- pre-drowning
+- royal-dynasties
+- status/complete
+- world/aquabyssos
+time_period: Pre-Drowning to Third Age of Aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:39.641264'
+world: Aquabyssos
 ---
 
 

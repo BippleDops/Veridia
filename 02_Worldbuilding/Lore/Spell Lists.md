@@ -1,28 +1,25 @@
 ---
-tags:
-- aethermoor
-- aquabyssos
-- both worlds
-- both-worlds
-- complete
-- comprehensive-catalog
-- lore
-- magic-systems
-- spell-lists
-- spellcasting
-- surface-magic
-- underwater-magic
-status: complete
-world: Both Worlds
-type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.164688+00:00'
-magical_focus: Comprehensive Spell Catalog
-scope: Cross-Realm Magic Systems
 application: Spellcaster Reference
 complexity: All Levels
+created: '2025-08-08'
+created_by: auto-stub
+magical_focus: Comprehensive Spell Catalog
 practitioners: All Magical Traditions
+scope: Cross-Realm Magic Systems
+status: complete
+tags:
+- comprehensive-catalog
+- content/lore
+- content/mechanics
+- mechanics/magic
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
+- world/surface
+type: Lore
+updated: '2025-08-12T23:37:38.721432'
+world: Both Worlds
 ---
 
 

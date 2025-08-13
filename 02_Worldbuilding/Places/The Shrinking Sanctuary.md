@@ -1,36 +1,36 @@
 ---
-tags:
-- aquabyssos
-- community
-- complete
-- crisis
-- dimensional-anomaly
-- dimensional-refuge
-- location
-- magical-space
-- refuge
-- sanctuary
-- shrinking
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-location_type: Dimensional Pocket
-parent_location: The Wandering Depths
-depth: Variable (exists outside normal depth)
-danger_level: 5
-population: ~300 refugees and guardians
-government: Council of Sanctuary Keepers
-shrinking_rate: 5 cubic feet per hour
-original_size: 10 square miles
 current_size: 3 square miles
+danger_level: 5
+depth: Variable (exists outside normal depth)
+government: Council of Sanctuary Keepers
+location_type: Dimensional Pocket
+original_size: 10 square miles
+parent_location: The Wandering Depths
+population: ~300 refugees and guardians
 related_entities:
 - '[[Free Current]]'
 - '[[Parliament of Echoes]]'
 - '[[The Memory Meadows]]'
 - '[[Dimensional Research Institute]]'
+shrinking_rate: 5 cubic feet per hour
+status: complete
+tags:
+- community
+- content/location
+- crisis
+- dimensional-anomaly
+- dimensional-refuge
+- mechanics/magic
+- refuge
+- sanctuary
+- shrinking
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:39.905484'
+world: Aquabyssos
 ---
 
 > [!figure] View

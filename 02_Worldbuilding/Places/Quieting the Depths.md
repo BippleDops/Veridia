@@ -1,19 +1,19 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+status: complete
 tags:
 - ancient-evil
-- aquabyssos
-- complete
-- location
-- quest
+- content/adventure
+- content/location
 - ritual
+- status/complete
 - supernatural
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.439750+00:00'
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.306784'
+world: Aquabyssos
 ---
 
 

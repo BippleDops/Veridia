@@ -1,18 +1,18 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/lore
 - index
 - intrigue
-- lore
 - master-document
 - parliament
 - politics
+- status/complete
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:39.692200'
 world: Aquabyssos
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:35.930843+00:00'
 ---
 
 

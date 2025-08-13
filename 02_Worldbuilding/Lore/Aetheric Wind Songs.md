@@ -1,46 +1,45 @@
 ---
-tags:
-- aethermoor
-- bardic-tradition
-- complete
-- cultural-preservation
-- culture
-- elemental-harmony
-- lore
-- magical-music
-- music
-- oral-tradition
-- wind-songs
-status: complete
-world: Aethermoor
-type: lore
+access_requirements: Wind affinity or magical training
+created: '2025-08-11'
+created_by: cultural-expansion
+cultural_significance: Core identity and communication system for wind-touched communities
 cultural_type: Musical and Oral Tradition
-regions:
-- '[[The Windswept Heights]]'
-- '[[Port Meridian Harbor]]'
-- '[[The Royal Palace]]'
-- '[[Lighthouse Peak - Resonance Chamber]]'
+danger_level: 1
+historical_period: Ancient origins, continuous development
+magical_intensity: Moderate to High
+magical_properties: Elemental wind manipulation and weather influence
 practitioners:
 - '[[The Wind Singers Guild]]'
 - '[[Master Melodist Zephyr Cloudwalker]]'
 - '[[The Stormcaller Chorus]]'
 - '[[Wandering Wind Minstrels]]'
-magical_properties: Elemental wind manipulation and weather influence
-cultural_significance: Core identity and communication system for wind-touched communities
 preservation_status: Actively maintained and evolving
-transmission_method: Oral tradition with magical resonance
-historical_period: Ancient origins, continuous development
-created_by: cultural-expansion
-created: 2025-08-11
-updated: '2025-08-13T01:18:35.442560+00:00'
+regions:
+- '[[The Windswept Heights]]'
+- '[[Port Meridian Harbor]]'
+- '[[The Royal Palace]]'
+- '[[Lighthouse Peak - Resonance Chamber]]'
 related_phenomena:
 - '[[Resonance Peaks]]'
 - '[[The Lighthouse of Storms]]'
 - '[[Crystal Resonance Networks]]'
 - '[[Temporal Wind Patterns]]'
-danger_level: 1
-magical_intensity: Moderate to High
-access_requirements: Wind affinity or magical training
+status: complete
+tags:
+- bardic-tradition
+- content/lore
+- cultural-preservation
+- culture
+- elemental-harmony
+- mechanics/magic
+- music
+- oral-tradition
+- status/complete
+- world/aethermoor
+transmission_method: Oral tradition with magical resonance
+type: Lore
+updated: '2025-08-12T23:37:39.064951'
+world: Aethermoor
 ---
 
 

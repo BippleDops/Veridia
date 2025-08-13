@@ -1,18 +1,18 @@
 ---
-world: Both
-updated: '2025-08-13T01:18:35.050840+00:00'
-created: 2025-08-12
+created: '2025-08-12'
 status: complete
 tags:
-- both
-- complete
+- content/lore
 - economy
 - favors
-- lore
+- mechanics/social
 - networks
 - non-monetary
-- social
+- status/complete
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:38.538215'
+world: Both
 ---
 
 

@@ -1,15 +1,15 @@
 ---
-tags:
-- aquabyssos
-- corruption
-- draft
-- lore
-- shadow-magic
-type: Lore
-world: Aquabyssos
+created: '2025-08-12'
 status: draft
-created: 2025-08-12
-updated: '2025-08-13T04:22:13.717330+00:00'
+tags:
+- content/lore
+- corruption
+- mechanics/magic
+- status/draft
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:38.535861'
+world: Aquabyssos
 ---
 
 

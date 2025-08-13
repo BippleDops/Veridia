@@ -1,20 +1,20 @@
 ---
-tags:
-- both
-- culture
-- complete
-- guilds
-- professions
-- traditions
-- initiation-rites
-- trade-secrets
-- lore
-world: Both
-type: Lore
-status: complete
+created: '2025-08-12'
 created_by: cultural-expansion
-created: 2025-08-12
-updated: 2025-08-12
+status: complete
+tags:
+- access/secret
+- content/faction
+- content/lore
+- culture
+- initiation-rites
+- professions
+- status/complete
+- traditions
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:38.529904'
+world: Both
 ---
 
 # Guild Traditions Compendium

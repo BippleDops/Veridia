@@ -1,18 +1,18 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- aquabyssos
-- complete
-- diplomacy
+- content/location
 - embassy
 - espionage
-- location
+- mechanics/social
 - shadows
+- status/complete
 - tenebrarum
+- world/aquabyssos
 type: Location
+updated: '2025-08-12T23:37:39.783819'
 world: Aquabyssos
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:35.996303+00:00'
 ---
 
 

@@ -1,34 +1,32 @@
 ---
-tags:
-- ancient-library/archive
-- ancient-wisdom
-- aquabyssos
-- archive
-- complete
-- knowledge
-- library
-- location
-- ruins
-- scholars
-- underwater-city
-status: complete
-world: Aquabyssos
-type: Location
+age: 800+ years old
 category: Ruins/Knowledge Repository
+created: '2025-08-10'
+current_state: Partially Flooded Ruins
+danger_level: Moderate-High
 depth: 2500-3000 feet
 difficulty: Levels 6-12
 original_builder: '[[Scholar Emperor Thalassius the Wise]]'
-current_state: Partially Flooded Ruins
-danger_level: Moderate-High
 population: 50+ (scholars, guardians, spirits)
-age: 800+ years old
-created: 2025-08-10
-updated: 2025-08-11
 related_entities:
 - '[[Scholar Emperor Thalassius the Wise]]'
 - '[[02_Worldbuilding/Groups/The Scribes'' Covenant]]'
 - '[[Order of Preserved Knowledge]]'
 - '[[02_Worldbuilding/Lore/Deep Archives]]'
+status: complete
+tags:
+- ancient-wisdom
+- campaign/arc
+- content/location
+- knowledge
+- library
+- ruins
+- scholars
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.062572'
+world: Aquabyssos
 ---
 
 > [!figure] View

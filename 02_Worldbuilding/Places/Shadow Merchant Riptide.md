@@ -1,25 +1,25 @@
 ---
-tags:
-- aquabyssos
-- complete
-- criminal
-- location
-- merchant
-- npc
-status: complete
-world: Aquabyssos
-type: Location
-level: 8
-class: Rogue/Warlock
-race: Pressure-Adapted Human
-alignment: Chaotic Evil
-created_by: auto-stub
-created: 2025-08-08 - Category/Place
-MyContainer: None
 MyCategory: Unknown
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.515610+00:00'
+MyContainer: None
+alignment: Chaotic Evil
+class: Rogue/Warlock
+created: 2025-08-08 - Category/Place
+created_by: auto-stub
 danger_level: Moderate
+level: 8
+obsidianUIMode: preview
+race: Pressure-Adapted Human
+status: complete
+tags:
+- content/faction
+- content/location
+- content/npc
+- merchant
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.416996'
+world: Aquabyssos
 ---
 
 

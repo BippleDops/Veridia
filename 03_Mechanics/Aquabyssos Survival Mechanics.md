@@ -1,18 +1,17 @@
 ---
-tags:
-- active
-- adaptation
-- aquabyssos
-- depth
-- lore
-- mechanics
-- survival
+created: '2025-08-07'
+status: complete
 system: D&D 5e
-created: 2025-08-07
-updated: '2025-08-13T01:18:37.098190+00:00'
-world: Aquabyssos
-status: active
+tags:
+- adaptation
+- content/lore
+- content/mechanics
+- status/in-progress
+- survival
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:41.083783'
+world: Aquabyssos
 ---
 
 

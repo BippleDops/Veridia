@@ -1,23 +1,21 @@
 ---
-tags:
-- aethermoor
-- complete
-- former-crystal-warden
-- military-commander
-- npc
-- person
-- purist-coalition
-status: complete
-world: Aethermoor
-type: NPC
-role: Military Commander
 affiliation: '[[02_Worldbuilding/Groups/Purist Coalition]] - Military Wing'
 age: '43'
-race: Human
-location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Military Base'
+created: '2025-08-09'
 created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
+location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Military Base'
+race: Human
+role: Military Commander
+status: complete
+tags:
+- content/npc
+- military-commander
+- purist-coalition
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:40.930567'
+world: Aethermoor
 ---
 
 

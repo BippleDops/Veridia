@@ -1,30 +1,28 @@
 ---
-tags:
-- aquabyssos
-- complete
-- coral-formation
-- criminal
-- criminal-headquarters
-- headquarters
-- location
-- stronghold
-- underwater-fortress
-status: complete
-world: Aquabyssos
-type: Location
 category: Fortress/Stronghold
+controlled_by: '[[02_Worldbuilding/Groups/Coral Throne Syndicate]]'
+created: '2025-08-10'
+danger_level: Very High
 depth: 1800-2200 feet
 difficulty: Levels 8-15
-controlled_by: '[[02_Worldbuilding/Groups/Coral Throne Syndicate]]'
-ruler: '[[Coral Empress Scarletina]]'
-danger_level: Very High
 population: 500+ (guards, staff, prisoners)
-created: 2025-08-10
-updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Groups/Coral Throne Syndicate]]'
 - '[[Coral Empress Scarletina]]'
 - '[[02_Worldbuilding/Places/The Crimson Reef]]'
+ruler: '[[Coral Empress Scarletina]]'
+status: complete
+tags:
+- content/faction
+- content/location
+- coral-formation
+- headquarters
+- status/archived
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.522452'
+world: Aquabyssos
 ---
 
 > [!figure] View

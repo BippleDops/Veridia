@@ -1,13 +1,13 @@
 ---
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- aquabyssos
-- npc
-type: NPC
+- content/npc
+- status/in-progress
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.806550'
 world: Aquabyssos
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.850268+00:00'
 ---
 
 > [!figure] Portrait

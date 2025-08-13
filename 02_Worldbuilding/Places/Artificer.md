@@ -1,19 +1,19 @@
 ---
-tags:
-- aethermoor
-- artificer
-- complete
-- inventor
-- location
-- magical-technology
-- npc
-status: complete
-world: Aethermoor
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.467889+00:00'
 danger_level: Moderate
+status: complete
+tags:
+- artificer
+- content/location
+- content/npc
+- inventor
+- mechanics/magic
+- status/complete
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:40.345858'
+world: Aethermoor
 ---
 
 

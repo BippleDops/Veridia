@@ -1,36 +1,34 @@
 ---
-tags:
-- aethermoor
-- city
-- completed
-- druidic
-- environmental
-- forest
-- forest-city
-- harmony
-- location
-- nature
-- sylvan
-status: completed
-world: Aethermoor
-type: Location
-population: 180000
+climate: Temperate Forest
+created: '2025-08-09'
+danger_level: Moderate
+founded: Time Immemorial
 government: Circle of Elders
 leader: '[[02_Worldbuilding/People/Archdruid Thornweaver]]'
+population: 180000
+related_entities:
+- '[[02_Worldbuilding/Places/The Verdant Reach]]'
+- '[[02_Worldbuilding/Lore/Continental War]]'
+- '[[02_Worldbuilding/Lore/The Restoration Movement]]'
 specialties:
 - Natural Magic
 - Environmental Harmony
 - Herbal Medicine
 - Forest Protection
-founded: Time Immemorial
-climate: Temperate Forest
-created: 2025-08-09
-updated: 2025-08-11
-related_entities:
-- '[[02_Worldbuilding/Places/The Verdant Reach]]'
-- '[[02_Worldbuilding/Lore/Continental War]]'
-- '[[02_Worldbuilding/Lore/The Restoration Movement]]'
-danger_level: Moderate
+status: draft
+tags:
+- content/location
+- druidic
+- environmental
+- forest
+- harmony
+- nature
+- status/complete
+- sylvan
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:40.011157'
+world: Aethermoor
 ---
 
 > [!figure] View

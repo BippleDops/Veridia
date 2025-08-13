@@ -1,27 +1,6 @@
 ---
-tags:
-- ancient-ruins
-- aquabyssos
-- complete
-- exploration
-- lore
-- magic
-- mystery
-- quest
-quest_status: Active
-quest_priority: Medium
-quest_type: Side Quest
-world: Aquabyssos
-region: The Deepmere Reaches
-level_range: 3-5
-duration: 2-4 sessions
-difficulty: Medium
-themes:
-- discovery
-- ancient civilizations
-- lost knowledge
-- underwater exploration
-- magical preservation
+MyCategory: Unknown
+MyContainer: None
 connected_factions:
 - The Deepmere Scholars
 - Coral Guardians
@@ -34,19 +13,40 @@ connected_npcs:
 - Archivist Nereon Deepcurrent
 - Captain Marina Pearlwhisper
 - Elder Corallius
+created: '2025-08-08'
+difficulty: Medium
+duration: 2-4 sessions
+last_modified: 2025-08-10 - Category/Quest
+level_range: 3-5
+obsidianUIMode: preview
+quest_priority: Medium
+quest_status: Active
+quest_type: Side Quest
+region: The Deepmere Reaches
 rewards:
 - Ancient Navigation Charts
 - Marina's Compass
 - Deepmere Breathing Apparatus
 - Scholar's Favor
 status: complete
-created: 2025-08-08
-last_modified: 2025-08-10 - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:34.491683+00:00'
+tags:
+- ancient-ruins
+- content/adventure
+- content/lore
+- mechanics/exploration
+- mechanics/magic
+- mystery
+- status/complete
+- world/aquabyssos
+themes:
+- discovery
+- ancient civilizations
+- lost knowledge
+- underwater exploration
+- magical preservation
 type: Lore
+updated: '2025-08-12T23:37:37.781305'
+world: Aquabyssos
 ---
 
 

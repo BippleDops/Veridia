@@ -1,26 +1,26 @@
 ---
-tags:
-- active
-- aquabyssos
-- both
-- crystallium
-- major
-- npc
-- prophet
-npc_type: Continental Leader
-location:
-- - Crystallium
+MyCategory: Unknown
+MyContainer: None
+created: 2025-08-07 - Category/People
+disposition: -2
 faction:
 - - The Harmony Collective
-disposition: -2
-status: Active
-created: 2025-08-07 - Category/People
-MyContainer: None
-MyCategory: Unknown
+location:
+- - Crystallium
+npc_type: Continental Leader
 obsidianUIMode: preview
+status: complete
+tags:
+- content/npc
+- importance/major
+- prophet
+- status/in-progress
+- world/aethermoor
+- world/aquabyssos
+- world/both
+type: Npc
+updated: '2025-08-12T23:37:40.874464'
 world: Both
-updated: 2025-08-11
-type: NPC
 ---
 
 

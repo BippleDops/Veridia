@@ -1,19 +1,19 @@
 ---
-updated: '2025-08-13T01:18:34.686434+00:00'
-created: 2025-08-12
+created: '2025-08-12'
+obsidianUIMode: preview
+status: complete
 tags:
 - academic
-- both
-- complete
+- content/lore
 - linguistics
-- lore
 - professional_reference
 - scholarly
+- status/complete
 - terminology
-status: complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:38.055975'
 world: Both
-type: professional_reference
-obsidianUIMode: preview
 ---
 
 

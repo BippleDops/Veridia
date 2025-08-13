@@ -1,16 +1,16 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/location
 - facilities
 - medical-horror
-- place
 - shadow-conspiracy
-type: Place
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:39.864759'
 world: Aquabyssos
-status: complete
-created: '2025-08-12'
-updated: '2025-08-13T01:18:36.065434+00:00'
 ---
 
 

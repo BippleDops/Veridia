@@ -1,29 +1,27 @@
 ---
-tags:
-- aethermoor
-- anti-corruption
-- complete
-- extremist
-- faction
-- group
-- militant
-- minor-faction
-status: complete
-world: Aethermoor
-type: Group
-faction_type: Extremist Movement
+MyCategory: Unknown
+MyContainer: None
 alignment: Chaotic Good (extremist methods)
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Extremist Movement
 headquarters: '[[The Pure Sanctum]]'
+influence: Regional (Underground network)
 leader: '[[Purifier Marcus Steelbane]]'
 members: ~2,000 active militants, 5,000+ sympathizers
-influence: Regional (Underground network)
-wealth: Limited (donations and seized assets)
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.668805+00:00'
-MyContainer: None
-MyCategory: Unknown
 obsidianUIMode: preview
+status: complete
+tags:
+- anti-corruption
+- content/faction
+- extremist
+- militant
+- status/complete
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.589233'
+wealth: Limited (donations and seized assets)
+world: Aethermoor
 ---
 
 

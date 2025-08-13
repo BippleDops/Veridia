@@ -1,34 +1,34 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-monster
-statblock: inline
-tags:
-- active
-- both
-- compendium/src/5e/mm
-- note
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
-aliases:
-- Allosaurus
-NoteIcon: monster
 BestiaryType:
 - beast
-SourceType: Bestiary
 BookSource:
 - 'Monster Manual p. 79, Tomb of Annihilation, Waterdeep: Dragon Heist, Journeys through
   the Radiant Citadel, Keys from the Golden Vault. Available in the Basic Rules.'
-statAC: 13
-statHP: 51
-statEnv: grassland
-type: note
+NoteIcon: monster
+SourceType: Bestiary
+aliases:
+- Allosaurus
 created: 2025-07-23
-updated: '2025-08-13T01:18:31.226914+00:00'
+cssclass: json5e-monster
 modified: 2025-07-23 12:39
-world: Both
+obsidianUIMode: preview
+statAC: 13
+statEnv: grassland
+statHP: 51
+statblock: inline
 status: active
+tags:
+- compendium/src/5e/mm
+- note
+- status/in-progress
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/beast
+- world/both
+- world/surface
+type: note
+updated: '2025-08-12T23:37:33.161891'
+world: Both
 ---
 
 

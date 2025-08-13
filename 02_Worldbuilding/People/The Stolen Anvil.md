@@ -1,21 +1,21 @@
 ---
+MyCategory: Events
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
+obsidianUIMode: preview
+status: complete
 tags:
 - anvil
-- aquabyssos
-- complete
+- content/lore
+- content/npc
 - crafting
-- lore
-- npc
+- status/complete
 - theft
-status: complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.916422'
 world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
-MyCategory: Events
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.934411+00:00'
 ---
 
 

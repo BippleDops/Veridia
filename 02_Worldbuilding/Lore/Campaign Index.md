@@ -1,17 +1,17 @@
 ---
-tags:
-- campaign
-- complete
-- index
-- lore
-- universal
-status: complete
-world: Universal
-type: Lore
-created_by: auto-stub
-created: 2025-08-08
 completed: 2025-08-11
-updated: 2025-08-11
+created: '2025-08-08'
+created_by: auto-stub
+status: complete
+tags:
+- campaign/arc
+- content/lore
+- index
+- status/complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:37.979210'
+world: Universal
 ---
 
 

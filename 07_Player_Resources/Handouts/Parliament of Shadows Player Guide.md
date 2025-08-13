@@ -1,19 +1,19 @@
 ---
+campaign: Parliament of Shadows
+created: '2025-08-07'
+spoiler_free: true
+status: complete
 tags:
-- active
-- both
-- campaign-guide
-- lore
+- campaign/arc
+- content/lore
 - parliament-shadows
 - player-handout
 - player-resource
+- status/in-progress
+- world/both
 type: Lore
-campaign: Parliament of Shadows
-spoiler_free: true
-created: 2025-08-07
+updated: '2025-08-12T23:37:33.080849'
 world: Both
-updated: '2025-08-13T01:18:31.160233+00:00'
-status: active
 ---
 
 

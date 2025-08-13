@@ -1,23 +1,23 @@
 ---
+MyCategory: Mystery
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
 - conspiracy
-- crystals
-- location
-- lore
+- content/location
+- content/lore
 - mystery
 - seven_shards
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aethermoor
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
-MyCategory: Mystery
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.077176+00:00'
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.880876'
+world: Aquabyssos
 ---
 
 

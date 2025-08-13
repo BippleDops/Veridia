@@ -1,27 +1,27 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+current_status: Active but Fragmented
+historical_period: Post-Bathyal Succession to Present
+movement_type: Political and Religious Reform
+significance: Major
+status: complete
 tags:
-- aquabyssos
-- complete
+- campaign/arc
+- content/lore
 - democracy
 - historical
-- lore
-- monarchy
+- mechanics/social
 - political-movement
 - reform
 - religious-movement
 - restoration
 - revolution
-- social-change
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-historical_period: Post-Bathyal Succession to Present
-significance: Major
-movement_type: Political and Religious Reform
-current_status: Active but Fragmented
+updated: '2025-08-12T23:37:39.618601'
+world: Aquabyssos
 ---
 
 

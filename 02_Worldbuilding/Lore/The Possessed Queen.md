@@ -1,28 +1,26 @@
 ---
-tags:
-- aethermoor
-- campaign-threat
-- complete
-- corruption
-- crystal-influence
-- lore
-- major-npc
-- person
-- political-crisis
-- possession
-- ruler
-- tragedy
-status: complete
-world: Aethermoor
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
 person_type: Corrupted Ruler
-scope: National Significance
-threat_level: Extreme
-status_condition: Crystal Possessed
 political_impact: Constitutional Crisis
+scope: National Significance
+status: complete
+status_condition: Crystal Possessed
+tags:
+- campaign/arc
+- campaign/session
+- content/lore
+- content/mechanics
+- content/npc
+- corruption
+- political-crisis
+- status/complete
+- tragedy
+- world/aethermoor
+threat_level: Extreme
+type: Lore
+updated: '2025-08-12T23:37:38.066923'
+world: Aethermoor
 ---
 
 

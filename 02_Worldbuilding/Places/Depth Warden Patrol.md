@@ -1,25 +1,24 @@
 ---
-tags:
-- aquabyssos
-- complete
-- depth-wardens
-- encounter
-- law-enforcement
-- location
-- mobile-unit
-- patrol
-- security
-status: complete
-world: Aquabyssos
-type: Location
 category: Mobile Patrol Unit
+created: '2025-08-08'
+created_by: auto-stub
 danger_level: Variable
 encounter_type: Social/Combat
 frequency: Common
 location_type: Any depth zone
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.344084+00:00'
+status: complete
+tags:
+- campaign/session
+- content/location
+- law-enforcement
+- mobile-unit
+- patrol
+- security
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.175465'
+world: Aquabyssos
 ---
 
 

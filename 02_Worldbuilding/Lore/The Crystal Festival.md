@@ -1,27 +1,26 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+duration: Originally 7 days, final year lasted 3 hours
+event_type: Annual Festival turned Catastrophic Ritual
+location: '[[Crystal Festival Grounds]], [[Port Meridian]]'
+participants: Entire population of [[Port Meridian]] and neighboring regions
+status: complete
 tags:
-- aethermoor
 - bloodline
 - celebration
-- complete
-- crystal-corruption
+- content/lore
 - disaster
 - event
 - festival
-- lore
 - queen-seraphina
 - ritual
+- status/complete
 - transformation
-status: complete
-world: Aethermoor
+- world/aethermoor
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-event_type: Annual Festival turned Catastrophic Ritual
-duration: Originally 7 days, final year lasted 3 hours
-location: '[[Crystal Festival Grounds]], [[Port Meridian]]'
-participants: Entire population of [[Port Meridian]] and neighboring regions
+updated: '2025-08-12T23:37:38.665522'
+world: Aethermoor
 ---
 
 

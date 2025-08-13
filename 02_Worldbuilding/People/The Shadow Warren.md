@@ -1,22 +1,22 @@
 ---
+MyCategory: Shadow Network Leader
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
+obsidianUIMode: preview
+status: complete
 tags:
-- aethermoor
-- complete
-- leader
+- campaign/hook
+- content/npc
 - mysterious
 - network
-- npc
 - shadow-corruption
+- status/complete
 - underground
-status: complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:41.036928'
 world: Aethermoor
-type: NPC
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
-MyCategory: Shadow Network Leader
-obsidianUIMode: preview
-updated: 2025-08-12
 ---
 
 > [!figure] Portrait

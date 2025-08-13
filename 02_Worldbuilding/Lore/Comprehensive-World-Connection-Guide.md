@@ -1,25 +1,24 @@
 ---
-tags:
-- active merger possibility
-- active-merger-possibility
-- aethermoor
-- aquabyssos
-- both
-- campaign-guide
-- connections
-- lore
-- worldbuilding
-world_type: Parallel Realms
-connection_type: Dimensional Convergence
-status: Active Merger Possibility
-created: 2025-08-07
-updated: '2025-08-13T01:18:34.791034+00:00'
 aliases:
 - World Connection Guide
 - Realm Merger Guide
 - Aquabyssos-Aethermoor Bridge
-world: Both
+connection_type: Dimensional Convergence
+created: '2025-08-07'
+status: complete
+tags:
+- campaign/arc
+- connections
+- content/lore
+- status/in-progress
+- world/aethermoor
+- world/aquabyssos
+- world/both
+- worldbuilding
 type: Lore
+updated: '2025-08-12T23:37:38.175898'
+world: Both
+world_type: Parallel Realms
 ---
 
 

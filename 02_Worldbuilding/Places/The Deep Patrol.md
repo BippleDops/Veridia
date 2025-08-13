@@ -1,19 +1,18 @@
 ---
-tags:
-- aquabyssos
-- complete
-- deep-sea
-- location
-- military
-- organization
-- patrol
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.396674+00:00'
 danger_level: Moderate
+status: complete
+tags:
+- content/faction
+- content/location
+- military
+- patrol
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.245225'
+world: Aquabyssos
 ---
 
 

@@ -1,29 +1,26 @@
 ---
-tags:
-- aethermoor
-- complete
-- crystal-trade
-- economic
-- faction
-- group
-- major-faction
-- merchant
-status: complete
-world: Aethermoor
-type: Group
-faction_type: Economic Power
+MyCategory: Unknown
+MyContainer: None
 alignment: Lawful Neutral (leaning Evil)
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Economic Power
 headquarters: '[[The Silver Tower of Commerce]]'
+influence: Continental
 leader: '[[02_Worldbuilding/People/Zephyr Goldwhisper]]'
 members: ~50,000 employees, contractors, agents
-influence: Continental
-wealth: Controls 60% of crystal trade
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.659594+00:00'
-MyContainer: None
-MyCategory: Unknown
 obsidianUIMode: preview
+status: complete
+tags:
+- content/faction
+- economic
+- merchant
+- status/complete
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.577956'
+wealth: Controls 60% of crystal trade
+world: Aethermoor
 ---
 
 

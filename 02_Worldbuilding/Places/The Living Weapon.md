@@ -1,28 +1,27 @@
 ---
+MyCategory: Places
+MyContainer: None
+access: classified
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Extreme
+obsidianUIMode: preview
+security_level: extreme
+status: complete
 tags:
-- ancient
-- aquabyssos
-- artifact
-- complete
+- content/item
+- content/location
+- content/lore
 - dangerous
 - intelligence
-- location
 - military
 - sentient
+- status/complete
 - symbiotic
-- weapon
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Location
-security_level: extreme
-access: classified
-danger_level: Extreme
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.215406+00:00'
-MyContainer: None
-MyCategory: Places
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:40.029242'
+world: Aquabyssos
 ---
 
 

@@ -1,23 +1,20 @@
 ---
-tags:
-- boss-fights
-- both
-- both-realms
-- combat
-- complete
-- epic-encounters
-- game-mechanics
-- lore
-- mechanics
-- multi-phase
-status: complete
-world: Both
-type: Lore
-system: D&D 5e
 complexity: Advanced
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.809148+00:00'
+status: complete
+system: D&D 5e
+tags:
+- campaign/session
+- content/lore
+- content/mechanics
+- mechanics/combat
+- multi-phase
+- status/complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:39.521944'
+world: Both
 ---
 
 

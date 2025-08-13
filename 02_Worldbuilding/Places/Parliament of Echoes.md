@@ -1,26 +1,26 @@
 ---
-tags:
-- active
-- aquabyssos
-- both
-- horror
-- location
-- political
-- temporal
-location_type: Government Building
-continent: '[[02_Worldbuilding/Places/Abyssos Prime]]'
-depth: 1,500-2,000 feet
-population: ~500 (plus countless echoes)
-danger_level: High (Political)
-magical_phenomena: Temporal Overlap, Echo Persistence
-created: 2025-08-07 - Category/Place
-MyContainer: None
 MyCategory: Unknown
+MyContainer: None
+continent: '[[02_Worldbuilding/Places/Abyssos Prime]]'
+created: 2025-08-07 - Category/Place
+danger_level: High (Political)
+depth: 1,500-2,000 feet
+location_type: Government Building
+magical_phenomena: Temporal Overlap, Echo Persistence
 obsidianUIMode: preview
-world: Both
-updated: '2025-08-13T01:18:36.285823+00:00'
-status: active
+population: ~500 (plus countless echoes)
+status: complete
+tags:
+- content/location
+- horror
+- political
+- status/in-progress
+- temporal
+- world/aquabyssos
+- world/both
 type: Location
+updated: '2025-08-12T23:37:40.093381'
+world: Both
 ---
 
 

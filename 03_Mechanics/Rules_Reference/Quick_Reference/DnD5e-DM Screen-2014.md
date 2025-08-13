@@ -1,19 +1,19 @@
 ---
-type: Lore
-tags:
-- 5e
-- active
-- both
-- dm-screen
-- lore
-- note
 aliases:
 - DM Screen
-created: 2025-07-23
+created: '2025-07-23'
 modified: 2025-07-23 12:39
+status: complete
+tags:
+- 5e
+- content/lore
+- dm-screen
+- note
+- status/in-progress
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:41.127514'
 world: Both
-updated: '2025-08-13T01:18:37.134317+00:00'
-status: active
 ---
 
 

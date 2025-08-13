@@ -1,19 +1,19 @@
 ---
+created: '2025-08-12'
+created_by: cultural-expansion
+status: complete
 tags:
-- both
-- culture
-- complete
-- festivals
 - calendar
 - celebrations
-- seasonal-events
-- lore
-world: Both
+- content/lore
+- culture
+- festivals
+- status/complete
+- world/aquabyssos
+- world/both
 type: Lore
-status: complete
-created_by: cultural-expansion
-created: 2025-08-12
-updated: 2025-08-12
+updated: '2025-08-12T23:37:37.873860'
+world: Both
 ---
 
 # Festival Calendar Complete

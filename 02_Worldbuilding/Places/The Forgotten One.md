@@ -1,27 +1,27 @@
 ---
+MyCategory: Places
+MyContainer: None
+access: restricted
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Extreme
+obsidianUIMode: preview
+security_level: extreme
+status: complete
 tags:
-- ancient
-- aquabyssos
-- artifact
-- complete
+- content/item
+- content/location
+- content/lore
 - forgotten
-- location
 - memory
 - mystery
 - ruins
+- status/complete
 - temporal
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Location
-security_level: extreme
-access: restricted
-danger_level: Extreme
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Places
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:40.033367'
+world: Aquabyssos
 ---
 
 > [!figure] View

@@ -1,14 +1,14 @@
 ---
-tags:
-- active
-- aethermoor
-- location
-type: Location
-world: Aethermoor
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.357506+00:00'
+created: '2025-08-11'
 danger_level: Moderate
+status: complete
+tags:
+- content/location
+- status/in-progress
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:40.193529'
+world: Aethermoor
 ---
 
 > [!figure] View

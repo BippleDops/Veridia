@@ -1,34 +1,32 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+character_type: Master Craftsman
+class: Artificer
+cr: 10
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+faction: Artisan Guild
+level: 14
+location: The Great Forge, Aquabyssos
+obsidianUIMode: preview
+occupation: Master Smith and Weaponsmith
+status: complete
 tags:
-- aquabyssos
-- armor
 - artisan
-- character
-- complete
+- content/item
+- content/location
+- content/npc
 - craftsman
 - deepforge
-- location
 - master
-- npc
 - smith
-- weapons
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.959030+00:00'
-character_type: Master Craftsman
-faction: Artisan Guild
-class: Artificer
-level: 14
-cr: 10
-occupation: Master Smith and Weaponsmith
-location: The Great Forge, Aquabyssos
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.732589'
+world: Aquabyssos
 ---
 
 

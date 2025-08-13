@@ -1,15 +1,15 @@
 ---
-obsidianUIMode: preview
 assa: null
-world: Both
-updated: '2025-08-13T01:18:31.111779+00:00'
-created: 2025-08-11
-status: active
+created: '2025-08-11'
+obsidianUIMode: preview
+status: complete
 tags:
-- active
-- both
-- lore
+- content/lore
+- status/in-progress
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:33.017690'
+world: Both
 ---
 
 

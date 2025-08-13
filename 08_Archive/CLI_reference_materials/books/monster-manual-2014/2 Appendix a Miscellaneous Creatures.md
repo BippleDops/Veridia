@@ -1,0 +1,145 @@
+---
+aliases:
+- Appendix A: Miscellaneous Creatures
+created: 2025-07-23
+cssclasses: json5e-note
+modified: 2025-07-23 12:39
+obsidianUIMode: preview
+status: active
+tags:
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/mm
+- world/both
+type: note
+updated: '2025-08-12T23:37:34.769673'
+world: Both
+---
+
+# Appendix A: Miscellaneous Creatures
+*Source: Monster Manual (2014), p. 317* 
+
+![](/03_Mechanics/CLI/books/monster-manual-2014/img/01-062-unicorn-lair.webp#center)
+
+This appendix contains statistics for various animals, vermin, and other critters. The stat blocks are organized alphabetically by creature name.
+
+> [!note] Other Animals
+> 
+> A book of this size can't contain statistics for every animal inhabiting your D&D campaign world. However, you can use the stat block of one animal to represent another easily enough. For example, you can use the panther statistics to represent a jaguar, the giant goat statistics to represent a buffalo, and the hawk statistics to represent a falcon.
+^other-animals
+
+- [Ape](/03_Mechanics/CLI/bestiary/beast/ape-xmm.md)  
+- [Awakened Shrub](/03_Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md)  
+- [Awakened Tree](/03_Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md)  
+- [Axe Beak](/03_Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md)  
+- [Baboon](/03_Mechanics/CLI/bestiary/beast/baboon-xmm.md)  
+- [Badger](/03_Mechanics/CLI/bestiary/beast/badger-xmm.md)  
+- [Bat](/03_Mechanics/CLI/bestiary/beast/bat-xmm.md)  
+- [Black Bear](/03_Mechanics/CLI/bestiary/beast/black-bear-xmm.md)  
+- [Blink Dog](/03_Mechanics/CLI/bestiary/fey/blink-dog-xmm.md)  
+- [Blood Hawk](/03_Mechanics/CLI/bestiary/beast/blood-hawk-xmm.md)  
+- [Boar](/03_Mechanics/CLI/bestiary/beast/boar-xmm.md)  
+- [Brown Bear](/03_Mechanics/CLI/bestiary/beast/brown-bear-xmm.md)  
+- [Camel](/03_Mechanics/CLI/bestiary/beast/camel-xmm.md)  
+- [Cat](/03_Mechanics/CLI/bestiary/beast/cat-xmm.md)  
+- [Constrictor Snake](/03_Mechanics/CLI/bestiary/beast/constrictor-snake-xmm.md)  
+- [Crab](/03_Mechanics/CLI/bestiary/beast/crab-xmm.md)  
+- [Crocodile](/03_Mechanics/CLI/bestiary/beast/crocodile-xmm.md)  
+- [Death Dog](/03_Mechanics/CLI/bestiary/monstrosity/death-dog-xmm.md)  
+- [Deer](/03_Mechanics/CLI/bestiary/beast/deer-xmm.md)  
+- [Dire Wolf](/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md)  
+- [Draft Horse](/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm.md)  
+- [Eagle](/03_Mechanics/CLI/bestiary/beast/eagle-xmm.md)  
+- [Elephant](/03_Mechanics/CLI/bestiary/beast/elephant-xmm.md)  
+- [Elk](/03_Mechanics/CLI/bestiary/beast/elk-xmm.md)  
+- [Flying Snake](/03_Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm.md)  
+- [Frog](/03_Mechanics/CLI/bestiary/beast/frog-xmm.md)  
+- [Giant Ape](/03_Mechanics/CLI/bestiary/beast/giant-ape-xmm.md)  
+- [Giant Badger](/03_Mechanics/CLI/bestiary/beast/giant-badger-xmm.md)  
+- [Giant Bat](/03_Mechanics/CLI/bestiary/beast/giant-bat-xmm.md)  
+- [Giant Boar](/03_Mechanics/CLI/bestiary/beast/giant-boar-xmm.md)  
+- [Giant Centipede](/03_Mechanics/CLI/bestiary/beast/giant-centipede-xmm.md)  
+- [Giant Constrictor Snake](/03_Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm.md)  
+- [Giant Crab](/03_Mechanics/CLI/bestiary/beast/giant-crab-xmm.md)  
+- [Giant Crocodile](/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm.md)  
+- [Giant Eagle](/03_Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md)  
+- [Giant Elk](/03_Mechanics/CLI/bestiary/celestial/giant-elk-xmm.md)  
+- [Giant Fire Beetle](/03_Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm.md)  
+- [Giant Frog](/03_Mechanics/CLI/bestiary/beast/giant-frog-xmm.md)  
+- [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md)  
+- [Giant Hyena](/03_Mechanics/CLI/bestiary/beast/giant-hyena-xmm.md)  
+- [Giant Lizard](/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md)  
+- [Giant Octopus](/03_Mechanics/CLI/bestiary/beast/giant-octopus-xmm.md)  
+- [Giant Owl](/03_Mechanics/CLI/bestiary/celestial/giant-owl-xmm.md)  
+- [Giant Poisonous Snake](/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md)  
+- [Giant Rat](/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm.md)  
+- [Giant Scorpion](/03_Mechanics/CLI/bestiary/beast/giant-scorpion-xmm.md)  
+- [Giant Sea Horse](/03_Mechanics/CLI/bestiary/beast/giant-seahorse-xmm.md)  
+- [Giant Shark](/03_Mechanics/CLI/bestiary/beast/giant-shark-xmm.md)  
+- [Giant Spider](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md)  
+- [Giant Toad](/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm.md)  
+- [Giant Vulture](/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md)  
+- [Giant Wasp](/03_Mechanics/CLI/bestiary/beast/giant-wasp-xmm.md)  
+- [Giant Weasel](/03_Mechanics/CLI/bestiary/beast/giant-weasel-xmm.md)  
+- [Giant Wolf Spider](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md)  
+- [Goat](/03_Mechanics/CLI/bestiary/beast/goat-xmm.md)  
+- [Hawk](/03_Mechanics/CLI/bestiary/beast/hawk-xmm.md)  
+- [Hunter Shark](/03_Mechanics/CLI/bestiary/beast/hunter-shark-xmm.md)  
+- [Hyena](/03_Mechanics/CLI/bestiary/beast/hyena-xmm.md)  
+- [Jackal](/03_Mechanics/CLI/bestiary/beast/jackal-xmm.md)  
+- [Killer Whale](/03_Mechanics/CLI/bestiary/beast/killer-whale-xmm.md)  
+- [Lion](/03_Mechanics/CLI/bestiary/beast/lion-xmm.md)  
+- [Lizard](/03_Mechanics/CLI/bestiary/beast/lizard-xmm.md)  
+- [Mammoth](/03_Mechanics/CLI/bestiary/beast/mammoth-xmm.md)  
+- [Mastiff](/03_Mechanics/CLI/bestiary/beast/mastiff-xmm.md)  
+- [Mule](/03_Mechanics/CLI/bestiary/beast/mule-xmm.md)  
+- [Octopus](/03_Mechanics/CLI/bestiary/beast/octopus-xmm.md)  
+- [Owl](/03_Mechanics/CLI/bestiary/beast/owl-xmm.md)  
+- [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md)  
+- [Phase Spider](/03_Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm.md)  
+- [Poisonous Snake](/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md)  
+- [Polar Bear](/03_Mechanics/CLI/bestiary/beast/polar-bear-xmm.md)  
+- [Pony](/03_Mechanics/CLI/bestiary/beast/pony-xmm.md)  
+- [Quipper](/03_Mechanics/CLI/bestiary/beast/piranha-xmm.md)  
+- [Rat](/03_Mechanics/CLI/bestiary/beast/rat-xmm.md)  
+- [Raven](/03_Mechanics/CLI/bestiary/beast/raven-xmm.md)  
+- [Reef Shark](/03_Mechanics/CLI/bestiary/beast/reef-shark-xmm.md)  
+- [Rhinoceros](/03_Mechanics/CLI/bestiary/beast/rhinoceros-xmm.md)  
+- [Riding Horse](/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm.md)  
+- [Saber-Toothed Tiger](/03_Mechanics/CLI/bestiary/beast/saber-toothed-tiger-xmm.md)  
+- [Scorpion](/03_Mechanics/CLI/bestiary/beast/scorpion-xmm.md)  
+- [Sea Horse](/03_Mechanics/CLI/bestiary/beast/seahorse-xmm.md)  
+- [Spider](/03_Mechanics/CLI/bestiary/beast/spider-xmm.md)  
+- [Swarm of Bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md)  
+- [Swarm of Insects](/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md)  
+- [Swarm of Poisonous Snakes](/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm.md)  
+- [Swarm of Quippers](/03_Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm.md)  
+- [Swarm of Rats](/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md)  
+- [Swarm of Ravens](/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md)  
+- [Tiger](/03_Mechanics/CLI/bestiary/beast/tiger-xmm.md)  
+- [Vulture](/03_Mechanics/CLI/bestiary/beast/vulture-xmm.md)  
+- [Warhorse](/03_Mechanics/CLI/bestiary/beast/warhorse-xmm.md)  
+- [Weasel](/03_Mechanics/CLI/bestiary/beast/weasel-xmm.md)  
+- [Winter Wolf](/03_Mechanics/CLI/bestiary/monstrosity/winter-wolf-xmm.md)  
+- [Wolf](/03_Mechanics/CLI/bestiary/beast/wolf-xmm.md)  
+- [Worg](/03_Mechanics/CLI/bestiary/fey/worg-xmm.md)
+
+## Player-Facing Summary
+
+2 appendix a miscellaneous creatures is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 2 appendix a miscellaneous creatures as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 appendix a miscellaneous creatures.
+
+## Adventure Hooks
+
+- A rumor ties 2 appendix a miscellaneous creatures to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 2 appendix a miscellaneous creatures to avert a public scandal.
+- A map overlay reveals a hidden approach to 2 appendix a miscellaneous creatures active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

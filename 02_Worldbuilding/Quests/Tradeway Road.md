@@ -1,25 +1,25 @@
 ---
+MyCategory: Quest
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
+estimated_duration: 5-7 sessions
+level_range: 4-6
+obsidianUIMode: preview
+party_size: 3-6
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/adventure
+- content/lore
 - corruption
 - deep-mother
-- lore
-- memory-magic
-- quest
+- mechanics/magic
+- status/complete
 - tradeway
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.505495+00:00'
-level_range: 4-6
-party_size: 3-6
-estimated_duration: 5-7 sessions
-MyContainer: None
-MyCategory: Quest
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:37.797324'
+world: Aquabyssos
 ---
 
 

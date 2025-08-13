@@ -1,29 +1,29 @@
 ---
-tags:
-- aquabyssos
-- completed
-- deep_mother
-- event
-- heroic_sacrifice
-- historical_event
-- lore
-- political_corruption
-status: completed
-type: Lore
-world: aquabyssos
 connections:
 - '[[Senator Glaucus]]'
 - '[[Parliament of Echoes]]'
 - '[[Deep Mother]]'
 - '[[Tidal Council]]'
 - '[[Abyssos Prime]]'
+created: '2025-08-11'
+status: draft
+tags:
+- content/lore
+- deep_mother
+- event
+- heroic_sacrifice
+- historical_event
+- political_corruption
+- status/complete
+- world/aquabyssos
 themes:
 - corruption_versus_duty
 - political_sacrifice
 - cosmic_horror_infiltration
 - heroic_final_act
-created: 2025-08-11
-updated: 2025-08-11
+type: Lore
+updated: '2025-08-12T23:37:38.239678'
+world: aquabyssos
 ---
 
 

@@ -1,18 +1,18 @@
 ---
-world: Both
-updated: '2025-08-13T01:18:34.934194+00:00'
-created: 2025-08-12
+created: '2025-08-12'
 status: complete
 tags:
 - barter
-- both
-- complete
+- content/lore
 - economy
-- lore
+- mechanics/social
 - poverty
-- social
+- status/complete
 - survival
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:38.387865'
+world: Both
 ---
 
 

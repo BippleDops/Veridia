@@ -1,20 +1,20 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+expanded: 2025-08-10
+status: complete
 tags:
-- aethermoor
 - awakening
 - bloodlines
-- complete
+- content/lore
+- content/mechanics
 - inheritance
-- lore
-- magic
-- power-systems
-status: complete
-world: Aethermoor
+- mechanics/magic
+- status/complete
+- world/aethermoor
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-expanded: 2025-08-10
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.071063'
+world: Aethermoor
 ---
 
 

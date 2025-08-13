@@ -1,26 +1,25 @@
 ---
+accessibility: Hidden/Restricted
+created: '2025-08-08'
+created_by: auto-stub
+current_status: Active Refuge
+location_type: Underground Sanctuary
+region: Aethermoor
+significance: Resistance Stronghold
+status: complete
 tags:
-- aethermoor
-- complete
-- crystal-corruption
-- location
-- lore
+- content/location
+- content/lore
 - protection
 - refuge
 - resistance
 - sanctuary
+- status/complete
 - underground
-status: complete
-world: Aethermoor
+- world/aethermoor
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-location_type: Underground Sanctuary
-region: Aethermoor
-significance: Resistance Stronghold
-accessibility: Hidden/Restricted
-current_status: Active Refuge
+updated: '2025-08-12T23:37:38.972774'
+world: Aethermoor
 ---
 
 

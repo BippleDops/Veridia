@@ -1,39 +1,37 @@
 ---
-tags:
-- aethermoor
-- ancient-conspiracy
-- betrayal
-- complete
-- crown-shattering
-- divine-betrayal
-- historical-event
-- history
-- lore
-- political-intrigue
-- pre-crystallization
-- seven-shards
-status: complete
-world: Aethermoor
-type: Lore
 category: Ancient Conspiracy
-significance: World-Defining
-time_period: Pre-Crystallization Era, Year 1 BGC (Before Great Crystallization)
-scale: Continental
+created: '2025-08-08'
+created_by: auto-stub
+expanded: 2025-08-11
+outcome: Catastrophic Success - Crown Shattered, Crystallization Triggered
 participants:
 - God-King Aetheron
 - Seven Trusted Advisors
 - Divine Court
-outcome: Catastrophic Success - Crown Shattered, Crystallization Triggered
-created_by: auto-stub
-created: 2025-08-08
-expanded: 2025-08-11
 related_entities:
 - '[[The Great Crystallization]]'
 - '[[The Seven Shards]]'
 - '[[The Crown of Stars]]'
 - '[[Aetheron]]'
 - '[[The Shattering of the Crown]]'
-updated: 2025-08-11
+scale: Continental
+significance: World-Defining
+status: complete
+tags:
+- ancient-conspiracy
+- betrayal
+- content/lore
+- crown-shattering
+- divine-betrayal
+- historical-event
+- political-intrigue
+- seven-shards
+- status/complete
+- world/aethermoor
+time_period: Pre-Crystallization Era, Year 1 BGC (Before Great Crystallization)
+type: Lore
+updated: '2025-08-12T23:37:39.118779'
+world: Aethermoor
 ---
 
 

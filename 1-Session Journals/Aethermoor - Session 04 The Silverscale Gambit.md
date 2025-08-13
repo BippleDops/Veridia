@@ -1,18 +1,24 @@
 ---
-tags:
-- active
-- aethermoor
-- crystal-plague
-- lore
-- session
-- seven-shards
-session: Session-04
-date: null
-type: Lore
-players: []
+MyCategory: Unknown
+MyContainer: None
 absent: []
+aquabyssos_connection: true
 campaign: Aethermoor - The Plague of Crystals
-primary_location: '[[Port Meridian - Merchant Quarter]]'
+corruption_exposure: 3
+created: '2025-08-11'
+danger_level: 7
+date: null
+duration_hours: 4
+encounters:
+- '[[Crimson Hand Strike Team]]'
+- '[[Vex Shadowthorn Boss Fight]]'
+- '[[Consortium Security Constructs]]'
+gold_gained: 1000
+items_gained:
+- Shard Compass
+- Aquabyssos breathing apparatus
+- Crimson Hand intelligence reports
+level: 4
 locations_visited:
 - '[[Port Meridian - Merchant Quarter]]'
 - '[[Silverscale Banking House]]'
@@ -24,41 +30,34 @@ npcs_met:
 - '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
 - '[[Director Hadrian Silverscale]]'
 - '[[02_Worldbuilding/People/The Crimson Sage]]'
-encounters:
-- '[[Crimson Hand Strike Team]]'
-- '[[Vex Shadowthorn Boss Fight]]'
-- '[[Consortium Security Constructs]]'
-quests_started:
-- '[[The Silverscale Conspiracy]]'
-- '[[Race Against the Festival]]'
-quests_progressed:
-- '[[The Seven Shards Mystery]]'
-- '[[Investigate the Crystal Plague]]'
-quests_completed: []
-items_gained:
-- Shard Compass
-- Aquabyssos breathing apparatus
-- Crimson Hand intelligence reports
-gold_gained: 1000
-xp_awarded: 1200
+obsidianUIMode: preview
+players: []
 plot_threads:
 - Marina revealed as Aquabyssos descendant
 - Consortium mining dead Aquabyssos ruins
 - Vex was Marcus's apprentice
 - Queen discovered shard in royal vault
 - Crystal Festival aligned with cosmic event
-duration_hours: 4
-level: 4
-danger_level: 7
-corruption_exposure: 3
-aquabyssos_connection: true
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+primary_location: '[[Port Meridian - Merchant Quarter]]'
+quests_completed: []
+quests_progressed:
+- '[[The Seven Shards Mystery]]'
+- '[[Investigate the Crystal Plague]]'
+quests_started:
+- '[[The Silverscale Conspiracy]]'
+- '[[Race Against the Festival]]'
+session: Session-04
+status: complete
+tags:
+- campaign/session
+- content/lore
+- seven-shards
+- status/in-progress
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:41.184343'
 world: Aethermoor
-updated: '2025-08-13T01:18:37.183599+00:00'
-created: 2025-08-11
-status: active
+xp_awarded: 1200
 ---
 
 

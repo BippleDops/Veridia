@@ -1,19 +1,19 @@
 ---
-updated: '2025-08-13T01:18:35.006932+00:00'
-created: 2025-08-12
+created: '2025-08-12'
+obsidianUIMode: preview
+status: complete
 tags:
-- both
-- complete
+- content/lore
 - cultural_reference
 - culture
 - idioms
 - linguistics
-- lore
 - sayings
-status: complete
+- status/complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:38.441611'
 world: Both
-type: cultural_reference
-obsidianUIMode: preview
 ---
 
 

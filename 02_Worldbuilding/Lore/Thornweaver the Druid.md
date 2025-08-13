@@ -1,14 +1,14 @@
 ---
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- aethermoor
+- content/lore
 - historical-event
-- lore
+- status/in-progress
+- world/aethermoor
 type: Lore
+updated: '2025-08-12T23:37:38.727115'
 world: Aethermoor
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:35.169070+00:00'
 ---
 
 

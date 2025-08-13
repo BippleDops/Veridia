@@ -1,39 +1,39 @@
 ---
-tags:
-- active
-- both
-- category/group
-- lore
+MyCategory: Knightly Order
 MyContainer:
 - '[[Jungle of Screams|Jungle of Screams]]'
-MyCategory: Knightly Order
-obsidianUIMode: preview
-leader: Bob
-officers:
-- Officer 1
-- Officer 2
-members:
-- Member 1
-- Member 2
-- Member 3
+benefits:
+- reward: What do they get at level 1?
+  standing: 1
+- reward: What do they get at level 2?
+  standing: 2
+- reward: What do they get at level 3?
+  standing: 3
+created: '2025-08-11'
+faction: Faction Name 1
 initiates:
 - Initiative 1
 - Initiative 2
 - Initiative 3
-faction: Faction Name 1
+leader: Bob
+members:
+- Member 1
+- Member 2
+- Member 3
+obsidianUIMode: preview
+officers:
+- Officer 1
+- Officer 2
 primary_contact: John Doe
-benefits:
-- standing: 1
-  reward: What do they get at level 1?
-- standing: 2
-  reward: What do they get at level 2?
-- standing: 3
-  reward: What do they get at level 3?
-world: Both
-updated: '2025-08-13T01:18:31.192163+00:00'
-created: 2025-08-11
-status: active
+status: complete
+tags:
+- content/faction
+- content/lore
+- status/in-progress
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:33.120335'
+world: Both
 ---
 
 

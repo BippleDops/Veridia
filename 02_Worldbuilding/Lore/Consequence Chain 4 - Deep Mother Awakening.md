@@ -1,26 +1,25 @@
 ---
-tags:
-- aethermoor
-- aquabyssos
-- both worlds
-- both-worlds
-- campaign-consequences
-- complete
-- consciousness-evolution
-- cosmic-entity
-- deep-mother
-- lore
-- primordial-contact
-type: Lore
-world: Both Worlds
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T04:22:14.112129+00:00'
+created: '2025-08-12'
 magnitude: 5
-visibility: 2
 primary_sessions:
 - 'Session 10: The Deep Mother Rises'
 - 'Session 10: The Shadow Finale'
+status: complete
+tags:
+- campaign/arc
+- consciousness-evolution
+- content/lore
+- cosmic-entity
+- deep-mother
+- primordial-contact
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:39.339832'
+visibility: 2
+world: Both Worlds
 ---
 
 

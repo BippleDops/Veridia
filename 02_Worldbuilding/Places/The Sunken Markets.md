@@ -1,31 +1,31 @@
 ---
-tags:
-- active
-- both
-- location
-- mysterious
-- port-meridian
-- trade
-- underwater
-type: Location
-region: '[[02_Worldbuilding/Places/Port Meridian]] Harbor District'
-danger_level: Moderate
-notable_npcs:
-- '[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'
-- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]'
-- '[[02_Worldbuilding/People/Castellan Ironledger III]]'
+MyCategory: Unknown
+MyContainer: None
 connected_locations:
 - '[[02_Worldbuilding/Places/Port Meridian]]'
 - '[[Aquabyssos]]'
 - The Shadowmere (via underwater passages)
 - Category/Place
-MyContainer: None
-MyCategory: Unknown
+created: '2025-08-11'
+danger_level: Moderate
+notable_npcs:
+- '[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'
+- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]'
+- '[[02_Worldbuilding/People/Castellan Ironledger III]]'
 obsidianUIMode: preview
+region: '[[02_Worldbuilding/Places/Port Meridian]] Harbor District'
+status: complete
+tags:
+- content/location
+- mysterious
+- port-meridian
+- status/in-progress
+- trade
+- world/aquabyssos
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.342807'
 world: Both
-updated: '2025-08-13T01:18:36.465080+00:00'
-created: 2025-08-11
-status: active
 ---
 
 

@@ -1,24 +1,24 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
+level: 7-9
+obsidianUIMode: preview
+reward: Major - Category/Quest
+status: draft
 tags:
 - available
-- both
+- content/adventure
+- content/lore
 - corruption
 - diplomatic
-- investigation
-- investigation/diplomacy
-- lore
+- mechanics/exploration
+- mechanics/social
 - moral-choice
-- quest
-level: 7-9
+- world/both
 type: Lore
-status: Available
-reward: Major - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:37.793214'
 world: Both
-updated: '2025-08-13T01:18:34.501163+00:00'
-created: 2025-08-11
 ---
 
 

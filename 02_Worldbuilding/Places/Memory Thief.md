@@ -1,33 +1,32 @@
 ---
-tags:
-- aquabyssos
-- complete
-- criminal
-- dangerous
-- location
-- memory-thief
-- mental-crime
-- mind-magic
-- mysterious
-- npc
-- person
-- psychological
-status: complete
-world: Aquabyssos
-type: Location
+MyCategory: Criminal Operative
+MyContainer: None
 category: Criminal Mind-Mage
-race: Changeling
 class: Rogue/Enchanter
-location: '[[The Shadow Markets]]'
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: High
 faction: '[[02_Worldbuilding/Groups/Memory Thieves Guil]]'
 influence: Moderate
-danger_level: High
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.349115+00:00'
-MyContainer: None
-MyCategory: Criminal Operative
+location: '[[The Shadow Markets]]'
 obsidianUIMode: preview
+race: Changeling
+status: complete
+tags:
+- content/faction
+- content/location
+- content/npc
+- dangerous
+- mechanics/magic
+- memory-thief
+- mental-crime
+- mysterious
+- psychological
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.182337'
+world: Aquabyssos
 ---
 
 

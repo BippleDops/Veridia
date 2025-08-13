@@ -1,16 +1,16 @@
 ---
-type: Lore
-tags:
-- active
-- both
-- lore
-- note
 aliases: []
-created: 2025-07-23
+created: '2025-07-23'
 modified: 2025-07-23 12:39
+status: complete
+tags:
+- content/lore
+- note
+- status/in-progress
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:41.133507'
 world: Both
-updated: '2025-08-13T01:18:37.138695+00:00'
-status: active
 ---
 
 

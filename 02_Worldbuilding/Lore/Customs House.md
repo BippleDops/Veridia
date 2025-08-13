@@ -1,25 +1,25 @@
 ---
+category: Border Facility
+created: '2025-08-08'
+created_by: auto-stub
+significance: Major Location
+status: complete
 tags:
-- aethermoor
-- aquabyssos
 - border-control
-- both
 - commerce
-- complete
+- content/lore
 - customs-house
 - dimensional-gateway
 - interdimensional-trade
-- lore
 - merged-reality
 - smuggling
-status: complete
-world: Both
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
 type: Lore
-category: Border Facility
-significance: Major Location
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:37.890742'
+world: Both
 ---
 
 

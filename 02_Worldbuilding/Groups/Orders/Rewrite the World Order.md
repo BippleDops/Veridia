@@ -1,30 +1,28 @@
 ---
-tags:
-- aethermoor
-- complete
-- crystal-ideology
-- extremists
-- faction
-- group
-- revolutionary-movement
-- world-transformation
-status: complete
-world: Aethermoor
-type: Group
-faction_type: Revolutionary Transformation Movement
+MyCategory: Revolutionary Movement
+MyContainer: Crystal Society
 alignment: Chaotic Neutral (Radical Reformers)
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Revolutionary Transformation Movement
 headquarters: '[[02_Worldbuilding/Lore/The Crystal Manifesto]]'
+influence: Underground Networks, Intellectual Circles
 leader: '[[Architect Prime Crystalline Vision]]'
 members: ~300 active revolutionaries, ~1200 sympathizers
-influence: Underground Networks, Intellectual Circles
-purpose: Complete societal transformation through crystal integration
-created_by: auto-stub
-created: 2025-08-08
 modified: 2025-08-11 - Category/Group
-MyContainer: Crystal Society
-MyCategory: Revolutionary Movement
 obsidianUIMode: preview
-updated: 2025-08-11
+purpose: Complete societal transformation through crystal integration
+status: complete
+tags:
+- content/faction
+- extremists
+- revolutionary-movement
+- status/complete
+- world-transformation
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.740762'
+world: Aethermoor
 ---
 
 > [!figure] Heraldry

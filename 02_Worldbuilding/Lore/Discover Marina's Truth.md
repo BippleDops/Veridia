@@ -1,27 +1,27 @@
 ---
-tags:
-- aethermoor
-- aquabyssos
-- both
-- central-plot
-- complete
-- lore
-- marina
-- memory-magic
-- mystery
-status: complete
-world: Both
-type: Lore
-significance: Campaign Central
-revelation_level: Progressive
 connected_npcs:
 - Marina Coralheart
 - Marina Reborn
 - Marina's Echo
 - The Original Marina
+created: '2025-08-08'
 created_by: system
-created: 2025-08-08
-updated: 2025-08-11
+revelation_level: Progressive
+significance: Campaign Central
+status: complete
+tags:
+- campaign/arc
+- content/lore
+- marina
+- mechanics/magic
+- mystery
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:39.556653'
+world: Both
 ---
 
 

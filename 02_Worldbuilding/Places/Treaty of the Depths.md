@@ -1,33 +1,32 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+lore_type: Political Document
+obsidianUIMode: preview
+primary_participants: Aquabyssos and Aethermoor
+scope: Inter-Realm Relations
+significance: Foundational
+status: complete
 tags:
-- aethermoor
 - agreement
-- aquabyssos
-- both worlds
-- both-worlds
-- complete
-- diplomacy
+- content/location
+- content/lore
 - inter-realm
 - law
-- location
-- lore
+- mechanics/social
 - politics
+- status/complete
 - treaty
-status: complete
-world: Both Worlds
-type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.978970+00:00'
-lore_type: Political Document
-scope: Inter-Realm Relations
+- world/aethermoor
+- world/aquabyssos
+- world/both
 time_period: Current Era
-significance: Foundational
-primary_participants: Aquabyssos and Aethermoor
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-danger_level: Moderate
+type: Location
+updated: '2025-08-12T23:37:39.759181'
+world: Both Worlds
 ---
 
 > [!figure] View

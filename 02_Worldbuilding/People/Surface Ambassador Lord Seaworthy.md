@@ -1,24 +1,23 @@
 ---
-tags:
-- ambassador
-- aquabyssos
-- aristocrat
-- complete
-- diplomat
-- npc
-- person
-- surface-dweller
-status: complete
-world: Aquabyssos
-type: NPC
-role: Surface Ambassador
 affiliation: '[[Surface Kingdoms]] - Diplomatic Corps'
 age: '52'
-race: Human (Air-breathing)
-location: '[[02_Worldbuilding/Places/The Diplomatic Quarter]] - Surface Embassy'
+created: '2025-08-09'
 created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
+location: '[[02_Worldbuilding/Places/The Diplomatic Quarter]] - Surface Embassy'
+race: Human (Air-breathing)
+role: Surface Ambassador
+status: complete
+tags:
+- ambassador
+- aristocrat
+- content/npc
+- diplomat
+- status/complete
+- world/aquabyssos
+- world/surface
+type: Npc
+updated: '2025-08-12T23:37:41.024026'
+world: Aquabyssos
 ---
 
 

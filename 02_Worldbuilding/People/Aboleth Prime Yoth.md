@@ -1,29 +1,28 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+alignment: Lawful Evil
+cr: 25
+created: '2025-08-08'
+created_by: auto-stub
+faction: '[[02_Worldbuilding/Groups/The Parliament of Echoes]]'
+location: '[[02_Worldbuilding/Places/The Deepmind]]'
+obsidianUIMode: preview
+race: Aboleth (Ancient)
+role: Shadow Prime Minister
+status: complete
 tags:
 - aboleth
-- ancient
-- aquabyssos
-- complete
-- major-npc
-- npc
+- content/lore
+- content/npc
 - parliament
 - psychic
+- status/complete
 - villain
-status: complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:41.020312'
 world: Aquabyssos
-type: NPC
-race: Aboleth (Ancient)
-alignment: Lawful Evil
-location: '[[02_Worldbuilding/Places/The Deepmind]]'
-faction: '[[02_Worldbuilding/Groups/The Parliament of Echoes]]'
-role: Shadow Prime Minister
-cr: 25
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
 
 > [!figure] Portrait

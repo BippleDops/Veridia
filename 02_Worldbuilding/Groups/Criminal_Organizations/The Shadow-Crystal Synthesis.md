@@ -1,28 +1,25 @@
 ---
-tags:
-- both aethermoor & aquabyssos
-- both-aethermoor-&-aquabyssos
-- complete
-- cross-realm
-- experimenters
-- faction
-- group
-- researchers
-- shadow-crystal
-- synthesis
-status: complete
-world: Both Aethermoor & Aquabyssos
-type: Group
-faction_type: Research Collective
 alignment: Chaotic Neutral (Science over Ethics)
+created: '2025-08-09'
+created_by: auto-stub
+faction_type: Research Collective
 headquarters: '[[The Fusion Laboratory]] (hidden dimensional pocket)'
+influence: Secretive but Growing
 leader: '[[Doctor Prism Voidweaver]]'
 members: ~150 researchers and test subjects
-influence: Secretive but Growing
 purpose: Merge shadow and crystal energies
-created_by: auto-stub
-created: 2025-08-09
-updated: '2025-08-13T01:18:36.714938+00:00'
+status: complete
+tags:
+- content/faction
+- cross-realm
+- experimenters
+- status/complete
+- synthesis
+- world/aethermoor
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.650802'
+world: Both Aethermoor & Aquabyssos
 ---
 
 

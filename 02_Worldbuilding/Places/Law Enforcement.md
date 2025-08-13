@@ -1,14 +1,14 @@
 ---
-tags:
-- active
-- both
-- location
-type: Location
-world: Both
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.512860+00:00'
+created: '2025-08-11'
 danger_level: Moderate
+status: complete
+tags:
+- content/location
+- status/in-progress
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.413306'
+world: Both
 ---
 
 > [!figure] View

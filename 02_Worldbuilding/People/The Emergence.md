@@ -1,21 +1,21 @@
 ---
+MyCategory: Events
+MyContainer: None
+created: 2025-08-08 - Category/Lore
+created_by: auto-stub
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/lore
+- content/npc
 - emergence
 - event
-- lore
-- npc
+- status/complete
 - transformation
-status: complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.952898'
 world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-08 - Category/Lore
-MyContainer: None
-MyCategory: Events
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.966826+00:00'
 ---
 
 

@@ -1,19 +1,19 @@
 ---
-updated: '2025-08-13T01:18:35.308307+00:00'
-created: 2025-08-12
+created: '2025-08-12'
+obsidianUIMode: preview
+status: complete
 tags:
-- both
-- complete
-- guilds
+- content/faction
+- content/lore
 - linguistics
-- lore
 - professional_reference
 - professions
+- status/complete
 - terminology
-status: complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:38.887921'
 world: Both
-type: professional_reference
-obsidianUIMode: preview
 ---
 
 

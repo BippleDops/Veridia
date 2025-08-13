@@ -1,57 +1,57 @@
 ---
-tags:
-- aquabyssos
-- battlefield
-- both
-- complete
-- contested
-- location
-- religious
-- warfare
-location_name: The Theological Warfare Grounds
-location_type: Contested Religious Battlefield
-parent_location: '[[Abyssos Prime]]'
-sub_locations:
-- '[[The Argument Amphitheater]]'
-- '[[Divine Intervention Plaza]]'
-- '[[Heresy Hunter Barracks]]'
-- '[[The Schism Bridges]]'
-- '[[Faith Testing Grounds]]'
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-12'
+current_state: Active religious conflict zone
+danger_level: 9
 depth: 2600-2900 feet
-population: 500
-government: Religious Council of War
-ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius]]'
+discovered: true
 factions:
 - '[[02_Worldbuilding/Groups/Temple of Divine Order]]'
 - '[[02_Worldbuilding/Groups/The Leviathan Cult]]'
 - '[[Deep Mother Zealots]]'
 - '[[Syncretist Mediators]]'
-danger_level: 9
-visited: false
-discovered: true
+government: Religious Council of War
+location_name: The Theological Warfare Grounds
+location_type: Contested Religious Battlefield
+notable_npcs:
+- '[[02_Worldbuilding/People/High Theologian Commander Aurelius]]'
+- '[[Leviathan Prophet Thalassa]]'
+- '[[Deep Mother Priestess Sira]]'
+- '[[Mediator Cardinal Harmony]]'
+obsidianUIMode: preview
+parent_location: '[[Abyssos Prime]]'
+population: 500
+pressure_effects: Severe
+ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius]]'
 services:
 - Theological Debate Resolution
 - Religious Combat Training
 - Divine Magic Testing
 - Heresy Trials
 - Faith Counseling
-notable_npcs:
-- '[[02_Worldbuilding/People/High Theologian Commander Aurelius]]'
-- '[[Leviathan Prophet Thalassa]]'
-- '[[Deep Mother Priestess Sira]]'
-- '[[Mediator Cardinal Harmony]]'
-current_state: Active religious conflict zone
-temporal_stability: 30
 shadow_density: Variable
-pressure_effects: Severe
 status: complete
-created: 2025-08-12
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-world: Both
-updated: 2025-08-12
+sub_locations:
+- '[[The Argument Amphitheater]]'
+- '[[Divine Intervention Plaza]]'
+- '[[Heresy Hunter Barracks]]'
+- '[[The Schism Bridges]]'
+- '[[Faith Testing Grounds]]'
+tags:
+- content/location
+- contested
+- mechanics/combat
+- religious
+- status/complete
+- warfare
+- world/aquabyssos
+- world/both
+temporal_stability: 30
 type: Location
+updated: '2025-08-12T23:37:39.874574'
+visited: false
+world: Both
 ---
 
 

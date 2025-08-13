@@ -1,22 +1,22 @@
 ---
+MyCategory: NPC
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
-- criminal
-- location
+- content/faction
+- content/location
+- content/npc
 - memory_thief
 - mysterious
-- npc
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.118022+00:00'
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.929593'
+world: Aquabyssos
 ---
 
 

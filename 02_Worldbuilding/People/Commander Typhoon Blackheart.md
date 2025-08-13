@@ -1,23 +1,21 @@
 ---
-tags:
-- aquabyssos
-- complete
-- depth-wardens
-- military-commander
-- npc
-- person
-- professional-soldier
-status: complete
-world: Aquabyssos
-type: NPC
-role: Military Commander
 affiliation: '[[The Depth Wardens]] (Military Force)'
 age: '51'
-race: Human (Pressure-Adapted)
-location: '[[The Fortress of the Deeps]] - Command Center'
+created: '2025-08-09'
 created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
+location: '[[The Fortress of the Deeps]] - Command Center'
+race: Human (Pressure-Adapted)
+role: Military Commander
+status: complete
+tags:
+- content/npc
+- military-commander
+- status/archived
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.993631'
+world: Aquabyssos
 ---
 
 

@@ -1,30 +1,27 @@
 ---
+application_period: Developed over 200 years, refined for conspiracy investigation
+complexity_level: 9
+created: '2025-08-08'
+created_by: auto-stub
+primary_users: Independent Investigators, Truth Seekers, Conspiracy Researchers
+scope: Multiversal - applicable to investigations across both worlds
+status: complete
+system_type: Investigation Methodology
 tags:
-- aquabyssos-aethermoor
-- both worlds
-- both-worlds
-- complete
+- access/secret
 - conspiracy-detection
+- content/lore
 - evidence-analysis
 - forensic-methodology
-- hidden-knowledge
-- investigation
-- investigation-procedures
-- lore
+- mechanics/exploration
 - methodology
-- secret-investigation
+- status/complete
 - truth-seeking
-status: complete
-world: Both Worlds
+- world/aethermoor
+- world/both
 type: Lore
-system_type: Investigation Methodology
-scope: Multiversal - applicable to investigations across both worlds
-complexity_level: 9
-application_period: Developed over 200 years, refined for conspiracy investigation
-primary_users: Independent Investigators, Truth Seekers, Conspiracy Researchers
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.213376+00:00'
+updated: '2025-08-12T23:37:38.787131'
+world: Both Worlds
 ---
 
 

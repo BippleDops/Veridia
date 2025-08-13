@@ -1,31 +1,30 @@
 ---
+category: Environmental Phenomenon
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Variable - Moderate to Catastrophic
+detection_difficulty: High
+frequency: Rare but Increasing
+hazard_type: Planar Boundary Distortion
+scope: Cross-Realm Environmental Zones
+significance: Critical Infrastructure
+status: complete
 tags:
-- aethermoor
-- aquabyssos
-- both worlds
-- both-worlds
-- complete
+- content/lore
 - dimensional-bleed
 - environmental-hazards
-- lore
-- magical-phenomena
+- mechanics/magic
 - merged-zones
 - planar-boundaries
 - reality-distortion
+- status/complete
 - survival-challenges
-status: complete
-world: Both Worlds
+- world/aethermoor
+- world/aquabyssos
+- world/both
 type: Lore
-category: Environmental Phenomenon
-significance: Critical Infrastructure
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.641886+00:00'
-hazard_type: Planar Boundary Distortion
-danger_level: Variable - Moderate to Catastrophic
-scope: Cross-Realm Environmental Zones
-frequency: Rare but Increasing
-detection_difficulty: High
+updated: '2025-08-12T23:37:39.333144'
+world: Both Worlds
 ---
 
 

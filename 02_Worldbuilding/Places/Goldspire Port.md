@@ -1,7 +1,10 @@
 ---
+type: Location
+status: draft
 tags:
 - active - category/place
-- active---category/place
+- active
+---category/place
 - both
 - city
 - foreign

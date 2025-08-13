@@ -1,18 +1,18 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- aquabyssos
-- character-connections
-- complete
+- content/lore
+- content/npc
 - drama
 - intrigue
-- lore
 - relationships
+- status/complete
 - storytelling
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:38.939167'
 world: Aquabyssos
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:35.343621+00:00'
 ---
 
 

@@ -1,20 +1,19 @@
 ---
-type: Group
-tags:
-- active
-- both
-- faction
-- group
-- mercantile
-aliases: []
-created: 2025-07-23
-modified: 2025-07-23 17:30
-MyContainer: None
 MyCategory: Unknown - Category/Group
+MyContainer: None
+aliases: []
+created: '2025-07-23'
+modified: 2025-07-23 17:30
 obsidianUIMode: preview
+status: complete
+tags:
+- content/faction
+- mercantile
+- status/in-progress
+- world/both
+type: Faction
+updated: '2025-08-12T23:37:40.758548'
 world: Both
-updated: '2025-08-13T01:18:36.807998+00:00'
-status: active
 ---
 
 

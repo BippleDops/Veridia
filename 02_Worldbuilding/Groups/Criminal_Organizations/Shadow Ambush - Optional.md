@@ -1,26 +1,24 @@
 ---
-tags:
-- ambush-specialists
-- aquabyssos
-- complete
-- faction
-- group
-- guerrilla-warfare
-- military-organization
-- tactical
-status: complete
-world: Aquabyssos
-type: Group
-faction_type: Military Tactical Unit
 alignment: Lawful Neutral
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Military Tactical Unit
 headquarters: '[[The Strategic Command Center]] (Mobile)'
+influence: Specialized (Military Operations)
 leader: '[[Commander Reef Shadowstrike]]'
 members: ~150 elite soldiers and tactical specialists
-influence: Specialized (Military Operations)
 purpose: Elite ambush and tactical warfare unit
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.741599+00:00'
+status: complete
+tags:
+- ambush-specialists
+- content/faction
+- guerrilla-warfare
+- status/complete
+- tactical
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.681153'
+world: Aquabyssos
 ---
 
 

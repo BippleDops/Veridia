@@ -1,18 +1,17 @@
 ---
-tags:
-- aethermoor
-- celebration
-- complete
-- crystal-festival
-- festival-grounds
-- location
-- lore
-status: complete
-world: Aethermoor
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+status: complete
+tags:
+- celebration
+- content/location
+- content/lore
+- festival-grounds
+- status/complete
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:38.377960'
+world: Aethermoor
 ---
 
 

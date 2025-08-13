@@ -1,19 +1,19 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+status: complete
 tags:
-- aethermoor
 - bunker
-- complete
+- content/location
+- content/lore
 - emergency
-- location
-- lore
 - safety
 - silverscale
-status: complete
-world: Aethermoor
+- status/complete
+- world/aethermoor
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.299680'
+world: Aethermoor
 ---
 
 

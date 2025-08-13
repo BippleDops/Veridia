@@ -1,30 +1,30 @@
 ---
-tags:
-- abyssal
-- aquabyssos
-- architect
-- biomancer
-- complete
-- corrupted
-- living-structures
-- npc
-status: complete
-world: Aquabyssos
-type: NPC
-role: Living Architect
+MyCategory: NPC
+MyContainer: None
 affiliation: '[[The Biomancers]] - Master Shaper'
 age: '347'
-race: Aberrant Merfolk
-class: Aberrant Mind Sorcerer/Conjuration Wizard
-level: 16
 alignment: Chaotic Neutral
-location: '[[The Ossuary Gardens]] - Living Architecture Wing'
+class: Aberrant Mind Sorcerer/Conjuration Wizard
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: NPC
+level: 16
+location: '[[The Ossuary Gardens]] - Living Architecture Wing'
 obsidianUIMode: preview
+race: Aberrant Merfolk
+role: Living Architect
+status: complete
+tags:
+- abyssal
+- biomancer
+- campaign/arc
+- content/npc
+- content/template
+- corrupted
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.883119'
+world: Aquabyssos
 ---
 
 

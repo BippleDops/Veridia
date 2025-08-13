@@ -1,30 +1,28 @@
 ---
-tags:
-- aethermoor
-- ancient
-- complete
-- crystal-touched
-- immortal
-- npc
-- shard-guardian
-- sky-bound
-- wisdom
-status: complete
-world: Aethermoor
-type: NPC
-race: Crystal-Touched Human (Transformed)
-class: Guardian/Oracle/Shard-Keeper
-level: 19
-alignment: Lawful Good (Cosmic Perspective)
-location: The Skyfall Observatory, Floating Crystal Peaks
-faction: The Seven Shard Guardians
-status_condition: Active, Merged with Shard
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
 MyCategory: Unknown
+MyContainer: None
+alignment: Lawful Good (Cosmic Perspective)
+class: Guardian/Oracle/Shard-Keeper
+created: '2025-08-08'
+created_by: auto-stub
+faction: The Seven Shard Guardians
+level: 19
+location: The Skyfall Observatory, Floating Crystal Peaks
 obsidianUIMode: preview
+race: Crystal-Touched Human (Transformed)
+status: complete
+status_condition: Active, Merged with Shard
+tags:
+- content/lore
+- content/npc
+- immortal
+- shard-guardian
+- status/complete
+- wisdom
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:40.977077'
+world: Aethermoor
 ---
 
 > [!figure] Portrait

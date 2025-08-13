@@ -1,18 +1,18 @@
 ---
-tags:
-- aquabyssos
-- complete
-- interrogation
-- investigation
-- law-enforcement
-- lore
-- techniques
-status: complete
-world: Aquabyssos
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+status: complete
+tags:
+- content/lore
+- interrogation
+- law-enforcement
+- mechanics/exploration
+- status/complete
+- techniques
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:38.646529'
+world: Aquabyssos
 ---
 
 

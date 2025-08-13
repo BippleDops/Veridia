@@ -1,30 +1,30 @@
 ---
-tags:
-- completed
-- creation_myth
-- deity
-- drowning
-- dual
-- dual_world
-- lore
-- sacrifice
-- transformation
-status: completed
-type: Lore
-world: dual
 connections:
 - '[[The Great Drowning]]'
 - '[[Aquabyssos]]'
 - '[[Deep Mother]]'
 - '[[Tide Turner''s Trident]]'
 - '[[Ancient Aquabyssos Rulers]]'
+created: '2025-08-11'
+status: draft
+tags:
+- content/lore
+- creation_myth
+- deity
+- drowning
+- dual
+- dual_world
+- sacrifice
+- status/complete
+- transformation
 themes:
 - sacrifice_of_divinity
 - necessary_transformation
 - protective_drowning
 - dual_nature_deity
-updated: 2025-08-11
-created: 2025-08-11
+type: Lore
+updated: '2025-08-12T23:37:37.857343'
+world: dual
 ---
 
 

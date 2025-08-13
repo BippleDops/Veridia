@@ -1,23 +1,23 @@
 ---
+MyCategory: Intelligence Network
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
+- access/secret
+- content/location
 - espionage
-- hidden
 - intelligence
-- location
 - parliament
 - shadow-network
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
-MyCategory: Intelligence Network
-obsidianUIMode: preview
-updated: 2025-08-12
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.474341'
+world: Aquabyssos
 ---
 
 > [!figure] View

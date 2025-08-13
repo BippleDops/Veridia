@@ -1,33 +1,32 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+category: Mental Magic Applications
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+lore_type: Criminal Technique
+obsidianUIMode: preview
+primary_application: Criminal Enterprise and Investigation
+scope: Magical Crime
+significance: Specialized Knowledge
+status: complete
 tags:
-- both worlds
-- both-worlds
-- complete
+- content/location
+- content/lore
 - crime
 - heist
-- investigation
-- location
-- lore
-- magic
+- mechanics/exploration
+- mechanics/magic
 - memory
 - mental
 - psychological
+- status/complete
 - theft
-status: complete
-world: Both Worlds
+- world/both
 type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.974237+00:00'
-lore_type: Criminal Technique
-scope: Magical Crime
-category: Mental Magic Applications
-significance: Specialized Knowledge
-primary_application: Criminal Enterprise and Investigation
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.752628'
+world: Both Worlds
 ---
 
 

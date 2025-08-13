@@ -1,17 +1,17 @@
 ---
-updated: '2025-08-13T01:18:35.756892+00:00'
-created: 2025-08-12
-tags:
-- aquabyssos
-- communication
-- complete
-- cultural_system
-- linguistics
-- lore
-status: complete
-world: Aquabyssos
-type: cultural_system
+created: '2025-08-12'
 obsidianUIMode: preview
+status: complete
+tags:
+- communication
+- content/lore
+- content/mechanics
+- linguistics
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:39.469988'
+world: Aquabyssos
 ---
 
 

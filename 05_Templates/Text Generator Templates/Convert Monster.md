@@ -1,21 +1,21 @@
 ---
-type: Lore
+created: '2025-08-11'
 prompt-info:
-  promptId: ConvMonst
-  name: 🧌 Convert Monster 🧌
-  description: Converted a statblock to Fantasy Statblock format.
   author: JoshP
+  description: Converted a statblock to Fantasy Statblock format.
+  name: 🧌 Convert Monster 🧌
+  promptId: ConvMonst
   tags: fantasy, ttrpg
   version: 0.0.1
-world: Both
-updated: '2025-08-13T01:18:31.185410+00:00'
-created: 2025-08-11
-status: active
+status: complete
 tags:
-- active
-- both
-- lore
+- content/lore
 - monster
+- status/in-progress
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:33.112755'
+world: Both
 ---
 
 

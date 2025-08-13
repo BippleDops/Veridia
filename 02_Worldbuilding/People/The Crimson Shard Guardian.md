@@ -1,24 +1,23 @@
 ---
+affiliation: None (Bound to Shard)
+cr: '18'
+created: '2025-08-09'
+created_by: auto-stub
+location: '[[02_Worldbuilding/Places/Port Meridian]] Harbor (Sunken Ship)'
+race: Corrupted Water Elemental
+role: Shard Guardian
+status: complete
 tags:
-- aethermoor
-- complete
+- content/npc
 - corrupted
 - elemental
 - guardian
-- npc
-- person
 - seven-shards
-status: complete
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:40.851420'
 world: Aethermoor
-type: NPC
-role: Shard Guardian
-affiliation: None (Bound to Shard)
-race: Corrupted Water Elemental
-location: '[[02_Worldbuilding/Places/Port Meridian]] Harbor (Sunken Ship)'
-created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
-cr: '18'
 ---
 
 

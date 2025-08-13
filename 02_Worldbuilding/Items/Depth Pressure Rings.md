@@ -1,25 +1,21 @@
 ---
-tags:
-- aquabyssos
-- common-magic
-- complete
-- item
-- magical-item
-- magical_item
-- pressure-adaptation
-- underwater-gear
-status: complete
-world: Aquabyssos
-type: Item
+affiliation: Available Throughout Aquabyssos
+created: '2025-08-10'
+created_by: Claude
+current_location: Common Throughout Underwater Communities
+danger_level: 1
 item_type: Environmental Adaptation Ring
 rarity: Common
 requires_attunement: 'No'
-affiliation: Available Throughout Aquabyssos
-current_location: Common Throughout Underwater Communities
-danger_level: 1
-created_by: Claude
-created: 2025-08-10
-updated: 2025-08-11
+status: complete
+tags:
+- content/item
+- mechanics/magic
+- status/complete
+- world/aquabyssos
+type: Item
+updated: '2025-08-12T23:37:41.078260'
+world: Aquabyssos
 ---
 
 

@@ -1,24 +1,22 @@
 ---
-tags:
-- aquabyssos
-- complete
-- deep-mother
-- divine-servant
-- explorer
-- npc
-- person
-- pressure-adapted
-status: complete
-world: Aquabyssos
-type: NPC
-role: Deep Mother's Explorer
 affiliation: The Deep Wanderers (Independent)
 age: Unknown (appears ageless)
-race: Human (Divinely Transformed)
-location: '[[02_Worldbuilding/Places/The Hadal Depths]] - Wandering'
+created: '2025-08-09'
 created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
+location: '[[02_Worldbuilding/Places/The Hadal Depths]] - Wandering'
+race: Human (Divinely Transformed)
+role: Deep Mother's Explorer
+status: complete
+tags:
+- content/lore
+- content/npc
+- deep-mother
+- divine-servant
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.884037'
+world: Aquabyssos
 ---
 
 

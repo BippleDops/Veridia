@@ -1,29 +1,28 @@
 ---
+allegiance: Eastern Kingdoms
+created: '2025-08-08'
+created_by: auto-stub
+current_status: Allied Force
+organization_type: Naval Fleet
+primary_role: Naval Support
+scope: International
+status: complete
 tags:
 - alliance
-- both worlds
-- both-worlds
-- complete
+- content/faction
+- content/lore
 - eastern-kingdoms
 - external
 - fleet
 - foreign-power
-- lore
 - maritime
 - military
 - naval
-- organization
-status: complete
-world: Both Worlds
+- status/complete
+- world/both
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.234380+00:00'
-organization_type: Naval Fleet
-scope: International
-allegiance: Eastern Kingdoms
-current_status: Allied Force
-primary_role: Naval Support
+updated: '2025-08-12T23:37:38.817225'
+world: Both Worlds
 ---
 
 

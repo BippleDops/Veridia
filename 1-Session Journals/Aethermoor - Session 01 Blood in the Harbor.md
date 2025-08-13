@@ -1,17 +1,21 @@
 ---
-tags:
-- active
-- aethermoor
-- crystal-plague
-- lore
-- session
-session: Session-01
-date: null
-type: Lore
-players: []
+MyCategory: Unknown
+MyContainer: None
 absent: []
 campaign: Aethermoor - The Plague of Crystals
-primary_location: '[[Port Meridian - Harbor District]]'
+corruption_exposure: 2
+created: '2025-08-11'
+danger_level: 5
+date: null
+duration_hours: 4
+encounters:
+- '[[Crystal Cult Initiates Ambush]]'
+gold_gained: 150
+items_gained:
+- Vial of purple liquid
+- Map fragment - harbor shipping routes
+- Letter of introduction from Marina
+level: 3
 locations_visited:
 - '[[Port Meridian - Harbor District]]'
 - '[[Pier 7]]'
@@ -23,35 +27,30 @@ npcs_met:
 - '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
 - '[[02_Worldbuilding/Lore/Dock Worker Tomás|Dock Worker Tomás]]'
 - '[[Brother Marcus Steelbane]]'
-encounters:
-- '[[Crystal Cult Initiates Ambush]]'
-quests_started:
-- '[[Investigate the Crystal Plague]]'
-- '[[Missing Persons of Port Meridian]]'
-quests_progressed: []
-quests_completed: []
-items_gained:
-- Vial of purple liquid
-- Map fragment - harbor shipping routes
-- Letter of introduction from Marina
-gold_gained: 150
-xp_awarded: 750
+obsidianUIMode: preview
+players: []
 plot_threads:
 - Crystal plague spreading for 3 weeks
 - Captain Blackwater missing 2 months
 - Singing crystals near Forgotten Isles
 - Nightmares of drowning in crystal caves
-duration_hours: 4
-level: 3
-danger_level: 5
-corruption_exposure: 2
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+primary_location: '[[Port Meridian - Harbor District]]'
+quests_completed: []
+quests_progressed: []
+quests_started:
+- '[[Investigate the Crystal Plague]]'
+- '[[Missing Persons of Port Meridian]]'
+session: Session-01
+status: complete
+tags:
+- campaign/session
+- content/lore
+- status/in-progress
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:41.162565'
 world: Aethermoor
-updated: '2025-08-13T01:18:37.162857+00:00'
-created: 2025-08-11
-status: active
+xp_awarded: 750
 ---
 
 

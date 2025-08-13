@@ -1,18 +1,18 @@
 ---
-title: Deep Mother Subsystem
-type: lore
+created: '2025-08-11'
+status: complete
 tags:
-- aquabyssos
-- both
-- complete
+- content/lore
+- content/mechanics
 - deep-mother
 - horror
-- lore
 - primordial
-- subsystem
-status: complete
-created: 2025-08-11
-updated: '2025-08-13T01:18:34.522443+00:00'
+- status/complete
+- world/aquabyssos
+- world/both
+title: Deep Mother Subsystem
+type: Lore
+updated: '2025-08-12T23:37:37.818768'
 world: Both
 ---
 

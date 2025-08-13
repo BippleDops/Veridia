@@ -1,28 +1,27 @@
 ---
-tags:
-- ancient-artifacts
-- aquabyssos
-- compass
-- complete
-- depth-navigation
-- exploration
-- location
-- mystery
-- navigation
-- quest
-status: complete
-world: Aquabyssos
-type: Location
 complexity: Advanced
+created: '2025-08-08'
+created_by: auto-stub
 danger_level: Moderate
 estimated_duration: 3-5 sessions
 required_skills:
 - Navigation
 - Investigation
 - Survival
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.099585+00:00'
+status: complete
+tags:
+- compass
+- content/adventure
+- content/item
+- content/location
+- mechanics/exploration
+- mystery
+- navigation
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:39.908967'
+world: Aquabyssos
 ---
 
 

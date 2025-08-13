@@ -1,18 +1,18 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+status: complete
 tags:
-- aquabyssos
 - collective-mind
-- complete
 - consciousness
-- lore
+- content/lore
 - phenomenon
 - singers
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.421201'
+world: Aquabyssos
 ---
 
 

@@ -1,18 +1,18 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- aquabyssos
-- complete
-- crystal
+- content/location
 - cult
-- places
 - religion
+- status/complete
 - temples
 - transformation
-type: places
+- world/aethermoor
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:39.904479'
 world: Aquabyssos
-status: complete
-created: '2025-08-12'
-updated: '2025-08-13T01:18:36.094380+00:00'
 ---
 
 > [!figure] View

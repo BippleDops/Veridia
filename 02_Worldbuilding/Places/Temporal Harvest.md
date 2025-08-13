@@ -1,23 +1,23 @@
 ---
-tags:
-- aquabyssos
-- complete
-- harvest
-- location
-- lore
-- mystery
-- temporal
-- time_magic
-status: complete
-world: Aquabyssos
-type: Location
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
 MyCategory: Mystery
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.033171+00:00'
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
 danger_level: Moderate
+obsidianUIMode: preview
+status: complete
+tags:
+- content/location
+- content/lore
+- harvest
+- mechanics/magic
+- mystery
+- status/complete
+- temporal
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:39.823696'
+world: Aquabyssos
 ---
 
 

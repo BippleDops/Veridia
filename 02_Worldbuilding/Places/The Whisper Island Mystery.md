@@ -1,19 +1,19 @@
 ---
-tags:
-- aethermoor
-- complete
-- investigation
-- location
-- mystery
-- quest
-- supernatural
-status: complete
-world: Aethermoor
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.502924+00:00'
 danger_level: Moderate
+status: complete
+tags:
+- content/adventure
+- content/location
+- mechanics/exploration
+- mystery
+- status/complete
+- supernatural
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:40.398252'
+world: Aethermoor
 ---
 
 

@@ -1,18 +1,18 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+status: complete
 tags:
-- aquabyssos
-- complete
-- continental-connections
+- content/lore
 - geography
 - inter-realm
-- lore
 - map
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
+- world/surface
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.618671'
+world: Aquabyssos
 ---
 
 

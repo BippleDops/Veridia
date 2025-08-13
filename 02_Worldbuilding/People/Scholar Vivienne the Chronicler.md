@@ -1,24 +1,23 @@
 ---
-tags:
-- aethermoor
-- complete
-- lore-keeper
-- neutral
-- npc
-- person
-- scholar
-- seven-shards
-status: complete
-world: Aethermoor
-type: NPC
-role: Shard Historian
 affiliation: '[[The Archive of Forgotten Things]]'
 age: '62'
-race: Half-Elf
-location: '[[02_Worldbuilding/Places/Crystalhaven]] - The Grand Library'
+created: '2025-08-09'
 created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
+location: '[[02_Worldbuilding/Places/Crystalhaven]] - The Grand Library'
+race: Half-Elf
+role: Shard Historian
+status: complete
+tags:
+- content/lore
+- content/npc
+- neutral
+- scholar
+- seven-shards
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:40.925517'
+world: Aethermoor
 ---
 
 

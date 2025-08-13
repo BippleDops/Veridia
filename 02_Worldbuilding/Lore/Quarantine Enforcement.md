@@ -1,17 +1,17 @@
 ---
-tags:
-- aquabyssos
-- complete
-- government
-- law-enforcement
-- lore
-- public-health
-- quarantine
-type: lore
-world: Aquabyssos
-status: complete
 created: '2025-08-12'
-updated: '2025-08-13T01:18:35.314162+00:00'
+status: complete
+tags:
+- access/public
+- content/faction
+- content/lore
+- law-enforcement
+- quarantine
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:38.895895'
+world: Aquabyssos
 ---
 
 

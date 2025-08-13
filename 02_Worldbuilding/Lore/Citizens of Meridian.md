@@ -1,21 +1,21 @@
 ---
-status: complete
+created: '2025-08-11'
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
+status: complete
 tags:
-- aethermoor
-- both
 - citizens
-- complete
-- lore
+- content/lore
 - meridian
 - population
 - society
+- status/complete
+- world/aethermoor
+- world/both
 - worldbuilding
-world: Both
-updated: 2025-08-11
-created: 2025-08-11
 type: Lore
+updated: '2025-08-12T23:37:37.964288'
+world: Both
 ---
 
 

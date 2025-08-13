@@ -1,18 +1,18 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- aquabyssos
-- complete
-- criminal
-- lore
+- content/faction
+- content/lore
 - networks
 - resistance
 - smuggling
+- status/complete
 - underground
-type: lore
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:39.255624'
 world: Aquabyssos
-status: complete
-created: '2025-08-12'
-updated: '2025-08-13T01:18:35.568579+00:00'
 ---
 
 

@@ -1,24 +1,23 @@
 ---
+category: Historical Timeline
+created: '2025-08-08'
+created_by: auto-stub
+significance: Foundational
+status: complete
 tags:
-- aquabyssos
 - cataclysm
 - civilization
-- complete
+- content/lore
 - deep-mother
 - drowning
-- history
-- lore
 - pre-submersion
+- status/complete
 - timeline
 - transformation
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Lore
-category: Historical Timeline
-significance: Foundational
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.135252'
+world: Aquabyssos
 ---
 
 

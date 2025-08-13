@@ -1,57 +1,57 @@
 ---
-tags:
-- aquabyssos
-- both
-- complete
-- government
-- location
-- parliament
-- political
-- undead
-location_name: The Eternal Senate Chamber
-location_type: Undead Parliamentary Complex
-parent_location: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
-sub_locations:
-- '[[The Spectral Gallery]]'
-- '[[Chamber of Eternal Debate]]'
-- '[[The Voting Crypts]]'
-- '[[Memory Archive Vaults]]'
-- '[[The Speaker''s Throne]]'
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
+current_state: Active undead parliament
+danger_level: 7
 depth: 2200-2400 feet
-population: 144
-government: Undead Parliamentary Democracy
-ruler: '[[02_Worldbuilding/People/The Eternal Speaker]]'
+discovered: true
 factions:
 - '[[The Original Senators]]'
 - '[[Shadow Replacements]]'
 - '[[The Transcended]]'
 - '[[New Death Faction]]'
-danger_level: 7
-visited: false
-discovered: true
+government: Undead Parliamentary Democracy
+location_name: The Eternal Senate Chamber
+location_type: Undead Parliamentary Complex
+notable_npcs:
+- '[[02_Worldbuilding/People/The Eternal Speaker]]'
+- '[[02_Worldbuilding/People/Senator Glaucus]]'
+- '[[Senator Morticia Graveheart]]'
+- '[[The Clerk of Souls]]'
+obsidianUIMode: preview
+parent_location: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+population: 144
+pressure_effects: Moderate
+ruler: '[[02_Worldbuilding/People/The Eternal Speaker]]'
 services:
 - Legislative Sessions
 - Undead Rights Advocacy
 - Eternal Citizenship Services
 - Spectral Legal Consultation
 - Death Transition Counseling
-notable_npcs:
-- '[[02_Worldbuilding/People/The Eternal Speaker]]'
-- '[[02_Worldbuilding/People/Senator Glaucus]]'
-- '[[Senator Morticia Graveheart]]'
-- '[[The Clerk of Souls]]'
-current_state: Active undead parliament
-temporal_stability: 60
 shadow_density: High
-pressure_effects: Moderate
 status: complete
-created: 2025-08-11
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-world: Both
-updated: 2025-08-11
+sub_locations:
+- '[[The Spectral Gallery]]'
+- '[[Chamber of Eternal Debate]]'
+- '[[The Voting Crypts]]'
+- '[[Memory Archive Vaults]]'
+- '[[The Speaker''s Throne]]'
+tags:
+- content/faction
+- content/location
+- parliament
+- political
+- status/complete
+- undead
+- world/aquabyssos
+- world/both
+temporal_stability: 60
 type: Location
+updated: '2025-08-12T23:37:39.866096'
+visited: false
+world: Both
 ---
 
 

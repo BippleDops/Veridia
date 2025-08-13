@@ -1,17 +1,16 @@
 ---
-created: 2025-08-11
-updated: '2025-08-13T01:18:37.005137+00:00'
-world: Aethermoor
-type: NPC
-status: active
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- aethermoor
-- anti-crystal
-- npc
+- campaign/hook
+- content/npc
 - political-opposition
 - purist-coalition
-- religious-leader
+- status/in-progress
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:41.007649'
+world: Aethermoor
 ---
 
 

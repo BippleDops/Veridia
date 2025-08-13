@@ -1,14 +1,14 @@
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- npc
-type: Lore
-world: Aquabyssos
-status: active
 created: '2025-08-11T13:08:46.053701+00:00'
-updated: '2025-08-13T01:18:34.526865+00:00'
+status: complete
+tags:
+- content/lore
+- content/npc
+- status/in-progress
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:37.825734'
+world: Aquabyssos
 ---
 
 

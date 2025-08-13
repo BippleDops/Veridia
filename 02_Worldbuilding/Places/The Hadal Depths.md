@@ -1,26 +1,26 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Catastrophic
+depth: 20,000-36,000+ feet
+location_type: Abyssal Zone
+obsidianUIMode: preview
+population: Unknown (Non-Euclidean)
+ruler: '[[02_Worldbuilding/Lore/Deep Mother]] (Sleeping)'
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/location
 - cosmic-horror
 - dangerous
 - deepest-zone
-- location
 - primordial
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-location_type: Abyssal Zone
-depth: 20,000-36,000+ feet
-population: Unknown (Non-Euclidean)
-danger_level: Catastrophic
-ruler: '[[02_Worldbuilding/Lore/Deep Mother]] (Sleeping)'
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:40.545145'
+world: Aquabyssos
 ---
 
 > [!figure] View

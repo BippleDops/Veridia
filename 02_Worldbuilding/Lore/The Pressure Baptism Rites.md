@@ -1,22 +1,4 @@
 ---
-tags:
-- aquabyssos
-- baptism
-- ceremony
-- complete
-- depth-adaptation
-- initiation
-- lore
-- pressure
-- religion
-- spiritual-transformation
-- underwater-rituals
-status: complete
-world: Aquabyssos
-type: Lore
-created_by: cultural-expansion
-created: 2025-08-11
-updated: 2025-08-11
 connections:
 - '[[Deep Mother Cult Practices]]'
 - '[[Kelp Forest Monasteries]]'
@@ -25,12 +7,27 @@ connections:
 - '[[Pressure Adaptation System]]'
 - '[[Aquabyssos Depth Caste System]]'
 - '[[Tidal Memory Ceremonies]]'
+created: '2025-08-11'
+created_by: cultural-expansion
+status: complete
+tags:
+- baptism
+- ceremony
+- content/lore
+- initiation
+- religion
+- spiritual-transformation
+- status/complete
+- world/aquabyssos
 themes:
 - pressure_initiation
 - depth_transformation
 - underwater_baptism
 - spiritual_adaptation
 - aquatic_communion
+type: Lore
+updated: '2025-08-12T23:37:39.627473'
+world: Aquabyssos
 ---
 
 

@@ -1,25 +1,24 @@
 ---
+category: Cosmic Event
+created: '2025-08-08'
+created_by: auto-stub
+significance: Campaign-Defining
+status: complete
 tags:
-- aethermoor
 - apocalypse
-- aquabyssos
-- both
-- complete
+- content/lore
 - convergence
-- dimensional
-- lore
 - metaphysical
 - prophecy
 - reality-merge
 - shadow-corruption
-status: complete
-world: Both
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
 type: Lore
-category: Cosmic Event
-significance: Campaign-Defining
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:37.949121'
+world: Both
 ---
 
 

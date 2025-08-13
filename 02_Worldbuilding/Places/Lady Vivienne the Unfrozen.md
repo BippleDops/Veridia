@@ -1,24 +1,24 @@
 ---
-tags:
-- aquabyssos
-- complete
-- frozen
-- location
-- mansion
-- noble-estate
-- temporal
-- time-magic
-- tragedy
-status: complete
-world: Aquabyssos
-type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
 MyCategory: Noble Estate
-obsidianUIMode: preview
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
 danger_level: Moderate
+obsidianUIMode: preview
+status: complete
+tags:
+- content/location
+- frozen
+- mansion
+- mechanics/magic
+- noble-estate
+- status/complete
+- temporal
+- tragedy
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.531405'
+world: Aquabyssos
 ---
 
 

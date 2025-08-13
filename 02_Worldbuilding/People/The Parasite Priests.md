@@ -1,28 +1,28 @@
 ---
+affiliation: '[[02_Worldbuilding/Lore/The Deep Mother]] (Claimed)'
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Extreme
+influence: Growing
+location: '[[The Symbiotic Sanctuaries]] - Hidden throughout Aquabyssos'
+role: Symbiotic Cult
+secrecy_level: High
+size: Unknown (Estimated 200-500 Members)
+status: complete
 tags:
-- aquabyssos
 - biological-horror
-- complete
+- content/faction
+- content/location
+- content/npc
 - corruption
 - cult
 - mysterious
-- npc
-- organization
-- parasite
+- status/complete
 - symbiosis
-status: complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.965347'
 world: Aquabyssos
-type: NPC
-role: Symbiotic Cult
-affiliation: '[[02_Worldbuilding/Lore/The Deep Mother]] (Claimed)'
-size: Unknown (Estimated 200-500 Members)
-location: '[[The Symbiotic Sanctuaries]] - Hidden throughout Aquabyssos'
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.974707+00:00'
-influence: Growing
-secrecy_level: High
-danger_level: Extreme
 ---
 
 

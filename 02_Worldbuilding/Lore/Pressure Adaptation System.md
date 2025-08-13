@@ -1,24 +1,21 @@
 ---
+category: Bio-Mechanical Technology
+created: '2025-08-08'
+created_by: auto-stub
+significance: Critical Infrastructure
+status: complete
 tags:
-- aquabyssos
-- bio-mechanical
-- complete
-- depth-survival
+- content/lore
+- content/mechanics
 - engineering
 - innovation
 - life-support
-- lore
-- pressure-adaptation
-- pressure-regulation
+- status/complete
 - technology
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Lore
-category: Bio-Mechanical Technology
-significance: Critical Infrastructure
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:39.401458'
+world: Aquabyssos
 ---
 
 

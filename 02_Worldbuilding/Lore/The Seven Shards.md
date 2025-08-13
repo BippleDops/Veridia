@@ -1,18 +1,18 @@
 ---
-tags:
-- active
-- artifact
-- both
-- divine
-- lore
-- shards
-type: Lore
-importance: Campaign-Defining
-created: 2024-12-20
+created: '2024-12-20'
 image: 04_Resources/Assets/Lore/seven_shards.jpg
+importance: Campaign-Defining
+status: complete
+tags:
+- content/item
+- content/lore
+- divine
+- shards
+- status/in-progress
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:38.403643'
 world: Both
-updated: '2025-08-13T01:18:34.945029+00:00'
-status: active
 ---
 
 

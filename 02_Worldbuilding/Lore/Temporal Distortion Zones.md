@@ -1,31 +1,30 @@
 ---
+access_restriction: Authorized Personnel Only
+category: Temporal Technology
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Extreme
+expanded: 2025-08-11
+operational_status: Active Research
+significance: Critical Hazard & Research Infrastructure
+status: complete
 tags:
 - advanced-physics
-- aquabyssos
 - chronoengineering
-- complete
+- content/lore
 - dimensional-anomalies
-- lore
-- magical-hazards
+- mechanics/magic
+- status/complete
 - technology
 - temporal-manipulation
-- temporal-research
 - temporal-technology
 - time-distortion
 - time-effects
-status: complete
-world: Aquabyssos
-type: Lore
-category: Temporal Technology
-significance: Critical Hazard & Research Infrastructure
-created_by: auto-stub
-created: 2025-08-08
-expanded: 2025-08-11
+- world/aquabyssos
 technology_type: Temporal Manipulation System
-access_restriction: Authorized Personnel Only
-danger_level: Extreme
-operational_status: Active Research
-updated: 2025-08-11
+type: Lore
+updated: '2025-08-12T23:37:39.024255'
+world: Aquabyssos
 ---
 
 

@@ -1,26 +1,24 @@
 ---
-tags:
-- aethermoor
-- aquabyssos
-- both worlds
-- both-worlds
-- campaign-consequences
-- complete
-- cross-realm-bloodline
-- depth-guard
-- diplomatic-revolution
-- identity-crisis
-- lore
-type: Lore
-world: Both Worlds
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T04:22:13.952209+00:00'
+created: '2025-08-12'
 magnitude: 3
-visibility: 3
 primary_sessions:
 - 'Session 04: The Silverscale Gambit'
 - 'Session 08: Between Two Worlds'
+status: complete
+tags:
+- campaign/arc
+- content/lore
+- cross-realm-bloodline
+- diplomatic-revolution
+- identity-crisis
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:38.998222'
+visibility: 3
+world: Both Worlds
 ---
 
 

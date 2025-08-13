@@ -1,19 +1,19 @@
 ---
-tags:
-- aquabyssos
-- beast-master
-- complete
-- criminal
-- dangerous
-- location
-- npc
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.548516+00:00'
 danger_level: Moderate
+status: complete
+tags:
+- beast-master
+- content/faction
+- content/location
+- content/npc
+- dangerous
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.467120'
+world: Aquabyssos
 ---
 
 

@@ -1,32 +1,32 @@
 ---
-tags:
-- aethermoor
-- cathedral
-- completed
-- grand-cathedral
-- holy
-- light
-- location
-- magnificent
-- religious
-status: completed
-world: Aethermoor
-region: '[[Capital District]]'
-type: Location
-population: 500
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-12'
 danger_level: 1
+founded: 300 years before Great Crystallization
 government: '[[02_Worldbuilding/Groups/Sacred Order of Luminous Daw]]'
 leader: '[[High Luminary Celestine Brightward]]'
+obsidianUIMode: preview
+population: 500
+region: '[[Capital District]]'
 specialties:
 - Divine Magic
 - Healing Arts
 - Light Magic
-founded: 300 years before Great Crystallization
-created: 2025-08-12
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-updated: 2025-08-12
+status: draft
+tags:
+- cathedral
+- content/location
+- grand-cathedral
+- holy
+- light
+- magnificent
+- religious
+- status/complete
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:40.010082'
+world: Aethermoor
 ---
 
 

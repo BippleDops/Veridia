@@ -1,18 +1,5 @@
 ---
-updated: '2025-08-13T01:18:37.034110+00:00'
-created: 2025-08-11
-tags:
-- aquabyssos
-- category/people
-- complete
-- group
-status: complete
-world: Aquabyssos
-type: group
-obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: Ancient guardians who embody reality's foundations, structured
-    for quick table use with hooks and mechanics.
   content_warnings:
   - cosmic horror
   pronunciation: The Seven Seals
@@ -20,6 +7,19 @@ accessibility:
   - Lines & Veils
   - X-Card
   - Open Door
+  screen_reader_summary: Ancient guardians who embody reality's foundations, structured
+    for quick table use with hooks and mechanics.
+created: '2025-08-11'
+obsidianUIMode: preview
+status: complete
+tags:
+- content/faction
+- content/npc
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:41.050348'
+world: Aquabyssos
 ---
 
 

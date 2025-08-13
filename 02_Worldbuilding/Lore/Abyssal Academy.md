@@ -1,34 +1,33 @@
 ---
-tags:
-- academy
-- aquabyssos
-- completed
-- deep-lore
-- education
-- educational-institution
-- forbidden-knowledge
-- institution
-- location
-- lore
-status: completed
-world: Aquabyssos
-type: Lore
+created: '2025-08-09'
 danger_level: 6
-parent_location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
+founded: Third Age of Aquabyssos
 government: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
 leader: '[[02_Worldbuilding/People/Professor Euclid Mindmaze]]'
+parent_location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
+related_entities:
+- '[[02_Worldbuilding/Lore/Deep Mother]]'
+- '[[02_Worldbuilding/Lore/Aboleth Mind Mazes]]'
+- '[[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos]]'
 specialties:
 - Deep Lore Research
 - Psionic Studies
 - Aberrant Biology
 - Ancient History
-founded: Third Age of Aquabyssos
-created: 2025-08-09
-updated: '2025-08-13T01:18:35.632835+00:00'
-related_entities:
-- '[[02_Worldbuilding/Lore/Deep Mother]]'
-- '[[02_Worldbuilding/Lore/Aboleth Mind Mazes]]'
-- '[[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos]]'
+status: draft
+tags:
+- academy
+- content/location
+- content/lore
+- education
+- educational-institution
+- forbidden-knowledge
+- institution
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:39.322610'
+world: Aquabyssos
 ---
 
 

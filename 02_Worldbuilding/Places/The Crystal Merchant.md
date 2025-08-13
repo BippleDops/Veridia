@@ -1,19 +1,19 @@
 ---
-tags:
-- aquabyssos
-- complete
-- crystals
-- location
-- magical-items
-- merchant
-- npc
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.414947+00:00'
 danger_level: Moderate
+status: complete
+tags:
+- content/item
+- content/location
+- content/npc
+- merchant
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.272865'
+world: Aquabyssos
 ---
 
 

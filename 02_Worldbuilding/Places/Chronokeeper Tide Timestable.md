@@ -1,15 +1,14 @@
 ---
-tags:
-- active
-- both worlds
-- both-worlds
-- location
-type: Location
-world: Both Worlds
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.423968+00:00'
+created: '2025-08-11'
 danger_level: Moderate
+status: complete
+tags:
+- content/location
+- status/in-progress
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.284634'
+world: Both Worlds
 ---
 
 > [!figure] View

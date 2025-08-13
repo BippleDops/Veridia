@@ -1,32 +1,31 @@
 ---
-tags:
-- alive
-- both
-- category/people
-- noble
-- npc
-- prince
-- rival
-type: NPC
-race: Human
-class: Noble/Warlock
-level: 11
-alignment: Lawful Evil
-location: Exile (Various)
-faction: Independent (Building own)
-status: Alive
-created: 2024-12-20
-image: 04_Resources/Assets/NPCs/prince_caspian.jpg
-MyContainer: None
 MyCategory: Unknown
-obsidianUIMode: preview
+MyContainer: None
+ac: 15
+alignment: Lawful Evil
+class: Noble/Warlock
+created: '2024-12-20'
+current_hp: 38
+faction: Independent (Building own)
+image: 04_Resources/Assets/NPCs/prince_caspian.jpg
 in_combat: true
 initiative: 14
-current_hp: 38
+level: 11
+location: Exile (Various)
 max_hp: 55
-ac: 15
+obsidianUIMode: preview
+race: Human
+status: draft
+tags:
+- alive
+- content/npc
+- noble
+- prince
+- rival
+- world/both
+type: Npc
+updated: '2025-08-12T23:37:41.042268'
 world: Both
-updated: 2025-08-11
 ---
 
 

@@ -1,26 +1,24 @@
 ---
-tags:
-- aquabyssos
-- complete
-- depth-wardens
-- government
-- law-enforcement
-- location
-- military
-- organization
-- security
-status: complete
-world: Aquabyssos
-type: Location
-category: Government Agency
-significance: Major
-scope: Realm-wide
 authority_level: High
-member_count: ~2,000 active wardens
+category: Government Agency
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.295420+00:00'
 danger_level: Moderate
+member_count: ~2,000 active wardens
+scope: Realm-wide
+significance: Major
+status: complete
+tags:
+- content/faction
+- content/location
+- law-enforcement
+- military
+- security
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.107898'
+world: Aquabyssos
 ---
 
 

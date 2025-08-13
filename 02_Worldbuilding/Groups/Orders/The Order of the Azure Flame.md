@@ -1,23 +1,22 @@
 ---
-type: Group
-tags:
-- active
-- both
-- faction
-- group
-- magic-hunters
-- zealots
+MyCategory: Unknown - Category/Group
+MyContainer: None
 aliases:
 - Azure Flame
 - The Order
-created: 2025-07-23
+created: '2025-07-23'
 modified: 2025-07-23 18:50
-MyContainer: None
-MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
+status: complete
+tags:
+- content/faction
+- mechanics/magic
+- status/in-progress
+- world/both
+- zealots
+type: Faction
+updated: '2025-08-12T23:37:40.738838'
 world: Both
-updated: '2025-08-13T01:18:36.790917+00:00'
-status: active
 ---
 
 

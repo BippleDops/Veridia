@@ -1,30 +1,30 @@
 ---
+MyCategory: NPC
+MyContainer: None
+affiliation: '[[Deep Current Trading Company]] - Founder and Supreme Navigator'
+age: '78'
+alignment: Chaotic Neutral
+class: Storm Sorcerer/Divination Wizard
+created: '2025-08-08'
+created_by: auto-stub
+level: 15
+location: '[[The Flowing Market]] - Current''s Edge Trading Post'
+obsidianUIMode: preview
+race: Sea Elf
+role: Guildmaster of the Deep Current Trading Company
+status: complete
 tags:
-- aquabyssos
-- complete
-- current-magic
+- content/npc
 - entrepreneur
 - merchant-lord
 - navigator
-- npc
+- status/complete
+- status/in-progress
 - trade-master
-status: complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:41.033234'
 world: Aquabyssos
-type: NPC
-role: Guildmaster of the Deep Current Trading Company
-affiliation: '[[Deep Current Trading Company]] - Founder and Supreme Navigator'
-age: '78'
-race: Sea Elf
-class: Storm Sorcerer/Divination Wizard
-level: 15
-alignment: Chaotic Neutral
-location: '[[The Flowing Market]] - Current''s Edge Trading Post'
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
 ---
 
 

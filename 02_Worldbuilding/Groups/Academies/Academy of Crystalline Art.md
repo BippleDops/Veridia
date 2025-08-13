@@ -1,13 +1,13 @@
 ---
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- aethermoor
-- group
-type: Group
+- content/faction
+- status/in-progress
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.721202'
 world: Aethermoor
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.775611+00:00'
 ---
 
 

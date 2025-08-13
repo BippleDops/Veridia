@@ -1,21 +1,21 @@
 ---
-tags:
-- aquabyssos
-- bubbles
-- complete
-- location
-- npc
-- royal
-- throne
-status: complete
-world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
 MyCategory: Royal
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
 obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.825900+00:00'
+status: complete
+tags:
+- bubbles
+- content/location
+- content/npc
+- royal
+- status/complete
+- throne
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.777971'
+world: Aquabyssos
 ---
 
 

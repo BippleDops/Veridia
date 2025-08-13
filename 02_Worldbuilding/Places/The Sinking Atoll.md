@@ -1,37 +1,37 @@
 ---
-tags:
-- aquabyssos
-- atoll
-- complete
-- coral
-- cursed-natural-formation
-- danger
-- exploration
-- location
-- natural-disaster
-- sinking
-- tragedy
-- wildlife
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+danger_level: 6
+depth: 50-200 feet (and descending)
+government: Emergency council led by [[Elder Coral Doomteller]]
 location_type: Doomed Atoll
 parent_location: The Twilight Shallows
-depth: 50-200 feet (and descending)
-danger_level: 6
 population: ~800 residents (rapidly evacuating)
-government: Emergency council led by [[Elder Coral Doomteller]]
 rate_of_descent: 6 inches per day
-time_remaining: Estimated 3-4 months before complete submersion
 related_entities:
 - '[[Free Current]]'
 - '[[The Depth Market]]'
 - '[[Parliament of Echoes]]'
 - '[[Abyssos Prime]]'
 - '[[The Memory Meadows]]'
+status: complete
+tags:
+- atoll
+- content/location
+- coral
+- cursed-natural-formation
+- danger
+- mechanics/exploration
+- natural-disaster
+- sinking
+- status/complete
+- tragedy
+- wildlife
+- world/aquabyssos
+time_remaining: Estimated 3-4 months before complete submersion
+type: Location
+updated: '2025-08-12T23:37:39.894422'
+world: Aquabyssos
 ---
 
 > [!figure] View

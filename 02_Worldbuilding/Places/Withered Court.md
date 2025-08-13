@@ -1,23 +1,23 @@
 ---
-tags:
-- aethermoor
-- complete
-- court
-- faction
-- location
-- nobility
-- shadowlands
-- undead
-status: complete
-world: Aethermoor
-type: Location
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
 MyCategory: Unknown
-obsidianUIMode: preview
-updated: 2025-08-11
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
 danger_level: Moderate
+obsidianUIMode: preview
+status: complete
+tags:
+- content/faction
+- content/location
+- court
+- nobility
+- status/complete
+- undead
+- world/aethermoor
+- world/surface
+type: Location
+updated: '2025-08-12T23:37:40.472915'
+world: Aethermoor
 ---
 
 

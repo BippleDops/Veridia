@@ -1,23 +1,23 @@
 ---
-tags:
-- aquabyssos
-- complete
-- criminal-network
-- infiltration
-- investigation
-- lore
-- quest
-- smuggling
-- undercover
-status: complete
-world: Aquabyssos
-type: Lore
-created_by: auto-expansion
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.474684+00:00'
-MyContainer: None
 MyCategory: Unknown
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-expansion
 obsidianUIMode: preview
+status: complete
+tags:
+- content/adventure
+- content/faction
+- content/lore
+- infiltration
+- mechanics/exploration
+- smuggling
+- status/complete
+- undercover
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:37.759360'
+world: Aquabyssos
 ---
 
 

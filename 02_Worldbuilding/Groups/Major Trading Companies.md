@@ -1,17 +1,17 @@
 ---
-world: Both
-updated: '2025-08-13T01:18:36.694875+00:00'
-created: 2025-08-12
+created: '2025-08-12'
 status: complete
 tags:
-- both
-- complete
+- content/faction
 - economy
-- group
 - merchant-princes
 - rivalries
+- status/complete
 - trading-companies
-type: Group
+- world/both
+type: Faction
+updated: '2025-08-12T23:37:40.625514'
+world: Both
 ---
 
 

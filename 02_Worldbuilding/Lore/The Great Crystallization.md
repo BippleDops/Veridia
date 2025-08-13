@@ -1,19 +1,18 @@
 ---
-tags:
-- active
-- both
-- catastrophe
-- event
-- history
-- lore
-type: Lore
-period: 500 years ago
-importance: World-Defining
-created: 2024-12-20
+created: '2024-12-20'
 image: 04_Resources/Assets/Lore/great_crystallization.jpg
+importance: World-Defining
+period: 500 years ago
+status: complete
+tags:
+- catastrophe
+- content/lore
+- event
+- status/in-progress
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:37.877081'
 world: Both
-updated: '2025-08-13T01:18:34.562222+00:00'
-status: active
 ---
 
 

@@ -1,17 +1,16 @@
 ---
-tags:
-- both worlds
-- both-worlds
-- complete
-- cultural-exchange
-- diplomacy
-- embassy
-- place
-type: Place
-world: Both Worlds
+created: '2025-08-12'
 status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:36.170709+00:00'
+tags:
+- content/location
+- cultural-exchange
+- embassy
+- mechanics/social
+- status/complete
+- world/both
+type: Location
+updated: '2025-08-12T23:37:39.969684'
+world: Both Worlds
 ---
 
 > [!figure] View

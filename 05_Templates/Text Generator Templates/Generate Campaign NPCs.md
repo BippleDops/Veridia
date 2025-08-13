@@ -1,18 +1,18 @@
 ---
-type: Lore
-status: alive
+created: '2025-08-11'
+prompt_type: npc_generation
+setting: Shadowhaven
+status: draft
 tags:
 - ai-generation
 - alive
-- both
-- lore
-- npc
-- template
-prompt_type: npc_generation
-setting: Shadowhaven
+- content/lore
+- content/npc
+- content/template
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:33.113495'
 world: Both
-updated: '2025-08-13T01:18:31.186044+00:00'
-created: 2025-08-11
 ---
 
 

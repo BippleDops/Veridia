@@ -1,31 +1,31 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+difficulty: Moderate to Hard
+duration: 4-6 sessions
+level_range: 7-11
+obsidianUIMode: preview
+party_size: 4-6 characters
+primary_location: Aethermoor Maritime Region
+quest_type: Investigation/Diplomatic Mission
+status: complete
 tags:
-- aethermoor
-- complete
+- content/adventure
+- content/location
 - diplomatic
-- investigation
-- location
+- mechanics/exploration
 - military
 - missing-fleet
 - mystery
 - naval
-- quest
-status: complete
-world: Aethermoor
+- status/complete
+- world/aethermoor
 type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.965659+00:00'
-quest_type: Investigation/Diplomatic Mission
-level_range: 7-11
-party_size: 4-6 characters
-duration: 4-6 sessions
-difficulty: Moderate to Hard
-primary_location: Aethermoor Maritime Region
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.740947'
+world: Aethermoor
 ---
 
 

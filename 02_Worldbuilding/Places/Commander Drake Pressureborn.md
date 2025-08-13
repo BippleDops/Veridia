@@ -1,23 +1,21 @@
 ---
+MyCategory: Military Installation
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/location
 - defense
 - fortress
-- location
 - military
-- pressure-warfare
-- underwater-tactics
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
-MyCategory: Military Installation
-obsidianUIMode: preview
-updated: 2025-08-12
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.431739'
+world: Aquabyssos
 ---
 
 > [!figure] View

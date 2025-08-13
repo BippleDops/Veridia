@@ -1,26 +1,23 @@
 ---
-tags:
-- aquabyssos
-- automated-systems
-- bio-mechanical-engineering
-- complete
-- deep-sea-harvesting
-- innovation
-- lore
-- marine-agriculture
-- resource-extraction
-- sustainability
-- technology
-status: complete
-world: Aquabyssos
-type: Lore
-category: Resource Extraction Technology
-significance: Critical Economic Infrastructure
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-technology_type: Automated Deep-Sea Resource System
 access_restriction: Commercial and Government Licensed
+category: Resource Extraction Technology
+created: '2025-08-08'
+created_by: auto-stub
+significance: Critical Economic Infrastructure
+status: complete
+tags:
+- content/lore
+- content/mechanics
+- innovation
+- mechanics/skill
+- resource-extraction
+- status/complete
+- technology
+- world/aquabyssos
+technology_type: Automated Deep-Sea Resource System
+type: Lore
+updated: '2025-08-12T23:37:39.698653'
+world: Aquabyssos
 ---
 
 

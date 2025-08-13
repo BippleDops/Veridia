@@ -1,20 +1,19 @@
 ---
-tags:
-- ancient-magic
-- aquabyssos
-- artifacts
-- breathing
-- complete
-- legendary-items
-- lore
-- survival
-status: complete
-world: Aquabyssos
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
 expanded: 2025-08-10
-updated: 2025-08-11
+status: complete
+tags:
+- breathing
+- content/item
+- content/lore
+- mechanics/magic
+- status/complete
+- survival
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:39.193335'
+world: Aquabyssos
 ---
 
 

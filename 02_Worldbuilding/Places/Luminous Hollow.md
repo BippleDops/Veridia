@@ -1,27 +1,26 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: 6
+depth: 3500 - Category/Place
+government: Independent sanctuary under Parliament protection
+location_type: Underwater Cave System
+obsidianUIMode: preview
+parent_location: Aquabyssos Deep Waters
+population: ~300 deep dwellers, researchers, and pilgrims
+status: draft
 tags:
-- aquabyssos
 - bioluminescent
 - cave
-- completed
-- crystal
-- location
-- underwater
-status: completed
-world: Aquabyssos
+- content/location
+- status/complete
+- world/aethermoor
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-location_type: Underwater Cave System
-parent_location: Aquabyssos Deep Waters
-danger_level: 6
-population: ~300 deep dwellers, researchers, and pilgrims
-government: Independent sanctuary under Parliament protection
-depth: 3500 - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:40.080825'
+world: Aquabyssos
 ---
 
 

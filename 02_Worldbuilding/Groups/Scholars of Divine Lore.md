@@ -1,20 +1,19 @@
 ---
+created: '2025-08-12'
+created_by: claude
+status: complete
 tags:
-- aethermoor
-- aquabyssos
-- both
-- complete
+- content/faction
 - deep-mother
-- group
-- research
 - resistance
 - scholars
-status: complete
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
+type: Faction
+updated: '2025-08-12T23:37:40.618748'
 world: Both
-type: Group
-created_by: claude
-created: 2025-08-12
-updated: '2025-08-13T01:18:36.689662+00:00'
 ---
 
 > [!figure] Heraldry

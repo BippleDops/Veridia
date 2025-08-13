@@ -1,27 +1,27 @@
 ---
-tags:
-- aquabyssos
-- complete
-- engineering
-- government
-- location
-- pressure-system
-- transportation
-- travel-hub
-status: complete
-world: Aquabyssos
-type: Location
+MyCategory: Transportation Hub
+MyContainer: None
 category: Transportation Hub
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Low-Moderate
 depth: 1,500 feet
 difficulty: Levels 3-8
-owner: Abyssos Prime Government
-danger_level: Low-Moderate
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Transportation Hub
 obsidianUIMode: preview
+owner: Abyssos Prime Government
+status: complete
+tags:
+- content/faction
+- content/location
+- content/mechanics
+- engineering
+- status/complete
+- transportation
+- travel-hub
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:39.903715'
+world: Aquabyssos
 ---
 
 

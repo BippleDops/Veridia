@@ -1,18 +1,4 @@
 ---
-tags:
-- completed
-- consciousness
-- dream_magic
-- dual
-- dual_world
-- lore
-- mystical_guides
-- mystical_order
-- protectors
-- sleep
-status: completed
-type: Lore
-world: dual
 connections:
 - '[[Deep Mother]]'
 - '[[Marina''s Echo]]'
@@ -20,13 +6,25 @@ connections:
 - '[[The Recursion Oracle]]'
 - '[[Sleep Magic]]'
 - '[[Convergence Point]]'
+created: '2025-08-11'
+status: draft
+tags:
+- consciousness
+- content/lore
+- dual
+- dual_world
+- mechanics/magic
+- protectors
+- sleep
+- status/complete
 themes:
 - protection_through_dreams
 - shepherding_consciousness
 - boundary_guardians
 - sacrificial_vigilance
-updated: 2025-08-11
-created: 2025-08-11
+type: Lore
+updated: '2025-08-12T23:37:37.908335'
+world: dual
 ---
 
 

@@ -1,19 +1,5 @@
 ---
-updated: '2025-08-13T01:18:36.257510+00:00'
-created: 2025-08-11
-tags:
-- aquabyssos
-- category/place
-- complete
-- location
-status: complete
-world: Aquabyssos
-type: location
-obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: The Forgotten Collective is a notable location in Aquabyssos
-    shaped by tidal politics and Convergence anomalies. This entry is structured for
-    fast table use.
   content_warnings:
   - political coercion
   - environmental hazards
@@ -22,6 +8,19 @@ accessibility:
   - Lines & Veils
   - X-Card
   - Open Door
+  screen_reader_summary: The Forgotten Collective is a notable location in Aquabyssos
+    shaped by tidal politics and Convergence anomalies. This entry is structured for
+    fast table use.
+created: '2025-08-11'
+obsidianUIMode: preview
+status: complete
+tags:
+- content/location
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.073556'
+world: Aquabyssos
 ---
 
 

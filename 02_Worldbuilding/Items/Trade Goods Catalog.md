@@ -1,17 +1,17 @@
 ---
-world: Both
-updated: 2025-08-12
-created: 2025-08-12
+created: '2025-08-12'
 status: complete
 tags:
-- both
-- complete
+- content/item
+- content/mechanics
 - economy
-- trade-goods
-- items
 - prices
-- mechanics
-type: Items
+- status/complete
+- trade-goods
+- world/both
+type: Item
+updated: '2025-08-12T23:37:41.079807'
+world: Both
 ---
 
 > [!figure] Trade Goods

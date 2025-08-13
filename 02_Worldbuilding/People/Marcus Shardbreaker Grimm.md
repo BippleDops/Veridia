@@ -1,7 +1,10 @@
 ---
+type: Npc
+status: draft
 tags:
 - active - category/people
-- active---category/people
+- active
+---category/people
 - anti-hero
 - both
 - crystal-infected

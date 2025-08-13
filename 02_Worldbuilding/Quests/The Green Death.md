@@ -1,24 +1,23 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
+level: 8-10
+obsidianUIMode: preview
+reward: Major - Category/Quest
+status: draft
 tags:
 - available
-- both
-- combat
-- combat/exploration
+- content/adventure
+- content/lore
 - corruption
-- lore
+- mechanics/combat
 - moral-choice
 - nature
-- quest
-level: 8-10
+- world/both
 type: Lore
-status: Available
-reward: Major - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:37.786341'
 world: Both
-updated: '2025-08-13T01:18:34.495825+00:00'
-created: 2025-08-11
 ---
 
 

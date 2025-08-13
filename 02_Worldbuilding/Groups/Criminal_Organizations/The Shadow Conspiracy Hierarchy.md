@@ -1,24 +1,23 @@
 ---
-tags:
-- aquabyssos
-- complete
-- group
-- hierarchy
-- leadership
-- organization
-- shadow-conspiracy
-type: Group
-world: Aquabyssos
-status: complete
-faction_type: Secret Organization
 alignment: Neutral Evil
+created: '2025-08-12'
+faction_type: Secret Organization
 headquarters: '[[The Umbral Nexus]]'
+influence: Continental
 leader: '[[The Umbral Council]]'
 members: ~12,000 operatives across all levels
-influence: Continental
 purpose: Species evolution through shadow-human integration
-created: '2025-08-12'
-updated: '2025-08-13T01:18:36.738567+00:00'
+status: complete
+tags:
+- campaign/arc
+- campaign/hook
+- content/faction
+- shadow-conspiracy
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.678118'
+world: Aquabyssos
 ---
 
 

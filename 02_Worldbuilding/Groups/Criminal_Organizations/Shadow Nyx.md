@@ -1,29 +1,28 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+alignment: Chaotic Neutral
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Intelligence Network
+headquarters: '[[The Shadowmeld Sanctum]]'
+influence: Citywide (Information networks throughout Aquabyssos)
+leader: '[[Shadow Nyx]]'
+members: ~300 operatives and informants
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/faction
 - espionage
-- faction
-- group
 - intelligence
 - shadow-network
 - shadow-touched
-status: complete
-world: Aquabyssos
-type: Group
-faction_type: Intelligence Network
-alignment: Chaotic Neutral
-headquarters: '[[The Shadowmeld Sanctum]]'
-leader: '[[Shadow Nyx]]'
-members: ~300 operatives and informants
-influence: Citywide (Information networks throughout Aquabyssos)
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.671509'
 wealth: Moderate (Information brokerage and contracts)
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.732281+00:00'
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Aquabyssos
 ---
 
 

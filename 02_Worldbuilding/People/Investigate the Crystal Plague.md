@@ -1,22 +1,21 @@
 ---
-tags:
-- aethermoor
-- complete
-- crystal
-- investigation
-- npc
-- plague
-- quest
-status: complete
-world: Aethermoor
-type: NPC
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
 MyCategory: Investigation
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.834409+00:00'
+MyContainer: None
 cr: '8'
+created: '2025-08-11'
+created_by: auto-stub
+obsidianUIMode: preview
+status: complete
+tags:
+- content/adventure
+- content/npc
+- mechanics/exploration
+- plague
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:40.788956'
+world: Aethermoor
 ---
 
 

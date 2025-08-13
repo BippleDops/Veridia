@@ -1,28 +1,28 @@
 ---
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.042927+00:00'
-world: Both
-status: active
-tags:
-- active
-- both
-- caverns
-- crystals
-- dangerous
-- location
-- magical
-- underground
-type: Location
-danger_level: High
-location_type: Underground Crystal Formation
-parent_location: '[[02_Worldbuilding/Places/The Sundered Peaks]]'
-depth: 200-2000 feet underground
 access_restrictions: Magical wards, natural hazards, crystal guardians
+created: '2025-08-11'
+danger_level: High
+depth: 200-2000 feet underground
+location_type: Underground Crystal Formation
 notable_resources:
 - Pure Aether Crystals
 - Crystal Songs
 - Memory Crystals
 - Corrupted Shards
+parent_location: '[[02_Worldbuilding/Places/The Sundered Peaks]]'
+status: complete
+tags:
+- caverns
+- content/location
+- dangerous
+- mechanics/magic
+- status/in-progress
+- underground
+- world/aethermoor
+- world/both
+type: Location
+updated: '2025-08-12T23:37:39.835912'
+world: Both
 ---
 
 

@@ -1,24 +1,24 @@
 ---
-updated: '2025-08-13T01:18:37.007330+00:00'
-created: 2025-08-11
-tags:
-- aquabyssos
-- category/people
-- complete
-- meta
-status: complete
-world: Aquabyssos
-type: meta
-obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: Guidelines and tools for integrating player characters into
-    Aquabyssos with bonds, roles, and session zero prompts.
   content_warnings: []
   pronunciation: The Party
   safety_tools:
   - Lines & Veils
   - X-Card
   - Open Door
+  screen_reader_summary: Guidelines and tools for integrating player characters into
+    Aquabyssos with bonds, roles, and session zero prompts.
+created: '2025-08-11'
+obsidianUIMode: preview
+status: complete
+tags:
+- content/npc
+- meta
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:41.010876'
+world: Aquabyssos
 ---
 
 

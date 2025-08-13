@@ -1,29 +1,28 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+alignment: Lawful Evil
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Shadow Nobility Court
+headquarters: '[[The Umbral Estate]]'
+influence: Regional (Upper District and Shadow Quarter)
+leader: '[[Lord Vexton Shadowmere]]'
+members: ~200 shadow nobles and courtiers
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
 - aristocracy
-- complete
-- faction
-- group
+- content/faction
 - nobility
 - shadow-court
 - shadow-touched
-status: complete
-world: Aquabyssos
-type: Group
-faction_type: Shadow Nobility Court
-alignment: Lawful Evil
-headquarters: '[[The Umbral Estate]]'
-leader: '[[Lord Vexton Shadowmere]]'
-members: ~200 shadow nobles and courtiers
-influence: Regional (Upper District and Shadow Quarter)
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.680076'
 wealth: Vast (generational shadow wealth)
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.740638+00:00'
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Aquabyssos
 ---
 
 

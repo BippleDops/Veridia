@@ -1,24 +1,23 @@
 ---
-tags:
-- aquabyssos
-- complete
-- deep-mother
-- dream-servant
-- npc
-- person
-- shadow-touched
-- sorrow-singer
-status: complete
-world: Aquabyssos
-type: NPC
-role: Deep Mother's Voice
 affiliation: '[[The Sorrow Singers]] (Shadow Choir)'
 age: '26'
-race: Human (Shadow-Born)
-location: '[[Shadow Wells]] - The Echoing Chamber'
+created: '2025-08-09'
 created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
+location: '[[Shadow Wells]] - The Echoing Chamber'
+race: Human (Shadow-Born)
+role: Deep Mother's Voice
+status: complete
+tags:
+- content/npc
+- deep-mother
+- dream-servant
+- shadow-touched
+- sorrow-singer
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.935862'
+world: Aquabyssos
 ---
 
 

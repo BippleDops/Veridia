@@ -1,25 +1,25 @@
 ---
-type: Lore
-obsidian-u-i-mode: preview
+aliases:
+- Alpha Yek
+created: '2025-07-23'
 cssclasses: json5e-monster
+modified: 2025-07-23 12:39
+obsidian-u-i-mode: preview
+statblock: inline
+status: complete
 tags:
-- active
-- both
 - compendium/src/5e/ccodex
-- lore
+- content/lore
 - monster/cr/9
 - monster/environment/any
 - monster/size/medium
 - monster/type/fiend/demon
 - note
-statblock: inline
-aliases:
-- Alpha Yek
-created: 2025-07-23
-modified: 2025-07-23 12:39
+- status/in-progress
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:41.131940'
 world: Both
-updated: '2025-08-13T01:18:37.137598+00:00'
-status: active
 ---
 
 

@@ -1,36 +1,35 @@
 ---
-tags:
-- beyond aethermoor
-- beyond-aethermoor
-- completed
-- confederacy
-- economic
-- foreign-nation
-- foreign-power
-- goldspire
-- location
-- nation
-- political
-status: completed
-world: Beyond Aethermoor
-type: Location
-government: Merchant Confederacy
-population: 2500000
 capital: '[[02_Worldbuilding/Places/Goldspire Port]]'
+created: '2025-08-09'
+danger_level: Moderate
+government: Merchant Confederacy
 leader: Trade Prince Aurelius Gilt
+population: 2500000
+related_entities:
+- '[[02_Worldbuilding/Quests/Economic Warfare]]'
+- '[[02_Worldbuilding/People/Zephyr Goldwhisper]]'
+- '[[02_Worldbuilding/Places/The Azure Coast]]'
+relationship_with_aethermoor: Opportunistic Economic Partner
 specialties:
 - International Commerce
 - Financial Services
 - Naval Power
 - Null Technology
-relationship_with_aethermoor: Opportunistic Economic Partner
-created: 2025-08-09
-updated: '2025-08-13T01:18:36.598279+00:00'
-related_entities:
-- '[[02_Worldbuilding/Quests/Economic Warfare]]'
-- '[[02_Worldbuilding/People/Zephyr Goldwhisper]]'
-- '[[02_Worldbuilding/Places/The Azure Coast]]'
-danger_level: Moderate
+status: draft
+tags:
+- confederacy
+- content/location
+- economic
+- foreign-nation
+- foreign-power
+- nation
+- political
+- status/archived
+- status/complete
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:40.539118'
+world: Beyond Aethermoor
 ---
 
 

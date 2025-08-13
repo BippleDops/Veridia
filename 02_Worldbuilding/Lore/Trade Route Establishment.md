@@ -1,18 +1,17 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- active
-- aquabyssos
 - commerce
-- exploration
-- history
-- lore
+- content/lore
 - maritime
+- mechanics/exploration
+- status/in-progress
 - trade
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:39.219640'
 world: Aquabyssos
-status: active
-created: 2025-08-12
-updated: '2025-08-13T01:18:35.542488+00:00'
 ---
 
 

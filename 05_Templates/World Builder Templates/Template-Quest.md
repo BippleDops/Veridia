@@ -1,26 +1,26 @@
 ---
-tags:
-- active
-- both
-- category/quest
-- lore
-MyContainer: []
 MyCategory: null
+MyContainer: []
+NoteIcon: quest
+created: '2025-08-11'
 obsidianUIMode: preview
-questObtained: null
-questStatus: Not Started
 questGiver: null
 questLocationObtained: null
-questSessionObtained: null
-questNotes: null
-questLootAvail: null
 questLookEarned: null
-NoteIcon: quest
-world: Both
-updated: '2025-08-13T01:18:31.193835+00:00'
-created: 2025-08-11
-status: active
+questLootAvail: null
+questNotes: null
+questObtained: null
+questSessionObtained: null
+questStatus: Not Started
+status: complete
+tags:
+- content/adventure
+- content/lore
+- status/in-progress
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:33.121970'
+world: Both
 ---
 
 

@@ -1,18 +1,16 @@
 ---
-tags:
-- aquabyssos
-- culture
-- complete
-- cultural-customs
-- depth-society
-- underwater-civilization
-- lore
-world: Aquabyssos
-type: Lore
-status: complete
+created: '2025-08-12'
 created_by: cultural-expansion
-created: 2025-08-12
-updated: 2025-08-12
+status: complete
+tags:
+- content/lore
+- cultural-customs
+- culture
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:39.444851'
+world: Aquabyssos
 ---
 
 # Aquabyssos Cultural Codex

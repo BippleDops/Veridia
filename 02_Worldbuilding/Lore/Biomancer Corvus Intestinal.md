@@ -1,27 +1,26 @@
 ---
-tags:
-- aquabyssos
-- biological-manipulation
-- biomancer
-- complete
-- dangerous-individual
-- flesh-magic
-- lore
-- master-practitioner
-- npc
-- research-specialist
-status: complete
-world: Aquabyssos
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+danger_level: Extreme
+location: Mobile - Various Deep Research Sites
 npc_type: Master Biomancer
 organization: Independent Research Specialist
-danger_level: Extreme
-specialization: Biological Manipulation and Flesh Magic
-location: Mobile - Various Deep Research Sites
 reputation: Feared and Respected
+specialization: Biological Manipulation and Flesh Magic
+status: complete
+tags:
+- biological-manipulation
+- biomancer
+- content/lore
+- content/npc
+- dangerous-individual
+- master-practitioner
+- mechanics/magic
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:39.134081'
+world: Aquabyssos
 ---
 
 

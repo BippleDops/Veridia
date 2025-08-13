@@ -1,29 +1,26 @@
 ---
+access_restriction: Guild Controlled
+category: Magical Technology
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: High
+expanded: 2025-08-11
+significance: Critical Infrastructure
+status: complete
 tags:
-- aquabyssos
-- bio-magical-fusion
-- complete
-- infrastructure
-- lore
-- magical-engineering
-- mechanical-systems
-- pressure-systems
+- content/lore
+- content/mechanics
+- content/template
+- mechanics/magic
+- status/complete
 - technology
 - tidal-manipulation
 - tidal-power
-- water-magic
-status: complete
-world: Aquabyssos
-type: Lore
-category: Magical Technology
-significance: Critical Infrastructure
-created_by: auto-stub
-created: 2025-08-08
-expanded: 2025-08-11
+- world/aquabyssos
 technology_type: Tidal Manipulation System
-access_restriction: Guild Controlled
-danger_level: High
-updated: 2025-08-11
+type: Lore
+updated: '2025-08-12T23:37:39.716715'
+world: Aquabyssos
 ---
 
 

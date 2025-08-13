@@ -1,27 +1,27 @@
 ---
-tags:
-- ancient-magic
-- aquabyssos
-- complete
-- historical
-- lighthouse
-- lore
-- lost-technology
-- maritime
-- navigation
-- prophecy
-- storms
-- weather-control
-status: complete
-world: Aquabyssos
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+current_status: Active but Unpredictable
 historical_period: Pre-Shattering to Present
 significance: Critical
+status: complete
+tags:
+- content/lore
+- historical
+- lighthouse
+- lost-technology
+- maritime
+- mechanics/magic
+- navigation
+- prophecy
+- status/complete
+- storms
+- weather-control
+- world/aquabyssos
 threat_level: Variable
-current_status: Active but Unpredictable
+type: Lore
+updated: '2025-08-12T23:37:39.451535'
+world: Aquabyssos
 ---
 
 

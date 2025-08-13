@@ -1,23 +1,23 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+duration: 3-4 sessions
+level: 8-12
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/adventure
+- content/lore
 - horror
-- investigation
-- lore
+- mechanics/exploration
 - memory-manipulation
 - order-drowned-star
 - psychological-warfare
-- quest
-status: complete
-world: Aquabyssos
-type: Lore
-level: 8-12
-duration: 3-4 sessions
+- status/complete
+- world/aquabyssos
 threat_level: high
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.507522+00:00'
+type: Lore
+updated: '2025-08-12T23:37:37.799357'
+world: Aquabyssos
 ---
 
 

@@ -1,17 +1,16 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- active
-- aquabyssos
 - conspiracy
-- history
-- lore
+- content/lore
 - shadow-conspiracy
 - shadow-surgery
+- status/in-progress
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:39.658819'
 world: Aquabyssos
-status: active
-created: 2025-08-12
-updated: '2025-08-13T01:18:35.905569+00:00'
 ---
 
 

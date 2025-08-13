@@ -1,28 +1,28 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+commander: '[[Admiral Thorne Blackwater]]'
+created: '2025-08-12'
+danger_level: 9
+depth: 15,000 feet below surface
+government: '[[Deep Watch Command]]'
+obsidianUIMode: preview
+population: 800
+purpose: Seal against The Hadal Depths
+region: '[[The Hadal Depths]] Border'
+status: draft
 tags:
-- aquabyssos
 - barrier
-- completed
-- critical
+- content/location
 - deep
 - fortress
-- location
-- magical-barrier-fortress
-status: completed
-world: Aquabyssos
-region: '[[The Hadal Depths]] Border'
+- importance/critical
+- mechanics/magic
+- status/complete
+- world/aquabyssos
 type: Location
-population: 800
-danger_level: 9
-government: '[[Deep Watch Command]]'
-commander: '[[Admiral Thorne Blackwater]]'
-purpose: Seal against The Hadal Depths
-depth: 15,000 feet below surface
-created: 2025-08-12
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-updated: 2025-08-12
+updated: '2025-08-12T23:37:40.500439'
+world: Aquabyssos
 ---
 
 

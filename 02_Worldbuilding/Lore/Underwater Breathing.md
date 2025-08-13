@@ -1,26 +1,25 @@
 ---
+access_restriction: Public Infrastructure
+category: Life Support Technology
+created: '2025-08-08'
+created_by: auto-stub
+significance: Essential Infrastructure
+status: complete
 tags:
-- aquabyssos
-- bio-magical-engineering
 - breathing-apparatus
-- complete
+- content/lore
+- content/mechanics
 - innovation
 - life-support
-- lore
+- mechanics/magic
 - respiratory-enhancement
-- survival-systems
+- status/complete
 - technology
-- underwater-technology
-status: complete
-world: Aquabyssos
-type: Lore
-category: Life Support Technology
-significance: Essential Infrastructure
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+- world/aquabyssos
 technology_type: Bio-Magical Respiratory System
-access_restriction: Public Infrastructure
+type: Lore
+updated: '2025-08-12T23:37:39.646669'
+world: Aquabyssos
 ---
 
 

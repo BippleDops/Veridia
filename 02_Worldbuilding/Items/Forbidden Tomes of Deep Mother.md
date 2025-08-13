@@ -1,22 +1,21 @@
 ---
+created: '2025-08-12'
+created_by: claude
+status: complete
 tags:
-- aethermoor
-- aquabyssos
-- artifacts
 - books
-- both
-- complete
+- content/item
 - deep-mother
 - forbidden-knowledge
-- items
 - sanity-cost
+- status/complete
 - tomes
-status: complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
+type: Item
+updated: '2025-08-12T23:37:41.073945'
 world: Both
-type: Items
-created_by: claude
-created: 2025-08-12
-updated: '2025-08-13T01:18:37.088361+00:00'
 ---
 
 

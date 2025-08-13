@@ -1,24 +1,23 @@
 ---
-tags:
-- aethermoor
-- amber-shard
-- complete
-- npc
-- person
-- purist-coalition
-- seven-shards
-- unknowing-bearer
-status: complete
-world: Aethermoor
-type: NPC
-role: Unknowing Shard Bearer
 affiliation: '[[02_Worldbuilding/Groups/Purist Coalition]]'
 age: '45'
-race: Human (Shard-bearer)
-location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Monastery'
+created: '2025-08-09'
 created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
+location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Monastery'
+race: Human (Shard-bearer)
+role: Unknowing Shard Bearer
+status: complete
+tags:
+- amber-shard
+- content/npc
+- purist-coalition
+- seven-shards
+- status/complete
+- unknowing-bearer
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:41.058918'
+world: Aethermoor
 ---
 
 

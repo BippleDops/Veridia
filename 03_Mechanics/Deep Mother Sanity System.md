@@ -1,20 +1,20 @@
 ---
+created: '2025-08-12'
+created_by: claude
+status: complete
 tags:
-- aethermoor
-- aquabyssos
-- both
-- complete
+- content/mechanics
 - deep-mother
 - horror
 - madness
-- mechanics
 - sanity
-status: complete
-world: Both
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
 type: Mechanics
-created_by: claude
-created: 2025-08-12
-updated: '2025-08-13T01:18:37.106283+00:00'
+updated: '2025-08-12T23:37:41.092364'
+world: Both
 ---
 
 

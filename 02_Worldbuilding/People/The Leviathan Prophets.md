@@ -1,21 +1,21 @@
 ---
+MyCategory: Religious
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/faction
+- content/npc
 - cult
 - leviathan
-- npc
-- organization
 - prophecy
-status: complete
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.821397'
 world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
-MyCategory: Religious
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.861470+00:00'
 ---
 
 

@@ -1,35 +1,34 @@
 ---
-session_number: 6
-title: The Bloodline Awakens
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
 date_played: null
+estimated_time: 3-4 hours
+level: 4
 location: '[[Lighthouse Ruins]] to [[Hidden Sanctuary]]'
 npcs_featured:
 - '[[02_Worldbuilding/People/The Crimson Sage]]'
 - '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
 - '[[02_Worldbuilding/People/High Inquisitor Maltheos]]'
 - '[[Jasper Three-Eyes Flint]]'
+obsidianUIMode: preview
 quests_advanced:
 - '[[02_Worldbuilding/Quests/Aquabyssos]]'
 - '[[Uniting the Factions]]'
 - '[[Rewriting the Ritual]]'
-level: 4
-estimated_time: 3-4 hours
+session_number: 6
+status: complete
 tags:
-- active
-- aethermoor
 - bloodline
-- lore
+- campaign/session
+- content/lore
 - revelation
-- session
-- session-journal
+- status/in-progress
+- world/aethermoor
+title: The Bloodline Awakens
 type: Lore
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:41.176049'
 world: Aethermoor
-updated: '2025-08-13T01:18:37.175806+00:00'
-created: 2025-08-11
-status: active
 ---
 
 

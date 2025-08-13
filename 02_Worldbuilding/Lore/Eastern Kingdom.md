@@ -1,42 +1,41 @@
 ---
-tags:
-- advanced-crafting
-- aethermoor
-- complete
-- crystal-engineering
-- eastern-kingdoms
-- industrial-complex
-- innovation
-- location
-- lore
-- magical-workshops
-- technological-advancement
-- technology
-- trade-guilds
-status: complete
-world: Aethermoor
-type: Lore
-created_by: lore-expansion
-created: 2025-08-08
-updated: 2025-08-11
-location_type: Regional Technological Complex
-scope: Continental Significance
-specialization: Innovation and Engineering
-economic_focus: Advanced Manufacturing
-political_structure: Guild Federation
-technological_level: Cutting Edge
 connections:
 - '[[Crystal Forest]]'
 - '[[Resonance Chamber]]'
 - '[[Pressure Tubes]]'
 - '[[The Great Crystallization]]'
 - '[[Magic Items]]'
+created: '2025-08-08'
+created_by: lore-expansion
+economic_focus: Advanced Manufacturing
+location_type: Regional Technological Complex
+political_structure: Guild Federation
+scope: Continental Significance
+specialization: Innovation and Engineering
+status: complete
+tags:
+- advanced-crafting
+- content/faction
+- content/location
+- content/lore
+- eastern-kingdoms
+- industrial-complex
+- innovation
+- mechanics/magic
+- status/complete
+- technological-advancement
+- technology
+- world/aethermoor
+technological_level: Cutting Edge
 themes:
 - technological_innovation
 - magical_engineering
 - industrial_advancement
 - guild_cooperation
 - crystal_mastery
+type: Lore
+updated: '2025-08-12T23:37:39.290839'
+world: Aethermoor
 ---
 
 

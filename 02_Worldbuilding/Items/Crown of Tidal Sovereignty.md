@@ -1,25 +1,23 @@
 ---
-tags:
-- aquabyssos
-- artifact
-- complete
-- crown
-- item
-- legendary
-- political-artifact
-- seven-shards-connected
-status: complete
-world: Aquabyssos
-type: Item
+affiliation: '[[02_Worldbuilding/People/The Scattered Emperor]] (Currently Fragmented)'
+created: '2025-08-09'
+created_by: Claude
+current_location: Multiple Pieces Scattered Across Aquabyssos
+danger_level: 4
 item_type: Crown of Rule (Seven Shards Enhanced)
 rarity: Legendary
 requires_attunement: Yes (by a creature of noble blood or appointed by divine authority)
-affiliation: '[[02_Worldbuilding/People/The Scattered Emperor]] (Currently Fragmented)'
-current_location: Multiple Pieces Scattered Across Aquabyssos
-danger_level: 4
-created_by: Claude
-created: 2025-08-09
-updated: 2025-08-11
+status: complete
+tags:
+- content/item
+- content/lore
+- crown
+- seven-shards-connected
+- status/complete
+- world/aquabyssos
+type: Item
+updated: '2025-08-12T23:37:41.075680'
+world: Aquabyssos
 ---
 
 

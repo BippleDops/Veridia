@@ -1,14 +1,14 @@
 ---
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- both
+- content/lore
 - historical-prophecies
-- lore
+- status/in-progress
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:38.252154'
 world: Both
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:34.841768+00:00'
 ---
 
 

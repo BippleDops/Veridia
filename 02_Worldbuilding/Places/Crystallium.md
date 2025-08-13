@@ -1,32 +1,29 @@
 ---
-tags:
-- aquabyssos
-- completed
-- crystal
-- crystal-research-facility
-- facility
-- location
-- research
-- science
-- underwater
-status: completed
-world: Aquabyssos
-region: '[[Pressure Zones]]'
-type: Location
-population: 1200
+MyCategory: Unknown
+MyContainer: None
+created: 2025-08-08 - Category/Place
 danger_level: 6
+depth: 8,000 feet below surface
 government: '[[The Crystal Academy Council]]'
 leader: '[[Master Crystallographer Aurora Prismheart]]'
+obsidianUIMode: preview
+population: 1200
+region: '[[Pressure Zones]]'
 specialties:
 - Crystal Research
 - Pressure Magic
 - Deep Science
-depth: 8,000 feet below surface
-created: 2025-08-08 - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-updated: 2025-08-11
+status: draft
+tags:
+- content/location
+- facility
+- science
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.440784'
+world: Aquabyssos
 ---
 
 

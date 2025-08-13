@@ -1,21 +1,21 @@
 ---
+MyCategory: Location
+MyContainer: None
+created: 2025-08-08 - Category/Place
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/location
 - garden
-- location
 - mysterious
 - shadows
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-08 - Category/Place
-MyContainer: None
-MyCategory: Location
-obsidianUIMode: preview
-updated: 2025-08-11
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.924070'
+world: Aquabyssos
 ---
 
 > [!figure] View

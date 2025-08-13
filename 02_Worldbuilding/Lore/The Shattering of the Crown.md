@@ -1,41 +1,39 @@
 ---
-tags:
-- aethermoor
-- catastrophic-event
-- complete
-- crown-of-stars
-- divine-artifact
-- great-crystallization
-- historical-event
-- history
-- lore
-- reality-breaking
-- shattering
-- world-ending
-status: complete
-world: Aethermoor
-type: Lore
 category: Divine Catastrophe
-significance: Reality-Altering
-time_period: Year 1 GC - The Moment of Great Crystallization
+created: '2025-08-08'
+created_by: auto-stub
 duration: Instantaneous Event with Eternal Consequences
-scale: Multidimensional
+expanded: 2025-08-11
+outcome: Crown Shattered, World Transformed, Divinity Scattered
 participants:
 - God-King Aetheron
 - The Seven Betrayers
 - The Crown of Stars
 - Reality Itself
-outcome: Crown Shattered, World Transformed, Divinity Scattered
-created_by: auto-stub
-created: 2025-08-08
-expanded: 2025-08-11
 related_entities:
 - '[[The Seven Betrayers]]'
 - '[[The Crown of Stars]]'
 - '[[The Great Crystallization]]'
 - '[[Aetheron]]'
 - '[[The Seven Shards]]'
-updated: 2025-08-11
+scale: Multidimensional
+significance: Reality-Altering
+status: complete
+tags:
+- catastrophic-event
+- content/item
+- content/lore
+- crown-of-stars
+- historical-event
+- reality-breaking
+- shattering
+- status/complete
+- world-ending
+- world/aethermoor
+time_period: Year 1 GC - The Moment of Great Crystallization
+type: Lore
+updated: '2025-08-12T23:37:39.270556'
+world: Aethermoor
 ---
 
 

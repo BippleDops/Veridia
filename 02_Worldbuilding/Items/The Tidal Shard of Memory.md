@@ -1,24 +1,23 @@
 ---
-tags:
-- aquabyssos
-- artifact
-- complete
-- item
-- legendary-artifact
-- memory-magic
-- seven-shards
-status: complete
-world: Aquabyssos
-type: Item
+affiliation: '[[02_Worldbuilding/Lore/The Seven Shards]]'
+created: '2025-08-09'
+created_by: Claude
+current_location: Unknown (Hidden)
+danger_level: 5
 item_type: Legendary Artifact (The Seven Shards)
 rarity: Legendary
 requires_attunement: 'Yes'
-affiliation: '[[02_Worldbuilding/Lore/The Seven Shards]]'
-current_location: Unknown (Hidden)
-danger_level: 5
-created_by: Claude
-created: 2025-08-09
-updated: 2025-08-11
+status: complete
+tags:
+- content/item
+- content/lore
+- mechanics/magic
+- seven-shards
+- status/complete
+- world/aquabyssos
+type: Item
+updated: '2025-08-12T23:37:41.076515'
+world: Aquabyssos
 ---
 
 

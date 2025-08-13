@@ -1,27 +1,24 @@
 ---
-tags:
-- aetherian-guild
-- aethermoor
-- complete
-- crystal-artificer
-- crystal-technology
-- inventor
-- npc
-- person
-status: complete
-world: Aethermoor
-type: NPC
-role: Master Crystal Artificer
+MyCategory: Unknown
+MyContainer: None
 affiliation: Aetherian Guild of Artificers
 age: '67'
-race: Human (Aethermoor Native)
-location: '[[02_Worldbuilding/Places/Crystal Gardens]] - Innovation Workshop'
-created_by: auto-stub
 created: 2025-08-08 - Category/People
-MyContainer: None
-MyCategory: Unknown
+created_by: auto-stub
+location: '[[02_Worldbuilding/Places/Crystal Gardens]] - Innovation Workshop'
 obsidianUIMode: preview
-updated: 2025-08-11
+race: Human (Aethermoor Native)
+role: Master Crystal Artificer
+status: complete
+tags:
+- content/faction
+- content/npc
+- inventor
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:41.059838'
+world: Aethermoor
 ---
 
 > [!figure] Portrait

@@ -1,44 +1,42 @@
 ---
-tags:
-- aethermoor
-- apprenticeship
-- artificers
-- complete
-- craftsmanship
-- elite-crafters
-- group
-- guild
-- innovation
-- magical-engineering
-- masterwork-creation
-- organization
-- professional-association
-- technology
-status: complete
-world: Aethermoor
-type: Group
-created_by: lore-expansion-specialist
-created: 2025-08-11
-updated: 2025-08-11
-organization_type: Professional Guild
-scope: Continental
-membership: Elite Crafters
-specialization: Advanced Magical Items
-political_influence: High
-economic_impact: Major
-headquarters: Eastern Kingdoms - Crystalhaven
 connections:
 - '[[Eastern Kingdoms 2]]'
 - '[[Crystal Forest]]'
 - '[[Magic Items]]'
 - '[[Resonance Chamber]]'
 - '[[Maestra Luminara Crystalweave]]'
+created: '2025-08-11'
+created_by: lore-expansion-specialist
+economic_impact: Major
+headquarters: Eastern Kingdoms - Crystalhaven
+membership: Elite Crafters
+organization_type: Professional Guild
+political_influence: High
+scope: Continental
+specialization: Advanced Magical Items
+status: complete
+tags:
+- apprenticeship
+- artificers
+- content/faction
+- craftsmanship
+- elite-crafters
+- innovation
+- masterwork-creation
+- mechanics/magic
+- professional-association
+- status/complete
+- technology
+- world/aethermoor
 themes:
 - elite_craftsmanship
 - technological_innovation
 - magical_engineering
 - guild_hierarchy
 - masterwork_tradition
+type: Faction
+updated: '2025-08-12T23:37:40.764543'
+world: Aethermoor
 ---
 
 

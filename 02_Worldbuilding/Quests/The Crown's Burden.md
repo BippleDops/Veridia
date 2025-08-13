@@ -1,29 +1,29 @@
 ---
+MyCategory: Quest
+MyContainer: None
+created: '2025-08-08'
+created_by: system
+level_range: 7-12
+obsidianUIMode: preview
+quest_giver: Queen Seraphina Lumengarde
+quest_priority: High
+quest_status: Available
+quest_type: Character Quest
+rewards: Royal Blessing, Curse Removal, Ancient Knowledge
+status: complete
 tags:
-- active
-- aethermoor
+- content/adventure
+- content/lore
 - curse
-- lore
 - moral-choice
 - psychological
-- quest
 - royalty
-quest_status: Available
-quest_priority: High
-quest_type: Character Quest
-level_range: 7-12
-world: Aethermoor
-quest_giver: Queen Seraphina Lumengarde
-rewards: Royal Blessing, Curse Removal, Ancient Knowledge
+- status/in-progress
+- world/aethermoor
 time_limit: Before the Queen's Mind Breaks (21 days)
-created_by: system
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.473763+00:00'
-MyContainer: None
-MyCategory: Quest
-obsidianUIMode: preview
-status: active
 type: Lore
+updated: '2025-08-12T23:37:37.758313'
+world: Aethermoor
 ---
 
 

@@ -1,30 +1,29 @@
 ---
-tags:
-- aquabyssos
-- aristocracy
-- complete
-- dueling-society
-- faction
-- group
-- honor-codes
-- shadow-court
-status: complete
-world: Aquabyssos
-type: Group
-faction_type: Aristocratic Dueling Society
+MyCategory: Honor Society
+MyContainer: Shadow Society
 alignment: Lawful Neutral (Honor-bound)
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Aristocratic Dueling Society
 headquarters: '[[The Umbral Pavilion]]'
+influence: High Society, Shadow Court
 leader: '[[Shadow Duchess Lysandra Voidgrace]]'
 members: ~75 active duelists, ~300 affiliates
-influence: High Society, Shadow Court
-purpose: Maintain honor through formal combat
-created_by: auto-stub
-created: 2025-08-08
 modified: 2025-08-11 - Category/Group
-MyContainer: Shadow Society
-MyCategory: Honor Society
 obsidianUIMode: preview
-updated: 2025-08-11
+purpose: Maintain honor through formal combat
+status: complete
+tags:
+- aristocracy
+- content/faction
+- dueling-society
+- honor-codes
+- shadow-court
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.652879'
+world: Aquabyssos
 ---
 
 > [!figure] Heraldry

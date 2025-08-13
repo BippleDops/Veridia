@@ -1,16 +1,15 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- active
-- aquabyssos
 - catastrophe
+- content/lore
 - great-drowning
-- history
-- lore
+- status/in-progress
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:38.133226'
 world: Aquabyssos
-status: active
-created: 2025-08-12
-updated: '2025-08-13T01:18:34.763930+00:00'
 ---
 
 

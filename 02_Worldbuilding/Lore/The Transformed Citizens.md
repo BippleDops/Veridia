@@ -1,25 +1,25 @@
 ---
+category: Population Effects
+created: '2025-08-08'
+created_by: auto-stub
+significance: Campaign-Critical
+status: complete
 tags:
 - adaptation
-- both
-- complete
+- content/lore
+- content/npc
 - convergence-effects
 - dimensional-bleed
-- lore
 - mutation
-- ordinary-people
 - reality-sickness
 - shadow-corruption
+- status/complete
 - survival
 - transformed-citizens
-status: complete
-world: Both
+- world/both
 type: Lore
-category: Population Effects
-significance: Campaign-Critical
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.973670'
+world: Both
 ---
 
 

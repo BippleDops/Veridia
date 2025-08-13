@@ -1,23 +1,23 @@
 ---
-tags:
-- aquabyssos
-- complete
-- information
-- location
-- madame
-- npc
-- spy
-- whisper
-status: complete
-world: Aquabyssos
-type: Location
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
 MyCategory: NPC
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:35.992810+00:00'
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
 danger_level: Moderate
+obsidianUIMode: preview
+status: complete
+tags:
+- content/location
+- content/npc
+- information
+- madame
+- spy
+- status/complete
+- whisper
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:39.778906'
+world: Aquabyssos
 ---
 
 

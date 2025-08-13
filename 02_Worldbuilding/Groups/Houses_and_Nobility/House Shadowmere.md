@@ -1,17 +1,17 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/faction
 - espionage
-- group
 - noble-house
 - politics
 - shadows
-type: Group
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.735617'
 world: Aquabyssos
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:36.787970+00:00'
 ---
 
 

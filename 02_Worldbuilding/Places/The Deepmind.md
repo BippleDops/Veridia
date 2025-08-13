@@ -1,28 +1,27 @@
 ---
-tags:
-- aboleth-lair
-- aquabyssos
-- complete
-- dungeon
-- living-structure
-- location
-- major-location
-- memory
-- psychic
-status: complete
-world: Aquabyssos
-type: Location
+MyCategory: Unknown
+MyContainer: None
 category: Dungeon/Lair
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
 depth: 3000-5000 feet
 difficulty: Levels 16-20
-ruler: '[[02_Worldbuilding/People/Aboleth Prime Yoth]]'
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Unknown
 obsidianUIMode: preview
-danger_level: Moderate
+ruler: '[[02_Worldbuilding/People/Aboleth Prime Yoth]]'
+status: complete
+tags:
+- aboleth-lair
+- content/location
+- content/template
+- dungeon
+- memory
+- psychic
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.548262'
+world: Aquabyssos
 ---
 
 > [!figure] View

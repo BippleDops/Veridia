@@ -1,29 +1,28 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+alignment: Chaotic Neutral
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Maritime Organization
+headquarters: '[[The Phantom Docks]]'
+influence: Coastal regions and sea routes
+leader: '[[Harbor Master Tideshade]]'
+members: ~800 sailors, dock workers, and maritime specialists
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
-- faction
-- group
+- content/faction
 - maritime
 - shadow-operations
 - smuggling
+- status/complete
 - transportation
-status: complete
-world: Aquabyssos
-type: Group
-faction_type: Maritime Organization
-alignment: Chaotic Neutral
-headquarters: '[[The Phantom Docks]]'
-leader: '[[Harbor Master Tideshade]]'
-members: ~800 sailors, dock workers, and maritime specialists
-influence: Coastal regions and sea routes
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.665185'
 wealth: Substantial (shadow trade and smuggling)
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.725825+00:00'
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Aquabyssos
 ---
 
 

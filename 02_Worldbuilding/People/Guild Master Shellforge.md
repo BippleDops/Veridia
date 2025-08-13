@@ -1,13 +1,13 @@
 ---
-tags:
-- aquabyssos
-- person
-- stub
-type: Person
-world: Aquabyssos
+created: '2025-08-12'
 status: stub
-created: 2025-08-12
-updated: '2025-08-13T01:18:37.007903+00:00'
+tags:
+- content/npc
+- status/stub
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:41.011487'
+world: Aquabyssos
 ---
 
 

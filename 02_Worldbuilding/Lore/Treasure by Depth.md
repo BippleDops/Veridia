@@ -1,18 +1,17 @@
 ---
-tags:
-- aquabyssos
-- complete
-- depth-scaling
-- loot-tables
-- lore
-- rewards
-- treasure
-status: complete
-world: Aquabyssos
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+status: complete
+tags:
+- content/item
+- content/lore
+- loot-tables
+- rewards
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:38.484824'
+world: Aquabyssos
 ---
 
 

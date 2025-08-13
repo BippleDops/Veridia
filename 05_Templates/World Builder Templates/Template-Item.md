@@ -1,23 +1,23 @@
 ---
-MyContainer: []
-MyCategory: null
-tags:
-- active
-- both
-- category/item
-- lore
-obsidianUIMode: preview
-aliases:
-- ItemOtherName
-Connected_Quests:
-- '[[05_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]'
 Connected_Groups:
 - '[[05_Templates/World Builder Templates/Template-Group.md|Template-Group]]'
-world: Both
-updated: '2025-08-13T01:18:31.186927+00:00'
-created: 2025-08-11
-status: active
+Connected_Quests:
+- '[[05_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]'
+MyCategory: null
+MyContainer: []
+aliases:
+- ItemOtherName
+created: '2025-08-11'
+obsidianUIMode: preview
+status: complete
+tags:
+- content/item
+- content/lore
+- status/in-progress
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:33.114344'
+world: Both
 ---
 
 

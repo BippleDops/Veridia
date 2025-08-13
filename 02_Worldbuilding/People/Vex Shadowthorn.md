@@ -1,23 +1,22 @@
 ---
-tags:
-- active
-- both
-- category/people
-- npc
-aliases: []
-MyContainer: None
 MyCategory: Unknown
-obsidianUIMode: preview
+MyContainer: None
+ac: 16
+aliases: []
+created: '2025-08-11'
+current_hp: 45
 in_combat: true
 initiative: 18
-current_hp: 45
 max_hp: 68
-ac: 16
+obsidianUIMode: preview
+status: complete
+tags:
+- content/npc
+- status/in-progress
+- world/both
+type: Npc
+updated: '2025-08-12T23:37:41.068809'
 world: Both
-updated: '2025-08-13T01:18:37.083056+00:00'
-created: 2025-08-11
-status: active
-type: NPC
 ---
 
 

@@ -1,25 +1,25 @@
 ---
-tags:
-- active
-- both
-- location
-- midnight_expanse
-- palace
-- political_center
+MyCategory: Unknown
+MyContainer: None
 aliases:
 - The Neutral Deep
 - The Court of Currents
-created: 2024-12-19
-image: 04_Resources/Assets/Locations/bathyal_palace.jpg
+created: '2024-12-19'
 danger_level: Moderate
-population: 8000 - Category/Place
-MyContainer: None
-MyCategory: Unknown
+image: 04_Resources/Assets/Locations/bathyal_palace.jpg
 obsidianUIMode: preview
-world: Both
-updated: '2025-08-13T01:18:36.455489+00:00'
-status: active
+population: 8000 - Category/Place
+status: complete
+tags:
+- content/location
+- midnight_expanse
+- palace
+- political_center
+- status/in-progress
+- world/both
 type: Location
+updated: '2025-08-12T23:37:40.329947'
+world: Both
 ---
 
 

@@ -1,29 +1,29 @@
 ---
-tags:
-- aethermoor
-- complete
-- corruption
-- druid
-- exploration
-- location
-- nature
-- network
-- quest
-- underground
-- verdant-reach
-status: complete
-world: Aethermoor
-type: Location
+created: '2025-08-11'
 created_by: auto-stub
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.213665+00:00'
-quest_type: Exploration/Environmental Adventure
+danger_level: Moderate
+difficulty: Hard
+duration: 6-9 sessions
 level_range: 7-13
 party_size: 4-6 characters
-duration: 6-9 sessions
-difficulty: Hard
 primary_location: The Verdant Reach underground network and surrounding regions
-danger_level: Moderate
+quest_type: Exploration/Environmental Adventure
+status: complete
+tags:
+- content/adventure
+- content/location
+- corruption
+- druid
+- mechanics/exploration
+- nature
+- network
+- status/complete
+- underground
+- verdant-reach
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:40.027085'
+world: Aethermoor
 ---
 
 

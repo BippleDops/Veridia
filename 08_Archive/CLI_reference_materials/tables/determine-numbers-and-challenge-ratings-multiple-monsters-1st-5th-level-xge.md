@@ -1,19 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/xge
 aliases:
 - Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level
-type: note
 created: 2025-07-23
-updated: '2025-08-13T01:18:31.408514+00:00'
+cssclasses: json5e-note
 modified: 2025-07-23 12:39
-world: Both
+obsidianUIMode: preview
 status: active
+tags:
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xge
+- world/both
+type: note
+updated: '2025-08-12T23:37:33.435552'
+world: Both
 ---
 
 # Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level

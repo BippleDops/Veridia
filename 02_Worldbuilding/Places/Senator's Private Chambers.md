@@ -1,27 +1,27 @@
 ---
+MyCategory: Location
+MyContainer: None
+access: Restricted - Senate Members Only
+affiliation: Parliament of Echoes
+created: '2025-08-08'
+created_by: system
+danger_level: Moderate
+location_type: Private Quarters
+obsidianUIMode: preview
+security_level: Maximum
+size: Suite Complex (5,000 sq ft)
+status: complete
 tags:
-- aquabyssos
-- complete
-- location
+- content/location
 - luxury
 - parliament
 - political
 - secure-area
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-location_type: Private Quarters
-affiliation: Parliament of Echoes
-security_level: Maximum
-size: Suite Complex (5,000 sq ft)
-access: Restricted - Senate Members Only
-created_by: system
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Location
-obsidianUIMode: preview
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.846315'
+world: Aquabyssos
 ---
 
 > [!figure] View

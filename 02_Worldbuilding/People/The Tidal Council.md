@@ -1,21 +1,20 @@
 ---
-tags:
-- aquabyssos
-- complete
-- council
-- government
-- npc
-- organization
-- tidal
-status: complete
-world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-08 - Category/Groups
-MyContainer: None
 MyCategory: Government
+MyContainer: None
+created: 2025-08-08 - Category/Groups
+created_by: auto-stub
 obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.962333+00:00'
+status: complete
+tags:
+- content/faction
+- content/npc
+- council
+- status/complete
+- tidal
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.948175'
+world: Aquabyssos
 ---
 
 

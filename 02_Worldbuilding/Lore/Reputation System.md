@@ -1,23 +1,20 @@
 ---
-tags:
-- both
-- both-realms
-- complete
-- faction-relations
-- game-mechanics
-- influence
-- lore
-- mechanics
-- reputation
-- social-system
-status: complete
-world: Both
-type: Lore
-system: D&D 5e
 complexity: Intermediate
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.873474+00:00'
+status: complete
+system: D&D 5e
+tags:
+- content/faction
+- content/lore
+- content/mechanics
+- influence
+- reputation
+- status/complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:39.613061'
+world: Both
 ---
 
 

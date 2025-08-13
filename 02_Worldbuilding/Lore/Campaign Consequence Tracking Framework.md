@@ -1,20 +1,18 @@
 ---
-tags:
-- both worlds
-- both-worlds
-- campaign-management
-- complete
-- consequence-tracking
-- economic-impacts
-- framework
-- gm-tools
-- lore
-- political-ripples
-type: Lore
-world: Both Worlds
+created: '2025-08-12'
 status: complete
-created: 2025-08-12
-updated: '2025-08-13T04:22:13.765686+00:00'
+tags:
+- campaign/arc
+- campaign/consequence
+- content/item
+- content/lore
+- content/template
+- political-ripples
+- status/complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:38.627778'
+world: Both Worlds
 ---
 
 

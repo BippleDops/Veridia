@@ -1,29 +1,29 @@
 ---
-tags:
-- active
-- aethermoor
-- intrigue
-- investigation
-- lore
-- political
-- quest
-- succession
-quest_status: Available
-quest_priority: Critical
-quest_type: Main Quest
-level_range: 10-16
-world: Aethermoor
-quest_giver: The Nameless Auditor
-rewards: Noble Title, Royal Artifacts, Political Power
-time_limit: Before the Coronation (14 days)
-created_by: system
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.494083+00:00'
-MyContainer: None
 MyCategory: Quest
+MyContainer: None
+created: '2025-08-08'
+created_by: system
+level_range: 10-16
 obsidianUIMode: preview
-status: active
+quest_giver: The Nameless Auditor
+quest_priority: Critical
+quest_status: Available
+quest_type: Main Quest
+rewards: Noble Title, Royal Artifacts, Political Power
+status: complete
+tags:
+- content/adventure
+- content/lore
+- intrigue
+- mechanics/exploration
+- political
+- status/in-progress
+- succession
+- world/aethermoor
+time_limit: Before the Coronation (14 days)
 type: Lore
+updated: '2025-08-12T23:37:37.784339'
+world: Aethermoor
 ---
 
 

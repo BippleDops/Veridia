@@ -1,14 +1,13 @@
 ---
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- dimensional nexus (both realms)
-- dimensional-nexus-(both-realms)
-- npc
-type: NPC
+- content/npc
+- status/in-progress
+- world/both
+type: Npc
+updated: '2025-08-12T23:37:41.061030'
 world: Dimensional Nexus (Both Realms)
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:37.041126+00:00'
 ---
 
 > [!figure] Portrait

@@ -1,27 +1,27 @@
 ---
+MyCategory: Places
+MyContainer: None
+access: public
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Low
+obsidianUIMode: preview
+security_level: moderate
+status: complete
 tags:
-- aethermoor
 - bustling
 - commerce
-- complete
+- content/location
 - economy
-- location
 - market
+- mechanics/social
 - port_meridian
-- social
+- status/complete
 - trading
-status: complete
-world: Aethermoor
+- world/aethermoor
 type: Location
-security_level: moderate
-access: public
-danger_level: Low
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Places
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:40.030143'
+world: Aethermoor
 ---
 
 

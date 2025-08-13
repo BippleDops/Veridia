@@ -1,28 +1,7 @@
 ---
-tags:
-- ancient-prophecy
-- both
-- both-worlds
-- complete
-- convergence
-- divination
-- historical-events
-- historical-prophecies
-- lore
-- prophecy
-- religion
-- religious-belief
-- religious-text
-- timeline
-status: complete
-world: Both
-type: Lore
 category: Religious-Historical Event
-significance: Reality-Altering
-time_period: Ancient Era - Current Era (Ongoing Fulfillment)
+created: '2025-08-11'
 created_by: cultural-expansion
-created: 2025-08-11
-updated: 2025-08-11
 related_entities:
 - '[[The Deep Mother]]'
 - '[[Aetheron]]'
@@ -31,6 +10,26 @@ related_entities:
 - '[[The Convergence Point]]'
 - '[[The Seven Betrayers]]'
 - '[[Queen Seraphina]]'
+significance: Reality-Altering
+status: complete
+tags:
+- ancient-prophecy
+- content/lore
+- convergence
+- divination
+- historical-events
+- historical-prophecies
+- prophecy
+- religion
+- religious-belief
+- religious-text
+- status/complete
+- timeline
+- world/both
+time_period: Ancient Era - Current Era (Ongoing Fulfillment)
+type: Lore
+updated: '2025-08-12T23:37:38.206317'
+world: Both
 ---
 
 

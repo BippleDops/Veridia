@@ -1,25 +1,23 @@
 ---
-tags:
-- active
-- both
-- city
-- location
-- major_settlement
-- twilight_reaches
+MyCategory: Unknown
+MyContainer: None
 aliases:
 - The Glass City
 - The First Refuge
-created: 2024-12-19
-image: 04_Resources/Assets/Locations/new_tethys.jpg
+created: '2024-12-19'
 danger_level: Moderate
-population: 75000 - Category/Place
-MyContainer: None
-MyCategory: Unknown
+image: 04_Resources/Assets/Locations/new_tethys.jpg
 obsidianUIMode: preview
-world: Both
-updated: '2025-08-13T01:18:36.540669+00:00'
-status: active
+population: 75000 - Category/Place
+status: complete
+tags:
+- content/location
+- status/in-progress
+- twilight_reaches
+- world/both
 type: Location
+updated: '2025-08-12T23:37:40.455523'
+world: Both
 ---
 
 

@@ -1,21 +1,21 @@
 ---
-tags:
-- active
-- aquabyssos
-- both
-- comprehensive
-- lore
-- mechanics
-- reference
-- survival
-system: D&D 5e
+created: '2025-08-07'
 mechanic_type: Complete Survival System
-created: 2025-08-07
+status: complete
+system: D&D 5e
+tags:
+- comprehensive
+- content/lore
+- content/mechanics
+- reference
+- status/in-progress
+- survival
+- world/aquabyssos
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:41.104970'
 version: 2.0
 world: Both
-updated: '2025-08-13T01:18:37.116274+00:00'
-status: active
-type: Lore
 ---
 
 

@@ -1,23 +1,23 @@
 ---
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.497355+00:00'
-world: Both
+created: '2025-08-11'
+danger_level: 4
+depth: 200-800 feet
+government: Harbor Authority
 location_name: Harbor District
 location_type: Commercial Port
-depth: 200-800 feet
 population: 15000
-government: Harbor Authority
-danger_level: 4
-status: active
-type: Location
+status: complete
 tags:
-- active
-- aquabyssos
-- both
 - commercial
+- content/location
 - dock
 - harbor
-- location
+- status/in-progress
+- world/aquabyssos
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.389833'
+world: Both
 ---
 
 

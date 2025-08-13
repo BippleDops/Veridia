@@ -1,24 +1,23 @@
 ---
+category: Weapon Technology
+created: '2025-08-08'
+created_by: auto-stub
+significance: Strategic Threat
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/item
+- content/lore
 - forgetting-bomb
-- lore
 - mass-amnesia
 - memory-alteration
-- memory-weapon
 - psychological-warfare
-- strategic-weapon
+- status/complete
 - technology
 - warfare
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Lore
-category: Weapon Technology
-significance: Strategic Threat
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.953771'
+world: Aquabyssos
 ---
 
 

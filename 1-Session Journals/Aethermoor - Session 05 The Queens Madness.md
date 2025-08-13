@@ -1,19 +1,26 @@
 ---
-tags:
-- active
-- aethermoor
-- crystal-plague
-- lore
-- queen-seraphina
-- session
-- seven-shards
-session: Session-05
-date: null
-type: Lore
-players: []
+MyCategory: Unknown
+MyContainer: None
 absent: []
+aquabyssos_connection: true
 campaign: Aethermoor - The Plague of Crystals
-primary_location: '[[Royal Palace of Meridian]]'
+corruption_exposure: 4
+created: '2025-08-11'
+danger_level: 8
+date: null
+duration_hours: 4
+encounters:
+- '[[02_Worldbuilding/Lore/The Crystal Guard Elite]]'
+- '[[Possessed Noble Coterie]]'
+- '[[02_Worldbuilding/Places/Throne Room - Heart of Palace|The Queen''s Shadow]]'
+gold_gained: 0
+items_gained:
+- Royal Seal of Authority
+- Crown jewel (shard fragment)
+- Potion of Greater Restoration (3)
+- Queen's personal spellbook
+- Ancient Aquabyssos texts
+level: 4
 locations_visited:
 - '[[Ancient Siege Tunnels]]'
 - '[[Crystal Garden]]'
@@ -25,43 +32,35 @@ npcs_met:
 - '[[02_Worldbuilding/People/High Inquisitor Maltheos]]'
 - '[[02_Worldbuilding/People/The Crimson Sage]]'
 - '[[Princess Celestia]] (revealed)'
-encounters:
-- '[[02_Worldbuilding/Lore/The Crystal Guard Elite]]'
-- '[[Possessed Noble Coterie]]'
-- '[[02_Worldbuilding/Places/Throne Room - Heart of Palace|The Queen''s Shadow]]'
-quests_started:
-- '[[Save Queen Seraphina]]'
-- '[[Stop the Crystal Festival Ritual]]'
-quests_progressed:
-- '[[The Seven Shards Mystery]]'
-- '[[Race Against the Festival]]'
-quests_completed: []
-items_gained:
-- Royal Seal of Authority
-- Crown jewel (shard fragment)
-- Potion of Greater Restoration (3)
-- Queen's personal spellbook
-- Ancient Aquabyssos texts
-gold_gained: 0
-xp_awarded: 1500
+obsidianUIMode: preview
+players: []
 plot_threads:
 - Queen fighting possession intermittently
 - Crimson Sage is Princess Celestia
 - Palace foundation contains underwater gate
 - High Inquisitor's son is key to shard
 - One party member carries the bloodline
-duration_hours: 4
-level: 4
-danger_level: 8
-corruption_exposure: 4
-aquabyssos_connection: true
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+primary_location: '[[Royal Palace of Meridian]]'
+quests_completed: []
+quests_progressed:
+- '[[The Seven Shards Mystery]]'
+- '[[Race Against the Festival]]'
+quests_started:
+- '[[Save Queen Seraphina]]'
+- '[[Stop the Crystal Festival Ritual]]'
+session: Session-05
+status: complete
+tags:
+- campaign/session
+- content/lore
+- queen-seraphina
+- seven-shards
+- status/in-progress
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:41.173274'
 world: Aethermoor
-updated: '2025-08-13T01:18:37.173172+00:00'
-created: 2025-08-11
-status: active
+xp_awarded: 1500
 ---
 
 

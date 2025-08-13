@@ -1,21 +1,20 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+expanded: 2025-08-10
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/lore
 - corruption
-- deep-sea
 - eldritch
 - entities
 - influence
-- lore
 - religion
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-expanded: 2025-08-10
-updated: 2025-08-11
+updated: '2025-08-12T23:37:39.156167'
+world: Aquabyssos
 ---
 
 

@@ -1,24 +1,24 @@
 ---
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.344811+00:00'
-world: Both
+created: '2025-08-11'
+danger_level: 8
+depth: 800-1200 feet
+government: Absolute Monarchy
 location_name: Crystal Palace
 location_type: Royal Residence
-depth: 800-1200 feet
 population: 500
-government: Absolute Monarchy
 ruler: Crystal Sovereign Prism-Heart
-danger_level: 8
-status: active
-type: Location
+status: complete
 tags:
-- active
-- aquabyssos
-- both
-- crystal
-- location
+- content/location
 - palace
 - royal
+- status/in-progress
+- world/aethermoor
+- world/aquabyssos
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.176483'
+world: Both
 ---
 
 

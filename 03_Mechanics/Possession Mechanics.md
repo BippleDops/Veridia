@@ -1,14 +1,14 @@
 ---
-updated: '2025-08-13T01:18:37.104346+00:00'
-created: 2025-08-11
-tags:
-- aethermoor
-- complete
-- mechanic
-status: complete
-world: Aethermoor
-type: mechanic
+created: '2025-08-11'
 obsidianUIMode: preview
+status: complete
+tags:
+- content/mechanics
+- status/complete
+- world/aethermoor
+type: Mechanics
+updated: '2025-08-12T23:37:41.090121'
+world: Aethermoor
 ---
 
 

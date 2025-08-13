@@ -1,29 +1,29 @@
 ---
+created: '2025-08-11'
+created_by: auto-stub
+danger_level: Moderate
+difficulty: Moderate to Hard
+duration: 4-6 sessions
+level_range: 4-9
+party_size: 3-6 characters
+primary_location: Port Meridian and Noble Quarter
+quest_type: Social Intrigue/Heist Adventure
+status: complete
 tags:
-- aethermoor
+- access/secret
 - blackmail
-- complete
+- content/adventure
+- content/location
 - documents
 - espionage
 - intrigue
-- location
+- mechanics/social
 - political-corruption
-- quest
-- secrets
-- social
-status: complete
-world: Aethermoor
+- status/complete
+- world/aethermoor
 type: Location
-created_by: auto-stub
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.296840+00:00'
-quest_type: Social Intrigue/Heist Adventure
-level_range: 4-9
-party_size: 3-6 characters
-duration: 4-6 sessions
-difficulty: Moderate to Hard
-primary_location: Port Meridian and Noble Quarter
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.109955'
+world: Aethermoor
 ---
 
 

@@ -1,18 +1,18 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+status: complete
 tags:
-- aethermoor
-- complete
-- government
-- location
+- content/faction
+- content/location
 - palace
 - royal
-status: complete
-world: Aethermoor
+- status/complete
+- world/aethermoor
 type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.250435'
+world: Aethermoor
 ---
 
 > [!figure] View

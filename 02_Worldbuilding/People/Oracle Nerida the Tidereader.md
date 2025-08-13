@@ -1,27 +1,25 @@
 ---
-tags:
-- aquabyssos
-- complete
-- divination
-- mystical-advisor
-- npc
-- oracle
-- person
-- sea-touched
-status: complete
-world: Aquabyssos
-type: NPC
-role: Oracle & Divination Specialist
 affiliation: Independent (Serves All Seekers)
 age: 67 (appears timeless)
-race: Human (Sea-Touched)
-location: '[[The Tidal Sanctum]] - Orbital Shrine'
-class: Divination Wizard/Sea Domain Cleric
-level: 15
 alignment: Neutral
+class: Divination Wizard/Sea Domain Cleric
+created: '2025-08-09'
 created_by: Claude
-created: 2025-08-09
-updated: 2025-08-11
+level: 15
+location: '[[The Tidal Sanctum]] - Orbital Shrine'
+race: Human (Sea-Touched)
+role: Oracle & Divination Specialist
+status: complete
+tags:
+- content/npc
+- divination
+- mechanics/magic
+- oracle
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.913171'
+world: Aquabyssos
 ---
 
 

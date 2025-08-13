@@ -1,30 +1,28 @@
 ---
+complexity_level: 9
+created: '2025-08-08'
+created_by: auto-stub
+primary_users: Master Investigators, Temporal Researchers, Conspiracy Analysts
+scope: Multiversal - tracking conspiracy development across both worlds and time
+status: complete
+system_type: Chronological Investigation Framework
 tags:
-- aquabyssos-aethermoor
-- both worlds
-- both-worlds
+- access/secret
 - chronological-crimes
-- complete
 - conspiracy
 - conspiracy-development
-- criminal-patterns
-- hidden-history
+- content/faction
+- content/lore
+- content/template
 - historical-analysis
-- investigation-framework
-- lore
-- secret-operations
+- status/complete
 - timeline
-status: complete
-world: Both Worlds
-type: Lore
-system_type: Chronological Investigation Framework
-scope: Multiversal - tracking conspiracy development across both worlds and time
-complexity_level: 9
+- world/aethermoor
+- world/both
 timeline_span: From pre-history to current events, approximately 3,000+ years
-primary_users: Master Investigators, Temporal Researchers, Conspiracy Analysts
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.533787+00:00'
+type: Lore
+updated: '2025-08-12T23:37:39.206889'
+world: Both Worlds
 ---
 
 

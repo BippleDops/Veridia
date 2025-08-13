@@ -1,18 +1,18 @@
 ---
-tags:
-- aethermoor
-- citizens
-- complete
-- emergency-response
-- lore
-- quest
-- rescue-mission
-status: complete
-world: Aethermoor
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+status: complete
+tags:
+- campaign/objective
+- citizens
+- content/adventure
+- content/lore
+- emergency-response
+- status/complete
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:38.322707'
+world: Aethermoor
 ---
 
 

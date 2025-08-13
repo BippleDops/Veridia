@@ -1,28 +1,25 @@
 ---
+MyCategory: Group
+MyContainer: None
+alignment: Lawful Neutral
+category: Military Organization
+created: '2025-08-08'
+created_by: auto-stub
+influence: High in Deep Ocean Territories
+obsidianUIMode: preview
+size: Elite Unit (50-100 members)
+status: complete
 tags:
-- aquabyssos
-- complete
-- deep-sea
-- depth-wardens
+- content/faction
+- content/npc
 - elite
-- faction
-- group
 - guardians
 - military
-- npc
-status: complete
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.807834'
 world: Aquabyssos
-type: NPC
-category: Military Organization
-size: Elite Unit (50-100 members)
-alignment: Lawful Neutral
-influence: High in Deep Ocean Territories
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.851410+00:00'
-MyContainer: None
-MyCategory: Group
-obsidianUIMode: preview
 ---
 
 

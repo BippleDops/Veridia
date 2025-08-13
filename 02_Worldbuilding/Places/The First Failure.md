@@ -1,56 +1,56 @@
 ---
-tags:
-- aquabyssos
-- both
-- complete
-- historical
-- location
-- magical
-- ruins
-- tragedy
-location_name: The First Failure - Prototype Salvation Site
-location_type: Ruined Magical Laboratory
-parent_location: '[[Abyssos Prime]]'
-sub_locations:
-- '[[The Shattered Summoning Circle]]'
-- '[[Memorial Wall of Names]]'
-- '[[The Preservation Chamber]]'
-- '[[Library of Lost Solutions]]'
-- '[[The Guilt Garden]]'
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-12'
+current_state: Preserved memorial and research site
+danger_level: 6
 depth: 2800-3100 feet
-population: 12
-government: Memorial Custodianship
-ruler: '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth]]'
+discovered: true
 factions:
 - '[[The Penitent Order]]'
 - '[[Solution Seekers]]'
 - '[[Memorial Guardians]]'
-danger_level: 6
-visited: false
-discovered: true
+government: Memorial Custodianship
+location_name: The First Failure - Prototype Salvation Site
+location_type: Ruined Magical Laboratory
+notable_npcs:
+- '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth]]'
+- '[[Archivist Elena Sorrowkeeper]]'
+- '[[Ghost of Dr. Thaddeus Brightwater]]'
+- '[[Memorial Tender Sarah]]'
+obsidianUIMode: preview
+parent_location: '[[Abyssos Prime]]'
+population: 12
+pressure_effects: Moderate
+ruler: '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth]]'
 services:
 - Historical Research
 - Magical Failure Analysis
 - Guilt Counseling
 - Memorial Services
 - Experimental Records Access
-notable_npcs:
-- '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth]]'
-- '[[Archivist Elena Sorrowkeeper]]'
-- '[[Ghost of Dr. Thaddeus Brightwater]]'
-- '[[Memorial Tender Sarah]]'
-current_state: Preserved memorial and research site
-temporal_stability: 70
 shadow_density: Moderate
-pressure_effects: Moderate
 status: complete
-created: 2025-08-12
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-world: Both
-updated: 2025-08-12
+sub_locations:
+- '[[The Shattered Summoning Circle]]'
+- '[[Memorial Wall of Names]]'
+- '[[The Preservation Chamber]]'
+- '[[Library of Lost Solutions]]'
+- '[[The Guilt Garden]]'
+tags:
+- content/location
+- historical
+- mechanics/magic
+- ruins
+- status/complete
+- tragedy
+- world/aquabyssos
+- world/both
+temporal_stability: 70
 type: Location
+updated: '2025-08-12T23:37:39.862745'
+visited: false
+world: Both
 ---
 
 

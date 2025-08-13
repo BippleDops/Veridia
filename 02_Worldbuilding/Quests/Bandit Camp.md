@@ -1,28 +1,6 @@
 ---
-tags:
-- aquabyssos
-- bandits
-- combat
-- complete
-- investigation
-- lore
-- quest
-- social
-- trade-routes
-quest_status: Active
-quest_priority: High
-quest_type: Main Quest
-world: Aquabyssos
-region: The Windlass Islands
-level_range: 2-4
-duration: 3-5 sessions
-difficulty: Medium
-themes:
-- justice
-- redemption
-- economic warfare
-- social inequality
-- moral ambiguity
+MyCategory: Unknown
+MyContainer: None
 connected_factions:
 - The Merchant's Consortium
 - Windlass Brigands
@@ -37,19 +15,41 @@ connected_npcs:
 - Captain 'Redbeard' Torrino
 - Merchant Lord Cassius Goldtide
 - Fisherman's Daughter Mira
+created: '2025-08-08'
+difficulty: Medium
+duration: 3-5 sessions
+last_modified: 2025-08-10 - Category/Quest
+level_range: 2-4
+obsidianUIMode: preview
+quest_priority: High
+quest_status: Active
+quest_type: Main Quest
+region: The Windlass Islands
 rewards:
 - Brigand's Map
 - Merchant Favor
 - Trading Post Shares
 - Navigation Rights
 status: complete
-created: 2025-08-08
-last_modified: 2025-08-10 - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:34.502353+00:00'
+tags:
+- bandits
+- content/adventure
+- content/lore
+- mechanics/combat
+- mechanics/exploration
+- mechanics/social
+- status/complete
+- trade-routes
+- world/aquabyssos
+themes:
+- justice
+- redemption
+- economic warfare
+- social inequality
+- moral ambiguity
 type: Lore
+updated: '2025-08-12T23:37:37.794498'
+world: Aquabyssos
 ---
 
 

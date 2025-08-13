@@ -1,24 +1,23 @@
 ---
+category: Individual Character
+created: '2025-08-08'
+created_by: auto-stub
+significance: Human Representative
+status: complete
 tags:
-- both
-- both-worlds
-- complete
+- content/lore
 - desperation
 - human-cost
 - individual-story
-- lore
 - plague-victim
 - reality-sickness
 - shadow-corruption
+- status/complete
 - transformation-trauma
-status: complete
-world: Both
+- world/both
 type: Lore
-category: Individual Character
-significance: Human Representative
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:39.224688'
+world: Both
 ---
 
 

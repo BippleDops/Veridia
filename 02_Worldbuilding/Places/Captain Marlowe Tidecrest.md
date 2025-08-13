@@ -1,23 +1,23 @@
 ---
+MyCategory: Maritime Facility
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/location
 - harbor
-- location
 - marina
 - maritime
 - naval-operations
 - shipping
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
-MyCategory: Maritime Facility
-obsidianUIMode: preview
-updated: 2025-08-12
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.418425'
+world: Aquabyssos
 ---
 
 > [!figure] View

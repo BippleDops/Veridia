@@ -1,18 +1,18 @@
 ---
-world: Both
-updated: '2025-08-13T01:18:35.273525+00:00'
-created: 2025-08-12
+created: '2025-08-12'
 status: complete
 tags:
-- both
-- complete
+- content/lore
 - economy
-- lore
 - merchant-princes
 - politics
 - sanctions
+- status/complete
 - warfare
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:38.841546'
+world: Both
 ---
 
 

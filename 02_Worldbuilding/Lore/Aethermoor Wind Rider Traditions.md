@@ -1,18 +1,16 @@
 ---
-tags:
-- aerial-customs
-- aethermoor
-- complete
-- culture
-- lore
-- tradition
-- wind-riders
-status: complete
-world: Aethermoor
-type: Lore
+created: '2025-08-11'
 created_by: cultural-expansion
-created: 2025-08-11
-updated: 2025-08-11
+status: complete
+tags:
+- content/lore
+- culture
+- status/complete
+- tradition
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:39.121841'
+world: Aethermoor
 ---
 
 

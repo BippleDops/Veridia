@@ -1,66 +1,66 @@
 ---
-tags:
-- active
-- aquabyssos
-- identity-horror
-- lore
-- parliament-shadows
-- session
-session: Session 03 Aquabyssos
-session_number: 3
-title: The Gallery Conspiracy
-date: null
-type: Lore
-players: []
+MyCategory: Unknown
+MyContainer: None
 absent: []
+ap_gained: 3
 campaign: The Parliament of Shadows
-primary_location: '[[Gallery of Frozen Waves]]'
+created: '2025-08-11'
+date: null
 depth: 1600
-locations_visited:
-- '[[Gallery of Frozen Waves]]'
-- '[[02_Worldbuilding/Places/Screaming Gardens]]'
-- '[[02_Worldbuilding/Places/The Memory Meadows]]'
-- '[[Reflection Pools]]'
-npcs_met:
-- '[[The Conductor]]'
-- '[[Memory Farmer Thane]]'
-- '[[Reflection Broker Mirrors]]'
-- '[[Shadow Surgeon Apprentice]]'
+duration_hours: 4
 encounters:
 - '[[Memory Farmers Combat]]'
 - '[[Screaming Tree Guardians]]'
 - '[[Shadow Surgeon Strike Team]]'
-quests_started:
-- '[[Rescue Senator Glaucus]]'
-- '[[Investigate Shadow Surgeons]]'
-quests_progressed:
-- '[[Investigate Shadow Conspiracy]]'
-- '[[Discover Shadow Market Location]]'
-quests_completed: []
+gold_gained: 600
 items_gained:
 - Memory Vault Key
 - Conductor's Tuning Fork
 - Reflection Mirror Shard
 - Surgical Schedule
-gold_gained: 600
-xp_awarded: 1100
+locations_visited:
+- '[[Gallery of Frozen Waves]]'
+- '[[02_Worldbuilding/Places/Screaming Gardens]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows]]'
+- '[[Reflection Pools]]'
+memory_exposure: true
+npcs_met:
+- '[[The Conductor]]'
+- '[[Memory Farmer Thane]]'
+- '[[Reflection Broker Mirrors]]'
+- '[[Shadow Surgeon Apprentice]]'
+obsidianUIMode: preview
+players: []
 plot_threads:
 - Party member replaced by reflection
 - Shadow surgeons in Reflection Pools
 - High tide brings mass replacement
 - Real Senator Glaucus imprisoned
 - Shadow Duchess Nyx arriving
-duration_hours: 4
-ap_gained: 3
+primary_location: '[[Gallery of Frozen Waves]]'
+quests_completed: []
+quests_progressed:
+- '[[Investigate Shadow Conspiracy]]'
+- '[[Discover Shadow Market Location]]'
+quests_started:
+- '[[Rescue Senator Glaucus]]'
+- '[[Investigate Shadow Surgeons]]'
+session: Session 03 Aquabyssos
+session_number: 3
 shadow_level_change: 1
-memory_exposure: true
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+status: complete
+tags:
+- campaign/session
+- content/lore
+- identity-horror
+- parliament-shadows
+- status/in-progress
+- world/aquabyssos
+title: The Gallery Conspiracy
+type: Lore
+updated: '2025-08-12T23:37:41.169769'
 world: Aquabyssos
-updated: '2025-08-13T01:18:37.169752+00:00'
-created: 2025-08-11
-status: active
+xp_awarded: 1100
 ---
 
 

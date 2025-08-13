@@ -1,23 +1,23 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+duration: 2-3 sessions
+level: 10-14
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/adventure
+- content/lore
 - environmental-horror
 - infiltration
-- lore
 - mystery
-- quest
 - sabotage
+- status/complete
 - the-lock
-status: complete
-world: Aquabyssos
-type: Lore
-level: 10-14
-duration: 2-3 sessions
+- world/aquabyssos
 threat_level: extreme
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.503279+00:00'
+type: Lore
+updated: '2025-08-12T23:37:37.795563'
+world: Aquabyssos
 ---
 
 

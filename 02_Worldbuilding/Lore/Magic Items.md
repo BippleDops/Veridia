@@ -1,29 +1,24 @@
 ---
-tags:
-- aethermoor
-- aquabyssos
-- artifacts
-- both worlds
-- both-worlds
-- complete
-- cross-realm-items
-- enchanted-equipment
-- lore
-- magic-items
-- magical-crafting
-- surface-magic
-- underwater-magic
-status: complete
-world: Both Worlds
-type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.534224+00:00'
-item_categories: Comprehensive Catalog
-scope: Both Worlds
 application: Adventure Equipment
 crafting_traditions: Multiple Cultures
+created: '2025-08-08'
+created_by: auto-stub
+item_categories: Comprehensive Catalog
 magical_schools: All Schools
+scope: Both Worlds
+status: complete
+tags:
+- content/item
+- content/lore
+- mechanics/magic
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
+- world/surface
+type: Lore
+updated: '2025-08-12T23:37:37.836401'
+world: Both Worlds
 ---
 
 

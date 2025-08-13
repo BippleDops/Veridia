@@ -1,26 +1,25 @@
 ---
-tags:
-- aquabyssos
-- complete
-- espionage
-- faction
-- group
-- information-brokers
-- mirrors
-- reflection-magic
-status: complete
-world: Aquabyssos
-type: Group
-faction_type: Information Syndicate
 alignment: True Neutral
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Information Syndicate
 headquarters: '[[The Reflection Chamber]] (Hidden)'
+influence: Extensive (Information Networks)
 leader: '[[The Prime Reflection]]'
 members: ~200 brokers, spies, and mirror-touched
-influence: Extensive (Information Networks)
 purpose: Control information through reflection magic
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.743175+00:00'
+status: complete
+tags:
+- content/faction
+- espionage
+- information-brokers
+- mechanics/magic
+- mirrors
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.683138'
+world: Aquabyssos
 ---
 
 

@@ -1,19 +1,19 @@
 ---
-tags:
-- aquabyssos
-- chef
-- complete
-- culinary-arts
-- location
-- npc
-- prestigious
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.517503+00:00'
 danger_level: Moderate
+status: complete
+tags:
+- chef
+- content/location
+- content/npc
+- culinary-arts
+- prestigious
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.419661'
+world: Aquabyssos
 ---
 
 

@@ -1,25 +1,25 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-12'
+danger_level: High (Mental)
+depth_range: 500-2000 feet
+government: The Cognition Collective
+obsidianUIMode: preview
+population: ~500000
+status: complete
 tags:
-- active
-- aquabyssos
-- both
-- continent
+- content/location
 - horror
 - knowledge
-- location
 - scholars
-depth_range: 500-2000 feet
-population: ~500000
-government: The Cognition Collective
-danger_level: High (Mental)
-created: 2025-08-12
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-world: Both
-updated: '2025-08-13T01:18:36.192299+00:00'
-status: active
+- status/in-progress
+- world/aquabyssos
+- world/both
+- world/surface
 type: Location
+updated: '2025-08-12T23:37:39.999379'
+world: Both
 ---
 
 

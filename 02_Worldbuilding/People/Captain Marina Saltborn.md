@@ -1,23 +1,21 @@
 ---
-tags:
-- aquabyssos
-- captain
-- complete
-- naval-officer
-- npc
-- person
-- depth-touched
-status: complete
-world: Aquabyssos
-type: NPC
-role: Naval Captain and Depth Explorer
 affiliation: '[[The Depth Wardens]]'
 age: '34'
-race: Human (Depth-Touched)
-location: '[[The Hadal Depths]] - Mobile Command'
+created: '2025-08-11'
 created_by: auto-stub
-created: 2025-08-11
-updated: 2025-08-11
+location: '[[The Hadal Depths]] - Mobile Command'
+race: Human (Depth-Touched)
+role: Naval Captain and Depth Explorer
+status: complete
+tags:
+- captain
+- content/npc
+- naval-officer
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.862952'
+world: Aquabyssos
 ---
 
 > [!figure] Portrait

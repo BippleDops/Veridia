@@ -1,20 +1,20 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+expanded: 2025-08-10
+status: complete
 tags:
-- aethermoor
-- complete
-- lore
-- magic-systems
+- content/lore
+- content/mechanics
+- mechanics/magic
 - redirections
 - rituals
-- spells
+- status/complete
 - techniques
-status: complete
-world: Aethermoor
+- world/aethermoor
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-expanded: 2025-08-10
-updated: 2025-08-11
+updated: '2025-08-12T23:37:39.478672'
+world: Aethermoor
 ---
 
 

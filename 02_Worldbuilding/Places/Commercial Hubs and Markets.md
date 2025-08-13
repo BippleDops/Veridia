@@ -1,17 +1,17 @@
 ---
-world: Both
-updated: 2025-08-12
-created: 2025-08-12
+created: '2025-08-12'
 status: complete
 tags:
-- both
-- complete
+- content/location
 - economy
-- trade-hubs
 - markets
 - merchant-princes
-- places
-type: Places
+- status/complete
+- trade-hubs
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.449700'
+world: Both
 ---
 
 > [!figure] Market Plaza

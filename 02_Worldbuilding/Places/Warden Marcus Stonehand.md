@@ -1,23 +1,23 @@
 ---
+MyCategory: NPC
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
-- location
-- marcus
-- npc
+- campaign/arc
+- content/location
+- content/npc
 - prison
+- status/complete
 - stonehand
 - warden
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.124884+00:00'
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.939379'
+world: Aquabyssos
 ---
 
 

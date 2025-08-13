@@ -1,24 +1,24 @@
 ---
-tags:
-- active
-- adventure-module
-- aethermoor
-- levels-4-6
-- political-intrigue
-- winds-of-rebellion
 adventure_level: 4-6
 adventure_type: Political Intrigue & Social Combat
-world: Aethermoor
+created: '2025-08-11'
 estimated_sessions: '6'
+status: complete
+tags:
+- content/adventure
+- levels-4-6
+- political-intrigue
+- status/in-progress
+- world/aethermoor
 themes:
 - political-conspiracy
 - aerial-combat
 - court-intrigue
 - factional-warfare
 - wind-rider-traditions
-created: 2025-08-11
-updated: '2025-08-13T01:18:37.155299+00:00'
-status: active
+type: Adventure
+updated: '2025-08-12T23:37:41.154126'
+world: Aethermoor
 ---
 
 

@@ -1,22 +1,5 @@
 ---
-updated: '2025-08-13T01:18:37.036563+00:00'
-created: 2025-08-11
-tags:
-- aquabyssos
-- category/people
-- complete
-- npc
-status: complete
-world: Aquabyssos
-type: npc
-obsidianUIMode: preview
-char_status: Alive
-char_race: Human
-char_gender: Unknown
-char_age: Adult
 accessibility:
-  screen_reader_summary: Crown Dome Conspiracy is an NPC entangled with faction politics
-    and memory economies. Contains hooks, tactics, and relationships.
   content_warnings:
   - coercion
   - memory manipulation
@@ -25,6 +8,22 @@ accessibility:
   - Lines & Veils
   - X-Card
   - Open Door
+  screen_reader_summary: Crown Dome Conspiracy is an NPC entangled with faction politics
+    and memory economies. Contains hooks, tactics, and relationships.
+char_age: Adult
+char_gender: Unknown
+char_race: Human
+char_status: Alive
+created: '2025-08-11'
+obsidianUIMode: preview
+status: complete
+tags:
+- content/npc
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:41.053502'
+world: Aquabyssos
 ---
 
 

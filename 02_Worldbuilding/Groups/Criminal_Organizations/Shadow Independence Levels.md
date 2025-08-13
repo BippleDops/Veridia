@@ -1,43 +1,39 @@
 ---
-tags:
-- aquabyssos
-- aquabyssos/shadow
-- aquabyssos/society
-- category/group
-- complete
-- faction
-- group
-status: complete
-world: Aquabyssos
-type: Group
-created_by: expansion
-created: 2025-08-11
-MyContainer: '[[The Shadowmere|The Shadowmere]]'
 MyCategory: Shadow Autonomy Movement
-obsidianUIMode: preview
-leader: Council of Autonomous Shadows
-officers:
-- Elder Whisper-In-The-Dark
-- The Shadow Singer Naia
-- Marcus 'The Shade' Blackwood
-members:
-- Shadow-touched Citizens
-- Voluntary Shadow Converts
-- Shadow Realm Refugees
+MyContainer: '[[The Shadowmere|The Shadowmere]]'
+benefits:
+- reward: Shadow realm navigation training and basic integration support
+  standing: 1
+- reward: Advanced shadow abilities development and community protection
+  standing: 2
+- reward: Council membership consideration and shadow realm territory rights
+  standing: 3
+created: '2025-08-11'
+created_by: expansion
+faction: Shadow Autonomy Movement
 initiates:
 - New Shadow-Touched
 - Shadow Integration Candidates
 - Transition Monitors
-faction: Shadow Autonomy Movement
+leader: Council of Autonomous Shadows
+members:
+- Shadow-touched Citizens
+- Voluntary Shadow Converts
+- Shadow Realm Refugees
+obsidianUIMode: preview
+officers:
+- Elder Whisper-In-The-Dark
+- The Shadow Singer Naia
+- Marcus 'The Shade' Blackwood
 primary_contact: Elder Whisper-In-The-Dark
-benefits:
-- standing: 1
-  reward: Shadow realm navigation training and basic integration support
-- standing: 2
-  reward: Advanced shadow abilities development and community protection
-- standing: 3
-  reward: Council membership consideration and shadow realm territory rights
-updated: '2025-08-13T01:18:36.730980+00:00'
+status: complete
+tags:
+- content/faction
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.670375'
+world: Aquabyssos
 ---
 
 

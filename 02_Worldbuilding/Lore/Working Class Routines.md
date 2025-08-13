@@ -1,21 +1,19 @@
 ---
+created: '2025-08-12'
+created_by: claude
+status: complete
 tags:
-- both
-- both-realms
-- complete
 - culture
 - daily-life
 - labor
+- mechanics/social
 - routine
-- social guide
-- social-guide
+- status/complete
 - working-class
-status: complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:38.908519'
 world: Both
-type: Social Guide
-created_by: claude
-created: 2025-08-12
-updated: '2025-08-13T04:22:13.903844+00:00'
 ---
 
 

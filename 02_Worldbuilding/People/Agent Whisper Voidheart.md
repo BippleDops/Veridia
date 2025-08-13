@@ -1,18 +1,24 @@
 ---
-tags: [aquabyssos, shadow-conspiracy, npc, operative, infiltration, complete]
-type: NPC
-world: Aquabyssos
-status: complete
-race: Human (Shadow-Enhanced)
-class: Rogue/Warlock
-level: 11
 alignment: Lawful Evil
-faction: '[[02_Worldbuilding/Groups/The Shadow Conspiracy Hierarchy]]'
-location: '[[02_Worldbuilding/Places/Crystallium]]'
-hierarchy_rank: Shadow Agent (6th Sphere)
-specialization: Government Infiltration
+class: Rogue/Warlock
 created: '2025-08-12'
-updated: '2025-08-12'
+faction: '[[02_Worldbuilding/Groups/The Shadow Conspiracy Hierarchy]]'
+hierarchy_rank: Shadow Agent (6th Sphere)
+level: 11
+location: '[[02_Worldbuilding/Places/Crystallium]]'
+race: Human (Shadow-Enhanced)
+specialization: Government Infiltration
+status: complete
+tags:
+- content/npc
+- infiltration
+- operative
+- shadow-conspiracy
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.817442'
+world: Aquabyssos
 ---
 
 > [!figure] Portrait

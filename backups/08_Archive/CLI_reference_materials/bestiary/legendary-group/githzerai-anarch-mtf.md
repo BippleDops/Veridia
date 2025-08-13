@@ -1,0 +1,63 @@
+---
+aliases:
+- Githzerai Anarch
+created: 2025-07-23
+cssclasses: json5e-note
+modified: 2025-07-23 12:39
+obsidianUIMode: preview
+status: active
+tags:
+- content/faction
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/mtf
+- world/both
+type: note
+updated: '2025-08-12T23:37:35.675470'
+world: Both
+---
+
+
+> [!figure] Creature
+![](04_Resources/Assets/Creatures/creature-creature-githzerai-anarch-mtf-githzerai-anarch-mtf.svg)
+
+# Githzerai Anarch
+
+## Lair actions
+_Source: Mordenkainen's Tome of Foes_
+
+An anarch can use lair actions. On initiative count 20 (losing initiative ties), the anarch can take a lair action to cause one of the following effects; the anarch can't use the same effect two rounds in a row:
+
+- The anarch casts the [lightning bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md) spell (at 5th level), but the anarch can change the damage type from lightning to cold, fire, psychic, radiant, or thunder. If the spell deals damage other than fire or lightning, it doesn't ignite flammable objects.  
+- The anarch casts the [creation](/03_Mechanics/CLI/spells/creation-xphb.md) spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch's [concentration](/03_Mechanics/CLI/conditions.md#Concentration) is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, its [concentration](/03_Mechanics/CLI/conditions.md#Concentration) breaks.  
+- The anarch can magically move an object it can see within 150 feet of it by making a Wisdom check with advantage. The DC depends on the object's size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium, DC 20 for Large, and DC 25 for Huge or larger.  
+
+## Regional effects
+_Source: Mordenkainen's Tome of Foes_
+
+The region containing an anarch's lair is warped by its presence, which creates one or more of the following effects:
+
+- In Limbo, the anarch can spend 10 minutes stabilizing a 5-mile area centered on it, causing the unformed substance to take whatever inanimate form the anarch chooses. During that process, the anarch determines the shape and composition of the forms created.  
+- The anarch stabilizes any object created in Limbo and brought to the Material Plane for as long as the anarch remains within 1 mile of it (no action required).  
+
+If the anarch dies, these effects end after `d6` rounds. All formed substance becomes a chaotic churn of energy and matter, unraveling into unformed substance that dissipates `d6` rounds later.
+
+## Player-Facing Summary
+
+Githzerai anarch mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of githzerai anarch mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around githzerai anarch mtf.
+
+## Adventure Hooks
+
+- A rumor ties githzerai anarch mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at githzerai anarch mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to githzerai anarch mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

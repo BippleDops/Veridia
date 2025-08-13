@@ -1,24 +1,24 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: 2025-08-08 - Category/Place
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
 - artificer
-- complete
+- content/location
+- content/npc
 - engineering
 - innovation
-- location
 - merchant
-- npc
+- status/complete
 - technology
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-08 - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-updated: 2025-08-11
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.079929'
+world: Aquabyssos
 ---
 
 

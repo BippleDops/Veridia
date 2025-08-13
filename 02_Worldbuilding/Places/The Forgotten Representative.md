@@ -1,23 +1,23 @@
 ---
+MyCategory: NPC
+MyContainer: None
+created: 2025-08-08 - Category/People
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/location
+- content/npc
 - forgotten
-- location
 - mystery
-- npc
 - political
 - representative
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-08 - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:35.962310+00:00'
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.736715'
+world: Aquabyssos
 ---
 
 

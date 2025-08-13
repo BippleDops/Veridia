@@ -1,34 +1,31 @@
 ---
+active_period: Throughout recorded history, culminating in current events
+conspiracy_type: Ultimate Reality Manipulation Conspiracy
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: 10
+primary_agents: The Convergence Council, Deep Mother Cultists, Shadow Surgeons, Ancient
+  Powers
+scope: Multiversal - affecting the fundamental nature of reality across both worlds
+status: complete
 tags:
-- aethermoor-aquabyssos
-- both worlds
-- both-worlds
-- complete
+- access/secret
 - conspiracy
-- crystallization
+- content/lore
 - culmination
 - deep-mother
 - divine-intervention
 - final-revelation
-- hidden-truth
-- lore
 - reality-alteration
-- secret-knowledge
 - shadow-surgeons
+- status/complete
 - ultimate-choice
 - world-changing
-status: complete
-world: Both Worlds
+- world/aethermoor
+- world/both
 type: Lore
-conspiracy_type: Ultimate Reality Manipulation Conspiracy
-scope: Multiversal - affecting the fundamental nature of reality across both worlds
-danger_level: 10
-active_period: Throughout recorded history, culminating in current events
-primary_agents: The Convergence Council, Deep Mother Cultists, Shadow Surgeons, Ancient
-  Powers
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.861373+00:00'
+updated: '2025-08-12T23:37:38.279953'
+world: Both Worlds
 ---
 
 

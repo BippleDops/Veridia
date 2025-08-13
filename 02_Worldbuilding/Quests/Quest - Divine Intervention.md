@@ -1,27 +1,27 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
+estimated_sessions: 6-8
+level_range: 10-15
+obsidianUIMode: preview
+quest_type: Divine/Cosmic Campaign Arc
+status: complete
 tags:
-- aethermoor
-- complete
+- content/adventure
+- content/lore
 - cosmic-horror
 - deep-mother
 - divine
 - epic
 - gods
 - level-10-15
-- lore
-- quest
-status: complete
-world: Aethermoor
+- status/complete
+- world/aethermoor
 type: Lore
-level_range: 10-15
-quest_type: Divine/Cosmic Campaign Arc
-estimated_sessions: 6-8
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.470437+00:00'
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:37.754780'
+world: Aethermoor
 ---
 
 

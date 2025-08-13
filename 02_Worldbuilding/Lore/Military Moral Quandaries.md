@@ -1,17 +1,17 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- active
-- aquabyssos
-- lore
+- content/lore
 - military-ethics
 - moral-dilemmas
 - shadow-corruption
+- status/in-progress
 - warfare
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:38.918162'
 world: Aquabyssos
-status: active
-created: 2025-08-12
-updated: '2025-08-13T01:18:35.329174+00:00'
 ---
 
 

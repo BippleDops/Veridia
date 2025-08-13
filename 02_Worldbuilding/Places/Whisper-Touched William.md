@@ -1,57 +1,57 @@
 ---
-tags:
-- aquabyssos
-- both
-- complete
-- location
-- madness
-- oracle
-- shrine
-- whispers
-location_name: Whisper-Touched William's Oracle Shrine
-location_type: Prophetic Shrine Complex
-parent_location: '[[Abyssos Prime]]'
-sub_locations:
-- '[[02_Worldbuilding/Lore/NPC ]]'
-- '[[Gallery of Echoing Truths]]'
-- '[[The Silence Garden]]'
-- '[[Prophecy Translation Center]]'
-- '[[William''s Living Quarters]]'
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
+current_state: Active oracle shrine
+danger_level: 5
 depth: 2400-2600 feet
-population: 25
-government: Oracular Authority
-ruler: '[[02_Worldbuilding/People/Whisper-Touched William]]'
+discovered: true
 factions:
 - '[[The Voice Interpreters]]'
 - '[[Silence Seekers]]'
 - '[[Truth Hunters]]'
 - '[[The Whisper Touched]]'
-danger_level: 5
-visited: false
-discovered: true
+government: Oracular Authority
+location_name: Whisper-Touched William's Oracle Shrine
+location_type: Prophetic Shrine Complex
+notable_npcs:
+- '[[02_Worldbuilding/People/Whisper-Touched William]]'
+- '[[Echo-Translator Vera]]'
+- '[[Silent Guardian Marcus]]'
+- '[[Truth-Seeker Cornelius]]'
+obsidianUIMode: preview
+parent_location: '[[Abyssos Prime]]'
+population: 25
+pressure_effects: Moderate
+ruler: '[[02_Worldbuilding/People/Whisper-Touched William]]'
 services:
 - Prophetic Consultation
 - Whisper Translation
 - Future Glimpse Sessions
 - Truth Seeking Guidance
 - Madness Counseling
-notable_npcs:
-- '[[02_Worldbuilding/People/Whisper-Touched William]]'
-- '[[Echo-Translator Vera]]'
-- '[[Silent Guardian Marcus]]'
-- '[[Truth-Seeker Cornelius]]'
-current_state: Active oracle shrine
-temporal_stability: 40
 shadow_density: Low
-pressure_effects: Moderate
 status: complete
-created: 2025-08-11
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-world: Both
-updated: 2025-08-11
+sub_locations:
+- '[[02_Worldbuilding/Lore/NPC ]]'
+- '[[Gallery of Echoing Truths]]'
+- '[[The Silence Garden]]'
+- '[[Prophecy Translation Center]]'
+- '[[William''s Living Quarters]]'
+tags:
+- content/location
+- madness
+- oracle
+- shrine
+- status/complete
+- whispers
+- world/aquabyssos
+- world/both
+temporal_stability: 40
 type: Location
+updated: '2025-08-12T23:37:39.868638'
+visited: false
+world: Both
 ---
 
 

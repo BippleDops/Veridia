@@ -1,28 +1,26 @@
 ---
+MyCategory: Research Laboratory
+MyContainer: None
+category: Bio-Research Facility
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Extreme
+depth: 3,000+ feet
+difficulty: Levels 8-15
+obsidianUIMode: preview
+owner: Aboleth Consortium
+status: complete
 tags:
 - aboleth
 - alien-intelligence
-- aquabyssos
 - bio-laboratory
-- complete
+- content/location
 - dangerous
-- deep-sea
-- location
-- research
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-category: Bio-Research Facility
-depth: 3,000+ feet
-difficulty: Levels 8-15
-owner: Aboleth Consortium
-danger_level: Extreme
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Research Laboratory
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:40.427839'
+world: Aquabyssos
 ---
 
 

@@ -1,18 +1,18 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- aquabyssos
 - brotherhood
-- command-structure
-- complete
-- lore
+- content/lore
+- content/template
 - military
 - relationships
+- status/complete
 - warfare
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:38.301374'
 world: Aquabyssos
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:34.876301+00:00'
 ---
 
 

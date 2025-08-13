@@ -3,33 +3,14 @@ aliases:
 - The Great Sundering
 - The Magical Cataclysm
 - The Breaking of Aethel
-tags:
-- aethel-shattered-isles
-- both
-- cataclysm
-- complete
-- historical-event
-- historical-events
-- history
-- lore
-- magical-disaster
-- magocracy
-- timeline
-- world-changing-event
-type: Lore
 category: Magical Cataclysm
-significance: World-Shaping Disaster
-time_period: Year 847 BCE (Before Current Era)
+created: '2025-08-11'
 duration: Instantaneous Event with Centuries of Consequences
-scale: Continental Transformation
+outcome: Shattering of Continent, Formation of Shattered Isles
 participants:
 - The Arcanum Supreme
 - Nine High Magisters
 - Continental Population
-outcome: Shattering of Continent, Formation of Shattered Isles
-status: complete
-created: 2025-08-11
-updated: 2025-08-11
 related_entities:
 - '[[The Shattered Isles]]'
 - '[[The Arcanum Supreme]]'
@@ -38,6 +19,24 @@ related_entities:
 - '[[The Sunken Cities]]'
 - '[[The Great Crystallization]]'
 - '[[Aethermoor]]'
+scale: Continental Transformation
+significance: World-Shaping Disaster
+status: complete
+tags:
+- aethel-shattered-isles
+- cataclysm
+- content/lore
+- historical-event
+- historical-events
+- magocracy
+- mechanics/magic
+- status/complete
+- timeline
+- world-changing-event
+- world/both
+time_period: Year 847 BCE (Before Current Era)
+type: Lore
+updated: '2025-08-12T23:37:38.640694'
 world: Both
 ---
 

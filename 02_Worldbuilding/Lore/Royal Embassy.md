@@ -1,20 +1,20 @@
 ---
-tags:
-- aethermoor
-- architecture
-- complete
-- diplomacy
-- embassies
-- government
-- lore
-- politics
-status: complete
-world: Aethermoor
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
 expanded: 2025-08-10
-updated: 2025-08-11
+status: complete
+tags:
+- campaign/arc
+- content/faction
+- content/lore
+- embassies
+- mechanics/social
+- politics
+- status/complete
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:37.917189'
+world: Aethermoor
 ---
 
 

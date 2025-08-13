@@ -1,19 +1,18 @@
 ---
+campaign: Aquabyssos
+created: '2025-08-07'
+status: draft
 tags:
-- both
-- draft
+- content/lore
+- content/npc
 - gm-resource
-- lore
-- npc-guide
-- npcs
 - quick-reference
 - roleplay
+- status/draft
+- world/both
 type: Lore
-campaign: Aquabyssos
-created: 2025-08-07
+updated: '2025-08-12T23:37:33.022669'
 world: Both
-updated: '2025-08-13T01:18:31.116177+00:00'
-status: draft
 ---
 
 

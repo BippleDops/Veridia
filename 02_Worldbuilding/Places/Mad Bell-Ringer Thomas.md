@@ -1,34 +1,33 @@
 ---
-tags:
-- acoustic
-- aquabyssos
-- bell-ringer
-- community
-- complete
-- eccentric
-- location
-- mad
-- npc
-- oracle
-- person
-- prophetic
-- warning-system
-status: complete
-world: Aquabyssos
-type: Location
+MyCategory: Community Figure
+MyContainer: None
 category: Community Oracle
-race: Human
 class: Commoner/Oracle
-location: '[[Port Meridian]] Bell Tower'
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: None
 faction: Independent
 influence: Low
-danger_level: None
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.378837+00:00'
-MyContainer: None
-MyCategory: Community Figure
+location: '[[Port Meridian]] Bell Tower'
 obsidianUIMode: preview
+race: Human
+status: complete
+tags:
+- acoustic
+- bell-ringer
+- community
+- content/location
+- content/mechanics
+- content/npc
+- eccentric
+- mad
+- oracle
+- prophetic
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.221489'
+world: Aquabyssos
 ---
 
 

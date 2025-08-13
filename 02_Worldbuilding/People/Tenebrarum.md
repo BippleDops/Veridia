@@ -1,30 +1,30 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+alignment: Lawful Neutral (Void Perspective)
+class: Warlock/Diplomat/Aberrant
+created: '2025-08-08'
+created_by: auto-stub
+faction: The Void Realms (Ambassador)
+level: 18
+location: Embassy of Emptiness, Deep Parliament District
+obsidianUIMode: preview
+race: Void-Touched Humanoid (Original Race Unknown)
+status: complete
+status_condition: Active, Negotiating
 tags:
 - ambassador
-- ancient
-- aquabyssos
-- complete
+- content/lore
+- content/npc
 - extraplanar
 - mysterious
-- npc
 - shadows
+- status/complete
 - void
-status: complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.983278'
 world: Aquabyssos
-type: NPC
-race: Void-Touched Humanoid (Original Race Unknown)
-class: Warlock/Diplomat/Aberrant
-level: 18
-alignment: Lawful Neutral (Void Perspective)
-location: Embassy of Emptiness, Deep Parliament District
-faction: The Void Realms (Ambassador)
-status_condition: Active, Negotiating
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
 
 > [!figure] Portrait

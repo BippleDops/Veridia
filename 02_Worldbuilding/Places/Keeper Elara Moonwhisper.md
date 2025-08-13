@@ -1,23 +1,22 @@
 ---
+MyCategory: Archive Facility
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aethermoor
-- archives
-- complete
-- crystal-preservation
+- campaign/arc
+- content/location
 - knowledge
 - library
-- location
-- moon-magic
-status: complete
-world: Aethermoor
+- mechanics/magic
+- status/complete
+- world/aethermoor
 type: Location
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
-MyCategory: Archive Facility
-obsidianUIMode: preview
-updated: 2025-08-12
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.447783'
+world: Aethermoor
 ---
 
 > [!figure] View

@@ -1,18 +1,18 @@
 ---
-tags:
-- aethermoor
-- complete
-- lighthouse
-- location
-- lore
-- magical-device
-- resonance-chamber
-status: complete
-world: Aethermoor
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+status: complete
+tags:
+- content/location
+- content/lore
+- lighthouse
+- mechanics/magic
+- resonance-chamber
+- status/complete
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:38.330703'
+world: Aethermoor
 ---
 
 

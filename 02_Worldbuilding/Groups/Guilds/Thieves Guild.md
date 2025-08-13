@@ -1,21 +1,19 @@
 ---
-type: Group
-tags:
-- active
-- both
-- criminal
-- faction
-- group
+MyCategory: Unknown - Category/Group
+MyContainer: None
 aliases:
 - The Guild
-created: 2025-07-23
+created: '2025-07-23'
 modified: 2025-07-23 14:30
-MyContainer: None
-MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
+status: complete
+tags:
+- content/faction
+- status/in-progress
+- world/both
+type: Faction
+updated: '2025-08-12T23:37:40.752460'
 world: Both
-updated: '2025-08-13T01:18:36.803414+00:00'
-status: active
 ---
 
 

@@ -1,30 +1,29 @@
 ---
+MyCategory: Resource Cartel
+MyContainer: Shadow Economy
+alignment: Neutral Evil (Obsessive Collectors)
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Shadow Energy Harvesting Cult
+headquarters: '[[The Void Refineries]]'
+influence: Underground Economy, Shadow Energy Trade
+leader: '[[High Harvester Umbros Shadowdrain]]'
+members: ~200 active harvesters, ~500 shadow-touched workers
+modified: 2025-08-11 - Category/Group
+obsidianUIMode: preview
+purpose: Extract and refine pure shadow energy
+status: complete
 tags:
-- aquabyssos
-- complete
-- faction
-- group
+- content/faction
 - harvesters
 - resource-extraction
 - shadow-cult
 - shadow-energy
-status: complete
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.663036'
 world: Aquabyssos
-type: Group
-faction_type: Shadow Energy Harvesting Cult
-alignment: Neutral Evil (Obsessive Collectors)
-headquarters: '[[The Void Refineries]]'
-leader: '[[High Harvester Umbros Shadowdrain]]'
-members: ~200 active harvesters, ~500 shadow-touched workers
-influence: Underground Economy, Shadow Energy Trade
-purpose: Extract and refine pure shadow energy
-created_by: auto-stub
-created: 2025-08-08
-modified: 2025-08-11 - Category/Group
-MyContainer: Shadow Economy
-MyCategory: Resource Cartel
-obsidianUIMode: preview
-updated: 2025-08-11
 ---
 
 > [!figure] Heraldry

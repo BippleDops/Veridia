@@ -1,30 +1,29 @@
 ---
-tags:
-- ancient
-- aquabyssos
-- breath-weapon
-- complete
-- dragon-turtle
-- npc
-- oceanic
-- sage
-status: complete
-world: Aquabyssos
-type: NPC
-role: Ancient Dragon Turtle Sage
+MyCategory: NPC
+MyContainer: None
 affiliation: '[[The Depth Wardens]] - Elder Advisor'
 age: 2,847
-race: Ancient Dragon Turtle
-class: Draconic Sorcerer/Circle of the Land Druid
-level: 20
 alignment: Neutral Good
-location: '[[The Cerulean Depths]] - Sapphire Grotto'
+class: Draconic Sorcerer/Circle of the Land Druid
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: NPC
+level: 20
+location: '[[The Cerulean Depths]] - Sapphire Grotto'
 obsidianUIMode: preview
+race: Ancient Dragon Turtle
+role: Ancient Dragon Turtle Sage
+status: complete
+tags:
+- content/item
+- content/lore
+- content/npc
+- dragon-turtle
+- sage
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:41.031594'
+world: Aquabyssos
 ---
 
 

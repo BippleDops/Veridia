@@ -1,18 +1,4 @@
 ---
-tags:
-- artifact
-- celestial_power
-- completed
-- convergence
-- dual
-- dual_world
-- legendary_artifact
-- lore
-- royal_regalia
-- stellar_magic
-status: completed
-type: Lore
-world: dual
 connections:
 - '[[Queen Seraphina]]'
 - '[[Aethermoor]]'
@@ -20,14 +6,27 @@ connections:
 - '[[Time''s Mercy]]'
 - '[[The Emperor''s Gambit]]'
 - '[[Deep Mother]]'
+created: '2025-08-11'
+status: draft
+tags:
+- celestial_power
+- content/item
+- content/lore
+- convergence
+- dual
+- dual_world
+- mechanics/magic
+- royal_regalia
+- status/complete
 themes:
 - celestial_authority
 - sacrifice_of_rulers
 - stellar_alignment
 - dual_world_sovereignty
 - price_of_power
-updated: 2025-08-11
-created: 2025-08-11
+type: Lore
+updated: '2025-08-12T23:37:39.077271'
+world: dual
 ---
 
 

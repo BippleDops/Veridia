@@ -1,32 +1,28 @@
 ---
+access_difficulty: Extreme - requires specialized deep-sea equipment and kraken permission
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: 9
+ecosystem: Deep Ocean Trenches and Abyssal Plains
+location_type: Marine Territory
+status: complete
 tags:
 - ancient-creatures
 - apex-predator
-- aquabyssos
-- complete
-- deep-sea
-- ecosystem
+- content/lore
+- content/mechanics
 - environment
 - geography
 - intelligence
 - kraken
-- lore
-- marine-life
 - natural-phenomena
-- ocean-depths
+- status/complete
 - territorial-behavior
 - territories
-- underwater-domains
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Lore
-location_type: Marine Territory
-ecosystem: Deep Ocean Trenches and Abyssal Plains
-danger_level: 9
-access_difficulty: Extreme - requires specialized deep-sea equipment and kraken permission
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.904809'
+world: Aquabyssos
 ---
 
 

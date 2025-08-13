@@ -1,26 +1,26 @@
 ---
+MyCategory: Places
+MyContainer: None
+access: invitation_only
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+security_level: high
+status: complete
 tags:
-- aquabyssos
 - black_market
 - canals
-- complete
-- criminal
-- location
+- content/faction
+- content/location
 - smuggling
+- status/complete
 - underground
 - waterways
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Location
-security_level: high
-access: invitation_only
-danger_level: Moderate
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Places
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:40.021993'
+world: Aquabyssos
 ---
 
 

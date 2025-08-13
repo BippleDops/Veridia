@@ -1,33 +1,32 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+character_type: Knowledge Keeper
+class: Wizard/Lore Master
+cr: 8
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+faction: Aquabyssos Academy
+level: 12
+location: Academy Archives, Aquabyssos
+obsidianUIMode: preview
+occupation: Senior Cultural Advisor
+status: complete
 tags:
 - advisor
-- aquabyssos
-- character
-- complete
+- content/location
+- content/lore
+- content/npc
 - keeper
 - knowledge
-- location
-- lore
 - mindwell
-- npc
 - scholar
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.957086+00:00'
-character_type: Knowledge Keeper
-faction: Aquabyssos Academy
-class: Wizard/Lore Master
-level: 12
-cr: 8
-occupation: Senior Cultural Advisor
-location: Academy Archives, Aquabyssos
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.729965'
+world: Aquabyssos
 ---
 
 

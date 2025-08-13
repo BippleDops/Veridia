@@ -1,33 +1,31 @@
 ---
+category: Magical Integration System
+created: '2025-08-11'
+created_by: cultural-expansion
+cultural_impact: Fundamental
+magical_school: Shadow/Umbral Magic
+practitioner_level: Community-wide Integration
+safety_rating: Regulated but Accessible
+significance: Cultural Foundation
+status: complete
 tags:
 - adaptation
-- both
-- both-worlds
-- complete
+- content/lore
+- content/mechanics
 - cultural-adaptation
 - culture
 - daily-life
 - integration
-- lore
-- magic
-- magical-system
+- mechanics/magic
 - post-catastrophe
 - shadow-harmonization
-- shadow-magic
 - society
+- status/complete
 - umbral-techniques
-status: complete
-world: Both
+- world/both
 type: Lore
-category: Magical Integration System
-significance: Cultural Foundation
-created_by: cultural-expansion
-created: 2025-08-11
-updated: 2025-08-11
-magical_school: Shadow/Umbral Magic
-practitioner_level: Community-wide Integration
-safety_rating: Regulated but Accessible
-cultural_impact: Fundamental
+updated: '2025-08-12T23:37:39.221140'
+world: Both
 ---
 
 

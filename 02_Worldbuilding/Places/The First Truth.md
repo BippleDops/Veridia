@@ -1,22 +1,22 @@
 ---
+MyCategory: Philosophy
+MyContainer: None
+created: 2025-08-08 - Category/Lore
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
-- location
-- lore
+- content/location
+- content/lore
 - philosophy
 - revelation
+- status/complete
 - truth
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-08 - Category/Lore
-MyContainer: None
-MyCategory: Philosophy
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.029673+00:00'
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.797961'
+world: Aquabyssos
 ---
 
 

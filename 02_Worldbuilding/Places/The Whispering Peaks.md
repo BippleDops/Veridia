@@ -1,32 +1,32 @@
 ---
-tags:
-- aquabyssos
-- completed
-- dangerous
-- haunted
-- haunted-mountain-range
-- location
-- mountains
-- mystical
-status: completed
-world: Aquabyssos
-region: '[[Northern Shattered Isles]]'
-type: Location
-population: 800
+MyCategory: Unknown
+MyContainer: None
+created: '2025-07-23'
 danger_level: 8
+elevation: Sea level to 12,000 feet above surface
 government: '[[The Order of Azure Flame]]'
 leader: '[[Grand Master Tempest Windvoice]]'
+modified: 2025-08-09 - Category/Place
+obsidianUIMode: preview
+population: 800
+region: '[[Northern Shattered Isles]]'
 specialties:
 - Spirit Communication
 - Ancient Mysteries
 - Wind Magic
-elevation: Sea level to 12,000 feet above surface
-created: 2025-07-23
-modified: 2025-08-09 - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-updated: 2025-08-11
+status: draft
+tags:
+- content/location
+- dangerous
+- haunted
+- haunted-mountain-range
+- mechanics/magic
+- mountains
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.501491'
+world: Aquabyssos
 ---
 
 

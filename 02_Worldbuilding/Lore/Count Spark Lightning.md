@@ -1,14 +1,14 @@
 ---
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- aquabyssos
-- lore
+- content/lore
 - royal-palace
+- status/in-progress
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:38.455177'
 world: Aquabyssos
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:35.016093+00:00'
 ---
 
 

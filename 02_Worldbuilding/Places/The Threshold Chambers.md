@@ -1,26 +1,24 @@
 ---
-tags:
-- complete
-- convergence-seekers
-- cross-realm
-- dimensional threshold (both realms)
-- dimensional-nexus
-- dimensional-threshold-(both-realms)
-- location
-- place
-- secret-base
-status: complete
-world: Dimensional Threshold (Both Realms)
-type: Location
-location_type: Interdimensional Facility
 affiliation: '[[The Convergence Seekers]]'
+created: '2025-08-09'
+created_by: auto-stub
+danger_level: Moderate
+location_type: Interdimensional Facility
+population: ~300 researchers and support staff
 significance: Major (Convergence Research Center)
 size: Large Complex
-population: ~300 researchers and support staff
-created_by: auto-stub
-created: 2025-08-09
-updated: '2025-08-13T01:18:36.052245+00:00'
-danger_level: Moderate
+status: complete
+tags:
+- access/secret
+- content/location
+- convergence-seekers
+- cross-realm
+- dimensional-nexus
+- status/complete
+- world/both
+type: Location
+updated: '2025-08-12T23:37:39.847320'
+world: Dimensional Threshold (Both Realms)
 ---
 
 

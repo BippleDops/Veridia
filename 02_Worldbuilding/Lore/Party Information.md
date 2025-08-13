@@ -1,17 +1,17 @@
 ---
-tags:
-- aquabyssos
-- campaign-mechanics
-- character-data
-- complete
-- lore
-- party-tracking
-status: complete
-world: Aquabyssos
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+status: complete
+tags:
+- content/lore
+- content/mechanics
+- content/npc
+- party-tracking
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:38.273882'
+world: Aquabyssos
 ---
 
 

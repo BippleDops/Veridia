@@ -1,17 +1,8 @@
 ---
-tags:
-- active
-- both
-- criminal
-- investigation
-- lore
-- merchant
-- mid-level
-- quest
-type: Lore
-quest_giver: '[[02_Worldbuilding/People/Castellan Ironledger III]]'
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
 level_range: 6-9
-reward_tier: Significant
 locations:
 - '[[02_Worldbuilding/Places/Port Meridian]]'
 - '[[02_Worldbuilding/Places/The Sunken Markets]]'
@@ -23,13 +14,22 @@ npcs_involved:
 - '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
 - '[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]'
 - Category/Quest
-MyContainer: None
-MyCategory: Unknown
 obsidianUIMode: preview
+quest_giver: '[[02_Worldbuilding/People/Castellan Ironledger III]]'
+reward_tier: Significant
+status: complete
+tags:
+- content/adventure
+- content/faction
+- content/lore
+- mechanics/exploration
+- merchant
+- mid-level
+- status/in-progress
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:37.752672'
 world: Both
-updated: '2025-08-13T01:18:34.468309+00:00'
-created: 2025-08-11
-status: active
 ---
 
 

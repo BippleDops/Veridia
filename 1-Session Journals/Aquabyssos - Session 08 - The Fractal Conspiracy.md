@@ -1,41 +1,40 @@
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- parliament-shadows
-- planned
-- session
-- session-journal
-session_number: 8
-title: The Fractal Conspiracy
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
 date_played: null
+depth: Variable (Reality Layers)
+estimated_time: 4 hours
 location:
 - - Multiple Recursion Levels
-depth: Variable (Reality Layers)
 npcs_featured:
 - - - Lord Flux the Inconsistent
 - - - The Sorrowmaster
 - - - 02_Worldbuilding/Lore/Marina's Echo|Marina's Echo
 - - - The Parliament of Nobody
-status: planned
+obsidianUIMode: preview
 party_level: 7
-estimated_time: 4 hours
-themes:
-- Reality fragmentation
-- Recursive existence
-- Probability warfare
 quests_advanced:
 - - - Navigate Fractal Reality
 - - - Find the Grief Bomb
 - - - Unite the Recursions
+session_number: 8
+status: outlined
+tags:
+- campaign/session
+- content/lore
+- parliament-shadows
+- planned
+- status/in-progress
+- world/aquabyssos
+themes:
+- Reality fragmentation
+- Recursive existence
+- Probability warfare
+title: The Fractal Conspiracy
 type: Lore
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:41.165026'
 world: Aquabyssos
-updated: '2025-08-13T01:18:37.165192+00:00'
-created: 2025-08-11
 ---
 
 

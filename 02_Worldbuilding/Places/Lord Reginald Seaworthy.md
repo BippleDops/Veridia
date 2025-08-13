@@ -1,33 +1,32 @@
 ---
-tags:
-- aethermoor-liaison
-- ambassador
-- aquabyssos
-- complete
-- diplomat
-- influential
-- location
-- nobility
-- npc
-- person
-- political
-- surface-relations
-status: complete
-world: Aquabyssos
-type: Location
+MyCategory: Diplomat
+MyContainer: None
 category: Noble Diplomat
-race: Human
 class: Noble
-location: '[[Royal Palace]] - Diplomatic Wing'
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Low
 faction: '[[Parliament of Echoes]] - Diplomatic Corps'
 influence: High
-danger_level: Low
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.374717+00:00'
-MyContainer: None
-MyCategory: Diplomat
+location: '[[Royal Palace]] - Diplomatic Wing'
 obsidianUIMode: preview
+race: Human
+status: complete
+tags:
+- ambassador
+- content/location
+- content/npc
+- diplomat
+- influential
+- nobility
+- political
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/surface
+type: Location
+updated: '2025-08-12T23:37:40.216563'
+world: Aquabyssos
 ---
 
 

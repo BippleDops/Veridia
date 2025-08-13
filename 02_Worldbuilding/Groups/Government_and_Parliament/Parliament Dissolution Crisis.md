@@ -1,13 +1,13 @@
 ---
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- aquabyssos
-- group
-type: Group
+- content/faction
+- status/in-progress
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.709286'
 world: Aquabyssos
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.765676+00:00'
 ---
 
 

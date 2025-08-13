@@ -1,19 +1,19 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+status: complete
 tags:
 - ancient-wisdom
-- aquabyssos
-- artifact
 - astronomical-knowledge
 - book
-- complete
-- location
-status: complete
-world: Aquabyssos
+- content/item
+- content/location
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.422402+00:00'
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.282683'
+world: Aquabyssos
 ---
 
 

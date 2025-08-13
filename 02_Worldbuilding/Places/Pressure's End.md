@@ -1,25 +1,24 @@
 ---
-tags:
-- active
-- both
-- city
-- location
-- midnight_expanse
-- military_stronghold
+MyCategory: Unknown
+MyContainer: None
 aliases:
 - The Iron Deep
 - The Last Stand
-created: 2024-12-19
-image: 04_Resources/Assets/Locations/pressures_end.jpg
+created: '2024-12-19'
 danger_level: High
-population: 35000 - Category/Place
-MyContainer: None
-MyCategory: Unknown
+image: 04_Resources/Assets/Locations/pressures_end.jpg
 obsidianUIMode: preview
-world: Both
-updated: '2025-08-13T01:18:36.341120+00:00'
-status: active
+population: 35000 - Category/Place
+status: complete
+tags:
+- content/location
+- midnight_expanse
+- status/archived
+- status/in-progress
+- world/both
 type: Location
+updated: '2025-08-12T23:37:40.171729'
+world: Both
 ---
 
 

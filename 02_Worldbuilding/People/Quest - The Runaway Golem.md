@@ -1,22 +1,22 @@
 ---
-tags:
-- aethermoor
-- complete
-- construct
-- golem
-- npc
-- quest
-- runaway
-status: complete
-world: Aethermoor
-type: NPC
-created_by: auto-stub
-created: 2025-08-08 - Category/Quests
-MyContainer: None
 MyCategory: Magical
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.939009+00:00'
+MyContainer: None
 cr: '5'
+created: 2025-08-08 - Category/Quests
+created_by: auto-stub
+obsidianUIMode: preview
+status: complete
+tags:
+- construct
+- content/adventure
+- content/npc
+- golem
+- runaway
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:40.921301'
+world: Aethermoor
 ---
 
 

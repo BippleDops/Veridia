@@ -1,13 +1,13 @@
 ---
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- both
-- lore
+- content/lore
+- status/in-progress
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:37.835615'
 world: Both
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:34.533565+00:00'
 ---
 
 

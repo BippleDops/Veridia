@@ -1,24 +1,23 @@
 ---
-tags:
-- aquabyssos
-- complete
-- government
-- npc
-- parliament
-- person
-- politician
-- pragmatic-leader
-status: complete
-world: Aquabyssos
-type: NPC
-role: Parliamentary Tribune
 affiliation: '[[02_Worldbuilding/Places/Parliament of Echoes]] - Centrist Faction'
 age: '48'
-race: Human
-location: '[[02_Worldbuilding/Places/Parliament of Echoes]] - Central Chamber'
+created: '2025-08-09'
 created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
+location: '[[02_Worldbuilding/Places/Parliament of Echoes]] - Central Chamber'
+race: Human
+role: Parliamentary Tribune
+status: complete
+tags:
+- campaign/hook
+- content/faction
+- content/npc
+- parliament
+- politician
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.825008'
+world: Aquabyssos
 ---
 
 

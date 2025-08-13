@@ -1,18 +1,18 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- aquabyssos
-- complete
+- access/secret
 - conspiracies
+- content/lore
 - intrigue
-- lore
 - politics
 - relationships
-- secret-societies
+- status/complete
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:38.429298'
 world: Aquabyssos
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:34.997774+00:00'
 ---
 
 

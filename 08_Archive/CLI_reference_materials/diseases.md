@@ -1,21 +1,21 @@
 ---
-obsidianUIMode: preview
+aliases:
+- Diseases
+created: 2025-07-23
 cssclasses: json5e-note
+modified: 2025-07-23 12:39
+obsidianUIMode: preview
+status: active
 tags:
-- active
-- both
 - note
+- status/in-progress
 - ttrpg-cli/compendium/src/5e/oota
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Diseases
+- world/both
 type: note
-created: 2025-07-23
-updated: '2025-08-13T01:18:31.229952+00:00'
-modified: 2025-07-23 12:39
+updated: '2025-08-12T23:37:33.165634'
 world: Both
-status: active
 ---
 
 # Diseases

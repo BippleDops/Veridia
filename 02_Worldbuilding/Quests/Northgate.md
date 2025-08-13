@@ -1,30 +1,30 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
+duration: 4-6 sessions
+last_modified: 2025-08-10 - Category/Quest
+level: 3-7
+obsidianUIMode: preview
+quest_giver: Caravan Master Dolrim
+status: complete
 tags:
-- aquabyssos
 - border-control
 - caravan-protection
-- complete
-- diplomacy
+- content/adventure
+- content/lore
 - frontier
-- lore
-- quest
+- mechanics/social
 - smuggling
+- status/complete
 - trading
 - wilderness
-status: complete
-world: Aquabyssos
-type: Lore
-level: 3-7
-duration: 4-6 sessions
+- world/aquabyssos
 threat_level: medium
-quest_giver: Caravan Master Dolrim
-created_by: auto-stub
-created: 2025-08-08
-last_modified: 2025-08-10 - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:34.465666+00:00'
+type: Lore
+updated: '2025-08-12T23:37:37.749917'
+world: Aquabyssos
 ---
 
 

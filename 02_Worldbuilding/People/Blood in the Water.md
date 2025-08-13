@@ -1,21 +1,21 @@
 ---
-tags:
-- aquabyssos
-- blood
-- complete
-- event
-- lore
-- npc
-- violence
-status: complete
-world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
 MyCategory: Events
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
 obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.832282+00:00'
+status: complete
+tags:
+- blood
+- content/lore
+- content/npc
+- event
+- status/complete
+- violence
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.786136'
+world: Aquabyssos
 ---
 
 

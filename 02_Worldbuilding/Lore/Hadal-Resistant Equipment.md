@@ -1,14 +1,14 @@
 ---
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- aquabyssos
-- lore
-- magical-barrier-fortress
+- content/lore
+- mechanics/magic
+- status/in-progress
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:37.969340'
 world: Aquabyssos
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:34.624011+00:00'
 ---
 
 

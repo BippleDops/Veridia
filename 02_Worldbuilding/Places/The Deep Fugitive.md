@@ -1,19 +1,19 @@
 ---
-tags:
-- aquabyssos
-- complete
-- criminal
-- fugitive
-- location
-- mysterious
-- npc
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.509868+00:00'
 danger_level: Moderate
+status: complete
+tags:
+- content/faction
+- content/location
+- content/npc
+- fugitive
+- mysterious
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.409064'
+world: Aquabyssos
 ---
 
 

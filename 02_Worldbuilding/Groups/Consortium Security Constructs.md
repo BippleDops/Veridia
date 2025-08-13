@@ -1,29 +1,28 @@
 ---
-tags:
-- aethermoor
-- complete
-- construct
-- enforcement
-- faction
-- group
-- security
-- silverscale-consortium
-status: complete
-world: Aethermoor
-type: Group
-faction_type: Corporate Security Force
+MyCategory: Unknown
+MyContainer: None
 alignment: Lawful Evil
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Corporate Security Force
 headquarters: '[[The Enforcement Citadel]]'
+influence: Continental (enforcement operations)
 leader: '[[Commander Ironprice]]'
 members: ~1,200 crystal constructs and operators
-influence: Continental (enforcement operations)
-wealth: Corporate funded - unlimited budget
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.640433+00:00'
-MyContainer: None
-MyCategory: Unknown
 obsidianUIMode: preview
+status: complete
+tags:
+- construct
+- content/faction
+- enforcement
+- security
+- silverscale-consortium
+- status/complete
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.554244'
+wealth: Corporate funded - unlimited budget
+world: Aethermoor
 ---
 
 

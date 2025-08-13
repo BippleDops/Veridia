@@ -1,23 +1,22 @@
 ---
+MyCategory: Religious Monument
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
-- depths
+- content/location
 - divine
-- location
 - monument
 - religious
 - shadow-corruption
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
-MyCategory: Religious Monument
-obsidianUIMode: preview
-updated: 2025-08-11
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.477319'
+world: Aquabyssos
 ---
 
 > [!figure] View

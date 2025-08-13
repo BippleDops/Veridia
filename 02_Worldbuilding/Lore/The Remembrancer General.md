@@ -1,23 +1,22 @@
 ---
-updated: '2025-08-13T01:18:35.276053+00:00'
-created: 2025-08-11
-tags:
-- aquabyssos
-- category/lore
-- complete
-- lore
-status: complete
-world: Aquabyssos
-type: lore
-obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: This lore entry explains a pivotal principle or event and
-    its consequences for play.
   content_warnings: []
   pronunciation: The Remembrancer General
   safety_tools:
   - Lines & Veils
   - X-Card
+  screen_reader_summary: This lore entry explains a pivotal principle or event and
+    its consequences for play.
+created: '2025-08-11'
+obsidianUIMode: preview
+status: complete
+tags:
+- content/lore
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:38.842258'
+world: Aquabyssos
 ---
 
 

@@ -1,16 +1,10 @@
 ---
-tags:
-- aethermoor
-- intrigue
-- lore
-- murder
-- political
-- prepared
-- session
-- session-journal
-session_number: 3
-title: Council of Shadows
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
 date_played: null
+estimated_time: 3-4 hours
+level: 3
 location: '[[02_Worldbuilding/Places/Port Meridian]] - Noble Quarter'
 npcs_featured:
 - '[[Lord Aurelius Goldwave]]'
@@ -18,20 +12,25 @@ npcs_featured:
 - '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
 - '[[Brother Marcus Steelbane]]'
 - '[[Silver Mask]]'
+obsidianUIMode: preview
 quests_advanced:
 - '[[Political Intrigue of Meridian]]'
 - '[[The Seven Shards Mystery]]'
 - '[[Investigate the Crystal Plague]]'
-level: 3
-estimated_time: 3-4 hours
-status: prepared
+session_number: 3
+status: draft
+tags:
+- campaign/session
+- content/lore
+- intrigue
+- murder
+- political
+- prepared
+- world/aethermoor
+title: Council of Shadows
 type: Lore
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:41.166446'
 world: Aethermoor
-updated: '2025-08-13T01:18:37.166488+00:00'
-created: 2025-08-11
 ---
 
 

@@ -1,14 +1,14 @@
 ---
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- aquabyssos
-- crystal-research-facility
-- lore
+- content/lore
+- status/in-progress
+- world/aethermoor
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:38.873701'
 world: Aquabyssos
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:35.298393+00:00'
 ---
 
 

@@ -1,19 +1,19 @@
 ---
-tags:
-- aquabyssos
-- complete
-- hermit
-- location
-- npc
-- religious
-- tragic
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.474994+00:00'
 danger_level: Moderate
+status: complete
+tags:
+- content/location
+- content/npc
+- hermit
+- religious
+- status/complete
+- tragic
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.355984'
+world: Aquabyssos
 ---
 
 

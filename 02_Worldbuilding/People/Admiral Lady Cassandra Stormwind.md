@@ -1,13 +1,13 @@
 ---
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- aethermoor
-- npc
-type: NPC
+- content/npc
+- status/in-progress
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:41.065358'
 world: Aethermoor
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:37.080400+00:00'
 ---
 
 > [!figure] Portrait

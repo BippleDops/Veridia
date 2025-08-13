@@ -1,23 +1,23 @@
 ---
+MyCategory: NPC
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aethermoor
-- complete
+- content/location
+- content/npc
 - dwarf
 - elder
 - engineer
-- location
-- npc
+- status/complete
 - stoneward
-status: complete
-world: Aethermoor
+- world/aethermoor
 type: Location
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:35.996993+00:00'
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.784653'
+world: Aethermoor
 ---
 
 

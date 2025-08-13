@@ -1,28 +1,25 @@
 ---
-tags:
-- adaptation
-- aethermoor
-- complete
-- corruption-response
-- crystal-influence
-- dangerous-magic
-- lore
-- magic
-- magical-theory
-- rewriting
-- ritual
-- ritual-modification
-status: complete
-world: Aethermoor
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-ritual_type: Adaptive Counter-Magic
-scope: Regional
 danger_level: Extreme
 magical_school: Transmutation/Abjuration
 origin: Emergency Response
+ritual_type: Adaptive Counter-Magic
+scope: Regional
+status: complete
+tags:
+- adaptation
+- content/lore
+- corruption-response
+- mechanics/magic
+- rewriting
+- ritual
+- ritual-modification
+- status/complete
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:37.820266'
+world: Aethermoor
 ---
 
 

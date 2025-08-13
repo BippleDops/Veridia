@@ -1,20 +1,19 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+expanded: 2025-08-10
+status: complete
 tags:
 - ancient-civilizations
-- aquabyssos
-- aquabyssos-history
-- complete
+- content/lore
 - empires
 - historical-events
-- lore
 - politics
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-expanded: 2025-08-10
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.891376'
+world: Aquabyssos
 ---
 
 

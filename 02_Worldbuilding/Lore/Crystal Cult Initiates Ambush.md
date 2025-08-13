@@ -1,19 +1,18 @@
 ---
-tags:
-- aethermoor
-- ambush
-- combat
-- complete
-- crystals
-- cult
-- encounter
-- lore
-status: complete
-world: Aethermoor
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+status: complete
+tags:
+- ambush
+- campaign/session
+- content/lore
+- cult
+- mechanics/combat
+- status/complete
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:38.236782'
+world: Aethermoor
 ---
 
 

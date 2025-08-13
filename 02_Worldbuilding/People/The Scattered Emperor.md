@@ -1,66 +1,66 @@
 ---
-tags:
-- active
-- aquabyssos
-- both
-- fragmented-consciousness
-- npc
-- ruler
-first_name: Malachus
-last_name: the Eternal
-title: The Scattered Emperor
-location: '[[Abyssos Prime - Throne of Bubbles]]'
-faction: '[[Abyssos Prime Government]]'
-occupation: Fragmented Ruler
-disposition: 0
-alignment: Chaotic Neutral
-race: Distributed Consciousness
-original_race: Human
-class: Wizard/Aberration
-level: 20
+MyCategory: Unknown
+MyContainer: None
 ac: Variable
-max_hp: Infinite
-current_hp: Distributed
-influence: 10
-faction_rank: 5
-shadow_status: Immune (no single form)
-depth_adapted: 6
+alignment: Chaotic Neutral
+class: Wizard/Aberration
 consciousness_fragments: 10000
+created: '2025-08-12'
+current_hp: Distributed
+depth_adapted: 6
+description: Consciousness scattered across thousands of sea creatures, primarily
+  electric eels
+disposition: 0
+faction: '[[Abyssos Prime Government]]'
+faction_rank: 5
+first_name: Malachus
+influence: 10
+last_encounter: '[[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]'
+last_name: the Eternal
+level: 20
+location: '[[Abyssos Prime - Throne of Bubbles]]'
+max_hp: Infinite
+notes: Fragmented himself to avoid shadow replacement. Each fragment has different
+  personality aspect.
+obsidianUIMode: preview
+occupation: Fragmented Ruler
+original_race: Human
 portrait: ''
+race: Distributed Consciousness
+related_quests:
+- '[[Unite the Emperor]]'
+- '[[Investigate Shadow Conspiracy]]'
+- '[[02_Worldbuilding/Lore/The Emperor''s Gambit|The Emperor''s Gambit]]'
 relationship_type: ruler
 relationships:
 - '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
 - '[[02_Worldbuilding/Places/Parliament of Echoes]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
-related_quests:
-- '[[Unite the Emperor]]'
-- '[[Investigate Shadow Conspiracy]]'
-- '[[02_Worldbuilding/Lore/The Emperor''s Gambit|The Emperor''s Gambit]]'
-last_encounter: '[[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]'
-stats:
-  str: Variable
-  dex: Variable
-  con: Infinite
-  int: 22
-  wis: 8
-  cha: 16
-description: Consciousness scattered across thousands of sea creatures, primarily
-  electric eels
-notes: Fragmented himself to avoid shadow replacement. Each fragment has different
-  personality aspect.
 secrets:
 - Intentionally caused the original Cataclysm
 - Can reunite but will die if maintained
 - Knows identity of all shadow replacements
 - Sees through every creature's eyes near Abyssos Prime
-created: 2025-08-12
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+shadow_status: Immune (no single form)
+stats:
+  cha: 16
+  con: Infinite
+  dex: Variable
+  int: 22
+  str: Variable
+  wis: 8
+status: complete
+tags:
+- content/mechanics
+- content/npc
+- fragmented-consciousness
+- status/in-progress
+- world/aquabyssos
+- world/both
+title: The Scattered Emperor
+type: Npc
+updated: '2025-08-12T23:37:40.864703'
 world: Both
-updated: '2025-08-13T01:18:36.893457+00:00'
-status: active
-type: NPC
 ---
 
 

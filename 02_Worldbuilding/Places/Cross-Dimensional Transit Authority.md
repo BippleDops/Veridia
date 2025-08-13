@@ -1,17 +1,15 @@
 ---
-tags:
-- both worlds
-- both-worlds
-- complete
-- dimensional
-- place
-- security
-- transit-hub
-type: Place
-world: Both Worlds
+created: '2025-08-12'
 status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:36.398801+00:00'
+tags:
+- content/location
+- security
+- status/complete
+- transit-hub
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.248432'
+world: Both Worlds
 ---
 
 

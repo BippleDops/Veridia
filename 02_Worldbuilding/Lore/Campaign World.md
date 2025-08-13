@@ -1,17 +1,17 @@
 ---
-tags:
-- aethermoor
-- aquabyssos
-- campaign-setting
-- complete
-- lore
-- world-overview
-status: complete
-world: Aquabyssos
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+status: complete
+tags:
+- campaign/arc
+- content/lore
+- status/complete
+- world-overview
+- world/aethermoor
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:38.204794'
+world: Aquabyssos
 ---
 
 

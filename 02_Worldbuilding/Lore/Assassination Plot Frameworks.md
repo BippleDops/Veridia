@@ -1,18 +1,18 @@
 ---
-tags:
-- aquabyssos
-- assassination
-- complete
-- intrigue
-- lore
-- murder
-- plots
-- politics
-type: Lore
-world: Aquabyssos
+created: '2025-08-12'
 status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:35.216966+00:00'
+tags:
+- assassination
+- campaign/arc
+- content/lore
+- intrigue
+- murder
+- politics
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:38.791805'
+world: Aquabyssos
 ---
 
 

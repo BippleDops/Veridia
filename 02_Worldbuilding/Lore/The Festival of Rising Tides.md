@@ -1,25 +1,24 @@
 ---
+created: '2025-08-11'
+created_by: cultural-expansion
+duration: Seven Days
+festival_type: Annual Community Celebration
+participants: All Aquabyssos Communities
+season: Spring
+status: complete
 tags:
-- aquabyssos
 - celebration
 - community
-- complete
+- content/lore
 - cultural-event
 - festival
-- lore
-- seasonal
 - spiritual
+- status/complete
 - tides
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Lore
-created_by: cultural-expansion
-created: 2025-08-11
-updated: 2025-08-11
-festival_type: Annual Community Celebration
-season: Spring
-duration: Seven Days
-participants: All Aquabyssos Communities
+updated: '2025-08-12T23:37:39.307863'
+world: Aquabyssos
 ---
 
 

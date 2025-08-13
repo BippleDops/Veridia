@@ -1,26 +1,23 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: 2025-08-08 - Category/Quest
+created_by: auto-stub
+estimated_sessions: 6-8
+level_range: 8-12
+obsidianUIMode: preview
+quest_type: Diplomatic Mission & Ancient Mystery
+status: complete
 tags:
-- ancient
-- aquabyssos
-- complete
-- deep-sea
+- content/adventure
+- content/lore
 - diplomatic
 - leviathan
-- lore
-- quest
-- underwater
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Lore
-level_range: 8-12
-estimated_sessions: 6-8
-quest_type: Diplomatic Mission & Ancient Mystery
-created_by: auto-stub
-created: 2025-08-08 - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:34.487800+00:00'
+updated: '2025-08-12T23:37:37.776463'
+world: Aquabyssos
 ---
 
 

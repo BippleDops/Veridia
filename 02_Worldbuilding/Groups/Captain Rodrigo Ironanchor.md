@@ -1,29 +1,28 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+alignment: Chaotic Neutral
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Naval Mercenary Fleet
+headquarters: '[[The Iron Bastion]]'
+influence: Maritime (Coastal waters and shipping lanes)
+leader: '[[Captain Rodrigo Ironanchor]]'
+members: ~1,200 sailors, marines, and support crew
+obsidianUIMode: preview
+status: complete
 tags:
-- aethermoor
-- complete
-- faction
-- group
+- content/faction
 - iron-fleet
 - mercenary
 - military
 - naval-force
-status: complete
-world: Aethermoor
-type: Group
-faction_type: Naval Mercenary Fleet
-alignment: Chaotic Neutral
-headquarters: '[[The Iron Bastion]]'
-leader: '[[Captain Rodrigo Ironanchor]]'
-members: ~1,200 sailors, marines, and support crew
-influence: Maritime (Coastal waters and shipping lanes)
+- status/complete
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.627212'
 wealth: Substantial (mercenary contracts and salvage)
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.696552+00:00'
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Aethermoor
 ---
 
 

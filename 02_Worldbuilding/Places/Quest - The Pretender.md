@@ -1,27 +1,27 @@
 ---
-tags:
-- aethermoor
-- complete
-- deception
-- identity
-- location
-- noble-houses
-- political-intrigue
-- quest
-- succession
-status: complete
-world: Aethermoor
-type: Location
+created: '2025-08-11'
 created_by: auto-stub
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.201499+00:00'
-quest_type: Political Intrigue/Identity Mystery
+danger_level: Moderate
+difficulty: Hard
+duration: 5-7 sessions
 level_range: 6-12
 party_size: 4-6 characters
-duration: 5-7 sessions
-difficulty: Hard
 primary_location: Port Meridian Noble Quarter and Crystal Throne territories
-danger_level: Moderate
+quest_type: Political Intrigue/Identity Mystery
+status: complete
+tags:
+- content/adventure
+- content/location
+- deception
+- identity
+- noble-houses
+- political-intrigue
+- status/complete
+- succession
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:40.012683'
+world: Aethermoor
 ---
 
 

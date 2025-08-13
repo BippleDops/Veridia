@@ -1,27 +1,6 @@
 ---
-tags:
-- aquabyssos
-- complete
-- investigation
-- lore
-- mystery
-- naval
-- pirates
-- quest
-quest_status: Active
-quest_priority: High
-quest_type: Main Story
-world: Aquabyssos
-region: Tidecaller Archipelago
-level_range: 4-7
-duration: 4-6 sessions
-difficulty: Medium
-themes:
-- piracy
-- betrayal
-- loyalty
-- maritime law
-- redemption
+MyCategory: Unknown
+MyContainer: None
 connected_factions:
 - Tidecaller Navy
 - The Corsair Brotherhood
@@ -34,19 +13,40 @@ connected_npcs:
 - Captain Thorne Blackwater
 - Admiral Coralia Deepstorm
 - First Mate Jerrik
+created: '2025-08-10'
+difficulty: Medium
+duration: 4-6 sessions
+last_modified: 2025-08-10 - Category/Quest
+level_range: 4-7
+obsidianUIMode: preview
+quest_priority: High
+quest_status: Active
+quest_type: Main Story
+region: Tidecaller Archipelago
 rewards:
 - Naval Commission
 - Blackwater's Cutlass
 - Treasure Map
 - Ship Upgrade
 status: complete
-created: 2025-08-10
-last_modified: 2025-08-10 - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:34.486880+00:00'
+tags:
+- content/adventure
+- content/lore
+- mechanics/exploration
+- mystery
+- naval
+- pirates
+- status/complete
+- world/aquabyssos
+themes:
+- piracy
+- betrayal
+- loyalty
+- maritime law
+- redemption
 type: Lore
+updated: '2025-08-12T23:37:37.775268'
+world: Aquabyssos
 ---
 
 

@@ -1,18 +1,15 @@
 ---
-tags:
-- aethermoor
-- culture
-- complete
-- aerial-customs
-- sky-society
-- wind-traditions
-- lore
-world: Aethermoor
-type: Lore
-status: complete
+created: '2025-08-12'
 created_by: cultural-expansion
-created: 2025-08-12
-updated: 2025-08-12
+status: complete
+tags:
+- content/lore
+- culture
+- status/complete
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:38.471132'
+world: Aethermoor
 ---
 
 # Aethermoor Social Customs

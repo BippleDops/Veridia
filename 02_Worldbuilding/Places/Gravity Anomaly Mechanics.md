@@ -1,33 +1,32 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+category: Physics and Magic
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+lore_type: Magical Mechanics
+obsidianUIMode: preview
+primary_application: Environmental Hazards and Effects
+scope: Environmental Phenomena
+significance: Mechanical Framework
+status: complete
 tags:
 - anomaly
-- both worlds
-- both-worlds
-- complete
+- content/location
+- content/lore
+- content/mechanics
 - environmental
 - gravity
 - hazards
-- location
-- lore
-- magic
-- mechanics
+- mechanics/magic
 - physics
-- underwater
-status: complete
-world: Both Worlds
+- status/complete
+- world/aquabyssos
+- world/both
 type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.975914+00:00'
-lore_type: Magical Mechanics
-scope: Environmental Phenomena
-category: Physics and Magic
-significance: Mechanical Framework
-primary_application: Environmental Hazards and Effects
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-danger_level: Moderate
+updated: '2025-08-12T23:37:39.755133'
+world: Both Worlds
 ---
 
 

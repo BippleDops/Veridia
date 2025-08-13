@@ -1,27 +1,27 @@
 ---
-tags:
-- aethermoor-relations
-- aquabyssos
-- complete
-- diplomatic
-- embassy
-- government
-- location
-- political
-status: complete
-world: Aquabyssos
-type: Location
+MyCategory: Embassy Compound
+MyContainer: None
 category: Diplomatic Embassy
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Low
 depth: 800-1000 feet
 difficulty: Levels 2-8
-owner: Aethermoor Diplomatic Service
-danger_level: Low
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Embassy Compound
 obsidianUIMode: preview
+owner: Aethermoor Diplomatic Service
+status: complete
+tags:
+- content/faction
+- content/location
+- diplomatic
+- embassy
+- political
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:39.949497'
+world: Aquabyssos
 ---
 
 

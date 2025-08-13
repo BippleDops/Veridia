@@ -1,21 +1,21 @@
 ---
-tags:
-- aquabyssos
-- complete
-- inn
-- location
-- port-quarter
-- tavern
-status: complete
-world: Aquabyssos
-type: Location
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
 MyCategory: Unknown
-obsidianUIMode: preview
-updated: 2025-08-11
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
 danger_level: Moderate
+obsidianUIMode: preview
+status: complete
+tags:
+- content/location
+- inn
+- port-quarter
+- status/complete
+- tavern
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.520595'
+world: Aquabyssos
 ---
 
 

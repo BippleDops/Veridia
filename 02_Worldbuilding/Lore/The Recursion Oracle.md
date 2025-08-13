@@ -1,21 +1,21 @@
 ---
-status: complete
+created: '2025-08-11'
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
+status: complete
 tags:
-- aquabyssos
-- both
-- complete
-- lore
+- content/lore
 - oracle
 - prophecy
 - recursion
+- status/complete
 - time
+- world/aquabyssos
+- world/both
 - worldbuilding
-world: Both
-updated: 2025-08-11
-created: 2025-08-11
 type: Lore
+updated: '2025-08-12T23:37:37.925407'
+world: Both
 ---
 
 

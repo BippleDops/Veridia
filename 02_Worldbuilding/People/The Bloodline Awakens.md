@@ -1,28 +1,28 @@
 ---
+affiliation: Ancient Bloodlines (Various)
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: High
+location: Scattered throughout Aquabyssos
+manifestation_rate: Rare but Increasing
+role: Supernatural Bloodline Event
+status: complete
 tags:
+- access/secret
 - ancient-power
-- aquabyssos
 - awakening
 - bloodline
-- complete
+- content/npc
 - curse
-- family-secret
-- legacy
-- npc
 - phenomenon
+- status/archived
+- status/complete
 - supernatural
 - transformation
-status: complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.907707'
 world: Aquabyssos
-type: NPC
-role: Supernatural Bloodline Event
-affiliation: Ancient Bloodlines (Various)
-danger_level: High
-manifestation_rate: Rare but Increasing
-location: Scattered throughout Aquabyssos
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.927412+00:00'
 ---
 
 

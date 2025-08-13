@@ -1,29 +1,28 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+alignment: Neutral Good
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Community Organization
+headquarters: '[[The Umbral Community Center]]'
+influence: Local district (Shadow Vale neighborhood)
+leader: '[[Community Elder Mistweave]]'
+members: ~3,500 residents and 200 community organizers
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
 - community
-- complete
-- faction
-- group
+- content/faction
 - mutual-aid
 - residential
 - shadow-touched
-status: complete
-world: Aquabyssos
-type: Group
-faction_type: Community Organization
-alignment: Neutral Good
-headquarters: '[[The Umbral Community Center]]'
-leader: '[[Community Elder Mistweave]]'
-members: ~3,500 residents and 200 community organizers
-influence: Local district (Shadow Vale neighborhood)
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.667212'
 wealth: Modest (community resources and mutual aid)
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.727705+00:00'
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Aquabyssos
 ---
 
 

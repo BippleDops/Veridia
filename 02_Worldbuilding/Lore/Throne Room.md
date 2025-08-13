@@ -1,23 +1,22 @@
 ---
+category: Royal Location
+created: '2025-08-08'
+created_by: auto-stub
+significance: Major Landmark
+status: complete
 tags:
-- aethermoor
-- complete
-- corrupted-architecture
-- crystal-possession
+- campaign/arc
+- content/lore
 - dimensional-nexus
-- lore
 - political-center
 - royal-palace
-- seat-of-power
+- status/complete
 - throne-room
-status: complete
-world: Aethermoor
+- world/aethermoor
+- world/aquabyssos
 type: Lore
-category: Royal Location
-significance: Major Landmark
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:39.160228'
+world: Aethermoor
 ---
 
 

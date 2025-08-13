@@ -1,24 +1,23 @@
 ---
-tags:
-- aethermoor
-- complete
-- information-broker
-- mysterious
-- npc
-- person
-- silverscale-consortium
-- spymaster
-status: complete
-world: Aethermoor
-type: NPC
-role: Scale of Information
 affiliation: '[[02_Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales'
 age: Unknown
-race: Unknown (appears human)
-location: '[[The Black Ledger]] - Intelligence Archive'
+created: '2025-08-09'
 created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
+location: '[[The Black Ledger]] - Intelligence Archive'
+race: Unknown (appears human)
+role: Scale of Information
+status: complete
+tags:
+- content/npc
+- information-broker
+- mysterious
+- silverscale-consortium
+- spymaster
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:40.870192'
+world: Aethermoor
 ---
 
 

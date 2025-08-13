@@ -1,21 +1,21 @@
 ---
-type: Location
-tags:
-- active
-- both
-- location
-- region
+MyCategory: Unknown - Category/Place
+MyContainer: None
 aliases:
 - Cerulean Archipelago
-created: 2025-07-23
-modified: 2025-07-23 16:10
-MyContainer: None
-MyCategory: Unknown - Category/Place
-obsidianUIMode: preview
-world: Both
-updated: '2025-08-13T01:18:36.384053+00:00'
-status: active
+created: '2025-07-23'
 danger_level: Moderate
+modified: 2025-07-23 16:10
+obsidianUIMode: preview
+status: complete
+tags:
+- content/location
+- region
+- status/in-progress
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.228835'
+world: Both
 ---
 
 

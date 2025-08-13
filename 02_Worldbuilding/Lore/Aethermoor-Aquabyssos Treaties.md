@@ -1,13 +1,13 @@
 ---
-created: 2025-08-11
-updated: '2025-08-13T01:18:34.612619+00:00'
-world: Aquabyssos
-type: Lore
-status: active
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- aquabyssos
-- lore
+- content/lore
+- status/in-progress
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:37.952678'
+world: Aquabyssos
 ---
 
 

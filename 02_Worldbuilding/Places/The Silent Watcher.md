@@ -1,55 +1,55 @@
 ---
-tags:
-- aquabyssos
-- both
-- complete
-- location
-- mysterious
-- observatory
-- sentinel
-- surveillance
-location_name: The Silent Watcher Observatory
-location_type: Ancient Sentinel Complex
-parent_location: '[[Abyssos Prime]]'
-sub_locations:
-- '[[The Observation Sphere]]'
-- '[[Memory Recording Chambers]]'
-- '[[The Vigil Gardens]]'
-- '[[Sentinel Archive Vaults]]'
-- '[[The Watcher''s Throne]]'
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-12'
+current_state: Active ancient surveillance
+danger_level: 4
 depth: 3800-4100 feet
-population: 1
-government: Ancient Custodianship
-ruler: '[[02_Worldbuilding/People/The Silent Watcher Entity]]'
+discovered: false
 factions:
 - '[[The Observers]]'
 - '[[Record Keepers]]'
 - '[[The Watched]]'
-danger_level: 4
-visited: false
-discovered: false
+government: Ancient Custodianship
+location_name: The Silent Watcher Observatory
+location_type: Ancient Sentinel Complex
+notable_npcs:
+- '[[02_Worldbuilding/People/The Silent Watcher Entity]]'
+- '[[Echo-Scribe Matthias]]'
+- '[[Observation Tender Clara]]'
+obsidianUIMode: preview
+parent_location: '[[Abyssos Prime]]'
+population: 1
+pressure_effects: Extreme
+ruler: '[[02_Worldbuilding/People/The Silent Watcher Entity]]'
 services:
 - Universal Surveillance
 - Historical Record Access
 - Pattern Recognition
 - Threat Assessment
 - Temporal Observation
-notable_npcs:
-- '[[02_Worldbuilding/People/The Silent Watcher Entity]]'
-- '[[Echo-Scribe Matthias]]'
-- '[[Observation Tender Clara]]'
-current_state: Active ancient surveillance
-temporal_stability: 90
 shadow_density: Minimal
-pressure_effects: Extreme
 status: complete
-created: 2025-08-12
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-world: Both
-updated: 2025-08-12
+sub_locations:
+- '[[The Observation Sphere]]'
+- '[[Memory Recording Chambers]]'
+- '[[The Vigil Gardens]]'
+- '[[Sentinel Archive Vaults]]'
+- '[[The Watcher''s Throne]]'
+tags:
+- content/location
+- mysterious
+- observatory
+- sentinel
+- status/complete
+- surveillance
+- world/aquabyssos
+- world/both
+temporal_stability: 90
 type: Location
+updated: '2025-08-12T23:37:39.891839'
+visited: false
+world: Both
 ---
 
 

@@ -1,30 +1,28 @@
 ---
-tags:
-- aethermoor
-- boss-hunting
-- combat-specialists
-- complete
-- faction
-- group
-- mercenary-company
-- professional-fighters
-status: complete
-world: Aethermoor
-type: Group
-faction_type: Elite Combat Mercenary Company
+MyCategory: Mercenary Company
+MyContainer: Combat Services
 alignment: Chaotic Neutral (Professional Warriors)
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Elite Combat Mercenary Company
 headquarters: '[[The Battle Forge Arena]]'
+influence: Combat Training, Mercenary Services
 leader: '[[Commander Vex Shadowthorn]]'
 members: ~45 elite fighters, ~150 support personnel
-influence: Combat Training, Mercenary Services
-purpose: Eliminate dangerous creatures and hostile entities
-created_by: auto-stub
-created: 2025-08-08
 modified: 2025-08-11 - Category/Group
-MyContainer: Combat Services
-MyCategory: Mercenary Company
 obsidianUIMode: preview
-updated: 2025-08-11
+purpose: Eliminate dangerous creatures and hostile entities
+status: complete
+tags:
+- boss-hunting
+- content/faction
+- mechanics/combat
+- mercenary-company
+- status/complete
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.657105'
+world: Aethermoor
 ---
 
 > [!figure] Heraldry

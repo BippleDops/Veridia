@@ -1,23 +1,22 @@
 ---
-updated: '2025-08-13T01:18:35.148170+00:00'
-created: 2025-08-11
-tags:
-- aethermoor
-- category/lore
-- complete
-- lore
-status: complete
-world: Aethermoor
-type: lore
-obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: This lore entry explains a pivotal principle or event and
-    its consequences for play.
   content_warnings: []
   pronunciation: Save Queen Seraphina
   safety_tools:
   - Lines & Veils
   - X-Card
+  screen_reader_summary: This lore entry explains a pivotal principle or event and
+    its consequences for play.
+created: '2025-08-11'
+obsidianUIMode: preview
+status: complete
+tags:
+- content/lore
+- status/complete
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:38.699011'
+world: Aethermoor
 ---
 
 

@@ -1,19 +1,19 @@
 ---
-tags:
-- aquabyssos
-- complete
-- faction
-- location
-- merchants
-- surface-world
-- trade
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.444912+00:00'
 danger_level: Moderate
+status: complete
+tags:
+- content/faction
+- content/location
+- merchants
+- status/complete
+- trade
+- world/aquabyssos
+- world/surface
+type: Location
+updated: '2025-08-12T23:37:40.314492'
+world: Aquabyssos
 ---
 
 

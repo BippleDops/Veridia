@@ -1,22 +1,22 @@
 ---
-tags:
-- aquabyssos
-- complete
-- enchanter
-- location
-- magic
-- npc
-- peacewarden
-status: complete
-world: Aquabyssos
-type: Location
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
 MyCategory: NPC
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:35.984469+00:00'
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
 danger_level: Moderate
+obsidianUIMode: preview
+status: complete
+tags:
+- content/location
+- content/npc
+- enchanter
+- mechanics/magic
+- peacewarden
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:39.766869'
+world: Aquabyssos
 ---
 
 

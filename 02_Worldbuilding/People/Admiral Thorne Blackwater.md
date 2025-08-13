@@ -1,43 +1,42 @@
 ---
-tags:
-- both
-- category/people
-- complete
-- depth_wardens
-- leader
-- military
-- npc
+MyCategory: Unknown
+MyContainer: None
 aliases:
 - Admiral Blackwater
 - The Iron Admiral
 - Thorne
-created: 2024-12-19
-image: 04_Resources/Assets/NPCs/thorne_blackwater.jpg
-level: 17
-class: Fighter/Ranger
-race: Pressure-Adapted Human
 alignment: Lawful Neutral
-status: complete
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-relationships:
-- target: '[[Captain Garrett Stormcutter]]'
-  type: rival
-  strength: 3
-- target: '[[The Crystal Throne]]'
-  type: ally
-  strength: 4
-- target: '[[Queen Seraphina Lumengarde]]'
-  type: subordinate
-  strength: 2
+class: Fighter/Ranger
+created: '2024-12-19'
+current_hp: 15
+image: 04_Resources/Assets/NPCs/thorne_blackwater.jpg
 in_combat: true
 initiative: 12
-current_hp: 15
+level: 17
 max_hp: 20
+obsidianUIMode: preview
+race: Pressure-Adapted Human
+relationships:
+- strength: 3
+  target: '[[Captain Garrett Stormcutter]]'
+  type: rival
+- strength: 4
+  target: '[[The Crystal Throne]]'
+  type: ally
+- strength: 2
+  target: '[[Queen Seraphina Lumengarde]]'
+  type: subordinate
+status: complete
+tags:
+- campaign/hook
+- content/npc
+- military
+- status/complete
+- world/aquabyssos
+- world/both
+type: Npc
+updated: '2025-08-12T23:37:41.047676'
 world: Both
-updated: 2025-08-11
-type: NPC
 ---
 
 

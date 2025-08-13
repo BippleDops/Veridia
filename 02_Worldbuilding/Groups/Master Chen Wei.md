@@ -1,29 +1,28 @@
 ---
-tags:
-- aethermoor
-- combat-training
-- complete
-- faction
-- group
-- martial-order
-- monastery
-- spiritual-discipline
-status: complete
-world: Aethermoor
-type: Group
-faction_type: Martial Arts Order
+MyCategory: Unknown
+MyContainer: None
 alignment: Lawful Neutral
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Martial Arts Order
 headquarters: '[[The Temple of Flowing Waters]]'
+influence: Regional (Martial arts community and spiritual seekers)
 leader: '[[Master Chen Wei]]'
 members: ~150 monks, students, and initiates
-influence: Regional (Martial arts community and spiritual seekers)
-wealth: Modest (Donations and training fees)
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.644515+00:00'
-MyContainer: None
-MyCategory: Unknown
 obsidianUIMode: preview
+status: complete
+tags:
+- content/faction
+- martial-order
+- mechanics/combat
+- monastery
+- spiritual-discipline
+- status/complete
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.557196'
+wealth: Modest (Donations and training fees)
+world: Aethermoor
 ---
 
 

@@ -1,23 +1,22 @@
 ---
-tags:
-- aquabyssos
-- category/lore
-- complete
-- lore
-status: complete
-world: Aquabyssos
-type: lore
-obsidianUIMode: preview
 accessibility:
-  screen_reader_summary: This lore entry explains a pivotal principle or event and
-    its consequences for play.
   content_warnings: []
   pronunciation: Random Encounter Tables - Aquabyssos
   safety_tools:
   - Lines & Veils
   - X-Card
-updated: '2025-08-13T01:18:35.816261+00:00'
+  screen_reader_summary: This lore entry explains a pivotal principle or event and
+    its consequences for play.
 created: null
+obsidianUIMode: preview
+status: complete
+tags:
+- content/lore
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:39.531513'
+world: Aquabyssos
 ---
 
 

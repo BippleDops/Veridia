@@ -1,21 +1,21 @@
 ---
-tags:
-- aquabyssos
-- awakening
-- complete
-- cult
-- npc
-- organization
-- prophecy
-status: complete
-world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
 MyCategory: Religious
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
 obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.916288+00:00'
+status: complete
+tags:
+- awakening
+- content/faction
+- content/npc
+- cult
+- prophecy
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.893906'
+world: Aquabyssos
 ---
 
 

@@ -1,22 +1,22 @@
 ---
+MyCategory: Magical
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
 - binding
-- complete
-- location
-- magic
-- npc
+- content/location
+- content/npc
+- mechanics/magic
 - sanctum
 - shadow
-status: complete
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.789868'
 world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
-MyCategory: Magical
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.836267+00:00'
 ---
 
 

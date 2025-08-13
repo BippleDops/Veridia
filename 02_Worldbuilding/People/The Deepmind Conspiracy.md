@@ -1,21 +1,21 @@
 ---
-tags:
-- aquabyssos
-- complete
-- conspiracy
-- deep
-- lore
-- mind
-- npc
-status: complete
-world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
 MyCategory: Conspiracy
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
 obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.967339+00:00'
+status: complete
+tags:
+- conspiracy
+- content/lore
+- content/npc
+- deep
+- mind
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.953779'
+world: Aquabyssos
 ---
 
 

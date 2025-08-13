@@ -1,26 +1,23 @@
 ---
-tags:
-- aethermoor
-- complete
-- criminal-organization
-- faction
-- group
-- shadow-magic
-- smuggling
-- thieves-guild
-status: complete
-world: Aethermoor
-type: Group
-faction_type: Criminal Syndicate
 alignment: Chaotic Evil
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Criminal Syndicate
 headquarters: '[[The Thorned Sanctuary]] (Hidden)'
+influence: Major (Underground)
 leader: '[[Vex Shadowthorn the Kingpin]]'
 members: ~800 criminals, smugglers, and shadow-touched
-influence: Major (Underground)
 purpose: Control criminal activities and exploit shadow corruption
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.745047+00:00'
+status: complete
+tags:
+- content/faction
+- mechanics/magic
+- smuggling
+- status/complete
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.684994'
+world: Aethermoor
 ---
 
 

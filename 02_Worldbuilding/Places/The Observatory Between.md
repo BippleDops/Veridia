@@ -1,19 +1,18 @@
 ---
-tags:
-- active
-- aethermoor
-- aquabyssos
-- both
-- inter-dimensional
-- observatory
-- place
-type: Place
-world: Both
-status: active
-created: 2025-08-12
-updated: '2025-08-13T01:18:36.512259+00:00'
+created: '2025-08-12'
 danger_level: High
 restricted_access: true
+status: complete
+tags:
+- content/location
+- observatory
+- status/in-progress
+- world/aethermoor
+- world/aquabyssos
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.412745'
+world: Both
 ---
 
 

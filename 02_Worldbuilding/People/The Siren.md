@@ -1,29 +1,29 @@
 ---
-tags:
-- aethermoor
-- bard
-- complete
-- information-broker
-- legendary
-- mysterious
-- npc
-- spy
-status: complete
-world: Aethermoor
-type: NPC
-race: Half-Elf (Crystal-Touched)
-class: Bard/Rogue
-level: 14
-alignment: Chaotic Neutral
-location: Various (Never stays in one place)
-faction: Independent (Information Broker)
-status_condition: Active, Identity Unknown
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
 MyCategory: Unknown
+MyContainer: None
+alignment: Chaotic Neutral
+class: Bard/Rogue
+created: '2025-08-08'
+created_by: auto-stub
+faction: Independent (Information Broker)
+level: 14
+location: Various (Never stays in one place)
 obsidianUIMode: preview
+race: Half-Elf (Crystal-Touched)
+status: complete
+status_condition: Active, Identity Unknown
+tags:
+- bard
+- content/lore
+- content/npc
+- information-broker
+- mysterious
+- spy
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:41.048891'
+world: Aethermoor
 ---
 
 > [!figure] Portrait

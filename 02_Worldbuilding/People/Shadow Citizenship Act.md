@@ -1,22 +1,22 @@
 ---
+MyCategory: Political
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
 - citizenship
-- complete
+- content/lore
+- content/npc
 - law
-- lore
-- npc
 - politics
 - shadow
-status: complete
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.938133'
 world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
-MyCategory: Political
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.952908+00:00'
 ---
 
 

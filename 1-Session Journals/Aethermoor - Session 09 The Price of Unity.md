@@ -1,7 +1,10 @@
 ---
-session_number: 9
-title: The Price of Unity
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
 date_played: null
+estimated_time: 3-4 hours
+level: 5
 location: New Meridian - The Merged City
 npcs_featured:
 - '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
@@ -9,29 +12,25 @@ npcs_featured:
 - '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
 - '[[Aquabyssos Ambassadors]]'
 - '[[The Transformed Citizens]]'
+obsidianUIMode: preview
 quests_advanced:
 - '[[Establish the New Order]]'
 - '[[The Crown''s Burden]]'
 - '[[Healing Two Worlds]]'
-level: 5
-estimated_time: 3-4 hours
+session_number: 9
+status: complete
 tags:
-- active
-- aethermoor
-- aquabyssos
-- lore
+- campaign/session
+- content/lore
 - merged-reality
 - new-world
-- session
-- session-journal
+- status/in-progress
+- world/aethermoor
+- world/aquabyssos
+title: The Price of Unity
 type: Lore
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:41.174820'
 world: Aethermoor
-updated: '2025-08-13T01:18:37.174607+00:00'
-created: 2025-08-11
-status: active
 ---
 
 

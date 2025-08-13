@@ -1,23 +1,21 @@
 ---
-tags:
-- both
-- both-realms
-- combat-management
-- combat-tools
-- complete
-- game-mechanics
-- initiative
-- lore
-- mechanics
-- turn-order
-status: complete
-world: Both
-type: Lore
-system: D&D 5e
 complexity: Intermediate
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.391357+00:00'
+status: complete
+system: D&D 5e
+tags:
+- content/item
+- content/lore
+- content/mechanics
+- initiative
+- mechanics/combat
+- status/complete
+- turn-order
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:38.989345'
+world: Both
 ---
 
 

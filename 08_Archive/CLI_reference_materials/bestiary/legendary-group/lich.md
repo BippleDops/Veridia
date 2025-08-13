@@ -1,20 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/legendary-group
 aliases:
 - Lich
-type: note
 created: 2025-07-23
-updated: '2025-08-13T01:18:32.874669+00:00'
+cssclasses: json5e-note
 modified: 2025-07-23 12:39
-world: Both
+obsidianUIMode: preview
 status: active
+tags:
+- content/faction
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/mm
+- world/both
+type: note
+updated: '2025-08-12T23:37:35.714819'
+world: Both
 ---
 
 

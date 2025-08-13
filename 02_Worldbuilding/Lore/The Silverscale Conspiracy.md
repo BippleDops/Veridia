@@ -1,30 +1,29 @@
 ---
+active_period: Past 150 years, escalating recently
+conspiracy_type: Economic and Political Manipulation
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: 4
+primary_agents: Silverscale Banking House and allied organizations
+scope: Cross-world influence network
+status: complete
 tags:
-- aethermoor
-- aquabyssos
+- access/secret
 - banking
-- both worlds
-- both-worlds
-- complete
 - conspiracy
+- content/lore
 - corruption
 - intrigue
-- lore
 - political-manipulation
 - power-struggle
-- secret-society
 - silverscale
-status: complete
-world: Both Worlds
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.517529+00:00'
-conspiracy_type: Economic and Political Manipulation
-scope: Cross-world influence network
-danger_level: 4
-active_period: Past 150 years, escalating recently
-primary_agents: Silverscale Banking House and allied organizations
+updated: '2025-08-12T23:37:39.182012'
+world: Both Worlds
 ---
 
 

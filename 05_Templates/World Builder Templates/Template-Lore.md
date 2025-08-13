@@ -1,15 +1,16 @@
 ---
-updated: '2025-08-13T01:18:31.189952+00:00'
-created: 2025-08-11
-tags:
-- active
-- both
-- category/lore
-MyContainer: []
 MyCategory: null
+MyContainer: []
+created: '2025-08-11'
 obsidianUIMode: preview
+status: complete
+tags:
+- content/lore
+- status/in-progress
+- world/both
+type: Template
+updated: '2025-08-12T23:37:33.117780'
 world: Both
-status: active
 ---
 
 <%*

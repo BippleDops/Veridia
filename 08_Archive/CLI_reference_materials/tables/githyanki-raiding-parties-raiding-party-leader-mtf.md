@@ -1,19 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/mtf
 aliases:
 - Githyanki Raiding Parties; Raiding Party Leader
-type: note
 created: 2025-07-23
-updated: '2025-08-13T01:18:31.501102+00:00'
+cssclasses: json5e-note
 modified: 2025-07-23 12:39
-world: Both
+obsidianUIMode: preview
 status: active
+tags:
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/mtf
+- world/both
+type: note
+updated: '2025-08-12T23:37:33.543924'
+world: Both
 ---
 
 # Githyanki Raiding Parties; Raiding Party Leader

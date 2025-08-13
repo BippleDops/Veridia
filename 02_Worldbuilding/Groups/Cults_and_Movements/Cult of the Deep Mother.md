@@ -1,19 +1,18 @@
 ---
+created: '2025-08-12'
+created_by: claude
+status: complete
 tags:
-- aquabyssos
-- both
-- complete
+- content/faction
 - cult
 - deep-mother
 - eldritch-horror
-- group
-- organization
-status: complete
+- status/complete
+- world/aquabyssos
+- world/both
+type: Faction
+updated: '2025-08-12T23:37:40.690930'
 world: Both
-type: Group
-created_by: claude
-created: 2025-08-12
-updated: '2025-08-13T01:18:36.750057+00:00'
 ---
 
 

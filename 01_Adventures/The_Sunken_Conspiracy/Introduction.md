@@ -1,21 +1,20 @@
 ---
-title: The Sunken Conspiracy - Introduction
-type: adventure_introduction
+created: '2025-08-11'
 level_range: 1-3
 sessions: 5
-world: Aquabyssos
 status: complete
 tags:
-- adventure
-- adventure_introduction
-- aquabyssos
-- complete
 - conspiracy
-- investigation
+- content/adventure
 - levels-1-3
+- mechanics/exploration
 - smuggling
-created: 2025-08-11
-updated: '2025-08-13T01:18:37.158445+00:00'
+- status/complete
+- world/aquabyssos
+title: The Sunken Conspiracy - Introduction
+type: Adventure
+updated: '2025-08-12T23:37:41.157794'
+world: Aquabyssos
 ---
 
 

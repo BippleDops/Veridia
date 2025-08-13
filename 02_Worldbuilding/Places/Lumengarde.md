@@ -1,25 +1,23 @@
 ---
-tags:
-- active
-- both
-- city
-- gloom_gardens
-- location
-- major_settlement
+MyCategory: Unknown
+MyContainer: None
 aliases:
 - The Living Light
 - Garden City
-created: 2024-12-19
-image: 04_Resources/Assets/Locations/lumengarde.jpg
+created: '2024-12-19'
 danger_level: Low-Moderate
-population: 45000 - Category/Place
-MyContainer: None
-MyCategory: Unknown
+image: 04_Resources/Assets/Locations/lumengarde.jpg
 obsidianUIMode: preview
-world: Both
-updated: '2025-08-13T01:18:36.462254+00:00'
-status: active
+population: 45000 - Category/Place
+status: complete
+tags:
+- content/location
+- gloom_gardens
+- status/in-progress
+- world/both
 type: Location
+updated: '2025-08-12T23:37:40.339358'
+world: Both
 ---
 
 

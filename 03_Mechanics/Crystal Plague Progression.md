@@ -1,14 +1,14 @@
 ---
-updated: '2025-08-13T01:18:37.106695+00:00'
-created: 2025-08-11
-tags:
-- aquabyssos
-- complete
-- mechanic
-status: complete
-world: Aquabyssos
-type: mechanic
+created: '2025-08-11'
 obsidianUIMode: preview
+status: complete
+tags:
+- content/mechanics
+- status/complete
+- world/aquabyssos
+type: Mechanics
+updated: '2025-08-12T23:37:41.092944'
+world: Aquabyssos
 ---
 
 

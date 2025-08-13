@@ -1,29 +1,28 @@
 ---
+active_period: Past 30+ years, identity constantly shifting
+category: Mystery Figure
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: 5
+investigation_difficulty: Extremely High
+mystery_type: Identity and Conspiracy Network
+significance: Major Conspiracy Element
+status: complete
 tags:
-- aethermoor
-- complete
+- access/secret
 - conspiracy
-- hidden-identity
+- content/lore
 - identity
 - infiltration
-- investigation
-- lore
+- mechanics/exploration
 - mystery
 - political-manipulation
-- secret-society
 - shadow-operations
-status: complete
-world: Aethermoor
+- status/complete
+- world/aethermoor
 type: Lore
-category: Mystery Figure
-significance: Major Conspiracy Element
-mystery_type: Identity and Conspiracy Network
-danger_level: 5
-active_period: Past 30+ years, identity constantly shifting
-investigation_difficulty: Extremely High
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:39.407224'
+world: Aethermoor
 ---
 
 

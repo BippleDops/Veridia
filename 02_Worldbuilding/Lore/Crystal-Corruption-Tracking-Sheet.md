@@ -1,26 +1,25 @@
 ---
+access_restriction: Authorized Personnel Only
+category: Monitoring Technology
+created: '2025-08-08'
+created_by: auto-stub
+significance: Critical Safety System
+status: complete
 tags:
-- aethermoor
-- complete
+- content/lore
+- content/mechanics
 - corruption-detection
-- crystal-corruption
 - data-analysis
 - innovation
-- lore
-- magical-technology
+- mechanics/magic
 - monitoring-device
+- status/complete
 - technology
-- tracking-system
-status: complete
-world: Aethermoor
-type: Lore
-category: Monitoring Technology
-significance: Critical Safety System
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+- world/aethermoor
 technology_type: Magical Detection and Analysis System
-access_restriction: Authorized Personnel Only
+type: Lore
+updated: '2025-08-12T23:37:39.675753'
+world: Aethermoor
 ---
 
 

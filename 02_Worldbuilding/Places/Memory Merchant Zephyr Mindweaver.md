@@ -1,27 +1,27 @@
 ---
+MyCategory: NPC
+MyContainer: None
+class: Enchanter
+cr: 12
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+faction: Independent Traders
+location: Memory Bazaar, Abyssal Depths
+obsidianUIMode: preview
+race: Sea Elf
+status: complete
 tags:
-- aquabyssos
-- complete
-- location
+- content/location
+- content/npc
+- mechanics/magic
 - memory
 - merchant
-- mind-magic
-- npc
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-cr: 12
-race: Sea Elf
-class: Enchanter
-location: Memory Bazaar, Abyssal Depths
-faction: Independent Traders
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.590476+00:00'
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.526705'
+world: Aquabyssos
 ---
 
 

@@ -1,30 +1,29 @@
 ---
+MyCategory: Quest
+MyContainer: None
+created: '2025-08-08'
+created_by: system
+level_range: 8-14
+obsidianUIMode: preview
+quest_giver: The Emerald Sage Willowbark
+quest_priority: High
+quest_status: Available
+quest_type: Main Quest
+rewards: Legendary Items, Realm Stability, Nature's Blessing
+status: complete
 tags:
-- active
 - balance
-- both
-- both-realms
+- content/adventure
+- content/lore
 - elemental
 - environmental
-- lore
 - nature
-- quest
-quest_status: Available
-quest_priority: High
-quest_type: Main Quest
-level_range: 8-14
-world: Both
-quest_giver: The Emerald Sage Willowbark
-rewards: Legendary Items, Realm Stability, Nature's Blessing
+- status/in-progress
+- world/both
 time_limit: 30 days before irreversible damage
-created_by: system
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.495040+00:00'
-MyContainer: None
-MyCategory: Quest
-obsidianUIMode: preview
-status: active
 type: Lore
+updated: '2025-08-12T23:37:37.785366'
+world: Both
 ---
 
 

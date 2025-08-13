@@ -1,20 +1,21 @@
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- parliament-shadows
-- session
-session: Session 01 Aquabyssos
-session_number: 1
-title: The Drowning Welcome
-date: null
-type: Lore
-players: []
+MyCategory: Unknown
+MyContainer: None
 absent: []
+ap_gained: 2
 campaign: The Parliament of Shadows
-primary_location: '[[Abyssos Prime - Inverse Palace]]'
+created: '2025-08-11'
+date: null
 depth: 1500
+duration_hours: 4
+encounters:
+- '[[Shadow Ambush - Optional]]'
+gold_gained: 200
+items_gained:
+- Senator's Emergency Beacon
+- Pressure Adaptation Pills (3)
+- Encrypted Shadow Market invitation
+- Palace safe zones map
 locations_visited:
 - '[[Abyssos Prime - Pressure Terminal]]'
 - '[[Throne of Bubbles]]'
@@ -25,35 +26,34 @@ npcs_met:
 - '[[02_Worldbuilding/People/The Scattered Emperor]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
 - '[[Pressure Tube Operator Krill]]'
-encounters:
-- '[[Shadow Ambush - Optional]]'
-quests_started:
-- '[[Investigate Shadow Conspiracy]]'
-- '[[Discover Shadow Market Location]]'
-quests_progressed: []
-quests_completed: []
-items_gained:
-- Senator's Emergency Beacon
-- Pressure Adaptation Pills (3)
-- Encrypted Shadow Market invitation
-- Palace safe zones map
-gold_gained: 200
-xp_awarded: null
+obsidianUIMode: preview
+players: []
 plot_threads:
 - Shadows acting independently
 - Senator dissolution incident
 - Shadow Duchess arriving
 - Parliament voting on Shadow Citizenship Act
-duration_hours: 4
-ap_gained: 2
+primary_location: '[[Abyssos Prime - Inverse Palace]]'
+quests_completed: []
+quests_progressed: []
+quests_started:
+- '[[Investigate Shadow Conspiracy]]'
+- '[[Discover Shadow Market Location]]'
+session: Session 01 Aquabyssos
+session_number: 1
 shadow_level_change: 0
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+status: complete
+tags:
+- campaign/session
+- content/lore
+- parliament-shadows
+- status/in-progress
+- world/aquabyssos
+title: The Drowning Welcome
+type: Lore
+updated: '2025-08-12T23:37:41.181149'
 world: Aquabyssos
-updated: '2025-08-13T01:18:37.180787+00:00'
-created: 2025-08-11
-status: active
+xp_awarded: null
 ---
 
 

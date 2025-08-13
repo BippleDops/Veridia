@@ -1,17 +1,8 @@
 ---
-tags:
-- active
-- both
-- lore
-- mid-level
-- mystical
-- order-of-shattered-crown
-- personal
-- quest
-type: Lore
-quest_giver: '[[02_Worldbuilding/People/The Crimson Sage]]'
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
 level_range: 7-10
-reward_tier: Major
 locations:
 - '[[02_Worldbuilding/Places/The Shattered Sanctum]]'
 - '[[02_Worldbuilding/Places/The Shadowmere]]'
@@ -24,13 +15,22 @@ npcs_involved:
 - '[[02_Worldbuilding/People/High Inquisitor Maltheos]]'
 - '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
 - Category/Quest
-MyContainer: None
-MyCategory: Unknown
 obsidianUIMode: preview
+quest_giver: '[[02_Worldbuilding/People/The Crimson Sage]]'
+reward_tier: Major
+status: complete
+tags:
+- content/adventure
+- content/lore
+- content/npc
+- mechanics/magic
+- mid-level
+- order-of-shattered-crown
+- status/in-progress
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:37.772726'
 world: Both
-updated: '2025-08-13T01:18:34.484578+00:00'
-created: 2025-08-11
-status: active
 ---
 
 

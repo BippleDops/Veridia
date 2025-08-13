@@ -1,31 +1,30 @@
 ---
+access_restriction: Licensed Traders Only
+category: Magical Commerce Technology
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+expanded: 2025-08-11
+operational_status: Active with Restrictions
+significance: Critical Economic Infrastructure
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/lore
+- content/mechanics
+- content/template
 - dimensional-commerce
-- economic-systems
-- inter-dimensional
-- lore
-- magical-infrastructure
-- magical-trading
+- mechanics/magic
 - reality-interface
-- shadow-magic
 - shadow-manipulation
+- status/complete
 - technology
 - umbral-technology
-status: complete
-world: Aquabyssos
-type: Lore
-category: Magical Commerce Technology
-significance: Critical Economic Infrastructure
-created_by: auto-stub
-created: 2025-08-08
-expanded: 2025-08-11
+- world/aquabyssos
+- world/both
 technology_type: Dimensional Commerce Interface
-access_restriction: Licensed Traders Only
-danger_level: Moderate
-operational_status: Active with Restrictions
-updated: 2025-08-11
+type: Lore
+updated: '2025-08-12T23:37:39.197984'
+world: Aquabyssos
 ---
 
 

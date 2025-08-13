@@ -1,31 +1,29 @@
 ---
-tags:
-- both aethermoor and aquabyssos
-- both-aethermoor-and-aquabyssos
-- completed
-- island
-- isolated
-- location
-- mysterious
-- mysterious-island
-- secrets
-- supernatural
-- whispers
-status: completed
-world: Both Aethermoor and Aquabyssos
-type: Location
+climate: Temperate, frequently shrouded in mist
+created: '2025-08-09'
 danger_level: 9
+government: None (Anarchic)
 location: '[[02_Worldbuilding/Places/The Azure Coast]] waters'
 population: Unknown (Estimated 200-500)
-government: None (Anarchic)
-climate: Temperate, frequently shrouded in mist
-size: 12 square miles
-created: 2025-08-09
-updated: '2025-08-13T01:18:36.395958+00:00'
 related_entities:
 - '[[02_Worldbuilding/Groups/The Shadow Conspiracy]]'
 - '[[02_Worldbuilding/Lore/Memory Alterations]]'
 - '[[02_Worldbuilding/Places/Memory Meadows Black Market]]'
+size: 12 square miles
+status: draft
+tags:
+- access/secret
+- content/location
+- isolated
+- mysterious
+- status/complete
+- supernatural
+- whispers
+- world/aethermoor
+- world/surface
+type: Location
+updated: '2025-08-12T23:37:40.244418'
+world: Both Aethermoor and Aquabyssos
 ---
 
 

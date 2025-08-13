@@ -1,18 +1,17 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- both
-- character-connections
-- complete
-- npc-network
-- plot-hooks
+- campaign/arc
+- content/npc
 - relationship guide
 - relationship-guide
 - relationship-web
-status: complete
+- status/complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:41.067499'
 world: Both
-type: Relationship Guide
-created: 2025-08-12
-updated: '2025-08-13T04:22:14.944155+00:00'
 ---
 
 > [!figure] Portrait

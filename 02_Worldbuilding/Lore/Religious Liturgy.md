@@ -1,19 +1,19 @@
 ---
-updated: '2025-08-13T01:18:34.755030+00:00'
-created: 2025-08-12
+created: '2025-08-12'
+obsidianUIMode: preview
+status: complete
 tags:
-- both
 - ceremonial
-- complete
+- content/lore
 - cultural_reference
 - linguistics
 - liturgy
-- lore
 - religion
-status: complete
+- status/complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:38.119662'
 world: Both
-type: cultural_reference
-obsidianUIMode: preview
 ---
 
 

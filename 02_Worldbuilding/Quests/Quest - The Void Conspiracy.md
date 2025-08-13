@@ -1,27 +1,26 @@
 ---
-tags:
-- aethermoor
-- complete
-- conspiracy
-- dimensional
-- high-level
-- investigation
-- quest
-- shadow-crystal
-- void
-status: complete
-world: Aethermoor
-type: Quest
-level: 11-15
-category: Major Story Arc
-location: Multiple - Aethermoor Cities
-reward: Epic
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.825140+00:00'
-MyContainer: None
 MyCategory: Quest
+MyContainer: None
+category: Major Story Arc
+created: '2025-08-08'
+created_by: auto-stub
+level: 11-15
+location: Multiple - Aethermoor Cities
 obsidianUIMode: preview
+reward: Epic
+status: complete
+tags:
+- conspiracy
+- content/adventure
+- high-level
+- mechanics/exploration
+- status/complete
+- void
+- world/aethermoor
+- world/both
+type: Adventure
+updated: '2025-08-12T23:37:37.748830'
+world: Aethermoor
 ---
 
 > [!figure] Portrait

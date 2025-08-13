@@ -1,31 +1,31 @@
 ---
 NoteIcon: journal
+OneLiner: 1 Line Summary
+Status:
+- ⏳
 aat-render-enabled: true
+created: '2025-08-11'
 fc-category:
 - Event Category 1
 fc-display-name: null
+obsidianUIMode: preview
+players: 2
+sessionDate: 2000-01-01
 sessionstatus:
 - Occured
-type: Lore
-sessionDate: 2000-01-01
-players: 2
-Status:
-- ⏳
-OneLiner: 1 Line Summary
-timelines:
-- journal
+status: complete
 tags:
 - '#category/journal'
-- active
-- both
+- campaign/session
+- content/lore
 - journal
-- lore
-- session-journal
-obsidianUIMode: preview
+- status/in-progress
+- world/both
+timelines:
+- journal
+type: Lore
+updated: '2025-08-12T23:37:33.115279'
 world: Both
-updated: '2025-08-13T01:18:31.187744+00:00'
-created: 2025-08-11
-status: active
 ---
 
 

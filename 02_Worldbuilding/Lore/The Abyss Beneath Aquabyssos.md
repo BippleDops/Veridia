@@ -1,27 +1,25 @@
 ---
-tags:
-- abyss
-- ancient-powers
-- aquabyssos
-- complete
-- darkness
-- depths
-- forbidden-knowledge
-- leviathan
-- location
-- lore
-- mystery
-- void
-status: complete
-world: Aquabyssos
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
 danger_level: 5
 depth: Below 10,000 feet - The Measureless Deep
 government: None - Primordial Chaos
 population: Unknown entities of incomprehensible nature
+status: complete
+tags:
+- ancient-powers
+- content/location
+- content/lore
+- darkness
+- forbidden-knowledge
+- leviathan
+- mystery
+- status/complete
+- void
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:37.934086'
+world: Aquabyssos
 ---
 
 

@@ -1,13 +1,13 @@
 ---
 created: null
-updated: '2025-08-13T04:22:10.867487+00:00'
-world: Aquabyssos
-status: active
+status: complete
 tags:
-- active
-- aquabyssos
-- mechanic
-type: Mechanic
+- content/mechanics
+- status/in-progress
+- world/aquabyssos
+type: Mechanics
+updated: '2025-08-12T23:37:33.029960'
+world: Aquabyssos
 ---
 
 

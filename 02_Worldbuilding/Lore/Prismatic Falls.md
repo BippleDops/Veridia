@@ -1,18 +1,17 @@
 ---
-tags:
-- aquabyssos
-- complete
-- location
-- lore
-- magical-phenomenon
-- prismatic
-- underwater-feature
-status: complete
-world: Aquabyssos
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+status: complete
+tags:
+- content/location
+- content/lore
+- mechanics/magic
+- prismatic
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:38.278306'
+world: Aquabyssos
 ---
 
 

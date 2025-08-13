@@ -1,17 +1,17 @@
 ---
-world: Both
-updated: '2025-08-13T01:18:35.453716+00:00'
-created: 2025-08-12
+created: '2025-08-12'
 status: complete
 tags:
 - banking
-- both
-- complete
+- content/lore
 - currency
 - economy
 - finance
-- lore
+- status/complete
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:39.081746'
+world: Both
 ---
 
 

@@ -1,18 +1,17 @@
 ---
-tags:
-- aquabyssos
-- complete
-- hidden
-- location
-- political-dissidents
-- settlements
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
 danger_level: Moderate
+status: complete
+tags:
+- access/secret
+- content/location
+- political-dissidents
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.371037'
+world: Aquabyssos
 ---
 
 > [!figure] View

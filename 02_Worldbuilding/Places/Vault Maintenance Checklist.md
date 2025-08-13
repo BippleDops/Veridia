@@ -1,19 +1,19 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/location
 - document
-- location
-- maintenance
+- importance/core
 - royal-vault
 - security
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.520370+00:00'
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.423486'
+world: Aquabyssos
 ---
 
 > [!figure] View

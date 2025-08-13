@@ -1,21 +1,19 @@
 ---
+created: '2025-08-12'
+created_by: claude
+status: complete
 tags:
-- both
-- both-realms
 - children
-- complete
 - culture
 - daily-life
 - education
 - family
-- social guide
-- social-guide
-status: complete
+- mechanics/social
+- status/complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:38.287949'
 world: Both
-type: Social Guide
-created_by: claude
-created: 2025-08-12
-updated: '2025-08-13T04:22:13.596477+00:00'
 ---
 
 

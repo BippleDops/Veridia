@@ -1,26 +1,26 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
+estimated_sessions: 4-6
+level_range: 5-10
+obsidianUIMode: preview
+quest_type: Tactical Combat & Resistance Operations
+status: complete
 tags:
 - ambush
-- aquabyssos
-- complete
+- content/adventure
+- content/lore
 - guerrilla-tactics
-- lore
-- quest
 - resistance-movement
 - shadow-conspiracy
+- status/complete
 - tactical-warfare
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Lore
-level_range: 5-10
-quest_type: Tactical Combat & Resistance Operations
-estimated_sessions: 4-6
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.472845+00:00'
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:37.757209'
+world: Aquabyssos
 ---
 
 

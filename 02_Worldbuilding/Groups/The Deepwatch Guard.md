@@ -1,27 +1,26 @@
 ---
-tags:
-- aquabyssos
-- complete
-- elite-guards
-- group
-- military-unit
-- organization
-- shadow-watchers
-- specialized-forces
-status: complete
-world: Aquabyssos
-type: Group
-organization_type: Elite Military Unit
 affiliation: '[[02_Worldbuilding/Places/Aquabyssos]] Government'
+created: '2025-08-09'
+created_by: Claude
+founded: 2987
+headquarters: '[[The Shadowwatch Bastion]]'
 leadership: '[[Captain Marcus Voidward]]'
+motto: Where Light Cannot Reach, We Stand Guard
+organization_type: Elite Military Unit
 size: ~200 Active Members
 specialization: Shadow Corruption & Deep Threat Response
-headquarters: '[[The Shadowwatch Bastion]]'
-founded: 2987
-motto: Where Light Cannot Reach, We Stand Guard
-created_by: Claude
-created: 2025-08-09
-updated: '2025-08-13T01:18:36.663573+00:00'
+status: complete
+tags:
+- content/faction
+- elite-guards
+- military-unit
+- shadow-watchers
+- specialized-forces
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.582488'
+world: Aquabyssos
 ---
 
 

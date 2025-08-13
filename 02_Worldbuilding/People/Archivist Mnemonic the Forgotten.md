@@ -1,25 +1,24 @@
 ---
+affiliation: '[[The Archive of Unremembered Things]]'
+age: Unknown (memory fragments suggest centuries)
+cr: '5'
+created: '2025-08-09'
+created_by: auto-stub
+location: '[[The Archive of Unremembered Things]] - The Forgetting Vaults'
+race: Human (Memory-Touched)
+role: Keeper of Lost Memories
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/npc
 - deep-mother
 - divine-servant
 - forgotten
 - memory-keeper
-- npc
-- person
-status: complete
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.799237'
 world: Aquabyssos
-type: NPC
-role: Keeper of Lost Memories
-affiliation: '[[The Archive of Unremembered Things]]'
-age: Unknown (memory fragments suggest centuries)
-race: Human (Memory-Touched)
-location: '[[The Archive of Unremembered Things]] - The Forgetting Vaults'
-created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
-cr: '5'
 ---
 
 

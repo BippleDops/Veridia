@@ -1,21 +1,21 @@
 ---
-tags:
-- aquabyssos
-- complete
-- harbor
-- location
-- port
-- trade
-status: complete
-world: Aquabyssos
-type: Location
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
 MyCategory: Location
-obsidianUIMode: preview
-updated: 2025-08-12
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
 danger_level: Moderate
+obsidianUIMode: preview
+status: complete
+tags:
+- campaign/hook
+- content/location
+- harbor
+- status/complete
+- trade
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:39.918552'
+world: Aquabyssos
 ---
 
 > [!figure] View

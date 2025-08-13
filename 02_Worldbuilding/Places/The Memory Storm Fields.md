@@ -1,26 +1,26 @@
 ---
+affected_areas: Deep Ocean Regions with High Memory Density
+created: '2025-08-09'
+created_by: Claude
+danger_level: 5
+discovery_date: 2985
+duration: 3-10 days per storm event
+frequency: Seasonal (Peak during Remembrance Tides)
+hazard_type: Memory/Temporal Anomaly
+research_status: Ongoing Investigation
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/location
 - dangerous-region
 - environmental-hazard
 - environmental_hazard
-- location
 - memory-phenomena
+- status/complete
 - temporal-distortion
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Location
-hazard_type: Memory/Temporal Anomaly
-danger_level: 5
-affected_areas: Deep Ocean Regions with High Memory Density
-frequency: Seasonal (Peak during Remembrance Tides)
-duration: 3-10 days per storm event
-discovery_date: 2985
-research_status: Ongoing Investigation
-created_by: Claude
-created: 2025-08-09
-updated: '2025-08-13T01:18:36.078958+00:00'
+updated: '2025-08-12T23:37:39.883294'
+world: Aquabyssos
 ---
 
 

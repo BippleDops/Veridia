@@ -1,8 +1,8 @@
 ---
+created: '2025-08-12'
+created_by: claude
+status: complete
 tags:
-- both
-- both-realms
-- complete
 - comprehensive
 - cultural reference
 - cultural-reference
@@ -10,12 +10,11 @@ tags:
 - daily-life
 - nuances
 - routine
-status: complete
+- status/complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:39.354102'
 world: Both
-type: Cultural Reference
-created_by: claude
-created: 2025-08-12
-updated: '2025-08-13T04:22:14.119896+00:00'
 ---
 
 

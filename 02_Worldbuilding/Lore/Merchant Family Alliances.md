@@ -1,18 +1,18 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
 - alliances
-- aquabyssos
-- complete
+- content/lore
 - economics
-- lore
 - merchants
 - relationships
+- status/complete
 - trade
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:39.203148'
 world: Aquabyssos
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:35.531378+00:00'
 ---
 
 

@@ -1,64 +1,64 @@
 ---
-tags:
-- active
-- aquabyssos
-- both
-- npc
-- parliament
-- shadow-replaced
-first_name: Glaucus
-last_name: Tidecaller
-title: Senator
-location: '[[Abyssos Prime - Parliament of Echoes]]'
-faction: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
-secondary_faction: '[[Shadow Conspiracy]]'
-occupation: Senator (Shadow-replaced)
-disposition: -2
-alignment: Lawful Evil
-race: Human (Shadow)
-original_race: Human
-class: Noble
-level: 7
 ac: 15
-max_hp: 52
+alignment: Lawful Evil
+class: Noble
+created: '2025-08-07'
 current_hp: 52
-influence: 6
-faction_rank: 3
-shadow_status: Replaced
-shadow_independence: 6
 depth_adapted: 4
+description: Tall, thin figure with translucent skin showing dark veins beneath. Laughs
+  at inappropriate times.
+disposition: -2
+faction: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+faction_rank: 3
+first_name: Glaucus
+influence: 6
+last_encounter: '[[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]'
+last_name: Tidecaller
+level: 7
+location: '[[Abyssos Prime - Parliament of Echoes]]'
+max_hp: 52
+notes: Has been shadow-replaced for three weeks. Original imprisoned in Memory Meadows.
+obsidianUIMode: preview
+occupation: Senator (Shadow-replaced)
+original_race: Human
 portrait: ''
+race: Human (Shadow)
+related_quests:
+- '[[Investigate Shadow Conspiracy]]'
+- '[[Shadow Citizenship Act]]'
 relationship_type: political
 relationships:
 - '[[02_Worldbuilding/People/The Scattered Emperor]]'
 - '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
 - '[[Original Glaucus]] (imprisoned)'
-related_quests:
-- '[[Investigate Shadow Conspiracy]]'
-- '[[Shadow Citizenship Act]]'
-last_encounter: '[[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]'
-stats:
-  str: 10
-  dex: 14
-  con: 13
-  int: 16
-  wis: 12
-  cha: 15
-description: Tall, thin figure with translucent skin showing dark veins beneath. Laughs
-  at inappropriate times.
-notes: Has been shadow-replaced for three weeks. Original imprisoned in Memory Meadows.
+secondary_faction: '[[Shadow Conspiracy]]'
 secrets:
 - Is actually the shadow of the original Senator
 - Reports directly to Shadow Duchess Nyx
 - Knows location of shadow transformation facility
 - Original Glaucus still alive but imprisoned
-created: 2025-08-07
-updated: '2025-08-13T01:18:37.013844+00:00'
-obsidianUIMode: preview
+shadow_independence: 6
+shadow_status: Replaced
+stats:
+  cha: 15
+  con: 13
+  dex: 14
+  int: 16
+  str: 10
+  wis: 12
+status: complete
+tags:
+- content/location
+- content/npc
+- parliament
+- status/in-progress
+- world/aquabyssos
+- world/both
+title: Senator
+type: Npc
+updated: '2025-08-12T23:37:41.018785'
 world: Both
-status: active
-type: NPC
 ---
 
 

@@ -1,15 +1,4 @@
 ---
-type: note
-attunement: false
-obsidian-u-i-mode: preview
-cssclasses: json5e-item
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/item/gear/tack-and-harness
-- ttrpg-cli/item/rarity/none
 aliases:
 - Barding
 - Breastplate Barding
@@ -25,11 +14,21 @@ aliases:
 - Spiked Barding
 - Splint Barding
 - Studded Leather Barding
+attunement: false
 created: 2025-07-23
-updated: '2025-08-13T01:18:33.771466+00:00'
+cssclasses: json5e-item
 modified: 2025-07-23 12:39
-world: Both
+obsidian-u-i-mode: preview
 status: active
+tags:
+- content/item
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/phb
+- world/both
+type: note
+updated: '2025-08-12T23:37:36.777919'
+world: Both
 ---
 
 

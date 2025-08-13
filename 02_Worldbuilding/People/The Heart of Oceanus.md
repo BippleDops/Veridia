@@ -1,30 +1,28 @@
 ---
+MyCategory: NPC
+MyContainer: None
+affiliation: The Ocean Itself
+age: Ancient - Pre-Creation
+created: '2025-08-08'
+created_by: auto-stub
+location: The Deepest Depths of All Oceans
+obsidianUIMode: preview
+race: Primordial Entity
+role: Primordial Sea Spirit
+status: complete
 tags:
-- ancient
-- aquabyssos
-- complete
+- content/lore
+- content/npc
 - divine
 - entity
 - heart
-- npc
-- oceanus
 - patron
 - primordial
-- sea-spirit
-status: complete
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.773232'
 world: Aquabyssos
-type: NPC
-role: Primordial Sea Spirit
-affiliation: The Ocean Itself
-age: Ancient - Pre-Creation
-race: Primordial Entity
-location: The Deepest Depths of All Oceans
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
 ---
 
 > [!figure] Portrait

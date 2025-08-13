@@ -1,20 +1,20 @@
 ---
-tags:
-- aquabyssos
-- complete
-- headquarters
-- place
-- secret-facility
-- shadow-conspiracy
-type: Place
-world: Aquabyssos
-status: complete
+access_restriction: First and Second Sphere Shadow Operatives Only
+created: '2025-08-12'
 depth: 6,800 feet
 location_type: Secret Headquarters
 security_level: Maximum
-access_restriction: First and Second Sphere Shadow Operatives Only
-created: '2025-08-12'
-updated: '2025-08-13T01:18:36.533048+00:00'
+status: complete
+tags:
+- access/secret
+- content/location
+- headquarters
+- shadow-conspiracy
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.443749'
+world: Aquabyssos
 ---
 
 > [!figure] View

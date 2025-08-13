@@ -1,19 +1,19 @@
 ---
+connection_type: Dimensional Overlap
+created: '2025-08-07'
+status: draft
 tags:
-- aethermoor
-- aquabyssos
 - connections
-- lore
+- content/lore
 - post-merger possibility
 - post-merger-possibility
+- world/aethermoor
+- world/aquabyssos
 - worldbuilding
-world_type: Parallel Realms
-connection_type: Dimensional Overlap
-status: Post-Merger Possibility
-created: 2025-08-07
-world: Aquabyssos
-updated: '2025-08-13T01:18:35.880218+00:00'
 type: Lore
+updated: '2025-08-12T23:37:39.622430'
+world: Aquabyssos
+world_type: Parallel Realms
 ---
 
 

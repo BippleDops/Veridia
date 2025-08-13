@@ -1,18 +1,18 @@
 ---
-world: Both
-updated: '2025-08-13T01:18:35.926651+00:00'
-created: 2025-08-12
+created: '2025-08-12'
 status: complete
 tags:
-- both
-- complete
+- content/lore
 - corruption
 - crime
 - economy
 - financial
 - fraud
-- lore
+- status/complete
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:39.686852'
+world: Both
 ---
 
 

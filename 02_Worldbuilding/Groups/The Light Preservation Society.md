@@ -1,23 +1,23 @@
 ---
-tags:
-- anti-shadow
-- aquabyssos
-- complete
-- group
-- preservation
-- resistance
-type: Group
-world: Aquabyssos
-status: complete
-faction_type: Resistance Movement
 alignment: Lawful Good
+created: '2025-08-12'
+faction_type: Resistance Movement
 headquarters: '[[The Hidden Archive]]'
+influence: Underground Continental Network
 leader: '[[Keeper Luminous Truehart]]'
 members: ~3,400 active resistors, ~15,000 sympathizers
-influence: Underground Continental Network
 purpose: Preserve human identity and resist shadow integration
-created: '2025-08-12'
-updated: '2025-08-13T01:18:36.684877+00:00'
+status: complete
+tags:
+- anti-shadow
+- content/faction
+- preservation
+- resistance
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.612468'
+world: Aquabyssos
 ---
 
 > [!figure] Heraldry

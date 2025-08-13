@@ -1,30 +1,30 @@
 ---
-tags:
-- aethermoor
-- completed
-- historical
-- historical-infrastructure
-- location
-- lore
-- military
-- siege
-- tunnels
-- underground
-- warfare
-status: completed
-world: Aethermoor
-type: Lore
+builders: '[[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers]]'
+created: '2025-08-09'
+current_status: Partially Collapsed, Some Sections Active
 danger_level: 7
 era: The Continental Wars
-builders: '[[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers]]'
-current_status: Partially Collapsed, Some Sections Active
-created: 2025-08-09
-updated: '2025-08-13T01:18:35.848026+00:00'
 related_entities:
 - '[[02_Worldbuilding/Lore/Continental War]]'
 - '[[02_Worldbuilding/Places/Port Meridian]]'
 - '[[02_Worldbuilding/Places/Crystalhaven]]'
 - '[[02_Worldbuilding/Places/Ironhold]]'
+status: draft
+tags:
+- content/location
+- content/lore
+- content/template
+- historical
+- military
+- siege
+- status/complete
+- tunnels
+- underground
+- warfare
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:39.575975'
+world: Aethermoor
 ---
 
 

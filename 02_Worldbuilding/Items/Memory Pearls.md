@@ -1,24 +1,23 @@
 ---
-tags:
-- aquabyssos
-- complete
-- consumable
-- healing-item
-- item
-- memory-farmers
-- memory-magic
-status: complete
-world: Aquabyssos
-type: Item
+affiliation: '[[Memory Farmers]] (Primary Creators)'
+created: '2025-08-10'
+created_by: Claude
+current_location: Various Markets and Collections Throughout Aquabyssos
+danger_level: 2
 item_type: Memory Storage Consumable
 rarity: Uncommon to Legendary (varies by content)
 requires_attunement: 'No'
-affiliation: '[[Memory Farmers]] (Primary Creators)'
-current_location: Various Markets and Collections Throughout Aquabyssos
-danger_level: 2
-created_by: Claude
-created: 2025-08-10
-updated: 2025-08-11
+status: complete
+tags:
+- consumable
+- content/item
+- mechanics/magic
+- memory-farmers
+- status/complete
+- world/aquabyssos
+type: Item
+updated: '2025-08-12T23:37:41.073149'
+world: Aquabyssos
 ---
 
 

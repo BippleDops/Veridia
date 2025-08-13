@@ -1,22 +1,22 @@
 ---
-tags:
-- aquabyssos
-- complete
-- cosmic-horror
-- location
-- navigation
-- temporal
-- time-magic
-status: complete
-world: Aquabyssos
-type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
 MyCategory: Unknown
-obsidianUIMode: preview
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
 danger_level: Moderate
+obsidianUIMode: preview
+status: complete
+tags:
+- content/location
+- cosmic-horror
+- mechanics/magic
+- navigation
+- status/complete
+- temporal
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.483348'
+world: Aquabyssos
 ---
 
 

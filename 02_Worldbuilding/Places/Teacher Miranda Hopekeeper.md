@@ -1,23 +1,23 @@
 ---
+MyCategory: Academy
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
 - academy
-- aquabyssos
-- complete
+- content/location
 - knowledge
-- location
-- magic
+- mechanics/magic
 - resistance
 - school
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Academy
-obsidianUIMode: preview
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.533294'
+world: Aquabyssos
 ---
 
 

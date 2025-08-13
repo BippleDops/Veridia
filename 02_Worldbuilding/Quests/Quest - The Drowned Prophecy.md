@@ -1,17 +1,8 @@
 ---
-tags:
-- active
-- both
-- investigation
-- lore
-- mid-level
-- political
-- quest
-- shadowmere
-type: Lore
-quest_giver: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
 level_range: 5-8
-reward_tier: Significant
 locations:
 - '[[02_Worldbuilding/Places/The Shadowmere]]'
 - '[[02_Worldbuilding/Places/The Embassy Quarter]]'
@@ -22,13 +13,22 @@ npcs_involved:
 - '[[02_Worldbuilding/People/Marcus Shardbreaker Grimm]]'
 - '[[02_Worldbuilding/People/Vex Shadowthorn]]'
 - Category/Quest
-MyContainer: None
-MyCategory: Unknown
 obsidianUIMode: preview
+quest_giver: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+reward_tier: Significant
+status: complete
+tags:
+- content/adventure
+- content/lore
+- mechanics/exploration
+- mid-level
+- political
+- shadowmere
+- status/in-progress
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:37.764814'
 world: Both
-updated: '2025-08-13T01:18:34.479424+00:00'
-created: 2025-08-11
-status: active
 ---
 
 

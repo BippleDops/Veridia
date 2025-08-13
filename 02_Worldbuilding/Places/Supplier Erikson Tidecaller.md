@@ -1,33 +1,31 @@
 ---
-tags:
-- aquabyssos
-- business
-- complete
-- location
-- magical-goods
-- merchant
-- naval-supplies
-- npc
-- person
-- reliable
-- supplier
-- tidal-magic
-status: complete
-world: Aquabyssos
-type: Location
+MyCategory: Merchant
+MyContainer: None
 category: Magical Supplier
-race: Triton
 class: Expert/Artificer
-location: '[[Harbor District]] - Tidecaller''s Emporium'
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Low
 faction: Independent Merchant
 influence: Moderate
-danger_level: Low
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.375728+00:00'
-MyContainer: None
-MyCategory: Merchant
+location: '[[Harbor District]] - Tidecaller''s Emporium'
 obsidianUIMode: preview
+race: Triton
+status: complete
+tags:
+- business
+- content/location
+- content/npc
+- mechanics/magic
+- merchant
+- naval-supplies
+- reliable
+- status/complete
+- supplier
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.217644'
+world: Aquabyssos
 ---
 
 

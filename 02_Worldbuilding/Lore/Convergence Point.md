@@ -1,30 +1,29 @@
 ---
-tags:
-- both aethermoor and aquabyssos
-- both-aethermoor-and-aquabyssos
-- completed
-- convergence
-- dangerous
-- dimensional
-- dimensional-nexus
-- location
-- lore
-- magical-phenomenon
-- reality-nexus
-status: completed
-world: Both Aethermoor and Aquabyssos
-type: Lore
+access_level: Restricted to Highest Authority
+created: '2025-08-09'
 danger_level: 10
 discovery_date: Recent (Current Campaign Period)
 location_status: Highly Classified
-access_level: Restricted to Highest Authority
-created: 2025-08-09
-updated: '2025-08-13T01:18:34.726973+00:00'
 related_entities:
 - '[[02_Worldbuilding/Lore/The Great Drowning]]'
 - '[[02_Worldbuilding/Lore/Arcanum Heights]]'
 - '[[02_Worldbuilding/Lore/Abyssal Academy]]'
 - '[[02_Worldbuilding/Lore/The Seven Shards]]'
+status: draft
+tags:
+- content/location
+- content/lore
+- convergence
+- dangerous
+- dimensional-nexus
+- mechanics/magic
+- reality-nexus
+- status/complete
+- world/aethermoor
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:38.081587'
+world: Both Aethermoor and Aquabyssos
 ---
 
 

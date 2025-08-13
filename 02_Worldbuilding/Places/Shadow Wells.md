@@ -1,24 +1,22 @@
 ---
-tags:
-- aquabyssos
-- complete
-- deep-mother
-- location
-- mysterious-sites
-- place
-- shadow-manifestation
-status: complete
-world: Aquabyssos
-type: Location
-location_type: Shadow Manifestation Sites
 affiliation: '[[02_Worldbuilding/Lore/The Deep Mother]] (Natural Phenomenon)'
+created: '2025-08-09'
+created_by: auto-stub
+danger_level: Moderate
+location_type: Shadow Manifestation Sites
+population: Variable (Pilgrims and Researchers)
 significance: Major (Deep Mother Activity)
 size: Multiple Sites Throughout Realm
-population: Variable (Pilgrims and Researchers)
-created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
-danger_level: Moderate
+status: complete
+tags:
+- content/location
+- deep-mother
+- shadow-manifestation
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.150455'
+world: Aquabyssos
 ---
 
 > [!figure] View

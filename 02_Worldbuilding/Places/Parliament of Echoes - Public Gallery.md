@@ -1,30 +1,30 @@
 ---
+MyCategory: Places
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: 1
+government: Parliamentary oversight and citizen access
+location_type: Public Gallery
+obsidianUIMode: preview
+parent_location: Parliament of Echoes
+population: 200-800 visitors daily
+status: complete
 tags:
-- aquabyssos
+- access/public
 - civic
-- complete
+- content/faction
+- content/location
 - democracy
 - gallery
-- government
-- location
 - observation
 - parliament
 - political
-- public_space
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-location_type: Public Gallery
-parent_location: Parliament of Echoes
-danger_level: 1
-population: 200-800 visitors daily
-government: Parliamentary oversight and citizen access
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Places
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:40.145313'
+world: Aquabyssos
 ---
 
 

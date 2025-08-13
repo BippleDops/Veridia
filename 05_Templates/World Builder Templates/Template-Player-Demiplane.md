@@ -1,57 +1,57 @@
 ---
-NoteIcon: player
-aliases:
-- Bob
-tags:
-- active
-- both
-- category/player
-- lore
-Player: Bob
-Role: Player
 Class:
 - Barbarian
-Race:
-- Human
-level: 2
-hp: 55
-max_hp: 71
-ac: 16
-modifier: 3
-pasperc: 13
-Status: Active
+MyContainer: null
+NoteIcon: player
+Player: Bob
 PlayerKnownLanguages:
 - Celestial
 - Common
 - Dwarvish
+Race:
+- Human
+Role: Player
+Status: Active
+ac: 16
+aliases:
+- Bob
+allies:
+- Friend
+char_age: Young Adult
+char_gender: Male
+char_items: []
+char_race: Human
+char_status: Alive
+children:
+- Son
+created: '2025-08-11'
+enemies:
+- Enemy
 faction_standing:
   Faction Name 1: 1
   Faction Name 3: 3
-char_race: Human
-char_gender: Male
-char_status: Alive
-char_age: Young Adult
-char_items: []
+hp: 55
+level: 2
+max_hp: 71
+modifier: 3
+obsidianUIMode: preview
 parents:
 - Mother
 - Father
 partner:
 - Partner
-children:
-- Son
-allies:
-- Friend
-enemies:
-- Enemy
+pasperc: 13
 siblings:
 - Sister
-obsidianUIMode: preview
-MyContainer: null
-world: Both
-updated: '2025-08-13T01:18:31.196346+00:00'
-created: 2025-08-11
-status: active
+status: complete
+tags:
+- category/player
+- content/lore
+- status/in-progress
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:33.124000'
+world: Both
 ---
 
 

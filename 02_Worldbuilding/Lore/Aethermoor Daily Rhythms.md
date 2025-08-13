@@ -1,20 +1,19 @@
 ---
+created: '2025-08-12'
+created_by: claude
+status: complete
 tags:
-- aerial-realm
-- aethermoor
-- complete
 - cultural guide
 - cultural-guide
 - culture
 - daily-life
 - routine
+- status/complete
+- world/aethermoor
 - worldbuilding
-status: complete
+type: Lore
+updated: '2025-08-12T23:37:39.405639'
 world: Aethermoor
-type: Cultural Guide
-created_by: claude
-created: 2025-08-12
-updated: '2025-08-13T04:22:14.142847+00:00'
 ---
 
 

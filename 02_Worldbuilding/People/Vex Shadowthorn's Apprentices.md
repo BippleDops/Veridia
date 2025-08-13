@@ -1,24 +1,22 @@
 ---
-tags:
-- active
-- aethermoor
-- apprentice
-- aquabyssos
-- both realms
-- both-realms
-- criminal
-- npc
-- npc-group
-- syndicate
-type: NPC
-world: Both Realms
-faction: '[[02_Worldbuilding/Groups/The Whisper Syndicate]]'
-status: Active
-created: 2025-08-11
-MyContainer: None
 MyCategory: NPC
+MyContainer: None
+created: '2025-08-11'
+faction: '[[02_Worldbuilding/Groups/The Whisper Syndicate]]'
 obsidianUIMode: preview
-updated: '2025-08-13T01:18:37.020889+00:00'
+status: complete
+tags:
+- apprentice
+- content/faction
+- content/npc
+- status/in-progress
+- syndicate
+- world/aethermoor
+- world/aquabyssos
+- world/both
+type: Npc
+updated: '2025-08-12T23:37:41.028281'
+world: Both Realms
 ---
 
 

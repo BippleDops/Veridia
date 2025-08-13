@@ -1,15 +1,14 @@
 ---
-tags:
-- active
-- dimensional nexus (both realms)
-- dimensional-nexus-(both-realms)
-- location
-type: Location
-world: Dimensional Nexus (Both Realms)
-status: active
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.329820+00:00'
+created: '2025-08-11'
 danger_level: Moderate
+status: complete
+tags:
+- content/location
+- status/in-progress
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.157073'
+world: Dimensional Nexus (Both Realms)
 ---
 
 > [!figure] View

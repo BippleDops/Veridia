@@ -1,18 +1,18 @@
 ---
+created: '2025-08-11'
+created_by: cultural-expansion
+status: complete
 tags:
-- aquabyssos
 - ceremony
-- complete
-- lore
+- content/lore
 - memory
 - religion
+- status/complete
 - tidal-worship
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Lore
-created_by: cultural-expansion
-created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T23:37:39.031272'
+world: Aquabyssos
 ---
 
 

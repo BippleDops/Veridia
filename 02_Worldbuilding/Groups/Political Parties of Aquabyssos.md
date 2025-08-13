@@ -1,18 +1,18 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/faction
 - democracy
-- group
 - intrigue
 - parliament
 - parties
 - politics
-type: Group
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.624206'
 world: Aquabyssos
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:36.693771+00:00'
 ---
 
 > [!figure] Heraldry

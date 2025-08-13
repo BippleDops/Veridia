@@ -1,22 +1,22 @@
 ---
-tags:
-- aethermoor
-- complete
-- cosmic-horror
-- investigation
-- lore
-- madness
-- quest
-- whispers
-status: complete
-world: Aethermoor
-type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.485563+00:00'
-MyContainer: None
 MyCategory: Unknown
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
 obsidianUIMode: preview
+status: complete
+tags:
+- content/adventure
+- content/lore
+- cosmic-horror
+- madness
+- mechanics/exploration
+- status/complete
+- whispers
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:37.773770'
+world: Aethermoor
 ---
 
 

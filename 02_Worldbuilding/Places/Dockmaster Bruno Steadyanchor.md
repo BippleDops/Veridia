@@ -1,23 +1,23 @@
 ---
+MyCategory: Commercial Harbor
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
+danger_level: Moderate
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
 - cargo-handling
 - commercial-shipping
-- complete
+- content/location
 - docks
 - harbor
-- location
 - maritime-commerce
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
-MyCategory: Commercial Harbor
-obsidianUIMode: preview
-updated: 2025-08-11
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.414505'
+world: Aquabyssos
 ---
 
 > [!figure] View

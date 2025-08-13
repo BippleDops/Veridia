@@ -1,20 +1,19 @@
 ---
-status: complete
+created: '2025-08-11'
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
+status: complete
 tags:
 - adaptation
-- aquabyssos
-- both
-- complete
-- lore
-- mechanics
-- pressure
+- content/lore
+- content/mechanics
+- status/complete
+- world/aquabyssos
+- world/both
 - worldbuilding
-world: Both
-updated: 2025-08-11
-created: 2025-08-11
 type: Lore
+updated: '2025-08-12T23:37:37.840872'
+world: Both
 ---
 
 

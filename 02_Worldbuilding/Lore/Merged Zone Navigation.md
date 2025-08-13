@@ -1,28 +1,27 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+difficulty_level: Expert
+hazard_rating: Extreme
+navigation_type: Cross-Environmental Specialized
+scope: Inter-Realm Travel
+specialization_required: Advanced Training
+status: complete
 tags:
-- both worlds
-- both-worlds
-- complete
+- content/lore
 - cross-realm-navigation
 - dangerous-travel
 - environmental-hazards
-- lore
-- magical-navigation
+- mechanics/magic
 - merged-zones
 - navigation
 - reality-distortion
 - specialized-techniques
-status: complete
-world: Both Worlds
+- status/complete
+- world/both
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.665291+00:00'
-navigation_type: Cross-Environmental Specialized
-scope: Inter-Realm Travel
-difficulty_level: Expert
-hazard_rating: Extreme
-specialization_required: Advanced Training
+updated: '2025-08-12T23:37:38.026890'
+world: Both Worlds
 ---
 
 

@@ -1,21 +1,20 @@
 ---
-tags:
-- aquabyssos
-- complete
-- criminal
-- npc
-- organization
-- surface
-- syndicate
-status: complete
-world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-08 - Category/Groups
-MyContainer: None
 MyCategory: Criminal
+MyContainer: None
+created: 2025-08-08 - Category/Groups
+created_by: auto-stub
 obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.876535+00:00'
+status: complete
+tags:
+- content/faction
+- content/npc
+- status/complete
+- syndicate
+- world/aquabyssos
+- world/surface
+type: Npc
+updated: '2025-08-12T23:37:40.840533'
+world: Aquabyssos
 ---
 
 

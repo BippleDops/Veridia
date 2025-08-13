@@ -1,17 +1,17 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- active
-- aquabyssos
-- lore
+- content/lore
 - medical-ethics
 - moral-dilemmas
 - plague
 - shadow-corruption
+- status/in-progress
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:38.308959'
 world: Aquabyssos
-status: active
-created: 2025-08-12
-updated: '2025-08-13T01:18:34.881366+00:00'
 ---
 
 

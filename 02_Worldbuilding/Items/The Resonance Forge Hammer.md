@@ -1,25 +1,22 @@
 ---
-tags:
-- aethermoor
-- complete
-- crafting-tool
-- item
-- legendary-artifact
-- magical-weapon
-- magical_weapon
-- seven-shards-connected
-status: complete
-world: Aethermoor
-type: Item
+affiliation: '[[02_Worldbuilding/Lore/The Seven Shards]] (Resonance Network)'
+created: '2025-08-09'
+created_by: Claude
+current_location: '[[The Crystalline Foundry]]'
+danger_level: 2
 item_type: Artifact Crafting Tool
 rarity: Legendary
 requires_attunement: Yes (by a creature proficient with smith's tools)
-affiliation: '[[02_Worldbuilding/Lore/The Seven Shards]] (Resonance Network)'
-current_location: '[[The Crystalline Foundry]]'
-danger_level: 2
-created_by: Claude
-created: 2025-08-09
-updated: 2025-08-11
+status: complete
+tags:
+- content/item
+- content/lore
+- seven-shards-connected
+- status/complete
+- world/aethermoor
+type: Item
+updated: '2025-08-12T23:37:41.079096'
+world: Aethermoor
 ---
 
 

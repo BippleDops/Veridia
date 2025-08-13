@@ -1,23 +1,22 @@
 ---
-tags:
-- aethermoor
-- apocalyptic
-- complete
-- crystal-festival
-- high-stakes
-- lore
-- quest
-- ritual
-status: complete
-world: Aethermoor
-type: Lore
-level: 10-15
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
 MyCategory: Unknown
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
+level: 10-15
 obsidianUIMode: preview
-updated: '2025-08-13T01:18:34.471541+00:00'
+status: complete
+tags:
+- apocalyptic
+- content/adventure
+- content/lore
+- high-stakes
+- ritual
+- status/complete
+- world/aethermoor
+type: Lore
+updated: '2025-08-12T23:37:37.755668'
+world: Aethermoor
 ---
 
 

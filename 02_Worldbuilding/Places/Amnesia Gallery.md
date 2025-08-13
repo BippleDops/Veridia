@@ -1,27 +1,27 @@
 ---
+MyCategory: Memory Gallery
+MyContainer: None
+category: Entertainment/Gallery
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate-High
+depth: 800-1200 feet
+difficulty: Levels 3-8
+obsidianUIMode: preview
+owner: '[[Keeper Elara Mindwell]]'
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/location
 - dangerous
 - entertainment
 - gallery
-- location
+- mechanics/magic
 - memory
-- mind-magic
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-category: Entertainment/Gallery
-depth: 800-1200 feet
-difficulty: Levels 3-8
-owner: '[[Keeper Elara Mindwell]]'
-danger_level: Moderate-High
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Memory Gallery
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:40.091923'
+world: Aquabyssos
 ---
 
 

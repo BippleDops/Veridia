@@ -1,20 +1,20 @@
 ---
+campaign: Aquabyssos
+created: '2025-08-07'
+status: draft
+system: D&D 5e
 tags:
-- aquabyssos
-- draft
+- content/lore
+- content/mechanics
 - gm-resource
-- lore
-- mechanics
 - quick-reference
 - reference
 - reference-cards
+- status/draft
+- world/aquabyssos
 type: Lore
-system: D&D 5e
-campaign: Aquabyssos
-created: 2025-08-07
+updated: '2025-08-12T23:37:33.030694'
 world: Aquabyssos
-updated: '2025-08-13T01:18:31.122392+00:00'
-status: draft
 ---
 
 

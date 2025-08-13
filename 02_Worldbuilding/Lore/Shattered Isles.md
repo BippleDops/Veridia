@@ -1,28 +1,27 @@
 ---
-tags:
-- aquabyssos
-- archipelago
-- complete
-- crystal-corruption
-- dangerous-region
-- exploration
-- fractured-reality
-- isolation
-- location
-- lore
-- underwater-islands
-- void-influence
-status: complete
-world: Aquabyssos
-type: Lore
+access_restriction: Prohibited Without Authorization
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-location_type: Dangerous Archipelago
-scope: Regional
 danger_level: Extreme
 environmental_hazards: Multiple
-access_restriction: Prohibited Without Authorization
+location_type: Dangerous Archipelago
+scope: Regional
+status: complete
+tags:
+- campaign/arc
+- content/location
+- content/lore
+- dangerous-region
+- fractured-reality
+- isolation
+- mechanics/exploration
+- status/complete
+- void-influence
+- world/aethermoor
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:37.966661'
+world: Aquabyssos
 ---
 
 

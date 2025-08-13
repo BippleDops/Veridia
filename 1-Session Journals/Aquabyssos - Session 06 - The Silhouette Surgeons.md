@@ -1,41 +1,40 @@
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- parliament-shadows
-- planned
-- session
-- session-journal
-session_number: 6
-title: The Silhouette Surgeons
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
 date_played: null
+depth: 4,000 ft
+estimated_time: 4 hours
 location:
 - - Tenebrarum
-depth: 4,000 ft
 npcs_featured:
 - - - 02_Worldbuilding/People/The Silhouette Surgeon Prime
 - - - 02_Worldbuilding/People/Marina-Red-Tide-Coralheart
 - - - Shadow Marina
 - - - Jasper "Three-Eyes" Flint
-status: planned
+obsidianUIMode: preview
 party_level: 6
-estimated_time: 4 hours
-themes:
-- Body horror
-- Identity crisis
-- Medical nightmare
 quests_advanced:
 - - - Stop the Shadow Harvest
 - - - 02_Worldbuilding/Lore/Discover Marina's Truth|Discover Marina's Truth
 - - - Infiltrate Surgical Facilities
+session_number: 6
+status: outlined
+tags:
+- campaign/session
+- content/lore
+- parliament-shadows
+- planned
+- status/in-progress
+- world/aquabyssos
+themes:
+- Body horror
+- Identity crisis
+- Medical nightmare
+title: The Silhouette Surgeons
 type: Lore
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:41.171473'
 world: Aquabyssos
-updated: '2025-08-13T01:18:37.171350+00:00'
-created: 2025-08-11
 ---
 
 

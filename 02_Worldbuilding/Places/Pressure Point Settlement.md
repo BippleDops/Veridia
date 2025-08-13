@@ -1,16 +1,14 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
 - border-zone
-- both worlds
-- both-worlds
-- complete
-- place
-- settlement
-type: Place
+- content/location
+- status/complete
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.475097'
 world: Both Worlds
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:36.554774+00:00'
 ---
 
 > [!figure] View

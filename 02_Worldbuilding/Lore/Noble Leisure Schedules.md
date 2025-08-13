@@ -1,22 +1,20 @@
 ---
+created: '2025-08-12'
+created_by: claude
+status: complete
 tags:
-- both
-- both-realms
-- complete
 - culture
 - daily-life
 - leisure
+- mechanics/social
 - nobility
 - routine
-- social guide
-- social-guide
+- status/complete
 - upper-class
-status: complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:39.344852'
 world: Both
-type: Social Guide
-created_by: claude
-created: 2025-08-12
-updated: '2025-08-13T04:22:14.115994+00:00'
 ---
 
 

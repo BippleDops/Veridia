@@ -1,28 +1,26 @@
 ---
-tags:
-- aethermoor
-- complete
-- crystal-touched
-- grand-master
-- npc
-- order-leader
-- person
-- seven-shards
-status: complete
-world: Aethermoor
-type: NPC
-role: Grand Master of the Shattered Crown
+MyCategory: Unknown
+MyContainer: None
 affiliation: Order of the Shattered Crown (Founder & Leader)
 age: '73'
-race: Human (Heavily Crystal-touched)
-location: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
-created_by: expansion
-created: 2025-08-12
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-updated: 2025-08-12
 cr: '8'
+created: '2025-08-12'
+created_by: expansion
+location: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
+obsidianUIMode: preview
+race: Human (Heavily Crystal-touched)
+role: Grand Master of the Shattered Crown
+status: complete
+tags:
+- campaign/hook
+- content/npc
+- grand-master
+- seven-shards
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:41.057738'
+world: Aethermoor
 ---
 
 

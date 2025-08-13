@@ -1,36 +1,35 @@
 ---
-session_number: 8
-title: Between Two Worlds
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
 date_played: null
+estimated_time: 4 hours
+level: 5
 location: '[[The Threshold]] - Between [[Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]'
 npcs_featured:
 - '[[The Drowned God]] (True Form)'
 - '[[02_Worldbuilding/People/The Crimson Sage]]'
 - '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
 - '[[Ancient Aquabyssos Rulers]]'
+obsidianUIMode: preview
 quests_advanced:
 - '[[Rewrite the World Order]]'
 - '[[The Final Sealing]]'
 - '[[Save Both Civilizations]]'
-level: 5
-estimated_time: 4 hours
+session_number: 8
+status: complete
 tags:
-- active
-- aethermoor
-- aquabyssos
+- campaign/session
+- content/lore
 - dual-worlds
-- lore
 - reality-merge
-- session
-- session-journal
+- status/in-progress
+- world/aethermoor
+- world/aquabyssos
+title: Between Two Worlds
 type: Lore
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:41.185807'
 world: Aethermoor
-updated: '2025-08-13T01:18:37.184999+00:00'
-created: 2025-08-11
-status: active
 ---
 
 

@@ -1,28 +1,26 @@
 ---
+activity_level: Active
+created: '2025-08-08'
+created_by: auto-stub
+membership_structure: Hierarchical Apprenticeship
+organization_type: Criminal Training Program
+primary_activities: Recruitment and Training
+scope: Regional
+status: complete
 tags:
-- aethermoor
 - apprentices
-- complete
+- content/faction
+- content/lore
 - corruption
-- criminal-group
-- criminal-recruitment
-- lore
-- organization
 - organized-crime
+- status/complete
 - street-level
 - training-program
 - underground
-status: complete
-world: Aethermoor
+- world/aethermoor
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-organization_type: Criminal Training Program
-scope: Regional
-activity_level: Active
-membership_structure: Hierarchical Apprenticeship
-primary_activities: Recruitment and Training
+updated: '2025-08-12T23:37:37.823988'
+world: Aethermoor
 ---
 
 

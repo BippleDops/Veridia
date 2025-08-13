@@ -1,24 +1,24 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+duration: 3-4 sessions
+level: 7-11
+status: complete
 tags:
-- aquabyssos
-- complete
-- exploration
+- content/adventure
+- content/lore
 - first-contact
-- lore
+- mechanics/exploration
 - music
 - mystery
-- quest
 - singers-beyond
+- status/complete
 - transcendence
-status: complete
-world: Aquabyssos
-type: Lore
-level: 7-11
-duration: 3-4 sessions
+- world/aquabyssos
 threat_level: high
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.499753+00:00'
+type: Lore
+updated: '2025-08-12T23:37:37.791501'
+world: Aquabyssos
 ---
 
 

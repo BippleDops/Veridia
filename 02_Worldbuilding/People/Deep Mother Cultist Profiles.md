@@ -1,21 +1,20 @@
 ---
+created: '2025-08-12'
+created_by: claude
+status: complete
 tags:
-- aethermoor
-- aquabyssos
-- both
-- complete
+- content/npc
 - cultists
 - deep-mother
 - eldritch-horror
-- npcs
-- people
+- status/complete
 - transformation
-status: complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
+type: Npc
+updated: '2025-08-12T23:37:40.849895'
 world: Both
-type: People
-created_by: claude
-created: 2025-08-12
-updated: '2025-08-13T01:18:36.883544+00:00'
 ---
 
 > [!figure] Portrait

@@ -1,22 +1,22 @@
 ---
-tags:
-- aethermoor
-- betrayal
-- complete
-- espionage
-- npc
-- political
-- quest
-status: complete
-world: Aethermoor
-type: NPC
-created_by: auto-stub
-created: 2025-08-08 - Category/Quests
-MyContainer: None
 MyCategory: Political
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.929147+00:00'
+MyContainer: None
 cr: '6'
+created: 2025-08-08 - Category/Quests
+created_by: auto-stub
+obsidianUIMode: preview
+status: complete
+tags:
+- betrayal
+- content/adventure
+- content/npc
+- espionage
+- political
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:40.909688'
+world: Aethermoor
 ---
 
 

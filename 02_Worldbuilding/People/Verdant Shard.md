@@ -1,31 +1,31 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+alignment: Neutral Good (Natural Balance)
+class: Guardian/Druid/Shard-Keeper
+created: '2025-08-08'
+created_by: auto-stub
+faction: The Seven Shard Guardians
+level: 19
+location: The Heart Grove, Whispering Wildlands
+obsidianUIMode: preview
+race: Nature-Touched Elf (Transformed)
+status: complete
+status_condition: Active, Merged with Shard
 tags:
-- aethermoor
-- ancient
-- complete
+- content/lore
+- content/npc
 - druid
 - forest-bound
 - growth
 - immortal
 - nature-touched
-- npc
 - shard-guardian
-status: complete
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:41.015012'
 world: Aethermoor
-type: NPC
-race: Nature-Touched Elf (Transformed)
-class: Guardian/Druid/Shard-Keeper
-level: 19
-alignment: Neutral Good (Natural Balance)
-location: The Heart Grove, Whispering Wildlands
-faction: The Seven Shard Guardians
-status_condition: Active, Merged with Shard
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
 
 > [!figure] Portrait

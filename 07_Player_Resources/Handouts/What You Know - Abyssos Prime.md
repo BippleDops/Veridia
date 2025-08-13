@@ -1,20 +1,20 @@
 ---
+created: '2025-08-07'
+depth: 2,000 ft
+location: Abyssos Prime
+status: complete
 tags:
 - abyssos-prime
-- active
-- both
-- location-knowledge
-- lore
+- access/dm-only
+- content/location
+- content/lore
 - player-handout
 - player-resource
-- spoiler-free
+- status/in-progress
+- world/both
 type: Lore
-location: Abyssos Prime
-depth: 2,000 ft
-created: 2025-08-07
+updated: '2025-08-12T23:37:33.080033'
 world: Both
-updated: '2025-08-13T01:18:31.159549+00:00'
-status: active
 ---
 
 

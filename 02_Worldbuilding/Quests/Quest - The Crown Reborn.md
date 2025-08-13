@@ -1,26 +1,26 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-stub
+estimated_sessions: 6-8
+level_range: 10-15
+obsidianUIMode: preview
+quest_type: Epic Campaign Arc
+status: complete
 tags:
-- aethermoor
-- complete
+- campaign/arc
+- content/adventure
+- content/lore
 - crown
 - epic
 - level-10-15
-- lore
-- major-campaign
-- quest
 - seven-shards
-status: complete
-world: Aethermoor
+- status/complete
+- world/aethermoor
 type: Lore
-level_range: 10-15
-quest_type: Epic Campaign Arc
-estimated_sessions: 6-8
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.489566+00:00'
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:37.778855'
+world: Aethermoor
 ---
 
 

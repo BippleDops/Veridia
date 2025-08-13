@@ -1,30 +1,29 @@
 ---
+access_restriction: Professional Only
+category: Technological Infrastructure
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: High
+expanded: 2025-08-11
+operational_status: Active
+significance: Regional Critical Infrastructure
+status: complete
 tags:
-- aquabyssos
-- complete
-- crystal-amplification
+- content/lore
+- content/template
 - dimensional-resonance
 - harmonic-engineering
-- lore
-- magical-infrastructure
 - resonance-technology
 - sound-manipulation
+- status/complete
 - technology
-- underwater-acoustics
 - vibration-control
-status: complete
-world: Aquabyssos
-type: Lore
-category: Technological Infrastructure
-significance: Regional Critical Infrastructure
-created_by: auto-stub
-created: 2025-08-08
-expanded: 2025-08-11
+- world/aethermoor
+- world/aquabyssos
 technology_type: Harmonic Amplification Network
-access_restriction: Professional Only
-danger_level: High
-operational_status: Active
-updated: 2025-08-11
+type: Lore
+updated: '2025-08-12T23:37:39.418919'
+world: Aquabyssos
 ---
 
 

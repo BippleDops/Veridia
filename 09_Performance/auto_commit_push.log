@@ -18,3 +18,19 @@ Built galleries:
  - 04_Resources/Assets/Galleries/Magical_Items_Gallery.md
  - 04_Resources/Assets/Galleries/Index.md
 Upgraded images in 17 markdown files and 0 canvas files.
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[main 5f89aecf1] chore(nightly): batch assets + link/sweep
+ 1156 files changed, 17250 insertions(+), 479 deletions(-)
+ create mode 100644 09_Performance/.autopush.pid
+ create mode 100644 09_Performance/.nightly_A.pid
+ create mode 100644 09_Performance/.nightly_B.pid
+ create mode 100644 09_Performance/.smoke_pid
+ create mode 100644 09_Performance/asset_smoke_20250812_2329.log
+ create mode 100644 09_Performance/auto_commit_push.log
+ create mode 100644 09_Performance/nightly_A.log
+ create mode 100644 09_Performance/nightly_B.log
+ create mode 100644 VAULT_STANDARDIZATION_SCHEMA.md
+ create mode 100644 scripts/launch_nightly.sh
+To https://github.com/BippleDops/Veridia.git
+   c627aa41f..5f89aecf1  main -> main

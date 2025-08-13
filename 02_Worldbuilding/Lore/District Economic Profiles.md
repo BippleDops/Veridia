@@ -1,17 +1,17 @@
 ---
-world: Both
-updated: '2025-08-13T01:18:34.837652+00:00'
-created: 2025-08-12
+created: '2025-08-12'
 status: complete
 tags:
-- both
-- complete
+- content/lore
 - districts
 - economy
 - geography
-- lore
 - prices
+- status/complete
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:38.246069'
+world: Both
 ---
 
 

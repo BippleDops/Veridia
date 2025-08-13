@@ -1,19 +1,18 @@
 ---
-tags:
-- aethermoor
-- complete
-- location
-- maritime
-- npc
-- spellcaster
-- tide-magic
-status: complete
-world: Aethermoor
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.391291+00:00'
 danger_level: Moderate
+status: complete
+tags:
+- content/location
+- content/npc
+- maritime
+- mechanics/magic
+- status/complete
+- world/aethermoor
+type: Location
+updated: '2025-08-12T23:37:40.238670'
+world: Aethermoor
 ---
 
 

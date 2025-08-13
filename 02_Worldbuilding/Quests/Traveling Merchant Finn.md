@@ -1,23 +1,23 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-08'
+created_by: auto-expansion
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/adventure
+- content/lore
 - cross-realm
 - intrigue
-- investigation
-- lore
+- mechanics/exploration
 - merchant
 - mystery
-- quest
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Lore
-created_by: auto-expansion
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.478593+00:00'
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:37.763765'
+world: Aquabyssos
 ---
 
 

@@ -1,17 +1,16 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- active
-- aquabyssos
+- content/lore
 - currency
 - economics
-- history
-- lore
+- status/in-progress
 - trade
+- world/aquabyssos
 type: Lore
+updated: '2025-08-12T23:37:38.588606'
 world: Aquabyssos
-status: active
-created: 2025-08-12
-updated: '2025-08-13T01:18:35.074953+00:00'
 ---
 
 

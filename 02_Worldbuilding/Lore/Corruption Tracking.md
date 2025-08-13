@@ -1,18 +1,17 @@
 ---
-tags:
-- aquabyssos
-- campaign-system
-- complete
-- corruption
-- lore
-- mechanics
-- tracking
-status: complete
-world: Aquabyssos
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+status: complete
+tags:
+- content/lore
+- content/mechanics
+- corruption
+- status/complete
+- tracking
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:38.415328'
+world: Aquabyssos
 ---
 
 

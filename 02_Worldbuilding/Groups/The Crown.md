@@ -1,29 +1,26 @@
 ---
-tags:
-- aethermoor
-- complete
-- faction
-- government
-- group
-- major-faction
-- political
-- royalty
-status: complete
-world: Aethermoor
-type: Group
-faction_type: Government
+MyCategory: Unknown
+MyContainer: None
 alignment: Lawful Neutral
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Government
 headquarters: '[[02_Worldbuilding/Places/The Crystal Palace]]'
+influence: National
 leader: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
 members: ~10,000 direct servants
-influence: National
-wealth: Immense
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.657822+00:00'
-MyContainer: None
-MyCategory: Unknown
 obsidianUIMode: preview
+status: complete
+tags:
+- content/faction
+- political
+- royalty
+- status/complete
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.575633'
+wealth: Immense
+world: Aethermoor
 ---
 
 

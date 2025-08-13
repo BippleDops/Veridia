@@ -1,25 +1,25 @@
 ---
+category: Environmental Phenomenon
+created: '2025-08-08'
+created_by: auto-stub
+significance: Campaign-Critical
+status: complete
 tags:
-- aethermoor
-- aquabyssos
-- both
-- complete
+- content/lore
 - convergence
 - dimensional-bleed
 - environmental-hazard
-- lore
 - merged-reality
 - reality-storms
 - shadow-corruption
+- status/complete
 - unstable-zones
-status: complete
-world: Both
+- world/aethermoor
+- world/aquabyssos
+- world/both
 type: Lore
-category: Environmental Phenomenon
-significance: Campaign-Critical
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:39.696818'
+world: Both
 ---
 
 

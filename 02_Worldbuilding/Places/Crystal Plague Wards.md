@@ -1,17 +1,17 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- aquabyssos
-- complete
-- crystal
+- content/location
 - medical
-- places
 - plague
 - port-meridian
-type: places
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.208592'
 world: Aquabyssos
-status: complete
-created: '2025-08-12'
-updated: '2025-08-13T01:18:36.368673+00:00'
 ---
 
 

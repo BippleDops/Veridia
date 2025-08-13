@@ -1,19 +1,18 @@
 ---
-tags:
-- aquabyssos
-- complete
-- eel-handlers
-- faction
-- guild
-- location
-- specialized
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.517952+00:00'
 danger_level: Moderate
+status: complete
+tags:
+- content/faction
+- content/location
+- eel-handlers
+- specialized
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.420351'
+world: Aquabyssos
 ---
 
 

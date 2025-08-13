@@ -1,17 +1,17 @@
 ---
-world: Both
-updated: 2025-08-12
-created: 2025-08-12
+created: '2025-08-12'
 status: complete
 tags:
-- both
-- complete
+- content/adventure
+- content/mechanics
+- content/npc
 - economy
-- npc-generator
 - merchants
-- adventure-hooks
-- mechanics
+- status/complete
+- world/both
 type: Mechanics
+updated: '2025-08-12T23:37:41.106028'
+world: Both
 ---
 
 > [!figure] Merchant Types

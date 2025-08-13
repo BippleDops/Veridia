@@ -1,13 +1,13 @@
 ---
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.387657+00:00'
-world: Both
-type: Location
-status: active
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- both
-- location
+- content/location
+- status/in-progress
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.233497'
+world: Both
 ---
 
 > [!figure] View

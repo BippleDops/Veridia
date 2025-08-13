@@ -1,20 +1,20 @@
 ---
+created: '2025-08-12'
+created_by: claude
+status: complete
 tags:
-- aethermoor
-- aquabyssos
-- both
-- complete
+- content/location
 - deep-mother
 - eldritch-horror
 - manifestation
-- places
 - reality-breach
-status: complete
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
+type: Location
+updated: '2025-08-12T23:37:39.776453'
 world: Both
-type: Places
-created_by: claude
-created: 2025-08-12
-updated: '2025-08-13T01:18:35.990681+00:00'
 ---
 
 > [!figure] View

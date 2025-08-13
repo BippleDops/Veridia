@@ -1,21 +1,21 @@
 ---
+created: '2025-08-07'
+danger_level: Escalating
+mechanic_type: Environmental Progression
+status: complete
+system: D&D 5e
 tags:
-- active
 - adaptation
-- aquabyssos
-- both
-- lore
-- mechanics
+- content/lore
+- content/mechanics
+- status/in-progress
 - survival
 - transformation
-system: D&D 5e
-mechanic_type: Environmental Progression
-danger_level: Escalating
-created: 2025-08-07
-world: Both
-updated: '2025-08-13T01:18:37.101671+00:00'
-status: active
+- world/aquabyssos
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:41.087300'
+world: Both
 ---
 
 

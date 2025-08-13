@@ -1,18 +1,18 @@
 ---
-status: complete
+created: '2025-08-11'
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
+status: complete
 tags:
-- aquabyssos
-- campaign-setup
-- complete
-- lore
-- session-zero
+- campaign/arc
+- campaign/session
+- content/lore
+- status/complete
+- world/aquabyssos
 - worldbuilding
-world: Aquabyssos
-updated: 2025-08-11
-created: 2025-08-11
 type: Lore
+updated: '2025-08-12T23:37:37.859650'
+world: Aquabyssos
 ---
 
 

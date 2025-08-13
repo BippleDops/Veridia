@@ -1,18 +1,18 @@
 ---
+created: '2025-08-11'
+created_by: cultural-expansion
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/lore
 - culture
 - honor-code
-- lore
 - pearl-diving
+- status/complete
 - tradition
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Lore
-created_by: cultural-expansion
-created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T23:37:37.961258'
+world: Aquabyssos
 ---
 
 

@@ -1,28 +1,28 @@
 ---
+adaptation_type: Cross-Environment Living
+created: '2025-08-08'
+created_by: auto-stub
+process_duration: Variable
+scope: Individual and Community
+status: complete
+success_rate: Moderate
+support_systems: Government and Community Assisted
 tags:
 - adaptation
-- aquabyssos
-- complete
+- content/lore
 - cross-realm-living
 - cultural-exchange
 - environmental-adaptation
 - immigration
 - integration
 - lifestyle-changes
-- lore
-- social-adaptation
-- surface-dwellers
-status: complete
-world: Aquabyssos
+- mechanics/social
+- status/complete
+- world/aquabyssos
+- world/surface
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-adaptation_type: Cross-Environment Living
-scope: Individual and Community
-process_duration: Variable
-success_rate: Moderate
-support_systems: Government and Community Assisted
+updated: '2025-08-12T23:37:38.016299'
+world: Aquabyssos
 ---
 
 

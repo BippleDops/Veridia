@@ -1,13 +1,13 @@
 ---
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.720551+00:00'
-world: Both
-type: Group
-status: active
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- both
-- group
+- content/faction
+- status/in-progress
+- world/both
+type: Faction
+updated: '2025-08-12T23:37:40.658327'
+world: Both
 ---
 
 

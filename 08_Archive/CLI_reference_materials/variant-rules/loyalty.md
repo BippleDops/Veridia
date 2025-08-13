@@ -1,19 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/compendium/src/5e/dmg
 aliases:
 - Loyalty
-type: note
 created: 2025-07-23
-updated: '2025-08-13T01:18:31.969211+00:00'
+cssclasses: json5e-note
 modified: 2025-07-23 12:39
-world: Both
+obsidianUIMode: preview
 status: active
+tags:
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/dmg
+- world/both
+type: note
+updated: '2025-08-12T23:37:34.139900'
+world: Both
 ---
 
 # Loyalty

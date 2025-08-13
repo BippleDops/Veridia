@@ -1,29 +1,28 @@
 ---
+MyCategory: Places
+MyContainer: None
+access: public
+city: Port Crystalfall
+created: '2025-08-11'
+created_by: auto-stub
+danger_level: Moderate
+faction_influence: Independent/Multiple
+obsidianUIMode: preview
+region: Port District
+status: complete
 tags:
-- aethermoor
-- complete
+- campaign/hook
+- content/location
 - entertainment
 - gambling
-- location
-- port
-- rumors
 - sailors
 - smuggling
+- status/complete
 - tavern
-status: complete
-world: Aethermoor
+- world/aethermoor
 type: Location
-danger_level: Moderate
-access: public
-region: Port District
-city: Port Crystalfall
-faction_influence: Independent/Multiple
-created_by: auto-stub
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Places
-obsidianUIMode: preview
-created: 2025-08-11
+updated: '2025-08-12T23:37:40.310512'
+world: Aethermoor
 ---
 
 

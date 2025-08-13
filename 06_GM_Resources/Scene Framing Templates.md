@@ -1,19 +1,19 @@
 ---
-tags:
-- both
-- dm-tool
-- draft
-- gm-resource
-- lore
-- scene-framing
-- session-management
-- templates
-type: Lore
 campaign: Aquabyssos
-created: 2025-08-07
-world: Both
-updated: '2025-08-13T01:18:31.118853+00:00'
+created: '2025-08-07'
 status: draft
+tags:
+- campaign/session
+- content/item
+- content/lore
+- content/template
+- gm-resource
+- scene-framing
+- status/draft
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:33.025347'
+world: Both
 ---
 
 

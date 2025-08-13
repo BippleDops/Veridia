@@ -1,26 +1,25 @@
 ---
+CR: 10
+MyCategory: Unknown
+MyContainer: None
+class: Enchantment Wizard/College of Eloquence Bard
+created: '2025-08-09'
+created_by: Claude
+faction: '[[The Order of the Shattered Crown]]'
+location: '[[02_Worldbuilding/Places/Port Meridian]]'
+obsidianUIMode: preview
+status: complete
 tags:
-- aethermoor
 - betrayer-descendant
-- complete
-- crystal-magic
+- content/npc
 - lord
 - noble
-- npc
 - political-intrigue
-status: complete
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:40.813507'
 world: Aethermoor
-type: NPC
-CR: 10
-class: Enchantment Wizard/College of Eloquence Bard
-location: '[[02_Worldbuilding/Places/Port Meridian]]'
-faction: '[[The Order of the Shattered Crown]]'
-created_by: Claude
-created: 2025-08-09
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
 
 

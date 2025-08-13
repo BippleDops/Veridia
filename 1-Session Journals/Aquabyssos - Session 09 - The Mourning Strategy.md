@@ -1,41 +1,40 @@
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- parliament-shadows
-- planned
-- session
-- session-journal
-session_number: 9
-title: The Mourning Strategy
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
 date_played: null
+depth: 8,000+ ft (Abyssal Zone)
+estimated_time: 4 hours
 location:
 - - The Mourning Depths
-depth: 8,000+ ft (Abyssal Zone)
 npcs_featured:
 - - - The Sorrowmaster
 - - - 02_Worldbuilding/People/Shadow Duchess Nyx
 - - - 02_Worldbuilding/People/The Scattered Emperor
 - - - All Marina Versions
-status: planned
+obsidianUIMode: preview
 party_level: 8
-estimated_time: 4 hours
-themes:
-- Weaponized sorrow
-- Collective sacrifice
-- Emotional transcendence
 quests_advanced:
 - - - Activate the Grief Bomb
 - - - Navigate Singer Consciousness
 - - - Unite All Factions
+session_number: 9
+status: outlined
+tags:
+- campaign/session
+- content/lore
+- parliament-shadows
+- planned
+- status/in-progress
+- world/aquabyssos
+themes:
+- Weaponized sorrow
+- Collective sacrifice
+- Emotional transcendence
+title: The Mourning Strategy
 type: Lore
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:41.167952'
 world: Aquabyssos
-updated: '2025-08-13T01:18:37.167958+00:00'
-created: 2025-08-11
 ---
 
 

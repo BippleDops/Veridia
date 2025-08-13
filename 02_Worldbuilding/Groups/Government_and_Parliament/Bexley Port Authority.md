@@ -1,20 +1,19 @@
 ---
-type: Group
-tags:
-- active
-- both
-- faction
-- group
-- law
-aliases: []
-created: 2025-07-23
-modified: 2025-07-23 18:15
-MyContainer: None
 MyCategory: Unknown - Category/Group
+MyContainer: None
+aliases: []
+created: '2025-07-23'
+modified: 2025-07-23 18:15
 obsidianUIMode: preview
+status: complete
+tags:
+- content/faction
+- law
+- status/in-progress
+- world/both
+type: Faction
+updated: '2025-08-12T23:37:40.711964'
 world: Both
-updated: '2025-08-13T01:18:36.768075+00:00'
-status: active
 ---
 
 

@@ -1,17 +1,16 @@
 ---
+created: '2025-08-12'
+status: complete
 tags:
-- both worlds
-- both-worlds
 - community
-- complete
+- content/location
 - hybrid-species
 - integration
-- place
-type: Place
+- status/complete
+- world/both
+type: Location
+updated: '2025-08-12T23:37:40.300342'
 world: Both Worlds
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:36.435583+00:00'
 ---
 
 > [!figure] View

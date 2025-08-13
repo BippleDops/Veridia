@@ -1,30 +1,27 @@
 ---
-tags:
-- aquabyssos
-- artifact
-- authentication
-- complete
-- diplomacy
-- lore
-- magical-artifact
-- magical-item
-- political-tool
-- trade
-status: complete
-world: Aquabyssos
-type: Lore
+created: '2025-08-08'
+created_date: Second Age of Aquabyssos
+creator: '[[02_Worldbuilding/Lore/Thalassius the Wise]]'
+current_location: '[[02_Worldbuilding/Places/Parliament of Echoes]] Vault'
 danger_level: 3
 rarity: Legendary (Government Controlled)
-creator: '[[02_Worldbuilding/Lore/Thalassius the Wise]]'
-created_date: Second Age of Aquabyssos
-current_location: '[[02_Worldbuilding/Places/Parliament of Echoes]] Vault'
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.731152+00:00'
 related_entities:
 - '[[02_Worldbuilding/Places/Parliament of Echoes]]'
 - '[[02_Worldbuilding/Lore/Thalassius the Wise]]'
 - '[[02_Worldbuilding/Lore/The Seven Shards]]'
 - '[[02_Worldbuilding/Groups/Silverscale Banking House]]'
+status: complete
+tags:
+- authentication
+- content/item
+- content/lore
+- mechanics/social
+- status/complete
+- trade
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:39.448375'
+world: Aquabyssos
 ---
 
 

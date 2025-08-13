@@ -1,29 +1,27 @@
 ---
-tags:
-- aethermoor
-- complete
-- crystal-guardian
-- crystal-touched
-- npc
-- order-leader
-- protector
-status: complete
-world: Aethermoor
-type: NPC
-role: High Warden of the Crystal Order
+MyCategory: NPC
+MyContainer: None
 affiliation: '[[Crystal Wardens Order]] - Supreme Commander'
 age: '156'
-race: Crystal-Touched Elf
-class: Eldritch Knight Fighter/Abjuration Wizard
-level: 17
 alignment: Lawful Good
-location: '[[The Crystal Spires]] - Warden''s Sanctum'
+class: Eldritch Knight Fighter/Abjuration Wizard
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: NPC
+level: 17
+location: '[[The Crystal Spires]] - Warden''s Sanctum'
 obsidianUIMode: preview
+race: Crystal-Touched Elf
+role: High Warden of the Crystal Order
+status: complete
+tags:
+- campaign/hook
+- content/npc
+- protector
+- status/complete
+- world/aethermoor
+type: Npc
+updated: '2025-08-12T23:37:41.009999'
+world: Aethermoor
 ---
 
 

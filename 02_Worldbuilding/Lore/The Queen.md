@@ -1,24 +1,22 @@
 ---
+category: Royal Authority
+created: '2025-08-08'
+created_by: auto-stub
+significance: Campaign-Critical
+status: complete
 tags:
-- aethermoor
-- complete
+- campaign/arc
+- content/lore
 - convergence
-- crystal-possession
-- crystalline-madness
-- lore
-- monarchy
 - political-power
 - queen-seraphina
 - royal-court
 - shadow-corruption
-status: complete
-world: Aethermoor
+- status/complete
+- world/aethermoor
 type: Lore
-category: Royal Authority
-significance: Campaign-Critical
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.636798'
+world: Aethermoor
 ---
 
 

@@ -1,33 +1,31 @@
 ---
-tags:
-- both aethermoor & aquabyssos
-- both-aethermoor-&-aquabyssos
-- complete
-- cross-world
-- faction
-- governance
-- group
-- inter-realm-politics
-- political-campaign
-- shadow-representation
-status: complete
-world: Both Aethermoor & Aquabyssos
-type: Group
-faction_type: Cross-Realm Political Movement
+MyCategory: Advocacy Campaign
+MyContainer: Inter-Realm Politics
 alignment: Lawful Good (Democratic Representation)
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Cross-Realm Political Movement
 headquarters: '[[The Inter-Realm Council Chambers]]'
+influence: Cross-Realm Politics, Shadow Community Advocacy
 leader: '[[Campaign Director Umbra Bridgeworth]]'
 members: ~150 campaign organizers, ~800 volunteer activists, ~5000 supporters
-influence: Cross-Realm Politics, Shadow Community Advocacy
+modified: 2025-08-11 - Category/Group
+obsidianUIMode: preview
 purpose: Establish political representation for shadow-touched individuals across
   both realms
-created_by: auto-stub
-created: 2025-08-08
-modified: 2025-08-11 - Category/Group
-MyContainer: Inter-Realm Politics
-MyCategory: Advocacy Campaign
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.761500+00:00'
+status: complete
+tags:
+- campaign/arc
+- content/faction
+- governance
+- inter-realm-politics
+- shadow-representation
+- status/complete
+- world/aethermoor
+- world/both
+type: Faction
+updated: '2025-08-12T23:37:40.704186'
+world: Both Aethermoor & Aquabyssos
 ---
 
 

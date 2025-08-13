@@ -1,19 +1,19 @@
 ---
-type: Lore
-tags:
-- 5e
-- both
-- dm-screen
-- draft
-- lore
-- note
 aliases:
 - Side Screen
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
-world: Both
-updated: '2025-08-13T01:18:37.135037+00:00'
 status: draft
+tags:
+- 5e
+- content/lore
+- dm-screen
+- note
+- status/draft
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:41.128373'
+world: Both
 ---
 
 

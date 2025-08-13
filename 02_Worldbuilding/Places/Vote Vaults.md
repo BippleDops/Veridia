@@ -1,25 +1,25 @@
 ---
+MyCategory: Places
+MyContainer: None
+access: elite_only
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Extreme
+obsidianUIMode: preview
+security_level: maximum
+status: complete
 tags:
-- aquabyssos
-- complete
+- access/secret
 - conspiracy
-- hidden
-- location
+- content/location
 - manipulation
 - political
+- status/complete
 - voting
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Location
-security_level: maximum
-access: elite_only
-danger_level: Extreme
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Places
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:39.867285'
+world: Aquabyssos
 ---
 
 

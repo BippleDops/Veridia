@@ -1,13 +1,13 @@
 ---
-created: 2025-08-11
-updated: '2025-08-13T01:18:36.970042+00:00'
-world: Both
-type: NPC
-status: active
+created: '2025-08-11'
+status: complete
 tags:
-- active
-- both
-- npc
+- content/npc
+- status/in-progress
+- world/both
+type: Npc
+updated: '2025-08-12T23:37:40.958584'
+world: Both
 ---
 
 > [!figure] Portrait

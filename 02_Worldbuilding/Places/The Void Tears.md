@@ -1,31 +1,31 @@
 ---
-tags:
-- aethermoor
-- catastrophic
-- complete
-- dimensional
-- dimensional-anomaly
-- location
-- mystical
-- phenomenon
-- reality-breach
-- void
-status: complete
-world: Aethermoor
-type: Location
-danger_level: 10
-region: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
 controlled_by: Nobody (Chaotic Phenomenon)
-size: Variable (Individual tears 5-100 feet diameter)
+created: '2025-08-09'
+danger_level: 10
 frequency: Unpredictable manifestation
-threat_status: Critical - Reality Destabilization
-created: 2025-08-09
-updated: 2025-08-11
+region: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
 related_entities:
 - '[[02_Worldbuilding/Places/The Crystal Hive Collective]]'
 - '[[02_Worldbuilding/People/The Crimson Sage]]'
 - '[[02_Worldbuilding/Places/The Sundered Vaults]]'
 - '[[Crystal Wardens]]'
+size: Variable (Individual tears 5-100 feet diameter)
+status: complete
+tags:
+- catastrophic
+- content/location
+- dimensional-anomaly
+- mechanics/magic
+- phenomenon
+- reality-breach
+- status/complete
+- void
+- world/aethermoor
+- world/both
+threat_status: Critical - Reality Destabilization
+type: Location
+updated: '2025-08-12T23:37:39.879766'
+world: Aethermoor
 ---
 
 > [!figure] View

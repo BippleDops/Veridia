@@ -1,51 +1,51 @@
 ---
-MyContainer: []
+Connected_Groups: []
+Connected_Quests: []
 MyCategory: null
-tags:
-- active
-- both
-- category/people
-- lore
-obsidianUIMode: preview
+MyContainer: []
+NoteStatus: ❓
 aliases:
 - characters other name
-NoteStatus: ❓
-char_status: Alive
-char_race: Human
-char_gender: Male
-char_items: null
-char_age: Adult
-parents:
-- Josh
-- Susan
-children:
-- Bob
-- Fred
-enemies:
-- Zander
 allies:
 - Emyerson
 - Bob
 - Frank
-siblings:
-- Flip
-partner:
-- Jane
-Connected_Quests: []
-Connected_Groups: []
+char_age: Adult
+char_gender: Male
+char_items: null
+char_race: Human
+char_status: Alive
+children:
+- Bob
+- Fred
+created: '2025-08-11'
+current_hp: 15
+enemies:
+- Zander
 in_combat: true
 initiative: 12
-current_hp: 15
 max_hp: 20
+obsidianUIMode: preview
+parents:
+- Josh
+- Susan
+partner:
+- Jane
 relationships:
-- target: '[[Captain Garrett Stormcutter]]'
+- strength: 3
+  target: '[[Captain Garrett Stormcutter]]'
   type: ally
-  strength: 3
-world: Both
-updated: '2025-08-13T01:18:31.190995+00:00'
-created: 2025-08-11
-status: active
+siblings:
+- Flip
+status: complete
+tags:
+- content/lore
+- content/npc
+- status/in-progress
+- world/both
 type: Lore
+updated: '2025-08-12T23:37:33.118953'
+world: Both
 ---
 
 

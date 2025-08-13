@@ -1,26 +1,26 @@
 ---
+category: Secret Organization
+created: '2025-08-08'
+created_by: auto-stub
+significance: Major Faction
+status: complete
 tags:
-- aethermoor
-- aquabyssos
-- both
-- complete
+- access/secret
+- content/faction
+- content/lore
 - convergence
 - crimson-hand
-- faction
 - infiltration
-- lore
 - manipulation
 - power-seeking
-- secret-society
 - shadow-corruption
-status: complete
-world: Both
+- status/complete
+- world/aethermoor
+- world/aquabyssos
+- world/both
 type: Lore
-category: Secret Organization
-significance: Major Faction
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:38.593399'
+world: Both
 ---
 
 

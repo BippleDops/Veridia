@@ -1,25 +1,25 @@
 ---
+MyCategory: Places
+MyContainer: None
+access: psychic_only
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: High
+obsidianUIMode: preview
+security_level: extreme
+status: complete
 tags:
-- aquabyssos
-- complete
+- access/secret
 - conspiracy
-- hidden
+- content/location
 - intelligence
-- location
 - mental
 - psychic
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-security_level: extreme
-access: psychic_only
-danger_level: High
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
-MyContainer: None
-MyCategory: Places
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:39.895451'
+world: Aquabyssos
 ---
 
 

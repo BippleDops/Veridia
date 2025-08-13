@@ -1,27 +1,27 @@
 ---
+affiliation: Independent (Multiple Factions)
+created: '2025-08-08'
+created_by: auto-stub
+influence: Extensive
+location: '[[02_Worldbuilding/Places/The Shadow Markets]]'
+role: Shadow Network
+secrecy_level: Maximum
+size: Unknown (Estimated 500-2000 Members)
+status: complete
 tags:
-- aquabyssos
-- complete
 - conspiracy
+- content/faction
+- content/npc
 - espionage
 - information-broker
 - mysterious
-- npc
-- organization
 - shadow
+- status/complete
 - underground
-status: complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.939000'
 world: Aquabyssos
-type: NPC
-role: Shadow Network
-affiliation: Independent (Multiple Factions)
-size: Unknown (Estimated 500-2000 Members)
-location: '[[02_Worldbuilding/Places/The Shadow Markets]]'
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.953720+00:00'
-influence: Extensive
-secrecy_level: Maximum
 ---
 
 

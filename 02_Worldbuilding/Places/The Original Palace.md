@@ -1,26 +1,24 @@
 ---
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
+created_by: auto-stub
+danger_level: Moderate
+depth: 2,000 fathoms below surface
+location_type: Royal Palace
+obsidianUIMode: preview
+status: complete
 tags:
-- ancient
-- aquabyssos
-- complete
+- content/location
+- content/lore
 - coral
-- deep-sea
-- location
 - palace
 - royal
-- underwater
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Location
-location_type: Royal Palace
-depth: 2,000 fathoms below surface
-created_by: auto-stub
-created: 2025-08-11
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-updated: 2025-08-11
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.462021'
+world: Aquabyssos
 ---
 
 

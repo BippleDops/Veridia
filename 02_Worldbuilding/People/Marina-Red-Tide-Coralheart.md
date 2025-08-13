@@ -1,34 +1,39 @@
 ---
-tags:
-- active
-- aethermoor
-- aquabyssos
-- both
-- guardian
-- information-broker
-- npc
-first_name: Marina
-last_name: Coralheart
+MyCategory: Unknown
+MyContainer: None
+ac: 15
 aliases:
 - Red Tide
 - The Coral Witch
 - Tide Turner
-location: '[[The Siren''s Rest Tavern]]'
-faction: '[[The Depth Wardens]]'
-public_faction: '[[Independent Smugglers]]'
-occupation: Smuggler Captain / Information Broker
-true_occupation: Guardian of the Bloodline
-disposition: 0
 alignment: Chaotic Neutral (Good tendencies)
-race: Human (Aquabyssos Bloodline)
 class: Rogue/Warlock
-level: 7
-ac: 15
-max_hp: 52
+created: '2025-08-11'
 current_hp: 52
-influence: 8
+description: Striking woman in her late 20s with deep red hair that seems to move
+  like water. Sea-green eyes that shift color with her mood. Numerous nautical tattoos
+  that are actually ancestral marks.
+disposition: 0
+faction: '[[The Depth Wardens]]'
 faction_rank: 5
+first_name: Marina
+influence: 8
+last_encounter: '[[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]'
+last_name: Coralheart
+level: 7
+location: '[[The Siren''s Rest Tavern]]'
+max_hp: 52
+notes: Descendant of Aquabyssos survivors. Can breathe underwater. Senses shard presence.
+obsidianUIMode: preview
+occupation: Smuggler Captain / Information Broker
 portrait: ''
+public_faction: '[[Independent Smugglers]]'
+race: Human (Aquabyssos Bloodline)
+related_quests:
+- '[[Investigate the Crystal Plague]]'
+- '[[The Seven Shards Mystery]]'
+- '[[Uniting the Factions]]'
+- '[[The Bloodline Awakens]]'
 relationship_type: complicated
 relationships:
 - '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
@@ -37,23 +42,6 @@ relationships:
 - '[[Lord Aurelius Goldwave]]'
 - '[[02_Worldbuilding/People/Vex Shadowthorn]]'
 - '[[The Bloodline Carrier]]'
-related_quests:
-- '[[Investigate the Crystal Plague]]'
-- '[[The Seven Shards Mystery]]'
-- '[[Uniting the Factions]]'
-- '[[The Bloodline Awakens]]'
-last_encounter: '[[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]'
-stats:
-  str: 10
-  dex: 18
-  con: 13
-  int: 15
-  wis: 14
-  cha: 16
-description: Striking woman in her late 20s with deep red hair that seems to move
-  like water. Sea-green eyes that shift color with her mood. Numerous nautical tattoos
-  that are actually ancestral marks.
-notes: Descendant of Aquabyssos survivors. Can breathe underwater. Senses shard presence.
 secrets:
 - Member of ancient order protecting bloodline descendants
 - Can breathe underwater and sense shards
@@ -61,14 +49,26 @@ secrets:
 - Has been switching places with her shadow self
 - Knows location of two shards
 - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+stats:
+  cha: 16
+  con: 13
+  dex: 18
+  int: 15
+  str: 10
+  wis: 14
+status: complete
+tags:
+- content/npc
+- guardian
+- information-broker
+- status/in-progress
+- world/aethermoor
+- world/aquabyssos
+- world/both
+true_occupation: Guardian of the Bloodline
+type: Npc
+updated: '2025-08-12T23:37:40.890914'
 world: Both
-updated: '2025-08-13T01:18:36.913687+00:00'
-created: 2025-08-11
-status: active
-type: NPC
 ---
 
 

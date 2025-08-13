@@ -1,34 +1,32 @@
 ---
-tags:
-- aquabyssos
-- commerce
-- commercial-district
-- complete
-- deep-ocean
-- location
-- merchant-quarter
-- pressure-adapted
-- trading-district
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 danger_level: 4
 depth: 3,000-5,000 feet below surface
-population: ~8,000 (merchants, workers, and support staff)
-government: Merchant Council Oligarchy
-specialties:
-- Deep-Ocean Resources
-- Pressure Equipment
-- Exotic Goods
-- Deep Current Navigation
 established: ~300 years ago
-created: 2025-08-08
-updated: 2025-08-11
+government: Merchant Council Oligarchy
+population: ~8,000 (merchants, workers, and support staff)
 related_entities:
 - '[[02_Worldbuilding/Groups/Silverscale Consortium]]'
 - '[[02_Worldbuilding/Places/Free Current]]'
 - '[[02_Worldbuilding/Places/The Memory Meadows]]'
 - '[[02_Worldbuilding/Lore/The Deep Mother]]'
+specialties:
+- Deep-Ocean Resources
+- Pressure Equipment
+- Exotic Goods
+- Deep Current Navigation
+status: complete
+tags:
+- commerce
+- commercial-district
+- content/location
+- merchant-quarter
+- status/complete
+- trading-district
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.489645'
+world: Aquabyssos
 ---
 
 > [!figure] View

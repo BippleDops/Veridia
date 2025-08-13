@@ -1,17 +1,16 @@
 ---
-tags:
-- both worlds
-- both-worlds
-- complete
-- conspiracy
-- criminal
-- lore
-- smuggling
-type: Lore
-world: Both Worlds
+created: '2025-08-12'
 status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:34.535710+00:00'
+tags:
+- conspiracy
+- content/faction
+- content/lore
+- smuggling
+- status/complete
+- world/both
+type: Lore
+updated: '2025-08-12T23:37:37.838307'
+world: Both Worlds
 ---
 
 

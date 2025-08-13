@@ -1,18 +1,17 @@
 ---
-tags:
-- aquabyssos
-- complete
-- faction
-- lore
-- order
-- organization
-- sunken-crown
-status: complete
-world: Aquabyssos
-type: Lore
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+status: complete
+tags:
+- content/faction
+- content/lore
+- order
+- status/complete
+- sunken-crown
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:38.400879'
+world: Aquabyssos
 ---
 
 

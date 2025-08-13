@@ -1,57 +1,57 @@
 ---
-tags:
-- aquabyssos
-- both
-- complete
-- cult
-- dangerous
-- location
-- recursion
-- temporal
-location_name: The Recursion Cult Complex
-location_type: Temporal Cult Compound
-parent_location: '[[Abyssos Prime]]'
-sub_locations:
-- '[[The Infinite Chamber]]'
-- '[[Memory Loop Gardens]]'
-- '[[Paradox Meditation Cells]]'
-- '[[The Causality Engine]]'
-- '[[Temporal Observation Deck]]'
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
+current_state: Active temporal experiments
+danger_level: 8
 depth: 3200-3500 feet
-population: 200
-government: Theocratic Recursion Council
-ruler: '[[02_Worldbuilding/People/The Recursion Oracle]]'
+discovered: false
 factions:
 - '[[The Infinity Seekers]]'
 - '[[Temporal Purists]]'
 - '[[The Loop Breakers]]'
 - '[[Paradox Engineers]]'
-danger_level: 8
-visited: false
-discovered: false
+government: Theocratic Recursion Council
+location_name: The Recursion Cult Complex
+location_type: Temporal Cult Compound
+notable_npcs:
+- '[[02_Worldbuilding/People/The Recursion Oracle]]'
+- '[[Paradox Engineer Zeno]]'
+- '[[Loop-Walker Celia]]'
+- '[[Temporal Archivist Chronos]]'
+obsidianUIMode: preview
+parent_location: '[[Abyssos Prime]]'
+population: 200
+pressure_effects: Severe
+ruler: '[[02_Worldbuilding/People/The Recursion Oracle]]'
 services:
 - Temporal Navigation
 - Memory Loop Creation
 - Paradox Consultation
 - Reality Anchoring
 - Time Distortion Effects
-notable_npcs:
-- '[[02_Worldbuilding/People/The Recursion Oracle]]'
-- '[[Paradox Engineer Zeno]]'
-- '[[Loop-Walker Celia]]'
-- '[[Temporal Archivist Chronos]]'
-current_state: Active temporal experiments
-temporal_stability: 15
 shadow_density: Variable
-pressure_effects: Severe
 status: complete
-created: 2025-08-11
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-world: Both
-updated: 2025-08-11
+sub_locations:
+- '[[The Infinite Chamber]]'
+- '[[Memory Loop Gardens]]'
+- '[[Paradox Meditation Cells]]'
+- '[[The Causality Engine]]'
+- '[[Temporal Observation Deck]]'
+tags:
+- content/location
+- cult
+- dangerous
+- recursion
+- status/complete
+- temporal
+- world/aquabyssos
+- world/both
+temporal_stability: 15
 type: Location
+updated: '2025-08-12T23:37:39.859470'
+visited: false
+world: Both
 ---
 
 

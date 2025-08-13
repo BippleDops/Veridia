@@ -1,35 +1,34 @@
 ---
-tags:
-- aquabyssos
-- complete
-- corruption
-- cult
-- lore
-- quest
-- redemption
-- religious
-- sea-goddess
-- tidal-magic
-status: complete
-world: Aquabyssos
-type: Lore
-level: 6-10
-duration: 3-4 sessions
-difficulty: Medium
-quest_giver: Acolyte Pelagic
-location: Tidal Sanctum, Coral Gardens, The Deep Maw
-rewards: Nerissa's Blessing, Tidal Focus, Clerical Connections
-prerequisites: No negative reputation with sea-worshipping faiths
+MyCategory: Quest
+MyContainer: None
 connected_to:
 - Temples of Aquabyssos
 - The Coral Gardens
 - Oceanic Divine Magic
+created: '2025-08-08'
 created_by: DM
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.506513+00:00'
-MyContainer: None
-MyCategory: Quest
+difficulty: Medium
+duration: 3-4 sessions
+level: 6-10
+location: Tidal Sanctum, Coral Gardens, The Deep Maw
 obsidianUIMode: preview
+prerequisites: No negative reputation with sea-worshipping faiths
+quest_giver: Acolyte Pelagic
+rewards: Nerissa's Blessing, Tidal Focus, Clerical Connections
+status: complete
+tags:
+- content/adventure
+- content/lore
+- corruption
+- cult
+- mechanics/magic
+- redemption
+- religious
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:37.798423'
+world: Aquabyssos
 ---
 
 

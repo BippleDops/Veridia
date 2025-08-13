@@ -1,29 +1,28 @@
 ---
-tags:
-- alliance-building
-- both worlds
-- both-worlds
-- campaign-objective
-- civilization-preservation
-- complete
-- cooperation
-- existential-threat
-- heroic-mission
-- lore
-- survival
-- ultimate-goal
-- unity
-status: complete
-world: Both Worlds
-type: Lore
+alliance_requirement: Essential
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:34.539190+00:00'
 objective_type: Ultimate Campaign Goal
 scope: Both Worlds
-urgency: Critical
-alliance_requirement: Essential
+status: complete
+tags:
+- alliance-building
+- campaign/arc
+- campaign/hook
+- campaign/objective
+- civilization-preservation
+- content/adventure
+- content/lore
+- cooperation
+- existential-threat
+- status/complete
+- survival
+- world/both
 threat_level: Existential
+type: Lore
+updated: '2025-08-12T23:37:37.843420'
+urgency: Critical
+world: Both Worlds
 ---
 
 

@@ -1,31 +1,29 @@
 ---
-tags:
-- aquabyssos
-- complete
-- location
-- marketplace
-- place
-- social-center
-- tidal-influenced
-- trade-hub
-status: complete
-world: Aquabyssos
-type: Location
-location_type: Floating Marketplace
 affiliation: Independent Merchants (Loosely [[The Liminal Trading Company]] influenced)
-significance: Major (Primary Commercial Hub)
-size: Large Complex (50+ Individual Markets)
-population: ~2,000 daily traders, 10,000+ daily customers
+created: '2025-08-09'
+created_by: Claude
 danger_level: 2
+location_type: Floating Marketplace
+population: ~2,000 daily traders, 10,000+ daily customers
 services:
 - Trade
 - Crafting
 - Food
 - Entertainment
 - Information
-created_by: Claude
-created: 2025-08-09
-updated: 2025-08-11
+significance: Major (Primary Commercial Hub)
+size: Large Complex (50+ Individual Markets)
+status: complete
+tags:
+- content/location
+- mechanics/social
+- status/complete
+- tidal-influenced
+- trade-hub
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:39.897283'
+world: Aquabyssos
 ---
 
 

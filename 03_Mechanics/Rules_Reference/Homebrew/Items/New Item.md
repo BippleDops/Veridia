@@ -1,24 +1,23 @@
 ---
-type: Item
-attunement: false
-my-container: '[[The Giants Skull]]'
-my-category: null
-tags:
-- active
-- both
-- category/item
-- item
-obsidian-u-i-mode: preview
 aliases:
 - ItemOtherName
-connected_-quests:
-- Template-Quest
+attunement: false
 connected_-groups:
 - Template-Group
+connected_-quests:
+- Template-Quest
+created: '2025-08-11'
+my-category: null
+my-container: '[[The Giants Skull]]'
+obsidian-u-i-mode: preview
+status: complete
+tags:
+- content/item
+- status/in-progress
+- world/both
+type: Item
+updated: '2025-08-12T23:37:41.136261'
 world: Both
-updated: '2025-08-13T01:18:37.140457+00:00'
-created: 2025-08-11
-status: active
 ---
 
 

@@ -1,26 +1,45 @@
 ---
-tags:
-- aquabyssos
-- complete
-- deep-ocean
-- defense
-- depth-wardens
-- fortress
-- location
-- military-base
-- military-command
-- pressure-architecture
-status: complete
-world: Aquabyssos
-type: location
-location_name: Fortress of the Deeps
-location_type: Military Fortress and Command Center
-parent_location: '[[The Abyssal Reaches]]'
+access: Military Personnel Only
+architecture: Reinforced Deep-Ocean Construction
+commander: '[[Commander Typhoon Blackheart]]'
 connected_locations:
 - '[[Abyssos Prime]]'
 - '[[The Cerulean Trench]]'
 - '[[Kraken Territories]]'
 - '[[The Void Touched Depths]]'
+created: '2025-08-08'
+created_by: auto-stub
+current_state: Full operational readiness
+danger_level: 5
+depth: 8000-12000 feet
+discovered: false
+factions:
+- '[[The Depth Wardens]]'
+- '[[Deep Strike Forces]]'
+- '[[Abyssal Intelligence Corps]]'
+- '[[Emergency Response Teams]]'
+government: Military Command Structure
+location_name: Fortress of the Deeps
+location_type: Military Fortress and Command Center
+notable_npcs:
+- '[[Commander Typhoon Blackheart]]'
+- '[[Major Hadal Deepstrike]]'
+- '[[Intelligence Chief Marina Shadowcurrent]]'
+- '[[Master Sergeant Reef Ironwall]]'
+parent_location: '[[The Abyssal Reaches]]'
+population: 5000
+pressure_effects: Extreme - Specialized equipment required
+ruler: '[[Commander Typhoon Blackheart]]'
+security_level: Maximum
+services:
+- Military Command and Control
+- Deep-Ocean Combat Training
+- Emergency Response Coordination
+- Intelligence Gathering and Analysis
+- Advanced Weapons Testing
+shadow_density: High - Constantly monitored
+size: Massive Military Complex
+status: complete
 sub_locations:
 - '[[Command Center Alpha]]'
 - '[[The Pressure Training Grounds]]'
@@ -28,41 +47,19 @@ sub_locations:
 - '[[The Sentinel Watch Towers]]'
 - '[[Military Harbor Depths]]'
 - '[[The War Memorial Caverns]]'
-commander: '[[Commander Typhoon Blackheart]]'
-architecture: Reinforced Deep-Ocean Construction
-size: Massive Military Complex
-security_level: Maximum
-access: Military Personnel Only
-depth: 8000-12000 feet
-population: 5000
-government: Military Command Structure
-ruler: '[[Commander Typhoon Blackheart]]'
-factions:
-- '[[The Depth Wardens]]'
-- '[[Deep Strike Forces]]'
-- '[[Abyssal Intelligence Corps]]'
-- '[[Emergency Response Teams]]'
-danger_level: 5
-visited: false
-discovered: false
-services:
-- Military Command and Control
-- Deep-Ocean Combat Training
-- Emergency Response Coordination
-- Intelligence Gathering and Analysis
-- Advanced Weapons Testing
-notable_npcs:
-- '[[Commander Typhoon Blackheart]]'
-- '[[Major Hadal Deepstrike]]'
-- '[[Intelligence Chief Marina Shadowcurrent]]'
-- '[[Master Sergeant Reef Ironwall]]'
-current_state: Full operational readiness
+tags:
+- content/location
+- defense
+- fortress
+- military-base
+- military-command
+- status/complete
+- world/aquabyssos
 temporal_stability: 92
-shadow_density: High - Constantly monitored
-pressure_effects: Extreme - Specialized equipment required
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.837240+00:00'
+type: Location
+updated: '2025-08-12T23:37:39.561245'
+visited: false
+world: Aquabyssos
 ---
 
 

@@ -1,43 +1,39 @@
 ---
-tags:
-- aquabyssos
-- aquabyssos/politics
-- aquabyssos/shadow
-- category/group
-- complete
-- faction
-- group
-status: complete
-world: Aquabyssos
-type: Group
-created_by: expansion
-created: 2025-08-11
-MyContainer: '[[Parliament of Echoes|Parliament of Echoes]]'
 MyCategory: Shadow Influence Network
-obsidianUIMode: preview
-leader: Shadow Broker Mist
-officers:
-- Ambassador Nerida Deepcurrent
-- Senator Glaucus Brain
-- Tribune Cassia Deepcurrent
-members:
-- Shadow Parliament
-- Parliament Loyalists
-- The Silhouette Surgeon Prime
+MyContainer: '[[Parliament of Echoes|Parliament of Echoes]]'
+benefits:
+- reward: Access to shadow memory markets and political whisper networks
+  standing: 1
+- reward: Shadow surgery consultation and identity modification services
+  standing: 2
+- reward: Direct audience with Shadow Broker Mist and parliamentary influence
+  standing: 3
+created: '2025-08-11'
+created_by: expansion
+faction: Parliament of Echoes - Shadow Chamber
 initiates:
 - Vex Shadowthorn's Apprentices
 - Shadow Surgeon Apprentice
 - Shadow Broker Mirrors
-faction: Parliament of Echoes - Shadow Chamber
+leader: Shadow Broker Mist
+members:
+- Shadow Parliament
+- Parliament Loyalists
+- The Silhouette Surgeon Prime
+obsidianUIMode: preview
+officers:
+- Ambassador Nerida Deepcurrent
+- Senator Glaucus Brain
+- Tribune Cassia Deepcurrent
 primary_contact: Shadow Broker Mist
-benefits:
-- standing: 1
-  reward: Access to shadow memory markets and political whisper networks
-- standing: 2
-  reward: Shadow surgery consultation and identity modification services
-- standing: 3
-  reward: Direct audience with Shadow Broker Mist and parliamentary influence
-updated: '2025-08-13T01:18:36.734565+00:00'
+status: complete
+tags:
+- content/faction
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.674117'
+world: Aquabyssos
 ---
 
 

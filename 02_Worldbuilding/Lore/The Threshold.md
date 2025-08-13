@@ -1,29 +1,26 @@
 ---
+active_period: Post-Catastrophe to present
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: 5
+location_type: Dimensional Nexus
+primary_effects: Dimensional instability and reality distortion
+scope: Reality-threatening anomaly
+status: complete
 tags:
-- ancient-magic
-- betrayer-legacy
-- both worlds
-- both-worlds
-- catastrophe-site
-- complete
+- content/location
+- content/lore
 - dangerous-zone
 - dimensional-barrier
 - interdimensional-gateway
-- location
-- lore
+- mechanics/magic
 - reality-breach
-- threshold
-status: complete
-world: Both Worlds
+- status/archived
+- status/complete
+- world/both
 type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.331865+00:00'
-location_type: Dimensional Nexus
-scope: Reality-threatening anomaly
-danger_level: 5
-active_period: Post-Catastrophe to present
-primary_effects: Dimensional instability and reality distortion
+updated: '2025-08-12T23:37:38.922092'
+world: Both Worlds
 ---
 
 

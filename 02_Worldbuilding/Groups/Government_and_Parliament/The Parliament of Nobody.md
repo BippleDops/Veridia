@@ -1,28 +1,25 @@
 ---
-tags:
-- aquabyssos
-- complete
-- faction
-- group
-- major-faction
-- political
-- shadow-government
-status: complete
-world: Aquabyssos
-type: Group
-faction_type: Shadow Government
+MyCategory: Unknown
+MyContainer: None
 alignment: Chaotic Neutral
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Shadow Government
 headquarters: '[[The Null Chamber]]'
+influence: City-wide (Aquabyssos)
 leader: '[[The Speaker of Silence]]'
 members: Unknown - estimated 200+ active representatives
-influence: City-wide (Aquabyssos)
-wealth: Moderate (funded through information trading)
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.765018+00:00'
-MyContainer: None
-MyCategory: Unknown
 obsidianUIMode: preview
+status: complete
+tags:
+- content/faction
+- political
+- status/complete
+- world/aquabyssos
+type: Faction
+updated: '2025-08-12T23:37:40.708610'
+wealth: Moderate (funded through information trading)
+world: Aquabyssos
 ---
 
 

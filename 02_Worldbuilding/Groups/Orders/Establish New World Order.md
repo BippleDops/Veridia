@@ -1,30 +1,28 @@
 ---
+MyCategory: Governance Movement
+MyContainer: Political Reform
+alignment: Lawful Neutral (Systematic Reformers)
+created: '2025-08-08'
+created_by: auto-stub
+faction_type: Political Reform Movement
+headquarters: '[[The Crystal Governance Institute]]'
+influence: Political Institutions, Policy Development
+leader: '[[Director Prism Reformheart]]'
+members: ~500 active members, ~2000 supporters
+modified: 2025-08-11 - Category/Group
+obsidianUIMode: preview
+purpose: Systematic governmental reform through crystal-enhanced governance
+status: complete
 tags:
-- aethermoor
-- complete
-- crystal-governance
-- faction
-- group
+- content/faction
 - institutional-reform
 - moderates
 - political-movement
-status: complete
+- status/complete
+- world/aethermoor
+type: Faction
+updated: '2025-08-12T23:37:40.743393'
 world: Aethermoor
-type: Group
-faction_type: Political Reform Movement
-alignment: Lawful Neutral (Systematic Reformers)
-headquarters: '[[The Crystal Governance Institute]]'
-leader: '[[Director Prism Reformheart]]'
-members: ~500 active members, ~2000 supporters
-influence: Political Institutions, Policy Development
-purpose: Systematic governmental reform through crystal-enhanced governance
-created_by: auto-stub
-created: 2025-08-08
-modified: 2025-08-11 - Category/Group
-MyContainer: Political Reform
-MyCategory: Governance Movement
-obsidianUIMode: preview
-updated: 2025-08-11
 ---
 
 > [!figure] Heraldry

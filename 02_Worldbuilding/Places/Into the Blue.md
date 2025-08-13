@@ -1,19 +1,18 @@
 ---
-tags:
-- aquabyssos
-- complete
-- deep-ocean
-- exploration
-- location
-- mystery
-- quest
-status: complete
-world: Aquabyssos
-type: Location
+created: '2025-08-08'
 created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.474138+00:00'
 danger_level: Moderate
+status: complete
+tags:
+- content/adventure
+- content/location
+- mechanics/exploration
+- mystery
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.354614'
+world: Aquabyssos
 ---
 
 

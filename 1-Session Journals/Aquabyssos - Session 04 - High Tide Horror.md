@@ -1,18 +1,22 @@
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- parliament-of-shadows
-- session
-- shadow-harvest
-session: Session-04
-date: null
-type: Lore
-players: []
+MyCategory: Unknown
+MyContainer: None
 absent: []
 campaign: Aquabyssos - The Parliament of Shadows
-primary_location: '[[The Reflection Pools]]'
+created: '2025-08-11'
+danger_level: 9
+date: null
+duration_hours: 4
+encounters:
+- '[[Shadow Surgeons Collective]]'
+- '[[Hybrid Abominations]]'
+- '[[The Shadow Duchess Duel]]'
+gold_gained: 0
+items_gained:
+- Shadow Lock Chains
+- Emperor's Final Gift
+- Nyx's Shadow Blade
+level: 5
 locations_visited:
 - '[[Reflection Pools - Surgical Theater]]'
 - '[[Shadow Market Canals]]'
@@ -23,40 +27,36 @@ npcs_met:
 - '[[Shadow Nyx]]'
 - '[[The Real Marina]]'
 - '[[02_Worldbuilding/People/The Scattered Emperor]] (United)'
-encounters:
-- '[[Shadow Surgeons Collective]]'
-- '[[Hybrid Abominations]]'
-- '[[The Shadow Duchess Duel]]'
-quests_started:
-- '[[Stop the Shadow Harvest]]'
-- '[[Unite or Divide]]'
-quests_progressed:
-- '[[The Shadow Conspiracy]]'
-- '[[Save Marina]]'
-quests_completed: []
-items_gained:
-- Shadow Lock Chains
-- Emperor's Final Gift
-- Nyx's Shadow Blade
-gold_gained: 0
-xp_awarded: 2000
+obsidianUIMode: preview
+players: []
 plot_threads:
 - Shadows gain independence
 - The Harvest begins
 - Emperor's sacrifice
 - Two Nyx dilemma
 - Continental war threat
-duration_hours: 4
-level: 5
-danger_level: 9
+primary_location: '[[The Reflection Pools]]'
+quests_completed: []
+quests_progressed:
+- '[[The Shadow Conspiracy]]'
+- '[[Save Marina]]'
+quests_started:
+- '[[Stop the Shadow Harvest]]'
+- '[[Unite or Divide]]'
+session: Session-04
 shadow_activity: Critical
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+status: complete
+tags:
+- campaign/session
+- content/lore
+- parliament-of-shadows
+- shadow-harvest
+- status/in-progress
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:41.177641'
 world: Aquabyssos
-updated: '2025-08-13T01:18:37.177485+00:00'
-created: 2025-08-11
-status: active
+xp_awarded: 2000
 ---
 
 

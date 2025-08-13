@@ -1,22 +1,22 @@
 ---
-obsidianUIMode: preview
+aliases:
+- Actions
+created: 2025-07-23
 cssclasses: json5e-note
+modified: 2025-07-23 12:39
+obsidianUIMode: preview
+status: active
 tags:
-- active
-- both
 - note
+- status/in-progress
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/compendium/src/5e/xphb
-aliases:
-- Actions
+- world/both
 type: note
-created: 2025-07-23
-updated: '2025-08-13T01:18:31.229170+00:00'
-modified: 2025-07-23 12:39
+updated: '2025-08-12T23:37:33.164740'
 world: Both
-status: active
 ---
 
 

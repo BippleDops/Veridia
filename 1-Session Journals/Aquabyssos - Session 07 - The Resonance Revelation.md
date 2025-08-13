@@ -1,41 +1,40 @@
 ---
-tags:
-- active
-- aquabyssos
-- lore
-- parliament-shadows
-- planned
-- session
-- session-journal
-session_number: 7
-title: The Resonance Revelation
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-11'
 date_played: null
+depth: 6,000-8,000 ft
+estimated_time: 4 hours
 location:
 - - Crystallium
-depth: 6,000-8,000 ft
 npcs_featured:
 - - - 02_Worldbuilding/People/The Resonance Prophet
 - - - 02_Worldbuilding/People/Marina-Red-Tide-Coralheart
 - - - 02_Worldbuilding/People/Shadow Duchess Nyx
 - - - The Conductor
-status: planned
+obsidianUIMode: preview
 party_level: 7
-estimated_time: 4 hours
-themes:
-- Alien communication
-- Harmonic horror
-- Reality crystallization
 quests_advanced:
 - - - Stop the Shadow Harvest
 - - - Discover the Singers Beyond
 - - - Prevent Resonance Cascade
+session_number: 7
+status: outlined
+tags:
+- campaign/session
+- content/lore
+- parliament-shadows
+- planned
+- status/in-progress
+- world/aquabyssos
+themes:
+- Alien communication
+- Harmonic horror
+- Reality crystallization
+title: The Resonance Revelation
 type: Lore
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+updated: '2025-08-12T23:37:41.179345'
 world: Aquabyssos
-updated: '2025-08-13T01:18:37.179131+00:00'
-created: 2025-08-11
 ---
 
 

@@ -1,20 +1,20 @@
 ---
+MyCategory: Religious
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
+obsidianUIMode: preview
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/faction
+- content/npc
 - cult
 - harmony
-- npc
-- organization
-status: complete
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.819506'
 world: Aquabyssos
-type: NPC
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
-MyCategory: Religious
-obsidianUIMode: preview
-updated: '2025-08-13T01:18:36.860197+00:00'
 ---
 
 

@@ -1,22 +1,21 @@
 ---
-status: complete
+created: '2025-08-11'
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
+status: complete
 tags:
-- ancient
-- aquabyssos
-- both
-- complete
-- lore
-- npc
+- content/lore
+- content/npc
 - scholar
+- status/complete
 - thalassius
 - wise
+- world/aquabyssos
+- world/both
 - worldbuilding
-world: Both
-updated: 2025-08-11
-created: 2025-08-11
 type: Lore
+updated: '2025-08-12T23:37:38.115595'
+world: Both
 ---
 
 

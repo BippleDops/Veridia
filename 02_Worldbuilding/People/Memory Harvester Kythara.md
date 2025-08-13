@@ -1,24 +1,23 @@
 ---
-tags:
-- aquabyssos
-- complete
-- deep-mother
-- memory-farmer
-- npc
-- person
-- servant
-- shadow-touched
-status: complete
-world: Aquabyssos
-type: NPC
-role: Memory Harvester
 affiliation: '[[Memory Farmers]] & The Deep Mother''s Service'
 age: '42'
-race: Human (Shadow-Touched)
-location: '[[Memory Meadows]] - The Harvesting Fields'
+created: '2025-08-09'
 created_by: auto-stub
-created: 2025-08-09
-updated: 2025-08-11
+location: '[[Memory Meadows]] - The Harvesting Fields'
+race: Human (Shadow-Touched)
+role: Memory Harvester
+status: complete
+tags:
+- content/npc
+- deep-mother
+- memory-farmer
+- servant
+- shadow-touched
+- status/complete
+- world/aquabyssos
+type: Npc
+updated: '2025-08-12T23:37:40.885444'
+world: Aquabyssos
 ---
 
 

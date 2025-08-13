@@ -1,33 +1,33 @@
 ---
+MyCategory: Environmental Quest
+MyContainer: None
+category: Environmental Crisis
+created: '2025-08-08'
+created_by: auto-stub
+danger_level: Moderate
+difficulty: Moderate to Hard
+duration: 3-5 sessions
+level_range: 5-8
+obsidianUIMode: preview
+party_size: 4-6 characters
+primary_location: '[[Coral Courts]] and surrounding reef systems'
+quest_type: Investigation/Environmental Rescue
+status: complete
 tags:
-- aquabyssos
 - biological
-- community-impact
-- complete
+- campaign/consequence
+- content/adventure
+- content/location
 - coral-reef
 - crisis
 - environmental
-- investigation
-- location
-- quest
+- mechanics/exploration
+- status/complete
 - time-sensitive
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Location
-category: Environmental Crisis
-quest_type: Investigation/Environmental Rescue
-level_range: 5-8
-party_size: 4-6 characters
-duration: 3-5 sessions
-difficulty: Moderate to Hard
-primary_location: '[[Coral Courts]] and surrounding reef systems'
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:36.352295+00:00'
-MyContainer: None
-MyCategory: Environmental Quest
-obsidianUIMode: preview
-danger_level: Moderate
+updated: '2025-08-12T23:37:40.186232'
+world: Aquabyssos
 ---
 
 

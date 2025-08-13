@@ -1,19 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-- active
-- both
-- note
-- ttrpg-cli/spell/list/optfeature/pact-of-the-chain
 aliases:
 - Spells for Pact of the Chain
-type: note
 created: 2025-07-23
-updated: '2025-08-13T01:18:32.115687+00:00'
+cssclasses: json5e-note
 modified: 2025-07-23 12:39
-world: Both
+obsidianUIMode: preview
 status: active
+tags:
+- mechanics/magic
+- note
+- status/in-progress
+- world/both
+type: note
+updated: '2025-08-12T23:37:34.370000'
+world: Both
 ---
 
 # Spells for Pact of the Chain

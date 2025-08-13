@@ -1,23 +1,23 @@
 ---
-tags:
-- aquabyssos
-- campaign-consequences
-- complete
-- identity-crisis
-- lore
-- parliament-infiltration
-- political-intrigue
-- shadow-conspiracy
-type: Lore
-world: Aquabyssos
-status: complete
-created: 2025-08-12
-updated: '2025-08-13T01:18:35.136916+00:00'
+created: '2025-08-12'
 magnitude: 4
-visibility: 3
 primary_sessions:
 - 'Session 03: Gallery Conspiracy'
 - 'Session 06: Silhouette Surgeons'
+status: complete
+tags:
+- campaign/arc
+- content/lore
+- identity-crisis
+- parliament-infiltration
+- political-intrigue
+- shadow-conspiracy
+- status/complete
+- world/aquabyssos
+type: Lore
+updated: '2025-08-12T23:37:38.682603'
+visibility: 3
+world: Aquabyssos
 ---
 
 

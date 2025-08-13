@@ -1,22 +1,22 @@
 ---
+category: Divine Entity
+created: '2025-08-08'
+created_by: auto-stub
+significance: Primary Deity
+status: complete
 tags:
-- aquabyssos
-- complete
+- content/lore
 - cosmic-entity
 - creation-myth
 - deity
 - dreams
-- lore
 - primordial
 - shadows
-status: complete
-world: Aquabyssos
+- status/complete
+- world/aquabyssos
 type: Lore
-category: Divine Entity
-significance: Primary Deity
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:37.992701'
+world: Aquabyssos
 ---
 
 

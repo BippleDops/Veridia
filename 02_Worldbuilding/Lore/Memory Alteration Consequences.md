@@ -1,26 +1,26 @@
 ---
+category: Medical/Psychological
+created: '2025-08-08'
+created_by: auto-stub
+significance: Social Foundation
+status: complete
 tags:
-- aquabyssos
-- complete
-- consequences
+- campaign/consequence
+- content/lore
 - ethics
 - identity
-- lore
 - medical
 - memory-alteration
 - psychology
 - reality-distortion
 - side-effects
 - society
+- status/complete
 - trauma
-status: complete
-world: Aquabyssos
+- world/aquabyssos
 type: Lore
-category: Medical/Psychological
-significance: Social Foundation
-created_by: auto-stub
-created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T23:37:39.015682'
+world: Aquabyssos
 ---
 
 

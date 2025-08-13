@@ -1,14 +1,36 @@
 ---
-tags:
-- active
-- aquabyssos
-- both
-- capital
-- continent
-- location
+MyCategory: Unknown
+MyContainer: None
+created: '2025-08-12'
+current_state: Shadow conspiracy active
+danger_level: 7
+depth: 1000-3000 feet
+discovered: true
+factions:
+- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+- '[[Shadow Conspiracy]]'
+- '[[Depth Merchants]]'
+- '[[Memory Farmers]]'
+government: '[[The Eternal Senate]]'
 location_name: Abyssos Prime
 location_type: Sunken Capital
+notable_npcs:
+- '[[02_Worldbuilding/People/The Scattered Emperor]]'
+- '[[02_Worldbuilding/People/Senator Glaucus]]'
+- '[[Marina Red Tide Coralheart - Aquabyssos]]'
+obsidianUIMode: preview
 parent_location: '[[Aquabyssos]]'
+population: 2000000
+pressure_effects: Moderate to Severe
+ruler: '[[02_Worldbuilding/People/The Scattered Emperor]]'
+services:
+- Pressure Tubes
+- Shadow Markets
+- Memory Trading
+- Depth Adaptation
+- Political Intrigue
+shadow_density: High
+status: complete
 sub_locations:
 - '[[02_Worldbuilding/Places/The Inverse Palace]]'
 - '[[02_Worldbuilding/Places/Parliament of Echoes]]'
@@ -18,40 +40,18 @@ sub_locations:
 - '[[Pressure Terminal]]'
 - '[[Throne of Bubbles]]'
 - '[[The Depth Market]]'
-depth: 1000-3000 feet
-population: 2000000
-government: '[[The Eternal Senate]]'
-ruler: '[[02_Worldbuilding/People/The Scattered Emperor]]'
-factions:
-- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
-- '[[Shadow Conspiracy]]'
-- '[[Depth Merchants]]'
-- '[[Memory Farmers]]'
-danger_level: 7
-visited: false
-discovered: true
-services:
-- Pressure Tubes
-- Shadow Markets
-- Memory Trading
-- Depth Adaptation
-- Political Intrigue
-notable_npcs:
-- '[[02_Worldbuilding/People/The Scattered Emperor]]'
-- '[[02_Worldbuilding/People/Senator Glaucus]]'
-- '[[Marina Red Tide Coralheart - Aquabyssos]]'
-current_state: Shadow conspiracy active
+tags:
+- capital
+- content/location
+- status/in-progress
+- world/aquabyssos
+- world/both
+- world/surface
 temporal_stability: 85
-shadow_density: High
-pressure_effects: Moderate to Severe
-created: 2025-08-12
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-world: Both
-updated: '2025-08-13T01:18:36.425014+00:00'
-status: active
 type: Location
+updated: '2025-08-12T23:37:40.285927'
+visited: false
+world: Both
 ---
 
 

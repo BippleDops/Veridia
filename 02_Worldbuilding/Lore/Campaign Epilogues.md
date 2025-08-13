@@ -1,27 +1,25 @@
 ---
+created: '2025-08-08'
+created_by: auto-stub
+purpose: Campaign Resolution
+scope: Both Worlds
+status: complete
+structure_type: Campaign Framework
 tags:
-- aftermath
-- both worlds
-- both-worlds
-- campaign-structure
-- complete
-- consequences
+- campaign/consequence
+- content/lore
+- content/template
 - endings
 - epilogues
 - future-stories
-- lore
 - resolution
-status: complete
-world: Both Worlds
-type: Lore
-created_by: auto-stub
-created: 2025-08-08
-updated: '2025-08-13T01:18:35.853626+00:00'
-structure_type: Campaign Framework
-scope: Both Worlds
-purpose: Campaign Resolution
-usage: Epilogue Guidance
+- status/complete
+- world/both
 timeframe: Post-Campaign
+type: Lore
+updated: '2025-08-12T23:37:39.583687'
+usage: Epilogue Guidance
+world: Both Worlds
 ---
 
 

@@ -1,21 +1,21 @@
 ---
-tags:
-- aquabyssos
-- complete
-- fortress
-- government
-- location
-- military
-status: complete
-world: Aquabyssos
-type: Location
-created_by: auto-stub
-created: 2025-08-12
-MyContainer: None
 MyCategory: Unknown
-obsidianUIMode: preview
-updated: 2025-08-12
+MyContainer: None
+created: '2025-08-12'
+created_by: auto-stub
 danger_level: Moderate
+obsidianUIMode: preview
+status: complete
+tags:
+- content/faction
+- content/location
+- fortress
+- military
+- status/complete
+- world/aquabyssos
+type: Location
+updated: '2025-08-12T23:37:40.494045'
+world: Aquabyssos
 ---
 
 

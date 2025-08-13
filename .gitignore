@@ -1,3 +1,6 @@
 .dnd-ui-toolkit-state.json
 .obsidian/api_config.json
 nohup.out
+reports/
+vault_backup_*/
+09_Performance/*.pid

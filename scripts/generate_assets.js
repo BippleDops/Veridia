@@ -43,6 +43,11 @@ const CONCURRENCY = (() => { const a = ARGS.find(x => x.startsWith('--concurrenc
 const QPS = (() => { const a = ARGS.find(x => x.startsWith('--qps=')); if (!a) return 1; const n = parseInt(a.split('=')[1], 10); return Number.isFinite(n) && n > 0 ? n : 1; })();
 
 const CONFIG_PATH = path.join(ROOT, '.obsidian', 'api_config.json');
+const USE_LOCAL_IMAGES = process.env.LOCAL_IMAGES === '1' || ARGS.includes('--local');
+let localImageClient = null;
+if (USE_LOCAL_IMAGES) {
+  try { localImageClient = require('./local_image_client'); } catch {}
+}
 let OPENAI_API_KEY = process.env.OPENAI_API_KEY || '';
 let DALLE_MODEL = 'dall-e-3';
 let OPENAI_ORG = process.env.OPENAI_ORGANIZATION || process.env.OPENAI_ORG || '';
@@ -160,8 +165,6 @@ async function generateRealImage(promptObj) {
   const type = (promptObj.type || 'portrait').toLowerCase();
   if (TYPES_FILTER && !TYPES_FILTER.includes(type)) return null;
   const outDir = OUT_DIRS[type]; if (!outDir) return null;
-  if (!OPENAI_API_KEY) throw new Error('OPENAI_API_KEY missing');
-
   const baseName = `${type}-${slug(promptObj.id || promptObj.name || 'untitled')}-${slug(promptObj.name || 'untitled')}`.replace(/-+/g, '-');
   const outPath = path.join(outDir, `${baseName}.png`);
   const metaOut = path.join(GENERATED_ROOT, 'metadata', `${baseName}.json`);
@@ -175,6 +178,21 @@ async function generateRealImage(promptObj) {
       return { outPath, metaOut };
     }
   } catch {}
+
+  // Local backend branch
+  if (USE_LOCAL_IMAGES && localImageClient) {
+    const dim = parseResolution(promptObj.resolution, promptObj.aspect);
+    const width = dim.width || 1024;
+    const height = dim.height || 1024;
+    const buf = await localImageClient.generateImageLocal({ prompt: promptText, width, height });
+    fs.writeFileSync(outPath, buf);
+    const meta = { ...promptObj, generator: `local-${localImageClient.getBackendName()}`, size: `${width}x${height}`, file: path.relative(ROOT, outPath) };
+    fs.writeFileSync(metaOut, JSON.stringify(meta, null, 2), 'utf8');
+    return { outPath, metaOut };
+  }
+
+  // OpenAI branch
+  if (!OPENAI_API_KEY) throw new Error('OPENAI_API_KEY missing');
 
   const headers = { 'Content-Type': 'application/json', 'Authorization': `Bearer ${OPENAI_API_KEY}` };
   if (OPENAI_ORG) headers['OpenAI-Organization'] = OPENAI_ORG;

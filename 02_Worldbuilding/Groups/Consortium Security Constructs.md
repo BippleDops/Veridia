@@ -5,9 +5,9 @@ alignment: Lawful Evil
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Corporate Security Force
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Enforcement Citadel]]'
+headquarters: '[[02_Worldbuilding/Lore/The Enforcement Citadel]]'
 influence: Continental (enforcement operations)
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Commander Ironprice]]'
+leader: '[[02_Worldbuilding/Lore/Commander Ironprice]]'
 members: ~1,200 crystal constructs and operators
 obsidianUIMode: preview
 status: complete
@@ -40,16 +40,16 @@ world: Aethermoor
 *The Crystal Guard, The Ironprice Legion, Corporate Justice*
 
 ## Overview
-The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]'s private military force, a fusion of advanced crystal technology and ruthless corporate enforcement. This organization combines magically-animated construct soldiers with highly trained human operators to form an elite security force that protects Consortium interests across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]. They are judge, jury, and executioner for corporate law, operating with near-governmental authority in Consortium-controlled territories.
+The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]'s private military force, a fusion of advanced crystal technology and ruthless corporate enforcement. This organization combines magically-animated construct soldiers with highly trained human operators to form an elite security force that protects Consortium interests across [[02_Worldbuilding/Places/Aethermoor]]. They are judge, jury, and executioner for corporate law, operating with near-governmental authority in Consortium-controlled territories.
 
 ## History
 
 ### Foundation Era (80 Years Ago)
 **Birth of Corporate Enforcement**
-- Created following the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merchant Wars]] to protect Consortium assets
+- Created following the [[02_Worldbuilding/Lore/Merchant Wars]] to protect Consortium assets
 - First constructs built using captured [[02_Worldbuilding/Places/Aether Crystals|02 Worldbuilding/Places/Aether Crystals]]
-- Initial designs based on captured [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] technology
-- Established [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Enforcement Citadel]] as headquarters
+- Initial designs based on captured [[02_Worldbuilding/People/Crystal Wardens]] technology
+- Established [[02_Worldbuilding/Lore/The Enforcement Citadel]] as headquarters
 - Commander Ironprice recruited from disbanded royal guard
 
 ### The Crystal Integration (60-40 Years Ago)
@@ -74,18 +74,18 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 - Development of autonomous construct squadrons
 - Cross-dimensional reconnaissance capabilities
 - Advanced corporate crime investigation units
-- Preparation for potential conflict with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crown]]
+- Preparation for potential conflict with [[02_Worldbuilding/Groups/The Crown]]
 
 ## Structure & Organization
 
 ### High Command
 **Executive Leadership**
-- **Supreme Commander**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Commander Ironprice]] - Former royal guard, corporate loyalist
-- **Deputy of Operations**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Colonel Crystal-Core]] - Half-construct tactical genius
-- **Intelligence Director**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spymaster Goldwatch]] - Information warfare specialist
+- **Supreme Commander**: [[02_Worldbuilding/Lore/Commander Ironprice]] - Former royal guard, corporate loyalist
+- **Deputy of Operations**: [[02_Worldbuilding/Lore/Colonel Crystal-Core]] - Half-construct tactical genius
+- **Intelligence Director**: [[02_Worldbuilding/Lore/Spymaster Goldwatch]] - Information warfare specialist
 - **Chief Engineer**: [[Master Artificer Cogsworth]] - Construct design and maintenance
-- **Enforcement Coordinator**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Repossession]] - Debt collection and property seizure
-- **Training Commandant**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Drill Sergeant Discipline]] - Academy operations
+- **Enforcement Coordinator**: [[02_Worldbuilding/People/Captain Repossession]] - Debt collection and property seizure
+- **Training Commandant**: [[02_Worldbuilding/Lore/Drill Sergeant Discipline]] - Academy operations
 
 ### Core Divisions
 
@@ -131,7 +131,7 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 
 ### Regional Commands
 **Territorial Organization**
-- **Central Command**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Enforcement Citadel]] - headquarters and training
+- **Central Command**: [[02_Worldbuilding/Lore/The Enforcement Citadel]] - headquarters and training
 - **Trade Route Protection**: Mobile enforcement along commercial pathways
 - **Urban Operations**: City-based security and surveillance
 - **Frontier Posts**: Remote facility protection and expansion security
@@ -147,7 +147,7 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 - **Surveillance Equipment**: Advanced reconnaissance and monitoring technology
 
 ### Facilities Infrastructure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Enforcement Citadel]]**: Massive fortress and training complex
+- **[[02_Worldbuilding/Lore/The Enforcement Citadel]]**: Massive fortress and training complex
 - **Regional Bases**: 20+ fortified positions across Aethermoor
 - **Detention Centers**: Corporate prison and interrogation facilities
 - **Maintenance Depots**: Construct repair and upgrade stations
@@ -203,7 +203,7 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 - Prepare for potential human-construct integrated command structure
 
 #### Shadow Trade Interdiction
-**Counter-[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] Operations**
+**Counter-[[02_Worldbuilding/Places/Aquabyssos]] Operations**
 - Investigate and disrupt shadow trade networks
 - Develop anti-shadow weaponry and detection equipment
 - Train specialized units for supernatural threat response
@@ -214,29 +214,29 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 
 ### Corporate Integration
 - **[[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]**: Primary employer and authority
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Zephyr Goldwhisper]]**: Ultimate corporate commander
+- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Ultimate corporate commander
 - **Board of Scales**: Report directly to executive leadership
 - **Corporate Departments**: Integrated security for all business operations
 - **Subsidiary Companies**: Protection and enforcement for Consortium enterprises
 
 ### Government Relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crown]]**: Tense relationship, competing authority
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Mutual distrust and political maneuvering
+- **[[02_Worldbuilding/Groups/The Crown]]**: Tense relationship, competing authority
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Mutual distrust and political maneuvering
 - **Royal Guard**: Professional rivalry and jurisdictional conflicts
 - **Local Law Enforcement**: Often supersede or conflict with municipal authority
 - **Judicial System**: Work around or through legal system as needed
 
 ### Military Competitors
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]**: Technology rivalry and recruitment competition
+- **[[02_Worldbuilding/People/Crystal Wardens]]**: Technology rivalry and recruitment competition
 - **Private Security Companies**: Absorb or eliminate through corporate pressure
 - **Mercenary Companies**: Occasional contracts but maintain competitive advantage
 - **Foreign Military Forces**: Intelligence gathering and potential threat assessment
 - **Criminal Organizations**: Both enemy and occasional business partner
 
 ### Complex Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]**: Moral opposition but practical cooperation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The People's Movement]]**: Revolutionary threat requiring careful monitoring
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]**: Technical expertise vs. ethical concerns
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Moral opposition but practical cooperation
+- **[[02_Worldbuilding/Lore/The People's Movement]]**: Revolutionary threat requiring careful monitoring
+- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]**: Technical expertise vs. ethical concerns
 - **Common Citizens**: Protection vs. oppression depending on corporate interests
 - **Worker Organizations**: Suppress unions while maintaining productive workforce
 
@@ -266,34 +266,34 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 ## Notable Members
 
 ### Leadership
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Commander Ironprice]]** - Supreme commander, former royal guard
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Colonel Crystal-Core]]** - Half-construct tactical genius
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spymaster Goldwatch]]** - Intelligence and information warfare
+- **[[02_Worldbuilding/Lore/Commander Ironprice]]** - Supreme commander, former royal guard
+- **[[02_Worldbuilding/Lore/Colonel Crystal-Core]]** - Half-construct tactical genius
+- **[[02_Worldbuilding/Lore/Spymaster Goldwatch]]** - Intelligence and information warfare
 - **[[Master Artificer Cogsworth]]** - Construct engineering and maintenance
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Repossession]]** - Debt collection and enforcement specialist
+- **[[02_Worldbuilding/People/Captain Repossession]]** - Debt collection and enforcement specialist
 
 ### Elite Operators
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lieutenant Loyalty]]** - Internal security and loyalty enforcement
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sergeant Surveillance]]** - Advanced reconnaissance and intelligence
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corporal Collection]]** - Specialist in debt recovery and property seizure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Agent Infiltrator]]** - Deep cover operations in rival organizations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Specialist Suppression]]** - Counter-revolution and crowd control expert
+- **[[02_Worldbuilding/Lore/Lieutenant Loyalty]]** - Internal security and loyalty enforcement
+- **[[02_Worldbuilding/Lore/Sergeant Surveillance]]** - Advanced reconnaissance and intelligence
+- **[[02_Worldbuilding/Lore/Corporal Collection]]** - Specialist in debt recovery and property seizure
+- **[[02_Worldbuilding/Lore/Agent Infiltrator]]** - Deep cover operations in rival organizations
+- **[[02_Worldbuilding/Lore/Specialist Suppression]]** - Counter-revolution and crowd control expert
 
 ### Construct Commanders
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Alpha-Prime]]** - Lead Crystal Guard construct
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Beta-Seven]]** - Intelligence gathering construct coordinator
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Gamma-Enforcement]]** - Specialized enforcement construct leader
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Delta-Operations]]** - Special operations construct commander
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Omega-Protocol]]** - Emergency response construct supervisor
+- **[[02_Worldbuilding/Lore/Alpha-Prime]]** - Lead Crystal Guard construct
+- **[[02_Worldbuilding/Lore/Beta-Seven]]** - Intelligence gathering construct coordinator
+- **[[02_Worldbuilding/Lore/Gamma-Enforcement]]** - Specialized enforcement construct leader
+- **[[02_Worldbuilding/Lore/Delta-Operations]]** - Special operations construct commander
+- **[[02_Worldbuilding/Lore/Omega-Protocol]]** - Emergency response construct supervisor
 
 ## Headquarters & Holdings
 
 ### Primary Facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Enforcement Citadel]]**: Massive fortress complex serving as headquarters
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Core Foundry]]**: Construct manufacturing and enhancement facility
+- **[[02_Worldbuilding/Lore/The Enforcement Citadel]]**: Massive fortress complex serving as headquarters
+- **[[02_Worldbuilding/Lore/Crystal Core Foundry]]**: Construct manufacturing and enhancement facility
 - **[[The Academy of Corporate Security]]**: Training complex for human operators
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Intelligence Processing Center]]**: Information analysis and strategic planning
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Detention Complex]]**: Corporate prison and interrogation facilities
+- **[[02_Worldbuilding/Lore/Intelligence Processing Center]]**: Information analysis and strategic planning
+- **[[02_Worldbuilding/Lore/The Detention Complex]]**: Corporate prison and interrogation facilities
 
 ### Regional Infrastructure
 - **Enforcement Stations**: 50+ facilities throughout Consortium territory
@@ -303,11 +303,11 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 - **Mobile Command Posts**: Deployable headquarters for field operations
 
 ### Secret Facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Project Iron Laboratory]]**: Advanced construct research and development
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Black Archive]]**: Classified intelligence and blackmail storage
+- **[[02_Worldbuilding/Lore/Project Iron Laboratory]]**: Advanced construct research and development
+- **[[02_Worldbuilding/Lore/The Black Archive]]**: Classified intelligence and blackmail storage
 - **[[Loyalty Testing Centers]]**: Enhanced interrogation and conditioning facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Contingency Vault]]**: Emergency protocols and failsafe systems
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Operations Base]]**: Covert activities against supernatural threats
+- **[[02_Worldbuilding/Lore/The Contingency Vault]]**: Emergency protocols and failsafe systems
+- **[[02_Worldbuilding/Lore/Shadow Operations Base]]**: Covert activities against supernatural threats
 
 ## Weaknesses & Vulnerabilities
 
@@ -390,32 +390,32 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 ## Connected Elements
 
 ### Key NPCs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Commander Ironprice]]** - Supreme military leader
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Zephyr Goldwhisper]]** - Corporate authority
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Government opposition
+- **[[02_Worldbuilding/Lore/Commander Ironprice]]** - Supreme military leader
+- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]** - Corporate authority
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Government opposition
 - **[[Master Artificer Cogsworth]]** - Construct engineer
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Technology rival
+- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Technology rival
 
 ### Related Locations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Enforcement Citadel]]** - Military headquarters
+- **[[02_Worldbuilding/Lore/The Enforcement Citadel]]** - Military headquarters
 - **[[02_Worldbuilding/Groups/The Silverscale Consortium|02 Worldbuilding/Groups/The Silverscale Consortium]]** - Parent organization
 - **[[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The Crystal Palace]]** - Government rivalry location
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Core Foundry]]** - Construct manufacturing
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]** - Primary operation territory
+- **[[02_Worldbuilding/Lore/Crystal Core Foundry]]** - Construct manufacturing
+- **[[02_Worldbuilding/Places/Aethermoor]]** - Primary operation territory
 
 ### Associated Quests
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Corporate Coup]]** - Military takeover attempt
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Construct Liberation]]** - Robot rights movement
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Iron Loyalty]]** - Corporate conditioning exposure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Crystal Core Sabotage]]** - Disable construct network
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Enforcement War]]** - Military vs. government conflict
+- **[[02_Worldbuilding/Lore/Quest - The Corporate Coup]]** - Military takeover attempt
+- **[[02_Worldbuilding/Lore/Quest - Construct Liberation]]** - Robot rights movement
+- **[[02_Worldbuilding/Lore/Quest - The Iron Loyalty]]** - Corporate conditioning exposure
+- **[[02_Worldbuilding/Lore/Quest - Crystal Core Sabotage]]** - Disable construct network
+- **[[02_Worldbuilding/Lore/Quest - The Enforcement War]]** - Military vs. government conflict
 
 ### Important Items
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Command Cores]]** - Construct control technology
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corporate Justice Codex]]** - Legal authority documentation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Iron Loyalty Protocol]]** - Conditioning and surveillance manual
+- **[[02_Worldbuilding/Lore/Crystal Command Cores]]** - Construct control technology
+- **[[02_Worldbuilding/Lore/Corporate Justice Codex]]** - Legal authority documentation
+- **[[02_Worldbuilding/Lore/The Iron Loyalty Protocol]]** - Conditioning and surveillance manual
 - **[[02_Worldbuilding/Groups/Enforcement Authority Charte|02 Worldbuilding/Groups/Enforcement Authority Charte]]** - Corporate military power grant
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Advanced Construct Schematics]]** - Next-generation security technology
+- **[[02_Worldbuilding/Lore/Advanced Construct Schematics]]** - Next-generation security technology
 
 ---
 
@@ -438,4 +438,4 @@ Legends speak of Consortium Security Constructs as a nexus where past and presen
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Crystal Wardens]]

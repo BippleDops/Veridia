@@ -82,16 +82,16 @@ world: Both
 
 ## Background & Motivations
 
-[[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]] is the charismatic and cunning administrator of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s bustling [[vault_backup_20250813_073007/02_Worldbuilding/Places/Grand Harbor]], one of the most important maritime trade hubs in the known world. Born to an elvish sea captain and a human dock worker, Luna grew up straddling two worlds—the structured hierarchy of maritime law and the rough-and-tumble reality of port life.
+[[02_Worldbuilding/People/Harbor Master Luna Freedrift]] is the charismatic and cunning administrator of [[02_Worldbuilding/Places/Aquabyssos]]'s bustling [[02_Worldbuilding/Places/Grand Harbor]], one of the most important maritime trade hubs in the known world. Born to an elvish sea captain and a human dock worker, Luna grew up straddling two worlds—the structured hierarchy of maritime law and the rough-and-tumble reality of port life.
 
 ### Rise to Power
-Luna's path to becoming Harbor Master was unconventional. Originally a smuggler and information broker operating from the docks, she earned her position through a combination of blackmail, genuine competence, and a spectacular public service when she single-handedly prevented a [[vault_backup_20250813_073007/02_Worldbuilding/Places/Kraken]] attack on the harbor by coordinating the city's defenses while the official Harbor Master cowered in his office. The [[vault_backup_20250813_073007/02_Worldbuilding/Places/City Council of Aquabyssos]] recognized her natural leadership and appointed her to the role, much to the chagrin of more traditional candidates.
+Luna's path to becoming Harbor Master was unconventional. Originally a smuggler and information broker operating from the docks, she earned her position through a combination of blackmail, genuine competence, and a spectacular public service when she single-handedly prevented a [[02_Worldbuilding/Places/Kraken]] attack on the harbor by coordinating the city's defenses while the official Harbor Master cowered in his office. The [[02_Worldbuilding/Places/City Council of Aquabyssos]] recognized her natural leadership and appointed her to the role, much to the chagrin of more traditional candidates.
 
 ### Current Authority
-As Harbor Master, Luna oversees all maritime traffic entering and leaving [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], manages the complex web of dock fees, shipping schedules, and trade regulations, and serves as the de facto law enforcement for the harbor district. Her authority extends to investigating smuggling, piracy, and other maritime crimes, making her one of the most influential figures in the city's economy.
+As Harbor Master, Luna oversees all maritime traffic entering and leaving [[02_Worldbuilding/Places/Aquabyssos]], manages the complex web of dock fees, shipping schedules, and trade regulations, and serves as the de facto law enforcement for the harbor district. Her authority extends to investigating smuggling, piracy, and other maritime crimes, making her one of the most influential figures in the city's economy.
 
 ### The Freedrift Network
-Luna maintains her old contacts from her smuggling days, creating an extensive intelligence network that spans from the lowest dock workers to the highest-ranking ship captains. This network, known as the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Freedrift Network]], provides her with information about everything happening in and around [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s waters, making her an invaluable ally and a dangerous enemy.
+Luna maintains her old contacts from her smuggling days, creating an extensive intelligence network that spans from the lowest dock workers to the highest-ranking ship captains. This network, known as the [[02_Worldbuilding/Places/Freedrift Network]], provides her with information about everything happening in and around [[02_Worldbuilding/Places/Aquabyssos]]'s waters, making her an invaluable ally and a dangerous enemy.
 
 ## Services & Interactions
 
@@ -99,8 +99,8 @@ Luna maintains her old contacts from her smuggling days, creating an extensive i
 - **Shipping Permits:** Standard harbor entry permits (5gp), expedited processing (20gp)
 - **Dock Berth Reservations:** Secure berths for valuable cargo (50-200gp depending on size and security level)
 - **Maritime Legal Services:** Dispute resolution, contract enforcement, and legal representation (100gp per case)
-- **Navigation Charts:** Up-to-date charts of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] waters and surrounding areas (25gp)
-- **Cargo Insurance:** Backed by the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant's Consortium]] (varies by cargo value)
+- **Navigation Charts:** Up-to-date charts of [[02_Worldbuilding/Places/Aquabyssos]] waters and surrounding areas (25gp)
+- **Cargo Insurance:** Backed by the [[02_Worldbuilding/Places/Merchant's Consortium]] (varies by cargo value)
 
 ### Unofficial Services
 - **Information Brokerage:** Luna's network provides information on ship movements, cargo manifests, and potential threats (50-500gp depending on sensitivity)
@@ -113,18 +113,18 @@ For those seeking special privileges or access to restricted areas of the harbor
 
 1. **The Trial of Trust:** Proving reliability through completion of a small but important task
 2. **The Trial of Value:** Demonstrating what you can offer the harbor community
-3. **The Trial of Loyalty:** Showing commitment to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s prosperity and safety
+3. **The Trial of Loyalty:** Showing commitment to [[02_Worldbuilding/Places/Aquabyssos]]'s prosperity and safety
 
 ### Key Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Stormwright]]:** Rival and occasional ally, represents the old guard of maritime authority
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant's Consortium]]:** Complex relationship mixing cooperation and mutual suspicion
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Dockworkers' Union]]:** Strong alliance, Luna protects worker rights in exchange for information and loyalty
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Sea Witches Coven]]:** Maintains respectful distance while occasionally trading favors
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Pirate Lords of the Spiral Depths]]:** Unofficial non-aggression pact, information sharing about mutual threats
+- **[[02_Worldbuilding/People/Captain Thaddeus Stormwright]]:** Rival and occasional ally, represents the old guard of maritime authority
+- **[[02_Worldbuilding/Places/Merchant's Consortium]]:** Complex relationship mixing cooperation and mutual suspicion
+- **[[02_Worldbuilding/Places/Dockworkers' Union]]:** Strong alliance, Luna protects worker rights in exchange for information and loyalty
+- **[[02_Worldbuilding/Places/Sea Witches Coven]]:** Maintains respectful distance while occasionally trading favors
+- **[[02_Worldbuilding/People/Pirate Lords of the Spiral Depths]]:** Unofficial non-aggression pact, information sharing about mutual threats
 
 ## Personality & Demeanor
 
-Luna embodies the spirit of freedom that her surname suggests. She's quick-witted, adaptable, and possesses an infectious confidence that draws people to her cause. Despite her criminal past, she genuinely cares about [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and works to make the harbor a place where honest merchants can prosper while keeping truly dangerous elements at bay.
+Luna embodies the spirit of freedom that her surname suggests. She's quick-witted, adaptable, and possesses an infectious confidence that draws people to her cause. Despite her criminal past, she genuinely cares about [[02_Worldbuilding/Places/Aquabyssos]] and works to make the harbor a place where honest merchants can prosper while keeping truly dangerous elements at bay.
 
 ### Key Traits
 - **Pragmatic:** Willing to bend rules to achieve better outcomes
@@ -135,31 +135,31 @@ Luna embodies the spirit of freedom that her surname suggests. She's quick-witte
 
 ### Notable Quirks
 - Keeps a collection of interesting coins from across the world
-- Has a pet [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pseudodragon]] named Compass who delivers messages
+- Has a pet [[02_Worldbuilding/Places/Pseudodragon]] named Compass who delivers messages
 - Never removes her distinctive tricorn hat, even indoors
-- Maintains a small shrine to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Umberlee]], goddess of the sea, in her office
+- Maintains a small shrine to [[02_Worldbuilding/Places/Umberlee]], goddess of the sea, in her office
 - Speaks with subtle nautical metaphors in nearly every conversation
 
 ## Current Plots & Hooks
 
 ### The Ghost Ship Incident
-A mysterious vessel called [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phantom Current]] has been spotted in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] waters, seemingly crewed by undead sailors. Luna needs trustworthy agents to investigate without causing panic among the merchant fleet. She suspects the ship is connected to an ancient curse but needs proof before taking official action.
+A mysterious vessel called [[02_Worldbuilding/Places/The Phantom Current]] has been spotted in [[02_Worldbuilding/Places/Aquabyssos]] waters, seemingly crewed by undead sailors. Luna needs trustworthy agents to investigate without causing panic among the merchant fleet. She suspects the ship is connected to an ancient curse but needs proof before taking official action.
 
 ### The Smuggling War
 Two rival smuggling operations are escalating their conflict, threatening to spill over into legitimate harbor operations. Luna must maintain plausible deniability while maneuvering the groups into either peace or mutual destruction. She's looking for discrete operatives to handle sensitive negotiations.
 
 ### The Deep Trade Routes
-Strange reports from deep-sea fishing vessels suggest new trade routes opening to previously unknown civilizations in the ocean depths. Luna wants to establish [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s claim to these routes but needs explorers to chart the waters and establish first contact protocols.
+Strange reports from deep-sea fishing vessels suggest new trade routes opening to previously unknown civilizations in the ocean depths. Luna wants to establish [[02_Worldbuilding/Places/Aquabyssos]]'s claim to these routes but needs explorers to chart the waters and establish first contact protocols.
 
 ### The Harbor Master's Gambit
-Political pressure is mounting to replace Luna with a more "traditional" candidate from the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Noble Houses]]. She's building a coalition of supporters while gathering leverage on her opponents, but needs allies who can operate in both legitimate and shadowy circles.
+Political pressure is mounting to replace Luna with a more "traditional" candidate from the [[02_Worldbuilding/Places/Noble Houses]]. She's building a coalition of supporters while gathering leverage on her opponents, but needs allies who can operate in both legitimate and shadowy circles.
 
 ### The Siren's Bargain
-A group of [[vault_backup_20250813_073007/02_Worldbuilding/People/Sirens]] has approached Luna with a proposal for safe passage through their territorial waters in exchange for certain considerations. The deal could revolutionize shipping routes but comes with moral complications that Luna needs help navigating.
+A group of [[02_Worldbuilding/People/Sirens]] has approached Luna with a proposal for safe passage through their territorial waters in exchange for certain considerations. The deal could revolutionize shipping routes but comes with moral complications that Luna needs help navigating.
 
 ## Luna's Harbor Office
 
-Located in the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Master's Tower]], a converted lighthouse overlooking the main docks, Luna's office serves as both command center and social hub. The circular room features:
+Located in the [[02_Worldbuilding/Places/Harbor Master's Tower]], a converted lighthouse overlooking the main docks, Luna's office serves as both command center and social hub. The circular room features:
 
 - **Navigation Charts:** Covering every wall, constantly updated with new information
 - **Message Tubes:** A pneumatic system connecting to key locations throughout the harbor
@@ -174,16 +174,16 @@ Located in the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Mas
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Shard Guardian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Tidecaller]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lucky Finn Dicetide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Supplier Erikson Tidecaller]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Wandering Atoll]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
+- [[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]
+- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+- [[02_Worldbuilding/People/The Crimson Shard Guardian]]
+- [[02_Worldbuilding/People/The Tidecaller]]
+- [[02_Worldbuilding/Places/Lucky Finn Dicetide]]
+- [[02_Worldbuilding/Places/Supplier Erikson Tidecaller]]
+- [[02_Worldbuilding/Places/The Wandering Atoll]]
 
 ## Player-Facing Summary
 
@@ -205,7 +205,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/Places/Harbor Master Luna Freedrift]]
 
 <!-- enriched: true -->

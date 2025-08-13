@@ -1,35 +1,32 @@
 ---
-created: '2025-08-09'
-outcome: Pyrrhic Victory for Alliance Forces
+type: Lore
+status: draft
+tags:
+- aethermoor
+- ancient-conflict
+- completed
+- continental
+- historical-event
+- history
+- lore
+- military
+- war
+world: Aethermoor
+time_period: Third Age, Years 892-901
+scale: Continental
 participants:
 - Multiple Kingdoms
 - City-States
 - Ancient Powers
+outcome: Pyrrhic Victory for Alliance Forces
+created: '2025-08-09'
+updated: '2025-08-11T00:00:00+00:00'
 related_entities:
 - '[[02_Worldbuilding/Lore/Ancient Siege Tunnels]]'
 - '[[02_Worldbuilding/Places/Crystalhaven]]'
 - '[[02_Worldbuilding/Places/Ironhold]]'
 - '[[02_Worldbuilding/Places/Port Meridian]]'
-scale: Continental
-status: draft
-tags:
-- aethermoor
-- content/lore
-- draft
-- historical-event
-- lore
-- mechanics/combat
-- military
-- status/complete
-- war
-- world/aethermoor
-- world/surface
-time_period: Third Age, Years 892-901
-type: Lore
-updated: '2025-08-13T12:34:29.362905+00:00'
-world: Aethermoor
 ---
-
 
 
 

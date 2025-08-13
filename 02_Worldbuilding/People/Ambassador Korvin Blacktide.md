@@ -23,15 +23,15 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Green Death]]
+- [[02_Worldbuilding/Quests/The Green Death]]
 
 
 ## Connections
 
 - [[Envoy Blackwater Jr.]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Knight]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lighthouse Keeper]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Pretender]]
+- [[02_Worldbuilding/People/Knight]]
+- [[02_Worldbuilding/People/Lighthouse Keeper]]
+- [[02_Worldbuilding/People/Quest - The Pretender]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

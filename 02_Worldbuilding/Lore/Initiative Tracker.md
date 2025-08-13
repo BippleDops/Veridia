@@ -38,11 +38,11 @@ world: Both
 
 ## Overview
 
-The Initiative Tracker provides comprehensive tools and systems for managing complex combat encounters in the merged realms of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]. Unlike standard initiative systems, this framework accounts for environmental factors, multi-dimensional combat, temporal distortions, and the unique challenges of underwater and aerial combat scenarios.
+The Initiative Tracker provides comprehensive tools and systems for managing complex combat encounters in the merged realms of [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. Unlike standard initiative systems, this framework accounts for environmental factors, multi-dimensional combat, temporal distortions, and the unique challenges of underwater and aerial combat scenarios.
 
 The system addresses several complications unique to the merged realms: pressure effects that can slow actions, crystal resonance that affects reaction times, memory magic that can alter turn order, and reality distortions that may cause combatants to act in multiple time streams simultaneously. These factors require enhanced tracking methods and contingency procedures.
 
-Beyond basic turn order management, the Initiative Tracker integrates with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multi-Phase Boss Fights]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Environmental Hazards]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Distortion Zones]], and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reputation System]] to create a comprehensive combat management framework. The system scales from simple encounters to massive battles involving hundreds of participants across multiple dimensions.
+Beyond basic turn order management, the Initiative Tracker integrates with [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]], [[02_Worldbuilding/Lore/Environmental Hazards]], [[02_Worldbuilding/Lore/Temporal Distortion Zones]], and [[02_Worldbuilding/Lore/Reputation System]] to create a comprehensive combat management framework. The system scales from simple encounters to massive battles involving hundreds of participants across multiple dimensions.
 
 The tracker includes tools for managing complex initiative modifiers, environmental effects, group actions, delayed actions, and the special timing requirements of spellcasting, multi-attack sequences, and legendary actions in the unique physics of the merged realms.
 
@@ -130,7 +130,7 @@ The tracker includes tools for managing complex initiative modifiers, environmen
 
 ### Multi-Dimensional Initiative
 
-In [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]], combatants may exist across multiple dimensional states:
+In [[02_Worldbuilding/Lore/Reality Merge Zones]], combatants may exist across multiple dimensional states:
 
 **Dimensional Initiative States**:
 - **Single State**: Normal initiative in one dimension
@@ -322,7 +322,7 @@ In [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]], c
 - **Automatic Sorting**: Maintains initiative order automatically
 - **Status Tracking**: Built-in condition and duration management
 - **Environmental Integration**: Handles complex environmental effects
-- **Multi-Phase Support**: Tracks [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
+- **Multi-Phase Support**: Tracks [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
 - **Temporal Handling**: Manages time distortion effects
 
 **Customization Options**:
@@ -428,7 +428,7 @@ In [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]], c
 
 ### Initiative and Reputation
 
-Initiative performance can affect [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reputation System]] standings:
+Initiative performance can affect [[02_Worldbuilding/Lore/Reputation System]] standings:
 
 **Combat Reputation Factors**:
 - **Consistent High Initiative**: Reputation for quick thinking and reflexes
@@ -459,40 +459,40 @@ Initiative performance can affect [[vault_backup_20250813_073007/02_Worldbuildin
 ## Connected Systems and Cross-References
 
 ### Related Mechanics
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multi-Phase Boss Fights]]**: Advanced initiative for complex encounters
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Environmental Hazards]]**: Environmental effects on initiative
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Distortion Zones]]**: Time effects on turn order
+- **[[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]**: Advanced initiative for complex encounters
+- **[[02_Worldbuilding/Lore/Environmental Hazards]]**: Environmental effects on initiative
+- **[[02_Worldbuilding/Lore/Temporal Distortion Zones]]**: Time effects on turn order
 - **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Mental effects impacting reaction time
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reputation System]]**: Social effects of combat performance
+- **[[02_Worldbuilding/Lore/Reputation System]]**: Social effects of combat performance
 
 ### Combat Integration
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos-Survival-Mechanics]]**: Underwater combat considerations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]]**: Pressure effects on reflexes and timing
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]**: Corruption effects on initiative
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alterations]]**: Mental effects affecting combat awareness
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random Encounters]]**: Initiative management for unexpected encounters
+- **[[02_Worldbuilding/Lore/Aquabyssos-Survival-Mechanics]]**: Underwater combat considerations
+- **[[02_Worldbuilding/Lore/Pressure Adaptation System]]**: Pressure effects on reflexes and timing
+- **[[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]**: Corruption effects on initiative
+- **[[02_Worldbuilding/Lore/Memory Alterations]]**: Mental effects affecting combat awareness
+- **[[02_Worldbuilding/Lore/Random Encounters]]**: Initiative management for unexpected encounters
 
 ### Environmental Systems
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]]**: Crystal resonance initiative effects
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Wells]]**: Darkness and fear effects on reaction time
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]]**: Multi-dimensional initiative challenges
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Crush Zones]]**: Extreme pressure effects on combat timing
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Chambers]]**: Variable environment initiative modifications
+- **[[02_Worldbuilding/Lore/Crystal Forest]]**: Crystal resonance initiative effects
+- **[[02_Worldbuilding/Places/Shadow Wells]]**: Darkness and fear effects on reaction time
+- **[[02_Worldbuilding/Lore/Reality Merge Zones]]**: Multi-dimensional initiative challenges
+- **[[02_Worldbuilding/Lore/Pressure Crush Zones]]**: Extreme pressure effects on combat timing
+- **[[02_Worldbuilding/Lore/Tidal Chambers]]**: Variable environment initiative modifications
 
 ### Supporting Tools
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Combat Encounter Design]]**: Framework for creating complex battles
+- **[[02_Worldbuilding/Lore/Combat Encounter Design]]**: Framework for creating complex battles
 - **[[Environmental Combat Rules]]**: Detailed rules for unusual environments
 - **[[Mass Combat Systems]]**: Large-scale battle management
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tactical Combat Options]]**: Advanced combat maneuvers and timing
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Emergency Combat Procedures]]**: Rapid resolution methods for urgent situations
+- **[[02_Worldbuilding/Lore/Tactical Combat Options]]**: Advanced combat maneuvers and timing
+- **[[02_Worldbuilding/Lore/Emergency Combat Procedures]]**: Rapid resolution methods for urgent situations
 
 The Initiative Tracker serves as the foundation for organized, engaging combat that takes full advantage of the unique environmental, temporal, and dimensional challenges present in the merged realms while maintaining clear, manageable gameplay flow.
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random Encounters]]
+- [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
+- [[02_Worldbuilding/Lore/Random Encounters]]
 
 ## Player-Facing Summary
 
@@ -517,13 +517,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos-Survival-Mechanics]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Crush Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reputation System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Distortion Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Chambers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Wells]]
+- [[02_Worldbuilding/Lore/Aquabyssos-Survival-Mechanics]]
+- [[02_Worldbuilding/Lore/Crystal Forest]]
+- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
+- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
+- [[02_Worldbuilding/Lore/Pressure Crush Zones]]
+- [[02_Worldbuilding/Lore/Reality Merge Zones]]
+- [[02_Worldbuilding/Lore/Reputation System]]
+- [[02_Worldbuilding/Lore/Temporal Distortion Zones]]
+- [[02_Worldbuilding/Lore/Tidal Chambers]]
+- [[02_Worldbuilding/Places/Shadow Wells]]

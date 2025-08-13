@@ -411,12 +411,12 @@ Names indicating high social status:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Speak Variations]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Wind Song Linguistic Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Common Idioms and Sayings]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professional Terminology]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cultural_Organizations/Cultural Exchange Society]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marriage Between Worlds]]
+- [[02_Worldbuilding/Lore/Depth Speak Variations]]
+- [[02_Worldbuilding/Lore/Wind Song Linguistic Guide]]
+- [[02_Worldbuilding/Lore/Common Idioms and Sayings]]
+- [[02_Worldbuilding/Lore/Professional Terminology]]
+- [[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Exchange Society]]
+- [[02_Worldbuilding/Lore/Marriage Between Worlds]]
 
 ## Player-Facing Summary
 

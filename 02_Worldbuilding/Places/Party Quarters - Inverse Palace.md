@@ -89,7 +89,7 @@ This location provides unique tactical challenges and memorable social encounter
 
 ## Connections
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
 
 
 ## History
@@ -125,6 +125,6 @@ Legends speak of Party Quarters   Inverse Palace as a nexus where past and prese
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Party Quarters - Inverse Palace]]
+- [[02_Worldbuilding/Places/Party Quarters - Inverse Palace]]
 
 <!-- enriched: true -->

@@ -28,9 +28,9 @@ world: Both
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sir Marcus Dawnforge]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/Sir Marcus Dawnforge]]
 - [[Envoy Blackwater Jr.]]
 
 ## Player-Facing Summary

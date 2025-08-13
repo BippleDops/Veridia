@@ -52,7 +52,7 @@ world: Aquabyssos
 > *"In the deepest depths, sorrow becomes power, power becomes purpose, and purpose becomes sacrifice."*
 
 ## 🎬 Strong Start
-The party descends into [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Mourning Depths]] to find it transformed—instead of a city of sorrow, it's erupting with impossible joy. Citizens laugh while crying blood, dance while their bodies decay, celebrate while reality collapses. The [[vault_backup_20250813_073007/02_Worldbuilding/People/The Sorrowmaster]] floats above, glowing with paradoxical happiness: "I've discovered the ultimate sorrow—the grief of never being able to grieve again. Help me. Kill my joy before it destroys everything."
+The party descends into [[02_Worldbuilding/Places/The Mourning Depths]] to find it transformed—instead of a city of sorrow, it's erupting with impossible joy. Citizens laugh while crying blood, dance while their bodies decay, celebrate while reality collapses. The [[02_Worldbuilding/People/The Sorrowmaster]] floats above, glowing with paradoxical happiness: "I've discovered the ultimate sorrow—the grief of never being able to grieve again. Help me. Kill my joy before it destroys everything."
 
 ## 🎭 Scenes
 
@@ -77,8 +77,8 @@ The party descends into [[vault_backup_20250813_073007/02_Worldbuilding/Places/T
 **Situation**: Withdraw stored sorrow before joy consumes it  
 **Conflict**: Other factions racing for same resources  
 **Discoveries**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]] has been hoarding grief
-- The [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] arrives, fully unified
+- [[02_Worldbuilding/People/Shadow Duchess Nyx]] has been hoarding grief
+- The [[02_Worldbuilding/People/The Scattered Emperor]] arrives, fully unified
 - Ancient grief from pre-Cataclysm still exists
 - Someone's been stealing sorrow for years
 
@@ -163,7 +163,7 @@ Roll d8 each hour:
 
 ## 💰 Treasure & Rewards
 - Completed Grief Bomb
-- 3,000 [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sorrow Pearls]]
+- 3,000 [[02_Worldbuilding/Lore/Sorrow Pearls]]
 - Sorrowmaster's Crown (control emotions)
 - Memory Vault Access (all stored memories)
 - Singer Translation Codex
@@ -205,9 +205,9 @@ The Grief Bomb is complete—a crystallized sphere of pure, concentrated sorrow 
 
 But as the ritual completes, the Singer Beyond SPEAKS through reality itself: "I... remember... feeling. You tiny things... you still feel. I consumed twelve realities seeking what you have. Give me your sorrow. Give me your joy. Give me... meaning."
 
-The [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]], unified for the first time in centuries, steps forward: "We were never fighting it. We were trying to teach it. The Cataclysm, the shadows, the harvest—all of it was to show a god how to grieve."
+The [[02_Worldbuilding/People/The Scattered Emperor]], unified for the first time in centuries, steps forward: "We were never fighting it. We were trying to teach it. The Cataclysm, the shadows, the harvest—all of it was to show a god how to grieve."
 
-[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]] and her original self merge: "The bomb won't kill it. It will make it mortal. It will make it capable of death. And then..."
+[[02_Worldbuilding/People/Shadow Duchess Nyx]] and her original self merge: "The bomb won't kill it. It will make it mortal. It will make it capable of death. And then..."
 
 Marina—all versions speaking in unison—completes the thought: "And then we decide if a god deserves mercy."
 
@@ -225,17 +225,17 @@ The ocean above turns transparent, revealing the impossible anatomy of the Singe
 - Someone MUST sacrifice something permanent
 
 ## 📅 Next Session Prep
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 10 - The Shadow Finale]]
+- [[1-Session Journals/Aquabyssos - Session 10 - The Shadow Finale]]
 - Prepare multiple ending scenarios
 - Design Singer consciousness encounter
 - Plan epilogue based on choices
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sorrow Pearls]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Sorrowmaster]]
+- [[02_Worldbuilding/Lore/Sorrow Pearls]]
+- [[02_Worldbuilding/People/The Sorrowmaster]]

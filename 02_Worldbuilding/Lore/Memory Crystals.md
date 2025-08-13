@@ -19,14 +19,14 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
+- [[02_Worldbuilding/Quests/The Crown's Burden]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
 - [[02_Worldbuilding/People/Aboleth Prime Yoth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
+- [[02_Worldbuilding/Quests/The Crown's Burden]]
 
 ## Player-Facing Summary
 

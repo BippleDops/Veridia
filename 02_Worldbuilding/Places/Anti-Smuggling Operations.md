@@ -62,11 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Anti-Smuggling Operations]]
+- [[02_Worldbuilding/Places/Anti-Smuggling Operations]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District Customs House]]
+- [[02_Worldbuilding/Places/Harbor District Customs House]]

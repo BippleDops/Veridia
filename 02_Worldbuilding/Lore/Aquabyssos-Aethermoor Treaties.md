@@ -281,21 +281,21 @@ Someone with access to the highest levels of both governments has been systemati
 
 ## Connected References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Inter-Realm Council]] - Governing body for treaty implementation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ambassador Marina Tidecrest]] - Key diplomatic figure
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Twilight Zone]] - Primary diplomatic meeting area
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Convergence Engine]] - Hidden stabilization technology
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Elevation]] - Aethermoor's founding catastrophe
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] - Aquabyssos's founding catastrophe
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Plague]] - Recent crisis requiring treaty cooperation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Collective]] - Anti-treaty extremist organization
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Reshaper]] - True cause of both catastrophes
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Twilight Born]] - Products of secret hybrid experiments
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dimensional Guard]] - Joint military force
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Neutral Trading Posts]] - Economic integration points
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Bridge]] - Experimental connection technology
+- [[02_Worldbuilding/Lore/Inter-Realm Council]] - Governing body for treaty implementation
+- [[02_Worldbuilding/Lore/Ambassador Marina Tidecrest]] - Key diplomatic figure
+- [[02_Worldbuilding/Lore/Twilight Zone]] - Primary diplomatic meeting area
+- [[02_Worldbuilding/Lore/Convergence Engine]] - Hidden stabilization technology
+- [[02_Worldbuilding/Lore/The Great Elevation]] - Aethermoor's founding catastrophe
+- [[02_Worldbuilding/Places/The Great Drowning]] - Aquabyssos's founding catastrophe
+- [[02_Worldbuilding/Lore/Memory Plague]] - Recent crisis requiring treaty cooperation
+- [[02_Worldbuilding/Lore/Shadow Collective]] - Anti-treaty extremist organization
+- [[02_Worldbuilding/Lore/The Reshaper]] - True cause of both catastrophes
+- [[02_Worldbuilding/Lore/Twilight Born]] - Products of secret hybrid experiments
+- [[02_Worldbuilding/Lore/Dimensional Guard]] - Joint military force
+- [[02_Worldbuilding/Lore/Neutral Trading Posts]] - Economic integration points
+- [[02_Worldbuilding/Lore/Reality Bridge]] - Experimental connection technology
 - [[Void Cult]] - Common enemy of both realms
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Planar Incursions]] - External threats requiring cooperation
+- [[02_Worldbuilding/Lore/Planar Incursions]] - External threats requiring cooperation
 
 ## Future Implications
 
@@ -313,8 +313,8 @@ The Aquabyssos-Aethermoor Treaties represent more than diplomatic agreements - t
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marriage Between Worlds]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 09 The Price of Unity]]
+- [[02_Worldbuilding/Lore/Marriage Between Worlds]]
+- [[1-Session Journals/Aethermoor - Session 09 The Price of Unity]]
 
 ## Player-Facing Summary
 
@@ -332,4 +332,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Ambassadors]]
+- [[02_Worldbuilding/Lore/Aquabyssos Ambassadors]]

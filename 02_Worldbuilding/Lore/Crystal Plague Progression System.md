@@ -265,13 +265,13 @@ The Crystal Plague is a devastating condition that transforms living tissue into
 - Environmental hazards become more significant
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Plague Wards]] - Hospital facilities and patient care
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Medical Research Facilities]] - Cure development efforts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Black Market Crystal Trade]] - Illegal commerce opportunities
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] - Religious interpretations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quarantine Enforcement]] - Government response procedures
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underground Smuggling Networks]] - Resistance movements
+- [[02_Worldbuilding/Places/Crystal Plague Wards]] - Hospital facilities and patient care
+- [[02_Worldbuilding/Places/Medical Research Facilities]] - Cure development efforts
+- [[02_Worldbuilding/Lore/Black Market Crystal Trade]] - Illegal commerce opportunities
+- [[02_Worldbuilding/Places/Crystal Cult Temples]] - Religious interpretations
+- [[02_Worldbuilding/Lore/Quarantine Enforcement]] - Government response procedures
+- [[02_Worldbuilding/Lore/Underground Smuggling Networks]] - Resistance movements
 - [[Brother Marcus]] - Key healing figure
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Major plague outbreak location
+- [[02_Worldbuilding/Places/Port Meridian]] - Major plague outbreak location
 
 <!-- enriched: true -->

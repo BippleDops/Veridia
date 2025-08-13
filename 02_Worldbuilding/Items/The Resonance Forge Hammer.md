@@ -1,8 +1,8 @@
 ---
-affiliation: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] (Resonance Network)'
+affiliation: '[[02_Worldbuilding/Lore/The Seven Shards]] (Resonance Network)'
 created: '2025-08-09'
 created_by: Claude
-current_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]'
+current_location: '[[02_Worldbuilding/Places/The Crystalline Foundry]]'
 danger_level: 2
 item_type: Artifact Crafting Tool
 rarity: Legendary
@@ -29,7 +29,7 @@ world: Aethermoor
 *Where Seven Shards' Power Meets Master Craftsmanship*
 
 ## Overview
-The Resonance Forge Hammer represents the pinnacle of Aethermoor crafting technology, forged using techniques that harmonize with the power of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]. This legendary tool doesn't merely shape metal and crystal—it resonates with the fundamental forces that bind reality together, allowing master craftsmen to create items that bridge the gap between mundane craftsmanship and true magical artistry. The hammer serves as both weapon and tool, capable of building wonders or destroying obstacles with equal ease.
+The Resonance Forge Hammer represents the pinnacle of Aethermoor crafting technology, forged using techniques that harmonize with the power of [[02_Worldbuilding/Lore/The Seven Shards]]. This legendary tool doesn't merely shape metal and crystal—it resonates with the fundamental forces that bind reality together, allowing master craftsmen to create items that bridge the gap between mundane craftsmanship and true magical artistry. The hammer serves as both weapon and tool, capable of building wonders or destroying obstacles with equal ease.
 
 ## Physical Description
 ### Appearance
@@ -175,7 +175,7 @@ The Resonance Forge Hammer represents the pinnacle of Aethermoor crafting techno
 - **Evolution**: Adapted to work with separated-world materials and energies
 
 ### Modern Era
-- **Current Location**: Housed in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]] under careful guard
+- **Current Location**: Housed in [[02_Worldbuilding/Places/The Crystalline Foundry]] under careful guard
 - **Access**: Available to qualified craftsmen through application and testing process
 - **Projects**: Used for most important crafting endeavors in Aethermoor
 - **Symbol**: Represents pinnacle of achievement in magical craftsmanship
@@ -184,7 +184,7 @@ The Resonance Forge Hammer represents the pinnacle of Aethermoor crafting techno
 ## Current Applications
 ### The Crystalline Foundry Operations
 #### Master Projects
-- **Royal Commissions**: Creating items for [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] and court
+- **Royal Commissions**: Creating items for [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] and court
 - **Defense Infrastructure**: Forging magical fortifications and protection systems
 - **Research Tools**: Crafting experimental devices for magical investigation
 - **Cultural Artifacts**: Creating artistic masterpieces for public inspiration
@@ -294,7 +294,7 @@ The Resonance Forge Hammer represents the pinnacle of Aethermoor crafting techno
 ### Security Measures
 #### Physical Protection
 - **Location**: Heavily fortified Crystalline Foundry with multiple defense layers
-- **Guards**: Elite [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] specifically trained for Hammer protection
+- **Guards**: Elite [[02_Worldbuilding/People/Crystal Wardens]] specifically trained for Hammer protection
 - **Barriers**: Magical wards preventing theft, teleportation, or scrying
 - **Alarms**: Instant notification system for any unauthorized access attempts
 - **Backup**: Hidden secondary location prepared in case of primary facility compromise
@@ -307,12 +307,12 @@ The Resonance Forge Hammer represents the pinnacle of Aethermoor crafting techno
 - **Accountability**: Personal responsibility system for all Hammer-crafted items
 
 ## Connected Elements
-- Direct connection to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] through resonance technology
-- Housed at [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]], Aethermoor's premier crafting facility
-- Associated with [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] through royal patronage and commissions
-- Linked to [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] through security and protection arrangements
+- Direct connection to [[02_Worldbuilding/Lore/The Seven Shards]] through resonance technology
+- Housed at [[02_Worldbuilding/Places/The Crystalline Foundry]], Aethermoor's premier crafting facility
+- Associated with [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] through royal patronage and commissions
+- Linked to [[02_Worldbuilding/People/Crystal Wardens]] through security and protection arrangements
 - Connected to pre-Sundering history and post-disaster recovery efforts
-- Related to [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]] through potential for creating unity-themed items
+- Related to [[02_Worldbuilding/Groups/The Convergence Seekers]] through potential for creating unity-themed items
 - Associated with international trade and Aethermoor's economic prosperity
 - Linked to all major crafting guilds and professional organizations
 
@@ -356,11 +356,11 @@ Legends speak of The Resonance Forge Hammer as a nexus where past and present co
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]
+- [[02_Worldbuilding/Places/The Crystalline Foundry]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/Places/The Crystalline Foundry]]

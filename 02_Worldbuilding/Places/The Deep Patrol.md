@@ -164,9 +164,9 @@ The Deep Patrol provides opportunities for extreme environment adventures, milit
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Terminal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Places/Harbor District]]
+- [[02_Worldbuilding/Places/Pressure Terminal]]
+- [[02_Worldbuilding/Places/Pressure's End]]
 
 ## Player-Facing Summary
 
@@ -178,6 +178,6 @@ Legends speak of The Deep Patrol as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deep Patrol]]
+- [[02_Worldbuilding/Places/The Deep Patrol]]
 
 <!-- enriched: true -->

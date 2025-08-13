@@ -200,7 +200,7 @@ The truth about Memoriam should remain uncertain. Even the DM shouldn't be entir
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten One]]
+- [[02_Worldbuilding/Places/The Forgotten One]]
 
 ## Player-Facing Summary
 
@@ -218,6 +218,6 @@ Legends speak of Memoriam   The Forgotten Continent as a nexus where past and pr
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memoriam - The Forgotten Continent]]
+- [[02_Worldbuilding/Places/Memoriam - The Forgotten Continent]]
 
 <!-- enriched: true -->

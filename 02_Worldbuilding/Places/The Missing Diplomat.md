@@ -141,7 +141,7 @@ This investigation combines political intrigue with detective work. Focus on the
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
 
 
 ## History
@@ -183,6 +183,6 @@ Legends speak of The Missing Diplomat as a nexus where past and present converge
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Missing Diplomat]]
+- [[02_Worldbuilding/Places/The Missing Diplomat]]
 
 <!-- enriched: true -->

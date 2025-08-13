@@ -1,19 +1,15 @@
 ---
-created: '2025-08-11'
+type: Lore
 status: complete
 tags:
+- active
+- ancient-library/archive
 - aquabyssos
-- campaign/arc
-- complete
-- content/lore
 - lore
-- status/in-progress
-- world/aquabyssos
-type: Lore
-updated: '2025-08-13T12:34:28.755372+00:00'
 world: Aquabyssos
+created: '2025-08-11'
+updated: '2025-08-13T01:18:34.642892+00:00'
 ---
-
 
 
 

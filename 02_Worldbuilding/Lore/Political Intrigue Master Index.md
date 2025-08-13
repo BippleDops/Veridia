@@ -31,7 +31,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 ## Core Political Framework Documents
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Parliamentary Procedures and Loopholes]]
+### [[02_Worldbuilding/Lore/Parliamentary Procedures and Loopholes]]
 **Key Systems:**
 - Tidal Parliament voting procedures and pressure-based discrimination
 - Echo Amendment process and temporal legal manipulation
@@ -41,7 +41,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 **Primary Use:** Understanding how laws are made, broken, and manipulated in Aquabyssos government
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Succession Crisis Contingencies]]  
+### [[02_Worldbuilding/Lore/Succession Crisis Contingencies]]  
 **Key Systems:**
 - The Scattered Emperor problem and seven personality fragments
 - Competing succession laws and legal framework chaos
@@ -51,7 +51,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 **Primary Use:** Managing the central political crisis driving current events
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Political Parties of Aquabyssos]]
+### [[02_Worldbuilding/Groups/Political Parties of Aquabyssos]]
 **Key Systems:**
 - Six major political parties with public platforms and hidden agendas
 - Foreign infiltration and shadow replacement throughout party leadership
@@ -64,9 +64,9 @@ This master index provides a comprehensive guide to the political intrigue syste
 ## Power Player Profiles
 
 ### Noble Houses
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Houses_and_Nobility/House Deepcurrent]]:** Ancient nobility with deep-sea entity connections and shadow daughter secrets
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Houses_and_Nobility/House Brightshield]]:** Progressive democrats hiding memory plague guilt and constructed family members
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Houses_and_Nobility/House Shadowmere]]:** Information brokers with dead matriarch and triple agent complications
+- **[[02_Worldbuilding/Groups/Houses_and_Nobility/House Deepcurrent]]:** Ancient nobility with deep-sea entity connections and shadow daughter secrets
+- **[[02_Worldbuilding/Groups/Houses_and_Nobility/House Brightshield]]:** Progressive democrats hiding memory plague guilt and constructed family members
+- **[[02_Worldbuilding/Groups/Houses_and_Nobility/House Shadowmere]]:** Information brokers with dead matriarch and triple agent complications
 
 **Interconnections:**
 - Marriage alliances creating political leverage and personal complications
@@ -75,8 +75,8 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Shared secrets creating mutual blackmail and uneasy truces
 
 ### Foreign Intelligence Operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Tenebrarum Embassy]]:** Shadow nation spy network with replacement program and cultural integration
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium Embassy]]:** Technology nation surveillance operation with predictive modeling and economic espionage
+- **[[02_Worldbuilding/Places/Tenebrarum Embassy]]:** Shadow nation spy network with replacement program and cultural integration
+- **[[02_Worldbuilding/Places/Crystallium Embassy]]:** Technology nation surveillance operation with predictive modeling and economic espionage
 
 **Intelligence Network Overlaps:**
 - Competing operations for same intelligence targets
@@ -86,7 +86,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 
 ## Operational Systems
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Assassination Plot Frameworks]]
+### [[02_Worldbuilding/Lore/Assassination Plot Frameworks]]
 **Key Methods:**
 - Pressure accidents exploiting environmental vulnerability
 - Shadow replacement creating perfect identity theft murders
@@ -100,7 +100,7 @@ This master index provides a comprehensive guide to the political intrigue syste
 - Political party competition escalating to physical violence
 - Succession crisis creating multiple assassination motivations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Diplomatic Event Scenarios]]
+### [[02_Worldbuilding/Lore/Diplomatic Event Scenarios]]
 **Key Templates:**
 - Trade negotiations masking political intelligence operations
 - Cultural festivals enabling soft power projection and agent recruitment

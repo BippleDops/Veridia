@@ -62,11 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deep Temple]]
+- [[02_Worldbuilding/Places/The Deep Temple]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pearl Diving Honor Culture]]
+- [[02_Worldbuilding/Lore/Pearl Diving Honor Culture]]

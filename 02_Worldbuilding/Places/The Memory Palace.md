@@ -62,12 +62,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Palace]]
+- [[02_Worldbuilding/Places/The Memory Palace]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant's Covenant]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crown]]
+- [[02_Worldbuilding/Groups/Merchant's Covenant]]
+- [[02_Worldbuilding/Groups/The Crown]]

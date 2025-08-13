@@ -17,11 +17,11 @@ location_type: Undead Parliamentary Complex
 notable_npcs:
 - '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal
   Speaker]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Senator Morticia Graveheart]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Clerk of Souls]]'
+- '[[02_Worldbuilding/People/Senator Glaucus]]'
+- '[[02_Worldbuilding/Places/Senator Morticia Graveheart]]'
+- '[[02_Worldbuilding/Places/The Clerk of Souls]]'
 obsidianUIMode: preview
-parent_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]'
+parent_location: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
 population: 144
 pressure_effects: Moderate
 ruler: '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The
@@ -35,7 +35,7 @@ services:
 shadow_density: High
 status: complete
 sub_locations:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Spectral Gallery]]'
+- '[[02_Worldbuilding/Places/The Spectral Gallery]]'
 - '[[Chamber of Eternal Debate]]'
 - '[[The Voting Crypts]]'
 - '[[Memory Archive Vaults]]'
@@ -74,7 +74,7 @@ world: Both
 
 ## Overview
 
-The Eternal Senate Chamber represents the paradoxical heart of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]'s government—a fully functioning parliamentary democracy where the majority of representatives have been dead for decades. This magnificent necropolis-parliament serves as both the seat of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] and a testament to the idea that death should not disqualify one from civic participation in an undead society.
+The Eternal Senate Chamber represents the paradoxical heart of [[02_Worldbuilding/Places/Abyssos Prime]]'s government—a fully functioning parliamentary democracy where the majority of representatives have been dead for decades. This magnificent necropolis-parliament serves as both the seat of [[02_Worldbuilding/Places/Parliament of Echoes]] and a testament to the idea that death should not disqualify one from civic participation in an undead society.
 
 The chamber itself is a marvel of necromantic architecture, built within what was once the grand cathedral of the surface capital. Massive bone buttresses support a vaulted ceiling decorated with the preserved remains of pre-drowning stained glass, now telling stories of transformation and undeath rather than divine salvation. The entire complex operates on the principle that consciousness, not biology, determines citizenship rights.
 
@@ -88,13 +88,13 @@ The chamber itself is a marvel of necromantic architecture, built within what wa
 ## History & Formation
 
 ### The Democratic Covenant
-When [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] transformed most of the surface world's political class into various forms of undead, the surviving governmental structures faced a crisis: should the transformed politicians retain their positions? The Democratic Covenant, signed in blood and ectoplasm, established that citizenship transcends biological status.
+When [[02_Worldbuilding/Places/The Great Drowning]] transformed most of the surface world's political class into various forms of undead, the surviving governmental structures faced a crisis: should the transformed politicians retain their positions? The Democratic Covenant, signed in blood and ectoplasm, established that citizenship transcends biological status.
 
 ### The First Undead Session
 The initial post-drowning parliamentary session was chaotic, with undead senators forgetting parliamentary procedure, ghost representatives unable to physically vote, and zombie congressmen eating the legislation. However, over time, specialized protocols were developed to accommodate the unique needs of deceased democracy.
 
 ### Evolution of Undead Rights
-The Eternal Senate has become the primary advocate for undead rights throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], establishing legal frameworks for:
+The Eternal Senate has become the primary advocate for undead rights throughout [[02_Worldbuilding/Places/Aquabyssos]], establishing legal frameworks for:
 - Spectral property ownership
 - Undead marriage and civil unions
 - Rights of the recently deceased
@@ -114,7 +114,7 @@ The main parliamentary floor where legislative sessions take place. The chamber 
 - Emergency containment systems for unstable undead
 
 ### The Spectral Gallery
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Spectral Gallery]]**
+**[[02_Worldbuilding/Places/The Spectral Gallery]]**
 Public viewing area where citizens (both living and undead) can observe parliamentary proceedings. The gallery includes special seating arrangements for different types of undead and living visitors, with privacy screens for those whose undead forms might be disturbing to others.
 
 ### The Voting Crypts
@@ -220,39 +220,39 @@ Debate over whether to continue the ban on contact with surface world survivors,
 ## Notable Senators
 
 ### The Undead Leadership
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]** - Veteran politician (Shadow replacement)
+**[[02_Worldbuilding/People/Senator Glaucus]]** - Veteran politician (Shadow replacement)
 - Former living senator now operated by shadow entity
 - Chairs the Foreign Relations Committee
 - Suspected of having secret agenda beyond official duties
 - Increasing influence over other shadow senators
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Senator Morticia Graveheart]]** - Powerful lich (Original)
+**[[02_Worldbuilding/Places/Senator Morticia Graveheart]]** - Powerful lich (Original)
 - Former High Priestess turned undead politician
 - Specializes in undead rights and religious freedom
 - Leads the Transcended faction
 - Can cast powerful necromantic magic during debates
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Senator Bartholomew Bonewright]]** - Skeleton aristocrat (Original)
+**[[02_Worldbuilding/Places/Senator Bartholomew Bonewright]]** - Skeleton aristocrat (Original)
 - Pre-drowning noble who maintained political influence after death
 - Conservative voice advocating for traditional values
 - Excellent memory despite skeletal nature
 - Often speaks for undead who cannot communicate verbally
 
 ### Living Representatives
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Senator Marina Tidecaller]]** - Living human (New Death)
+**[[02_Worldbuilding/Places/Senator Marina Tidecaller]]** - Living human (New Death)
 - Youngest senator, elected to represent transition interests
 - Often serves as interpreter between living and undead factions
 - Advocates for death preparation and transition services
 - Rumored romantic involvement with undead colleague
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Senator Cornelius Depthwalker]]** - Living adapted human (Original)
+**[[02_Worldbuilding/Places/Senator Cornelius Depthwalker]]** - Living adapted human (Original)
 - Surface world survivor who adapted to deep conditions
 - Bridges pre and post-drowning political perspectives
 - Advocates for surface world reconnection
 - Secretly maintains communication with surface communities
 
 ### The Mysterious
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Clerk of Souls]]** - Unknown entity
+**[[02_Worldbuilding/Places/The Clerk of Souls]]** - Unknown entity
 - Records all parliamentary proceedings in mystical ledgers
 - Appears as different forms to different observers
 - Never speaks except to clarify procedural points
@@ -319,20 +319,20 @@ The Eternal Speaker may not be a lich but rather a collective consciousness form
 ## Connected Locations
 
 ### Government Complex
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]:** Broader parliamentary complex
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]]:** Executive branch seat
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/Parliamentary Archives]]:** Historical government records
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Undead Services Bureau]]:** Citizen services for the deceased
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]:** Broader parliamentary complex
+- **[[02_Worldbuilding/Places/The Inverse Palace]]:** Executive branch seat
+- **[[02_Worldbuilding/Groups/Government_and_Parliament/Parliamentary Archives]]:** Historical government records
+- **[[02_Worldbuilding/Places/Undead Services Bureau]]:** Citizen services for the deceased
 
 ### Allied Institutions
 - **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Undead spiritual support
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Undead Rights Organization HQ]]:** Advocacy and legal support
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Transition Centers]]:** Death preparation and adaptation services
+- **[[02_Worldbuilding/Places/Undead Rights Organization HQ]]:** Advocacy and legal support
+- **[[02_Worldbuilding/Places/The Transition Centers]]:** Death preparation and adaptation services
 
 ### Opposition Sites
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Living Supremacist Enclaves]]:** Anti-undead political movements
+- **[[02_Worldbuilding/Places/Living Supremacist Enclaves]]:** Anti-undead political movements
 - **[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]:** Religious opposition to undead governance
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Loyalist Safe Houses]]:** Pro-surface political resistance
+- **[[02_Worldbuilding/Places/Surface Loyalist Safe Houses]]:** Pro-surface political resistance
 
 ## Adventure Hooks
 
@@ -434,11 +434,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Eternal Senate]]
+- [[02_Worldbuilding/Places/The Eternal Senate]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]

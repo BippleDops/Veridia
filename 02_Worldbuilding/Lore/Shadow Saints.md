@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Lore/Deep Mother]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Lore/Deep Mother]]
 
 ## Player-Facing Summary
 

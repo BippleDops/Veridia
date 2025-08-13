@@ -28,7 +28,7 @@ world: Both
 *The Crystal Innovator, Father of Modern Aethertech*
 
 ## Overview
-Master Artificer Korvin Gearwright stands at the forefront of crystal technology innovation in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]. A brilliant gnome inventor who sees Aether Crystals as the key to a utopian future, he creates devices that push the boundaries of what's possible—often without fully considering the consequences. His workshop produces both miracles and disasters in equal measure.
+Master Artificer Korvin Gearwright stands at the forefront of crystal technology innovation in [[02_Worldbuilding/Places/Crystalhaven]]. A brilliant gnome inventor who sees Aether Crystals as the key to a utopian future, he creates devices that push the boundaries of what's possible—often without fully considering the consequences. His workshop produces both miracles and disasters in equal measure.
 
 ## Appearance
 - **Race**: Rock Gnome
@@ -42,7 +42,7 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 ## Personality
 - **Traits**: Brilliant, enthusiastic, absent-minded, optimistic
 - **Loves**: Innovation, solving problems, teaching
-- **Dislikes**: Luddites, safety regulations, the [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]
+- **Dislikes**: Luddites, safety regulations, the [[02_Worldbuilding/Groups/Purist Coalition]]
 - **Quirks**: Talks to his inventions, forgets to eat when working
 - **Flaw**: Doesn't consider long-term consequences
 
@@ -203,7 +203,7 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 - **Crystal Prosthetics**: Replace lost limbs
 - **Resonance Communicators**: Long-distance communication
 - **Purification Filters**: Slow corruption spread
-- **Crystal Weapons**: For [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- **Crystal Weapons**: For [[02_Worldbuilding/People/Crystal Wardens]]
 
 ### Failed Experiments
 - **The Eternal Light**: Exploded, destroyed workshop
@@ -213,7 +213,7 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 
 ### Current Projects
 > [!warning] DM Only
-> - Device to hide [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption
+> - Device to hide [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption
 > - Weapon to destroy Shards (secretly for Queen)
 > - Crystal consciousness transfer device
 > - Portal to crystal dimension
@@ -222,7 +222,7 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 ## The Crystalline Foundry
 
 ### Facilities
-- Main workshop in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+- Main workshop in [[02_Worldbuilding/Places/Crystalhaven]]
 - Testing range (heavily warded)
 - Student laboratories
 - Crystal storage vault
@@ -244,19 +244,19 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 ## Relationships
 
 ### Professional
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Patron and secret patient
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Supplies military
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]] - Friendly rival
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sage Lyralei Starweaver]] - Theoretical advisor
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Patron and secret patient
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Supplies military
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] - Friendly rival
+- [[02_Worldbuilding/Places/Sage Lyralei Starweaver]] - Theoretical advisor
 
 ### Opposition
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] - Wants him dead
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]] - Represents everything she opposes
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] - Regular death threats
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Wants him dead
+- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Represents everything she opposes
+- [[02_Worldbuilding/Groups/Purist Coalition]] - Regular death threats
 
 ### Complicated
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Provides cryptic advice
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Has been approached for illegal work
+- [[02_Worldbuilding/People/The Crimson Sage]] - Provides cryptic advice
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Has been approached for illegal work
 - Insurance companies - No longer cover him
 
 ## Workshop Inventory
@@ -286,9 +286,9 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 ## Quest Involvement
 
 ### Quest Giver
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Runaway Golem]] - Stop his creation
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - Crystal Innovation]] - Gather rare materials
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Perfect Purifier]] - Test new device
+- [[02_Worldbuilding/People/Quest - The Runaway Golem]] - Stop his creation
+- [[02_Worldbuilding/People/Quest - Crystal Innovation]] - Gather rare materials
+- [[02_Worldbuilding/People/Quest - The Perfect Purifier]] - Test new device
 
 ### Support Role
 - Provides crystal equipment
@@ -359,15 +359,15 @@ Not a fighter, but if cornered:
 - His death would set back progress decades
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret patron
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military client
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]] - Academic rival
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] - Wants him dead
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret patron
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military client
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] - Academic rival
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Wants him dead
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Workshop location
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]] - His facility
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Ships inventions
+- [[02_Worldbuilding/Places/Crystalhaven]] - Workshop location
+- [[02_Worldbuilding/Places/The Crystalline Foundry]] - His facility
+- [[02_Worldbuilding/Places/Port Meridian]] - Ships inventions
 
 ## Key Inventions for Party
 - Custom crystal weapons
@@ -379,9 +379,9 @@ Not a fighter, but if cornered:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
+- [[02_Worldbuilding/People/The Current Merchants]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -400,10 +400,10 @@ Legends speak of Master Artificer Korvin Gearwright as a nexus where past and pr
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - Crystal Innovation]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Perfect Purifier]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Runaway Golem]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]
+- [[02_Worldbuilding/People/Quest - Crystal Innovation]]
+- [[02_Worldbuilding/People/Quest - The Perfect Purifier]]
+- [[02_Worldbuilding/People/Quest - The Runaway Golem]]
+- [[02_Worldbuilding/Places/The Crystalline Foundry]]

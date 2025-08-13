@@ -29,7 +29,7 @@ world: Both
 
 ## Overview
 
-The Shadow Trade Network operates the largest illicit commerce system in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], using shadow magic to facilitate trade in forbidden goods, contraband services, and illegal transactions. What began as small-scale smuggling operations has evolved into a sophisticated commercial empire that exists in the spaces between legal and criminal enterprise.
+The Shadow Trade Network operates the largest illicit commerce system in [[02_Worldbuilding/Places/Aquabyssos]], using shadow magic to facilitate trade in forbidden goods, contraband services, and illegal transactions. What began as small-scale smuggling operations has evolved into a sophisticated commercial empire that exists in the spaces between legal and criminal enterprise.
 
 The Network specializes in goods and services that official commerce cannot or will not provide: banned magical components, restricted information, illegal weapons, forbidden texts, and services that violate social taboos or government regulations. They've created a parallel economy that serves those with needs and desires the legitimate market ignores or prohibits.
 
@@ -86,15 +86,15 @@ Early smugglers discovered that shadow magic could:
 - Rumored to be consortium of multiple wealthy individuals
 
 #### The Umbral Board of Directors (5 Senior Leaders)
-- **Director of Operations** - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Master Trader Darkmarke]]: Daily business management and coordination
-- **Director of Security** - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Commander Shadowguard]]: Protection, enforcement, and counter-intelligence  
-- **Director of Magic** - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Arcane Master Voidweav]]: Shadow magic research and applications
-- **Director of Finance** - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Treasurer Goldenshadow]]: Money management, laundering, and investment
-- **Director of Expansion** - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Ambassador Blacktrade]]: New territory development and external relations
+- **Director of Operations** - [[02_Worldbuilding/Groups/Master Trader Darkmarke]]: Daily business management and coordination
+- **Director of Security** - [[02_Worldbuilding/Groups/Criminal_Organizations/Commander Shadowguard]]: Protection, enforcement, and counter-intelligence  
+- **Director of Magic** - [[02_Worldbuilding/Groups/Arcane Master Voidweav]]: Shadow magic research and applications
+- **Director of Finance** - [[02_Worldbuilding/Groups/Treasurer Goldenshadow]]: Money management, laundering, and investment
+- **Director of Expansion** - [[02_Worldbuilding/Groups/Ambassador Blacktrade]]: New territory development and external relations
 
 ### Regional Commands
 
-#### Deep Market Operations (Lower [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]])
+#### Deep Market Operations (Lower [[02_Worldbuilding/Places/Aquabyssos]])
 **Territory**: Forgotten districts and abandoned areas in city depths
 **Population**: 150 active members plus 800 affiliated criminals and customers  
 **Specialization**: Basic contraband, survival supplies, illegal services
@@ -330,21 +330,21 @@ Early smugglers discovered that shadow magic could:
 
 ### Criminal Organization Partnerships
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]**
+#### **[[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]**
 **Relationship**: Strategic partnership and information sharing
 **Cooperation Areas**: Intelligence trading, joint operations, mutual protection
 **Benefits**: Enhanced security, expanded customer base, shared resources
 **Tensions**: Occasional competition over high-value clients and premium services
 **Future Prospects**: Potential merger or deeper integration of operations
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]**
+#### **[[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]**
 **Relationship**: Service provider and logistical support
 **Cooperation Areas**: Transportation, international connections, specialized cargo
 **Benefits**: Access to shipping networks, reduced operational costs, international expansion
 **Tensions**: Payment disputes, reliability concerns, competition over shipping routes
 **Management**: Formal contracts and mutual benefit agreements
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]**
+#### **[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]**
 **Relationship**: Specialized service partnership
 **Cooperation Areas**: Identity alteration services, memory modification, medical support
 **Benefits**: Unique services unavailable elsewhere, medical care for members
@@ -360,7 +360,7 @@ Early smugglers discovered that shadow magic could:
 
 ### Government Relations
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]**
+#### **[[02_Worldbuilding/Places/Parliament of Echoes]]**
 **Official Status**: Criminal organization subject to investigation and prosecution
 **Actual Relationship**: Extensive corruption and infiltration
 **Network Assets**: 12 members or informants in Parliament and related offices
@@ -374,7 +374,7 @@ Early smugglers discovered that shadow magic could:
 **Corruption Costs**: ~150,000 gold pieces annually in bribes and payments
 **Effectiveness**: 70% of investigations compromised or delayed
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]**
+#### **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]**
 **Official Position**: Naval security, potential Network opponent
 **Actual Relationship**: Unknown - limited intelligence about his attitudes
 **Strategic Importance**: High - naval forces could disrupt maritime operations
@@ -522,26 +522,26 @@ Early smugglers discovered that shadow magic could:
 - Investigating connections between magic and criminal activity
 
 ## Connected Factions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]] - Strategic partnership and information sharing alliance
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]] - Transportation and logistics service providers
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]] - Specialized medical and identity services partnership
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] - Primary law enforcement target with extensive infiltration
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]] - Potential competitor or partner in shadow magic operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Law enforcement threat and potential major opponent
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Thieves Guild]] - Local criminal competition and occasional cooperation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] - Legitimate business competition and potential money laundering partners
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]] - Strategic partnership and information sharing alliance
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]] - Transportation and logistics service providers
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]] - Specialized medical and identity services partnership
+- [[02_Worldbuilding/Places/Parliament of Echoes]] - Primary law enforcement target with extensive infiltration
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]] - Potential competitor or partner in shadow magic operations
+- [[02_Worldbuilding/People/Crystal Wardens]] - Law enforcement threat and potential major opponent
+- [[02_Worldbuilding/Groups/Guilds/Thieves Guild]] - Local criminal competition and occasional cooperation
+- [[02_Worldbuilding/Groups/Merchant Princes]] - Legitimate business competition and potential money laundering partners
 
 ## Connected NPCs
 - [[02_Worldbuilding/Groups/The Shadow Merchant Prim|02 Worldbuilding/Groups/The Shadow Merchant Prim]] - Supreme leader and strategic director
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Master Trader Darkmarke]] - Operations director and daily business manager
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Commander Shadowguard]] - Security chief and enforcement coordinator
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Arcane Master Voidweav]] - Shadow magic research and applications specialist
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Treasurer Goldenshadow]] - Financial management and money laundering expert
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Ambassador Blacktrade]] - External relations and expansion coordinator
-- **Regional Managers** - Territorial supervisors for different areas of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- [[02_Worldbuilding/Groups/Master Trader Darkmarke]] - Operations director and daily business manager
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Commander Shadowguard]] - Security chief and enforcement coordinator
+- [[02_Worldbuilding/Groups/Arcane Master Voidweav]] - Shadow magic research and applications specialist
+- [[02_Worldbuilding/Groups/Treasurer Goldenshadow]] - Financial management and money laundering expert
+- [[02_Worldbuilding/Groups/Ambassador Blacktrade]] - External relations and expansion coordinator
+- **Regional Managers** - Territorial supervisors for different areas of [[02_Worldbuilding/Places/Aquabyssos]]
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Umbral Exchange]] - Primary headquarters and major shadow market
+- [[02_Worldbuilding/Groups/The Umbral Exchange]] - Primary headquarters and major shadow market
 - **The Forgotten Bazaar** - Major contraband market in deep city areas
 - **The Veiled Market** - Mid-level shadow commerce facility
 - **The Exclusive Shadow Salon** - High-end services for wealthy criminal clients
@@ -585,12 +585,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Thieves Guild]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]
+- [[02_Worldbuilding/Groups/Merchant Princes]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
+- [[02_Worldbuilding/Groups/Guilds/Thieves Guild]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]

@@ -51,7 +51,7 @@ House Brightshield stands as the progressive voice among Aquabyssos nobility, ad
 - **[[Order of the Silent Depths]]** - Unwitting member providing democratic legitimacy for historical preservation
 - **[[Memory Plague Survivors Network]]** - Secretly responsible for the plague, protected by fellow survivors
 - **[[Progressive Senate Faction]]** - Leader of democratic reform movement
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Admiral Cordelia Tidewright]]** - Sister supporting military reform initiatives
+- **[[02_Worldbuilding/Lore/Admiral Cordelia Tidewright]]** - Sister supporting military reform initiatives
 
 ### Heir Apparent: Lady Lysara Brightshield "The Torch"
 - **Age:** 28

@@ -27,11 +27,11 @@ world: Both
 *The Fastest and Most Feared Route in Aquabyssos*
 
 > *"They call it the Blood Current because it runs red with iron-rich minerals, but we who ride it know the real reason for the name. It's painted red with the blood of those who couldn't handle the speed, the pressure, the sheer deadly beauty of the fastest current in all the deep waters."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/People/Current Rider Captain Crimson Velocity]], Master of the Blood Run
+> — [[02_Worldbuilding/People/Current Rider Captain Crimson Velocity]], Master of the Blood Run
 
 ## Overview
 
-The Blood Current Express represents the most dangerous and exhilarating transportation route in all of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], a naturally occurring high-speed underwater current system that carries vessels at incredible velocities between major population centers. Named for its distinctive red coloration from iron-rich mineral deposits and the blood of those who have failed to master its treacherous passage, the Express serves as both a critical commercial shipping route and a proving ground for the most skilled underwater navigators. Those brave or desperate enough to use this route can cut travel time between distant cities by weeks, but the price of failure is almost always death.
+The Blood Current Express represents the most dangerous and exhilarating transportation route in all of [[02_Worldbuilding/Places/Aquabyssos]], a naturally occurring high-speed underwater current system that carries vessels at incredible velocities between major population centers. Named for its distinctive red coloration from iron-rich mineral deposits and the blood of those who have failed to master its treacherous passage, the Express serves as both a critical commercial shipping route and a proving ground for the most skilled underwater navigators. Those brave or desperate enough to use this route can cut travel time between distant cities by weeks, but the price of failure is almost always death.
 
 ## Formation and Natural Features
 
@@ -116,14 +116,14 @@ The Blood Current Express represents the most dangerous and exhilarating transpo
 ### Current Entry and Exit Points
 
 #### Meridian Gateway Station
-**Location**: Primary entry point near [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]  
+**Location**: Primary entry point near [[02_Worldbuilding/Places/Port Meridian]]  
 **Capacity**: Largest station handling majority of commercial traffic  
 **Facilities**: Complete facilities for vessel preparation and passenger services  
 **Safety**: Advanced safety systems and emergency response capabilities  
 **Control**: Traffic control managing safe current entry timing
 
 #### Abyssos Prime Terminal
-**Function**: Major destination terminal serving [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]  
+**Function**: Major destination terminal serving [[02_Worldbuilding/Places/Abyssos Prime]]  
 **Processing**: High-capacity processing for arriving passengers and cargo  
 **Connection**: Connections to local transportation networks  
 **Services**: Full services for travelers and commercial shippers  
@@ -226,7 +226,7 @@ The Blood Current Express represents the most dangerous and exhilarating transpo
 **Capacity**: Massive cargo-carrying capacity  
 **Economy**: Economical shipping rates for bulk transportation  
 **Reliability**: Reliable service despite challenging conditions  
-**Network**: Extensive cargo handling network throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Network**: Extensive cargo handling network throughout [[02_Worldbuilding/Places/Aquabyssos]]
 
 #### Emergency Current Services
 **Mission**: Emergency transportation and rescue services  
@@ -249,7 +249,7 @@ The Blood Current Express represents the most dangerous and exhilarating transpo
 **Skills**: Specialized skills development for current navigation and operations  
 **Training**: Extensive training programs for current transportation workers  
 **Careers**: Career opportunities in growing transportation sector  
-**Economic**: Economic multiplier effects throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] economy
+**Economic**: Economic multiplier effects throughout [[02_Worldbuilding/Places/Aquabyssos]] economy
 
 #### Tourism Development
 **Adventure**: Adventure tourism for thrill-seeking travelers  
@@ -287,7 +287,7 @@ The Blood Current Express represents the most dangerous and exhilarating transpo
 
 #### Elite Status
 **Prestige**: High prestige profession requiring exceptional skill  
-**Respect**: Respect throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] for current riding ability  
+**Respect**: Respect throughout [[02_Worldbuilding/Places/Aquabyssos]] for current riding ability  
 **Exclusivity**: Exclusive profession with high barriers to entry  
 **Brotherhood**: Strong professional brotherhood among current riders  
 **Tradition**: Rich traditions and cultural heritage
@@ -308,21 +308,21 @@ The Blood Current Express represents the most dangerous and exhilarating transpo
 
 ### Notable Current Riders
 
-#### Captain [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crimson Velocity]]
+#### Captain [[02_Worldbuilding/Places/Crimson Velocity]]
 **Master**: Acknowledged master of Blood Current navigation  
 **Experience**: 30 years of current riding experience  
 **Records**: Holder of multiple speed and safety records  
 **Teaching**: Teacher and mentor for new current riders  
 **Legend**: Legendary figure in current riding community
 
-#### Navigator [[vault_backup_20250813_073007/02_Worldbuilding/Places/Iron Rapids Fleetcurrent]]
+#### Navigator [[02_Worldbuilding/Places/Iron Rapids Fleetcurrent]]
 **Specialist**: Specialist in navigating most dangerous current sections  
 **Innovation**: Developer of new navigation techniques  
 **Rescue**: Hero of numerous rescue operations  
 **Reputation**: Reputation for getting through when others cannot  
 **Leadership**: Leader in professional current rider organizations
 
-#### Captain [[vault_backup_20250813_073007/02_Worldbuilding/Places/Scarlet Torrent]]
+#### Captain [[02_Worldbuilding/Places/Scarlet Torrent]]
 **Pioneer**: Pioneer in passenger current transportation  
 **Service**: Known for exceptional passenger service and safety  
 **Innovation**: Innovator in passenger vessel design and amenities  
@@ -613,28 +613,28 @@ The Blood Current Express represents the most dangerous and exhilarating transpo
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+### [[02_Worldbuilding/Places/Port Meridian]]
 **Terminal**: Major terminal and entry point for Blood Current Express  
 **Economy**: Economic relationship between port and current transportation  
 **Integration**: Integration of current transportation with port operations  
 **Development**: Development of port facilities to support current transportation  
 **Traffic**: Major source of current transportation traffic
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+### [[02_Worldbuilding/Places/Abyssos Prime]]
 **Destination**: Major destination served by Blood Current Express  
 **Government**: Government regulation and oversight of current transportation  
 **Economy**: Economic benefits of fast transportation to capital  
 **Politics**: Political implications of current transportation  
 **Development**: Infrastructure development supporting current transportation
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
+### [[02_Worldbuilding/Places/The Free Current]]
 **Competition**: Competition with alternative transportation methods  
 **Innovation**: Innovation and technology development in transportation  
 **Trade**: Trade relationships and commercial cooperation  
 **Philosophy**: Different philosophies about transportation and commerce  
 **Learning**: Learning from different approaches to transportation
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
+### [[02_Worldbuilding/Places/Azure Citadel]]
 **Security**: Military security for critical transportation infrastructure  
 **Strategy**: Strategic importance of rapid transportation for military  
 **Protection**: Protection of transportation routes from military threats  
@@ -655,22 +655,22 @@ The Blood Current Express represents the most dangerous and exhilarating transpo
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Current Rider Captain Crimson Velocity]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Iron Rapids Fleetcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Scarlet Torrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Transportation Guild Masters]]
+- [[02_Worldbuilding/People/Current Rider Captain Crimson Velocity]]
+- [[02_Worldbuilding/Places/Iron Rapids Fleetcurrent]]
+- [[02_Worldbuilding/People/Captain Scarlet Torrent]]
+- [[02_Worldbuilding/Places/Transportation Guild Masters]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Express Racers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Navigation Techniques]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Transportation Guild]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/High-Speed Transportation]]
+- [[02_Worldbuilding/Places/Express Racers]]
+- [[02_Worldbuilding/Places/Current Navigation Techniques]]
+- [[02_Worldbuilding/Places/Transportation Guild]]
+- [[02_Worldbuilding/Places/High-Speed Transportation]]
 
 ## Player-Facing Summary
 
@@ -692,6 +692,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Blood Current Express]]
+- [[02_Worldbuilding/Places/Blood Current Express]]
 
 <!-- enriched: true -->

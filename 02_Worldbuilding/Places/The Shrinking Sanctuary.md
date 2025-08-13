@@ -10,10 +10,10 @@ original_size: 10 square miles
 parent_location: The Wandering Depths
 population: ~300 refugees and guardians
 related_entities:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dimensional Research Institute]]'
+- '[[02_Worldbuilding/Places/Free Current]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows]]'
+- '[[02_Worldbuilding/Lore/Dimensional Research Institute]]'
 shrinking_rate: 5 cubic feet per hour
 status: complete
 tags:
@@ -48,15 +48,15 @@ world: Aquabyssos
 *A Haven Running Out of Time*
 
 > *"Every day we grow closer together - not by choice, but by necessity. Our refuge saves us from the dangers without, but it cannot save us from the mathematics of its own existence."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Temporal Safehaven]], Sanctuary Administrator
+> — [[02_Worldbuilding/Places/Keeper Temporal Safehaven]], Sanctuary Administrator
 
 ## Overview
 
-The Shrinking Sanctuary exists as a dimensional pocket carved from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]' reality itself - a miracle of magical engineering that provides perfect safety to refugees fleeing the realm's many dangers. Created five years ago by desperate dimensional mages during a particularly violent period, this pocket dimension initially offered ten square miles of habitable space, complete with breathable water, comfortable pressure, and isolation from external threats.
+The Shrinking Sanctuary exists as a dimensional pocket carved from [[02_Worldbuilding/Places/Aquabyssos]]' reality itself - a miracle of magical engineering that provides perfect safety to refugees fleeing the realm's many dangers. Created five years ago by desperate dimensional mages during a particularly violent period, this pocket dimension initially offered ten square miles of habitable space, complete with breathable water, comfortable pressure, and isolation from external threats.
 
 However, the Sanctuary carries a terrible burden: it shrinks at a constant rate of five cubic feet per hour. What began as a spacious haven for thousands has become an increasingly crowded refuge for hundreds. The mathematics are unforgiving - at the current rate, the space will become too small to sustain human life within two years.
 
-The Sanctuary represents the ultimate expression of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]' post-Catastrophe ingenuity - a place where impossible engineering meets desperate humanity, where the same magical forces that provide perfect protection are slowly destroying the very thing they were meant to preserve.
+The Sanctuary represents the ultimate expression of [[02_Worldbuilding/Places/Aquabyssos]]' post-Catastrophe ingenuity - a place where impossible engineering meets desperate humanity, where the same magical forces that provide perfect protection are slowly destroying the very thing they were meant to preserve.
 
 ## Dimensional Properties
 
@@ -310,7 +310,7 @@ The Sanctuary represents the ultimate expression of [[vault_backup_20250813_0730
 #### 4. The Shrinking Solution
 **Hook**: Research team discovers potential method to halt dimensional compression
 **Quest**: Gather rare materials and ancient knowledge needed for experimental procedure
-**Danger**: Materials located in extremely hazardous areas of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Danger**: Materials located in extremely hazardous areas of [[02_Worldbuilding/Places/Aquabyssos]]
 **Risk**: Failed attempt might accelerate collapse instead of stopping it
 **Hope**: Success could save sanctuary and enable creation of new refuges
 
@@ -318,7 +318,7 @@ The Sanctuary represents the ultimate expression of [[vault_backup_20250813_0730
 **Hook**: Mysterious clues about sanctuary's creation and why it's shrinking
 **Exploration**: Investigate hidden chambers and dimensional anomalies within sanctuary
 **Revelations**: Discover truth about original creators and their intentions
-**Connections**: Find links to other dimensional projects throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Connections**: Find links to other dimensional projects throughout [[02_Worldbuilding/Places/Aquabyssos]]
 **Legacy**: Understanding origins might provide key to controlling sanctuary's fate
 
 #### 6. The Dimensional Mapping Project
@@ -357,7 +357,7 @@ The Sanctuary represents the ultimate expression of [[vault_backup_20250813_0730
 **Hook**: Critical mission to external world to secure resources or assistance
 **Danger**: Navigate threats that originally forced people to seek sanctuary
 **Diplomacy**: Negotiate with outside organizations for aid or cooperation
-**Intelligence**: Gather information about changing conditions in broader [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Intelligence**: Gather information about changing conditions in broader [[02_Worldbuilding/Places/Aquabyssos]]
 **Return**: Ensure safe return to sanctuary with mission objectives accomplished
 
 #### 11. The New Sanctuary Project
@@ -385,85 +385,85 @@ The Sanctuary represents the ultimate expression of [[vault_backup_20250813_0730
 
 ### Communication Cycles
 **External Contact Periods**: Regular scheduled communication with outside world
-**News Gathering**: Collecting information about conditions throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**News Gathering**: Collecting information about conditions throughout [[02_Worldbuilding/Places/Aquabyssos]]
 **Message Exchanges**: Personal communications between sanctuary residents and external contacts
 **Resource Negotiations**: Planned trading or aid negotiations with outside communities
 **Emergency Signals**: Established protocols for emergency communication needs
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]]
+### [[02_Worldbuilding/Places/Free Current]]
 **Transportation Network**: Current system provides transportation routes for refugees seeking sanctuary
-**Information Exchange**: Regular news and communication exchange about conditions throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Information Exchange**: Regular news and communication exchange about conditions throughout [[02_Worldbuilding/Places/Aquabyssos]]
 **Resource Cooperation**: Limited resource sharing and mutual aid arrangements
 **Philosophy**: Shared commitment to freedom, mutual aid, and cooperative governance
 **Evacuation Planning**: Current network integral to emergency evacuation scenarios
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+### [[02_Worldbuilding/Places/Parliament of Echoes]]
 **Political Recognition**: Ongoing debates over sanctuary's legal status and government responsibility
 **Resource Allocation**: Parliamentary decisions about government support for refugee assistance
 **Legal Framework**: Development of laws regarding dimensional refuges and refugee rights
 **Policy Development**: Creating policies for managing refugee crises and dimensional anomalies
 **Future Planning**: Long-term political planning for refugee integration and support
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]
+### [[02_Worldbuilding/Places/The Memory Meadows]]
 **Cultural Preservation**: Preserving memories and cultural heritage of diverse refugee communities
 **Trauma Healing**: Memory-based therapy for refugees dealing with displacement trauma
 **Historical Documentation**: Recording sanctuary's unique experiment in community cooperation
 **Identity Support**: Helping individuals maintain cultural identity while adapting to sanctuary life
 **Legacy Planning**: Preserving sanctuary's lessons and experiences for future generations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dimensional Research Institute]]
+### [[02_Worldbuilding/Lore/Dimensional Research Institute]]
 **Technical Consultation**: Expert advice on dimensional stability and magical engineering
 **Emergency Response**: Specialist intervention during dimensional crises and instabilities
 **Research Collaboration**: Joint research projects studying dimensional compression and community adaptation
 **Innovation Development**: Creating new magical techniques for dimensional manipulation and space optimization
 **Training Programs**: Education for Sanctuary Keepers in dimensional magic and crisis management
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+### [[02_Worldbuilding/Places/Abyssos Prime]]
 **Government Relations**: Official relationship with royal government and bureaucracy
 **Resource Requests**: Formal requests for government assistance and resource allocation
 **Refugee Processing**: Coordination with government agencies managing refugee affairs
 **Research Funding**: Government support for dimensional research and technological development
-**Integration Planning**: Long-term planning for refugee integration into broader [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] society
+**Integration Planning**: Long-term planning for refugee integration into broader [[02_Worldbuilding/Places/Aquabyssos]] society
 
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Intentional Design
-> The sanctuary's shrinking is not a design flaw but an intentional feature included by its creator, the dimensional mage [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Architect Temporal Wisdom]]. She believed that permanent magical protection would make refugees dependent and weak, preventing them from eventually reintegrating with the outside world. The shrinking mechanism was designed to force inhabitants to develop strength, cooperation, and eventually seek new solutions rather than becoming permanent dependents on magical safety. Only [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Temporal Safehaven]] knows this truth, discovered in hidden documentation, and the knowledge weighs heavily on his conscience as he watches the community struggle with their seemingly doomed situation.
+> The sanctuary's shrinking is not a design flaw but an intentional feature included by its creator, the dimensional mage [[02_Worldbuilding/Lore/Architect Temporal Wisdom]]. She believed that permanent magical protection would make refugees dependent and weak, preventing them from eventually reintegrating with the outside world. The shrinking mechanism was designed to force inhabitants to develop strength, cooperation, and eventually seek new solutions rather than becoming permanent dependents on magical safety. Only [[02_Worldbuilding/Places/Keeper Temporal Safehaven]] knows this truth, discovered in hidden documentation, and the knowledge weighs heavily on his conscience as he watches the community struggle with their seemingly doomed situation.
 
 > [!secret] DM Secret - The Faith-Stability Connection
 > The sanctuary's dimensional stability is partially maintained by the collective faith and hope of its inhabitants. The more people believe in their community's future and maintain hope for survival, the more stable the dimensional boundaries become - but despair and hopelessness actually accelerate the shrinking process. This creates a cruel paradox where knowledge of the sanctuary's mathematical doom makes that doom more likely to occur. Some of the Sanctuary Keepers have realized this connection and are working desperately to maintain community morale through carefully managed information, constant encouragement, and morale-boosting activities, while secretly researching ways to break the faith-stability link.
 
 > [!secret] DM Secret - The Emergency Scatter Protocol
-> Hidden in the deepest levels of the sanctuary is an emergency evacuation system called the Scatter Protocol, which can instantly transport all inhabitants to pre-selected safe locations throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. However, activating this system will permanently destroy the sanctuary and scatter the community forever, ending their unique experiment in cooperative living. The protocol requires three simultaneous activations by different Sanctuary Keepers, and only three people know of its existence. They are in deep disagreement about the circumstances that would justify using it - some believe it should be activated before overcrowding becomes critical, others argue it should only be used as an absolute last resort, and one believes it should never be used at all since it represents giving up on the community they've all worked to build.
+> Hidden in the deepest levels of the sanctuary is an emergency evacuation system called the Scatter Protocol, which can instantly transport all inhabitants to pre-selected safe locations throughout [[02_Worldbuilding/Places/Aquabyssos]]. However, activating this system will permanently destroy the sanctuary and scatter the community forever, ending their unique experiment in cooperative living. The protocol requires three simultaneous activations by different Sanctuary Keepers, and only three people know of its existence. They are in deep disagreement about the circumstances that would justify using it - some believe it should be activated before overcrowding becomes critical, others argue it should only be used as an absolute last resort, and one believes it should never be used at all since it represents giving up on the community they've all worked to build.
 
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dimensional Research Institute]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Free Current]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/The Memory Meadows]]
+- [[02_Worldbuilding/Lore/Dimensional Research Institute]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Temporal Safehaven]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanctuary Council Members]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Refugee Community Leaders]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dimensional Researchers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Architect Temporal Wisdom]]
+- [[02_Worldbuilding/Places/Keeper Temporal Safehaven]]
+- [[02_Worldbuilding/Lore/Sanctuary Council Members]]  
+- [[02_Worldbuilding/Lore/Refugee Community Leaders]]
+- [[02_Worldbuilding/Lore/Dimensional Researchers]]
+- [[02_Worldbuilding/Lore/Architect Temporal Wisdom]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dimensional Anchor Systems]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Refugee Integration Protocols]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Resource Sharing]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sanctuary Emergency Systems]]
+- [[02_Worldbuilding/Lore/Dimensional Anchor Systems]]
+- [[02_Worldbuilding/Lore/Refugee Integration Protocols]]
+- [[02_Worldbuilding/Lore/Community Resource Sharing]]
+- [[02_Worldbuilding/Lore/Sanctuary Emergency Systems]]
 - [[Faith-Stability Magical Theory]]
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
 
 ## Player-Facing Summary
 
@@ -485,6 +485,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shrinking Sanctuary]]
+- [[02_Worldbuilding/Places/The Shrinking Sanctuary]]
 
 <!-- enriched: true -->

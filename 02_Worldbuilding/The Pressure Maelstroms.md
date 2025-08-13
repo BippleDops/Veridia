@@ -45,9 +45,9 @@ Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenome
 #### Natural Triggers
 - **Tidal Convergence**: Multiple major tide systems meeting at precise angles
 - **Thermal Layers**: Extreme temperature differences between water masses
-- **Magical Interference**: High concentrations of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] energy
+- **Magical Interference**: High concentrations of [[02_Worldbuilding/Lore/The Deep Mother]] energy
 - **Geological Events**: Underwater earthquakes or volcanic activity
-- **Crystal Resonance**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] activity affecting local physics
+- **Crystal Resonance**: [[02_Worldbuilding/Lore/The Seven Shards]] activity affecting local physics
 
 #### Pressure Concentration
 - **Water Compression**: Normal seawater compressed to nearly solid density
@@ -62,7 +62,7 @@ Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenome
 - **Marine Life Behavior**: Sea creatures flee area in visible mass exodus
 - **Water Temperature**: Unusual warming or cooling in specific patterns
 - **Tidal Anomalies**: Minor tide irregularities in surrounding regions
-- **Crystal Resonance**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] fragments hum with unusual frequency
+- **Crystal Resonance**: [[02_Worldbuilding/Lore/The Seven Shards]] fragments hum with unusual frequency
 
 #### Environmental Indicators (6-12 hours advance)
 - **Water Density**: Subtle changes in buoyancy and swimming difficulty
@@ -200,7 +200,7 @@ Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenome
 - **Properties**: Defy normal physics, weigh nothing but occupy space
 - **Danger**: Unpredictable effects, potentially reality-altering
 - **Study**: Theoretical research only, too dangerous for practical use
-- **Theory**: May be connected to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] creation
+- **Theory**: May be connected to [[02_Worldbuilding/Lore/The Seven Shards]] creation
 
 ### Biological Adaptations
 #### Pressure Wraiths
@@ -270,7 +270,7 @@ Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenome
 **Level**: 12-18  
 **Hook**: Unusual maelstrom formation threatens major population center  
 **Mystery**: This manifestation doesn't follow known patterns or natural laws  
-**Investigation**: Discover connection to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] or [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]  
+**Investigation**: Discover connection to [[02_Worldbuilding/Lore/The Seven Shards]] or [[02_Worldbuilding/Lore/The Deep Mother]]  
 **Challenge**: Find way to dissipate artificial maelstrom before city is destroyed  
 **Epic Stakes**: Success prevents catastrophe, failure leads to massive casualties
 
@@ -290,8 +290,8 @@ Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenome
 - **Emergency**: Rapid response when situations develop unexpectedly
 
 ## Connected Elements
-- Related to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] through potential connection to divine oceanic power
-- Links to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] through reality-warping effects and compressed materials
+- Related to [[02_Worldbuilding/Lore/The Deep Mother]] through potential connection to divine oceanic power
+- Links to [[02_Worldbuilding/Lore/The Seven Shards]] through reality-warping effects and compressed materials
 - Associated with [[02_Worldbuilding/People/The Depth Wardens]] through military response and protection duties
 - Connected to [[02_Worldbuilding/Groups/The Liminal Trading Company]] through shipping route disruption and insurance
 - Links to [[02_Worldbuilding/People/Oracle Nerida the Tidereader]] through natural disaster prediction

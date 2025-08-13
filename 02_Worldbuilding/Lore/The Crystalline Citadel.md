@@ -19,13 +19,13 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Living Weapon]]
+- [[02_Worldbuilding/Places/The Living Weapon]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Living Weapon]]
+- [[02_Worldbuilding/Places/The Crystal Wardens]]
+- [[02_Worldbuilding/Places/The Living Weapon]]
 
 ## Player-Facing Summary
 

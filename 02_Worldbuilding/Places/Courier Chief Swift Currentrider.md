@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
 
 ## Player-Facing Summary
 

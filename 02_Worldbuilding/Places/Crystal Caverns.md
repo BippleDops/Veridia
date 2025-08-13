@@ -9,7 +9,7 @@ notable_resources:
 - Crystal Songs
 - Memory Crystals
 - Corrupted Shards
-parent_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]]'
+parent_location: '[[02_Worldbuilding/Places/The Sundered Peaks]]'
 status: complete
 tags:
 - both
@@ -40,7 +40,7 @@ world: Both
 
 ## Overview
 
-The Crystal Caverns represent one of the most spectacular and dangerous natural formations in both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], existing as a vast underground network where massive aether crystals grow in their purest form. Located deep beneath [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]], these caverns serve as both the primary source of the world's most powerful crystals and a place of pilgrimage for those seeking to understand the fundamental nature of crystallized magic.
+The Crystal Caverns represent one of the most spectacular and dangerous natural formations in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], existing as a vast underground network where massive aether crystals grow in their purest form. Located deep beneath [[02_Worldbuilding/Places/The Sundered Peaks]], these caverns serve as both the primary source of the world's most powerful crystals and a place of pilgrimage for those seeking to understand the fundamental nature of crystallized magic.
 
 The caverns exist partially in both realms simultaneously, creating unique dimensional pockets where surface dwellers and deep-sea adapted beings can encounter each other in neutral territory. This dimensional overlap makes the caverns a crucial location for cross-realm politics, magical research, and unfortunately, the source of crystal corruption that threatens both civilizations.
 
@@ -246,16 +246,16 @@ The caverns exist partially in both realms simultaneously, creating unique dimen
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Plague]] - Corruption spread into aquatic regions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]] - Mountain range containing the caverns
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - City built around smaller crystal formations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Observatory Between]] - Another interdimensional meeting point
+- [[02_Worldbuilding/Places/The Depth Plague]] - Corruption spread into aquatic regions
+- [[02_Worldbuilding/Places/The Sundered Peaks]] - Mountain range containing the caverns
+- [[02_Worldbuilding/Places/Crystalhaven]] - City built around smaller crystal formations
+- [[02_Worldbuilding/Places/The Observatory Between]] - Another interdimensional meeting point
 - [[02_Worldbuilding/Lore/Crystal Corruption Timeline|02 Worldbuilding/Lore/Crystal Corruption Timeline]] - Historical progression of corruption
 - [[02_Worldbuilding/Lore/Crystal Magic Theory|02 Worldbuilding/Lore/Crystal Magic Theory]] - Magical principles governing crystal behavior
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Plague]] - Aquatic manifestation of crystal corruption
+- [[02_Worldbuilding/Places/The Depth Plague]] - Aquatic manifestation of crystal corruption
 - [[02_Worldbuilding/People/The Crystal Shepherds|02 Worldbuilding/People/The Crystal Shepherds]] - Traditional guardians and guides
 - [[02_Worldbuilding/Groups/Cross-Realm Research Coalition|02 Worldbuilding/Groups/Cross Realm Research Coalition]] - Scientific collaboration organization
 - [[02_Worldbuilding/Groups/Crystal Preservation Society|02 Worldbuilding/Groups/Crystal Preservation Society]] - Conservation advocacy group

@@ -29,11 +29,11 @@ world: Both
 *Gateway to the Crown City*
 
 > *"All the wealth of the depths flows through these waters. Every current, every tide, every dream of fortune finds its way to these docks. Here, the pulse of Aquabyssos beats strongest."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbormaster Tidal Stormcrest]], Chief of Harbor Operations
+> — [[02_Worldbuilding/Places/Harbormaster Tidal Stormcrest]], Chief of Harbor Operations
 
 ## Overview
 
-The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawling complex of piers, warehouses, and processing facilities that handle the vast majority of trade flowing into and out of the capital. Built across multiple depth levels to accommodate vessels of every size and origin, the docks operate as both the economic lifeline of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] and a crucial strategic asset for the crown. From surface traders descending through pressure locks to deep-sea vessels rising from the abyssal plains, all maritime commerce converges at these bustling waterways.
+The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawling complex of piers, warehouses, and processing facilities that handle the vast majority of trade flowing into and out of the capital. Built across multiple depth levels to accommodate vessels of every size and origin, the docks operate as both the economic lifeline of [[02_Worldbuilding/Places/Abyssos Prime]] and a crucial strategic asset for the crown. From surface traders descending through pressure locks to deep-sea vessels rising from the abyssal plains, all maritime commerce converges at these bustling waterways.
 
 ## History and Foundation
 
@@ -385,21 +385,21 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 
 ### Harbor Administration
 
-#### Harbormaster [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tidal Stormcrest]]
+#### Harbormaster [[02_Worldbuilding/Places/Tidal Stormcrest]]
 **Position**: Chief administrator of all port operations  
 **Experience**: 30 years of maritime experience including naval service  
 **Reputation**: Respected leader known for efficiency and fairness  
 **Challenge**: Managing competing demands while maintaining operational excellence  
 **Innovation**: Implementing modernization while preserving maritime traditions
 
-#### Deputy Harbormaster [[vault_backup_20250813_073007/02_Worldbuilding/Places/Marina Deepcurrent]]
+#### Deputy Harbormaster [[02_Worldbuilding/Places/Marina Deepcurrent]]
 **Role**: Second-in-command and operational coordinator  
 **Specialization**: Expert in cargo operations and logistics coordination  
 **Leadership**: Strong leadership during crises and emergency situations  
 **Relations**: Excellent relationships with merchant and labor communities  
 **Future**: Likely successor to the harbormaster position
 
-#### Customs Chief [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reef Truescale]]
+#### Customs Chief [[02_Worldbuilding/Places/Reef Truescale]]
 **Authority**: Head of customs operations and trade regulation enforcement  
 **Integrity**: Known for absolute integrity and fair enforcement of trade laws  
 **Knowledge**: Encyclopedic knowledge of trade regulations and procedures  
@@ -408,21 +408,21 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 
 ### Maritime Community
 
-#### Captain [[vault_backup_20250813_073007/02_Worldbuilding/Places/Wave Merchant]]
+#### Captain [[02_Worldbuilding/Places/Wave Merchant]]
 **Reputation**: Most successful independent trader operating from the port  
 **Network**: Extensive network of contacts throughout the maritime world  
 **Innovation**: Pioneer in developing new trade routes and opportunities  
 **Community**: Strong supporter of the independent trader community  
 **Mentor**: Mentor to younger traders and maritime entrepreneurs
 
-#### Master Shipwright [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Craftsman]]
+#### Master Shipwright [[02_Worldbuilding/Places/Coral Craftsman]]
 **Skill**: Master craftsman with unparalleled shipbuilding expertise  
 **Innovation**: Developer of new shipbuilding techniques and designs  
 **Teaching**: Teacher and mentor to apprentice shipwrights  
 **Tradition**: Guardian of traditional shipbuilding knowledge and methods  
 **Recognition**: Internationally recognized for exceptional craftsmanship
 
-#### Guild Leader [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Solidarity]]
+#### Guild Leader [[02_Worldbuilding/Places/Current Solidarity]]
 **Leadership**: Leader of the powerful Dock Workers Guild  
 **Advocacy**: Strong advocate for worker rights and fair treatment  
 **Negotiation**: Skilled negotiator balancing worker interests with port operations  
@@ -431,14 +431,14 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 
 ### Security and Military
 
-#### Port Captain [[vault_backup_20250813_073007/02_Worldbuilding/Places/Storm Guard]]
+#### Port Captain [[02_Worldbuilding/Places/Storm Guard]]
 **Command**: Military officer responsible for port security and defense  
 **Experience**: Distinguished naval career with expertise in maritime security  
 **Coordination**: Excellent coordination with civilian port administration  
 **Preparedness**: Maintains high state of readiness for security threats  
 **Balance**: Balances security requirements with commercial operations
 
-#### Intelligence Officer [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Current]]
+#### Intelligence Officer [[02_Worldbuilding/Places/Shadow Current]]
 **Operations**: Covert intelligence operations focused on port security  
 **Network**: Extensive network of informants and intelligence sources  
 **Analysis**: Expert in analyzing security threats and commercial intelligence  
@@ -588,35 +588,35 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+### [[02_Worldbuilding/Places/Abyssos Prime]]
 **Integration**: Essential economic lifeline for the capital city  
 **Supply**: Primary source of goods and materials for the city  
 **Employment**: Major source of employment for city residents  
 **Culture**: Maritime culture influences city culture  
 **Defense**: Strategic asset requiring protection
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+### [[02_Worldbuilding/Places/Parliament of Echoes]]
 **Regulation**: Subject to parliamentary laws and regulations  
 **Revenue**: Major source of government revenue through customs and fees  
 **Politics**: Political influence through economic importance  
 **Representation**: Parliamentary representation of port interests  
 **Policy**: Parliamentary policies affecting port operations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
+### [[02_Worldbuilding/Places/Azure Citadel]]
 **Defense**: Military protection and security coordination  
 **Supply**: Military supply operations through port facilities  
 **Personnel**: Military personnel stationed at the port  
 **Intelligence**: Intelligence sharing for security purposes  
 **Emergency**: Military support during emergencies
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
+### [[02_Worldbuilding/Places/The Free Current]]
 **Competition**: Commercial competition with alternative trading hub  
 **Cooperation**: Some cooperation on trade routes and security  
 **Comparison**: Different approaches to maritime commerce  
 **Trade**: Some merchants operate in both ports  
 **Learning**: Learning from different commercial approaches
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+### [[02_Worldbuilding/Places/Memory Farmers]]
 **Services**: Memory services for commercial and security purposes  
 **Information**: Use of memory techniques for information storage  
 **Innovation**: Collaboration on new applications of memory technology  
@@ -626,7 +626,7 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Sunken Vault
-> Deep beneath the harbor lies an ancient vault from a pre-Aquabyssos civilization, accessible only during the lowest tides and known only to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbormaster Tidal Stormcrest]]. The vault contains artifacts and knowledge that could revolutionize underwater construction, but also dangerous weapons that could threaten the entire city if misused. The harbormaster has been secretly studying these artifacts while trying to decide whether to reveal their existence to the crown.
+> Deep beneath the harbor lies an ancient vault from a pre-Aquabyssos civilization, accessible only during the lowest tides and known only to [[02_Worldbuilding/Places/Harbormaster Tidal Stormcrest]]. The vault contains artifacts and knowledge that could revolutionize underwater construction, but also dangerous weapons that could threaten the entire city if misused. The harbormaster has been secretly studying these artifacts while trying to decide whether to reveal their existence to the crown.
 
 > [!secret] DM Secret - The Smuggler's Network
 > A sophisticated smuggling network operates within the port, using a combination of corrupted officials, hidden passages in the old harbor foundations, and magical concealment to move illegal goods. The network is led by someone within the port administration itself, and has connections to criminal organizations throughout Aquabyssos. The operation is so well-organized that it actually helps port operations run more smoothly while evading detection.
@@ -637,27 +637,27 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/The Free Current]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbormaster Tidal Stormcrest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Marina Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reef Truescale]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Wave Merchant]]
+- [[02_Worldbuilding/Places/Harbormaster Tidal Stormcrest]]
+- [[02_Worldbuilding/Places/Marina Deepcurrent]]
+- [[02_Worldbuilding/Places/Reef Truescale]]
+- [[02_Worldbuilding/Places/Wave Merchant]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Authority]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Maritime Commerce]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deep Harbor Technology]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Trade Regulations]]
+- [[02_Worldbuilding/Places/Harbor Authority]]
+- [[02_Worldbuilding/Places/Maritime Commerce]]
+- [[02_Worldbuilding/Places/Deep Harbor Technology]]
+- [[02_Worldbuilding/Places/Trade Regulations]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
 
 ## Player-Facing Summary
 
@@ -679,7 +679,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime Docks]]
+- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Memory Farmers]]

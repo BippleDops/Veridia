@@ -1,30 +1,29 @@
 ---
+type: Lore
+status: draft
+tags:
+- aquabyssos
+- completed
+- dual
+- event
+- historical_legend
+- history
+- honor
+- lore
+world: dual
 connections:
 - '[[Pressure''s End]]'
 - '[[Honor Guard]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]'
+- '[[Deep Mother]]'
 - '[[02_Worldbuilding/People/The Tidal Council]]'
-created: '2025-08-11'
-status: draft
-tags:
-- content/lore
-- draft
-- dual
-- event
-- honor
-- lore
-- status/complete
-- world/aquabyssos
 themes:
 - betrayal
 - redemption
 - duty_vs_survival
 - cosmic_horror
-type: Lore
-updated: '2025-08-13T12:34:28.929505+00:00'
-world: dual
+created: '2025-08-11'
+updated: '2025-08-11T00:00:00+00:00'
 ---
-
 
 
 
@@ -36,7 +35,7 @@ Long before [[02_Worldbuilding/Places/Aquabyssos]] became the great underwater m
 
 ### The Deep Watch Incident
 
-During the early years of Aquabyssos construction, when the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]'s influence was still unknown to surface dwellers, Captain Nereon commanded the **Deep Watch** - elite guards tasked with protecting the colony's expanding borders from the crushing darkness below. His unit of twelve brave souls patrolled the abyssal trenches, ensuring no threats emerged from the oceanic depths.
+During the early years of Aquabyssos construction, when the [[Deep Mother]]'s influence was still unknown to surface dwellers, Captain Nereon commanded the **Deep Watch** - elite guards tasked with protecting the colony's expanding borders from the crushing darkness below. His unit of twelve brave souls patrolled the abyssal trenches, ensuring no threats emerged from the oceanic depths.
 
 On the Night of Screaming Waters, Nereon's patrol encountered something that defied all understanding: writhing masses of organic machinery, pustulent growths that sang with voices of the drowned, and geometric impossibilities that hurt to perceive directly. Three of his guards were consumed instantly, their bodies transformed into living conduits for an alien consciousness.
 
@@ -61,7 +60,7 @@ The captain saw something down there that broke lesser minds. Whatever was in th
 ### The Deep Mystics' Truth
 *From the hidden texts of abyssal scholars*
 
-The Deserter's Tale marks humanity's first documented encounter with agents of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]. Captain Nereon's sacrifice prevented an early manifestation event that would have corrupted Aquabyssos from within. His "desertion" was actually the first successful containment of extra-dimensional intrusion.
+The Deserter's Tale marks humanity's first documented encounter with agents of the [[Deep Mother]]. Captain Nereon's sacrifice prevented an early manifestation event that would have corrupted Aquabyssos from within. His "desertion" was actually the first successful containment of extra-dimensional intrusion.
 
 ## Connection to Current Events
 
@@ -92,7 +91,7 @@ Evidence surfaces that could clear Nereon's name. Do the PCs risk political scan
 Recent seismic activity has damaged Nereon's blast seals. The PCs are hired to reinforce them, but discover the horrors within have been growing for decades. Can they contain what Nereon died to imprison?
 
 ### The Last Guard
-One of Nereon's surviving guardsmen, now aged and dying, seeks the PCs to pass on a final secret: the location of the captain's hidden journal, which contains detailed accounts of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]] corruption patterns.
+One of Nereon's surviving guardsmen, now aged and dying, seeks the PCs to pass on a final secret: the location of the captain's hidden journal, which contains detailed accounts of [[Deep Mother]] corruption patterns.
 
 ### The Deserter's Daughter
 A young [[02_Worldbuilding/Places/Depth Warden]] claims to be Nereon's descendant and seeks to restore her family's honor. But is she truly his heir, or an agent of the very forces he died fighting?
@@ -130,10 +129,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
+- [[Deep Mother]]
 - [[02_Worldbuilding/Places/Aethermoor]]

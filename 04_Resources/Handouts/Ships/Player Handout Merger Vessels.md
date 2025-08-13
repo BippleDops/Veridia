@@ -27,8 +27,8 @@ updated: 2025-08-13T07:59:50.467097
 - Paradox Dreadnought: Staircases that disagree; cannons that un-fire.
 - Möbius Ferry: Corridor returns you to yourself; cargo that is you.
 
-These ships demand anchors, charts, and strong minds. Read [[Merger Hybrid Vehicles]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+These ships demand anchors, charts, and strong minds. Read [[Merger Hybrid Vehicles]] and [[02_Worldbuilding/Places/Aquabyssos]].
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/07_Player_Resources/Player Portal]]
+- [[07_Player_Resources/Player Portal]]

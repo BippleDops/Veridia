@@ -103,7 +103,7 @@ Time moves differently here. Characters may age or grow younger based on which m
 ## Quest Hooks
 
 ### "The Autobiography Thief"
-Someone is systematically stealing all memories of [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]], erasing him from history. The party must navigate the meadows to find and stop them before reality restructures around his absence.
+Someone is systematically stealing all memories of [[02_Worldbuilding/People/The Scattered Emperor]], erasing him from history. The party must navigate the meadows to find and stop them before reality restructures around his absence.
 
 ### "Remember Me"
 A loved one has been completely forgotten due to memory kelp consumption. The party must find their erased memories in the meadows and somehow restore them to existence.
@@ -137,7 +137,7 @@ Track consumed memories on index cards. When a character eats memory kelp:
 ### Integration with Aethermoor
 The Memory Meadows can bleed into Aethermoor during the convergence:
 - Crystal plague victims' memories grow here
-- The [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s forgotten sister exists only here
+- The [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s forgotten sister exists only here
 - The true history of the Seven Shards is preserved in the pools
 
 ---
@@ -148,12 +148,12 @@ The Memory Meadows can bleed into Aethermoor during the convergence:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Forge of War]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Luminous Hollow]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten One]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shrinking Sanctuary]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sinking Atoll]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Places/Forge of War]]
+- [[02_Worldbuilding/Places/Luminous Hollow]]
+- [[02_Worldbuilding/Places/The Forgotten One]]
+- [[02_Worldbuilding/Places/The Shrinking Sanctuary]]
+- [[02_Worldbuilding/Places/The Sinking Atoll]]
 
 
 ## History
@@ -201,6 +201,6 @@ Legends speak of The Memory Meadows as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]
+- [[02_Worldbuilding/Places/The Memory Meadows]]
 
 <!-- enriched: true -->

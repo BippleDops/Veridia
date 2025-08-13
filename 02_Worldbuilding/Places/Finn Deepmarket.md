@@ -62,11 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Finn Deepmarket]]
+- [[02_Worldbuilding/Places/Finn Deepmarket]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/The Free Current]]

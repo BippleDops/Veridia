@@ -35,15 +35,15 @@ world: Both Worlds
 *The Art of Knowledge, Perception, and Prophecy*
 
 > *"In the endless depths where sight fails and sound distorts, divination becomes the difference between survival and becoming another mystery of the deep. We do not merely see what is - we perceive what was, what might be, and what must never come to pass."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Oracle Pelagic Deepgaze]], High Seer of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+> — [[02_Worldbuilding/Lore/Oracle Pelagic Deepgaze]], High Seer of the [[02_Worldbuilding/Places/Parliament of Echoes]]
 
 ## Overview
 
-Divination represents one of the most crucial and widely respected schools of magic across both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], encompassing the arts of knowledge gathering, perception enhancement, and prophetic vision. In the vast underwater realm where traditional senses are limited and distances are measured in crushing darkness, divination has evolved into sophisticated systems of intelligence gathering, navigation, and threat detection that enable civilization to survive and thrive.
+Divination represents one of the most crucial and widely respected schools of magic across both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], encompassing the arts of knowledge gathering, perception enhancement, and prophetic vision. In the vast underwater realm where traditional senses are limited and distances are measured in crushing darkness, divination has evolved into sophisticated systems of intelligence gathering, navigation, and threat detection that enable civilization to survive and thrive.
 
 The school's principles center on the manipulation of information flow through magical means, allowing practitioners to perceive distant locations, hidden truths, past events, and potential futures. Divination operates through the fundamental understanding that all knowledge exists simultaneously across time and space, and that skilled practitioners can access this universal information matrix through proper techniques and focus.
 
-In [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], divination has developed unique characteristics due to the limitations of conventional senses in underwater environments and the proximity to cosmic forces that exist outside normal temporal flows. Practitioners have mastered techniques for long-range perception through water, accessing memories stored in crystalline formations, and perceiving threats before they fully manifest in reality.
+In [[02_Worldbuilding/Places/Aquabyssos]], divination has developed unique characteristics due to the limitations of conventional senses in underwater environments and the proximity to cosmic forces that exist outside normal temporal flows. Practitioners have mastered techniques for long-range perception through water, accessing memories stored in crystalline formations, and perceiving threats before they fully manifest in reality.
 
 The school serves multiple essential functions in underwater society: providing early warning of dangers, navigating the complex three-dimensional ocean environment, gathering intelligence about distant events, and interpreting the will of cosmic forces that influence the deep ocean. Without the constant vigilance of divination practitioners, underwater civilization would be blind to the numerous threats that constantly emerge from the hostile depths.
 
@@ -65,7 +65,7 @@ Divination magic operates on the fundamental principle that information is a for
 
 ### Underwater Adaptations
 
-**Hydro-Acoustic Enhancement**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] divination incorporates the ocean's acoustic properties to extend perception far beyond normal sensory ranges. Sound waves and pressure variations can be magically enhanced and interpreted to provide detailed information about distant events and locations.
+**Hydro-Acoustic Enhancement**: [[02_Worldbuilding/Places/Aquabyssos]] divination incorporates the ocean's acoustic properties to extend perception far beyond normal sensory ranges. Sound waves and pressure variations can be magically enhanced and interpreted to provide detailed information about distant events and locations.
 
 **Crystal Memory Access**: The extensive crystalline formations throughout the underwater realm naturally store magical resonances and memories. Divination practitioners have developed techniques for accessing these crystal archives to recover historical information and track changes over time.
 
@@ -184,11 +184,11 @@ Divination magic operates on the fundamental principle that information is a for
 ## Notable Practitioners and Academies
 
 ### The Parliament of Echoes
-The primary governmental body of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] relies heavily on divination magic for decision making and threat assessment. Their seers work constantly to monitor potential dangers and guide policy decisions.
+The primary governmental body of [[02_Worldbuilding/Places/Aquabyssos]] relies heavily on divination magic for decision making and threat assessment. Their seers work constantly to monitor potential dangers and guide policy decisions.
 
 **Oracle Pelagic Deepgaze**: High Seer whose prophetic visions have prevented numerous catastrophes. Her ability to perceive threats across time and space has made her one of the most respected advisors in underwater government.
 
-**Chronicler Abyssal Memorykeeper**: Master of historical divination who maintains the complete records of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] civilization. Her techniques for accessing crystal-stored memories have preserved knowledge that would otherwise be lost to time.
+**Chronicler Abyssal Memorykeeper**: Master of historical divination who maintains the complete records of [[02_Worldbuilding/Places/Aquabyssos]] civilization. Her techniques for accessing crystal-stored memories have preserved knowledge that would otherwise be lost to time.
 
 ### The Observatory of Depths
 Research institution dedicated to studying cosmic forces and their influence on the underwater realm. Their diviners specialize in long-range perception and extraplanar communication.
@@ -198,7 +198,7 @@ Research institution dedicated to studying cosmic forces and their influence on 
 **Professor Temporal Currentflow**: Specialist in time-based divination who studies the flow of causality through the underwater realm. Her research has identified crucial decision points where small actions can have massive consequences.
 
 ### The Intelligence Network
-Secret organization that coordinates information gathering and counter-intelligence activities across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Their agents use advanced divination techniques for espionage and threat assessment.
+Secret organization that coordinates information gathering and counter-intelligence activities across [[02_Worldbuilding/Places/Aquabyssos]]. Their agents use advanced divination techniques for espionage and threat assessment.
 
 **Spymaster Shadow Deepwatch**: Leader of covert operations whose divination abilities allow for perfect intelligence gathering. Her network of seers provides comprehensive monitoring of potential threats and enemies.
 
@@ -225,7 +225,7 @@ Ancient methods for achieving perfect prediction of future events have been lost
 
 **Destiny Reading**: Historical technique that could reveal the predetermined fate of individuals and civilizations with perfect accuracy. Knowledge of these techniques was apparently suppressed due to the psychological and social implications of absolute predestination.
 
-**Timeline Master Sight**: Spells that could perceive all possible timelines simultaneously and identify the actions needed to achieve specific outcomes. These techniques were lost during the early period of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] history.
+**Timeline Master Sight**: Spells that could perceive all possible timelines simultaneously and identify the actions needed to achieve specific outcomes. These techniques were lost during the early period of [[02_Worldbuilding/Places/Aquabyssos]] history.
 
 ## Campaign Integration
 
@@ -286,10 +286,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Oracle Pelagic Deepgaze]]
+- [[02_Worldbuilding/Lore/Oracle Pelagic Deepgaze]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]

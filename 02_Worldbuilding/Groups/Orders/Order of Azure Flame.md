@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whispering Peaks]]
+- [[02_Worldbuilding/Places/The Whispering Peaks]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whispering Peaks]]
+- [[02_Worldbuilding/Places/The Whispering Peaks]]
 
 ## Player-Facing Summary
 

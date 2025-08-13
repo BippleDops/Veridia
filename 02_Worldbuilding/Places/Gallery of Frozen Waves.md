@@ -23,15 +23,15 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival Grounds]]
+- [[02_Worldbuilding/Lore/Crystal Festival Grounds]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival Grounds]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lamplight Alley]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Screaming Gardens]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[02_Worldbuilding/Lore/Crystal Festival Grounds]]
+- [[02_Worldbuilding/Lore/Lamplight Alley]]
+- [[02_Worldbuilding/Places/Screaming Gardens]]
+- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

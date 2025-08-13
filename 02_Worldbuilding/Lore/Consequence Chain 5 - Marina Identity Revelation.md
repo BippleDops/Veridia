@@ -41,10 +41,10 @@ world: Both Worlds
 - Chose to support Marina's mission rather than expose her to authorities
 
 **Who was directly affected:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]**: False identity abandoned, true mission revealed
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Guard]]**: Covert organization forced into partial exposure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]**: Lost valuable intelligence asset, operations compromised
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Gained unofficial diplomatic contact with Aquabyssos
+- **[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]**: False identity abandoned, true mission revealed
+- **[[02_Worldbuilding/Lore/Depth Guard]]**: Covert organization forced into partial exposure
+- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Lost valuable intelligence asset, operations compromised
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Gained unofficial diplomatic contact with Aquabyssos
 - **Party members**: Became first surface dwellers with official Depth Guard recognition
 - **Cross-realm trade networks**: Legitimacy questions raised about "smuggling" operations
 
@@ -93,7 +93,7 @@ world: Both Worlds
 ## Secondary Ripples (Weeks/Months)
 
 **Faction realignments:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Guard]]** emerged from secrecy as legitimate organization
+- **[[02_Worldbuilding/Lore/Depth Guard]]** emerged from secrecy as legitimate organization
 - **Cross-realm advocacy groups** formed to support dual-heritage individuals
 - **Traditional isolationist factions** opposed increased inter-dimensional contact
 - **Academic institutions** established underwater studies programs
@@ -187,9 +187,9 @@ world: Both Worlds
 ## Connected Consequences
 
 ### Links to Other Major Events
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Consequence Chain 2 - Crystal Trade Disruption]]**: Marina's intelligence crucial for exposing Silverscale
+- **[[02_Worldbuilding/Lore/Consequence Chain 2 - Crystal Trade Disruption]]**: Marina's intelligence crucial for exposing Silverscale
 - **[[Consequence Chain 3 - Reality Merger Diplomatic Crisis]]**: Marina's bloodline enabled merger negotiations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Consequence Chain 4 - Deep Mother Awakening]]**: Depth Guard knowledge facilitated cosmic contact
+- **[[02_Worldbuilding/Lore/Consequence Chain 4 - Deep Mother Awakening]]**: Depth Guard knowledge facilitated cosmic contact
 - **Cross-realm security cooperation**: Joint intelligence preventing future conspiracies
 
 ### Institutional Developments
@@ -223,15 +223,15 @@ world: Both Worlds
 ---
 
 *"I spent years lying about who I was to protect two worlds. The day I told the truth was the day both worlds started becoming one. Sometimes honesty is the greatest revolution you can start."*
-— [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]], First Cross-Realm Diplomatic Advisor
+— [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]], First Cross-Realm Diplomatic Advisor
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Consequence Tracking Framework]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 08 Between Two Worlds]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Guard]]
+- [[02_Worldbuilding/Lore/Campaign Consequence Tracking Framework]]
+- [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
+- [[1-Session Journals/Aethermoor - Session 08 Between Two Worlds]]
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
+- [[02_Worldbuilding/Lore/Depth Guard]]
 - [[Cross-Realm Diplomatic Relations]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Political Intrigue Master Index]]
+- [[02_Worldbuilding/Lore/Political Intrigue Master Index]]
 - [[Cultural Exchange Programs]]

@@ -3,7 +3,7 @@ affiliation: Order of the Shattered Crown
 age: '47'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]]'
+location: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
 race: Human (Crystal-touched)
 role: Shard Seeker
 status: complete
@@ -34,7 +34,7 @@ world: Aethermoor
 *Former Knight, Shard-Corrupted Seeker*
 
 ## Overview
-Once a noble knight of [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crown]], Marcus Crystalvein has spent the last fifteen years searching for [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] after discovering ancient texts about the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]]. His obsession has physically transformed him - crystal growths now replace much of his left arm and shoulder, and his eyes glow with inner light when he speaks of the Shards.
+Once a noble knight of [[02_Worldbuilding/Groups/The Crown]], Marcus Crystalvein has spent the last fifteen years searching for [[02_Worldbuilding/Lore/The Seven Shards]] after discovering ancient texts about the [[02_Worldbuilding/Lore/The Crown of Stars]]. His obsession has physically transformed him - crystal growths now replace much of his left arm and shoulder, and his eyes glow with inner light when he speaks of the Shards.
 
 ## Description
 - **Appearance**: Tall, gaunt man with crystal growths replacing his left arm. Wears tattered knight's armor
@@ -43,22 +43,22 @@ Once a noble knight of [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Th
 
 ## Background
 ### The Fallen Knight
-- Former captain in the Royal Guard under [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- Former captain in the Royal Guard under [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
 - Discovered forbidden texts in the palace library
 - Abandoned his post to seek the scattered fragments
 - First touched a Shard fragment 10 years ago, beginning his transformation
 
 ### Current Status
-- Leads a small cult called the [[vault_backup_20250813_073007/02_Worldbuilding/People/Order of the Shattered Crown]]
+- Leads a small cult called the [[02_Worldbuilding/People/Order of the Shattered Crown]]
 - Possesses extensive knowledge of Shard locations and properties
 - Increasingly unstable as crystal corruption spreads
 - Believes reuniting the Shards will "heal the world's wound"
 
 ## Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Former liege, now sees her as obstacle
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]**: Hunted by the Purist Coalition
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]**: Seeks audience with the mysterious figure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Order of the Shattered Crown]]**: Charismatic leader of fellow Shard seekers
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Former liege, now sees her as obstacle
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Hunted by the Purist Coalition
+- **[[02_Worldbuilding/People/The Crimson Sage]]**: Seeks audience with the mysterious figure
+- **[[02_Worldbuilding/People/Order of the Shattered Crown]]**: Charismatic leader of fellow Shard seekers
 
 ## Knowledge & Abilities
 - Expert on Seven Shards lore and history
@@ -69,10 +69,10 @@ Once a noble knight of [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Th
 
 
 ## Connected Elements
-- Central figure in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] plotlines
-- Links to [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] as their enemy
-- Connection to [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crown]] through his past
-- Key to understanding [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] mythology
+- Central figure in [[02_Worldbuilding/Lore/The Seven Shards]] plotlines
+- Links to [[02_Worldbuilding/Groups/Purist Coalition]] as their enemy
+- Connection to [[02_Worldbuilding/Groups/The Crown]] through his past
+- Key to understanding [[02_Worldbuilding/Lore/The Crown of Stars]] mythology
 
 ---
 
@@ -289,14 +289,14 @@ Marcus discovers that his understanding of the Crown of Stars and its purpose ha
 
 ## Cross-Campaign Integration
 
-### Links to [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+### Links to [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
 **Crown-Convergence Connection**: Understanding how Shard reunification affects dimensional stability
 - Marcus's research reveals Crown of Stars was originally dimensional stabilization device
 - Current Shard separation weakening barriers between realities
 - Reunification could either fix convergence crisis or make it exponentially worse
 - Order's activities inadvertently contributing to dimensional instability
 
-### Integration with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]]
+### Integration with [[02_Worldbuilding/Groups/The Convergence Seekers]]
 **Competing Cosmic Visions**: Different approaches to reality manipulation
 - Both groups seek to reshape fundamental nature of reality
 - Marcus views Convergence Seekers as threat to proper divine order
@@ -319,12 +319,12 @@ Marcus discovers that his understanding of the Crown of Stars and its purpose ha
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Order of the Shattered Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Bloodline Carrier]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
+- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
+- [[02_Worldbuilding/People/Order of the Shattered Crown]]
+- [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
+- [[02_Worldbuilding/People/The Bloodline Carrier]]
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
 
 ## Player-Facing Summary
 
@@ -345,4 +345,4 @@ Legends speak of Keeper of the Shattered Crown, Marcus Crystalvein as a nexus wh
 - [[02_Worldbuilding/People/Keeper of the Shattered Crown, Marcus Crystalvein|02 Worldbuilding/People/Keeper Of The Shattered Crown, Marcus Crystalvein]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]]
+- [[02_Worldbuilding/Lore/The Crown of Stars]]

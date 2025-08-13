@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
 
 ## Player-Facing Summary
 

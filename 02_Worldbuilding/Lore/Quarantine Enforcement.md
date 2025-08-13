@@ -109,7 +109,7 @@ The Crystal Plague crisis has forced Aquabyssos governments to implement unprece
 **Special Operations Division - Elite Unit**
 - 40 highly trained officers for dangerous situations
 - Hostage negotiation specialists for quarantine resistance
-- Counter-insurgency experts for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] enforcement
+- Counter-insurgency experts for [[02_Worldbuilding/Places/Crystal Cult Temples]] enforcement
 - International cooperation for cross-border health threats
 
 #### Equipment and Resources
@@ -145,7 +145,7 @@ The Crystal Plague crisis has forced Aquabyssos governments to implement unprece
 - Patrol quarantine zone perimeters
 - Conduct health screenings at markets and public gatherings
 - Investigate quarantine violation reports
-- Provide security for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Plague Wards]]
+- Provide security for [[02_Worldbuilding/Places/Crystal Plague Wards]]
 
 *Community Relations Problems:*
 - Officers often know quarantine violators personally
@@ -169,7 +169,7 @@ The Crystal Plague crisis has forced Aquabyssos governments to implement unprece
 *Enforcement Challenges:*
 - Merchant vessels attempting to bypass quarantine procedures
 - Diplomatic ships claiming exemption from health inspections
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Black Market Crystal Trade]] using health crisis as cover
+- [[02_Worldbuilding/Lore/Black Market Crystal Trade]] using health crisis as cover
 - Limited resources for monitoring entire harbor area
 
 ## Quarantine Zones and Procedures
@@ -327,12 +327,12 @@ Working-class families cannot afford extended quarantine without income support.
 **The Underground Railroad**  
 **Membership:** Unknown but estimated 50-100 active participants  
 **Activities:** Helping quarantine violators escape enforcement  
-**Leadership:** Anonymous network with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Black Market Crystal Trade]] connections  
+**Leadership:** Anonymous network with [[02_Worldbuilding/Places/Crystal Cult Temples]] and [[02_Worldbuilding/Lore/Black Market Crystal Trade]] connections  
 **Methods:** Safe houses, false documentation, bribery of officials
 
 *Security Concerns:*
 - Estimated 30% success rate in helping people evade quarantine
-- Connections to larger [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underground Smuggling Networks]]
+- Connections to larger [[02_Worldbuilding/Lore/Underground Smuggling Networks]]
 - Potential for spreading plague through resistance network activities
 - Infiltration attempts by law enforcement largely unsuccessful
 
@@ -395,7 +395,7 @@ Enforcement statistics show quarantine violations by wealthy individuals result 
 **Political Connections**
 Government officials and their families receive preferential treatment in quarantine enforcement, undermining public confidence in system fairness.
 
-*Recent Controversy:* Municipal councilor's son received private quarantine accommodation while similar-staged patients remained in crowded [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Plague Wards]].
+*Recent Controversy:* Municipal councilor's son received private quarantine accommodation while similar-staged patients remained in crowded [[02_Worldbuilding/Places/Crystal Plague Wards]].
 
 ## Public Health Impact
 
@@ -483,7 +483,7 @@ A major containment failure has allowed infected individuals to escape into the 
 *Complications:*
 - Escaped individuals may be sympathetic characters with good reasons for resistance
 - Investigation reveals systematic corruption in enforcement agencies
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] involvement in orchestrating escape for recruitment purposes
+- [[02_Worldbuilding/Places/Crystal Cult Temples]] involvement in orchestrating escape for recruitment purposes
 - Public panic creates additional chaos and investigative challenges
 
 ### The Rights Crusader
@@ -549,12 +549,12 @@ Evidence suggests that enforcement corruption is being orchestrated by someone w
 - Allow player characters to influence policy development through their investigative work
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Plague Progression System]] - Disease mechanics that enforcement policies address
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Plague Wards]] - Medical facilities that enforcement protects and supplies
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Medical Research Facilities]] - Research institutions that enforcement coordinates with
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Black Market Crystal Trade]] - Criminal networks that enforcement combats
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] - Religious organizations that enforcement monitors
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underground Smuggling Networks]] - Resistance systems that enforcement pursues
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Plague Infected NPCs]] - Individuals affected by enforcement policies
+- [[02_Worldbuilding/Lore/Crystal Plague Progression System]] - Disease mechanics that enforcement policies address
+- [[02_Worldbuilding/Places/Crystal Plague Wards]] - Medical facilities that enforcement protects and supplies
+- [[02_Worldbuilding/Places/Medical Research Facilities]] - Research institutions that enforcement coordinates with
+- [[02_Worldbuilding/Lore/Black Market Crystal Trade]] - Criminal networks that enforcement combats
+- [[02_Worldbuilding/Places/Crystal Cult Temples]] - Religious organizations that enforcement monitors
+- [[02_Worldbuilding/Lore/Underground Smuggling Networks]] - Resistance systems that enforcement pursues
+- [[02_Worldbuilding/People/Crystal Plague Infected NPCs]] - Individuals affected by enforcement policies
 
 <!-- enriched: true -->

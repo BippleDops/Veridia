@@ -31,7 +31,7 @@ world: Both
 
 ```leaflet
 id: world-map
-image: [[vault_backup_20250813_073007/02_Worldbuilding/Places/World Map]]
+image: [[02_Worldbuilding/Places/World Map]]
 height: 600px
 width: 100%
 lat: 50

@@ -52,7 +52,7 @@ world: Aquabyssos
 > *"In Crystallium, thoughts become crystal, lies shatter like glass, and the truth resonates until it breaks you."*
 
 ## 🎬 Strong Start
-The party arrives at [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]] to find the entire continent vibrating at a frequency that makes their bones ache. Citizens stand frozen, their bodies crystallizing as they hum in perfect unison. The [[vault_backup_20250813_073007/02_Worldbuilding/People/The Resonance Prophet]] appears, their crystalline form constantly shifting: "You're too late. The Singers Beyond have heard our call. Reality itself is about to harmonize. Listen—can you hear your shadows screaming?"
+The party arrives at [[02_Worldbuilding/Places/Crystallium]] to find the entire continent vibrating at a frequency that makes their bones ache. Citizens stand frozen, their bodies crystallizing as they hum in perfect unison. The [[02_Worldbuilding/People/The Resonance Prophet]] appears, their crystalline form constantly shifting: "You're too late. The Singers Beyond have heard our call. Reality itself is about to harmonize. Listen—can you hear your shadows screaming?"
 
 ## 🎭 Scenes
 
@@ -64,7 +64,7 @@ The party arrives at [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crys
 - Everyone in Crystallium shares thoughts when harmonized
 - The frequency is actually a language
 - It's not calling shadows—it's calling their creators
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Conductor]] is here, orchestrating the resonance
+- [[02_Worldbuilding/Places/The Conductor]] is here, orchestrating the resonance
 
 **Resonance Mechanics**:
 - **WIS Save DC 15** each hour or begin harmonizing
@@ -166,7 +166,7 @@ The party arrives at [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crys
 
 ## 💰 Treasure & Rewards
 - Resonance Codex (understanding Singer language)
-- 1,500 [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sorrow Pearls]]
+- 1,500 [[02_Worldbuilding/Lore/Sorrow Pearls]]
 - Crystal Tuning Fork (control local frequency)
 - Prophet's Third Eye (see probability threads)
 - Harmonic Shield Generator
@@ -174,12 +174,12 @@ The party arrives at [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crys
 
 ## 🔍 Secrets & Clues
 1. The Singers Beyond have consumed twelve realities already
-2. [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]] knew about Singers all along
-3. The [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] fragmented to avoid Singer detection
+2. [[02_Worldbuilding/People/Shadow Duchess Nyx]] knew about Singers all along
+3. The [[02_Worldbuilding/People/The Scattered Emperor]] fragmented to avoid Singer detection
 4. Every shadow is a survival instinct made manifest
-5. The Crystal Festival in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] was Singer reconnaissance
+5. The Crystal Festival in [[02_Worldbuilding/Places/Aethermoor]] was Singer reconnaissance
 6. Children born post-Cataclysm can't be seen by Singers
-7. The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]] is the last Singer trapped in this reality
+7. The [[02_Worldbuilding/Lore/Deep Mother]] is the last Singer trapped in this reality
 8. Harmonization is irreversible after 24 hours
 9. The harvest was always about survival, not conquest
 10. There's a way to hide reality itself from Singers
@@ -205,11 +205,11 @@ As the party makes their choice about the resonance, reality cracks. Through the
 
 The Prophet gasps: "It sees us. The camouflage has failed. We have minutes, not hours." 
 
-Suddenly, every shadow in Aquabyssos screams in unison—not in fear, but in recognition. [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]] materializes: "The shadows remember. They were here before. They fought the Singers once and lost. But this time..." She turns to the party. "This time we have something we didn't before. We have humans who can think like shadows and shadows who can feel like humans. The harvest isn't our doom—it's our weapon."
+Suddenly, every shadow in Aquabyssos screams in unison—not in fear, but in recognition. [[02_Worldbuilding/People/Shadow Duchess Nyx]] materializes: "The shadows remember. They were here before. They fought the Singers once and lost. But this time..." She turns to the party. "This time we have something we didn't before. We have humans who can think like shadows and shadows who can feel like humans. The harvest isn't our doom—it's our weapon."
 
 The ocean above begins to boil as something massive descends through dimensions toward them. Marina (whichever version) steps forward: "I know what I have to do. I'm sorry I didn't tell you sooner. I'm not from here. I'm from the last reality the Singers consumed. I came to warn you, but I fell in love with this world. With all of you."
 
-She begins to resonate at a frequency that makes reality blur: "Get to the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mourning Depths]]. The Sorrowmaster has the weapon. Tell them the Refugee sends her regards. Tell them it's time for the Grief Bomb."
+She begins to resonate at a frequency that makes reality blur: "Get to the [[02_Worldbuilding/Places/Mourning Depths]]. The Sorrowmaster has the weapon. Tell them the Refugee sends her regards. Tell them it's time for the Grief Bomb."
 
 ---
 
@@ -221,19 +221,19 @@ She begins to resonate at a frequency that makes reality blur: "Get to the [[vau
 - Set up for the final arc
 
 ## 📅 Next Session Prep
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 08 - The Fractal Conspiracy]]
+- [[1-Session Journals/Aquabyssos - Session 08 - The Fractal Conspiracy]]
 - Design Singer Beyond manifestations
 - Prepare Mourning Depths approach
 - Create the Grief Bomb mechanics
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sorrow Pearls]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mourning Depths]]
+- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Lore/Sorrow Pearls]]
+- [[02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Mourning Depths]]

@@ -29,23 +29,23 @@ world: Both
 *The Bridge Between Two Worlds*
 
 > *"Here stands the miracle of our age - a doorway that transforms ocean into air, water-dweller into surface-walker, and ancient hostility into tentative hope. Every passage through this portal rewrites the rules of what two peoples thought possible."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Portal Commander Marina Bridgewright]], Director of Trans-Dimensional Operations
+> — [[02_Worldbuilding/Places/Portal Commander Marina Bridgewright]], Director of Trans-Dimensional Operations
 
 ## Overview
 
-Surface Portal Alpha represents the pinnacle of cooperative engineering between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and the surface world, a revolutionary gateway that allows safe passage between underwater and surface realms without the dangerous decompression transitions that previously made such travel nearly impossible. This facility serves as the primary diplomatic and commercial link between two civilizations that had remained largely separate for centuries.
+Surface Portal Alpha represents the pinnacle of cooperative engineering between [[02_Worldbuilding/Places/Aquabyssos]] and the surface world, a revolutionary gateway that allows safe passage between underwater and surface realms without the dangerous decompression transitions that previously made such travel nearly impossible. This facility serves as the primary diplomatic and commercial link between two civilizations that had remained largely separate for centuries.
 
-Built using hybrid technology that combines [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] pressure manipulation techniques with surface world magical engineering, the portal creates stable transition zones where water pressure, atmospheric composition, and even the fundamental nature of breathing can be gradually adjusted. The facility represents not just a technological achievement but a symbol of unprecedented cooperation between realms that had viewed each other with suspicion and fear.
+Built using hybrid technology that combines [[02_Worldbuilding/Places/Aquabyssos]] pressure manipulation techniques with surface world magical engineering, the portal creates stable transition zones where water pressure, atmospheric composition, and even the fundamental nature of breathing can be gradually adjusted. The facility represents not just a technological achievement but a symbol of unprecedented cooperation between realms that had viewed each other with suspicion and fear.
 
 ## Atmospheric Description
 
 ### The Transition Chamber
-The heart of the portal facility consists of a massive spherical chamber where the fundamental nature of reality gradually shifts between aquatic and atmospheric environments. Travelers enter through water-filled passages from the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] side and emerge through air-filled corridors leading to surface installations.
+The heart of the portal facility consists of a massive spherical chamber where the fundamental nature of reality gradually shifts between aquatic and atmospheric environments. Travelers enter through water-filled passages from the [[02_Worldbuilding/Places/Aquabyssos]] side and emerge through air-filled corridors leading to surface installations.
 
 The chamber walls display swirling patterns of bioluminescence and crystalline formations that pulse in harmony with the portal's operation. These patterns serve both functional and aesthetic purposes, indicating system status while creating an atmosphere of wonder and technical sophistication.
 
 ### The Technical Core
-The portal's operational center houses the complex machinery that maintains the dimensional bridge between realms. This area combines crystalline technology favored by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] engineers with mechanical systems preferred by surface world technicians, creating hybrid systems that neither civilization could have developed independently.
+The portal's operational center houses the complex machinery that maintains the dimensional bridge between realms. This area combines crystalline technology favored by [[02_Worldbuilding/Places/Aquabyssos]] engineers with mechanical systems preferred by surface world technicians, creating hybrid systems that neither civilization could have developed independently.
 
 ## Notable Features and Landmarks
 
@@ -85,7 +85,7 @@ A crisis in one realm requires rapid evacuation of large numbers of people to th
 ## Secrets and Lore
 
 ### The Shard Energy Source
-The portal's power systems utilize energy patterns similar to those associated with the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Seven Shards]], raising questions about shard-related influences on the facility's construction.
+The portal's power systems utilize energy patterns similar to those associated with the [[02_Worldbuilding/Places/Seven Shards]], raising questions about shard-related influences on the facility's construction.
 
 ### The Third Realm Access
 Classified portal settings allow access to dimensions beyond the surface and underwater realms, providing potential access to otherworldly locations.
@@ -135,10 +135,10 @@ Equipment designed to help individuals function in both aquatic and atmospheric 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor to Aquabyssos Transition Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Terminal]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
+- [[02_Worldbuilding/Lore/Aethermoor to Aquabyssos Transition Guide]]
+- [[02_Worldbuilding/Places/Harbor District]]
+- [[02_Worldbuilding/Places/Pressure Terminal]]
 
 
 ## History
@@ -190,6 +190,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Portal Alpha]]
+- [[02_Worldbuilding/Places/Surface Portal Alpha]]
 
 <!-- enriched: true -->

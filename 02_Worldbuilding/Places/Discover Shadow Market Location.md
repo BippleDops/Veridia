@@ -84,7 +84,7 @@ Emphasize the cat-and-mouse nature of the investigation. The market should feel 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
 
 
 ## History
@@ -126,6 +126,6 @@ Legends speak of Discover Shadow Market Location as a nexus where past and prese
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Discover Shadow Market Location]]
+- [[02_Worldbuilding/Places/Discover Shadow Market Location]]
 
 <!-- enriched: true -->

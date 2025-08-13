@@ -44,11 +44,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bathyal Succession]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/Lore/The Bathyal Succession]]
+- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]

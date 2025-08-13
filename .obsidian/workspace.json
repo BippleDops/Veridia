@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Worldbuilding/People/The Waking Prophets.md",
+                "file": "03_Mechanics/Aquabyssos Languages.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Waking Prophets"
+              "title": "Aquabyssos Languages"
             }
           }
         ]
@@ -111,6 +111,7 @@
       {
         "id": "09384058bb1c4e72",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "01866bcbc2fd8a19",
@@ -166,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Worldbuilding/People/The Waking Prophets.md",
+                "file": "03_Mechanics/Aquabyssos Languages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Waking Prophets"
+              "title": "Outline of Aquabyssos Languages"
             }
           },
           {
@@ -287,8 +288,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -297,32 +298,37 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "49f471f96c60a842",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "6329ab96154d8f42",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
         ],
         "currentTab": 3
       },
       {
-        "id": "56b99a107cf9d281",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "93fbbf0ef96c2eda",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
         "id": "1daf628a52fe86ef",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "dad808187ac5278e",
@@ -349,20 +355,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "helpmate:HelpMate": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-kanban:Create new board": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "8d3631f7ef3dd649",
+  "active": "2911de48d50d504c",
   "lastOpenFiles": [
+    "scripts/reorganize_directories.py",
+    "scripts/fix_all_problematic_links.py",
+    "BACKUP_LINKS_FIXED_REPORT.md",
+    "reports/backup_link_fixes_report.md",
+    "scripts/fix_backup_links.py",
+    "03_Mechanics/Aquabyssos Adaptation Mechanics.md",
+    "02_Worldbuilding/People/The Waking Prophets.md",
+    "CLAUDE.md",
     "09_Performance/Indexes/Complete_NPC_Matrix.md",
     "09_Performance/Indexes/Master_Narrative_Web.md",
     "03_Mechanics/Aquabyssos Character Creation.md",
@@ -389,16 +404,8 @@
     "03_Mechanics/Aquabyssos Languages.md",
     "03_Mechanics/Vehicles/Aethermoor_Airships_Catalog.md",
     "03_Mechanics/Social_Systems/Faction_Reputation.md",
-    "03_Mechanics/Crystal-Plague-Mechanics.md",
-    "03_Mechanics/Crystal Plague Mechanics.md",
-    "03_Mechanics/Comprehensive Survival System.md",
-    "02_Worldbuilding/Items/The Tidal Shard of Memory.md",
-    "02_Worldbuilding/Lore/The Sundering.md",
-    "02_Worldbuilding/Lore/The Forgotten Isles.md",
     "Combat Tracker.base",
     "Faction_Tracker.base",
-    "Image Library.base",
-    "Item Showcase.base",
     "04_Resources/Assets/quests/missing-caravan.png",
     "04_Resources/Assets/Canvas/Relationship_Graph.canvas",
     "Ω_Assets/Pasted image 20250121213204.png",

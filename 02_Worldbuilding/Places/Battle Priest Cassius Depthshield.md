@@ -23,15 +23,15 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Living Weapon]]
+- [[02_Worldbuilding/Places/The Living Weapon]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten One]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Living Weapon]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Places/The Forgotten One]]
+- [[02_Worldbuilding/Places/The Living Weapon]]
 
 ## Player-Facing Summary
 

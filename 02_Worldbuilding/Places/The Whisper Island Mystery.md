@@ -129,7 +129,7 @@ This mystery emphasizes investigation and roleplay over combat. The supernatural
 
 ## Connections
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]
 
 
 ## History
@@ -171,6 +171,6 @@ Legends speak of The Whisper Island Mystery as a nexus where past and present co
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whisper Island Mystery]]
+- [[02_Worldbuilding/Places/The Whisper Island Mystery]]
 
 <!-- enriched: true -->

@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
 
 ## Player-Facing Summary
 

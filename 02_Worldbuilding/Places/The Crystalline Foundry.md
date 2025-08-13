@@ -32,24 +32,24 @@ world: Both
 
 ## Overview
 
-The Crystalline Foundry represents the pinnacle of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s industrial magical achievement, a massive complex where raw [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]] are shaped, refined, and forged into everything from everyday magical items to legendary artifacts. Rising like a crystal mountain from the heart of the Industrial District, the Foundry combines traditional smithing techniques with cutting-edge crystal manipulation, employing hundreds of skilled artisans who have elevated craftsmanship to an art form.
+The Crystalline Foundry represents the pinnacle of [[02_Worldbuilding/Places/Aethermoor]]'s industrial magical achievement, a massive complex where raw [[02_Worldbuilding/Items/Aether Crystals]] are shaped, refined, and forged into everything from everyday magical items to legendary artifacts. Rising like a crystal mountain from the heart of the Industrial District, the Foundry combines traditional smithing techniques with cutting-edge crystal manipulation, employing hundreds of skilled artisans who have elevated craftsmanship to an art form.
 
 ## History and Construction
 
 ### The Great Commission
-**Founded**: 150 years ago by royal decree of King [[vault_backup_20250813_073007/02_Worldbuilding/Places/Luminar the Builder]]  
-**Purpose**: Centralize and standardize crystal working throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]  
+**Founded**: 150 years ago by royal decree of King [[02_Worldbuilding/Places/Luminar the Builder]]  
+**Purpose**: Centralize and standardize crystal working throughout [[02_Worldbuilding/Places/Aethermoor]]  
 **Original Design**: Seven interconnected towers, each dedicated to different aspects of crystal crafting  
 **Investment**: Entire royal treasury committed to construction and equipment acquisition  
 
 ### The Master's Era
-**Leadership**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Thorek Crystalhammer]], appointed 75 years ago  
+**Leadership**: [[02_Worldbuilding/Places/Master Thorek Crystalhammer]], appointed 75 years ago  
 **Innovation**: Introduced revolutionary techniques combining dwarven metallurgy with elven crystal singing  
 **Expansion**: Added three additional specialized workshops and underground facilities  
 **Reputation**: Established Foundry as premier magical crafting center in known world
 
 ### The Great Fire
-**Incident**: 25 years ago, experiment with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Fire Crystals]] caused massive explosion  
+**Incident**: 25 years ago, experiment with [[02_Worldbuilding/Places/Fire Crystals]] caused massive explosion  
 **Damage**: Destroyed eastern wing, killed 23 artisans, released wild magic throughout district  
 **Recovery**: Rebuilt with enhanced safety measures and magical containment systems  
 **Legacy**: New safety protocols led to development of protective crystal technologies
@@ -63,18 +63,18 @@ The Crystalline Foundry represents the pinnacle of [[vault_backup_20250813_07300
 **Purpose**: Raw crystal cutting, initial shaping, and basic refinement  
 **Equipment**: Massive crystal saws, pressure chambers, sonic shapers  
 **Workforce**: 120 stonecutters and crystal shapers  
-**Notable Feature**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Great Crystal Lens]] that focuses sunlight into cutting beams
+**Notable Feature**: [[02_Worldbuilding/Places/Great Crystal Lens]] that focuses sunlight into cutting beams
 
 #### The Fusion Tower
 **Function**: Combining different crystal types and creating alloys  
-**Temperature**: Maintained at precisely 2,847°F using controlled [[vault_backup_20250813_073007/02_Worldbuilding/Places/Fire Crystal]] cores  
-**Innovation**: Only facility capable of creating stable [[vault_backup_20250813_073007/02_Worldbuilding/Places/Prismatic Crystal]] compounds  
+**Temperature**: Maintained at precisely 2,847°F using controlled [[02_Worldbuilding/Places/Fire Crystal]] cores  
+**Innovation**: Only facility capable of creating stable [[02_Worldbuilding/Places/Prismatic Crystal]] compounds  
 **Danger Level**: Highest security, requires special training and protective equipment  
 **Products**: Multi-aspect crystals for complex magical applications
 
 #### The Resonance Chamber
 **Specialty**: Tuning crystals for specific magical frequencies  
-**Staff**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Singers]] who literally sing crystals into proper harmonic alignment  
+**Staff**: [[02_Worldbuilding/Places/Crystal Singers]] who literally sing crystals into proper harmonic alignment  
 **Acoustics**: Perfect acoustic environment with no echo or external sound interference  
 **Process**: Can take weeks to properly tune a single high-end crystal  
 **Clients**: Primarily serves spellcasters and magical researchers
@@ -90,7 +90,7 @@ The Crystalline Foundry represents the pinnacle of [[vault_backup_20250813_07300
 **Operation**: High-volume manufacturing of common magical items  
 **Products**: Light crystals, simple protective amulets, basic enchanted tools  
 **Efficiency**: Can produce 500+ items per day across multiple production lines  
-**Distribution**: Supplies most of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s everyday magical needs  
+**Distribution**: Supplies most of [[02_Worldbuilding/Places/Aethermoor]]'s everyday magical needs  
 **Innovation**: Pioneered techniques for standardized magical item production
 
 #### The Experimental Wing
@@ -104,7 +104,7 @@ The Crystalline Foundry represents the pinnacle of [[vault_backup_20250813_07300
 
 #### The Great Forges
 **Location**: Underground complex beneath all seven towers  
-**Power Source**: Network of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Fire Crystal]] cores providing precise temperature control  
+**Power Source**: Network of [[02_Worldbuilding/Places/Fire Crystal]] cores providing precise temperature control  
 **Capability**: Can handle simultaneous high-temperature work for all towers  
 **Innovation**: Revolutionary heat distribution system prevents thermal accidents  
 **Maintenance**: Requires daily inspection and weekly full maintenance cycles
@@ -120,7 +120,7 @@ The Crystalline Foundry represents the pinnacle of [[vault_backup_20250813_07300
 
 ### Leadership
 
-#### Master Forgewright [[vault_backup_20250813_073007/02_Worldbuilding/Places/Thorek Crystalhammer]]
+#### Master Forgewright [[02_Worldbuilding/Places/Thorek Crystalhammer]]
 **Role**: Overall director and master craftsman  
 **Background**: Former dwarven smith who revolutionized crystal working techniques  
 **Age**: 347, still in prime working years for a dwarf  
@@ -128,30 +128,30 @@ The Crystalline Foundry represents the pinnacle of [[vault_backup_20250813_07300
 **Reputation**: Considered greatest crystal smith of his generation  
 **Secret**: Learned his advanced techniques from an ancient crystal dragon
 
-#### Deputy Master [[vault_backup_20250813_073007/02_Worldbuilding/Places/Elena Prismweaver]]
+#### Deputy Master [[02_Worldbuilding/Places/Elena Prismweaver]]
 **Position**: Second in command, handles day-to-day operations  
 **Expertise**: Enchantment integration and quality control  
 **Background**: Former court mage who transitioned to practical crafting  
 **Innovation**: Developed standardized enchantment procedures for mass production  
 **Challenge**: Balancing efficiency demands with traditional craftsmanship standards
 
-#### Resonance Keeper [[vault_backup_20250813_073007/02_Worldbuilding/Places/Melody Crystalsong]]
+#### Resonance Keeper [[02_Worldbuilding/Places/Melody Crystalsong]]
 **Gift**: Natural ability to hear and adjust crystal harmonic frequencies  
-**Training**: Leads team of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Singers]] in tuning operations  
+**Training**: Leads team of [[02_Worldbuilding/Places/Crystal Singers]] in tuning operations  
 **Rarity**: One of only twelve true Resonance Keepers in known world  
 **Method**: Uses combination of voice, crystals, and magical instruments
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Jeweler Sapphire Delicatehand]]
+#### [[02_Worldbuilding/Places/Master Jeweler Sapphire Delicatehand]]
 **Specialty**: Intricate crystal jewelry and personal items  
 **Clientele**: Royalty and wealthy nobility throughout multiple kingdoms  
 **Technique**: Combines traditional jewelry making with crystal enhancement  
 **Waiting List**: Currently booking commissions 3 years in advance
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/People/Weaponsmith Captain Marcus Sharpedge]]
+#### [[02_Worldbuilding/People/Weaponsmith Captain Marcus Sharpedge]]
 **Focus**: Crystal-enhanced weapons and armor for military applications  
 **Experience**: Former knight who understands combat requirements  
 **Innovation**: Developed techniques for creating adaptive crystal weapons  
-**Testing**: Works closely with [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] to field-test creations
+**Testing**: Works closely with [[02_Worldbuilding/People/Crystal Wardens]] to field-test creations
 
 ## Environmental Hazards and Challenges
 
@@ -181,7 +181,7 @@ The Crystalline Foundry represents the pinnacle of [[vault_backup_20250813_07300
 ### Legendary Artifacts Created
 
 #### The Crown of Seven Lights
-**Commission**: Created for [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s coronation  
+**Commission**: Created for [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s coronation  
 **Materials**: Seven different types of master-grade crystals  
 **Properties**: Grants true sight, protection from mental effects, enhanced magical abilities  
 **Value**: Literally priceless, considered one of world's greatest magical items  
@@ -191,7 +191,7 @@ The Crystalline Foundry represents the pinnacle of [[vault_backup_20250813_07300
 **Type**: Crystal-enhanced longsword (+3 weapon)  
 **Properties**: Constantly burning with sunlight, 2d6 extra radiant damage to undead  
 **Innovation**: First weapon to successfully integrate opposing light and shadow crystals  
-**Reputation**: Famous throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] military  
+**Reputation**: Famous throughout [[02_Worldbuilding/Places/Aethermoor]] military  
 **Location**: Currently wielded by retired legendary knight
 
 ### Harvestable Resources
@@ -287,21 +287,21 @@ The Crystalline Foundry represents the pinnacle of [[vault_backup_20250813_07300
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]
+### [[02_Worldbuilding/Places/Crystal Gardens]]
 **Relationship**: Primary supplier of raw crystal materials and living specimens  
 **Cooperation**: Joint research projects on crystal cultivation and industrial applications  
 **Trade**: Gardens provides materials, Foundry creates specialized cultivation tools  
 **Personnel**: Cross-training programs and shared expertise between institutions
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
+### [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
 **Service**: Exclusive supplier for all royal magical needs and ceremonial items  
 **Priority**: Special queue for royal commissions and urgent requests  
 **Security**: Enhanced protection and complete confidentiality for sensitive royal projects  
 **Politics**: Must carefully navigate court intrigue and competing noble demands
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+### [[02_Worldbuilding/Places/Port Meridian]]
 **Trade**: Major supplier of magical items to merchants and international buyers  
-**Export**: Foundry products represent significant portion of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s export revenue  
+**Export**: Foundry products represent significant portion of [[02_Worldbuilding/Places/Aethermoor]]'s export revenue  
 **Shipping**: Special arrangements for transporting valuable and fragile magical items  
 **Economic**: Important relationship with trading guilds and merchant companies
 
@@ -319,30 +319,30 @@ The Crystalline Foundry represents the pinnacle of [[vault_backup_20250813_07300
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
+- [[02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/Aethermoor]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Thorek Crystalhammer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Elena Prismweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Places/Thorek Crystalhammer]]
+- [[02_Worldbuilding/Places/Elena Prismweaver]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Fire Crystals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Prismatic Crystal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Singers]]
+- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[02_Worldbuilding/Places/Fire Crystals]]
+- [[02_Worldbuilding/Places/Prismatic Crystal]]
+- [[02_Worldbuilding/Places/Crystal Singers]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/The Resonance Forge Hammer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aetheron]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/Items/The Resonance Forge Hammer]]
+- [[02_Worldbuilding/Lore/Aetheron]]
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- [[02_Worldbuilding/Places/Crystalhaven]]
 
 ## Player-Facing Summary
 
@@ -364,6 +364,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]
+- [[02_Worldbuilding/Places/The Crystalline Foundry]]
 
 <!-- enriched: true -->

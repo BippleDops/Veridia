@@ -45,14 +45,14 @@ Lighthouse of Storms describes a turning current in history where choices about 
 - Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
 
 ## Threads and Revelations
-- Records implicate agents tied to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Library of Thalassius]].
+- Records implicate agents tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius]].
 - A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- Testimony suggests [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] financed a pivotal bribe.
+- Testimony suggests [[02_Worldbuilding/People/Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -77,6 +77,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
+- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]

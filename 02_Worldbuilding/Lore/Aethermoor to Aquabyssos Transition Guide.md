@@ -1,23 +1,20 @@
 ---
-created: '2025-08-08'
-created_by: auto-stub
+type: Lore
 status: complete
 tags:
 - aquabyssos
+- campaign-mechanics
 - complete
-- content/lore
-- content/mechanics
 - guide
 - lore
-- status/complete
+- surface-to-underwater
 - transition
 - travel
-- world/aquabyssos
-type: Lore
-updated: '2025-08-13T12:34:28.938180+00:00'
 world: Aquabyssos
+created_by: auto-stub
+created: '2025-08-08'
+updated: '2025-08-11T00:00:00+00:00'
 ---
-
 
 
 
@@ -128,11 +125,11 @@ The transition process actually creates temporary psychic links between individu
 
 ## Related Topics
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign World]]
+- [[02_Worldbuilding/Lore/Campaign World]]
 - [[02_Worldbuilding/Places/Surface Portal Alpha]]
 - [[02_Worldbuilding/Places/Pressure Tubes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Current PC Lead]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Party Information]]
+- [[02_Worldbuilding/Lore/Current PC Lead]]
+- [[02_Worldbuilding/Lore/Party Information]]
 
 ## Campaign Use
 
@@ -141,12 +138,12 @@ Use transitions as opportunities for character development, world-building expos
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Citizens of Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crimson Hand Strike Team]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival Grounds]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dock Worker Toms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lamplight Alley]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session 0 - Aquabyssos]]
+- [[02_Worldbuilding/Lore/Citizens of Meridian]]
+- [[02_Worldbuilding/Lore/Crimson Hand Strike Team]]
+- [[02_Worldbuilding/Lore/Crystal Festival Grounds]]
+- [[02_Worldbuilding/Lore/Dock Worker Toms]]
+- [[02_Worldbuilding/Lore/Lamplight Alley]]
+- [[02_Worldbuilding/Lore/Session 0 - Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -164,4 +161,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session 0 - Aquabyssos]]
+- [[02_Worldbuilding/Lore/Session 0 - Aquabyssos]]

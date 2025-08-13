@@ -292,21 +292,21 @@ Characters accumulate influence points based on exposure:
 
 ## Connected References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] - Source entity of the influence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Pressure Cult]] - Organization of willingly influenced individuals
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Threat Assessment Bureau]] - Government agency monitoring influence
+- [[02_Worldbuilding/Lore/The Deep Mother]] - Source entity of the influence
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Pressure Cult]] - Organization of willingly influenced individuals
+- [[02_Worldbuilding/Lore/Deep Threat Assessment Bureau]] - Government agency monitoring influence
 - [[Maritime Research Institute]] - Academic institution studying influence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Plains]] - High-concentration influence zone
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thermal Vent Fields]] - Natural influence amplification areas
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence]] - Prophesied event requiring influenced individuals
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Navy]] - Military force with significant influence exposure
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Purification Chambers]] - Technology for treating influence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Anchoring]] - Technique for resisting influence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Influence Detectors]] - Equipment for measuring corruption
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Ancient Compact]] - Historical treaty with Deep Mother
+- [[02_Worldbuilding/Lore/Abyssal Plains]] - High-concentration influence zone
+- [[02_Worldbuilding/Lore/Thermal Vent Fields]] - Natural influence amplification areas
+- [[02_Worldbuilding/Lore/The Great Convergence]] - Prophesied event requiring influenced individuals
+- [[02_Worldbuilding/Lore/Depth Navy]] - Military force with significant influence exposure
+- [[02_Worldbuilding/Lore/Purification Chambers]] - Technology for treating influence
+- [[02_Worldbuilding/Lore/Reality Anchoring]] - Technique for resisting influence
+- [[02_Worldbuilding/Lore/Influence Detectors]] - Equipment for measuring corruption
+- [[02_Worldbuilding/Lore/The Ancient Compact]] - Historical treaty with Deep Mother
 - [[Abyssal Trading Consortium]] - Commercial organization under investigation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Benthic Commune]] - Historical example of mass influence event
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professor Abyssal Deepthought]] - Academic who founded Pressure Cult
+- [[02_Worldbuilding/Lore/Benthic Commune]] - Historical example of mass influence event
+- [[02_Worldbuilding/Lore/Professor Abyssal Deepthought]] - Academic who founded Pressure Cult
 
 ## Long-term Implications
 
@@ -317,11 +317,11 @@ As the influence continues to spread and evolve, future generations may face a c
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Healing Two Worlds]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Transformed Citizens]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
+- [[02_Worldbuilding/Lore/Healing Two Worlds]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
 
 ## Player-Facing Summary
 
@@ -339,4 +339,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Transformed Citizens]]
+- [[02_Worldbuilding/Lore/The Transformed Citizens]]

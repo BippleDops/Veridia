@@ -3,11 +3,11 @@ created: '2025-08-09'
 current_status: Active but Underground
 danger_level: 8
 founded: Second Age of Aquabyssos
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Meadows Black Market]]'
+headquarters: '[[02_Worldbuilding/Places/Memory Meadows Black Market]]'
 leader: '[[02_Worldbuilding/People/Memory Merchant Valeria|02 Worldbuilding/People/Memory
   Merchant Valeria]]'
 related_entities:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alterations]]'
+- '[[02_Worldbuilding/Lore/Memory Alterations]]'
 - '[[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
 - '[[02_Worldbuilding/People/Memory Trader Kellian|02 Worldbuilding/People/Memory
   Trader Kellian]]'
@@ -50,7 +50,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Memory Farmers represent one of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most disturbing and ethically controversial factions - individuals and groups who "farm" memories, experiences, and even consciousness itself from willing and unwilling subjects. Operating primarily from the shadows of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Meadows Black Market]], these merchants in human experience trade in the most intimate aspects of sentient life.
+The Memory Farmers represent one of [[02_Worldbuilding/Places/Aquabyssos]]'s most disturbing and ethically controversial factions - individuals and groups who "farm" memories, experiences, and even consciousness itself from willing and unwilling subjects. Operating primarily from the shadows of the [[02_Worldbuilding/Places/Memory Meadows Black Market]], these merchants in human experience trade in the most intimate aspects of sentient life.
 
 Led by the enigmatic [[02_Worldbuilding/People/Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]], the Memory Farmers have evolved from simple traders in nostalgic experiences to sophisticated operators capable of extracting, preserving, modifying, and implanting complex memory structures. Their practices range from consensual experience sharing to outright consciousness theft.
 
@@ -60,7 +60,7 @@ Led by the enigmatic [[02_Worldbuilding/People/Memory Merchant Valeria|02 Worldb
 Memory Farming began during the Second Age of Aquabyssos as an outgrowth of legitimate therapeutic practices. Early practitioners helped trauma victims by removing painful memories and assisted scholars by preserving important experiences. However, the lucrative nature of memory trading and the addictive qualities of certain experiences led to increasingly unethical practices.
 
 ### The Corruption Period
-The faction's transformation into a criminal organization coincided with increased [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]] influence in the deep settlements. Aboleth manipulation techniques were adapted for memory extraction, leading to more sophisticated but far more invasive procedures.
+The faction's transformation into a criminal organization coincided with increased [[02_Worldbuilding/People/Aboleth Prime Yoth]] influence in the deep settlements. Aboleth manipulation techniques were adapted for memory extraction, leading to more sophisticated but far more invasive procedures.
 
 ### Modern Operations
 Today's Memory Farmers operate a complex network spanning multiple depth levels, from legitimate memory preservation services for the wealthy to horrific consciousness farms in the deepest trenches where subjects are kept alive solely for continuous memory extraction.
@@ -101,7 +101,7 @@ Today's Memory Farmers operate a complex network spanning multiple depth levels,
 **Forced Extraction**: Kidnapped victims subjected to invasive procedures
 - Utilizes techniques derived from [[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]
 - Subjects often left as empty shells or with fabricated replacement memories
-- Most profitable method but highest risk of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] intervention
+- Most profitable method but highest risk of [[02_Worldbuilding/Places/Parliament of Echoes]] intervention
 
 ### Memory Categories & Values
 
@@ -134,7 +134,7 @@ Subjects exposed to memory extraction chemicals must make Constitution saves:
 
 ### The Childhood Market
 *Underground bazaar specializing in innocent memories*
-- Located in abandoned nursery complex beneath [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+- Located in abandoned nursery complex beneath [[02_Worldbuilding/Places/Abyssos Prime]]
 - Clientele includes traumatized adults seeking to replace painful childhoods
 - Guarded by creatures that feed on nostalgia and happiness
 - Contains memory pools allowing customers to "test" experiences before purchase
@@ -163,7 +163,7 @@ Subjects exposed to memory extraction chemicals must make Constitution saves:
 ## Legitimate Operations
 
 ### Memory Preservation Services
-**Historical Archive**: Working with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Academy]] to preserve important memories
+**Historical Archive**: Working with [[02_Worldbuilding/Lore/Abyssal Academy]] to preserve important memories
 **Therapeutic Forgetting**: Helping trauma victims selectively remove painful experiences
 **Cultural Documentation**: Recording traditional practices and cultural knowledge
 **Skill Transfer**: Legal educational applications for rapid knowledge dissemination
@@ -177,7 +177,7 @@ Subjects exposed to memory extraction chemicals must make Constitution saves:
 ## Opposition & Threats
 
 ### Law Enforcement
-[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] has established specialized units to combat Memory Farmers:
+[[02_Worldbuilding/Places/Parliament of Echoes]] has established specialized units to combat Memory Farmers:
 - **The Memory Wardens**: Investigators trained to detect illegal memory operations
 - **Consciousness Crime Division**: Prosecutes memory-related offenses
 - **Recovery Units**: Attempt to restore stolen memories to victims
@@ -249,49 +249,49 @@ EOF < /dev/null
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeon Strike Team]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgery Centers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Memory Pearls]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/The Tidal Shard of Memory]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgotten Isles]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Typhoon Blackheart]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Oracle Nerida the Tidereader]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Nameless Auditor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime Docks]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Serenity Stillwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmer Thane]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Prince Akula]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Viktor Geargrind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Navigator Flux]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Old Sally Seasprayer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Merchant Riptide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten One]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Foundation Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Frozen Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Storm Fields]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Mourning Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Current Tavern]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Ground]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadowmire Tavern]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Tidepool Markets]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Void Currents]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeon Strike Team]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgery Centers]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+- [[02_Worldbuilding/Items/Memory Pearls]]
+- [[02_Worldbuilding/Items/The Tidal Shard of Memory]]
+- [[02_Worldbuilding/Lore/The Forgotten Isles]]
+- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
+- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
+- [[02_Worldbuilding/People/Memory Harvester Kythara]]
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
+- [[02_Worldbuilding/People/The Nameless Auditor]]
+- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
+- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
+- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[02_Worldbuilding/Places/Memory Farmer Thane]]
+- [[02_Worldbuilding/Places/Merchant Prince Akula]]
+- [[02_Worldbuilding/Places/Merchant Viktor Geargrind]]
+- [[02_Worldbuilding/Places/Navigator Flux]]
+- [[02_Worldbuilding/Places/Old Sally Seasprayer]]
+- [[02_Worldbuilding/Places/Shadow Merchant Riptide]]
+- [[02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[02_Worldbuilding/Places/The Forgotten One]]
+- [[02_Worldbuilding/Places/The Foundation Depths]]
+- [[02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/The Frozen Throne]]
+- [[02_Worldbuilding/Places/The Gilded Shard]]
+- [[02_Worldbuilding/Places/The Memory Storm Fields]]
+- [[02_Worldbuilding/Places/The Mourning Depths]]
+- [[02_Worldbuilding/Places/The Neutral Current Tavern]]
+- [[02_Worldbuilding/Places/The Neutral Ground]]
+- [[02_Worldbuilding/Places/The Shadowmire Tavern]]
+- [[02_Worldbuilding/Places/The Tidepool Markets]]
+- [[02_Worldbuilding/Places/Void Currents]]
+- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
+- [[02_Worldbuilding/Quests/The Lock Saboteur]]
 
 ## Player-Facing Summary
 
@@ -313,6 +313,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Memory Farmers]]
 
 <!-- enriched: true -->

@@ -29,11 +29,11 @@ world: Both
 *The Forgotten Depths of Power*
 
 > *"What lies beneath the seat of power tells the truest tale of any kingdom. These tunnels remember what the palace above has chosen to forget - and perhaps what it should never have forgotten."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Archivist Valdric Stonewhisper]], Royal Historian (deceased)
+> — [[02_Worldbuilding/Places/Master Archivist Valdric Stonewhisper]], Royal Historian (deceased)
 
 ## Overview
 
-Beneath the gleaming crystal spires and marble halls of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]'s Royal Palace lies a forgotten network of ancient tunnels, chambers, and passages that predate the current kingdom by centuries. These subterranean corridors weave through natural caverns, artificial excavations, and structures so old their builders are lost to history. While officially sealed and forgotten by the crown, the Ancient Tunnels represent a dangerous frontier where the past refuses to stay buried, where crystal corruption takes strange new forms, and where the very foundations of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s power rest upon secrets better left undisturbed.
+Beneath the gleaming crystal spires and marble halls of [[02_Worldbuilding/Places/Crystalhaven]]'s Royal Palace lies a forgotten network of ancient tunnels, chambers, and passages that predate the current kingdom by centuries. These subterranean corridors weave through natural caverns, artificial excavations, and structures so old their builders are lost to history. While officially sealed and forgotten by the crown, the Ancient Tunnels represent a dangerous frontier where the past refuses to stay buried, where crystal corruption takes strange new forms, and where the very foundations of [[02_Worldbuilding/Places/Aethermoor]]'s power rest upon secrets better left undisturbed.
 
 ## History and Discovery
 
@@ -53,7 +53,7 @@ Beneath the gleaming crystal spires and marble halls of [[vault_backup_20250813_
 
 ### The Scholar's Expedition
 **Period**: 400 years ago, unauthorized exploration by court scholars  
-**Leader**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Archivist Valdric Stonewhisper]] and a team of researchers  
+**Leader**: [[02_Worldbuilding/Places/Master Archivist Valdric Stonewhisper]] and a team of researchers  
 **Discoveries**: Extensive mapping, artifact recovery, and disturbing findings  
 **Fate**: Expedition ended in tragedy with only one survivor returning, speaking of "crystal madness"  
 **Cover-up**: Official records sealed, surviving member confined to palace asylum
@@ -547,28 +547,28 @@ Beneath the gleaming crystal spires and marble halls of [[vault_backup_20250813_
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven Royal Palace]]
+### [[02_Worldbuilding/Places/Crystalhaven Royal Palace]]
 **Foundation**: Tunnels form the literal foundation of the palace above  
 **Corruption**: Crystal corruption from tunnels affecting palace structure  
 **Access**: Multiple potential access points throughout palace  
 **Politics**: Political implications of tunnel existence affecting palace operations  
 **Security**: Security vulnerabilities created by unknown tunnel access points
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Academies/The Crystal Academy]]
+### [[02_Worldbuilding/Groups/Academies/The Crystal Academy]]
 **Research**: Potential research value of ancient crystal technology  
 **Knowledge**: Academic interest in archaeological and historical discoveries  
 **Expertise**: Academy scholars might provide expertise in understanding discoveries  
 **Secrecy**: Academy involvement would require maintaining secrecy about tunnels  
 **Ethics**: Ethical questions about withholding important discoveries from scholars
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/People/The Purification Gardens]]
+### [[02_Worldbuilding/People/The Purification Gardens]]
 **Treatment**: Possible location for treating crystal corruption from tunnel exposure  
-**Knowledge**: [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] might have knowledge about corruption  
+**Knowledge**: [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] might have knowledge about corruption  
 **Healing**: Specialized healing techniques for crystal-related injuries and mutations  
 **Secrecy**: Need to explain corruption exposure without revealing tunnel existence  
 **Research**: Potential collaboration on understanding and treating corruption
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Warren]]
+### [[02_Worldbuilding/People/The Shadow Warren]]
 **Similarity**: Similar underground environment and criminal activity  
 **Connections**: Possible physical connections between tunnel systems  
 **Knowledge**: Underground criminals might have information about tunnel access  
@@ -578,7 +578,7 @@ Beneath the gleaming crystal spires and marble halls of [[vault_backup_20250813_
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Royal Bloodline Connection
-> The ancient civilization that built the tunnels is actually the distant ancestor of the current royal bloodline. The royal family's natural affinity for crystal magic comes from this ancient heritage, and the increasing crystal corruption is awakening dormant bloodline abilities. [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] is beginning to experience strange dreams and visions that are actually racial memories from her ancient ancestors, but she doesn't understand what's happening to her.
+> The ancient civilization that built the tunnels is actually the distant ancestor of the current royal bloodline. The royal family's natural affinity for crystal magic comes from this ancient heritage, and the increasing crystal corruption is awakening dormant bloodline abilities. [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] is beginning to experience strange dreams and visions that are actually racial memories from her ancient ancestors, but she doesn't understand what's happening to her.
 
 > [!secret] DM Secret - The Sealed Prophecy
 > One of the sealed vaults contains a prophecy chamber where the ancient civilization recorded their predictions about the future. The prophecy warns of a great catastrophe that will only be prevented when "the children of crystal and shadow unite to face the void that devours light." The ancients believed this prophecy referred to a future alliance between their descendants (the current royal line) and the shadow-touched beings they were fighting, but the true meaning may be different.
@@ -589,30 +589,30 @@ Beneath the gleaming crystal spires and marble halls of [[vault_backup_20250813_
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven Royal Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Academies/The Crystal Academy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Purification Gardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Warren]]
+- [[02_Worldbuilding/Places/Crystalhaven Royal Palace]]
+- [[02_Worldbuilding/Groups/Academies/The Crystal Academy]]
+- [[02_Worldbuilding/People/The Purification Gardens]]
+- [[02_Worldbuilding/People/The Shadow Warren]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Archivist Valdric Stonewhisper]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Security Chief]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/Places/Master Archivist Valdric Stonewhisper]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/Places/Palace Security Chief]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Corruption]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Crystal Technology]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Bloodline Powers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Archaeological Discoveries]]
+- [[02_Worldbuilding/Places/Crystal Corruption]]
+- [[02_Worldbuilding/Places/Ancient Crystal Technology]]
+- [[02_Worldbuilding/Places/Royal Bloodline Powers]]
+- [[02_Worldbuilding/Places/Archaeological Discoveries]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian Harbor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Royal Palace]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Places/Port Meridian Harbor]]
+- [[02_Worldbuilding/Places/The Royal Palace]]
+- [[1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
 
 ## Player-Facing Summary
 
@@ -634,8 +634,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
+- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Crystalhaven]]

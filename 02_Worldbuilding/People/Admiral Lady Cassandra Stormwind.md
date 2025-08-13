@@ -63,6 +63,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Lady Cassandra Stormwind]]
+- [[02_Worldbuilding/People/Admiral Lady Cassandra Stormwind]]
 
 <!-- enriched: true -->

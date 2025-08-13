@@ -23,15 +23,15 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Order of the Shattered Crown]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/People/Order of the Shattered Crown]]
 
 ## Player-Facing Summary
 

@@ -1,28 +1,25 @@
 ---
-category: Historical Timeline
-created: '2025-08-08'
-created_by: auto-stub
-significance: Foundational
+type: Lore
 status: complete
 tags:
 - aquabyssos
 - cataclysm
 - civilization
 - complete
-- content/lore
 - deep-mother
 - drowning
+- history
 - lore
 - pre-submersion
-- status/complete
 - timeline
 - transformation
-- world/aquabyssos
-type: Lore
-updated: '2025-08-13T12:34:28.891909+00:00'
 world: Aquabyssos
+category: Historical Timeline
+significance: Foundational
+created_by: auto-stub
+created: '2025-08-08'
+updated: '2025-08-11T00:00:00+00:00'
 ---
-
 
 
 
@@ -32,7 +29,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Drowning represents the cataclysmic transformation of a surface civilization into the underwater realm of [[02_Worldbuilding/Places/Aquabyssos]]. Unlike a simple flood, this was a gradual, supernatural process spanning decades that fundamentally altered not just geography, but the very nature of reality, consciousness, and life itself. The event was both natural disaster and divine intervention, orchestrated by the stirring dreams of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] as she began her long awakening.
+The Drowning represents the cataclysmic transformation of a surface civilization into the underwater realm of [[02_Worldbuilding/Places/Aquabyssos]]. Unlike a simple flood, this was a gradual, supernatural process spanning decades that fundamentally altered not just geography, but the very nature of reality, consciousness, and life itself. The event was both natural disaster and divine intervention, orchestrated by the stirring dreams of [[The Deep Mother]] as she began her long awakening.
 
 ## Pre-Drowning Era: The Tethyan Hegemony
 *Dates: Ancient Era - Year 0 (Before Submersion)*
@@ -52,7 +49,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 2. **Benthica** (Military Hub) - 4 million residents, now [[02_Worldbuilding/Lore/The Citadel of Depths]]
 3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
 4. **Pelagia** (Religious Center) - 2 million residents, now [[02_Worldbuilding/Places/The Temple of First Tide]]
-5. **Hadalia** (Industrial Hub) - 5 million residents, now [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forge Depths]]
+5. **Hadalia** (Industrial Hub) - 5 million residents, now [[02_Worldbuilding/Lore/The Forge Depths]]
 6. **Nereia** (Academic Center) - 3 million residents, now [[02_Worldbuilding/Lore/The Memory Vaults]]
 7. **Oceania** (Agricultural Hub) - 4 million residents, now [[02_Worldbuilding/Lore/The Kelp Territories]]
 
@@ -68,7 +65,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 
 ### Religious Framework
 **The Depth Mysteries Cult:**
-- Primary religion worshipping [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] as sleeping goddess
+- Primary religion worshipping [[The Deep Mother]] as sleeping goddess
 - Belief that depth represented spiritual advancement
 - Ritual practices involving controlled drowning and pressure exposure
 - Prophetic traditions predicting "The Great Submersion"
@@ -154,7 +151,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Complete biological and technological adaptation to aquatic existence
 - Development of pressure-based magic and memory manipulation
 - Establishment of the depth-zone governmental system
-- First contact with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s direct servants
+- First contact with [[The Deep Mother]]'s direct servants
 
 **Critical Events:**
 - **The Deep Parliament** (Year 18 AS): First underwater democratic assembly in former Tethyopolis
@@ -176,7 +173,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - **The Deep Trade Establishment** (Year 40 AS): Economic networks spanning all depth zones
 - **The Memory Academies** (Year 43 AS): Educational institutions teaching pressure-based disciplines
 - **The Aboleth Integration** (Year 46 AS): [[02_Worldbuilding/People/Aboleth Prime Yoth]] accepts position as advisor to government
-- **The Final Descent** (Year 49 AS): Deepest settlements reach the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Hadal Depths]]
+- **The Final Descent** (Year 49 AS): Deepest settlements reach the [[Hadal Depths]]
 
 ## Post-Drowning Developments
 *Years 50+ AS*
@@ -203,15 +200,15 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Rise of the [[02_Worldbuilding/People/Sire]] class
 - Development of memory-based weapons and defenses
 - Establishment of memory-preservation protocols
-- Creation of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Vault]] system
+- Creation of the [[02_Worldbuilding/Lore/Memory Vault]] system
 
 ### The Modern Era
 **Years 600+ AS (Current Time)**
 - Current political and social structure
 - Ongoing shadow corruption management
 - Diplomatic contact with surface world
-- The approaching [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- Signs of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s increasing wakefulness
+- The approaching [[The Convergence Point]]
+- Signs of [[The Deep Mother]]'s increasing wakefulness
 
 ## Biological Transformations
 
@@ -290,12 +287,12 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 **From Surface Faith to Deep Mysteries:**
 - Original [[The Depth Mysteries Cult]] becomes dominant religion
 - Development of depth-based spiritual hierarchies
-- Integration of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] worship into daily life
+- Integration of [[The Deep Mother]] worship into daily life
 - Creation of pressure-based meditation and prayer techniques
 - Establishment of underwater temples and sacred sites
 
 **New Religious Movements:**
-- **The Drowned Prophets**: Extreme devotion to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- **The Drowned Prophets**: Extreme devotion to [[The Deep Mother]]
 - **The Memory Keepers**: Preservation of pre-Drowning spiritual practices
 - **The Shadow Shepherds**: Integration of shadow corruption into worship
 - **The Current Followers**: Worship of ocean flows and pressure systems
@@ -428,7 +425,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Memory crystallization preserving first-person experiences
 - Collective memory pools accessible through shadow corruption
 - Genetic memory inheritance in adapted populations
-- Dream-sharing networks connecting to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- Dream-sharing networks connecting to [[The Deep Mother]]
 
 **Memory Categories:**
 - **Surface Memories**: Pre-Drowning experiences and knowledge
@@ -499,10 +496,10 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Memory alteration creates questions about historical accuracy
 - Depth hierarchy creates social inequality and conflict
 - Connection to surface world [[02_Worldbuilding/Places/Aethermoor]] raises identity questions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s increasing activity creates uncertainty
+- [[The Deep Mother]]'s increasing activity creates uncertainty
 
 **Future Concerns:**
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]] may reverse or transform the Drowning
+- [[The Convergence Point]] may reverse or transform the Drowning
 - Rising shadow corruption levels threaten social stability
 - Memory manipulation technology could alter historical understanding
 - Deep exploration reveals increasingly dangerous entities
@@ -526,31 +523,31 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 ## Connected Elements
 
 ### Key Figures
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] - Divine entity orchestrating the Drowning
+- [[The Deep Mother]] - Divine entity orchestrating the Drowning
 - [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Ancient witness and participant
 - [[02_Worldbuilding/People/The Scattered Emperor]] - Pre-Drowning ruler who adapted to survive
 - [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Modern interpreter of Drowning prophecy
 - [[02_Worldbuilding/People/High Priestess Scylla Deepdream]] - Religious leader connecting to Deep Mother
 
 ### Related Events
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]] - Parallel event in [[02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]] - Potential reversal or transformation
+- [[The Great Crystallization]] - Parallel event in [[02_Worldbuilding/Places/Aethermoor]]
+- [[The Convergence Point]] - Potential reversal or transformation
 - [[02_Worldbuilding/Lore/The Deep Mother Rises]] - Culmination of the awakening process
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Integration]] - Managing corruption as natural phenomenon
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Synthesis]] - Combining pre and post-Drowning knowledge
+- [[02_Worldbuilding/Lore/The Shadow Integration]] - Managing corruption as natural phenomenon
+- [[02_Worldbuilding/Lore/The Memory Synthesis]] - Combining pre and post-Drowning knowledge
 
 ### Important Locations
 - [[02_Worldbuilding/Places/Parliament of Echoes]] - Former capital, now government center
-- [[02_Worldbuilding/Places/The Hadal Depths]] - Deepest regions where [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] rests
+- [[02_Worldbuilding/Places/The Hadal Depths]] - Deepest regions where [[The Deep Mother]] rests
 - [[02_Worldbuilding/Lore/The Memory Vaults]] - Preserved pre-Drowning knowledge and experiences
 - [[02_Worldbuilding/Places/The Pressure Forges]] - Industrial centers using depth for manufacturing
 - [[02_Worldbuilding/Places/The Shadow Markets]] - Centers of corruption-based commerce
 
 ### Artifacts and Technology
 - [[02_Worldbuilding/Lore/Deep Archives]] - Complete record of Drowning process
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Crystals]] - Technology preserving pre-Drowning experiences
+- [[Memory Crystals]] - Technology preserving pre-Drowning experiences
 - [[02_Worldbuilding/Places/The Pressure Crown]] - Symbol of successful adaptation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Integration]] - Methods for managing corruption
+- [[02_Worldbuilding/Lore/The Shadow Integration]] - Methods for managing corruption
 - [[02_Worldbuilding/Lore/The Current Maps]] - Navigation systems for underwater travel
 
 ---
@@ -561,15 +558,15 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Healing Two Worlds]]
+- [[Healing Two Worlds]]
 - [[02_Worldbuilding/Lore/Memory Alteration Consequences]]
 - [[02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Drowning Welcome]]
+- [[Thalassius the Wise]]
+- [[The Convergence Point]]
+- [[The Drowning Welcome]]
 - [[02_Worldbuilding/Lore/The Memory Weapon Arms Race]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Queen]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Real Marina]]
+- [[The Queen]]
+- [[The Real Marina]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -595,7 +592,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]
+- [[The Great Crystallization]]
 - [[02_Worldbuilding/People/Aboleth Prime Yoth]]
 - [[02_Worldbuilding/People/High Priestess Scylla Deepdream]]
 - [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]

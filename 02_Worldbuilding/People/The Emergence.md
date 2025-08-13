@@ -96,10 +96,10 @@ The Emergence provides flexible framework for introducing major campaign changes
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archon Meredith Saltweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
+- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[02_Worldbuilding/Places/New Tethys]]
 
 
 ## Appearance
@@ -141,6 +141,6 @@ Legends speak of The Emergence as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Emergence]]
+- [[02_Worldbuilding/People/The Emergence]]
 
 <!-- enriched: true -->

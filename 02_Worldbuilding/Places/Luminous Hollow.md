@@ -43,25 +43,25 @@ world: Aquabyssos
 
 ## Overview
 
-Luminous Hollow represents one of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most spectacular natural wonders: a vast underwater cave system where bioluminescent organisms and crystal formations create a breathtaking display of living light. Located at crushing depths where few dare to venture, the Hollow serves as both a pilgrimage site for those seeking enlightenment and a crucial research facility for understanding the deeper mysteries of underwater life. The caves pulse with an otherworldly rhythm, as if the very walls breathe with accumulated centuries of magical energy.
+Luminous Hollow represents one of [[02_Worldbuilding/Places/Aquabyssos]]'s most spectacular natural wonders: a vast underwater cave system where bioluminescent organisms and crystal formations create a breathtaking display of living light. Located at crushing depths where few dare to venture, the Hollow serves as both a pilgrimage site for those seeking enlightenment and a crucial research facility for understanding the deeper mysteries of underwater life. The caves pulse with an otherworldly rhythm, as if the very walls breathe with accumulated centuries of magical energy.
 
 ## Discovery and History
 
 ### The Deep Pilgrimage
-**Discovered**: 400 years ago by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mystic Aurelius Glowseeker]]  
+**Discovered**: 400 years ago by [[02_Worldbuilding/Lore/Deep Mystic Aurelius Glowseeker]]  
 **Original Purpose**: Meditation retreat for those seeking communion with the depths  
 **The Revelation**: First to realize the caves' bioluminescence responds to emotions and thoughts  
-**Sacred Status**: Declared a protected sanctuary by ancient [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]  
+**Sacred Status**: Declared a protected sanctuary by ancient [[02_Worldbuilding/Places/Parliament of Echoes]]  
 
 ### The Light Plague
-**Event**: 200 years ago, mysterious illness caused people throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] to lose bioluminescence  
+**Event**: 200 years ago, mysterious illness caused people throughout [[02_Worldbuilding/Places/Aquabyssos]] to lose bioluminescence  
 **Discovery**: Only those who visited Luminous Hollow retained their natural glow  
 **Investigation**: Led to understanding of the Hollow's role in deep-sea ecosystem health  
 **Resolution**: Regular pilgrimages to the Hollow became medical prescription as well as spiritual practice
 
 ### Modern Research Era
-**Establishment**: 75 years ago, [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Biology Institute]] established research station  
-**Breakthroughs**: Discovery of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lumina Crystals]] that amplify bioluminescent abilities  
+**Establishment**: 75 years ago, [[02_Worldbuilding/Lore/Deep Biology Institute]] established research station  
+**Breakthroughs**: Discovery of [[02_Worldbuilding/Lore/Lumina Crystals]] that amplify bioluminescent abilities  
 **Current Status**: Balance between scientific research and spiritual sanctuary  
 **Protection**: Strict regulations govern access to preserve delicate ecosystem
 
@@ -90,7 +90,7 @@ Luminous Hollow represents one of [[vault_backup_20250813_073007/02_Worldbuildin
 **Features**: Walls covered in living bioluminescent coral that responds to presence  
 **Acoustics**: Perfect sound carrying - whisper at one end heard clearly at other  
 **Light Show**: Coral displays shift in complex patterns, creating natural light symphonies  
-**Center**: The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Heart Crystal]] - massive formation pulsing with deep blue light
+**Center**: The [[02_Worldbuilding/Lore/Heart Crystal]] - massive formation pulsing with deep blue light
 
 #### The Meditation Grottos
 **Number**: Dozens of small chambers branching off main cathedral  
@@ -110,27 +110,27 @@ Luminous Hollow represents one of [[vault_backup_20250813_073007/02_Worldbuildin
 **Ecosystem**: Unique combination of plants, corals, and crystal formations  
 **Bioluminescence**: Everything glows in response to movement, emotion, and magical energy  
 **Species**: Many found nowhere else, adapted to extreme depth and pressure  
-**Cultivation**: Some areas carefully tended by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Light Gardeners]]  
+**Cultivation**: Some areas carefully tended by [[02_Worldbuilding/Lore/Light Gardeners]]  
 **Research**: Ongoing study of how organisms coordinate their light displays
 
 ### The Deep Sanctuaries
 
 #### The Oracle's Chamber
 **Location**: Deepest accessible point at 4,000 feet  
-**Inhabitant**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Oracle Thessaly]], ancient keeper of the Hollow's wisdom  
+**Inhabitant**: [[02_Worldbuilding/Lore/Deep Oracle Thessaly]], ancient keeper of the Hollow's wisdom  
 **Features**: Walls covered in prophetic bioluminescent writing that changes constantly  
 **Purpose**: Divination, guidance, interpretation of the Hollow's messages  
 **Access**: Only granted to those the Oracle deems worthy
 
 #### The Crystal Nursery
-**Description**: Chamber where new [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lumina Crystals]] grow naturally  
+**Description**: Chamber where new [[02_Worldbuilding/Lore/Lumina Crystals]] grow naturally  
 **Formation**: Takes centuries for crystals to reach maturity  
-**Guardians**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Jellies]] - massive transparent creatures that protect growing crystals  
+**Guardians**: [[02_Worldbuilding/Lore/Crystal Jellies]] - massive transparent creatures that protect growing crystals  
 **Harvest**: Strictly regulated, only mature crystals may be carefully removed  
 **Mystery**: How crystals initially form remains unknown to science
 
 #### The Void Touch
-**Warning**: Chamber that connects to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Void Touched Depths]]  
+**Warning**: Chamber that connects to [[02_Worldbuilding/Places/The Void Touched Depths]]  
 **Appearance**: Area where all light dies, absolute darkness even in luminous cave  
 **Effect**: Exposure causes madness, temporary loss of bioluminescence, nightmares  
 **Sealed**: Ancient barriers prevent most access, but sometimes they weaken  
@@ -140,7 +140,7 @@ Luminous Hollow represents one of [[vault_backup_20250813_073007/02_Worldbuildin
 
 ### Sapient Dwellers
 
-#### Deep Oracle [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thessaly the Illuminated]]
+#### Deep Oracle [[02_Worldbuilding/Lore/Thessaly the Illuminated]]
 **Age**: Unknown, possibly centuries old  
 **Role**: Spiritual guide and keeper of the Hollow's deepest secrets  
 **Abilities**: Can interpret bioluminescent patterns, prophetic visions  
@@ -149,7 +149,7 @@ Luminous Hollow represents one of [[vault_backup_20250813_073007/02_Worldbuildin
 **Purpose**: Helps visitors understand what the Hollow is trying to show them
 
 #### The Light Gardeners
-**Identity**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Brother Marcus the Deepgrown]] and six other devoted cultivators  
+**Identity**: [[02_Worldbuilding/Lore/Brother Marcus the Deepgrown]] and six other devoted cultivators  
 **Role**: Tend and protect the living bioluminescent ecosystem  
 **Modifications**: Surgically enhanced for permanent deep-sea living  
 **Abilities**: Can communicate with bioluminescent organisms, understand their needs  
@@ -191,7 +191,7 @@ Luminous Hollow represents one of [[vault_backup_20250813_073007/02_Worldbuildin
 **Danger**: Some contain traumatic memories that can psychologically damage viewers
 
 #### Void Seekers
-**Warning**: Creatures partially corrupted by exposure to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Void Touched Depths]]  
+**Warning**: Creatures partially corrupted by exposure to [[02_Worldbuilding/Places/The Void Touched Depths]]  
 **Appearance**: Distorted versions of normal deep-sea life, unnatural darkness  
 **Behavior**: Actively hostile, seem to want to spread void corruption  
 **Containment**: Usually confined to areas near the Void Touch chamber  
@@ -238,7 +238,7 @@ Luminous Hollow represents one of [[vault_backup_20250813_073007/02_Worldbuildin
 **Opportunity**: Storms sometimes reveal hidden passages or trigger visions
 
 ### Crystal Resonance Fields
-**Location**: Areas with high concentration of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lumina Crystals]]  
+**Location**: Areas with high concentration of [[02_Worldbuilding/Lore/Lumina Crystals]]  
 **Effect**: Enhance magical abilities but can cause overload  
 **Benefit**: Spellcasters gain +2 to spell attack rolls and save DCs  
 **Risk**: Casting too many spells causes crystal feedback (2d6 psychic damage)  
@@ -252,11 +252,11 @@ Luminous Hollow represents one of [[vault_backup_20250813_073007/02_Worldbuildin
 **Treatment**: Return to shallower depths, magical healing of mind effects
 
 ### Void Seepage
-**Source**: Slow corruption leaking from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Void Touched Depths]]  
+**Source**: Slow corruption leaking from [[02_Worldbuilding/Places/The Void Touched Depths]]  
 **Detection**: Areas where bioluminescence dims or dies completely  
 **Effect**: Exposure causes temporary loss of natural abilities, depression  
 **CON save DC 17**: Made daily in affected areas, failure causes 1 level exhaustion  
-**Containment**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Light Gardeners]] work constantly to maintain living barriers
+**Containment**: [[02_Worldbuilding/Lore/Light Gardeners]] work constantly to maintain living barriers
 
 ## Treasures and Resources
 
@@ -353,22 +353,22 @@ Luminous Hollow represents one of [[vault_backup_20250813_073007/02_Worldbuildin
 ### The Dying Light
 **Level**: 7-11  
 **Crisis**: Hollow's bioluminescence is mysteriously fading  
-**Investigation**: Reveals corruption spreading from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Void Touched Depths]]  
+**Investigation**: Reveals corruption spreading from [[02_Worldbuilding/Places/The Void Touched Depths]]  
 **Challenge**: Must strengthen ancient barriers without damaging delicate ecosystem  
-**Stakes**: Loss of Hollow would devastate [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s spiritual and medical communities  
+**Stakes**: Loss of Hollow would devastate [[02_Worldbuilding/Places/Aquabyssos]]'s spiritual and medical communities  
 **Solution**: Requires cooperation between science, spirituality, and deep magic
 
 ### The Crystal Thief
 **Level**: 4-8  
-**Crime**: Someone is stealing mature [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lumina Crystals]] from the nursery  
+**Crime**: Someone is stealing mature [[02_Worldbuilding/Lore/Lumina Crystals]] from the nursery  
 **Suspects**: Researchers needing funding, surface traders, corrupt pilgrims  
-**Investigation**: Must work with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Jellies]] and navigate ecosystem politics  
+**Investigation**: Must work with [[02_Worldbuilding/Lore/Crystal Jellies]] and navigate ecosystem politics  
 **Complication**: Thefts are disrupting crystal growth cycles  
 **Resolution**: Confrontation in crystal nursery with protective guardians nearby
 
 ### The Lost Oracle
 **Level**: 9-14  
-**Problem**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Oracle Thessaly]] has vanished into the deepest chambers  
+**Problem**: [[02_Worldbuilding/Lore/Deep Oracle Thessaly]] has vanished into the deepest chambers  
 **Search**: Venture into unexplored parts of cave system  
 **Discovery**: Oracle is communing with something ancient and possibly dangerous  
 **Choice**: Interrupt communion (risking Oracle's life) or wait (risking unknown consequences)  
@@ -376,7 +376,7 @@ Luminous Hollow represents one of [[vault_backup_20250813_073007/02_Worldbuildin
 
 ### The Memory Storm
 **Level**: 6-10  
-**Event**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Echo Polyps]] throughout Hollow activate simultaneously  
+**Event**: [[02_Worldbuilding/Lore/Echo Polyps]] throughout Hollow activate simultaneously  
 **Effect**: Everyone experiences chaotic flood of historical memories  
 **Mystery**: Someone or something is deliberately triggering the polyps  
 **Investigation**: Sort through memory chaos to find pattern and culprit  
@@ -392,25 +392,25 @@ Luminous Hollow represents one of [[vault_backup_20250813_073007/02_Worldbuildin
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Void Touched Depths]]
+### [[02_Worldbuilding/Places/The Void Touched Depths]]
 **Proximity**: Dangerous connection through sealed chambers  
 **Influence**: Constant threat of corruption seeping into Hollow  
-**Monitoring**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Light Gardeners]] maintain barriers against void influence  
+**Monitoring**: [[02_Worldbuilding/Lore/Light Gardeners]] maintain barriers against void influence  
 **Research**: Scientists study connection to understand void nature
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+### [[02_Worldbuilding/Places/Abyssos Prime]]
 **Distance**: Several days' journey for experienced deep swimmers  
 **Pilgrimages**: Regular organized expeditions bring visitors to Hollow  
 **Medical**: Official treatment center for bioluminescence disorders  
-**Politics**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] maintains protective oversight
+**Politics**: [[02_Worldbuilding/Places/Parliament of Echoes]] maintains protective oversight
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]
+### [[02_Worldbuilding/Places/The Memory Meadows]]
 **Similarity**: Both locations involve stored memories and experiences  
 **Exchange**: Some researchers work at both locations  
 **Comparison**: Hollow's memories are more emotional/spiritual, Meadows more factual  
 **Theory**: Possible deep connection between memory systems
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Whisper Island]]
+### [[02_Worldbuilding/Places/Whisper Island]]
 **Parallel**: Both serve as bridges between different states of consciousness  
 **Exchange**: Some pilgrims visit both locations seeking complete understanding  
 **Mystery**: Similar temporal and consciousness-altering effects  
@@ -419,10 +419,10 @@ Luminous Hollow represents one of [[vault_backup_20250813_073007/02_Worldbuildin
 ## Secrets and Hidden Knowledge
 
 > [!secret] DM Secret - The Planet's Heart
-> Luminous Hollow is actually connected to the planet's core through the deepest Memory Wells. The bioluminescence throughout the cave system is the planet's own life force made visible. Deep Oracle Thessaly knows this and is slowly learning to communicate with the planetary consciousness itself. This could have massive implications for both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+> Luminous Hollow is actually connected to the planet's core through the deepest Memory Wells. The bioluminescence throughout the cave system is the planet's own life force made visible. Deep Oracle Thessaly knows this and is slowly learning to communicate with the planetary consciousness itself. This could have massive implications for both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]].
 
 > [!secret] DM Secret - The Original Dwellers
-> The Hollow was originally inhabited by a pre-Drowning civilization that learned to live in harmony with bioluminescent life. They didn't die in the Great Drowning but transformed into something beyond normal sapience. The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Light Gardeners]] are their distant descendants, and some of the deepest chambers still contain their transformed presence.
+> The Hollow was originally inhabited by a pre-Drowning civilization that learned to live in harmony with bioluminescent life. They didn't die in the Great Drowning but transformed into something beyond normal sapience. The [[02_Worldbuilding/Lore/Light Gardeners]] are their distant descendants, and some of the deepest chambers still contain their transformed presence.
 
 > [!secret] DM Secret - The Light Weapon
 > The combined bioluminescent power of the entire Hollow could be weaponized into a beam of pure life energy capable of healing massive areas or destroying void corruption on continental scale. The Oracle knows this but considers it too dangerous to use except in final extremity. The knowledge is hidden in the deepest prophetic writings.
@@ -430,27 +430,27 @@ Luminous Hollow represents one of [[vault_backup_20250813_073007/02_Worldbuildin
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Void Touched Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- [[02_Worldbuilding/Places/The Void Touched Depths]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/The Memory Meadows]]
+- [[02_Worldbuilding/Places/Aquabyssos]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Oracle Thessaly]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Brother Marcus the Deepgrown]]
+- [[02_Worldbuilding/Lore/Deep Oracle Thessaly]]
+- [[02_Worldbuilding/Lore/Brother Marcus the Deepgrown]]
 - [[Dr. Marina Biolume]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lumina Crystals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Adaptation Points]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bioluminescence]]
+- [[02_Worldbuilding/Lore/Lumina Crystals]]
+- [[02_Worldbuilding/Places/The Great Drowning]]
+- [[02_Worldbuilding/Lore/Depth Adaptation Points]]
+- [[02_Worldbuilding/Lore/Bioluminescence]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
 
 ## Player-Facing Summary
 
@@ -472,8 +472,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Luminous Hollow]]
+- [[02_Worldbuilding/Places/Luminous Hollow]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Whisper Island]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Whisper Island]]

@@ -1,29 +1,26 @@
 ---
+type: Lore
+status: complete
+tags:
+- active merger possibility
+- active-merger-possibility
+- aethermoor
+- aquabyssos
+- both
+- campaign-guide
+- connections
+- lore
+- worldbuilding
+world_type: Parallel Realms
+connection_type: Dimensional Convergence
+created: '2025-08-07'
+updated: '2025-08-13T01:18:34.791034+00:00'
 aliases:
 - World Connection Guide
 - Realm Merger Guide
 - Aquabyssos-Aethermoor Bridge
-connection_type: Dimensional Convergence
-created: '2025-08-07'
-status: complete
-tags:
-- both
-- campaign/arc
-- complete
-- connections
-- content/lore
-- lore
-- status/in-progress
-- world/aethermoor
-- world/aquabyssos
-- world/both
-- worldbuilding
-type: Lore
-updated: '2025-08-13T12:34:28.921682+00:00'
 world: Both
-world_type: Parallel Realms
 ---
-
 
 
 
@@ -286,7 +283,7 @@ Each bloodline carries keys to merger or separation:
 **Depth Branch**: The Scattered Emperor's original form
 **Bloodline Gift**: Natural resistance to possession
 **Curse**: Shadows act independently after puberty
-**Key NPCs**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Princess Celestia]], [[02_Worldbuilding/People/The Scattered Emperor]]
+**Key NPCs**: [[Queen Seraphina]], [[Princess Celestia]], [[02_Worldbuilding/People/The Scattered Emperor]]
 
 #### House Shadowthorn-Voidheart
 **Surface Branch**: Crimson Hand leadership
@@ -321,7 +318,7 @@ Each bloodline carries keys to merger or separation:
 **Depth Branch**: Light-in-darkness cultivators
 **Bloodline Gift**: Can create light underwater/darkness on surface
 **Curse**: Paired with someone from other world
-**Key NPCs**: [[02_Worldbuilding/People/Captain Lyanna Brightshield]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dawn-Echo Sentinel]]
+**Key NPCs**: [[02_Worldbuilding/People/Captain Lyanna Brightshield]], [[02_Worldbuilding/Lore/Dawn-Echo Sentinel]]
 
 ### Bloodline Awakening Mechanics
 
@@ -739,8 +736,8 @@ The merger isn't just about two worlds colliding—it's about what it means to b
 - [[03_Mechanics/Crystal Plague Progression]]
 - [[03_Mechanics/Shadow Separation Mechanics]]
 - [[02_Worldbuilding/Places/The Seven Shards Mystery]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Lore]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Planning Guide]]
+- [[02_Worldbuilding/Lore/Deep Mother Lore]]
+- [[Session Planning Guide]]
 
 ## Player-Facing Summary
 
@@ -764,12 +761,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dawn-Echo Sentinel]]
+- [[02_Worldbuilding/Lore/Dawn-Echo Sentinel]]
 - [[02_Worldbuilding/People/Brother Marcus Steelbane]]
 - [[Jasper Three-Eyes Flint]]
 - [[02_Worldbuilding/People/Lord Aurelius Goldwave]]

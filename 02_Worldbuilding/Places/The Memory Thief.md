@@ -140,8 +140,8 @@ The Memory Thief serves as both a recurring antagonist and a source of mystery i
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/Places/The Phosphor Markets]]
 
 
 ## History
@@ -189,7 +189,7 @@ Legends speak of The Memory Thief as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Thief]]
+- [[02_Worldbuilding/Places/The Memory Thief]]
 
 <!-- enriched: true -->
 nriched: true -->

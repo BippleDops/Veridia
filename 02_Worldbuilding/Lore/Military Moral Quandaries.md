@@ -400,13 +400,13 @@ Military planning assault on cult stronghold in abandoned cathedral:
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ethical Dilemmas in Shadow Times]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Medical Ethics in Plague Crisis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Economic Justice Debates]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Political Compromise Costs]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption Timeline]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Deepwatch Guard]]
+- [[02_Worldbuilding/Lore/Ethical Dilemmas in Shadow Times]]
+- [[02_Worldbuilding/Lore/Medical Ethics in Plague Crisis]]
+- [[02_Worldbuilding/Lore/Economic Justice Debates]]
+- [[02_Worldbuilding/Lore/Political Compromise Costs]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+- [[02_Worldbuilding/Lore/Shadow Corruption Timeline]]
+- [[02_Worldbuilding/Groups/The Deepwatch Guard]]
 
 ## Adventure Hooks
 

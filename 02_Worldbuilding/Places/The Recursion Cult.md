@@ -17,11 +17,11 @@ location_type: Temporal Cult Compound
 notable_npcs:
 - '[[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The Recursion
   Oracle]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Paradox Engineer Zeno]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Loop-Walker Celia]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Temporal Archivist Chronos]]'
+- '[[02_Worldbuilding/Places/Paradox Engineer Zeno]]'
+- '[[02_Worldbuilding/Places/Loop-Walker Celia]]'
+- '[[02_Worldbuilding/Places/Temporal Archivist Chronos]]'
 obsidianUIMode: preview
-parent_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]'
+parent_location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
 population: 200
 pressure_effects: Severe
 ruler: '[[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The
@@ -75,7 +75,7 @@ world: Both
 
 ## Overview
 
-The Recursion Cult Complex exists as both the most dangerous and most fascinating temporal anomaly within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]. Built around a naturally occurring temporal distortion field that predates [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]], this sprawling compound serves as home to the Recursion Cult—a group of obsessed scholars, madmen, and temporal theorists who believe that reality is nothing more than an endless loop that can be manipulated, escaped, or perfected.
+The Recursion Cult Complex exists as both the most dangerous and most fascinating temporal anomaly within [[02_Worldbuilding/Places/Abyssos Prime]]. Built around a naturally occurring temporal distortion field that predates [[02_Worldbuilding/Places/The Great Drowning]], this sprawling compound serves as home to the Recursion Cult—a group of obsessed scholars, madmen, and temporal theorists who believe that reality is nothing more than an endless loop that can be manipulated, escaped, or perfected.
 
 The complex itself defies conventional architecture. Corridors loop back on themselves, rooms exist in multiple time periods simultaneously, and visitors might find themselves having conversations with past or future versions of themselves. The cult members have adapted to this environment in ways that make them barely recognizable as their original species—some age backward, others exist in temporal fragments, and a few have achieved a form of immortality by spreading their consciousness across multiple timeline iterations.
 
@@ -89,10 +89,10 @@ The complex itself defies conventional architecture. Corridors loop back on them
 ## History & Origins
 
 ### The First Recursion
-The site was discovered three years after The Great Drowning by a team of [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Crystal Wardens]] investigating temporal anomalies. The lead investigator, Dr. Zeno Temporis, became trapped in a time loop and emerged seven subjective years later with complete knowledge of temporal mechanics and an obsession with "perfecting the recursion."
+The site was discovered three years after The Great Drowning by a team of [[02_Worldbuilding/Groups/Crystal Wardens]] investigating temporal anomalies. The lead investigator, Dr. Zeno Temporis, became trapped in a time loop and emerged seven subjective years later with complete knowledge of temporal mechanics and an obsession with "perfecting the recursion."
 
 ### The Founding Vision
-Dr. Temporis, now calling himself [[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The Recursion Oracle]], established the cult around a central belief: that [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] was not a singular catastrophic event, but rather the first iteration of an infinite loop. By understanding and controlling this loop, they believe they can either prevent the drowning entirely or create a perfect timeline where it never happened.
+Dr. Temporis, now calling himself [[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The Recursion Oracle]], established the cult around a central belief: that [[02_Worldbuilding/Places/The Great Drowning]] was not a singular catastrophic event, but rather the first iteration of an infinite loop. By understanding and controlling this loop, they believe they can either prevent the drowning entirely or create a perfect timeline where it never happened.
 
 ### The Great Schism
 The cult has undergone several schisms, with different factions believing in different approaches to temporal manipulation. These divisions exist literally—the complex has separate wings for each faction, existing in slightly different timestreams to prevent direct conflict.
@@ -109,7 +109,7 @@ The heart of the complex, where the original temporal anomaly is strongest. This
 - The Causality Nexus (center point of all loops)
 
 ### Memory Loop Gardens
-Cultivated spaces where [[vault_backup_20250813_073007/02_Worldbuilding/Items/Memory Pearls]] are arranged in patterns that create temporal loops. Walking through these gardens allows visitors to experience memories repeatedly, often with slight variations that reveal hidden truths or alternative possibilities.
+Cultivated spaces where [[02_Worldbuilding/Items/Memory Pearls]] are arranged in patterns that create temporal loops. Walking through these gardens allows visitors to experience memories repeatedly, often with slight variations that reveal hidden truths or alternative possibilities.
 
 **Garden Types:**
 - **The Regret Spirals:** Loops of mistakes and missed opportunities
@@ -121,7 +121,7 @@ Cultivated spaces where [[vault_backup_20250813_073007/02_Worldbuilding/Items/Me
 Small chambers designed to create controlled temporal paradoxes. Cult members use these for advanced meditation, experiencing existence as both observer and observed, cause and effect, beginning and end simultaneously.
 
 ### The Causality Engine
-A massive construct built from crystallized time, [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Gems]], and fragments of [[vault_backup_20250813_073007/02_Worldbuilding/Items/The Tidal Shard of Memory]]. This device amplifies and focuses temporal energy, allowing the cult to create stable time loops and manipulate local causality.
+A massive construct built from crystallized time, [[02_Worldbuilding/Places/Pressure Gems]], and fragments of [[02_Worldbuilding/Items/The Tidal Shard of Memory]]. This device amplifies and focuses temporal energy, allowing the cult to create stable time loops and manipulate local causality.
 
 **Engine Components:**
 - Temporal resonance crystals
@@ -131,7 +131,7 @@ A massive construct built from crystallized time, [[vault_backup_20250813_073007
 - Reality anchor points
 
 ### Temporal Observation Deck
-An elevated platform where cult members can observe multiple timelines simultaneously. The deck provides views into past, present, and potential future versions of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]], serving as both surveillance post and prophetic oracle.
+An elevated platform where cult members can observe multiple timelines simultaneously. The deck provides views into past, present, and potential future versions of [[02_Worldbuilding/Places/Abyssos Prime]], serving as both surveillance post and prophetic oracle.
 
 ## Cult Structure & Beliefs
 
@@ -187,13 +187,13 @@ Technical specialists who focus on building and maintaining the cult's temporal 
 ## Current Experiments & Activities
 
 ### The Perfect Loop Project
-The cult's primary endeavor involves creating a "perfect" timeline loop where [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] occurs exactly as intended, with no variables or chaos. They believe this will grant them control over all subsequent events.
+The cult's primary endeavor involves creating a "perfect" timeline loop where [[02_Worldbuilding/Places/The Great Drowning]] occurs exactly as intended, with no variables or chaos. They believe this will grant them control over all subsequent events.
 
 ### Memory Recursion Therapy
 Using controlled time loops, cult members offer to help people relive and "perfect" traumatic memories. This therapy has a high success rate but often results in patients becoming trapped in temporal loops themselves.
 
 ### The Prophecy Engine
-Combining their temporal viewing capabilities with [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]] technology, the cult is building a device to predict all possible futures and select the optimal timeline.
+Combining their temporal viewing capabilities with [[02_Worldbuilding/Places/The Memory Meadows]] technology, the cult is building a device to predict all possible futures and select the optimal timeline.
 
 ### Temporal Recruitment
 The cult actively recruits by targeting people experiencing temporal anomalies, offering them answers and control in exchange for joining their research.
@@ -218,19 +218,19 @@ Strange entities that exist only within temporal loops, feeding on causal energy
 ## Connected Locations
 
 ### Direct Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]:** Temporal echo experiments
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]:** Political temporal manipulation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Memory-time interaction studies
+- **[[02_Worldbuilding/Places/The Memory Meadows]]:** Temporal echo experiments
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]:** Political temporal manipulation
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Memory-time interaction studies
 
 ### Allied Locations
 - **[[02_Worldbuilding/Places/Reflection Pools|02 Worldbuilding/Places/Reflection Pools]]:** Identity manipulation research
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Temporal Anomaly Zones]]:** Natural temporal phenomenon study sites
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]:** Temporal crystal harvesting
+- **[[02_Worldbuilding/Places/Temporal Anomaly Zones]]:** Natural temporal phenomenon study sites
+- **[[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]:** Temporal crystal harvesting
 
 ### Hostile Territories
 - **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Opposes temporal manipulation of the dead
 - **[[02_Worldbuilding/Groups/The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]]:** Competes for temporal resources
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Reality Stabilization Centers]]:** Actively works to counter cult activities
+- **[[02_Worldbuilding/Places/Reality Stabilization Centers]]:** Actively works to counter cult activities
 
 ## Notable NPCs
 
@@ -241,38 +241,38 @@ Strange entities that exist only within temporal loops, feeding on causal energy
 - Can manipulate causal relationships
 - May be slowly losing grip on linear reality
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Paradox Engineer Zeno]]** - Chief technician
+**[[02_Worldbuilding/Places/Paradox Engineer Zeno]]** - Chief technician
 - Maintains the Causality Engine
 - Has mechanical implants that exist in multiple timeframes
 - Experiences time at variable rates
 - Secretly building an escape device
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Loop-Walker Celia]]** - Temporal scout
+**[[02_Worldbuilding/Places/Loop-Walker Celia]]** - Temporal scout
 - Can navigate between different timeline iterations
 - Serves as messenger between faction wings
 - Ages backward during full moons
 - Remembers events that haven't happened yet
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Temporal Archivist Chronos]]** - Keeper of temporal records
+**[[02_Worldbuilding/Places/Temporal Archivist Chronos]]** - Keeper of temporal records
 - Maintains logs of all timeline variations
 - Has perfect memory across all recursions
 - Appears as different ages depending on viewer's position in time
 - May be the oldest being in the complex
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Echo-Theorist Maya]]** - Research specialist
+**[[02_Worldbuilding/Places/Echo-Theorist Maya]]** - Research specialist
 - Studies the relationship between memory and time
 - Can implant artificial memories that create temporal echoes
 - Exists primarily as temporal equations made manifest
 - Communicates through mathematical proofs
 
 ### Temporal Entities
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Iteration Collective]]** - Group consciousness
+**[[02_Worldbuilding/Places/The Iteration Collective]]** - Group consciousness
 - Merged minds of multiple timeline versions of the same person
 - Serves as living database of temporal variations
 - Can predict outcomes based on recursive analysis
 - Increasingly hostile to linear-time entities
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Causality Shadow]]** - Temporal parasite
+**[[02_Worldbuilding/Places/Causality Shadow]]** - Temporal parasite
 - Feeds on causal energy and paradoxes
 - Grows stronger with each loop iteration
 - Can manipulate cause and effect relationships
@@ -298,7 +298,7 @@ Observations from the Temporal Observation Deck show that in every timeline wher
 ## Adventure Hooks
 
 ### Investigation
-1. **The Missing Investigation Team:** A group of [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Crystal Wardens]] entered the complex three days ago and haven't returned. Players must navigate the temporal maze to find them, but discover they've been trapped in a loop for subjective years.
+1. **The Missing Investigation Team:** A group of [[02_Worldbuilding/Groups/Crystal Wardens]] entered the complex three days ago and haven't returned. Players must navigate the temporal maze to find them, but discover they've been trapped in a loop for subjective years.
 
 2. **The Temporal Murders:** Someone is killing cult members across multiple timelines simultaneously. Players must solve a murder mystery that spans past, present, and future to identify a killer who exists outside normal causality.
 
@@ -408,10 +408,10 @@ Observations from the Temporal Observation Deck show that in every timeline wher
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Secret Vault Beneath Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten One]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vote Vaults]]
+- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[02_Worldbuilding/Places/The Forgotten One]]
+- [[02_Worldbuilding/Places/The Shadow Markets]]
+- [[02_Worldbuilding/Places/Vote Vaults]]
 
 ## Player-Facing Summary
 
@@ -427,8 +427,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Recursion Cult]]
+- [[02_Worldbuilding/Places/The Recursion Cult]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Memory Pearls]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Items/Memory Pearls]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]

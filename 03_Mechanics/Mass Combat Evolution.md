@@ -29,7 +29,7 @@ Expands mass combat with underwater armies, aerial fleets, parasite swarms, crys
 - Resonance Warfare: Frequency dominance phases
 - Reality Siege: Anchor breaker engines; merger storms as weapons
 
-Hooks: [[vault_backup_20250813_073007/03_Mechanics/Complete Faction Warfare System]], [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]], [[Vehicle_Core_Rules|Vehicle Core Rules]].
+Hooks: [[03_Mechanics/Complete Faction Warfare System]], [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]], [[Vehicle_Core_Rules|Vehicle Core Rules]].
 
 ## Player-Facing Summary
 

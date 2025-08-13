@@ -49,7 +49,7 @@ world: Aquabyssos
 
 ## Overview
 
-Envoy Blackwater Jr. represents the next generation of the prestigious Blackwater diplomatic dynasty, carrying forward a family legacy of political excellence while bringing his own innovative approaches to inter-realm negotiations. As Senior Diplomatic Envoy for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], he serves as one of the realm's most trusted representatives in complex political situations, specializing in delicate negotiations between different factions and worlds.
+Envoy Blackwater Jr. represents the next generation of the prestigious Blackwater diplomatic dynasty, carrying forward a family legacy of political excellence while bringing his own innovative approaches to inter-realm negotiations. As Senior Diplomatic Envoy for [[02_Worldbuilding/Places/Aquabyssos]], he serves as one of the realm's most trusted representatives in complex political situations, specializing in delicate negotiations between different factions and worlds.
 
 Unlike his father's more traditional approach to diplomacy, Blackwater Jr. combines classical diplomatic training with modern understanding of multi-realm politics, making him particularly effective at bridging generational and cultural divides. His reputation for fairness and creative problem-solving has made him a sought-after mediator for disputes that others consider unsolvable.
 
@@ -97,7 +97,7 @@ Unlike his father's more traditional approach to diplomacy, Blackwater Jr. combi
 
 ### Noble Heritage
 
-Born into the prestigious Blackwater family, young Blackwater grew up surrounded by the intricacies of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] politics and inter-realm diplomacy. His father, Envoy Blackwater Sr., served as one of the realm's most respected diplomatic voices for over three decades, establishing a family reputation for integrity and effectiveness in complex negotiations.
+Born into the prestigious Blackwater family, young Blackwater grew up surrounded by the intricacies of [[02_Worldbuilding/Places/Aquabyssos]] politics and inter-realm diplomacy. His father, Envoy Blackwater Sr., served as one of the realm's most respected diplomatic voices for over three decades, establishing a family reputation for integrity and effectiveness in complex negotiations.
 
 From an early age, Blackwater Jr. demonstrated exceptional aptitude for languages, cultural understanding, and the subtle arts of persuasion. Unlike many noble children who might take their privileges for granted, he showed genuine interest in understanding the perspectives of all social classes and political factions, often spending time with servants, craftsmen, and common citizens to broaden his worldview.
 
@@ -105,7 +105,7 @@ His formal education included intensive training in history, law, economics, and
 
 ### Early Career Challenges
 
-Blackwater Jr.'s early diplomatic career was marked by both successes and learning experiences that shaped his mature approach to negotiation. His first major assignment involved mediating a trade dispute between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] merchant guilds and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] crystal traders, where his fresh perspective helped identify solutions that older diplomats had overlooked.
+Blackwater Jr.'s early diplomatic career was marked by both successes and learning experiences that shaped his mature approach to negotiation. His first major assignment involved mediating a trade dispute between [[02_Worldbuilding/Places/Aquabyssos]] merchant guilds and [[02_Worldbuilding/Places/Aethermoor]] crystal traders, where his fresh perspective helped identify solutions that older diplomats had overlooked.
 
 However, his inexperience also led to some early missteps, including a cultural misunderstanding during negotiations with deep-sea nomad tribes that nearly resulted in a diplomatic incident. These experiences taught him the importance of thorough cultural research and the value of admitting uncertainty rather than pretending knowledge he didn't possess.
 
@@ -113,37 +113,37 @@ Through these early challenges, Blackwater Jr. developed his signature approach 
 
 ### Rise to Prominence
 
-Blackwater Jr.'s reputation was established during the complex negotiations surrounding the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Treaty of the Depths]], where his innovative approach to multi-party mediation helped resolve seemingly intractable disputes between various underwater factions. His ability to find common ground while respecting fundamental differences impressed both allies and former adversaries.
+Blackwater Jr.'s reputation was established during the complex negotiations surrounding the [[02_Worldbuilding/Places/Treaty of the Depths]], where his innovative approach to multi-party mediation helped resolve seemingly intractable disputes between various underwater factions. His ability to find common ground while respecting fundamental differences impressed both allies and former adversaries.
 
-His success in these high-profile negotiations led to his appointment as Senior Diplomatic Envoy, a position that makes him one of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s primary diplomatic representatives for major inter-realm negotiations and crisis mediation.
+His success in these high-profile negotiations led to his appointment as Senior Diplomatic Envoy, a position that makes him one of [[02_Worldbuilding/Places/Aquabyssos]]'s primary diplomatic representatives for major inter-realm negotiations and crisis mediation.
 
-Subsequent diplomatic successes have solidified his reputation as someone who can find solutions when traditional approaches have failed, making him particularly valuable for addressing the complex political challenges facing both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] during current crisis periods.
+Subsequent diplomatic successes have solidified his reputation as someone who can find solutions when traditional approaches have failed, making him particularly valuable for addressing the complex political challenges facing both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] during current crisis periods.
 
 ## Current Role and Responsibilities
 
 ### Senior Diplomatic Envoy
 
-As Senior Diplomatic Envoy, Blackwater Jr. serves as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s primary representative for high-level negotiations with other realms, factions, and political entities. His responsibilities include managing ongoing diplomatic relationships, negotiating new agreements, and serving as a mediator when conflicts arise between different groups.
+As Senior Diplomatic Envoy, Blackwater Jr. serves as [[02_Worldbuilding/Places/Aquabyssos]]'s primary representative for high-level negotiations with other realms, factions, and political entities. His responsibilities include managing ongoing diplomatic relationships, negotiating new agreements, and serving as a mediator when conflicts arise between different groups.
 
 His position requires him to stay informed about political developments throughout the region while maintaining relationships with key figures in various governments, organizations, and informal power structures. This networking role is crucial for early identification of potential conflicts and opportunities for beneficial cooperation.
 
-Blackwater Jr. also serves as an advisor to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] leadership on matters involving inter-realm politics, helping to shape policy decisions that will affect diplomatic relationships. His insights are particularly valued for their combination of political acumen and cultural sensitivity.
+Blackwater Jr. also serves as an advisor to [[02_Worldbuilding/Places/Aquabyssos]] leadership on matters involving inter-realm politics, helping to shape policy decisions that will affect diplomatic relationships. His insights are particularly valued for their combination of political acumen and cultural sensitivity.
 
 ### Crisis Mediation Specialist
 
-During the current period of regional instability, Blackwater Jr. has taken on additional responsibilities as a crisis mediator, helping to manage conflicts that arise from the various magical and political upheavals affecting both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]].
+During the current period of regional instability, Blackwater Jr. has taken on additional responsibilities as a crisis mediator, helping to manage conflicts that arise from the various magical and political upheavals affecting both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]].
 
 His approach to crisis mediation emphasizes rapid response, cultural sensitivity, and creative problem-solving, often finding solutions that address underlying concerns rather than just immediate symptoms of conflict. This approach has proven particularly effective for managing tensions between groups with very different cultural backgrounds and priorities.
 
-Blackwater Jr.'s reputation for fairness and effectiveness has made him a trusted figure for groups that might otherwise be suspicious of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] government intervention, allowing him to serve as a bridge between official government positions and various independent factions.
+Blackwater Jr.'s reputation for fairness and effectiveness has made him a trusted figure for groups that might otherwise be suspicious of [[02_Worldbuilding/Places/Aquabyssos]] government intervention, allowing him to serve as a bridge between official government positions and various independent factions.
 
 ### Inter-Realm Coordination
 
-A significant portion of Blackwater Jr.'s current work involves coordinating between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] on matters of mutual concern, particularly regarding the various magical and political threats affecting both realms. His understanding of both underwater and surface political dynamics makes him uniquely qualified for this challenging role.
+A significant portion of Blackwater Jr.'s current work involves coordinating between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] on matters of mutual concern, particularly regarding the various magical and political threats affecting both realms. His understanding of both underwater and surface political dynamics makes him uniquely qualified for this challenging role.
 
-He works closely with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]] to ensure that diplomatic initiatives support broader strategic objectives while respecting the autonomy and distinct interests of each realm. This balancing act requires constant attention to shifting political dynamics and careful management of competing priorities.
+He works closely with the [[02_Worldbuilding/Lore/United Councils of Both Worlds]] to ensure that diplomatic initiatives support broader strategic objectives while respecting the autonomy and distinct interests of each realm. This balancing act requires constant attention to shifting political dynamics and careful management of competing priorities.
 
-Blackwater Jr. also maintains relationships with external allies, including the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdom Fleet]], ensuring that outside assistance is coordinated effectively with local diplomatic efforts and long-term political objectives.
+Blackwater Jr. also maintains relationships with external allies, including the [[02_Worldbuilding/Lore/Eastern Kingdom Fleet]], ensuring that outside assistance is coordinated effectively with local diplomatic efforts and long-term political objectives.
 
 ## Personality and Motivations
 
@@ -175,7 +175,7 @@ Blackwater Jr.'s romantic relationships have been complicated by his public role
 
 ### The Shadow Correspondence
 
-Blackwater Jr. maintains a secret network of informal communications with moderate leaders in various factions, including some groups that are officially hostile to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. These back-channel communications allow for preliminary negotiations and conflict prevention that wouldn't be possible through formal diplomatic channels.
+Blackwater Jr. maintains a secret network of informal communications with moderate leaders in various factions, including some groups that are officially hostile to [[02_Worldbuilding/Places/Aquabyssos]]. These back-channel communications allow for preliminary negotiations and conflict prevention that wouldn't be possible through formal diplomatic channels.
 
 While this network has prevented several potential conflicts, it also creates political risks if the communications were discovered by hardliners in any faction. Blackwater Jr. carefully manages these relationships to maintain plausible deniability while keeping communication lines open for crisis situations.
 
@@ -187,11 +187,11 @@ Despite his public confidence, Blackwater Jr. privately struggles with concerns 
 
 These concerns occasionally influence his decision-making, leading him to take on challenging assignments that might better be handled by more experienced diplomats, as he seeks to prove his worthiness of the family name and position.
 
-Blackwater Jr. has confided these concerns only to his closest personal advisor, [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Mindwell]], who helps him maintain perspective on his achievements and areas for continued growth.
+Blackwater Jr. has confided these concerns only to his closest personal advisor, [[02_Worldbuilding/Places/Keeper Elara Mindwell]], who helps him maintain perspective on his achievements and areas for continued growth.
 
 ### Political Reform Vision
 
-Blackwater Jr. privately believes that [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s political system needs significant reform to address growing social and economic inequalities that could threaten long-term stability. However, his public position prevents him from openly advocating for changes that might be seen as criticism of current leadership.
+Blackwater Jr. privately believes that [[02_Worldbuilding/Places/Aquabyssos]]'s political system needs significant reform to address growing social and economic inequalities that could threaten long-term stability. However, his public position prevents him from openly advocating for changes that might be seen as criticism of current leadership.
 
 He uses his diplomatic missions and cultural exchange programs to quietly study alternative governmental approaches and social policies, gathering information that might eventually support gradual reform initiatives if political circumstances allow.
 
@@ -203,25 +203,25 @@ This long-term vision influences his approach to current negotiations, as he see
 
 **Envoy Blackwater Sr.** - Father and diplomatic mentor, whose legendary career provides both inspiration and pressure for his son's development. Their relationship combines professional respect with genuine personal affection, though they sometimes disagree on diplomatic tactics.
 
-**Lady Catherine Blackwater** - Mother and influential social figure, who provides valuable insights into [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] social dynamics and cultural trends. Her extensive network of personal relationships complements her son's formal political connections.
+**Lady Catherine Blackwater** - Mother and influential social figure, who provides valuable insights into [[02_Worldbuilding/Places/Aquabyssos]] social dynamics and cultural trends. Her extensive network of personal relationships complements her son's formal political connections.
 
-**Cousin Marcus Blackwater** - Military officer serving in the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] Defense Forces, whose perspectives on security matters inform Blackwater Jr.'s understanding of how diplomatic decisions affect military planning and operational effectiveness.
+**Cousin Marcus Blackwater** - Military officer serving in the [[02_Worldbuilding/Places/Aquabyssos]] Defense Forces, whose perspectives on security matters inform Blackwater Jr.'s understanding of how diplomatic decisions affect military planning and operational effectiveness.
 
 ### Professional Allies
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Mindwell]]** - Personal advisor and confidante, whose expertise in cultural analysis and psychological insights helps Blackwater Jr. understand the deeper motivations behind political positions taken by various negotiating partners.
+**[[02_Worldbuilding/Places/Keeper Elara Mindwell]]** - Personal advisor and confidante, whose expertise in cultural analysis and psychological insights helps Blackwater Jr. understand the deeper motivations behind political positions taken by various negotiating partners.
 
-**Ambassador [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Diplomat Nerida]]** - Senior colleague specializing in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] relations, with whom Blackwater Jr. coordinates on inter-realm diplomatic initiatives and shares intelligence about surface political developments.
+**Ambassador [[02_Worldbuilding/Lore/Tidal Diplomat Nerida]]** - Senior colleague specializing in [[02_Worldbuilding/Places/Aethermoor]] relations, with whom Blackwater Jr. coordinates on inter-realm diplomatic initiatives and shares intelligence about surface political developments.
 
-**Captain [[vault_backup_20250813_073007/02_Worldbuilding/Places/Maritime Security Chief Reef]]** - Military liaison who provides security assessments and logistical support for diplomatic missions, ensuring that negotiations can proceed safely even in unstable political environments.
+**Captain [[02_Worldbuilding/Places/Maritime Security Chief Reef]]** - Military liaison who provides security assessments and logistical support for diplomatic missions, ensuring that negotiations can proceed safely even in unstable political environments.
 
 ### Political Contacts
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Council Speaker Tide]]** - Senior political leader whose support is crucial for implementing diplomatic agreements, requiring careful management of their relationship to maintain backing for negotiated settlements.
+**[[02_Worldbuilding/Lore/Council Speaker Tide]]** - Senior political leader whose support is crucial for implementing diplomatic agreements, requiring careful management of their relationship to maintain backing for negotiated settlements.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Faction Representative]]** - Unofficial contact within opposition political groups, providing insights into alternative political perspectives and serving as communication channel for informal negotiations.
+**[[02_Worldbuilding/Lore/Shadow Faction Representative]]** - Unofficial contact within opposition political groups, providing insights into alternative political perspectives and serving as communication channel for informal negotiations.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Eastern Kingdom Fleet Admiral]]** - Key contact for coordinating with external allies, ensuring that diplomatic initiatives align with broader strategic cooperation and military support arrangements.
+**[[02_Worldbuilding/People/Eastern Kingdom Fleet Admiral]]** - Key contact for coordinating with external allies, ensuring that diplomatic initiatives align with broader strategic cooperation and military support arrangements.
 
 ## Quest Hooks and Adventure Opportunities
 
@@ -252,7 +252,7 @@ Blackwater Jr. requests the party's assistance in complex negotiations involving
 **Level**: 4-7  
 **Type**: Cultural/Educational Mission
 
-Blackwater Jr. organizes a cultural exchange program between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and surface communities, but the party must deal with various challenges ranging from cultural misunderstandings to sabotage attempts by groups opposed to inter-realm cooperation.
+Blackwater Jr. organizes a cultural exchange program between [[02_Worldbuilding/Places/Aquabyssos]] and surface communities, but the party must deal with various challenges ranging from cultural misunderstandings to sabotage attempts by groups opposed to inter-realm cooperation.
 
 **Key NPCs**: Cultural representatives, exchange participants, opposition agents  
 **Locations**: Cultural venues, exchange program sites, community gathering places  
@@ -328,8 +328,8 @@ DMs should consider how his actions and successes might influence larger politic
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Korvin Blacktide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Mindwell]]
+- [[02_Worldbuilding/People/Korvin Blacktide]]
+- [[02_Worldbuilding/Places/Keeper Elara Mindwell]]
 
 ## Player-Facing Summary
 

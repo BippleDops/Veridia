@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Smuggler's Cove]]
+- [[02_Worldbuilding/Places/Smuggler's Cove]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Smuggler's Cove]]
+- [[02_Worldbuilding/Places/Smuggler's Cove]]
 
 ## Player-Facing Summary
 

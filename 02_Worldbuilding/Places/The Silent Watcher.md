@@ -16,10 +16,10 @@ location_type: Ancient Sentinel Complex
 notable_npcs:
 - '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The
   Silent Watcher Entity]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Echo-Scribe Matthias]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Observation Tender Clara]]'
+- '[[02_Worldbuilding/Places/Echo-Scribe Matthias]]'
+- '[[02_Worldbuilding/Places/Observation Tender Clara]]'
 obsidianUIMode: preview
-parent_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]'
+parent_location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
 population: 1
 pressure_effects: Extreme
 ruler: '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The
@@ -34,7 +34,7 @@ shadow_density: Minimal
 status: complete
 sub_locations:
 - '[[The Observation Sphere]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Recording Chambers]]'
+- '[[02_Worldbuilding/Places/Memory Recording Chambers]]'
 - '[[The Vigil Gardens]]'
 - '[[Sentinel Archive Vaults]]'
 - '[[The Watcher''s Throne]]'
@@ -73,7 +73,7 @@ world: Both
 
 ## Overview
 
-The Silent Watcher Observatory stands as one of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most mysterious and ancient installations—a massive observation complex that predates [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] by centuries, possibly millennia. Built into the deepest accessible trenches beneath [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]], this enigmatic facility houses an entity known only as The Silent Watcher, an ancient consciousness that observes and records everything that occurs within its vast range of perception.
+The Silent Watcher Observatory stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most mysterious and ancient installations—a massive observation complex that predates [[02_Worldbuilding/Places/The Great Drowning]] by centuries, possibly millennia. Built into the deepest accessible trenches beneath [[02_Worldbuilding/Places/Abyssos Prime]], this enigmatic facility houses an entity known only as The Silent Watcher, an ancient consciousness that observes and records everything that occurs within its vast range of perception.
 
 Unlike other locations in the deep world, the Silent Watcher Observatory appears to be neither fully natural nor entirely artificial. Its architecture suggests it grew rather than was built, with organic curves and surfaces that seem to pulse with their own inner life. The complex serves as both observatory and archive, maintaining detailed records of events, people, and phenomena across vast spans of time and space.
 
@@ -116,17 +116,17 @@ The Silent Watcher Observatory predates all known civilizations in the region. A
 
 ### The Great Recording
 Throughout history, the Silent Watcher has maintained detailed records of significant events, creating what may be the most comprehensive archive of historical information in existence. These records include:
-- Complete documentation of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]]
+- Complete documentation of [[02_Worldbuilding/Places/The Great Drowning]]
 - Records of pre-drowning civilizations
 - Observations of other worlds and dimensions
 - Detailed studies of individual lives and their impacts
 - Maps of temporal flows and causal relationships
 
 ### The Drowning Prophecy
-Evidence suggests the Silent Watcher predicted [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] centuries before it occurred, but chose not to intervene, believing that observation without interference was its highest duty.
+Evidence suggests the Silent Watcher predicted [[02_Worldbuilding/Places/The Great Drowning]] centuries before it occurred, but chose not to intervene, believing that observation without interference was its highest duty.
 
 ### Modern Relevance
-Since the establishment of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]], the Silent Watcher has become an invaluable resource for understanding current events, predicting threats, and accessing lost historical information.
+Since the establishment of [[02_Worldbuilding/Places/Abyssos Prime]], the Silent Watcher has become an invaluable resource for understanding current events, predicting threats, and accessing lost historical information.
 
 ## Architecture & Layout
 
@@ -141,7 +141,7 @@ The heart of the complex—a perfect sphere carved from living crystal that serv
 - Emergency containment systems (purpose unknown)
 
 ### Memory Recording Chambers
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Recording Chambers]]**
+**[[02_Worldbuilding/Places/Memory Recording Chambers]]**
 Vast halls filled with crystalline storage devices that contain the Watcher's observations. Each crystal holds thousands of years of recorded events, accessible through careful attunement to the Watcher's consciousness.
 
 **Archive Categories:**
@@ -165,26 +165,26 @@ A massive throne-like structure where the Silent Watcher occasionally manifests 
 ### Human Caretakers
 A small group of individuals who maintain the physical aspects of the observatory and serve as intermediaries between the Silent Watcher and the outside world.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Echo-Scribe Matthias]]** - Chief Recorder
+**[[02_Worldbuilding/Places/Echo-Scribe Matthias]]** - Chief Recorder
 - Translates the Watcher's whispered observations into written records
 - Has developed limited telepathic connection with the Watcher
 - Maintains the memory recording systems
 - Often experiences prophetic dreams related to the Watcher's observations
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Observation Tender Clara]]** - Facility Maintenance
+**[[02_Worldbuilding/Places/Observation Tender Clara]]** - Facility Maintenance
 - Cares for the crystal formations and viewing apparatus
 - Monitors the Vigil Gardens for changes
 - Has unusual ability to communicate with the smaller observation nodes
 - Shows signs of gradual crystalline transformation
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Archive Guardian Thomas]]** - Security and Access Control
+**[[02_Worldbuilding/Places/Archive Guardian Thomas]]** - Security and Access Control
 - Determines who may access different levels of archived information
 - Protects sensitive records from unauthorized viewing
 - Enforces the Watcher's strict protocols about information sharing
 - Rumored to be much older than he appears
 
 ### The Observers
-A loose network of individuals throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] who have been touched by the Silent Watcher's consciousness and now serve as its extended senses. They report significant events and serve as the Watcher's presence in the broader world.
+A loose network of individuals throughout [[02_Worldbuilding/Places/Aquabyssos]] who have been touched by the Silent Watcher's consciousness and now serve as its extended senses. They report significant events and serve as the Watcher's presence in the broader world.
 
 ### The Watched
 Individuals who have attracted the Silent Watcher's particular attention. Being "Watched" is both privilege and burden—the subject gains access to the Watcher's guidance but loses all privacy and autonomy.
@@ -209,10 +209,10 @@ The Watcher's perfect memory and observation capabilities make it an ultimate ar
 ## Current Observations & Concerns
 
 ### The Shadow Expansion
-The Silent Watcher has been tracking the expansion of shadow entities throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] and warns that the phenomenon represents a threat to the fundamental nature of reality.
+The Silent Watcher has been tracking the expansion of shadow entities throughout [[02_Worldbuilding/Places/Abyssos Prime]] and warns that the phenomenon represents a threat to the fundamental nature of reality.
 
 ### Temporal Instability
-Increasing temporal anomalies throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] have drawn the Watcher's attention, particularly the activities of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Recursion Cult]].
+Increasing temporal anomalies throughout [[02_Worldbuilding/Places/Aquabyssos]] have drawn the Watcher's attention, particularly the activities of [[02_Worldbuilding/Places/The Recursion Cult]].
 
 ### The Memory Crisis
 The Watcher observes that the widespread trading and manipulation of memories by [[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]] is creating dangerous instabilities in individual and collective consciousness.
@@ -229,7 +229,7 @@ The Watcher speaks of an approaching "Convergence" that will reshape the relatio
 Throughout the complex, visitors feel the constant presence of being watched and evaluated. This creates both a sense of protection and profound unease.
 
 ### Temporal Clarity
-The Watcher's presence stabilizes time, making the observatory one of the few places in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] where temporal anomalies cannot manifest.
+The Watcher's presence stabilizes time, making the observatory one of the few places in [[02_Worldbuilding/Places/Aquabyssos]] where temporal anomalies cannot manifest.
 
 ### Crystal Resonance
 The crystalline structures throughout the facility resonate with visitors' thoughts and emotions, sometimes revealing hidden aspects of their personality.
@@ -260,19 +260,19 @@ The Watcher possesses knowledge about the ultimate fate of reality itself, inclu
 ## Connected Locations
 
 ### Information Networks
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Information sharing and comparison
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Information sharing and comparison
 - **[[02_Worldbuilding/Places/Whisper-Touched William's Oracle Shrine|02 Worldbuilding/Places/Whisper Touched William's Oracle Shrine]]:** Prophetic consultation exchange
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Archives]]:** Cross-referencing historical records
+- **[[02_Worldbuilding/Lore/Aethermoor Archives]]:** Cross-referencing historical records
 
 ### Government Relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]:** Strategic intelligence provision
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]]:** Counsel to the Scattered Emperor
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Eternal Senate]]:** Historical verification services
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]:** Strategic intelligence provision
+- **[[02_Worldbuilding/Places/The Inverse Palace]]:** Counsel to the Scattered Emperor
+- **[[02_Worldbuilding/Places/The Eternal Senate]]:** Historical verification services
 
 ### Observation Points
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Observatory Network Nodes]]:** Extended viewing points throughout the deep
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Observation Posts]]:** Hidden monitoring stations in the upper world
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Temporal Viewing Chambers]]:** Specialized facilities for time-based observation
+- **[[02_Worldbuilding/Places/Observatory Network Nodes]]:** Extended viewing points throughout the deep
+- **[[02_Worldbuilding/Places/Surface Observation Posts]]:** Hidden monitoring stations in the upper world
+- **[[02_Worldbuilding/Places/Temporal Viewing Chambers]]:** Specialized facilities for time-based observation
 
 ## Adventure Hooks
 
@@ -385,11 +385,11 @@ The crystalline structures respond to mental and emotional states:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deepmind Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Secret Vault Beneath Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Market Canals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whispering Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vote Vaults]]
+- [[02_Worldbuilding/Places/Deepmind Conspiracy]]
+- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[02_Worldbuilding/Places/Shadow Market Canals]]
+- [[02_Worldbuilding/Places/The Whispering Depths]]
+- [[02_Worldbuilding/Places/Vote Vaults]]
 
 ## Player-Facing Summary
 
@@ -405,7 +405,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Silent Watcher]]
+- [[02_Worldbuilding/Places/The Silent Watcher]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]

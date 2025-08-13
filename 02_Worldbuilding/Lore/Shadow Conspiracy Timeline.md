@@ -649,17 +649,17 @@ The Shadow Conspiracy is now understood as the most successful intelligence and 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pre-Drowning Civilization Archives]]
+- [[02_Worldbuilding/Lore/Pre-Drowning Civilization Archives]]
 - [[The Catastrophe: Hour by Hour]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Post-Merge Chronology]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Plague Origins]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Parliamentary Founding]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Agent Vex Shadowmere]]
+- [[02_Worldbuilding/Lore/Post-Merge Chronology]]
+- [[02_Worldbuilding/Lore/Crystal Plague Origins]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/Parliamentary Founding]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[02_Worldbuilding/Lore/Agent Vex Shadowmere]]
 - [[Deep Speaker Marina Voidheart]]
 - [[Order of Deep Speakers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reality Anchor Network]]
+- [[02_Worldbuilding/Places/Reality Anchor Network]]
 - [[Truth and Reconciliation Depths Commission]]
 
 ## Player-Facing Summary

@@ -402,21 +402,21 @@ Characters can learn redirection as a specialized skill requiring both magical a
 
 ## Connected References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Academies/Academy of Redirection]] - Primary training institution
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Archmage Deflector Windturner]] - Technique pioneer
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Seven Pillars of Redirection Theory]] - Theoretical framework
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Redirection Corps]] - Military application
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/War of Burning Skies]] - Historical origin conflict
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Storm of Eternal Lightning]] - Cautionary disaster
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Board of Redirection Ethics]] - Regulatory organization
+- [[02_Worldbuilding/Groups/Academies/Academy of Redirection]] - Primary training institution
+- [[02_Worldbuilding/Lore/Archmage Deflector Windturner]] - Technique pioneer
+- [[02_Worldbuilding/Lore/Seven Pillars of Redirection Theory]] - Theoretical framework
+- [[02_Worldbuilding/Lore/Royal Redirection Corps]] - Military application
+- [[02_Worldbuilding/Lore/War of Burning Skies]] - Historical origin conflict
+- [[02_Worldbuilding/Lore/Storm of Eternal Lightning]] - Cautionary disaster
+- [[02_Worldbuilding/Lore/Board of Redirection Ethics]] - Regulatory organization
 - [[Institute of Redirection Studies]] - Research facility
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Redirector's Guild]] - Professional organization
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Department of Subtle Interventions]] - Intelligence application
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Project Mindbridge]] - Experimental research program
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Redirection Syndrome]] - Occupational hazard condition
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Last Resort Procedures]] - Emergency protocols
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Etheric Currents]] - Magical theory foundation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Intervention Windows]] - Timing technique
+- [[02_Worldbuilding/Groups/Guilds/Redirector's Guild]] - Professional organization
+- [[02_Worldbuilding/Lore/Department of Subtle Interventions]] - Intelligence application
+- [[02_Worldbuilding/Lore/Project Mindbridge]] - Experimental research program
+- [[02_Worldbuilding/Lore/Redirection Syndrome]] - Occupational hazard condition
+- [[02_Worldbuilding/Lore/The Last Resort Procedures]] - Emergency protocols
+- [[02_Worldbuilding/Lore/Etheric Currents]] - Magical theory foundation
+- [[02_Worldbuilding/Lore/Intervention Windows]] - Timing technique
 
 ## Future Implications
 
@@ -431,7 +431,7 @@ The field of Ritual Redirection Options continues to push the boundaries of what
 
 ## Connections
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
+- [[1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
 
 ## Player-Facing Summary
 
@@ -449,4 +449,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Etheric Currents]]
+- [[02_Worldbuilding/Lore/Etheric Currents]]

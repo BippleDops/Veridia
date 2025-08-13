@@ -32,7 +32,7 @@ Pressure/crystal hybrids, transformation prestige, parasite-symbiont paths, void
 - Parasite Knight (Fighter): Symbiont armor with hunger
 - Crystal Cantor (Bard): Resonance songs, shatter risks
 
-Integrates with: [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]], [[vault_backup_20250813_073007/03_Mechanics/Complete Pressure Adaptation System]].
+Integrates with: [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]], [[03_Mechanics/Complete Pressure Adaptation System]].
 
 ## Player-Facing Summary
 

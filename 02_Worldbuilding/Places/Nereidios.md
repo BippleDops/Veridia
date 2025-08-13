@@ -150,10 +150,10 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 
 ## Connections to Other Continents
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]]**: Share the Resonance Network for data transfer
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]**: Provide intelligence services to the Parliament
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memoriam]]**: Secret tunnel through forgotten knowledge
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vorthak]]**: Exchange temporal paradoxes for probability studies
+- **[[02_Worldbuilding/Places/Crystallium]]**: Share the Resonance Network for data transfer
+- **[[02_Worldbuilding/Places/Abyssos Prime]]**: Provide intelligence services to the Parliament
+- **[[02_Worldbuilding/Places/Memoriam]]**: Secret tunnel through forgotten knowledge
+- **[[02_Worldbuilding/Lore/Vorthak]]**: Exchange temporal paradoxes for probability studies
 
 ## Notable Quotes
 
@@ -180,7 +180,7 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Crystallium]]
 
 ## Player-Facing Summary
 
@@ -192,8 +192,8 @@ Legends speak of Nereidios as a nexus where past and present converge. Locals de
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Nereidios]]
+- [[02_Worldbuilding/Places/Nereidios]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vorthak]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memoriam]]
+- [[02_Worldbuilding/Lore/Vorthak]]
+- [[02_Worldbuilding/Places/Memoriam]]

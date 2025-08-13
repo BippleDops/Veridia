@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Crystallium]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Crystallium]]
 
 ## Player-Facing Summary
 

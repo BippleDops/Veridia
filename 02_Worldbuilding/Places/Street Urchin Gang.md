@@ -90,7 +90,7 @@ Use this gang to add moral complexity - they're criminals but sympathetic. They 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
 
 
 ## History
@@ -132,6 +132,6 @@ Legends speak of Street Urchin Gang as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Street Urchin Gang]]
+- [[02_Worldbuilding/Places/Street Urchin Gang]]
 
 <!-- enriched: true -->

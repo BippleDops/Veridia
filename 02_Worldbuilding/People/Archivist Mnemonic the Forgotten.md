@@ -1,10 +1,10 @@
 ---
-affiliation: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]]'
+affiliation: '[[02_Worldbuilding/Places/The Archive of Unremembered Things]]'
 age: Unknown (memory fragments suggest centuries)
 cr: '5'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]] - The Forgetting Vaults'
+location: '[[02_Worldbuilding/Places/The Archive of Unremembered Things]] - The Forgetting Vaults'
 race: Human (Memory-Touched)
 role: Keeper of Lost Memories
 status: complete
@@ -37,7 +37,7 @@ world: Aquabyssos
 *Keeper of What Was Lost, Guardian of Unremembered Truth*
 
 ## Overview
-Archivist Mnemonic exists in a paradoxical state—he remembers everything that others have forgotten, but cannot remember his own past or identity. Chosen by the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] to preserve memories that would otherwise be lost forever, he maintains the [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]] where discarded, stolen, or destroyed memories find sanctuary. His existence sustains the balance between remembering and forgetting that keeps the Deep Mother's dreams stable.
+Archivist Mnemonic exists in a paradoxical state—he remembers everything that others have forgotten, but cannot remember his own past or identity. Chosen by the [[02_Worldbuilding/Lore/The Deep Mother]] to preserve memories that would otherwise be lost forever, he maintains the [[02_Worldbuilding/Places/The Archive of Unremembered Things]] where discarded, stolen, or destroyed memories find sanctuary. His existence sustains the balance between remembering and forgetting that keeps the Deep Mother's dreams stable.
 
 ## Description
 - **Appearance**: Middle-aged man whose features shift slightly when not being directly observed
@@ -102,17 +102,17 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 ## Relationships & Memory Network
 
 ### Those Who Seek the Archive
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Ancient ruler seeking lost imperial memories
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Interested in memories of surface-depth adaptation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Consults him about military history and deep threats
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]** - May seek memories from before the Shattering
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Ancient ruler seeking lost imperial memories
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Interested in memories of surface-depth adaptation
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Consults him about military history and deep threats
+- **[[02_Worldbuilding/People/The Crimson Sage]]** - May seek memories from before the Shattering
 - **Grief-stricken Individuals** - Those seeking to recover lost memories of deceased loved ones
 
 ### Professional Connections
 - **[[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]** - Commercial memory harvesters he often opposes
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]** - Complex relationship with legitimate memory trader
-- **Deep Priests** - Clerics serving the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]] who understand his purpose
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Elder Whisper-In-The-Dark]]** - Fellow servant of cosmic forces beyond mortal understanding
+- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]** - Complex relationship with legitimate memory trader
+- **Deep Priests** - Clerics serving the [[02_Worldbuilding/Lore/Deep Mother]] who understand his purpose
+- **[[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]** - Fellow servant of cosmic forces beyond mortal understanding
 
 ### The Memory Underground
 - **Memory Refugees** - Those fleeing forced memory alteration
@@ -121,8 +121,8 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 - **[[02_Worldbuilding/Groups/Free Current|02 Worldbuilding/Groups/Free Current]]** - Resistance members needing secure memory storage
 
 ### Connection to Greater Powers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]** - Divine patron who chose him for this role
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]]** - Living structure he serves and maintains
+- **[[02_Worldbuilding/Lore/The Deep Mother]]** - Divine patron who chose him for this role
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]** - Living structure he serves and maintains
 - **Memory Spirits** - Ethereal beings formed from powerful forgotten experiences
 - **The Collective Unconscious** - Deeper layer of shared memory he helps maintain
 
@@ -135,9 +135,9 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 
 ## Relationships
 ### Fellow Memory Workers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]**: Collaborates on sacred memory preservation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Trader Kellian]]**: Ethical merchant who respects memory sanctity
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]**: Keeps many of his lost memories safe
+- **[[02_Worldbuilding/People/Memory Harvester Kythara]]**: Collaborates on sacred memory preservation
+- **[[02_Worldbuilding/Lore/Memory Trader Kellian]]**: Ethical merchant who respects memory sanctity
+- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Keeps many of his lost memories safe
 - **The Remembrancers**: Secret society dedicated to preserving truth
 - **Archive Spirits**: Manifestations of particularly powerful memories
 
@@ -149,10 +149,10 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 - **Identity Seekers**: People trying to recover their forgotten pasts
 
 ### Complex Relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/The Forgetting Cult]]**: Philosophical enemies who want universal amnesia
+- **[[02_Worldbuilding/Groups/Cults_and_Movements/The Forgetting Cult]]**: Philosophical enemies who want universal amnesia
 - **Government Censors**: Try to prevent access to suppressed memories
 - **Memory Addicts**: Desperate people who consume archived memories compulsively
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Debates about memories vs. divine dreams
+- **[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Debates about memories vs. divine dreams
 - **Commercial Interests**: Those who want to monetize the Archive's contents
 
 ## Services & Knowledge
@@ -200,7 +200,7 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 - Can make others forget his presence after encounters
 
 ## Connected Elements
-- Central to memory-related storylines in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] mythology
+- Central to memory-related storylines in [[02_Worldbuilding/Lore/The Deep Mother]] mythology
 - Links individual psychology to cosmic purposes
 - Represents themes of trauma, healing, and the value of both memory and forgetting
 - Bridge between personal identity and collective history
@@ -241,7 +241,7 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 
 **Legendary Resistance (3/Day).** If Mnemonic fails a saving throw, he can choose to succeed instead.
 
-**Memory Archive Access.** Mnemonic can access any memory stored in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]] as an action. He gains perfect knowledge of events, skills, or information contained in accessed memories.
+**Memory Archive Access.** Mnemonic can access any memory stored in [[02_Worldbuilding/Places/The Archive of Unremembered Things]] as an action. He gains perfect knowledge of events, skills, or information contained in accessed memories.
 
 **The Forgetting Touch.** As a bonus action, Mnemonic can touch a willing creature and remove painful or unwanted memories, storing them in the Archive. The creature gains relief from trauma but loses associated knowledge.
 
@@ -287,7 +287,7 @@ Mnemonic can take 3 legendary actions, choosing from the options below. Only one
 **Memory Attack (Costs 2 Actions).** Mnemonic makes a Memory Projection attack.
 
 ### Lair Actions
-When encountered in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]], Mnemonic can take lair actions on initiative count 20:
+When encountered in [[02_Worldbuilding/Places/The Archive of Unremembered Things]], Mnemonic can take lair actions on initiative count 20:
 
 **Archive Awakening.** Stored memories throughout the Archive become semi-active, providing information and minor assistance to Mnemonic and his allies.
 
@@ -311,7 +311,7 @@ When encountered in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The A
 **Self-Sustaining**: Fed by the collective unconscious desire to preserve important experiences
 **Growing Collection**: Constantly expanding as more memories are lost, abandoned, or suppressed worldwide
 **Emotional Resonance**: Organized by feeling and significance rather than chronology or topic
-**Divine Protection**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s influence protects the Archive from outside interference
+**Divine Protection**: [[02_Worldbuilding/Lore/The Deep Mother]]'s influence protects the Archive from outside interference
 
 ### The Paradox Condition
 **Selective Amnesia**: Can access any memory except those that belong to his personal history
@@ -353,13 +353,13 @@ When encountered in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The A
 ## Extended Relationships & Memory Networks
 
 ### Fellow Memory Professionals
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Collaborative partnership in ethical memory preservation
+**[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Collaborative partnership in ethical memory preservation
 - Mutual referral system for clients needing specialized services
 - Shared opposition to exploitative memory farming practices
 - Joint research into therapeutic applications of memory work
 - Regular consultation on difficult ethical cases involving memory rights
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]**: Spiritual alliance in protecting sacred memories
+**[[02_Worldbuilding/People/Memory Harvester Kythara]]**: Spiritual alliance in protecting sacred memories
 - Cooperation in preserving culturally and religiously significant experiences
 - Shared dedication to preventing desecration of meaningful memories
 - Collaborative efforts to document dying traditions and beliefs
@@ -391,7 +391,7 @@ When encountered in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The A
 - Genealogists helping families recover stolen cultural identities
 
 ### Complex Memory Relationships
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]**: Keeper of his lost memory fragments
+**[[02_Worldbuilding/People/The Scattered Emperor]]**: Keeper of his lost memory fragments
 - Maintains many of the Emperor's dispersed consciousness pieces
 - Struggles with whether helping reconstruct his identity serves his best interests
 - Questions if the Emperor's scattered state is intentional self-protection
@@ -403,7 +403,7 @@ When encountered in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The A
 - Faces attempts at infiltration and sabotage from intelligence agencies
 - Sometimes negotiates careful compromises to protect both truth and security
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/The Forgetting Cult]]**: Philosophical enemies seeking universal amnesia
+**[[02_Worldbuilding/Groups/Cults_and_Movements/The Forgetting Cult]]**: Philosophical enemies seeking universal amnesia
 - Fundamentally opposed worldviews about value of memory versus forgetting
 - Cult views Archive as obstacle to achieving pure enlightenment through amnesia
 - Mnemonic sees cult as dangerous threat to human experience and growth
@@ -492,20 +492,20 @@ Multiple factions want to control or destroy the Archive. Mnemonic must choose b
 ## Connected Campaign Elements
 
 ### Military & Intelligence Networks
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Provides archived military intelligence and historical battle records
+- **[[02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Provides archived military intelligence and historical battle records
 - **[[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]]**: Repository for classified mission reports and strategic intelligence
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]**: Preserves naval historical records and tactical knowledge
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]**: Preserves naval historical records and tactical knowledge
 - **Military Veterans**: Archive contains memories from soldiers across multiple conflicts and campaigns
 - **Intelligence Services**: Stores suppressed operational records and classified information
 
 ### Trade & Economic Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Professional collaboration on ethical memory preservation standards
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]**: Archive maintains commercial records and trade agreement histories
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Preserves maritime trade documentation and port authority records
+- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Professional collaboration on ethical memory preservation standards
+- **[[02_Worldbuilding/Groups/Merchant Princes]]**: Archive maintains commercial records and trade agreement histories
+- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Preserves maritime trade documentation and port authority records
 - **Economic Historians**: Repository for financial records and trade pattern analysis
 - **Commercial Guild Archives**: Maintains backup records for destroyed or compromised business documentation
 
-### Links to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] Divine Network
+### Links to [[02_Worldbuilding/Lore/The Deep Mother]] Divine Network
 - Archive serves as repository for memories connected to divine experiences
 - Preserves cultural memories of Deep Mother worship from extinct civilizations
 - Maintains record of prophetic visions and divine communications
@@ -519,7 +519,7 @@ Multiple factions want to control or destroy the Archive. Mnemonic must choose b
 - Preservation of cultural memories threatened by commercial exploitation
 - Ethical alternative to profit-driven memory operations
 
-### Connection to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] Political History
+### Connection to [[02_Worldbuilding/Places/Aquabyssos]] Political History
 - Contains suppressed memories of government wrongdoing and corruption
 - Preserves accurate historical records despite official revisionism
 - Maintains cultural memories of oppressed or extinct communities
@@ -558,9 +558,9 @@ Multiple factions want to control or destroy the Archive. Mnemonic must choose b
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
 - [[Pressure Angel Benthia]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Cerulean Breath]]
+- [[02_Worldbuilding/People/The Cerulean Breath]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -573,9 +573,9 @@ Legends speak of Archivist Mnemonic the Forgotten as a nexus where past and pres
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
+- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]]
+- [[02_Worldbuilding/People/Memory Harvester Kythara]]
+- [[02_Worldbuilding/People/The Scattered Emperor]]
+- [[02_Worldbuilding/Places/The Archive of Unremembered Things]]

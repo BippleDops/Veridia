@@ -62,20 +62,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Seven Shards]]
+- [[02_Worldbuilding/Places/Seven Shards]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Portal Alpha]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Foundation Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Throne Room - Heart of Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Crystalline Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Lock Saboteur]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
+- [[02_Worldbuilding/Places/Surface Portal Alpha]]
+- [[02_Worldbuilding/Places/The Foundation Depths]]
+- [[02_Worldbuilding/Places/The Gilded Shard]]
+- [[02_Worldbuilding/Places/Throne Room - Heart of Palace]]
+- [[02_Worldbuilding/Quests/Crystalline Depths]]
+- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
+- [[02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[02_Worldbuilding/Quests/The Maw of Darkness]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

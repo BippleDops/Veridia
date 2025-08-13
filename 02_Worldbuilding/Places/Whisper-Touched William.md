@@ -17,11 +17,11 @@ location_type: Prophetic Shrine Complex
 notable_npcs:
 - '[[02_Worldbuilding/People/Whisper-Touched William|02 Worldbuilding/People/Whisper
   Touched William]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Echo-Translator Vera]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Silent Guardian Marcus]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Truth-Seeker Cornelius]]'
+- '[[02_Worldbuilding/Places/Echo-Translator Vera]]'
+- '[[02_Worldbuilding/Places/Silent Guardian Marcus]]'
+- '[[02_Worldbuilding/Places/Truth-Seeker Cornelius]]'
 obsidianUIMode: preview
-parent_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]'
+parent_location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
 population: 25
 pressure_effects: Moderate
 ruler: '[[02_Worldbuilding/People/Whisper-Touched William|02 Worldbuilding/People/Whisper
@@ -36,7 +36,7 @@ shadow_density: Low
 status: complete
 sub_locations:
 - '[[02_Worldbuilding/Lore/NPC |02 Worldbuilding/Lore/NPC]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Gallery of Echoing Truths]]'
+- '[[02_Worldbuilding/Places/Gallery of Echoing Truths]]'
 - '[[The Silence Garden]]'
 - '[[Prophecy Translation Center]]'
 - '[[William''s Living Quarters]]'
@@ -75,7 +75,7 @@ world: Both
 
 ## Overview
 
-Whisper-Touched William's Oracle Shrine serves as one of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]'s most enigmatic and valuable institutions—a place where prophecy, madness, and truth intersect in ways that defy conventional understanding. Built around the extraordinary abilities of its namesake founder, this shrine complex has become the primary destination for those seeking glimpses of future events, lost knowledge, or hidden truths that conventional means cannot reveal.
+Whisper-Touched William's Oracle Shrine serves as one of [[02_Worldbuilding/Places/Abyssos Prime]]'s most enigmatic and valuable institutions—a place where prophecy, madness, and truth intersect in ways that defy conventional understanding. Built around the extraordinary abilities of its namesake founder, this shrine complex has become the primary destination for those seeking glimpses of future events, lost knowledge, or hidden truths that conventional means cannot reveal.
 
 The shrine exists in a constant state of barely controlled chaos, where whispers from unknown sources provide cryptic but remarkably accurate information about past, present, and future events. William himself, once a simple merchant's clerk, has been transformed by his connection to these mysterious voices into something between prophet, madman, and living conduit for cosmic knowledge.
 
@@ -89,13 +89,13 @@ The shrine exists in a constant state of barely controlled chaos, where whispers
 ## The Transformation of William
 
 ### Before the Whispers
-William Cornelius Ashworth was a mundane records clerk in the pre-drowning bureaucracy, known for his meticulous attention to detail and quiet demeanor. During [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]], he became trapped in a collapsed government archive building, surrounded by thousands of years of recorded knowledge as the flood waters rose.
+William Cornelius Ashworth was a mundane records clerk in the pre-drowning bureaucracy, known for his meticulous attention to detail and quiet demeanor. During [[02_Worldbuilding/Places/The Great Drowning]], he became trapped in a collapsed government archive building, surrounded by thousands of years of recorded knowledge as the flood waters rose.
 
 ### The Awakening
 As William faced death in the flooded archives, something unprecedented occurred. Whether due to the massive concentration of recorded information, the trauma of drowning, or some cosmic intervention, William began hearing voices—whispers that spoke of events across time and space, revealing secrets that no living person should know.
 
 ### The Price of Knowledge
-The whispers saved William's life by guiding him to safety, but they never stopped. Over the months following his rescue, William discovered that he could no longer distinguish between his own thoughts and the voices that constantly murmured in his mind. In exchange for this burden, he gained the ability to access information from across time and space, making him one of the most valuable and dangerous oracles in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+The whispers saved William's life by guiding him to safety, but they never stopped. Over the months following his rescue, William discovered that he could no longer distinguish between his own thoughts and the voices that constantly murmured in his mind. In exchange for this burden, he gained the ability to access information from across time and space, making him one of the most valuable and dangerous oracles in [[02_Worldbuilding/Places/Aquabyssos]].
 
 ## Architecture & Layout
 
@@ -110,7 +110,7 @@ The heart of the shrine, where William conducts his most important prophetic ses
 - Emergency restraint systems for when William becomes overwhelmed
 
 ### Gallery of Echoing Truths
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Gallery of Echoing Truths]]**
+**[[02_Worldbuilding/Places/Gallery of Echoing Truths]]**
 A museum-like space where verified prophecies and revelations are displayed. Each exhibit shows William's original cryptic pronouncement alongside the real-world event it predicted, creating a compelling testament to his abilities.
 
 **Exhibition Categories:**
@@ -168,7 +168,7 @@ Personal sessions where William provides specific guidance or predictions for in
 Services where William's assistants help interpret his often cryptic prophecies into practical guidance or actionable information.
 
 ### Institutional Consulting
-The shrine provides consulting services to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]], [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Crystal Wardens]], and other organizations that need prophetic guidance for major decisions.
+The shrine provides consulting services to [[02_Worldbuilding/Places/Parliament of Echoes]], [[02_Worldbuilding/Groups/Crystal Wardens]], and other organizations that need prophetic guidance for major decisions.
 
 ### Truth Verification
 William's truth-detection abilities make him valuable for resolving disputes, verifying historical claims, or exposing deception in important matters.
@@ -182,19 +182,19 @@ William's truth-detection abilities make him valuable for resolving disputes, ve
 - Struggles with the burden of cosmic knowledge
 - Deeply compassionate despite his otherworldly nature
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Echo-Translator Vera]]** - Chief Interpreter
+**[[02_Worldbuilding/Places/Echo-Translator Vera]]** - Chief Interpreter
 - William's primary assistant and translator
 - Specializes in decoding cryptic prophecies
 - Has developed limited whisper sensitivity
 - Protective of William's welfare and privacy
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Silent Guardian Marcus]]** - Shrine Protector
+**[[02_Worldbuilding/Places/Silent Guardian Marcus]]** - Shrine Protector
 - Provides security and manages dangerous situations
 - One of the few people who can calm William during overload episodes
 - Has taken vows of minimal speech to provide William with some quiet
 - Extremely skilled in non-violent restraint techniques
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Truth-Seeker Cornelius]]** - Documentation Specialist
+**[[02_Worldbuilding/Places/Truth-Seeker Cornelius]]** - Documentation Specialist
 - Records and catalogs all prophecies and their fulfillment
 - Maintains the Gallery of Echoing Truths
 - Research specialist who helps verify William's revelations
@@ -212,13 +212,13 @@ People who have been affected by proximity to William's abilities, developing mi
 ## Notable Prophecies
 
 ### The Shadow Citizenship Prediction
-Three months before it was proposed, William prophesied: "Shadows will seek the vote, and democracy will fracture on the question of what makes a citizen." This prediction about the [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Eternal Senate]]'s Shadow Citizenship Act established William's political relevance.
+Three months before it was proposed, William prophesied: "Shadows will seek the vote, and democracy will fracture on the question of what makes a citizen." This prediction about the [[02_Worldbuilding/Places/The Eternal Senate]]'s Shadow Citizenship Act established William's political relevance.
 
 ### The Memory Merchant's Downfall
 William predicted the collapse of a major [[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]] operation six weeks before it occurred, warning: "Those who harvest remembrance will forget their own names."
 
 ### The Recursive Warning
-Regarding [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Recursion Cult]], William whispered: "Time eats its own tail, and tomorrow becomes yesterday's mistake." This warning helped prevent a temporal disaster.
+Regarding [[02_Worldbuilding/Places/The Recursion Cult]], William whispered: "Time eats its own tail, and tomorrow becomes yesterday's mistake." This warning helped prevent a temporal disaster.
 
 ### The Surface Return
 One of William's most controversial ongoing prophecies involves the return of surface world contact: "When the deep calls to the high, the drowning will be undone, but the price will be everything we have become."
@@ -250,13 +250,13 @@ William believes the voices come from multiple sources, but he's never been able
 - William's own mind, expanded beyond normal human limitations
 
 ### The Silence Conspiracy
-A secret faction within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] wants to silence William permanently, believing his prophecies destabilize society by revealing uncomfortable truths.
+A secret faction within [[02_Worldbuilding/Places/Parliament of Echoes]] wants to silence William permanently, believing his prophecies destabilize society by revealing uncomfortable truths.
 
 ### The False Prophecies
 Some of William's prophecies appear to be deliberately false or misleading, suggesting that not all the whispers have benevolent intentions.
 
 ### The Whisper Network
-Evidence suggests that William may not be the only person receiving whispers—there might be a network of whisper-touched individuals across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and beyond.
+Evidence suggests that William may not be the only person receiving whispers—there might be a network of whisper-touched individuals across [[02_Worldbuilding/Places/Aquabyssos]] and beyond.
 
 ### The Original Archive
 The government archive where William was transformed may contain other individuals who were similarly affected but never rescued, creating a potential underground community of the whisper-touched.
@@ -264,19 +264,19 @@ The government archive where William was transformed may contain other individua
 ## Connected Locations
 
 ### Information Networks
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Complementary knowledge preservation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Vaults]]:** Cross-reference of stored memories and prophecies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Archives]]:** Information exchange with surface world archives
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Complementary knowledge preservation
+- **[[02_Worldbuilding/Lore/The Memory Vaults]]:** Cross-reference of stored memories and prophecies
+- **[[02_Worldbuilding/Lore/Aethermoor Archives]]:** Information exchange with surface world archives
 
 ### Government Relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Eternal Senate]]:** Regular prophetic consultation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]:** Complex political relationship
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]]:** Occasional advice to the Scattered Emperor
+- **[[02_Worldbuilding/Places/The Eternal Senate]]:** Regular prophetic consultation
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]:** Complex political relationship
+- **[[02_Worldbuilding/Places/The Inverse Palace]]:** Occasional advice to the Scattered Emperor
 
 ### Spiritual Sites
 - **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Shared concern for those burdened by knowledge
 - **[[02_Worldbuilding/Places/Temple of Divine Order|02 Worldbuilding/Places/Temple Of Divine Order]]:** Theological discussions about prophecy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Meditation Centers]]:** Collaborative work on mental discipline techniques
+- **[[02_Worldbuilding/Places/Meditation Centers]]:** Collaborative work on mental discipline techniques
 
 ## Adventure Hooks
 
@@ -298,7 +298,7 @@ The government archive where William was transformed may contain other individua
 ### Cosmic Mysteries
 7. **The Source Investigation:** William's condition suddenly worsens, and his whispers become contradictory and chaotic. Players must investigate the source of the whispers to understand what's happening and potentially save William's sanity.
 
-8. **The Whisper Network:** Evidence emerges that there are other whisper-touched individuals hidden throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Players must find these people and determine whether they represent a resource, a threat, or something else entirely.
+8. **The Whisper Network:** Evidence emerges that there are other whisper-touched individuals hidden throughout [[02_Worldbuilding/Places/Aquabyssos]]. Players must find these people and determine whether they represent a resource, a threat, or something else entirely.
 
 ## Random Encounters (d12)
 
@@ -391,7 +391,7 @@ The shrine's atmosphere makes deception difficult:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whispering Depths]]
+- [[02_Worldbuilding/Places/The Whispering Depths]]
 
 ## Player-Facing Summary
 
@@ -407,8 +407,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Whisper-Touched William]]
+- [[02_Worldbuilding/Places/Whisper-Touched William]]
 
 <!-- enriched: true -->
 riched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]

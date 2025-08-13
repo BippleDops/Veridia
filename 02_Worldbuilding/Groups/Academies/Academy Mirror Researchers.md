@@ -25,7 +25,7 @@ world: Aquabyssos
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Broker Mirrors]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Broker Mirrors]]
 
 ## Overview
 

@@ -41,9 +41,9 @@ world: Aquabyssos
 
 ## Overview
 
-The Senator's Private Chambers represent the pinnacle of luxury and security within the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] complex in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. These elaborately appointed suites serve as both living quarters and clandestine meeting spaces for the realm's most powerful political figures. Each chamber is a masterwork of underwater architecture, combining ancient craftsmanship with cutting-edge magical security to create spaces where the fate of nations is decided behind closed doors.
+The Senator's Private Chambers represent the pinnacle of luxury and security within the [[02_Worldbuilding/Places/Parliament of Echoes]] complex in [[02_Worldbuilding/Places/Aquabyssos]]. These elaborately appointed suites serve as both living quarters and clandestine meeting spaces for the realm's most powerful political figures. Each chamber is a masterwork of underwater architecture, combining ancient craftsmanship with cutting-edge magical security to create spaces where the fate of nations is decided behind closed doors.
 
-Located in the most secure wing of the Parliament complex, these chambers are accessible only through a series of pressure-locked corridors guarded by elite [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Guard]] soldiers and protected by layers of magical wards. The chambers themselves are air-filled bubbles maintained by powerful enchantments, allowing senators to conduct business without the constant presence of water—a luxury that demonstrates their elevated status above common citizens.
+Located in the most secure wing of the Parliament complex, these chambers are accessible only through a series of pressure-locked corridors guarded by elite [[02_Worldbuilding/Lore/Depth Guard]] soldiers and protected by layers of magical wards. The chambers themselves are air-filled bubbles maintained by powerful enchantments, allowing senators to conduct business without the constant presence of water—a luxury that demonstrates their elevated status above common citizens.
 
 ## Layout & Architecture
 
@@ -72,7 +72,7 @@ Located in the most secure wing of the Parliament complex, these chambers are ac
 - Pressure-adjustable sleeping pool filled with healing waters
 - Traditional air-filled bed chamber for surface-dwelling guests
 - Wardrobe containing ceremonial robes and protective gear
-- Personal shrine to the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]] or chosen deity
+- Personal shrine to the [[02_Worldbuilding/Lore/Deep Mother]] or chosen deity
 - Emergency escape portal (single use, leads to safe house)
 
 ### Conference Room
@@ -135,7 +135,7 @@ Located in the most secure wing of the Parliament complex, these chambers are ac
 **Chamber Features**:
 - Extensive library on ancient Aquabyssos history
 - Collection of pre-war artifacts
-- Direct communication line to [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- Direct communication line to [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
 - Hidden shrine to forgotten sea gods
 
 ### Senator Marina Coralheart (Former)
@@ -240,11 +240,11 @@ Decodes any written message in Aquabyssos official ciphers.
 Summons immediate military response when activated, single use.
 
 ## Connections
-- Central to political intrigue within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- Monitored by [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]] for blackmail opportunities
-- Protected by elite [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Guard]] units
-- Serviced by [[vault_backup_20250813_073007/02_Worldbuilding/People/The Coral Throne Syndicate]]'s luxury goods
-- Featured in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Rescue Senator Glaucus]]
+- Central to political intrigue within [[02_Worldbuilding/Places/Parliament of Echoes]]
+- Monitored by [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]] for blackmail opportunities
+- Protected by elite [[02_Worldbuilding/Lore/Depth Guard]] units
+- Serviced by [[02_Worldbuilding/People/The Coral Throne Syndicate]]'s luxury goods
+- Featured in [[02_Worldbuilding/Lore/Quest - Rescue Senator Glaucus]]
 
 ## DM Notes
 - Use for political intrigue and investigation scenarios
@@ -252,7 +252,7 @@ Summons immediate military response when activated, single use.
 - Security should be nearly impenetrable without inside help
 - Contains numerous plot hooks and secrets for ongoing campaigns
 - Can serve as safe house or dangerous trap depending on senator's alignment
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
 
 ## Player-Facing Summary
 
@@ -264,10 +264,10 @@ Legends speak of Senator's Private Chambers as a nexus where past and present co
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Senator's Private Chambers]]
+- [[02_Worldbuilding/Places/Senator's Private Chambers]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]

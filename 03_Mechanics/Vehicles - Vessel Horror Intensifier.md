@@ -22,7 +22,7 @@ world: Both
 
 # Vessel Horror Intensifier
 
-Turn ships into characters and haunted spaces. Hooks deeply into [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]], and living ship rules.
+Turn ships into characters and haunted spaces. Hooks deeply into [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[02_Worldbuilding/Lore/Deep Mother]], and living ship rules.
 
 ## Confined-Space Horror
 - Isolation Clocks: Track hours without external contact; escalate checks

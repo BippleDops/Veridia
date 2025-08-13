@@ -1,28 +1,24 @@
 ---
-created: '2025-08-12'
-magnitude: 4
-primary_sessions:
-- 'Session 03: Gallery Conspiracy'
-- 'Session 06: Silhouette Surgeons'
+type: Lore
 status: complete
 tags:
 - aquabyssos
-- campaign/arc
+- campaign-consequences
 - complete
-- content/lore
 - identity-crisis
 - lore
 - parliament-infiltration
 - political-intrigue
 - shadow-conspiracy
-- status/complete
-- world/aquabyssos
-type: Lore
-updated: '2025-08-13T12:34:29.380947+00:00'
-visibility: 3
 world: Aquabyssos
+created: '2025-08-12'
+updated: '2025-08-13T01:18:35.136916+00:00'
+magnitude: 4
+visibility: 3
+primary_sessions:
+- 'Session 03: Gallery Conspiracy'
+- 'Session 06: Silhouette Surgeons'
 ---
-
 
 
 # Consequence Chain 1: Shadow Conspiracy Exposure
@@ -89,9 +85,9 @@ world: Aquabyssos
 
 **Faction realignments:**
 - **[[02_Worldbuilding/Groups/The Light Preservation Society]]** gained 400% membership increase
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Original Survivor Network]]** emerged from hiding to assist investigations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Light Bearers]]** militant group formed to hunt shadow replacements
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Guard]]** revealed themselves as counter-conspiracy force
+- **[[02_Worldbuilding/Lore/Original Survivor Network]]** emerged from hiding to assist investigations
+- **[[02_Worldbuilding/Lore/Light Bearers]]** militant group formed to hunt shadow replacements
+- **[[02_Worldbuilding/Lore/Depth Guard|02 Worldbuilding/Lore/Depth Guard]]** revealed themselves as counter-conspiracy force
 - Traditional merchant guilds distanced themselves from shadow-associated businesses
 - **[[02_Worldbuilding/Groups/Political Parties of Aquabyssos]]** splintered along shadow/original lines
 
@@ -144,7 +140,7 @@ world: Aquabyssos
 
 **Future adventure hooks:**
 - Hidden shadow cells operating in other cities across Aquabyssos
-- The identity of **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The First Shadow]]** remains unknown
+- The identity of **[[02_Worldbuilding/Lore/Quest - The First Shadow]]** remains unknown
 - Memory Meadows prisoners with decades of stolen memories seek restitution
 - Foreign shadow conspiracies may exist in other realms
 - Technology for artificial shadow creation discovered in abandoned facilities
@@ -181,7 +177,7 @@ world: Aquabyssos
 ### Links to Other Major Events
 - **[[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's depth guard connections provided crucial intelligence
 - **Cross-realm implications**: Aethermoor authorities investigating potential shadow infiltration
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]**: Questions raised about shadow consciousness origin
+- **[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]**: Questions raised about shadow consciousness origin
 - **Technology transfer**: Shadow detection techniques shared with other realms
 
 ### Unresolved Questions
@@ -198,7 +194,7 @@ world: Aquabyssos
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Consequence Tracking Framework]]
+- [[02_Worldbuilding/Lore/Campaign Consequence Tracking Framework]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
 - [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
 - [[1-Session Journals/Aquabyssos - Session 06 - The Silhouette Surgeons]]

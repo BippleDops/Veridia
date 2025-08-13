@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crown]]
+- [[02_Worldbuilding/Groups/The Crown]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crown]]
+- [[02_Worldbuilding/Groups/The Crown]]
 
 ## Player-Facing Summary
 

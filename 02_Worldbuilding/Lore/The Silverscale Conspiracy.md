@@ -43,7 +43,7 @@ world: Both Worlds
 
 ## Overview
 
-The Silverscale Conspiracy represents one of the most sophisticated and far-reaching influence networks operating across both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], utilizing economic manipulation, information control, and political leverage to shape events according to the hidden agenda of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Banking House]] and its allied organizations, with potential connections to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]] and influence over figures like [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aurelius Goldwave]]. Unlike traditional conspiracies that operate through violence or magical coercion, the Silverscale network achieves its goals through the careful manipulation of financial systems, trade relationships, and political dependencies.
+The Silverscale Conspiracy represents one of the most sophisticated and far-reaching influence networks operating across both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], utilizing economic manipulation, information control, and political leverage to shape events according to the hidden agenda of the [[02_Worldbuilding/Lore/Silverscale Banking House]] and its allied organizations, with potential connections to [[02_Worldbuilding/Lore/The Crimson Hand]] and influence over figures like [[02_Worldbuilding/Lore/Aurelius Goldwave]]. Unlike traditional conspiracies that operate through violence or magical coercion, the Silverscale network achieves its goals through the careful manipulation of financial systems, trade relationships, and political dependencies.
 
 The conspiracy's power stems from its control of essential economic infrastructure in both worlds, including banking services, trade financing, currency exchange, and investment capital. By positioning themselves as indispensable partners to governments, merchants, and nobles, the Silverscale network has created a web of influence that extends into every major political and economic decision affecting both surface and underwater civilizations.
 
@@ -51,11 +51,11 @@ The true scope of the conspiracy remained hidden for decades because its activit
 
 ## Historical Context and Origins
 
-The Silverscale Conspiracy originated approximately 150 years ago when [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Director Hadrian Silverscale]] inherited control of what was then a modest regional banking operation in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]. Rather than simply expanding the business through conventional means, Silverscale developed a revolutionary approach that combined financial services with intelligence gathering and political influence operations.
+The Silverscale Conspiracy originated approximately 150 years ago when [[02_Worldbuilding/Lore/Director Hadrian Silverscale]] inherited control of what was then a modest regional banking operation in [[02_Worldbuilding/Places/Aethermoor]]. Rather than simply expanding the business through conventional means, Silverscale developed a revolutionary approach that combined financial services with intelligence gathering and political influence operations.
 
 The network's early success came from providing essential funding to cash-strapped nobles and merchants during a period of economic instability, but with loan terms that included information sharing requirements and informal political agreements. These arrangements created a foundation of influence that Silverscale could leverage to guide policy decisions and business developments in directions that served the organization's broader interests.
 
-The conspiracy's expansion into [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] occurred through the establishment of trade relationships and currency exchange services that became essential for commerce between the surface and underwater worlds, particularly through partnerships with institutions like [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Goldwave Manor]], influence over [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Trader]] networks, and strategic alliances with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Harvest]] resource management systems. By controlling the financial mechanisms that enabled cross-world trade, Silverscale gained influence over both civilizations' economic policies and diplomatic relationships, extending their reach into [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] resource allocation and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]] financing.
+The conspiracy's expansion into [[02_Worldbuilding/Places/Aquabyssos]] occurred through the establishment of trade relationships and currency exchange services that became essential for commerce between the surface and underwater worlds, particularly through partnerships with institutions like [[02_Worldbuilding/Lore/Goldwave Manor]], influence over [[02_Worldbuilding/Lore/Memory Trader]] networks, and strategic alliances with [[02_Worldbuilding/Lore/The Deep Harvest]] resource management systems. By controlling the financial mechanisms that enabled cross-world trade, Silverscale gained influence over both civilizations' economic policies and diplomatic relationships, extending their reach into [[02_Worldbuilding/Lore/Crystal Forest]] resource allocation and [[02_Worldbuilding/Lore/Pressure Adaptation System]] financing.
 
 ## Cultural Significance and Impact
 
@@ -73,35 +73,35 @@ The Silverscale Conspiracy has profoundly influenced the development of commerci
 Silverscale gained control of crucial shipping routes through strategic loans and partnerships that appeared beneficial to all parties but gradually concentrated maritime commerce under their influence.
 
 ### The Cross-World Banking Accords (89 years ago)  
-The establishment of unified financial standards between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] created opportunities for Silverscale to influence both civilizations' monetary policies.
+The establishment of unified financial standards between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] created opportunities for Silverscale to influence both civilizations' monetary policies.
 
 ### The Recent Acceleration (Past 5 years)
-Conspiracy activities have intensified dramatically, possibly in response to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]] approaching or [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] becoming more active, suggesting that whatever long-term plan Silverscale has been implementing may be approaching its culmination.
+Conspiracy activities have intensified dramatically, possibly in response to [[02_Worldbuilding/Lore/The Convergence Point]] approaching or [[02_Worldbuilding/Lore/The Seven Shards]] becoming more active, suggesting that whatever long-term plan Silverscale has been implementing may be approaching its culmination.
 
 ## Key Figures and Organizations
 
 ### Director Hadrian Silverscale
-The current leader of the conspiracy, known for his brilliant strategic mind and complete dedication to advancing Silverscale interests regardless of the consequences for others. Operates from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Emergency Bunker]] and maintains close relationships with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aurelius Goldwave]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Merchant Valeria]], and potentially [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silver Mask]] operatives.
+The current leader of the conspiracy, known for his brilliant strategic mind and complete dedication to advancing Silverscale interests regardless of the consequences for others. Operates from [[02_Worldbuilding/Lore/Silverscale Emergency Bunker]] and maintains close relationships with [[02_Worldbuilding/Lore/Aurelius Goldwave]], [[02_Worldbuilding/Lore/Memory Merchant Valeria]], and potentially [[02_Worldbuilding/Lore/Silver Mask]] operatives.
 
 ### The Banking House Inner Circle
-A secretive group of senior managers and advisors who coordinate conspiracy activities across both worlds while maintaining the appearance of legitimate business operations. Key members include financial specialists managing [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Umbral Exchange]] operations, [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] resource financing, and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Harvest]] economic integration.
+A secretive group of senior managers and advisors who coordinate conspiracy activities across both worlds while maintaining the appearance of legitimate business operations. Key members include financial specialists managing [[02_Worldbuilding/Lore/Umbral Exchange]] operations, [[02_Worldbuilding/Lore/Crystal Forest]] resource financing, and [[02_Worldbuilding/Lore/The Deep Harvest]] economic integration.
 
 ### Silverscale Agents and Assets
 An extensive network of individuals who serve Silverscale interests either knowingly as paid agents or unknowingly through financial dependencies and political obligations. This network includes:
 
 **Political Assets:**
-- Members of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]] receiving financial support for traditional values campaigns
-- Government officials in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Depth Caste System]] regulatory bodies
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]] personnel providing advance warning of regulatory actions
+- Members of [[02_Worldbuilding/Lore/The Restoration Movement]] receiving financial support for traditional values campaigns
+- Government officials in [[02_Worldbuilding/Lore/Aquabyssos Depth Caste System]] regulatory bodies
+- [[02_Worldbuilding/Lore/Investigation Procedures]] personnel providing advance warning of regulatory actions
 
 **Economic Partners:**
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Trader]] networks facilitating information exchange and consciousness commerce
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] cultivation specialists managing resource production quotas
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]] technology distributors controlling market access
+- [[02_Worldbuilding/Lore/Memory Trader]] networks facilitating information exchange and consciousness commerce
+- [[02_Worldbuilding/Lore/Crystal Forest]] cultivation specialists managing resource production quotas
+- [[02_Worldbuilding/Lore/Pressure Adaptation System]] technology distributors controlling market access
 
 **Intelligence Operations:**
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silver Mask]] identity management potentially coordinated through Silverscale resources
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]] financial backing for shadow operations and dimensional research
+- [[02_Worldbuilding/Lore/Silver Mask]] identity management potentially coordinated through Silverscale resources
+- [[02_Worldbuilding/Lore/The Crimson Hand]] financial backing for shadow operations and dimensional research
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] accessing historical financial records and documentation
 
 ## Current State and Ongoing Conflicts
@@ -113,37 +113,37 @@ Recent investigations have uncovered evidence of price manipulation, political b
 ## Adventure Integration and Plot Hooks
 
 ### The Financial Investigation
-Characters must trace suspicious financial transactions and loan agreements to uncover evidence of conspiracy activities while avoiding economic retaliation and political pressure. Investigation requires use of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]] while navigating [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reputation System]] consequences and potential [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alteration Consequences]] from conspiracy counter-intelligence operations.
+Characters must trace suspicious financial transactions and loan agreements to uncover evidence of conspiracy activities while avoiding economic retaliation and political pressure. Investigation requires use of [[02_Worldbuilding/Lore/Evidence Chain Analysis]] and [[02_Worldbuilding/Lore/Investigation Procedures]] while navigating [[02_Worldbuilding/Lore/Reputation System]] consequences and potential [[02_Worldbuilding/Lore/Memory Alteration Consequences]] from conspiracy counter-intelligence operations.
 
 ### The Double Agent Dilemma
-An insider offers to provide information about conspiracy operations but demands protection from Silverscale retaliation and guarantees about how the information will be used. The source may be connected to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Trader]] networks, [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] resource management, or [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silver Mask]] operations, requiring careful evaluation using [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Interrogation Techniques]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Types Guide]] verification methods.
+An insider offers to provide information about conspiracy operations but demands protection from Silverscale retaliation and guarantees about how the information will be used. The source may be connected to [[02_Worldbuilding/Lore/Memory Trader]] networks, [[02_Worldbuilding/Lore/Crystal Forest]] resource management, or [[02_Worldbuilding/Lore/Silver Mask]] operations, requiring careful evaluation using [[02_Worldbuilding/Lore/Interrogation Techniques]] and [[02_Worldbuilding/Lore/Evidence Types Guide]] verification methods.
 
 ### The Economic Warfare
-The conspiracy launches coordinated attacks against individuals or organizations that threaten their interests, requiring characters to defend against financial manipulation and political sabotage. Attacks may involve [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]] political pressure, [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Cult Practices]] spiritual intimidation, or [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]] shadow operations coordinated through [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Emergency Bunker]] command centers.
+The conspiracy launches coordinated attacks against individuals or organizations that threaten their interests, requiring characters to defend against financial manipulation and political sabotage. Attacks may involve [[02_Worldbuilding/Lore/The Restoration Movement]] political pressure, [[02_Worldbuilding/Lore/Deep Mother Cult Practices]] spiritual intimidation, or [[02_Worldbuilding/Lore/The Crimson Hand]] shadow operations coordinated through [[02_Worldbuilding/Lore/Silverscale Emergency Bunker]] command centers.
 
 ### The Convergence Financing
-Investigation reveals Silverscale conspiracy involvement in financing [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]] preparation activities, requiring characters to determine whether their goal is to profit from convergence, control its outcome, or prevent it entirely. This connects to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temple of the First Tide]] resource needs, [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] expansion projects, and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]] bloodline manipulation.
+Investigation reveals Silverscale conspiracy involvement in financing [[02_Worldbuilding/Lore/The Great Convergence Prophecies]] preparation activities, requiring characters to determine whether their goal is to profit from convergence, control its outcome, or prevent it entirely. This connects to [[02_Worldbuilding/Lore/Temple of the First Tide]] resource needs, [[02_Worldbuilding/Lore/Crystal Forest]] expansion projects, and [[02_Worldbuilding/Lore/The Seven Betrayers]] bloodline manipulation.
 
 ## Connected Topics and References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Banking House]] - Primary organization driving conspiracy activities
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Director Hadrian Silverscale]] - Current conspiracy leader and strategic mastermind
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Emergency Bunker]] - Hidden facility for conspiracy coordination
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]] - Broader network of allied organizations
+- [[02_Worldbuilding/Lore/Silverscale Banking House]] - Primary organization driving conspiracy activities
+- [[02_Worldbuilding/Lore/Director Hadrian Silverscale]] - Current conspiracy leader and strategic mastermind
+- [[02_Worldbuilding/Lore/Silverscale Emergency Bunker]] - Hidden facility for conspiracy coordination
+- [[02_Worldbuilding/Groups/Silverscale Consortium]] - Broader network of allied organizations
 - [[Investigative Chronicler Darius Truthseeker]] - Leading researcher exposing conspiracy activities
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crimson Hand Strike Team]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Types Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Fear Farms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silver Mask]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of Crimes]]
+- [[02_Worldbuilding/Lore/Crimson Hand Strike Team]]
+- [[02_Worldbuilding/Lore/Crystal Festival]]
+- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[02_Worldbuilding/Lore/Evidence Types Guide]]
+- [[02_Worldbuilding/Lore/Fear Farms]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/Timeline of Crimes]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -169,19 +169,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Interrogation Techniques]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alteration Consequences]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reputation System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Emergency Bunker]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Umbral Exchange]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[02_Worldbuilding/Lore/Crystal Forest]]
+- [[02_Worldbuilding/Lore/Interrogation Techniques]]
+- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/Lore/Memory Alteration Consequences]]
+- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
+- [[02_Worldbuilding/Lore/Reputation System]]
+- [[02_Worldbuilding/Lore/Silverscale Emergency Bunker]]
+- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/The Crimson Hand]]
+- [[02_Worldbuilding/Lore/The Deep Harvest]]
+- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
+- [[02_Worldbuilding/Lore/The Seven Betrayers]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/Umbral Exchange]]
+- [[02_Worldbuilding/Places/Aethermoor]]

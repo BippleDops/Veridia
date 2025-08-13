@@ -104,21 +104,21 @@ Morteus dwells in the Grief Gardens, a haunted grove where the water itself seem
 ## Relationships
 
 **Allies:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Parasite Priests]]** - His order of death-worshippers who serve the cycle of entropy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Parliament]]** - They appreciate his ability to silence opposition permanently
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Biomancers]]** - Trade information about life and death magic
+- **[[02_Worldbuilding/People/The Parasite Priests]]** - His order of death-worshippers who serve the cycle of entropy
+- **[[02_Worldbuilding/People/Shadow Parliament]]** - They appreciate his ability to silence opposition permanently
+- **[[02_Worldbuilding/People/The Biomancers]]** - Trade information about life and death magic
 - **Widow's Circle** - A secret society of grieving nobles who seek his services
 
 **Enemies:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Scylla Deepdream]]** - Views his practices as perversions of natural death
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Waking Prophets]]** - His undead interfere with their communion with the living
+- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]** - Views his practices as perversions of natural death
+- **[[02_Worldbuilding/People/The Waking Prophets]]** - His undead interfere with their communion with the living
 - **The Resurrection Cult** - Fanatics who believe death should always be reversed
 - **Life Domain Clerics** - See him as an abomination to be destroyed
 
 **Complicated:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Officially condemns him but secretly uses his services
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]** - Morteus knows dark secrets about the prince's family
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]** - They compete for contracts involving the recently deceased
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Officially condemns him but secretly uses his services
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Morteus knows dark secrets about the prince's family
+- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]** - They compete for contracts involving the recently deceased
 
 ## Quest Hooks
 
@@ -136,7 +136,7 @@ Morteus dwells in the Grief Gardens, a haunted grove where the water itself seem
 
 - **The First Death**: Morteus was once a healer who accidentally caused a patient's death. His grief was so profound it attracted the attention of death entities who offered him power.
 - **The Soul Tax**: Every resurrection he performs costs him a piece of his own soul. He's dangerously close to becoming undead himself.
-- **The Emperor's Secret**: He knows that [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]] died three years ago and has been maintaining an elaborate illusion to hide this fact.
+- **The Emperor's Secret**: He knows that [[02_Worldbuilding/People/Emperor Thalassius the Wise]] died three years ago and has been maintaining an elaborate illusion to hide this fact.
 - **The Grief Engine**: Deep beneath his gardens lies a massive necromantic device that converts sorrow into raw magical energy, powered by the tears of the bereaved.
 - **The Final Service**: He has prepared his own funeral rites and knows exactly when and how he will die—information he guards more carefully than any other secret.
 
@@ -169,9 +169,9 @@ Morteus dwells in the Grief Gardens, a haunted grove where the water itself seem
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Resonance Prophet]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Mourning Depths]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 09 - The Mourning Strategy]]
+- [[02_Worldbuilding/People/The Resonance Prophet]]
+- [[02_Worldbuilding/Places/The Mourning Depths]]
+- [[1-Session Journals/Aquabyssos - Session 09 - The Mourning Strategy]]
 
 ## Player-Facing Summary
 
@@ -193,12 +193,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Sorrowmaster]]
+- [[02_Worldbuilding/People/The Sorrowmaster]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Scylla Deepdream]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Parasite Priests]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Waking Prophets]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]]
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
+- [[02_Worldbuilding/People/The Parasite Priests]]
+- [[02_Worldbuilding/People/The Waking Prophets]]

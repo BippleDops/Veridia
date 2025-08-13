@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Angels and Depths]]
+- [[02_Worldbuilding/Places/Angels and Depths]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Angels and Depths]]
+- [[02_Worldbuilding/Places/Angels and Depths]]
 
 ## Player-Facing Summary
 

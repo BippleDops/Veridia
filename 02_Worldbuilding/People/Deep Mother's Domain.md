@@ -60,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Deep Mother's Domain]]
+- [[02_Worldbuilding/People/Deep Mother's Domain]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
+- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]

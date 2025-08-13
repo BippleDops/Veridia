@@ -171,7 +171,7 @@ Legends speak of The Tidecaller as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Tidecaller]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Tidecaller]]
+- [[02_Worldbuilding/People/The Tidecaller]]
+- [[02_Worldbuilding/Places/The Tidecaller]]
 
 <!-- enriched: true -->

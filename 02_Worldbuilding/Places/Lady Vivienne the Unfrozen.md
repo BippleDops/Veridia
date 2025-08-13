@@ -39,15 +39,15 @@ world: Aquabyssos
 
 ## Overview
 
-Thornwhisper Manor stands as a haunting monument to desperate love and temporal magic gone wrong. Once the grand estate of [[vault_backup_20250813_073007/02_Worldbuilding/People/Lady Vivienne Thornwhisper]], this magnificent underwater mansion exists in a state of temporal suspension, caught between moments when the lady attempted to save her family from the encroaching corruption. Now known as "The Unfrozen Estate," it serves as both a treasure trove of pre-corruption artifacts and a deadly maze of temporal anomalies.
+Thornwhisper Manor stands as a haunting monument to desperate love and temporal magic gone wrong. Once the grand estate of [[02_Worldbuilding/People/Lady Vivienne Thornwhisper]], this magnificent underwater mansion exists in a state of temporal suspension, caught between moments when the lady attempted to save her family from the encroaching corruption. Now known as "The Unfrozen Estate," it serves as both a treasure trove of pre-corruption artifacts and a deadly maze of temporal anomalies.
 
 ## Physical Description
 
-The manor is a sprawling complex of interconnected coral towers and kelp gardens, all suspended in shimmering bubbles of frozen time. The architecture represents the height of pre-corruption [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] nobility:
+The manor is a sprawling complex of interconnected coral towers and kelp gardens, all suspended in shimmering bubbles of frozen time. The architecture represents the height of pre-corruption [[02_Worldbuilding/Places/Aquabyssos]] nobility:
 
 ### Main Structure
 - **The Grand Ballroom**: A massive chamber where guests are forever frozen mid-dance
-- **The Crystal Conservatory**: Rare plants from both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] in eternal bloom
+- **The Crystal Conservatory**: Rare plants from both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] in eternal bloom
 - **The Temporal Library**: Books that rewrite themselves as time fluctuates
 - **Living Quarters**: Bedrooms where inhabitants sleep in suspended animation
 - **The Sealed Wing**: Lady Vivienne's private chambers, heavily warded against intrusion
@@ -60,7 +60,7 @@ The manor is a sprawling complex of interconnected coral towers and kelp gardens
 
 ## Key NPCs
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/People/Lady Vivienne Thornwhisper]] - "The Unfrozen"
+### [[02_Worldbuilding/People/Lady Vivienne Thornwhisper]] - "The Unfrozen"
 *Medium humanoid (elf), chaotic neutral*
 **AS** 18 (Natural Armor) **HP** 200 **Speed** 30 ft., swim 30 ft., fly 60 ft.
 **STR** 12 **DEX** 18 **CON** 16 **INT** 22 **WIS** 14 **CHA** 20
@@ -80,16 +80,16 @@ A tragic figure who appears as multiple versions of herself from different time 
 
 ### The Frozen Household
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aldric Thornwhisper]] (Deceased/Frozen)
+#### [[02_Worldbuilding/People/Lord Aldric Thornwhisper]] (Deceased/Frozen)
 The lady's husband, preserved at the moment of his death from corruption. Sometimes speaks prophetic warnings when the temporal fields fluctuate.
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marcus Thornwhisper]] (Son, Age 12)
+#### [[02_Worldbuilding/Lore/Marcus Thornwhisper]] (Son, Age 12)
 Caught in an eternal loop of playing with his toys. Occasionally becomes aware of his situation and begs for release.
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Elena Thornwhisper]] (Daughter, Age 16)  
+#### [[02_Worldbuilding/Lore/Elena Thornwhisper]] (Daughter, Age 16)  
 Frozen while reading a book of poetry. Her tears of crystal that fall continuously have magical properties.
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Jeeves]] (Butler)
+#### [[02_Worldbuilding/Lore/Jeeves]] (Butler)
 An elderly human who maintains the manor despite being temporally displaced. Exists in multiple time periods simultaneously and remembers everything.
 
 ### Temporal Echoes
@@ -149,7 +149,7 @@ Hidden behind multiple temporal locks:
 
 ### The Family Vault
 Beneath the manor, protected by ancient wards:
-- **Pre-Corruption Artifacts**: Items from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]' golden age worth 5,000 gp
+- **Pre-Corruption Artifacts**: Items from [[02_Worldbuilding/Places/Aquabyssos]]' golden age worth 5,000 gp
 - **Thornwhisper Heirlooms**: Noble regalia with protective enchantments
 - **Emergency Reserves**: 2,000 platinum pieces, potions of longevity (x3)
 - **Secret Documents**: Evidence of the corruption's true origin
@@ -199,7 +199,7 @@ Throughout the manor:
 ## Quest Hooks
 
 ### The Temporal Cure
-[[vault_backup_20250813_073007/02_Worldbuilding/People/Lady Vivienne Thornwhisper]] believes she can reverse the corruption using temporal magic, but needs the party to retrieve the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Heart of Chronos]] from the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Time Gardens of Aethermoor]]. She offers temporal magic knowledge in exchange.
+[[02_Worldbuilding/People/Lady Vivienne Thornwhisper]] believes she can reverse the corruption using temporal magic, but needs the party to retrieve the [[02_Worldbuilding/Lore/Heart of Chronos]] from the [[02_Worldbuilding/Lore/Time Gardens of Aethermoor]]. She offers temporal magic knowledge in exchange.
 **Reward**: Unique temporal spells + Temporal Anchor staff
 
 ### The Family's Release
@@ -207,11 +207,11 @@ The lady's family begs for freedom from their temporal prison, but releasing the
 **Reward**: 1,500 gp + grateful noble family's influence
 
 ### The Corruption's Origin
-Documents in the manor suggest the corruption began with a specific ritual performed by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Corrupted Admiralty]]. Lady Vivienne needs the party to investigate and potentially travel back in time to prevent it.
+Documents in the manor suggest the corruption began with a specific ritual performed by [[02_Worldbuilding/Lore/The Corrupted Admiralty]]. Lady Vivienne needs the party to investigate and potentially travel back in time to prevent it.
 **Reward**: 2,000 gp + ability to alter one past event
 
 ### The Temporal Artifact
-A powerful artifact called the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crown of Endless Moments]] is hidden somewhere in the manor's temporal maze. Multiple factions seek it for different purposes. The party must navigate the hazards and compete with other treasure hunters.
+A powerful artifact called the [[02_Worldbuilding/Lore/Crown of Endless Moments]] is hidden somewhere in the manor's temporal maze. Multiple factions seek it for different purposes. The party must navigate the hazards and compete with other treasure hunters.
 **Reward**: Major magical artifact + elimination of rival faction
 
 ### The Memory Thief
@@ -220,22 +220,22 @@ Someone is stealing specific memories from the manor's temporal echoes, weakenin
 
 ## Connected Locations
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Time Gardens of Aethermoor]]**: Source of temporal magic and artifacts
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hopekeeper Academy]]**: Scholars studying the temporal anomalies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Corrupted Admiralty]]**: Original source of the corruption
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Caves of Aethermoor]]**: Where temporal magic crystals are found
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Coral Reefs]]**: Natural repositories of temporal echoes
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Ironlung Tavern]]**: Rumors and information about the manor circulate here
+- **[[02_Worldbuilding/Lore/Time Gardens of Aethermoor]]**: Source of temporal magic and artifacts
+- **[[02_Worldbuilding/Places/The Hopekeeper Academy]]**: Scholars studying the temporal anomalies
+- **[[02_Worldbuilding/Lore/The Corrupted Admiralty]]**: Original source of the corruption
+- **[[02_Worldbuilding/Lore/Crystal Caves of Aethermoor]]**: Where temporal magic crystals are found
+- **[[02_Worldbuilding/Places/Memory Coral Reefs]]**: Natural repositories of temporal echoes
+- **[[02_Worldbuilding/Lore/The Ironlung Tavern]]**: Rumors and information about the manor circulate here
 
 ## Lore and Secrets
 
-- Lady Vivienne was once engaged to a powerful mage from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] who taught her temporal magic
+- Lady Vivienne was once engaged to a powerful mage from [[02_Worldbuilding/Places/Aethermoor]] who taught her temporal magic
 - The manor sits on a natural convergence of ley lines that amplify time magic
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aldric Thornwhisper]] was secretly researching the corruption before his death
+- [[02_Worldbuilding/People/Lord Aldric Thornwhisper]] was secretly researching the corruption before his death
 - The children's toys are actually powerful magical foci disguised for their protection
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Jeeves]] remembers everything because he exists outside normal time flow
+- [[02_Worldbuilding/Lore/Jeeves]] remembers everything because he exists outside normal time flow
 - The manor's temporal field is slowly failing, and complete collapse would release devastating temporal energy
-- One of the guest bedrooms contains a portal to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] that only opens during temporal fluctuations
+- One of the guest bedrooms contains a portal to [[02_Worldbuilding/Places/Aethermoor]] that only opens during temporal fluctuations
 - Lady Vivienne has seen the future where the corruption is defeated, but the cost is terrible
 
 ## Temporal Phenomena Calendar
@@ -259,8 +259,8 @@ Someone is stealing specific memories from the manor's temporal echoes, weakenin
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverted Ballroom Wing]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Old Valdris]]
+- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[02_Worldbuilding/Places/Old Valdris]]
 
 ## Player-Facing Summary
 
@@ -282,7 +282,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
+- [[02_Worldbuilding/Places/Lady Vivienne the Unfrozen]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor]]

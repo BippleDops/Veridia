@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[02_Worldbuilding/Quests/The Whispering Expanse]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[02_Worldbuilding/Quests/The Whispering Expanse]]
 
 ## Player-Facing Summary
 

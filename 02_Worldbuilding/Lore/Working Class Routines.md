@@ -27,7 +27,7 @@ world: Both
 
 ## Overview
 
-The working classes of both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] form the essential foundation that keeps their respective societies functioning. From dawn pressure adjustments to evening wind readings, these dedicated individuals maintain the infrastructure, produce the goods, and provide the services that allow their realms to thrive. Their routines are shaped by necessity, community solidarity, and the unique environmental challenges of underwater and aerial life.
+The working classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] form the essential foundation that keeps their respective societies functioning. From dawn pressure adjustments to evening wind readings, these dedicated individuals maintain the infrastructure, produce the goods, and provide the services that allow their realms to thrive. Their routines are shaped by necessity, community solidarity, and the unique environmental challenges of underwater and aerial life.
 
 ## Aquabyssos Working Class
 
@@ -551,10 +551,10 @@ From the harbor docks of Aquabyssos to the wind platforms of Aethermoor, working
 ---
 
 **Related Topics**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/A Day in Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Noble Leisure Schedules]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Child Life in the Realms]]
+- [[02_Worldbuilding/Lore/A Day in Aquabyssos]]
+- [[02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
+- [[02_Worldbuilding/Lore/Noble Leisure Schedules]]
+- [[02_Worldbuilding/Lore/Child Life in the Realms]]
 - [[Labor Organizations and Guilds]]
 - [[Social Support Systems]]
 - [[Working Class Culture and Traditions]]

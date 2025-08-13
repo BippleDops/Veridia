@@ -27,7 +27,7 @@ world: Both
 
 ## Overview
 
-The Crystal Wardens stand as the most elite military and mystical order in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], sworn to protect the realm's crystal resources and defend against shadow corruption. Founded during the Age of First Light, they combine martial prowess with crystal-enhanced abilities, serving as both warriors and living conduits for Aethermoor's crystalline power.
+The Crystal Wardens stand as the most elite military and mystical order in [[02_Worldbuilding/Places/Aethermoor]], sworn to protect the realm's crystal resources and defend against shadow corruption. Founded during the Age of First Light, they combine martial prowess with crystal-enhanced abilities, serving as both warriors and living conduits for Aethermoor's crystalline power.
 
 Each Warden undergoes the Ritual of Crystal Bonding, permanently fusing fragments of pure Aethermoor crystal into their bodies. This transformation grants them extraordinary abilities but forever links their life force to the realm's crystal network. When a Warden falls in battle, their crystal fragments return to the Great Crystal Heart, preserving their memories and experiences for future generations.
 
@@ -41,11 +41,11 @@ The order maintains fortress-monasteries throughout Aethermoor, with their prima
 - Currently: [[High Warden Seraphiel Dawnforge]]
 
 **Crystal Commanders** (5) - Each oversees a major fortress-monastery
-- Commander of the Northern Spire - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Theron Crystalward]]
-- Commander of the Eastern Radiance - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Lysara Brightshield]]
+- Commander of the Northern Spire - [[02_Worldbuilding/Groups/Theron Crystalward]]
+- Commander of the Eastern Radiance - [[02_Worldbuilding/Groups/Lysara Brightshield]]
 - Commander of the Western Prism - [[Marcus Aurelius Shimmerstone]]
-- Commander of the Southern Facet - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Elara Crystalline]]
-- Commander of the Central Heart - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Arcturus Lumenblade]]
+- Commander of the Southern Facet - [[02_Worldbuilding/Groups/Elara Crystalline]]
+- Commander of the Central Heart - [[02_Worldbuilding/Groups/Arcturus Lumenblade]]
 
 **Shard Captains** (25) - Lead individual companies of 20 Wardens
 
@@ -116,18 +116,18 @@ Successful candidates emerge with:
 - Protected by resonance barriers that repel shadow-touched beings
 
 ### The Northern Spire
-- Watches the border with the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalline Wastes]]
+- Watches the border with the [[02_Worldbuilding/Places/Crystalline Wastes]]
 - Specializes in long-range detection and early warning systems
 - Maintains the Aurora Network of communication crystals
 
 ### The Eastern Radiance
-- Guards the trade routes to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- Guards the trade routes to [[02_Worldbuilding/Places/Port Meridian]]
 - Training center for mounted combat and rapid deployment
 - Houses the Order's griffin eyrie
 
 ### The Western Prism
 - Research facility for new crystal applications
-- Works closely with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]]
+- Works closely with [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - Contains experimental weapons and defensive systems
 
 ### The Southern Facet
@@ -154,22 +154,22 @@ Successful candidates emerge with:
 ## Relationships
 
 ### Allies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - The Wardens serve as her personal guard
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]** - Official military arm of the government
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Provides spiritual guidance
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]** - Supplies rare materials and information
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - The Wardens serve as her personal guard
+- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]** - Official military arm of the government
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Provides spiritual guidance
+- **[[02_Worldbuilding/Groups/The Liminal Trading Company]]** - Supplies rare materials and information
 
 ### Enemies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]** - Corrupt their pure crystal mission
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Shard Guardian]]** - Fallen Warden turned enemy
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]** - Corrupt their pure crystal mission
+- **[[02_Worldbuilding/People/The Crimson Shard Guardian]]** - Fallen Warden turned enemy
 - **Shadow Cultists** - Seek to corrupt or destroy crystal formations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]** - Consider the Wardens' transformation blasphemous
+- **[[02_Worldbuilding/Groups/Purist Coalition]]** - Consider the Wardens' transformation blasphemous
 
 ### Complicated
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]]** - Share goals but disagree on methods
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Respect but territorial disputes
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Biomancers]]** - Their experiments offend Warden sensibilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]** - Information source but untrustworthy
+- **[[02_Worldbuilding/Groups/The Convergence Seekers]]** - Share goals but disagree on methods
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Respect but territorial disputes
+- **[[02_Worldbuilding/People/The Biomancers]]** - Their experiments offend Warden sensibilities
+- **[[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]** - Information source but untrustworthy
 
 ## Notable Members
 
@@ -186,17 +186,17 @@ Successful candidates emerge with:
 ### Lysara Brightshield
 - Youngest ever promoted to Commander (age 35)
 - Developed new purification techniques
-- Romantic involvement with [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]
+- Romantic involvement with [[02_Worldbuilding/People/Prince Caspian Duskwater]]
 
 ## Quest Hooks
 
 1. **The Shattered Vigil** - Three Warden outposts have gone silent simultaneously. Investigation reveals their crystals have been corrupted from within. The party must uncover the traitor before the corruption spreads to the Citadel.
 
-2. **The Lost Company** - An entire company of Wardens vanished while investigating the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Wells]]. Their crystal signatures still register as alive but wrong. Rescue mission or mercy killing?
+2. **The Lost Company** - An entire company of Wardens vanished while investigating the [[02_Worldbuilding/Places/Shadow Wells]]. Their crystal signatures still register as alive but wrong. Rescue mission or mercy killing?
 
 3. **The Rejected** - A group of failed aspirants who survived the ritual but were deemed unworthy seek revenge. They've found a way to steal crystal bonds from active Wardens.
 
-4. **Crystal Harvest** - The Wardens need a rare deep crystal from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] to complete a weapon against the spreading shadow. Diplomatic mission turns to desperate heist.
+4. **Crystal Harvest** - The Wardens need a rare deep crystal from [[02_Worldbuilding/Places/Aquabyssos]] to complete a weapon against the spreading shadow. Diplomatic mission turns to desperate heist.
 
 5. **The Heretic's Truth** - A veteran Warden claims the Crystal Bonding ritual is actually feeding an ancient imprisoned entity. They seek help to investigate without alerting the Order.
 
@@ -240,67 +240,67 @@ Only 1 in 10 aspirants complete training, and of those, 30% don't survive the bo
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Consortium Security Constructs]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Carrion Court]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/The Leviathan Cult]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow War Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/The Resonance Forge Hammer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aetheron]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Aether Crystal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archbishop Mordecai Stormwright]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priest Dagon Deepcaller]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
+- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
+- [[02_Worldbuilding/Groups/Merchant Princes]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Purist Coalition]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters]]
+- [[02_Worldbuilding/Groups/The Carrion Court]]
+- [[02_Worldbuilding/Groups/The Crystal Throne]]
+- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/The Leviathan Cult]]
+- [[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow War Coalition]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
+- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[02_Worldbuilding/Items/The Resonance Forge Hammer]]
+- [[02_Worldbuilding/Lore/Aetheron]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/People/Aether Crystal]]
+- [[02_Worldbuilding/People/Archbishop Mordecai Stormwright]]
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
+- [[02_Worldbuilding/People/High Priest Dagon Deepcaller]]
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
 - [[Patriarch Valdris Lightbringer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Hidden Smuggler's Cove]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bone Colosseum]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bone Palace of Sorrows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crimson Foundries]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Hive Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Stock Exchange]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Iron Pits of Malachar]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Kraken's Harbor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows Black Market]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Screaming Battleground]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Siren's Rest Tavern]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Slave Markets of Tethys]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Vaults]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Cathedral of Stars]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Temple of Eternal Tides]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Temporal Convergence Storms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Void Tears]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Ambush Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Nature's Balance]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/The Bone Colosseum]]
+- [[02_Worldbuilding/Places/The Bone Palace of Sorrows]]
+- [[02_Worldbuilding/Places/The Crimson Foundries]]
+- [[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]
+- [[02_Worldbuilding/Places/The Crystal Hive Collective]]
+- [[02_Worldbuilding/Places/The Crystal Stock Exchange]]
+- [[02_Worldbuilding/Places/The Crystalline Foundry]]
+- [[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
+- [[02_Worldbuilding/Places/The Iron Pits of Malachar]]
+- [[02_Worldbuilding/Places/The Kraken's Harbor]]
+- [[02_Worldbuilding/Places/The Memory Meadows Black Market]]
+- [[02_Worldbuilding/Places/The Screaming Battleground]]
+- [[02_Worldbuilding/Places/The Siren's Rest Tavern]]
+- [[02_Worldbuilding/Places/The Slave Markets of Tethys]]
+- [[02_Worldbuilding/Places/The Sundered Peaks]]
+- [[02_Worldbuilding/Places/The Sundered Vaults]]
+- [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]]
+- [[02_Worldbuilding/Places/The Temple of Eternal Tides]]
+- [[02_Worldbuilding/Places/The Temporal Convergence Storms]]
+- [[02_Worldbuilding/Places/The Void Tears]]
+- [[02_Worldbuilding/Quests/Ambush Point]]
+- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[02_Worldbuilding/Quests/The Crown's Burden]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -323,6 +323,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
 
 <!-- enriched: true -->

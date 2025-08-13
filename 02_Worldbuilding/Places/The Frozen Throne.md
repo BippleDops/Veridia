@@ -28,11 +28,11 @@ world: Both
 *Where Winter Never Ends*
 
 > *"In the deepest cold where even the ocean freezes, there sits a throne of ice eternal, waiting for a ruler who will never come. They say the last queen still sits upon it, frozen in the moment of her greatest triumph and most terrible curse."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Explorer Captain Reef Deepdiver]], last known survivor of an expedition to the throne
+> — [[02_Worldbuilding/Places/Explorer Captain Reef Deepdiver]], last known survivor of an expedition to the throne
 
 ## Overview
 
-The Frozen Throne stands as one of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most mysterious and dangerous ruins, the abandoned palace-fortress of the ancient Ice Kingdom that once ruled the deepest, coldest regions of the ocean. Encased in supernatural ice that never melts despite the crushing depths, the palace remains perfectly preserved as it was 500 years ago when Queen Glacialis spoke the Curse of Eternal Winter that doomed her kingdom to save it from invasion. Now the throne room sits empty yet occupied, the palace halls echo with phantom footsteps, and the supernatural cold emanates outward, creating a zone of eternal winter in the deep ocean that few dare to explore.
+The Frozen Throne stands as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most mysterious and dangerous ruins, the abandoned palace-fortress of the ancient Ice Kingdom that once ruled the deepest, coldest regions of the ocean. Encased in supernatural ice that never melts despite the crushing depths, the palace remains perfectly preserved as it was 500 years ago when Queen Glacialis spoke the Curse of Eternal Winter that doomed her kingdom to save it from invasion. Now the throne room sits empty yet occupied, the palace halls echo with phantom footsteps, and the supernatural cold emanates outward, creating a zone of eternal winter in the deep ocean that few dare to explore.
 
 ## History and the Fall of the Ice Kingdom
 
@@ -45,7 +45,7 @@ The Frozen Throne stands as one of [[vault_backup_20250813_073007/02_Worldbuildi
 
 ### The Warming Wars
 **Timeline**: 600-520 years ago, conflicts with expanding warm-water kingdoms  
-**Invasion**: Multiple invasions from [[vault_backup_20250813_073007/02_Worldbuilding/People/The Coral Throne Syndicate]] and allied warm-water powers  
+**Invasion**: Multiple invasions from [[02_Worldbuilding/People/The Coral Throne Syndicate]] and allied warm-water powers  
 **Resistance**: Fierce resistance using ice magic and cold-environment advantages  
 **Technology**: Advanced ice weapons and defensive systems  
 **Desperation**: Growing desperation as warm-water forces adapted to cold combat
@@ -73,7 +73,7 @@ The Frozen Throne stands as one of [[vault_backup_20250813_073007/02_Worldbuildi
 
 ### Modern Rediscovery
 **Timeline**: 100 years ago, first modern expedition reached the palace  
-**Explorers**: Brave explorers from various [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] nations  
+**Explorers**: Brave explorers from various [[02_Worldbuilding/Places/Aquabyssos]] nations  
 **Findings**: Documentation of palace's preserved state and supernatural properties  
 **Losses**: High casualty rate among expeditions due to supernatural dangers  
 **Reputation**: Growing reputation as cursed location best left undisturbed
@@ -277,7 +277,7 @@ The Frozen Throne stands as one of [[vault_backup_20250813_073007/02_Worldbuildi
 
 #### Historical Records
 **Documents**: Complete historical records of ice kingdom  
-**Perspective**: Unique perspective on [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] history  
+**Perspective**: Unique perspective on [[02_Worldbuilding/Places/Aquabyssos]] history  
 **Secrets**: Royal secrets and diplomatic correspondence  
 **Culture**: Detailed records of ice kingdom culture and customs  
 **Value**: Immense historical value for scholars and historians
@@ -506,7 +506,7 @@ The Frozen Throne stands as one of [[vault_backup_20250813_073007/02_Worldbuildi
 **Politics**: Complex political situation involving multiple kingdoms  
 **Exploration**: Dangerous exploration to reach crown  
 **Combat**: Combat with rival expedition groups  
-**Resolution**: Resolution affecting balance of power in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Resolution**: Resolution affecting balance of power in [[02_Worldbuilding/Places/Aquabyssos]]
 
 #### The Frozen Queen's Return
 **Level**: 16-20  
@@ -514,7 +514,7 @@ The Frozen Throne stands as one of [[vault_backup_20250813_073007/02_Worldbuildi
 **Diplomacy**: Diplomatic contact with ancient queen  
 **Conflict**: Potential conflict between ancient and modern powers  
 **Alliance**: Possible alliance with awakened ice kingdom  
-**Change**: Major changes to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] political and magical landscape
+**Change**: Major changes to [[02_Worldbuilding/Places/Aquabyssos]] political and magical landscape
 
 ### Medium Adventures
 
@@ -570,28 +570,28 @@ The Frozen Throne stands as one of [[vault_backup_20250813_073007/02_Worldbuildi
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+### [[02_Worldbuilding/Places/Abyssos Prime]]
 **Interest**: Royal interest in ice kingdom artifacts and knowledge  
 **Expeditions**: Government-sponsored expeditions to palace  
 **Research**: Royal scholarly interest in historical discoveries  
 **Security**: Security concerns about powerful ancient magic  
 **Politics**: Political implications of ice kingdom discoveries
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Market]]
+### [[02_Worldbuilding/Places/The Depth Market]]
 **Trade**: Trading in ice kingdom artifacts and knowledge  
 **Demand**: High demand for rare ice kingdom items  
 **Authentication**: Authentication services for ice kingdom artifacts  
 **Information**: Market intelligence about palace expeditions  
 **Risk**: High-risk, high-reward trading in cursed artifacts
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+### [[02_Worldbuilding/Places/Memory Farmers]]
 **Interest**: Interest in preserved memories and knowledge from palace  
 **Services**: Memory services for expedition survivors  
 **Research**: Research into memory preservation techniques  
 **Knowledge**: Accessing stored memories of kingdom inhabitants  
 **Ethics**: Ethical questions about harvesting memories from frozen souls
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+### [[02_Worldbuilding/Places/Parliament of Echoes]]
 **Policy**: Policies regarding exploration and artifact recovery  
 **Law**: Legal questions about ownership of ancient kingdom property  
 **Research**: Government research into ice kingdom history and magic  
@@ -612,27 +612,27 @@ The Frozen Throne stands as one of [[vault_backup_20250813_073007/02_Worldbuildi
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Market]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/The Depth Market]]
+- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Explorer Captain Reef Deepdiver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Glacialis]] (frozen)
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Ice Kingdom Spirits]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Guardians]]
+- [[02_Worldbuilding/Places/Explorer Captain Reef Deepdiver]]
+- [[02_Worldbuilding/People/Queen Glacialis]] (frozen)
+- [[02_Worldbuilding/People/Ice Kingdom Spirits]]
+- [[02_Worldbuilding/Places/Palace Guardians]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crown of Eternal Ice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Scepter of Winter's Command]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Curse of Eternal Winter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Ice Kingdom Magic]]
+- [[02_Worldbuilding/Places/Crown of Eternal Ice]]
+- [[02_Worldbuilding/Places/Scepter of Winter's Command]]
+- [[02_Worldbuilding/Places/Curse of Eternal Winter]]
+- [[02_Worldbuilding/People/Ice Kingdom Magic]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Old Valdris]]
+- [[02_Worldbuilding/Places/Old Valdris]]
 
 ## Player-Facing Summary
 
@@ -654,6 +654,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Frozen Throne]]
+- [[02_Worldbuilding/Places/The Frozen Throne]]
 
 <!-- enriched: true -->

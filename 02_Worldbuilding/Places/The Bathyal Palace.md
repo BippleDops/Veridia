@@ -40,26 +40,26 @@ world: Both
 # The Bathyal Palace - The Court of Currents
 
 ## Overview
-Suspended in the open water at 2,800 feet depth, the Bathyal Palace is a massive structure of crystallized water and compressed pearl that serves as the neutral meeting ground for all major factions of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]. Built on the site where the last surface kingdoms signed their final treaty before [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]], it remains magically neutral territory where violence is supposedly impossible.
+Suspended in the open water at 2,800 feet depth, the Bathyal Palace is a massive structure of crystallized water and compressed pearl that serves as the neutral meeting ground for all major factions of [[02_Worldbuilding/Lore/Aquabyssos World Overview]]. Built on the site where the last surface kingdoms signed their final treaty before [[02_Worldbuilding/Places/The Great Drowning]], it remains magically neutral territory where violence is supposedly impossible.
 
 ## Areas
 
 ### The Neutral Hall
-A vast central chamber where faction representatives meet. The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Bathyal Succession]] council convenes here, with each faction holding an equal voice. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Serenity Stillwater]] facilitates negotiations with supernatural patience.
+A vast central chamber where faction representatives meet. The [[02_Worldbuilding/Places/Bathyal Succession]] council convenes here, with each faction holding an equal voice. [[02_Worldbuilding/Places/Mediator Serenity Stillwater]] facilitates negotiations with supernatural patience.
 
 ### The Embassy Ring
 Circular arrangement of embassy suites, each maintained by different factions:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]] suite (East)
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Courts]] chambers (South)
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]] quarters (North)
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Church of the Tidal Throne]] sanctuary (West)
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]] hidden rooms (location varies)
+- [[02_Worldbuilding/Places/Tethyan Hegemony]] suite (East)
+- [[02_Worldbuilding/Places/Coral Courts]] chambers (South)
+- [[02_Worldbuilding/Places/Depth Wardens]] quarters (North)
+- [[02_Worldbuilding/Places/Church of the Tidal Throne]] sanctuary (West)
+- [[02_Worldbuilding/Places/Free Current]] hidden rooms (location varies)
 
 ### The Archive of Accords
-Library containing every treaty, agreement, and contract signed in the palace. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper of Contracts Minerva Bindingword]] ensures all agreements are magically enforced.
+Library containing every treaty, agreement, and contract signed in the palace. [[02_Worldbuilding/Places/Keeper of Contracts Minerva Bindingword]] ensures all agreements are magically enforced.
 
 ### The Depth Gardens
-Floating gardens of cultivated kelp and coral where private negotiations occur. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Garden Keeper Zen Currentdancer]] maintains the delicate ecosystem and "accidentally" overhears many secrets.
+Floating gardens of cultivated kelp and coral where private negotiations occur. [[02_Worldbuilding/Places/Garden Keeper Zen Currentdancer]] maintains the delicate ecosystem and "accidentally" overhears many secrets.
 
 ### The Observation Sphere
 Transparent sphere at the palace's peak offering 360-degree views. Used for divination and watching for approaching threats or visitors.
@@ -67,13 +67,13 @@ Transparent sphere at the palace's peak offering 360-degree views. Used for divi
 ## Notable Features
 
 ### The Peace Field
-Magical barrier preventing all violence within the palace. Weapons become ethereal, and hostile magic simply fails. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Enchanter Valdris Peacewarden]] maintains this ancient magic.
+Magical barrier preventing all violence within the palace. Weapons become ethereal, and hostile magic simply fails. [[02_Worldbuilding/Places/Enchanter Valdris Peacewarden]] maintains this ancient magic.
 
 ### The Speaking Pool
 Scrying pool allowing communication with any location in Aquabyssos. Heavily monitored and restricted to official use.
 
 ### The Neutral Vault
-Repository of disputed items held until ownership is resolved. Currently contains several artifacts including pieces of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Pressure Crown]].
+Repository of disputed items held until ownership is resolved. Currently contains several artifacts including pieces of [[02_Worldbuilding/Places/The Pressure Crown]].
 
 ### The Treaty Stone
 Original stone where the pre-drowning treaty was signed. Touching it while lying causes immediate expulsion from the palace.
@@ -81,44 +81,44 @@ Original stone where the pre-drowning treaty was signed. Touching it while lying
 ## Court Intrigue
 
 ### Current Power Players
- - [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]] (Tethyan Hegemony) - Master manipulator
- - [[vault_backup_20250813_073007/02_Worldbuilding/People/Duke Cyrus Reefheart]] (Coral Courts) - Seeking biological supremacy
+ - [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]] (Tethyan Hegemony) - Master manipulator
+ - [[02_Worldbuilding/People/Duke Cyrus Reefheart]] (Coral Courts) - Seeking biological supremacy
  - [[02_Worldbuilding/People/Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]] (Depth Wardens) - Admiral's son, seeking independence
- - [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]] (Church) - Preaching apocalyptic visions
- - [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Broker Mist]] (Free Current) - Identity unknown, influences through proxies
+ - [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] (Church) - Preaching apocalyptic visions
+ - [[02_Worldbuilding/People/Shadow Broker Mist]] (Free Current) - Identity unknown, influences through proxies
 
 ### Ongoing Schemes
-1. The succession crisis - who will lead when [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Stillwater]] retires
+1. The succession crisis - who will lead when [[02_Worldbuilding/Places/Mediator Stillwater]] retires
 2. Secret alliance negotiations between unlikely factions
 3. Assassination attempts disguised as accidents
 4. Theft of treaty documents to void agreements
-5. Infiltration by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deepmind Conspiracy]] agents
+5. Infiltration by [[02_Worldbuilding/Places/Deepmind Conspiracy]] agents
 
 ## Services & Amenities
 
 ### The Diplomatic Suite
-Luxury accommodations for visiting dignitaries. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Concierge Phillip Gracewater]] attends to guests while gathering intelligence.
+Luxury accommodations for visiting dignitaries. [[02_Worldbuilding/Places/Concierge Phillip Gracewater]] attends to guests while gathering intelligence.
 
 ### The Neutral Table
-Restaurant serving cuisine from all regions. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chef Amara Tastecurrent]] creates dishes that remind diners of the surface world.
+Restaurant serving cuisine from all regions. [[02_Worldbuilding/Places/Chef Amara Tastecurrent]] creates dishes that remind diners of the surface world.
 
 ### The Bathyal Bank
-Financial institution managing inter-faction trade. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Banker Cornelius Goldflow]] knows everyone's debts and assets.
+Financial institution managing inter-faction trade. [[02_Worldbuilding/Places/Banker Cornelius Goldflow]] knows everyone's debts and assets.
 
 ### The Message Service
-Secure courier service between factions. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Courier Chief Swift Currentrider]] guarantees delivery and discretion.
+Secure courier service between factions. [[02_Worldbuilding/Places/Courier Chief Swift Currentrider]] guarantees delivery and discretion.
 
 ## Law & Order
 - Violence is physically impossible due to the Peace Field
 - Disputes resolved through formal debate and contract
 - Violation of neutrality results in permanent banishment
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Guard Captain Neutralis]] enforces non-violent order
+- [[02_Worldbuilding/Places/Palace Guard Captain Neutralis]] enforces non-violent order
 
 ## Current Events
-1. Emergency session called regarding [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Uprising]]
+1. Emergency session called regarding [[02_Worldbuilding/Lore/The Deep Uprising]]
 2. Duke Reefheart accused of biological warfare
-3. Missing diplomat from [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
-4. Proposal to admit [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Trencher Folk]] as a faction
+3. Missing diplomat from [[02_Worldbuilding/Places/New Tethys]]
+4. Proposal to admit [[02_Worldbuilding/Places/The Trencher Folk]] as a faction
 5. Peace Field flickering in certain areas
 
 ## Secrets
@@ -130,14 +130,14 @@ Secure courier service between factions. [[vault_backup_20250813_073007/02_World
 > - The palace itself is slowly sinking toward the Hadal Depths
 
 ## Notable NPCs in Residence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Serenity Stillwater]] - Palace administrator
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]] - Tethyan representative
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper of Contracts Minerva Bindingword]] - Legal authority
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Enchanter Valdris Peacewarden]] - Peace Field maintainer
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Broker Mist]] - Free Current representative
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Garden Keeper Zen Currentdancer]] - Spy and gardener
+- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]] - Palace administrator
+- [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]] - Tethyan representative
+- [[02_Worldbuilding/Places/Keeper of Contracts Minerva Bindingword]] - Legal authority
+- [[02_Worldbuilding/Places/Enchanter Valdris Peacewarden]] - Peace Field maintainer
+- [[02_Worldbuilding/People/Shadow Broker Mist]] - Free Current representative
+- [[02_Worldbuilding/Places/Garden Keeper Zen Currentdancer]] - Spy and gardener
  - [[02_Worldbuilding/People/Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]] - Depth Warden representative
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Concierge Phillip Gracewater]] - Guest services and intelligence
+- [[02_Worldbuilding/Places/Concierge Phillip Gracewater]] - Guest services and intelligence
 
 ## Random Encounters (d10)
 1. Heated diplomatic argument testing Peace Field limits
@@ -152,22 +152,22 @@ Secure courier service between factions. [[vault_backup_20250813_073007/02_World
 10. Peace Field temporarily failing in small area
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]] - Tethyan Hegemony capital
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]] - Coral Courts seat
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]] - Depth Wardens fortress
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Cathedral of Stars]] - Church headquarters
+- [[02_Worldbuilding/Places/New Tethys]] - Tethyan Hegemony capital
+- [[02_Worldbuilding/Places/Lumengarde]] - Coral Courts seat
+- [[02_Worldbuilding/Places/Pressure's End]] - Depth Wardens fortress
+- [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]] - Church headquarters
 
 ## Quests Available
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Ground]] - Investigate Peace Field failures
+- [[02_Worldbuilding/Places/The Neutral Ground]] - Investigate Peace Field failures
 - Diplomatic Immunity - Uncover spy networks
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bathyal Succession]] - Influence succession choice
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Treaty of the Depths]] - Negotiate critical agreement
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Missing Diplomat]] - Find the vanished ambassador
+- [[02_Worldbuilding/Lore/The Bathyal Succession]] - Influence succession choice
+- [[02_Worldbuilding/Places/Treaty of the Depths]] - Negotiate critical agreement
+- [[02_Worldbuilding/Places/The Missing Diplomat]] - Find the vanished ambassador
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
 
 ## Player-Facing Summary
 
@@ -189,21 +189,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bathyal Succession]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Uprising]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Broker Mist]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Bathyal Succession]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chef Amara Tastecurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Concierge Phillip Gracewater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deepmind Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Enchanter Valdris Peacewarden]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Serenity Stillwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Missing Diplomat]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Treaty of the Depths]]
+- [[02_Worldbuilding/Lore/The Bathyal Succession]]
+- [[02_Worldbuilding/Lore/The Deep Uprising]]
+- [[02_Worldbuilding/People/Shadow Broker Mist]]
+- [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]]
+- [[02_Worldbuilding/Places/Bathyal Succession]]
+- [[02_Worldbuilding/Places/Chef Amara Tastecurrent]]
+- [[02_Worldbuilding/Places/Concierge Phillip Gracewater]]
+- [[02_Worldbuilding/Places/Deepmind Conspiracy]]
+- [[02_Worldbuilding/Places/Depth Wardens]]
+- [[02_Worldbuilding/Places/Enchanter Valdris Peacewarden]]
+- [[02_Worldbuilding/Places/Free Current]]
+- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[02_Worldbuilding/Places/The Missing Diplomat]]
+- [[02_Worldbuilding/Places/Treaty of the Depths]]

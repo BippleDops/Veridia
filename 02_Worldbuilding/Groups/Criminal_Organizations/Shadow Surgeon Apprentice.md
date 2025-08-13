@@ -7,7 +7,7 @@ created_by: auto-stub
 faction_type: Medical Training Organization
 headquarters: '[[The Umbral Medical Academy]]'
 influence: Shadow Medical Community, Specialized Healthcare
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Master Surgeon Thane Shadowmend]]'
+leader: '[[02_Worldbuilding/Lore/Master Surgeon Thane Shadowmend]]'
 members: ~80 apprentices, ~25 master surgeons, ~120 support staff
 modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
@@ -40,7 +40,7 @@ world: Aquabyssos
 
 ## Organization Overview
 
-The Shadow Surgeon Apprentice represents the formal training organization for the highly specialized field of shadow surgery in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. This medical educational institution addresses the unique challenges of treating shadow-touched individuals, whose transformed physiology requires completely different approaches to surgery, healing, and medical intervention than conventional medicine can provide.
+The Shadow Surgeon Apprentice represents the formal training organization for the highly specialized field of shadow surgery in [[02_Worldbuilding/Places/Aquabyssos]]. This medical educational institution addresses the unique challenges of treating shadow-touched individuals, whose transformed physiology requires completely different approaches to surgery, healing, and medical intervention than conventional medicine can provide.
 
 Shadow surgery involves working with patients whose bodies have been fundamentally altered by shadow energy, creating new organs, modifying existing biological systems, and introducing shadow-based physiological processes that conventional medical training cannot address. The apprenticeship program combines traditional medical knowledge with cutting-edge research into shadow physiology, creating a new generation of medical professionals capable of treating the transformed population.
 
@@ -546,27 +546,27 @@ Balancing research needs with educational and service responsibilities.
 
 **Key Locations**:
 - [[The Umbral Medical Academy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Surgery Training Hospitals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Medical Research Laboratories]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Health Centers]]
+- [[02_Worldbuilding/Lore/Shadow Surgery Training Hospitals]]
+- [[02_Worldbuilding/Lore/Medical Research Laboratories]]
+- [[02_Worldbuilding/Lore/Community Health Centers]]
 
 **Notable NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Master Surgeon Thane Shadowmend]]
+- [[02_Worldbuilding/Lore/Master Surgeon Thane Shadowmend]]
 - [[Anatomy Master Dr. Vera Shadowbody]]
 - [[Surgery Master Dr. Marcus Deptblade]]
 - [[Student Master Dr. Mentor Guideheart]]
 
 **Important Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Surgery Techniques]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Physiology and Anatomy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Medical Ethics]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Medical Training Methods]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Community Healthcare]]
+- [[02_Worldbuilding/Lore/Shadow Surgery Techniques]]
+- [[02_Worldbuilding/Lore/Shadow Physiology and Anatomy]]
+- [[02_Worldbuilding/Lore/Shadow Medical Ethics]]
+- [[02_Worldbuilding/Lore/Shadow Medical Training Methods]]
+- [[02_Worldbuilding/Lore/Shadow Community Healthcare]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
 
 ## Player-Facing Summary
 

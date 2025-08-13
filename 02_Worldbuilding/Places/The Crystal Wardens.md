@@ -42,11 +42,11 @@ world: Aethermoor
 
 ## Overview
 
-The Crystal Wardens represent the elite military order of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], combining the realm's mastery of crystal technology with centuries of martial tradition. More than mere soldiers, they are the living embodiment of Aethermoor's ideals: precision, harmony, technological innovation, and unwavering dedication to protecting both the realm and its people.
+The Crystal Wardens represent the elite military order of [[02_Worldbuilding/Places/Aethermoor]], combining the realm's mastery of crystal technology with centuries of martial tradition. More than mere soldiers, they are the living embodiment of Aethermoor's ideals: precision, harmony, technological innovation, and unwavering dedication to protecting both the realm and its people.
 
 Founded during the early days of crystal cultivation, the Crystal Wardens have evolved from simple mine guards into a sophisticated military force that serves as both the realm's primary defense and its technological vanguard. Each Warden undergoes years of training that merges traditional combat techniques with advanced crystal manipulation, creating warriors capable of channeling the very essence of their homeland into devastating military effectiveness.
 
-The organization operates from their fortress-monastery, [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystalline Citadel]], but maintains outposts throughout Aethermoor, from the floating [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]] to the deep mining complexes of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]. Their influence extends beyond military matters, as they also serve as researchers, diplomats, and keepers of ancient crystal lore.
+The organization operates from their fortress-monastery, [[02_Worldbuilding/Lore/The Crystalline Citadel]], but maintains outposts throughout Aethermoor, from the floating [[02_Worldbuilding/Places/Azure Citadel]] to the deep mining complexes of [[02_Worldbuilding/Places/Crystalhaven]]. Their influence extends beyond military matters, as they also serve as researchers, diplomats, and keepers of ancient crystal lore.
 
 ## Organizational Structure
 
@@ -57,13 +57,13 @@ The supreme leader of the Crystal Wardens, currently held by High Warden Solariu
 
 **Council of Prisms** - Seven senior leaders
 Each member specializes in a different aspect of crystal warfare and governance:
-- **Prism Warden of Combat** - [[vault_backup_20250813_073007/02_Worldbuilding/People/Vanguard Captain Crystalla Shardstrike]] - Tactical operations and battlefield coordination
-- **Prism Warden of Research** - [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Artificer-General Magnus Gemheart]] - Crystal technology development and innovation
-- **Prism Warden of Intelligence** - [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spymaster Quartz Clearview]] - Information gathering and strategic analysis
-- **Prism Warden of Training** - [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Drill Commander Titanius Ironcrystal]] - Recruitment and education programs
-- **Prism Warden of Diplomacy** - [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ambassador-Warden Luna Peacegem]] - External relations and treaty negotiations
-- **Prism Warden of Supply** - [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quartermaster Sterling Suppystone]] - Logistics, equipment, and resource management
-- **Prism Warden of Justice** - [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Judge-Militant Adamant Truestone]] - Military law and internal discipline
+- **Prism Warden of Combat** - [[02_Worldbuilding/People/Vanguard Captain Crystalla Shardstrike]] - Tactical operations and battlefield coordination
+- **Prism Warden of Research** - [[02_Worldbuilding/Lore/Artificer-General Magnus Gemheart]] - Crystal technology development and innovation
+- **Prism Warden of Intelligence** - [[02_Worldbuilding/Lore/Spymaster Quartz Clearview]] - Information gathering and strategic analysis
+- **Prism Warden of Training** - [[02_Worldbuilding/Lore/Drill Commander Titanius Ironcrystal]] - Recruitment and education programs
+- **Prism Warden of Diplomacy** - [[02_Worldbuilding/Lore/Ambassador-Warden Luna Peacegem]] - External relations and treaty negotiations
+- **Prism Warden of Supply** - [[02_Worldbuilding/Places/Quartermaster Sterling Suppystone]] - Logistics, equipment, and resource management
+- **Prism Warden of Justice** - [[02_Worldbuilding/Lore/Judge-Militant Adamant Truestone]] - Military law and internal discipline
 
 ### Operational Divisions
 
@@ -529,22 +529,22 @@ Ancient legends speak of a master crystal that could enhance Crystal Warden abil
 ## Connections and Cross-References
 
 ### Related Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystalline Citadel]] - Primary headquarters and training facility
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]] - Secondary command center and aerial operations base
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Major recruitment and supply center
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Gardens]] - Research and development facilities
+- [[02_Worldbuilding/Lore/The Crystalline Citadel]] - Primary headquarters and training facility
+- [[02_Worldbuilding/Places/Azure Citadel]] - Secondary command center and aerial operations base
+- [[02_Worldbuilding/Places/Crystalhaven]] - Major recruitment and supply center
+- [[02_Worldbuilding/Lore/The Crystal Gardens]] - Research and development facilities
 
 ### Associated Organizations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Government]] - Civilian leadership and political oversight
+- [[02_Worldbuilding/Lore/Aethermoor Government]] - Civilian leadership and political oversight
 - [[02_Worldbuilding/Groups/Crystal Merchants Guil|02 Worldbuilding/Groups/Crystal Merchants Guil]] - Equipment suppliers and technology partners
 - [[Academy of Sciences]] - Research collaboration and technological development
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Diplomatic Corps]] - Joint operations and international relations
+- [[02_Worldbuilding/Places/Diplomatic Corps]] - Joint operations and international relations
 
 ### Key Figures
 - [[High Warden Solarius Brightforge]] - Supreme commander
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vanguard Captain Crystalla Shardstrike]] - Combat operations leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Artificer-General Magnus Gemheart]] - Technology development chief
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spymaster Quartz Clearview]] - Intelligence operations director
+- [[02_Worldbuilding/People/Vanguard Captain Crystalla Shardstrike]] - Combat operations leader
+- [[02_Worldbuilding/Lore/Artificer-General Magnus Gemheart]] - Technology development chief
+- [[02_Worldbuilding/Lore/Spymaster Quartz Clearview]] - Intelligence operations director
 
 ## Secrets and Mysteries
 
@@ -577,9 +577,9 @@ Evidence hints at the existence of a rival or subsidiary organization operating 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aetheron]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/Lore/Aetheron]]
+- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Places/Crystalhaven]]
 
 ## Player-Facing Summary
 
@@ -595,8 +595,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Wardens]]
+- [[02_Worldbuilding/Places/The Crystal Wardens]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Azure Citadel]]

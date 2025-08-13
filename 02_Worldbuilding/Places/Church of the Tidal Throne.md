@@ -23,14 +23,14 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location Index]]
+- [[02_Worldbuilding/Lore/Location Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
 
 ## Player-Facing Summary
 

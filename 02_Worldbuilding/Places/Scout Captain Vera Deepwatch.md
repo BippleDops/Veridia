@@ -23,13 +23,13 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/Places/The Cerulean Trench]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/Places/The Cerulean Trench]]
 
 ## Player-Facing Summary
 

@@ -88,8 +88,8 @@ Balance body horror with investigative mystery. The conscious crystal victims cr
 
 ## Connections
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
+- [[1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]
 
 
 ## Appearance
@@ -137,7 +137,7 @@ Legends speak of Investigate the Crystal Plague as a nexus where past and presen
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Investigate the Crystal Plague]]
+- [[02_Worldbuilding/People/Investigate the Crystal Plague]]
 
 <!-- enriched: true -->
 nriched: true -->

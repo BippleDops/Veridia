@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium]]
 
 ## Player-Facing Summary
 

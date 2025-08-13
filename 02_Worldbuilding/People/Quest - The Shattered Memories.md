@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]
+- [[02_Worldbuilding/People/The Crimson Sage]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]
+- [[02_Worldbuilding/People/The Crimson Sage]]
 
 ## Player-Facing Summary
 

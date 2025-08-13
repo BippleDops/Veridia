@@ -179,6 +179,6 @@ Legends speak of Constellation Codex as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Constellation Codex]]
+- [[02_Worldbuilding/Places/Constellation Codex]]
 
 <!-- enriched: true -->

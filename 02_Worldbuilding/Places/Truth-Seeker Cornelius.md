@@ -62,11 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Truth-Seeker Cornelius]]
+- [[02_Worldbuilding/Places/Truth-Seeker Cornelius]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Whisper-Touched William]]
+- [[02_Worldbuilding/Places/Whisper-Touched William]]

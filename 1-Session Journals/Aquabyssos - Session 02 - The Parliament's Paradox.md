@@ -6,17 +6,17 @@ date_played: null
 depth: 1,800 feet
 estimated_time: 4 hours
 level: 5
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] - Debate Chambers'
+location: '[[02_Worldbuilding/Places/Parliament of Echoes]] - Debate Chambers'
 npcs_featured:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten Representative]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Time-Lost Delegate Chronus]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/People/Senator Glaucus]]'
+- '[[02_Worldbuilding/Places/The Forgotten Representative]]'
+- '[[02_Worldbuilding/Places/Time-Lost Delegate Chronus]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
 obsidianUIMode: preview
 quests_advanced:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Anomaly Resolution]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Vote Vault Mystery]]'
+- '[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]]'
+- '[[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]'
+- '[[02_Worldbuilding/Places/The Vote Vault Mystery]]'
 session_number: 2
 status: draft
 tags:
@@ -245,10 +245,10 @@ In Exchange:
 During the night, the party witnesses their shadows having a meeting without them, using shadow-speech the party can't understand. Marina's shadow appears independently: "The Duchess arrives tomorrow. Your shadows have already voted to replace you. You have six hours to choose: join willingly, or be harvested. Oh, and that vote you saw today? You already lost it. You just don't remember yet."
 
 ## 🔗 Connections
-- **Previous**: [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
-- **Next**: [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
-- **NPCs Met**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Time-Lost Delegate Chronus]], [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten Representative]]
-- **Locations Discovered**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vote Vaults]], [[vault_backup_20250813_073007/02_Worldbuilding/Places/Amnesia Gallery]]
+- **Previous**: [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
+- **Next**: [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- **NPCs Met**: [[02_Worldbuilding/Places/Time-Lost Delegate Chronus]], [[02_Worldbuilding/Places/The Forgotten Representative]]
+- **Locations Discovered**: [[02_Worldbuilding/Places/Vote Vaults]], [[02_Worldbuilding/Places/Amnesia Gallery]]
 - **Mysteries Advanced**: Shadow Conspiracy, Temporal Anomalies
 
 ## 📝 DM Notes
@@ -291,11 +291,11 @@ During the night, the party witnesses their shadows having a meeting without the
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Amnesia Gallery]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten Representative]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vote Vaults]]
+- [[02_Worldbuilding/Places/Amnesia Gallery]]
+- [[02_Worldbuilding/Places/The Forgotten Representative]]
+- [[02_Worldbuilding/Places/Vote Vaults]]

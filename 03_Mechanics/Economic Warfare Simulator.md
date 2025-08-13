@@ -24,7 +24,7 @@ Markets as battlegrounds: supply/demand for 100+ goods, manipulation, sabotage, 
 
 ## Market Model
 - Goods: Crystal grades, pressure tech, memory pearls, anchors, foodstuffs, artifacts
-- Price = Base × Demand/ Supply × Reality Modifier (from [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]])
+- Price = Base × Demand/ Supply × Reality Modifier (from [[03_Mechanics/Complete Reality Merger System]])
 
 ## Manipulation Tools
 - Buyouts, embargoes, counterfeit charts, rumor campaigns, anchor control
@@ -33,14 +33,14 @@ Markets as battlegrounds: supply/demand for 100+ goods, manipulation, sabotage, 
 - Attack infrastructure (see [[Transportation_Infrastructure|Transportation Infrastructure]]), bribe officials, infect parasites into supply chains
 
 ## Trade Route Risk/Reward
-- Use [[vault_backup_20250813_073007/06_GM_Resources/Travel/Travel Event Table]]; add piracy and patrol modifiers from [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]]
+- Use [[06_GM_Resources/Travel/Travel Event Table]]; add piracy and patrol modifiers from [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]]
 
 ## Currency Speculation
 - Crystal notes, Memory credits, Anchor bonds; volatility spikes near mergers
 
 ## Collapse Scenarios
 - Triggers: Anchor failure, Deep Mother cult strikes, plague waves
-- Effects: Faction pillar shocks (see [[vault_backup_20250813_073007/03_Mechanics/Complete Faction Warfare System]])
+- Effects: Faction pillar shocks (see [[03_Mechanics/Complete Faction Warfare System]])
 
 ## Player-Facing Summary
 

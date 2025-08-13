@@ -28,7 +28,7 @@ world: Both
 # The Archive of Unremembered Things
 
 ## Overview
-Deep within the darkest reaches of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], where pressure and shadow converge, lies the Archive of Unremembered Things - a vast underwater library containing every memory, fact, name, and experience that has been forgotten by the living world. Built by unknown architects in chambers that defy physics, the Archive exists as both sanctuary and prison for lost knowledge. Those who enter risk losing themselves entirely, their own memories joining the collection.
+Deep within the darkest reaches of [[02_Worldbuilding/Places/Aquabyssos]], where pressure and shadow converge, lies the Archive of Unremembered Things - a vast underwater library containing every memory, fact, name, and experience that has been forgotten by the living world. Built by unknown architects in chambers that defy physics, the Archive exists as both sanctuary and prison for lost knowledge. Those who enter risk losing themselves entirely, their own memories joining the collection.
 
 ## Physical Structure
 
@@ -95,9 +95,9 @@ The living shelf system has developed its own form of awareness through exposure
 ### The Lost Researchers
 Scholars from various civilizations who came seeking forbidden knowledge and became trapped. They retain some of their original memories but are slowly forgetting more each day. Some try to warn newcomers, while others have become obsessed with specific forgotten subjects.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Archivist Vera Glowmind]]**: Former [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]] scholar studying collective memory who has been trapped for three years. She's fighting to maintain her identity while helping others navigate the Archive safely.
+**[[02_Worldbuilding/Places/Archivist Vera Glowmind]]**: Former [[02_Worldbuilding/Places/New Tethys]] scholar studying collective memory who has been trapped for three years. She's fighting to maintain her identity while helping others navigate the Archive safely.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Elder Scribe Marcus the Lost]]**: Once a historian from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], he's been here for decades and remembers only his purpose: to catalogue the memories of surface dwellers who died in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]].
+**[[02_Worldbuilding/Places/Elder Scribe Marcus the Lost]]**: Once a historian from [[02_Worldbuilding/Places/Aethermoor]], he's been here for decades and remembers only his purpose: to catalogue the memories of surface dwellers who died in [[02_Worldbuilding/Places/The Great Drowning]].
 
 ### The Forgotten Themselves
 Entities composed entirely of lost memories, these beings are the accumulated consciousness of particularly traumatic or significant forgotten events. They exist as living reminders of what was lost and can be either helpful guides or dangerous obstacles.
@@ -160,11 +160,11 @@ Chart showing the location of all forgotten places, including lost continents, v
 
 ### The Missing Scholar
 **Level**: 9-12  
-A renowned researcher from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]] has vanished while investigating lost magical techniques. The party must navigate the Archive to find them before they forget their identity completely.
+A renowned researcher from [[02_Worldbuilding/Places/The Gilded Shard]] has vanished while investigating lost magical techniques. The party must navigate the Archive to find them before they forget their identity completely.
 
 ### The Forgotten Plague
 **Level**: 11-14  
-A disease that causes memory loss has begun spreading through [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]. The cure lies in the Archive among forgotten medical knowledge, but retrieving it requires bargaining with the Coral Consciousness.
+A disease that causes memory loss has begun spreading through [[02_Worldbuilding/Places/Abyssos Prime]]. The cure lies in the Archive among forgotten medical knowledge, but retrieving it requires bargaining with the Coral Consciousness.
 
 ### The Last Testimony
 **Level**: 7-10  
@@ -176,16 +176,16 @@ An ancient conflict is about to repeat because all knowledge of how it was previ
 
 ## Connected Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
-Many of the memories in the Archive come from this city's residents, particularly from the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Conservatory of Memory]]. The two locations have a complex relationship - New Tethys tries to preserve memories while the Archive collects those that slip away.
+### [[02_Worldbuilding/Places/New Tethys]]
+Many of the memories in the Archive come from this city's residents, particularly from the [[02_Worldbuilding/Places/Conservatory of Memory]]. The two locations have a complex relationship - New Tethys tries to preserve memories while the Archive collects those that slip away.
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]
+### [[02_Worldbuilding/Places/The Memory Meadows]]
 The peaceful counterpart to the Archive, where pleasant memories are preserved and cultivated. Some scholars believe the two locations are connected by underground tunnels of living coral.
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
-The ruling class has a secret arrangement with the Archive, using it to dispose of inconvenient historical truths. [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius]] may have forgotten crucial details about his own past due to these dealings.
+### [[02_Worldbuilding/Places/The Bathyal Palace]]
+The ruling class has a secret arrangement with the Archive, using it to dispose of inconvenient historical truths. [[02_Worldbuilding/People/Emperor Thalassius]] may have forgotten crucial details about his own past due to these dealings.
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+### [[02_Worldbuilding/Places/Aethermoor]]
 Surface dwellers who die from memory-related magical accidents sometimes find their consciousness pulled to the Archive. This creates a hidden connection between the surface and depth realms.
 
 ## Random Encounters (d12)
@@ -205,22 +205,22 @@ Surface dwellers who die from memory-related magical accidents sometimes find th
 ## Secrets
 > [!warning] DM Only
 > - The Archive was created by the gods to store memories too dangerous for mortals to retain
-> - [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] was partially caused by someone recovering a specific memory from the Archive
-> - One of the Nameless Scribes is actually [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] from before his fragmentation
+> - [[02_Worldbuilding/Places/The Great Drowning]] was partially caused by someone recovering a specific memory from the Archive
+> - One of the Nameless Scribes is actually [[02_Worldbuilding/People/The Scattered Emperor]] from before his fragmentation
 > - The Archive is slowly rising toward the surface as the weight of forgotten things increases
 > - There's a secret chamber containing memories that will be forgotten in the future - a glimpse of prophecy through temporal amnesia
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten One]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Living Weapon]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Crystalline Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
+- [[02_Worldbuilding/Places/The Forgotten One]]
+- [[02_Worldbuilding/Places/The Living Weapon]]
+- [[02_Worldbuilding/Quests/Crystalline Depths]]
+- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[02_Worldbuilding/Quests/The Maw of Darkness]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
@@ -243,9 +243,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]]
+- [[02_Worldbuilding/Places/The Archive of Unremembered Things]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Archivist Vera Glowmind]]
+- [[02_Worldbuilding/People/Emperor Thalassius]]
+- [[02_Worldbuilding/People/The Scattered Emperor]]
+- [[02_Worldbuilding/Places/Archivist Vera Glowmind]]

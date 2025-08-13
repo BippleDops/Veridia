@@ -8,7 +8,7 @@ depth: 20,000-36,000+ feet
 location_type: Abyssal Zone
 obsidianUIMode: preview
 population: Unknown (Non-Euclidean)
-ruler: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]] (Sleeping)'
+ruler: '[[02_Worldbuilding/Lore/Deep Mother]] (Sleeping)'
 status: complete
 tags:
 - aquabyssos
@@ -37,7 +37,7 @@ world: Aquabyssos
 *Where Reality Drowns, The Mother's Cradle, The Final Deep*
 
 ## Overview
-The Hadal Depths represent the absolute bottom of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], where water becomes something else entirely and the laws of physics surrender to older truths. Here, at depths exceeding 20,000 feet, the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]] slumbers in her eternal dream, her massive form comprising entire mountain ranges and trenches. This is where existence becomes negotiable, where pressure transforms matter into thought, and where even [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]] fears to venture.
+The Hadal Depths represent the absolute bottom of [[02_Worldbuilding/Places/Aquabyssos]], where water becomes something else entirely and the laws of physics surrender to older truths. Here, at depths exceeding 20,000 feet, the [[02_Worldbuilding/Lore/Deep Mother]] slumbers in her eternal dream, her massive form comprising entire mountain ranges and trenches. This is where existence becomes negotiable, where pressure transforms matter into thought, and where even [[02_Worldbuilding/People/Aboleth Prime Yoth]] fears to venture.
 
 ## Geography of Impossibility
 
@@ -95,7 +95,7 @@ The Hadal Depths represent the absolute bottom of [[vault_backup_20250813_073007
 
 #### The Spawning Grounds
 **Where Nightmares Birth**
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]'s origin point
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]]'s origin point
 - Shadow creatures spontaneously generate
 - Primordial life forms beyond classification
 - New horrors born from Mother's bad dreams
@@ -115,7 +115,7 @@ The Hadal Depths represent the absolute bottom of [[vault_backup_20250813_073007
 
 #### Primordial Aboleths
 **The First Children**
-- Older than [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]
+- Older than [[02_Worldbuilding/People/Aboleth Prime Yoth]]
 - Size of small cities
 - Memories predate reality
 - Speak in gravitational waves
@@ -153,7 +153,7 @@ The Hadal Depths represent the absolute bottom of [[vault_backup_20250813_073007
 - Most die, some transform, few return
 - Those who return can't/won't speak
 - Bodies adapted beyond recognition
-- Considered holy by [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- Considered holy by [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
 
 #### The Pressure Miners
 **Resource Extractors**
@@ -161,14 +161,14 @@ The Hadal Depths represent the absolute bottom of [[vault_backup_20250813_073007
 - Use abolished slaves for labor
 - Life expectancy: 3 days
 - Operations highly secret
-- Funded by [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
+- Funded by [[02_Worldbuilding/Groups/Silverscale Consortium]]
 
 #### Lost Expeditions
 **Never Returned**
 - The Depth Finder: 200 years ago
 - Scholarly Submersible: 50 years ago
 - The Reality Anchor: Last year
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Prince Caspian's Folly]]: Status unknown
+- [[02_Worldbuilding/Lore/Prince Caspian's Folly]]: Status unknown
 - Countless others erased from history
 
 ## Environmental Hazards
@@ -254,7 +254,7 @@ The Hadal Depths represent the absolute bottom of [[vault_backup_20250813_073007
 - Grant visions of other realities
 - Allow dream manipulation
 - Risk madness with each use
-- Valuable to [[vault_backup_20250813_073007/02_Worldbuilding/People/The Siren]]
+- Valuable to [[02_Worldbuilding/People/The Siren]]
 - Currency among Dream Leviathans
 
 ### Deadly Threats
@@ -309,7 +309,7 @@ The Hadal Depths represent the absolute bottom of [[vault_backup_20250813_073007
 > - She's dreaming reality to escape something worse
 > - The depths connect to all oceans in all realities
 > - Waking her doesn't destroy—it merges all existence
-> - The [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] has been here
+> - The [[02_Worldbuilding/People/The Crimson Sage]] has been here
 
 ## Quest Hooks
 
@@ -360,32 +360,32 @@ The Hadal Depths represent the absolute bottom of [[vault_backup_20250813_073007
 ## Connected Elements
 
 ### Key NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]] - The sleeping goddess
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]] - Born here
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Sends pilgrims
+- [[02_Worldbuilding/Lore/Deep Mother]] - The sleeping goddess
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Born here
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Sends pilgrims
 - [[Primordial Aboleth Council]] - Rule depths
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The First Dreamer]] - Mother's companion?
+- [[02_Worldbuilding/Lore/The First Dreamer]] - Mother's companion?
 
 ### Related Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deepmind]] - Shallow reflection
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] - Far above
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Spawning Grounds]] - Nightmare birth
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Palace]] - Crushed nobility
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Void Beneath]] - What's under
+- [[02_Worldbuilding/Places/The Deepmind]] - Shallow reflection
+- [[02_Worldbuilding/Places/Abyssos Prime]] - Far above
+- [[02_Worldbuilding/Lore/The Spawning Grounds]] - Nightmare birth
+- [[02_Worldbuilding/Places/Pressure Palace]] - Crushed nobility
+- [[02_Worldbuilding/Lore/The Void Beneath]] - What's under
 
 ### Important Quests
 - [[02_Worldbuilding/Quests/Quest - The Deep Mother Rises|02 Worldbuilding/Quests/Quest The Deep Mother Rises]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Hadal Expedition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Mother's Tear]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Depth Pilgrimage]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Stop the Awakening]]
+- [[02_Worldbuilding/Lore/Quest - Hadal Expedition]]
+- [[02_Worldbuilding/Lore/Quest - The Mother's Tear]]
+- [[02_Worldbuilding/Lore/Quest - Depth Pilgrimage]]
+- [[02_Worldbuilding/Lore/Quest - Stop the Awakening]]
 
 ### Artifacts & Items
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Suit of the Depths]] - Survival gear
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Mother's Tear]] - Divine crystal
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Anchor]] - Existence protection
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Depth Compass]] - Points to Mother
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The First Water]] - Primordial essence
+- [[02_Worldbuilding/Lore/Pressure Suit of the Depths]] - Survival gear
+- [[02_Worldbuilding/Lore/Mother's Tear]] - Divine crystal
+- [[02_Worldbuilding/Lore/Reality Anchor]] - Existence protection
+- [[02_Worldbuilding/Lore/The Depth Compass]] - Points to Mother
+- [[02_Worldbuilding/Lore/The First Water]] - Primordial essence
 
 ---
 
@@ -394,36 +394,36 @@ The Hadal Depths represent the absolute bottom of [[vault_backup_20250813_073007
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Drowning Welcome]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vorthak]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[02_Worldbuilding/Lore/The Drowning Welcome]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/Lore/Vorthak]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
 - [[Pressure Angel Benthia]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Compass Quest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Prince Akula]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Viktor Geargrind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Navigator Flux]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Old Sally Seasprayer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Cerulean Trench]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten One]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Foundation Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Lock]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Ground]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Singing Trenches]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whispering Peaks]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vault Breach]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Crystalline Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Lock Saboteur]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Compass Quest]]
+- [[02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Depth Wardens]]
+- [[02_Worldbuilding/Places/Merchant Prince Akula]]
+- [[02_Worldbuilding/Places/Merchant Viktor Geargrind]]
+- [[02_Worldbuilding/Places/Navigator Flux]]
+- [[02_Worldbuilding/Places/Old Sally Seasprayer]]
+- [[02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/Places/The Forgotten One]]
+- [[02_Worldbuilding/Places/The Foundation Depths]]
+- [[02_Worldbuilding/Places/The Gilded Shard]]
+- [[02_Worldbuilding/Places/The Lock]]
+- [[02_Worldbuilding/Places/The Neutral Ground]]
+- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/Places/The Singing Trenches]]
+- [[02_Worldbuilding/Places/The Whispering Peaks]]
+- [[02_Worldbuilding/Places/Vault Breach]]
+- [[02_Worldbuilding/Quests/Crystalline Depths]]
+- [[02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[02_Worldbuilding/Quests/The Maw of Darkness]]
 
 ## Player-Facing Summary
 
@@ -445,6 +445,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]
 
 <!-- enriched: true -->

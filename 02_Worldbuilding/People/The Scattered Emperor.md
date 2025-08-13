@@ -11,14 +11,14 @@ depth_adapted: 6
 description: Consciousness scattered across thousands of sea creatures, primarily
   electric eels
 disposition: 0
-faction: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Abyssos Prime Government]]'
+faction: '[[02_Worldbuilding/People/Abyssos Prime Government]]'
 faction_rank: 5
 first_name: Malachus
 influence: 10
-last_encounter: '[[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]'
+last_encounter: '[[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]'
 last_name: the Eternal
 level: 20
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Abyssos Prime - Throne of Bubbles]]'
+location: '[[02_Worldbuilding/People/Abyssos Prime - Throne of Bubbles]]'
 max_hp: Infinite
 notes: Fragmented himself to avoid shadow replacement. Each fragment has different
   personality aspect.
@@ -28,14 +28,14 @@ original_race: Human
 portrait: ''
 race: Distributed Consciousness
 related_quests:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Unite the Emperor]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Investigate Shadow Conspiracy]]'
+- '[[02_Worldbuilding/People/Unite the Emperor]]'
+- '[[02_Worldbuilding/People/Investigate Shadow Conspiracy]]'
 - '[[02_Worldbuilding/Lore/The Emperor''s Gambit|The Emperor''s Gambit]]'
 relationship_type: ruler
 relationships:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+- '[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]'
 secrets:
 - Intentionally caused the original Cataclysm
 - Can reunite but will die if maintained
@@ -85,7 +85,7 @@ world: Both
 ## Description
 
 ### Current Form
-The Emperor exists as approximately 10,000 fragments of consciousness distributed across sea life within a 10-mile radius of Abyssos Prime. His primary manifestation is through a school of electric eels that swim through the air in the [[vault_backup_20250813_073007/02_Worldbuilding/People/Throne of Bubbles]], each eel containing a different aspect of his personality, memories, or emotions.
+The Emperor exists as approximately 10,000 fragments of consciousness distributed across sea life within a 10-mile radius of Abyssos Prime. His primary manifestation is through a school of electric eels that swim through the air in the [[02_Worldbuilding/People/Throne of Bubbles]], each eel containing a different aspect of his personality, memories, or emotions.
 
 ### Original Appearance (Historical)
 Before the fragmentation, Malachus was a tall, imperious figure with silver hair that moved like water and eyes that held the depth of trenches. Portraits show him wearing robes that seemed to be cut from the ocean itself.
@@ -141,10 +141,10 @@ When shadows began gaining independence 50 years ago, Malachus realized that a s
 ## Relationships
 
 ### Complex Dynamics
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]:** Knows she's investigating but can't act cohesively
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]:** Technically rules but can't enforce
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]:** One fragment trusts her, others don't
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]:** All fragments know he's a shadow
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]:** Knows she's investigating but can't act cohesively
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]:** Technically rules but can't enforce
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]:** One fragment trusts her, others don't
+- **[[02_Worldbuilding/People/Senator Glaucus]]:** All fragments know he's a shadow
 
 ### The Fragment Wars
 Different consciousness fragments have different relationships:
@@ -323,12 +323,12 @@ He partially succeeded. Aquabyssos exists in a state between real and unreal, wh
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
+- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
 - [[Pressure Angel Benthia]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]]
+- [[02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[02_Worldbuilding/Places/The Archive of Unremembered Things]]
 
 ## Player-Facing Summary
 
@@ -350,9 +350,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]
+- [[02_Worldbuilding/People/The Scattered Emperor]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Throne of Bubbles]]
+- [[02_Worldbuilding/Lore/Queen Seraphina]]
+- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
+- [[02_Worldbuilding/People/Throne of Bubbles]]

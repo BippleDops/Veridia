@@ -31,7 +31,7 @@ Simulates food chains, migrations, predator-prey, weather, symbiosis, and extinc
 
 ## Predator–Prey Mechanics
 - Predation Pressure Score modifies encounter frequency and aggression
-- Overhunting collapse → faction/economic consequences (see [[vault_backup_20250813_073007/03_Mechanics/Complete Faction Warfare System]])
+- Overhunting collapse → faction/economic consequences (see [[03_Mechanics/Complete Faction Warfare System]])
 
 ## Dynamic Weather Systems
 - Use [[Pressure & Weather Events]] to influence behavior and travel DCs

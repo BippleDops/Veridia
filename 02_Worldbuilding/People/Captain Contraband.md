@@ -60,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Contraband]]
+- [[02_Worldbuilding/People/Captain Contraband]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Marina]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Marina]]

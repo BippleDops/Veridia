@@ -45,10 +45,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Nameless Auditor]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/People/The Nameless Auditor]]

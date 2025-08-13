@@ -182,6 +182,6 @@ Legends speak of Merchant as a nexus where past and present converge. Locals des
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant]]
+- [[02_Worldbuilding/Places/Merchant]]
 
 <!-- enriched: true -->

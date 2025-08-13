@@ -3,9 +3,9 @@ alignment: Neutral Good
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Medical Research Organization
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Surgical Sanctum]] (Hospital Complex)'
+headquarters: '[[02_Worldbuilding/Lore/The Surgical Sanctum]] (Hospital Complex)'
 influence: Significant (Medical Community)
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Chief Surgeon Nerissa Tideheart]]'
+leader: '[[02_Worldbuilding/Lore/Chief Surgeon Nerissa Tideheart]]'
 members: ~450 medical professionals and researchers
 purpose: Study and counter shadow-based medical afflictions
 status: complete
@@ -34,7 +34,7 @@ world: Aquabyssos
 *The Medical Vigilants, Healers of the Light, Those Who Mend What Shadows Break*
 
 ## Overview
-The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedicated to studying, treating, and ultimately preventing the growing epidemic of shadow-related health complications plaguing [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. As shadow corruption spreads throughout the realm and [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] continues its replacement operations, the ISS has emerged as the foremost authority on shadow-inflicted medical conditions, developing treatments for everything from shadow poisoning to identity dissociation caused by shadow separation. They operate with the dual mission of healing the afflicted and gathering evidence about shadow-based crimes against the populace.
+The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedicated to studying, treating, and ultimately preventing the growing epidemic of shadow-related health complications plaguing [[02_Worldbuilding/Places/Aquabyssos]]. As shadow corruption spreads throughout the realm and [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] continues its replacement operations, the ISS has emerged as the foremost authority on shadow-inflicted medical conditions, developing treatments for everything from shadow poisoning to identity dissociation caused by shadow separation. They operate with the dual mission of healing the afflicted and gathering evidence about shadow-based crimes against the populace.
 
 ## Origins & History
 
@@ -74,11 +74,11 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 
 ### Executive Medical Board
 **Leadership Council**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Chief Surgeon Nerissa Tideheart]]**: Founder and supreme medical authority
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Research Director Aquarius Brightwater]]**: Head of shadow medical research
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Field Operations Chief Marcus Healhand]]**: Emergency response coordinator
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Ethics Coordinator Elena Compassion]]**: Medical ethics and patient advocacy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Training Director Cassius Newlight]]**: Education and professional development
+- **[[02_Worldbuilding/Lore/Chief Surgeon Nerissa Tideheart]]**: Founder and supreme medical authority
+- **[[02_Worldbuilding/Lore/Research Director Aquarius Brightwater]]**: Head of shadow medical research
+- **[[02_Worldbuilding/Lore/Field Operations Chief Marcus Healhand]]**: Emergency response coordinator
+- **[[02_Worldbuilding/People/Ethics Coordinator Elena Compassion]]**: Medical ethics and patient advocacy
+- **[[02_Worldbuilding/Lore/Training Director Cassius Newlight]]**: Education and professional development
 
 ### Specialized Divisions
 
@@ -241,37 +241,37 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 ## Known Members & Specialists
 
 ### Medical Leadership
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Chief Surgeon Nerissa Tideheart]]**: Founder and leading shadow medical expert
+- **[[02_Worldbuilding/Lore/Chief Surgeon Nerissa Tideheart]]**: Founder and leading shadow medical expert
 - **[[Dr. Aquarius Brightwater]]**: Premier researcher in shadow corruption biology
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Surgeon Marcus Healhand]]**: Emergency response specialist and trauma surgeon
+- **[[02_Worldbuilding/Lore/Surgeon Marcus Healhand]]**: Emergency response specialist and trauma surgeon
 - **[[Dr. Elena Compassion]]**: Medical ethicist and patient advocate
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professor Cassius Newlight]]**: Medical educator and training coordinator
+- **[[02_Worldbuilding/Lore/Professor Cassius Newlight]]**: Medical educator and training coordinator
 
 ### Clinical Specialists
 - **[[Dr. Marina Depthsight]]**: Shadow corruption diagnostic specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Surgeon Coral Precisehands]]**: Expert in shadow separation trauma surgery
+- **[[02_Worldbuilding/Lore/Surgeon Coral Precisehands]]**: Expert in shadow separation trauma surgery
 - **[[Dr. Jasper Memorymend]]**: Neurologist specializing in memory restoration
 - **[[Healer Sage Lightbringer]]**: Therapeutic specialist in corruption reversal
 - **[[Dr. Victoria Truescan]]**: Medical imaging expert for shadow detection
 
 ### Research Scientists
 - **[[Dr. Torres Investigation]]**: Forensic pathologist and medical examiner
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professor Diana Shadowbane]]**: Pharmacologist developing corruption treatments
+- **[[02_Worldbuilding/Lore/Professor Diana Shadowbane]]**: Pharmacologist developing corruption treatments
 - **[[Dr. Cornelius Cellstudy]]**: Biologist researching shadow effects on tissue
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Research Chief Helena Datapoint]]**: Statistician and epidemiologist
+- **[[02_Worldbuilding/Lore/Research Chief Helena Datapoint]]**: Statistician and epidemiologist
 - **[[Dr. Storm Truthfinder]]**: Psychologist specializing in replacement trauma
 
 ### Field Operatives
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Medic Captain Truewater]]**: Emergency response team leader
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Nurse Director Brightcare]]**: Community health program coordinator
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Technician Chief Scansure]]**: Diagnostic equipment specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Paramedic Supervisor Fastaid]]**: Mobile medical unit commander
+- **[[02_Worldbuilding/People/Medic Captain Truewater]]**: Emergency response team leader
+- **[[02_Worldbuilding/Lore/Nurse Director Brightcare]]**: Community health program coordinator
+- **[[02_Worldbuilding/Lore/Technician Chief Scansure]]**: Diagnostic equipment specialist
+- **[[02_Worldbuilding/Lore/Paramedic Supervisor Fastaid]]**: Mobile medical unit commander
 - **[[Health Educator Rose Awareness]]**: Public outreach and education specialist
 
 ## Resources & Medical Capabilities
 
 ### Medical Facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Surgical Sanctum]]**: Primary hospital and research complex
+- **[[02_Worldbuilding/Lore/The Surgical Sanctum]]**: Primary hospital and research complex
 - **Community Health Clinics**: Specialized shadow medicine facilities (15 locations)
 - **Emergency Response Stations**: Mobile medical deployment bases (8 sites)
 - **Research Laboratories**: Advanced shadow corruption research facilities (6 labs)
@@ -302,27 +302,27 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 
 ### Medical Community
 **Professional Integration**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Medical College of Aquabyssos]]**: Academic partnership and curriculum development
+- **[[02_Worldbuilding/Lore/Medical College of Aquabyssos]]**: Academic partnership and curriculum development
 - **[[General Practitioners Network]]**: Training and education collaboration
 - **[[Emergency Services Coordination]]**: Integration with existing healthcare system
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pharmaceutical Companies]]**: Research partnerships for treatment development
+- **[[02_Worldbuilding/Lore/Pharmaceutical Companies]]**: Research partnerships for treatment development
 - **[[International Medical Organizations]]**: Cross-realm medical knowledge exchange
 
 ### Government Agencies
 **Official Cooperation**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Department of Public Health]]**: Policy development and population health monitoring
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Law Enforcement Medical Support]]**: Forensic investigation collaboration
+- **[[02_Worldbuilding/Lore/Department of Public Health]]**: Policy development and population health monitoring
+- **[[02_Worldbuilding/Places/Law Enforcement Medical Support]]**: Forensic investigation collaboration
 - **[[Emergency Management Services]]**: Crisis response coordination
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Regulatory Medical Authorit]]**: Standards development and compliance
+- **[[02_Worldbuilding/Groups/Regulatory Medical Authorit]]**: Standards development and compliance
 - **[[Government Research Funding]]**: Financial support for shadow medical research
 
 ### Community Organizations
 **Public Health Partnerships**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Replacement Survivor Support Groups]]**: Patient care and advocacy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Health Workers]]**: Grassroots healthcare delivery
+- **[[02_Worldbuilding/Places/Replacement Survivor Support Groups]]**: Patient care and advocacy
+- **[[02_Worldbuilding/Lore/Community Health Workers]]**: Grassroots healthcare delivery
 - **[[Religious Healing Orders]]**: Spiritual and medical care integration
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Educational Institutions]]**: Public health education and awareness
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Civic Organizations]]**: Community outreach and health promotion
+- **[[02_Worldbuilding/Lore/Educational Institutions]]**: Public health education and awareness
+- **[[02_Worldbuilding/Lore/Civic Organizations]]**: Community outreach and health promotion
 
 ## Opposition & Challenges
 
@@ -600,31 +600,31 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 ## Connected Elements
 
 ### Key NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Chief Surgeon Nerissa Tideheart]] - Organization founder and leader
+- [[02_Worldbuilding/Lore/Chief Surgeon Nerissa Tideheart]] - Organization founder and leader
 - [[Dr. Aquarius Brightwater]] - Premier shadow corruption researcher
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Surgeon Marcus Healhand]] - Emergency response specialist
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Potential patient or ally
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] - High-profile potential patient
+- [[02_Worldbuilding/Lore/Surgeon Marcus Healhand]] - Emergency response specialist
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Potential patient or ally
+- [[02_Worldbuilding/People/The Scattered Emperor]] - High-profile potential patient
 
 ### Important Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Surgical Sanctum]] - Primary medical facility and headquarters
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]] - Source of patients needing treatment
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] - Policy development and funding
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Health Clinics]] - Distributed medical care network
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Emergency Response Stations]] - Crisis management facilities
+- [[02_Worldbuilding/Lore/The Surgical Sanctum]] - Primary medical facility and headquarters
+- [[02_Worldbuilding/Places/The Memory Meadows]] - Source of patients needing treatment
+- [[02_Worldbuilding/Places/Parliament of Echoes]] - Policy development and funding
+- [[02_Worldbuilding/Lore/Community Health Clinics]] - Distributed medical care network
+- [[02_Worldbuilding/Lore/Emergency Response Stations]] - Crisis management facilities
 
 ### Related Quests
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Medical Breakthrough]] - Discovering new shadow treatments
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Patient Zero]] - Investigating shadow corruption outbreak
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Healing Mission]] - Treating victims of shadow crimes
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Medical Ethics]] - Navigating complex treatment decisions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Public Health Crisis]] - Managing population-level shadow threats
+- [[02_Worldbuilding/Lore/Quest - Medical Breakthrough]] - Discovering new shadow treatments
+- [[02_Worldbuilding/Lore/Quest - Patient Zero]] - Investigating shadow corruption outbreak
+- [[02_Worldbuilding/Lore/Quest - The Healing Mission]] - Treating victims of shadow crimes
+- [[02_Worldbuilding/Lore/Quest - Medical Ethics]] - Navigating complex treatment decisions
+- [[02_Worldbuilding/Lore/Quest - Public Health Crisis]] - Managing population-level shadow threats
 
 ### Supporting Organizations
 - [[02_Worldbuilding/Groups/Shadow Conspiracy Investigation|02 Worldbuilding/Groups/Shadow Conspiracy Investigation]] - Criminal investigation partners
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Medical College of Aquabyssos]] - Academic and training collaboration
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Department of Public Health]] - Government health policy partnership
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Replacement Survivor Support Groups]] - Patient advocacy organizations
+- [[02_Worldbuilding/Lore/Medical College of Aquabyssos]] - Academic and training collaboration
+- [[02_Worldbuilding/Lore/Department of Public Health]] - Government health policy partnership
+- [[02_Worldbuilding/Places/Replacement Survivor Support Groups]] - Patient advocacy organizations
 - [[Emergency Services Coordination]] - Crisis response integration
 
 ---
@@ -643,4 +643,4 @@ Legends speak of Investigate Shadow Surgeons as a nexus where past and present c
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]

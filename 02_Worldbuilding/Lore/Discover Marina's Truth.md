@@ -37,7 +37,7 @@ world: Both
 
 ## The Core Mystery
 
-Marina exists simultaneously as multiple entities across both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], each version holding a fragment of a greater truth that threatens the stability of both realms. What began as a single person's desperate attempt to prevent catastrophe has fractured into a complex web of identities, memories, and conflicting agendas that the party must unravel to prevent widespread disaster.
+Marina exists simultaneously as multiple entities across both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]], each version holding a fragment of a greater truth that threatens the stability of both realms. What began as a single person's desperate attempt to prevent catastrophe has fractured into a complex web of identities, memories, and conflicting agendas that the party must unravel to prevent widespread disaster.
 
 The truth is not singular but layered—each revelation opens new questions, and each answer fundamentally changes how the party understands their world. Marina is victim, villain, savior, and sacrifice, depending on which fragment of her story is examined. The ultimate discovery will force the party to make impossible choices about identity, memory, and the price of preventing apocalypse.
 
@@ -51,9 +51,9 @@ The truth is not singular but layered—each revelation opens new questions, and
 The original Marina was a brilliant senator who discovered the approaching convergence between realms would result in mutual annihilation. Her research into memory magic and dimensional theory led her to attempt a radical solution: fragmenting her consciousness across multiple timelines and realities to gather enough knowledge and power to prevent the catastrophe.
 
 **Key Truths**:
-- Discovered the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow-Crystal Synthesis]] was accelerating realm collapse
-- Learned that [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]] knew but was powerless to stop it
-- Found evidence that the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]'s awakening would shatter both realms
+- Discovered the [[02_Worldbuilding/Lore/Shadow-Crystal Synthesis]] was accelerating realm collapse
+- Learned that [[02_Worldbuilding/People/Emperor Thalassius the Wise]] knew but was powerless to stop it
+- Found evidence that the [[02_Worldbuilding/Lore/Deep Mother]]'s awakening would shatter both realms
 - Attempted to create multiple versions of herself as fail-safes
 
 ### Marina Red Tide Coralheart
@@ -79,7 +79,7 @@ The Echo is Marina's regret and doubt given form—a spectral presence that appe
 **Key Truths**:
 - Knows the full plan but cannot directly communicate it
 - Appears stronger near memory-related magic or artifacts
-- Is actually tethered to the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- Is actually tethered to the [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
 - Can temporarily possess those who share her bloodline or goals
 
 ### Marina Silversky
@@ -87,7 +87,7 @@ The Echo is Marina's regret and doubt given form—a spectral presence that appe
 **Timeline**: 10 years ago to present  
 **Status**: Active, partially aware  
 
-This iteration infiltrated Aethermoor's nobility through fabricated memories and documents. She works to prevent the [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] from accidentally triggering the convergence through their crystalline experiments. She experiences "blackouts" during which she performs actions she doesn't remember.
+This iteration infiltrated Aethermoor's nobility through fabricated memories and documents. She works to prevent the [[02_Worldbuilding/People/Crystal Wardens]] from accidentally triggering the convergence through their crystalline experiments. She experiences "blackouts" during which she performs actions she doesn't remember.
 
 **Key Truths**:
 - Was created through stolen Aethermoor transformation magic
@@ -116,7 +116,7 @@ Hidden in the deepest asylum of Aquabyssos exists a Marina that went wrong—a v
 Some evidence suggests all Marina iterations are controlled by a master consciousness existing in the space between realms. This Prime version orchestrates the others like pieces on a chess board, but her existence remains unproven.
 
 **Key Truths**:
-- May exist in the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temporal Navigation]] network
+- May exist in the [[02_Worldbuilding/Places/Temporal Navigation]] network
 - Could be the original's consciousness uploaded into pure memory
 - Might be manipulating events to ensure specific outcomes
 - Possibly already dead but operating through predetermined instructions
@@ -133,9 +133,9 @@ Some evidence suggests all Marina iterations are controlled by a master consciou
 **Revelation**: Marina Coralheart was important and is somehow still active despite being dead
 
 **Evidence Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Senator's Private Chambers]] - Abandoned belongings with impossible dates
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Witnesses who swear they've seen her recently
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] - Voting records showing her posthumous participation
+- [[02_Worldbuilding/Places/Senator's Private Chambers]] - Abandoned belongings with impossible dates
+- [[02_Worldbuilding/Places/Port Meridian]] - Witnesses who swear they've seen her recently
+- [[02_Worldbuilding/Places/Parliament of Echoes]] - Voting records showing her posthumous participation
 
 ### Stage 2: The Multiplication (Levels 6-10)
 **Deeper Investigation**:
@@ -147,9 +147,9 @@ Some evidence suggests all Marina iterations are controlled by a master consciou
 **Revelation**: Multiple Marinas exist, each with different goals and knowledge
 
 **Evidence Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]'s shop - Memory bottles containing Marina fragments
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Threshold Chambers]] - Records of dimensional experiments
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Wells]] - Marina's Echo appears frequently here
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]'s shop - Memory bottles containing Marina fragments
+- [[02_Worldbuilding/Places/The Threshold Chambers]] - Records of dimensional experiments
+- [[02_Worldbuilding/Places/Shadow Wells]] - Marina's Echo appears frequently here
 
 ### Stage 3: The Purpose (Levels 11-15)
 **Understanding the Plan**:
@@ -162,8 +162,8 @@ Some evidence suggests all Marina iterations are controlled by a master consciou
 
 **Evidence Locations**:
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Marina's hidden research
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Spires]] - Proof of coming convergence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deepmind]] - Neural network showing Marina's connected consciousness
+- [[02_Worldbuilding/Lore/Crystal Spires]] - Proof of coming convergence
+- [[02_Worldbuilding/Places/The Deepmind]] - Neural network showing Marina's connected consciousness
 
 ### Stage 4: The Choice (Levels 16-20)
 **The Ultimate Truth**:
@@ -254,22 +254,22 @@ Different people remember Marina differently based on which iteration they encou
 ## Key NPCs Involved
 
 ### Those Who Know
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]**: Knew original plan, helped fake her death
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]**: Stores her memory fragments for fee
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Sensed her fractured soul in dreams
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Nameless Auditor]]**: Discovered financial irregularities revealing the truth
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]**: Knew original plan, helped fake her death
+- **[[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]**: Stores her memory fragments for fee
+- **[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Sensed her fractured soul in dreams
+- **[[02_Worldbuilding/People/The Nameless Auditor]]**: Discovered financial irregularities revealing the truth
 
 ### Those Who Suspect
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Noticed impossible shipping manifests
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]**: Detected soul fragmentation through divine magic
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Singer Naia]]**: Heard her song in multiple places simultaneously
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Elara Shadowshard]]**: Military intelligence points to impossible conclusion
+- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Noticed impossible shipping manifests
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]**: Detected soul fragmentation through divine magic
+- **[[02_Worldbuilding/People/The Shadow Singer Naia]]**: Heard her song in multiple places simultaneously
+- **[[02_Worldbuilding/People/Captain Elara Shadowshard]]**: Military intelligence points to impossible conclusion
 
 ### Those Who Oppose
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Shard Guardian]]**: Sees her as threat to current order
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]**: Considers her existence blasphemous
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]**: Views her as destabilizing influence
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Parliament]]**: Fears her knowledge of their secrets
+- **[[02_Worldbuilding/People/The Crimson Shard Guardian]]**: Sees her as threat to current order
+- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Considers her existence blasphemous
+- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]**: Views her as destabilizing influence
+- **[[02_Worldbuilding/People/Shadow Parliament]]**: Fears her knowledge of their secrets
 
 ## Clue Locations & Evidence
 
@@ -353,10 +353,10 @@ The party must decide: Do they unite the Marinas to face the crisis with maximum
 
 ## Connected Elements
 - Central to the [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- Key to understanding [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Crisis]]
-- Explains inconsistencies in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] records
-- Reveals true purpose of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
-- Connected to prophecies of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s awakening
+- Key to understanding [[02_Worldbuilding/Lore/The Convergence Crisis]]
+- Explains inconsistencies in [[02_Worldbuilding/Places/Parliament of Echoes]] records
+- Reveals true purpose of [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- Connected to prophecies of [[02_Worldbuilding/Lore/The Deep Mother]]'s awakening
 
 ## Connections
 
@@ -385,24 +385,24 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Shard Guardian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Nameless Auditor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Singer Naia]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Senator's Private Chambers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Wells]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temporal Navigation]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deepmind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Library of Thalassius]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Threshold Chambers]]
+- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Purist Coalition]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
+- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/The Crimson Shard Guardian]]
+- [[02_Worldbuilding/People/The Nameless Auditor]]
+- [[02_Worldbuilding/People/The Shadow Singer Naia]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/Senator's Private Chambers]]
+- [[02_Worldbuilding/Places/Shadow Wells]]
+- [[02_Worldbuilding/Places/Temporal Navigation]]
+- [[02_Worldbuilding/Places/The Deepmind]]
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Places/The Threshold Chambers]]

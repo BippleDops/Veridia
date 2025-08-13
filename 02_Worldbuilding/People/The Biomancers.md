@@ -23,23 +23,23 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corallion]]
+- [[02_Worldbuilding/Lore/Corallion]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corallion]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Abyssal Cathedral]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Assassin]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Duke Cyrus Reefheart]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/His Own Shadow]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Knight]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Oracle]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Barnacle]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Cerulean Breath]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Sorrowmaster]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Lore/Corallion]]
+- [[02_Worldbuilding/People/Abyssal Cathedral]]
+- [[02_Worldbuilding/People/Assassin]]
+- [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
+- [[02_Worldbuilding/People/His Own Shadow]]
+- [[02_Worldbuilding/People/Knight]]
+- [[02_Worldbuilding/People/Oracle]]
+- [[02_Worldbuilding/People/The Barnacle]]
+- [[02_Worldbuilding/People/The Cerulean Breath]]
+- [[02_Worldbuilding/People/The Sorrowmaster]]
+- [[02_Worldbuilding/Places/Lumengarde]]
 
 ## Player-Facing Summary
 

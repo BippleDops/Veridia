@@ -68,4 +68,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Order of the Drowned Star]]
+- [[02_Worldbuilding/Groups/Orders/Order of the Drowned Star]]

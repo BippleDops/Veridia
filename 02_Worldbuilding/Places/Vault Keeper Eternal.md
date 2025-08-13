@@ -84,13 +84,13 @@ Eternal can take 3 legendary actions, choosing from the options below. Only one 
 
 ## Background & Motivations
 
-[[vault_backup_20250813_073007/02_Worldbuilding/Places/Vault Keeper Eternal]] stands as the eternal guardian of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Treasury of Tides]], a massive underwater vault complex in the depths of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Created over three centuries ago by the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Artificers' Consortium]], he was originally known simply as "Keeper-7" until he earned his current moniker through centuries of unwavering service.
+[[02_Worldbuilding/Places/Vault Keeper Eternal]] stands as the eternal guardian of the [[02_Worldbuilding/Places/Ancient Treasury of Tides]], a massive underwater vault complex in the depths of [[02_Worldbuilding/Places/Aquabyssos]]. Created over three centuries ago by the [[02_Worldbuilding/Places/Artificers' Consortium]], he was originally known simply as "Keeper-7" until he earned his current moniker through centuries of unwavering service.
 
 ### The Creation
-Eternal was forged during the height of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Age of Wonders]], when the greatest minds of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] united to create secure repositories for their most precious artifacts and knowledge. The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Artificer Thymallos]] personally oversaw his construction, imbuing him with not just mechanical precision but a sense of duty that transcends his constructed nature. His [[vault_backup_20250813_073007/02_Worldbuilding/Places/Warforged]] body was crafted from rare [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deepsteel]] and powered by a [[vault_backup_20250813_073007/02_Worldbuilding/Places/Heart of Eternal Vigilance]], a crystalline core that grants him his remarkable longevity.
+Eternal was forged during the height of the [[02_Worldbuilding/Places/Age of Wonders]], when the greatest minds of [[02_Worldbuilding/Places/Aquabyssos]] united to create secure repositories for their most precious artifacts and knowledge. The [[02_Worldbuilding/Places/Master Artificer Thymallos]] personally oversaw his construction, imbuing him with not just mechanical precision but a sense of duty that transcends his constructed nature. His [[02_Worldbuilding/Places/Warforged]] body was crafted from rare [[02_Worldbuilding/Places/Deepsteel]] and powered by a [[02_Worldbuilding/Places/Heart of Eternal Vigilance]], a crystalline core that grants him his remarkable longevity.
 
 ### The Long Watch
-For over 300 years, Eternal has maintained the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Treasury of Tides]], cataloging every item, protecting against intrusions, and ensuring the preservation of countless artifacts. He has witnessed the rise and fall of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Noble Houses]], the changing of political tides, and the evolution of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] itself. This vast experience has made him incredibly knowledgeable about the city's history and the true nature of many "lost" artifacts.
+For over 300 years, Eternal has maintained the [[02_Worldbuilding/Places/Ancient Treasury of Tides]], cataloging every item, protecting against intrusions, and ensuring the preservation of countless artifacts. He has witnessed the rise and fall of [[02_Worldbuilding/Places/Noble Houses]], the changing of political tides, and the evolution of [[02_Worldbuilding/Places/Aquabyssos]] itself. This vast experience has made him incredibly knowledgeable about the city's history and the true nature of many "lost" artifacts.
 
 ### Current Role
 Today, Eternal serves as both guardian and curator. He has developed relationships with legitimate scholars, treasure hunters, and historians, offering his services as a repository of knowledge and, occasionally, access to certain non-critical items in exchange for new additions to the collection or services that benefit the vault's security.
@@ -100,21 +100,21 @@ Today, Eternal serves as both guardian and curator. He has developed relationshi
 ### Vault Services
 - **Item Appraisal:** Eternal can identify and appraise magical items with perfect accuracy (effectively a free *identify* spell)
 - **Secure Storage:** For a fee of 100gp per month, he will store valuable items in magically protected vaults
-- **Historical Consultation:** His encyclopedic knowledge of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] history is available for 50gp per consultation
+- **Historical Consultation:** His encyclopedic knowledge of [[02_Worldbuilding/Places/Aquabyssos]] history is available for 50gp per consultation
 - **Artifact Research:** Can provide detailed information about the provenance and powers of ancient artifacts
 
 ### The Vault's Trials
-For those seeking access to the more valuable sections of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Treasury of Tides]], Eternal administers three trials:
+For those seeking access to the more valuable sections of the [[02_Worldbuilding/Places/Ancient Treasury of Tides]], Eternal administers three trials:
 
-1. **The Trial of Knowledge:** Answering complex riddles about [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] history and magical theory
+1. **The Trial of Knowledge:** Answering complex riddles about [[02_Worldbuilding/Places/Aquabyssos]] history and magical theory
 2. **The Trial of Intent:** Demonstrating worthy purpose through magical truth detection
 3. **The Trial of Contribution:** Providing the vault with something of equal or greater value than what is sought
 
 ### Reputation & Relationships
-- **The [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Scholars' Guild]]:** Maintains excellent relations, often collaborating on research projects
+- **The [[02_Worldbuilding/Groups/Guilds/Scholars' Guild]]:** Maintains excellent relations, often collaborating on research projects
 - **[[Thieves' Guild]]:** Grudging respect after several failed heist attempts; now maintains an unofficial non-aggression pact
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Noble Houses]]:** Serves various houses as a neutral arbiter for ancient claims and disputed inheritances
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple of the Deep Current]]:** Cooperative relationship, sharing knowledge about ancient religious artifacts
+- **[[02_Worldbuilding/Places/Noble Houses]]:** Serves various houses as a neutral arbiter for ancient claims and disputed inheritances
+- **[[02_Worldbuilding/Places/Temple of the Deep Current]]:** Cooperative relationship, sharing knowledge about ancient religious artifacts
 
 ## Personality & Quirks
 
@@ -130,21 +130,21 @@ Despite his constructed nature, centuries of interaction have given Eternal dist
 - Collects small, interesting mechanisms and puzzle boxes
 - Refers to time in very precise measurements ("It has been 2,847 days since your last visit")
 - Maintains detailed written records of every conversation in his vast memory banks
-- Has developed an appreciation for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos Kelp Wine]], though he cannot taste it
+- Has developed an appreciation for [[02_Worldbuilding/Places/Aquabyssos Kelp Wine]], though he cannot taste it
 
 ## Current Plots & Hooks
 
 ### The Missing Codex
-Recently, Eternal discovered that the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Codex of Forgotten Depths]], a crucial historical document, has gone missing from the vault. He suspects inside knowledge was involved and is quietly investigating while seeking trustworthy agents to help recover it.
+Recently, Eternal discovered that the [[02_Worldbuilding/Places/Codex of Forgotten Depths]], a crucial historical document, has gone missing from the vault. He suspects inside knowledge was involved and is quietly investigating while seeking trustworthy agents to help recover it.
 
 ### The Successor Question
-As magical technology advances, some in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] question whether a centuries-old construct should continue guarding their most precious treasures. Eternal is aware of these discussions and is preparing contingencies while seeking to prove his continued relevance.
+As magical technology advances, some in [[02_Worldbuilding/Places/Aquabyssos]] question whether a centuries-old construct should continue guarding their most precious treasures. Eternal is aware of these discussions and is preparing contingencies while seeking to prove his continued relevance.
 
 ### The Deep Awakening
 Strange tremors from the deep ocean have activated ancient warning systems in the vault. Eternal believes something significant is stirring in the depths and needs adventurers to investigate while he maintains the vault's defenses.
 
 ### The Collector's Gambit
-A mysterious figure known only as [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Collector]] has been attempting to acquire specific artifacts from the vault through various proxies. Eternal seeks to uncover this individual's identity and motivations before agreeing to any transactions.
+A mysterious figure known only as [[02_Worldbuilding/Places/The Collector]] has been attempting to acquire specific artifacts from the vault through various proxies. Eternal seeks to uncover this individual's identity and motivations before agreeing to any transactions.
 
 ---
 
@@ -153,12 +153,12 @@ A mysterious figure known only as [[vault_backup_20250813_073007/02_Worldbuildin
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Living Weapon]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Primordial Vaults]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Crystalline Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Lock Saboteur]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[02_Worldbuilding/Places/The Living Weapon]]
+- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Quests/Crystalline Depths]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[02_Worldbuilding/Quests/The Maw of Darkness]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
@@ -181,6 +181,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vault Keeper Eternal]]
+- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
 
 <!-- enriched: true -->

@@ -428,11 +428,11 @@ Legends speak of The Drowning Truth as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Drowning Truth]]
+- [[02_Worldbuilding/Places/The Drowning Truth]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/Places/The Cerulean Trench]]

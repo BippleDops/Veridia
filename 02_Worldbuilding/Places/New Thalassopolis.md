@@ -25,7 +25,7 @@ tags:
 *"We built our new city in the corpse of the old, and sometimes, in the deep night, you can still hear it breathing."*
 
 ## Overview
-New Thalassopolis, the de facto capital of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], is a haunting merger of drowned architecture and new construction, built within and around the sunken ruins of the original surface metropolis. The city exists in the Twilight Depth, where the last rays of sunlight create an eternal blue-green dusk, and bioluminescent organisms provide additional illumination.
+New Thalassopolis, the de facto capital of [[02_Worldbuilding/Places/Aquabyssos]], is a haunting merger of drowned architecture and new construction, built within and around the sunken ruins of the original surface metropolis. The city exists in the Twilight Depth, where the last rays of sunlight create an eternal blue-green dusk, and bioluminescent organisms provide additional illumination.
 
 ## City Structure
 
@@ -132,10 +132,10 @@ The massive clock in the Core is counting down to something. Different factions 
 
 ### The Surface Infiltration
 Increasing numbers of agents being sent to Aethermoor:
-- Establishing cells in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- Establishing cells in [[02_Worldbuilding/Places/Port Meridian]]
 - Corrupting water supplies with transformation magic
 - Recruiting desperate surface dwellers
-- Searching for the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- Searching for the [[02_Worldbuilding/Lore/The Seven Shards]]
 
 ### Memory Black Market
 Illegal trade in stolen or forbidden memories:
@@ -208,11 +208,11 @@ Some citizens are transforming beyond even Hadean levels:
 - **The Daily Death**: Symbolic drowning at dawn to honor the Empress
 
 ## Connections to Aethermoor
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Drowned Embassy]] recruits agents here
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Korvin Blacktide]] returns monthly for instructions
-- Smuggling routes to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] originate here
-- Several [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] nobles have hidden relatives here
-- The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] are being actively sought by multiple factions
+- [[02_Worldbuilding/Places/The Drowned Embassy]] recruits agents here
+- [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] returns monthly for instructions
+- Smuggling routes to [[02_Worldbuilding/Places/Port Meridian]] originate here
+- Several [[02_Worldbuilding/Places/Crystalhaven]] nobles have hidden relatives here
+- The [[02_Worldbuilding/Lore/The Seven Shards]] are being actively sought by multiple factions
 
 ## Resources & Trade
 
@@ -243,10 +243,10 @@ Some citizens are transforming beyond even Hadean levels:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Forge of War]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Places/Forge of War]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -269,6 +269,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Thalassopolis]]
+- [[02_Worldbuilding/Places/New Thalassopolis]]
 
 <!-- enriched: true -->

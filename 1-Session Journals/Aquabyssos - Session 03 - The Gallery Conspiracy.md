@@ -9,9 +9,9 @@ date: null
 depth: 1600
 duration_hours: 4
 encounters:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Farmers Combat]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Screaming Tree Guardians]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeon Strike Team]]'
+- '[[02_Worldbuilding/Lore/Memory Farmers Combat]]'
+- '[[02_Worldbuilding/Lore/Screaming Tree Guardians]]'
+- '[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeon Strike Team]]'
 gold_gained: 600
 items_gained:
 - Memory Vault Key
@@ -19,16 +19,16 @@ items_gained:
 - Reflection Mirror Shard
 - Surgical Schedule
 locations_visited:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Gallery of Frozen Waves]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Screaming Gardens]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Reflection Pools]]'
+- '[[02_Worldbuilding/Places/Gallery of Frozen Waves]]'
+- '[[02_Worldbuilding/Places/Screaming Gardens]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows]]'
+- '[[02_Worldbuilding/People/Reflection Pools]]'
 memory_exposure: true
 npcs_met:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Conductor]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmer Thane]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Reflection Broker Mirrors]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeon Apprentice]]'
+- '[[02_Worldbuilding/Places/The Conductor]]'
+- '[[02_Worldbuilding/Places/Memory Farmer Thane]]'
+- '[[02_Worldbuilding/Places/Reflection Broker Mirrors]]'
+- '[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeon Apprentice]]'
 obsidianUIMode: preview
 players: []
 plot_threads:
@@ -37,14 +37,14 @@ plot_threads:
 - High tide brings mass replacement
 - Real Senator Glaucus imprisoned
 - Shadow Duchess Nyx arriving
-primary_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Gallery of Frozen Waves]]'
+primary_location: '[[02_Worldbuilding/Places/Gallery of Frozen Waves]]'
 quests_completed: []
 quests_progressed:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Investigate Shadow Conspiracy]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Discover Shadow Market Location]]'
+- '[[02_Worldbuilding/People/Investigate Shadow Conspiracy]]'
+- '[[02_Worldbuilding/Places/Discover Shadow Market Location]]'
 quests_started:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Investigate Shadow Surgeons]]'
+- '[[02_Worldbuilding/Quests/Rescue Senator Glaucus]]'
+- '[[02_Worldbuilding/Groups/Criminal_Organizations/Investigate Shadow Surgeons]]'
 session: Session 03 Aquabyssos
 session_number: 3
 shadow_level_change: 1
@@ -113,7 +113,7 @@ The party awakens to find one member replaced by their reflection from an altern
 
 ## Scene 1: The Reflection Crisis
 
-### Location: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Party Quarters - Inverse Palace]]
+### Location: [[02_Worldbuilding/Places/Party Quarters - Inverse Palace]]
 **Atmosphere**: Morning light through water creates caustic patterns. Both versions of party member perfect except for subtle differences.
 
 ### The Reflection's Nature
@@ -145,7 +145,7 @@ Both versions' shadows:
 
 ## Scene 2: The Conductor's Symphony
 
-### Location: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Screaming Gardens - Songwood Grove]]
+### Location: [[02_Worldbuilding/Places/Screaming Gardens - Songwood Grove]]
 **Atmosphere**: Crystallized trees made from screams, each one a drowning victim's last moment preserved forever.
 
 ### The Conductor
@@ -183,7 +183,7 @@ Both versions' shadows:
 
 ## Scene 3: The Gallery Investigation
 
-### Location: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Gallery of Frozen Waves]]
+### Location: [[02_Worldbuilding/Places/Gallery of Frozen Waves]]
 **Atmosphere**: Tsunami waves frozen mid-crash, each one a different temporal moment. Time moves differently in each wave.
 
 ### Temporal Wave Navigation
@@ -223,7 +223,7 @@ Both versions' shadows:
 
 ## Scene 4: The Memory Farm Raid
 
-### Location: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Meadows Black Market]]
+### Location: [[02_Worldbuilding/Places/Memory Meadows Black Market]]
 **Atmosphere**: Fields of kelp storing stolen memories, each strand a life's worth of experiences.
 
 ### Memory Farmer Thane
@@ -407,11 +407,11 @@ This session's revelations connect to:
 - The Queen's possession related to shadow consciousness
 
 ## Rules References
-- [[vault_backup_20250813_073007/03_Mechanics/Shadow Separation Mechanics]]
-- [[vault_backup_20250813_073007/03_Mechanics/Memory Absorption Rules]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Navigation Hazards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Identity Crisis Resolution]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Tide Environmental Effects]]
+- [[03_Mechanics/Shadow Separation Mechanics]]
+- [[03_Mechanics/Memory Absorption Rules]]
+- [[02_Worldbuilding/Lore/Temporal Navigation Hazards]]
+- [[02_Worldbuilding/Lore/Identity Crisis Resolution]]
+- [[02_Worldbuilding/People/High Tide Environmental Effects]]
 
 ## DM Notes
 - Play up paranoia about who is real
@@ -422,10 +422,10 @@ This session's revelations connect to:
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Meadows Black Market]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Party Quarters - Inverse Palace]]
+- [[02_Worldbuilding/Places/Memory Meadows Black Market]]
+- [[02_Worldbuilding/Places/Party Quarters - Inverse Palace]]

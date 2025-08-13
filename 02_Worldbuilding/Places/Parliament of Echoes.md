@@ -1,7 +1,7 @@
 ---
 MyCategory: Unknown
 MyContainer: None
-continent: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]'
+continent: '[[02_Worldbuilding/Places/Abyssos Prime]]'
 created: 2025-08-07 - Category/Place
 danger_level: High (Political)
 depth: 1,500-2,000 feet
@@ -71,7 +71,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
   - Central podium exists in all timelines
   - Faction seating that shifts with alliances
   - The Speaker's Throne (empty for 200 years)
-- **NPCs**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]], [[vault_backup_20250813_073007/02_Worldbuilding/Places/Time-Lost Delegate Chronus]]
+- **NPCs**: [[02_Worldbuilding/People/Senator Glaucus]], [[02_Worldbuilding/Places/Time-Lost Delegate Chronus]]
 
 #### Level 3: The Vote Vaults
 - **Purpose**: Physical storage of all votes ever cast
@@ -88,7 +88,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
   - Memory pools (can trade memories)
   - Identity mirrors (show who you forgot you were)
   - The Archive of the Unremembered
-- **Inhabitants**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten Representative]]
+- **Inhabitants**: [[02_Worldbuilding/Places/The Forgotten Representative]]
 
 #### Level 5: The Foundation Depths
 - **Purpose**: Unknown (sealed 200 years ago)
@@ -111,7 +111,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
 #### The Transformed
 - **Belief**: Evolution to aquatic forms is destiny
 - **Seats**: 52
-- **Leader**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Duke Cyrus Reefheart]]
+- **Leader**: [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
 - **Goal**: Accelerate adaptation process
 
 #### The Returners
@@ -129,7 +129,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
 #### The Forgotten
 - **Belief**: Unknown (they forgot)
 - **Seats**: Variable (members forget they're members)
-- **Leader**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten Representative]]
+- **Leader**: [[02_Worldbuilding/Places/The Forgotten Representative]]
 - **Goal**: Forgotten (but they still pursue it)
 
 ### Shadow Parliament
@@ -137,7 +137,7 @@ A parallel body of shadows that meets in the same space but different phase:
 - Passes shadow legislation
 - Votes on original replacement
 - Planning the Dark Harvest
-- Led by [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]
+- Led by [[02_Worldbuilding/People/Senator Glaucus]]
 
 ## ⚔️ Encounters & Challenges
 
@@ -194,7 +194,7 @@ A parallel body of shadows that meets in the same space but different phase:
 - Shows all possible vote outcomes
 - Senators can see consequences before voting
 - Paradox: Seeing outcome changes outcome
-- Guarded by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Time-Lost Delegate Chronus]]
+- Guarded by [[02_Worldbuilding/Places/Time-Lost Delegate Chronus]]
 
 ## 📅 Events & Schedules
 
@@ -263,21 +263,21 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 ## 🔗 Connections
 
 ### NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]] - Current senator
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] - Observes through eels
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]] - Investigating shadows
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Time-Lost Delegate Chronus]] - Temporal guardian
+- [[02_Worldbuilding/People/Senator Glaucus]] - Current senator
+- [[02_Worldbuilding/People/The Scattered Emperor]] - Observes through eels
+- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Investigating shadows
+- [[02_Worldbuilding/Places/Time-Lost Delegate Chronus]] - Temporal guardian
 
 ### Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] - Parent city
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]] - Emperor's seat
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]] - Memory trade source
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]] - Shadow Parliament origin
+- [[02_Worldbuilding/Places/Abyssos Prime]] - Parent city
+- [[02_Worldbuilding/Places/The Inverse Palace]] - Emperor's seat
+- [[02_Worldbuilding/Places/The Memory Meadows]] - Memory trade source
+- [[02_Worldbuilding/People/Tenebrarum]] - Shadow Parliament origin
 
 ### Campaigns
 - [[01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign|01 Campaigns/Aquabyssos/The Parliament Of Shadows Campaign]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Political Intrigue of Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Seven Shards Mystery]]
+- [[02_Worldbuilding/Places/Political Intrigue of Meridian]]
+- [[02_Worldbuilding/Places/The Seven Shards Mystery]]
 
 ## 📝 DM Notes
 
@@ -315,88 +315,88 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Lord Vexton Shadowmere]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow War Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Fear Farms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Emperor's Gambit]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Senator's Last Stand]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Lord Vexton Shadowmere]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow War Coalition]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[02_Worldbuilding/Lore/Fear Farms]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/The Emperor's Gambit]]
+- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Lore/The Senator's Last Stand]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds]]
 - [[Ω_System-CLI-spells-school-divination|Ω System CLI Spells School Divination]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Abyssal Cathedral]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Cerulean Breath]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Senator]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Throne of Bubbles]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime Docks]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Amnesia Gallery]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Angels and Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Anti-Priest Nullus]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Captain Echo]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chef Gastropod]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Doctor Coral Shapeshift]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Forge of War]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper of Contracts Minerva Bindingword]]
+- [[02_Worldbuilding/People/Abyssal Cathedral]]
+- [[02_Worldbuilding/People/Tenebrarum]]
+- [[02_Worldbuilding/People/The Cerulean Breath]]
+- [[02_Worldbuilding/People/The Current Merchants]]
+- [[02_Worldbuilding/People/The Senator]]
+- [[02_Worldbuilding/People/Throne of Bubbles]]
+- [[02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
+- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
+- [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]]
+- [[02_Worldbuilding/Places/Amnesia Gallery]]
+- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[02_Worldbuilding/Places/Anti-Priest Nullus]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
+- [[02_Worldbuilding/Places/Captain Echo]]
+- [[02_Worldbuilding/Places/Chef Gastropod]]
+- [[02_Worldbuilding/Places/Doctor Coral Shapeshift]]
+- [[02_Worldbuilding/Places/Forge of War]]
+- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+- [[02_Worldbuilding/Places/Keeper of Contracts Minerva Bindingword]]
 - [[Keeper of the Past, Elderly Morgan]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lord Reginald Seaworthy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Luminous Hollow]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[02_Worldbuilding/Places/Lord Reginald Seaworthy]]
+- [[02_Worldbuilding/Places/Luminous Hollow]]
+- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Serenity Stillwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Prince Akula]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Viktor Geargrind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mourning Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Navigator Flux]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Old Sally Seasprayer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian Harbor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quest - The Truth Unveiled]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Seamstress Coral Silkweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Senator's Private Chambers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Merchant Riptide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sister Morwyn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Tensions]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Market]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten One]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Foundation Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Frozen Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Living Weapon]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Current Tavern]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Ground]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Royal Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shrinking Sanctuary]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sinking Atoll]]
+- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[02_Worldbuilding/Places/Merchant Prince Akula]]
+- [[02_Worldbuilding/Places/Merchant Viktor Geargrind]]
+- [[02_Worldbuilding/Places/Mourning Depths]]
+- [[02_Worldbuilding/Places/Navigator Flux]]
+- [[02_Worldbuilding/Places/Old Sally Seasprayer]]
+- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [[02_Worldbuilding/Places/Port Meridian Harbor]]
+- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [[02_Worldbuilding/Places/Royal Palace]]
+- [[02_Worldbuilding/Places/Seamstress Coral Silkweaver]]
+- [[02_Worldbuilding/Places/Senator's Private Chambers]]
+- [[02_Worldbuilding/Places/Shadow Merchant Riptide]]
+- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [[02_Worldbuilding/Places/Surface Tensions]]
+- [[02_Worldbuilding/Places/The Depth Market]]
+- [[02_Worldbuilding/Places/The Forgotten One]]
+- [[02_Worldbuilding/Places/The Foundation Depths]]
+- [[02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/The Frozen Throne]]
+- [[02_Worldbuilding/Places/The Gilded Shard]]
+- [[02_Worldbuilding/Places/The Living Weapon]]
+- [[02_Worldbuilding/Places/The Neutral Current Tavern]]
+- [[02_Worldbuilding/Places/The Neutral Ground]]
+- [[02_Worldbuilding/Places/The Royal Palace]]
+- [[02_Worldbuilding/Places/The Shadow Markets]]
+- [[02_Worldbuilding/Places/The Shrinking Sanctuary]]
+- [[02_Worldbuilding/Places/The Sinking Atoll]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vault Breach]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Void Currents]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vote Vaults]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Crystalline Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/Places/Vault Breach]]
+- [[02_Worldbuilding/Places/Void Currents]]
+- [[02_Worldbuilding/Places/Vote Vaults]]
+- [[02_Worldbuilding/Quests/Crystalline Depths]]
+- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[02_Worldbuilding/Quests/The Maw of Darkness]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
@@ -421,12 +421,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Fortress of the Deeps]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Maelstrom Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten Representative]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Lore/Fortress of the Deeps]]
+- [[02_Worldbuilding/Lore/Queen Seraphina]]
+- [[02_Worldbuilding/People/Senator Glaucus]]
+- [[02_Worldbuilding/Places/Maelstrom Palace]]
+- [[02_Worldbuilding/Places/The Forgotten Representative]]
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]

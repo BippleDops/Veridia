@@ -375,14 +375,14 @@ Prophecies are generally accurate but often metaphorical:
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Lore]]
+- [[02_Worldbuilding/Lore/Deep Mother Lore]]
 - [[Complete Deep Mother Subsystem]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
-- [[vault_backup_20250813_073007/03_Mechanics/Deep Mother Sanity System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reality Breach Locations]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+- [[03_Mechanics/Deep Mother Sanity System]]
+- [[02_Worldbuilding/Places/Reality Breach Locations]]
 - [[Forbidden Tomes]]
 - [[Observatory of Broken Stars]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Shadows]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Shadows]]
 - [[Temporal Mechanics]]
 - [[Crystal Network]]
 

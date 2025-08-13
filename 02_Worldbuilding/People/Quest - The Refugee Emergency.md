@@ -60,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Refugee Emergency]]
+- [[02_Worldbuilding/People/Quest - The Refugee Emergency]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum Ambassadors]]
+- [[02_Worldbuilding/People/Tenebrarum Ambassadors]]

@@ -51,11 +51,11 @@ world: Aquabyssos
 
 ## Overview
 
-**Phillip Gracewater** serves as the head concierge at the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ambassador Lysandra Silvertonge's Embassy]], where his exceptional hospitality skills and cultural knowledge make him an invaluable asset to diplomatic operations. With over twelve years of experience in international relations and cultural exchange, Phillip has become the friendly face that visitors remember long after their diplomatic business is concluded.
+**Phillip Gracewater** serves as the head concierge at the [[02_Worldbuilding/Lore/Ambassador Lysandra Silvertonge's Embassy]], where his exceptional hospitality skills and cultural knowledge make him an invaluable asset to diplomatic operations. With over twelve years of experience in international relations and cultural exchange, Phillip has become the friendly face that visitors remember long after their diplomatic business is concluded.
 
 As a Sea Elf with natural empathy and social intelligence, Phillip possesses an remarkable ability to make individuals from vastly different cultures feel welcomed and understood. His role extends far beyond simple hospitality—he serves as a cultural interpreter, information coordinator, and often the first point of contact for sensitive diplomatic communications.
 
-Phillip's extensive knowledge of both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] customs, combined with his genuine desire to help others, has made him a trusted figure among diplomatic personnel, visiting dignitaries, and local citizens who interact with the embassy. His position may seem humble, but his influence on the success of diplomatic missions is far greater than most realize.
+Phillip's extensive knowledge of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] customs, combined with his genuine desire to help others, has made him a trusted figure among diplomatic personnel, visiting dignitaries, and local citizens who interact with the embassy. His position may seem humble, but his influence on the success of diplomatic missions is far greater than most realize.
 
 ## Physical Description
 
@@ -68,7 +68,7 @@ Phillip's extensive knowledge of both [[vault_backup_20250813_073007/02_Worldbui
 
 **Distinctive Traits**: 
 - **Embassy Pin**: Always wears the official embassy insignia indicating his position and authority
-- **Cultural Accessories**: Subtle jewelry and accessories that honor both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] traditions
+- **Cultural Accessories**: Subtle jewelry and accessories that honor both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] traditions
 - **Perfect Grooming**: Maintains an impeccable appearance that reflects the embassy's professional standards
 - **Welcoming Smile**: Has a genuinely warm expression that immediately puts visitors at ease
 
@@ -103,7 +103,7 @@ Phillip's extensive knowledge of both [[vault_backup_20250813_073007/02_Worldbui
 ## Adventure Hooks
 
 ### The Missing Diplomat (Levels 1-3)
-Phillip notices that a minor diplomatic aide has failed to return from what should have been a routine cultural tour of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]. He discretely asks the party to investigate without creating a diplomatic incident.
+Phillip notices that a minor diplomatic aide has failed to return from what should have been a routine cultural tour of [[02_Worldbuilding/Places/Abyssos Prime]]. He discretely asks the party to investigate without creating a diplomatic incident.
 
 ### The Cultural Crisis (Levels 2-4)
 A major cultural misunderstanding threatens to derail important diplomatic negotiations. Phillip needs the party's help to identify the source of the conflict and find a solution that satisfies all parties.
@@ -113,9 +113,9 @@ Phillip suspects that someone has been using embassy events to gather intelligen
 
 ## Professional Network
 
-**Embassy Staff**: Works closely with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deputy Ambassador Torren Deepcurrent]], and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Security Chief Commander Marina Tideguard]]
+**Embassy Staff**: Works closely with [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]], [[02_Worldbuilding/Lore/Deputy Ambassador Torren Deepcurrent]], and [[02_Worldbuilding/Lore/Security Chief Commander Marina Tideguard]]
 
-**Community Connections**: Maintains relationships with local service providers, cultural organizations, and government liaisons throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+**Community Connections**: Maintains relationships with local service providers, cultural organizations, and government liaisons throughout [[02_Worldbuilding/Places/Abyssos Prime]]
 
 **Cultural Organizations**: Connected with museums, cultural centers, and educational institutions supporting cultural exchange programs
 
@@ -127,7 +127,7 @@ Phillip suspects that someone has been using embassy events to gather intelligen
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
 
 
 ## History
@@ -173,9 +173,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Concierge Phillip Gracewater]]
+- [[02_Worldbuilding/Places/Concierge Phillip Gracewater]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]]

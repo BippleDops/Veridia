@@ -27,7 +27,7 @@ tags:
 *Where air meets water, and diplomacy meets conspiracy*
 
 ## Overview
-The Drowned Embassy stands partially submerged in the perpetual twilight waters of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadowmere]], serving as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s official diplomatic presence in Aethermoor. Half above water, half below, the building exists in two worlds simultaneously - much like its inhabitants.
+The Drowned Embassy stands partially submerged in the perpetual twilight waters of [[02_Worldbuilding/Places/The Shadowmere]], serving as [[02_Worldbuilding/Places/Aquabyssos]]'s official diplomatic presence in Aethermoor. Half above water, half below, the building exists in two worlds simultaneously - much like its inhabitants.
 
 ## Description
 The Embassy appears as a once-grand marble structure that seems to have been pulled partially into the swamp. The upper floors maintain an illusion of normalcy with dry meeting rooms and offices, while the lower levels are completely flooded, accessible only to those who can breathe water. Strange bioluminescent coral grows along the waterline, pulsing with an rhythm that matches the tides of distant seas.
@@ -45,27 +45,27 @@ The Embassy appears as a once-grand marble structure that seems to have been pul
 - Holding cells for "guests" being prepared for transformation
 
 ## Current Inhabitants
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Primary resident and operator
+- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Primary resident and operator
 - **Tidecaller Nerissa** - Korvin's attaché and enforcer
 - **The Drowned Chorus** - 12 transformed humans who serve as staff
 - **Various Deep Ones** - Aquabyssos natives who rotate through
 
 ## Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadowmere]]**: Located in the darkest, most isolated section
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]**: Secret underwater tunnels connect to the harbor
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]**: The [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] helps smuggle goods
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]**: Maintains official diplomatic immunity despite suspicions
+- **[[02_Worldbuilding/Places/The Shadowmere]]**: Located in the darkest, most isolated section
+- **[[02_Worldbuilding/Places/Port Meridian]]**: Secret underwater tunnels connect to the harbor
+- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: The [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] helps smuggle goods
+- **[[02_Worldbuilding/Places/Crystalhaven]]**: Maintains official diplomatic immunity despite suspicions
 
 ## Notable Features
 
 ### The Tide Pools
-Strange pools that show visions of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and can transport small objects between realms. Prolonged exposure causes scales to grow and lungs to adapt to water.
+Strange pools that show visions of [[02_Worldbuilding/Places/Aquabyssos]] and can transport small objects between realms. Prolonged exposure causes scales to grow and lungs to adapt to water.
 
 ### The Drowning Chamber
 A room that slowly floods and drains, used for "negotiations" and transforming willing subjects into Deep Heralds.
 
 ### The Coral Garden
-A grotesque fusion of corrupted [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]] and deep-sea coral, growing into formations that whisper in long-dead languages.
+A grotesque fusion of corrupted [[02_Worldbuilding/Items/Aether Crystals]] and deep-sea coral, growing into formations that whisper in long-dead languages.
 
 ## Activities & Events
 - Monthly "cultural exchanges" where surface dwellers disappear
@@ -75,13 +75,13 @@ A grotesque fusion of corrupted [[vault_backup_20250813_073007/02_Worldbuilding/
 
 ## DM Secrets
 > [!warning] The Rising Tide
-> The Embassy is slowly expanding its flooded area by inches each month. At this rate, all of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadowmere]] will be underwater within five years, creating a beachhead for Aquabyssos invasion.
+> The Embassy is slowly expanding its flooded area by inches each month. At this rate, all of [[02_Worldbuilding/Places/The Shadowmere]] will be underwater within five years, creating a beachhead for Aquabyssos invasion.
 
 > [!danger] The Deep Gate
-> The portal in the basement isn't just a connection - it's an anchor point for a massive ritual. If three of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] are brought here, it could open a permanent gateway large enough for an army.
+> The portal in the basement isn't just a connection - it's an anchor point for a massive ritual. If three of the [[02_Worldbuilding/Lore/The Seven Shards]] are brought here, it could open a permanent gateway large enough for an army.
 
 > [!info] Hidden Prisoners
-> Several missing nobles from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] are kept in the flooded cells, slowly being transformed into sleeper agents. They'll be returned with no memory of their time here, but carrying Aquabyssos commands in their subconscious.
+> Several missing nobles from [[02_Worldbuilding/Places/Crystalhaven]] are kept in the flooded cells, slowly being transformed into sleeper agents. They'll be returned with no memory of their time here, but carrying Aquabyssos commands in their subconscious.
 
 ## Encounters
 - **Diplomatic Immunity:** Guards cannot legally enter without proof of crimes
@@ -100,7 +100,7 @@ A grotesque fusion of corrupted [[vault_backup_20250813_073007/02_Worldbuilding/
 - Infiltrate a cultural exchange ceremony
 - Investigate strange shipwrecks connected to the Embassy
 - Prevent the completion of the Deep Gate ritual
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Forge of War]]
+- [[02_Worldbuilding/Places/Forge of War]]
 
 
 ## History
@@ -152,7 +152,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Drowned Embassy]]
+- [[02_Worldbuilding/Places/The Drowned Embassy]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
+- [[02_Worldbuilding/Items/Aether Crystals]]

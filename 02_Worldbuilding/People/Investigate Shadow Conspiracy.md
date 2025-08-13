@@ -23,15 +23,15 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Original Glaucus]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
+- [[02_Worldbuilding/People/Original Glaucus]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
 
 ## Player-Facing Summary
 

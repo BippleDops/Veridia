@@ -27,11 +27,11 @@ Comprehensive tracking system for faction relationships, conflicts, and alliance
 
 **Connected Factions**: 6 direct connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Faction Tracker]]
+- [[02_Worldbuilding/Lore/Faction Tracker]]
 - [[03_Mechanics/Complete Faction Warfare System]]
 - [[03_Mechanics/Faction Standing System]]
-- [[vault_backup_20250813_073007/07_Player_Resources/Faction Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Faction Tracker]]
+- [[07_Player_Resources/Faction Guide]]
+- [[02_Worldbuilding/Lore/Faction Tracker]]
 
 ### Doctrine Quick Reference
 

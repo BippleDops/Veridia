@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]]
+- [[02_Worldbuilding/People/Tenebrarum]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]]
+- [[02_Worldbuilding/People/Tenebrarum]]
 
 ## Player-Facing Summary
 

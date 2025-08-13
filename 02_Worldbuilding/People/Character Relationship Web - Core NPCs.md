@@ -226,14 +226,14 @@ The richness of these character relationships provides endless opportunities for
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Marina Saltborn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/People/Captain Marina Saltborn]]
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Corruption]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Places/Crystal Corruption]]
 
 <!-- enriched: true -->

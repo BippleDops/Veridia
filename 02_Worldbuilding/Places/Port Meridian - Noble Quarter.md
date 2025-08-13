@@ -23,14 +23,14 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location Index]]
+- [[02_Worldbuilding/Lore/Location Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Market Square]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Port Meridian - Market Square]]
+- [[02_Worldbuilding/Places/Port Meridian]]
 
 ## Player-Facing Summary
 

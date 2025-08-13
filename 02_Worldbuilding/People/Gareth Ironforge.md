@@ -35,7 +35,7 @@ Gareth came to the Market District fifteen years ago after his clan's mountain h
 ## Relationships
 ### Allies
 - **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - Regular customer and friend
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Mayor Thompson]]** - Political ally
+- **[[02_Worldbuilding/People/Mayor Thompson]]** - Political ally
 
 ### Business Partners
 - Supplies weapons to the town guard
@@ -48,7 +48,7 @@ Gareth came to the Market District fifteen years ago after his clan's mountain h
 
 ## Quest Hooks
 - **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - His shipment has gone missing
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Stolen Anvil]]** - Family heirloom was taken
+- **[[02_Worldbuilding/People/The Stolen Anvil]]** - Family heirloom was taken
 
 
 ## Overview
@@ -107,5 +107,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Mayor Thompson]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Stolen Anvil]]
+- [[02_Worldbuilding/People/Mayor Thompson]]
+- [[02_Worldbuilding/People/The Stolen Anvil]]

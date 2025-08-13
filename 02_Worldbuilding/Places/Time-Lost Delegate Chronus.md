@@ -23,17 +23,17 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[02_Worldbuilding/Quests/The Lock Saboteur]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Recursion Oracle]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Lock Saboteur]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 02 - The Parliament's Paradox]]
+- [[02_Worldbuilding/Lore/The Recursion Oracle]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
+- [[02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[1-Session Journals/Aquabyssos - Session 02 - The Parliament's Paradox]]
 
 ## Player-Facing Summary
 

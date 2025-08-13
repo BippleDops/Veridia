@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
+- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
+- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
 
 ## Player-Facing Summary
 

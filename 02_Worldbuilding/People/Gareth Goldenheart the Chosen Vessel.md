@@ -23,17 +23,17 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Order of the Shattered Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Emerald Sage Willowbark]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Singer Naia]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
+- [[02_Worldbuilding/People/Order of the Shattered Crown]]
+- [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
+- [[02_Worldbuilding/People/The Emerald Sage Willowbark]]
+- [[02_Worldbuilding/People/The Shadow Singer Naia]]
+- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
 
 ## Player-Facing Summary
 

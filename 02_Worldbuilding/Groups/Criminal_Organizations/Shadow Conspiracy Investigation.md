@@ -3,9 +3,9 @@ alignment: Lawful Good
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Intelligence Organization
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Obsidian Archive]] (Hidden)'
+headquarters: '[[02_Worldbuilding/Lore/The Obsidian Archive]] (Hidden)'
 influence: Secret but Growing
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Investigator Supreme Lucian Brightwater]]'
+leader: '[[02_Worldbuilding/People/Investigator Supreme Lucian Brightwater]]'
 members: ~300 investigators, analysts, and agents
 purpose: Investigate and counter The Shadow Conspiracy
 status: complete
@@ -37,7 +37,7 @@ world: Aquabyssos
 *The Light Brigade, Truth Seekers, Those Who Remember*
 
 ## Overview
-The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization dedicated to uncovering, documenting, and ultimately dismantling [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]. Born from the growing suspicions of several high-ranking officials who noticed inconsistencies in their colleagues' behavior, the SCI operates in complete secrecy, knowing that discovery would mean certain death or replacement. They are the thin line of light standing against the encroaching darkness that threatens to consume all of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization dedicated to uncovering, documenting, and ultimately dismantling [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]. Born from the growing suspicions of several high-ranking officials who noticed inconsistencies in their colleagues' behavior, the SCI operates in complete secrecy, knowing that discovery would mean certain death or replacement. They are the thin line of light standing against the encroaching darkness that threatens to consume all of [[02_Worldbuilding/Places/Aquabyssos]].
 
 ## Origins & History
 
@@ -63,12 +63,12 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 - Recruited academics studying shadow phenomena
 - Established safe houses throughout Aquabyssos
 - Developed counter-shadow technology and techniques
-- Created [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Obsidian Archive]] hidden repository
+- Created [[02_Worldbuilding/Lore/The Obsidian Archive]] hidden repository
 
 ### Modern Operations (Last 3 Years)
 **Active Resistance**
 - Documented over 200 confirmed replacements
-- Rescued 47 originals from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]
+- Rescued 47 originals from [[02_Worldbuilding/Places/The Memory Meadows]]
 - Prevented 12 high-profile replacement attempts
 - Built evidence database of conspiracy activities
 - Prepared for eventual public revelation
@@ -77,11 +77,11 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 
 ### The Inner Circle
 **Supreme Command**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Investigator Supreme Lucian Brightwater]]**: Former Parliament security chief, leads overall operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Research Director Nerissa Clearwater]]**: Brilliant analyst studying shadow separation phenomenon  
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Field Operations Chief Marcus Ironheart]]**: Ex-military specialist in covert operations
+- **[[02_Worldbuilding/People/Investigator Supreme Lucian Brightwater]]**: Former Parliament security chief, leads overall operations
+- **[[02_Worldbuilding/Lore/Research Director Nerissa Clearwater]]**: Brilliant analyst studying shadow separation phenomenon  
+- **[[02_Worldbuilding/Lore/Field Operations Chief Marcus Ironheart]]**: Ex-military specialist in covert operations
 - **[[Intelligence Coordinator Elena Deepcurrent]]**: Master spy with network of informants
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Technical Director Jasper Lightforge]]**: Inventor of anti-shadow detection devices
+- **[[02_Worldbuilding/Lore/Technical Director Jasper Lightforge]]**: Inventor of anti-shadow detection devices
 
 ### Operational Divisions
 
@@ -208,33 +208,33 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 ## Known Members & Assets
 
 ### Confirmed Agents
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Marina Truewater]]**: City Watch infiltrator
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professor Aldwin Cleartext]]**: Academic researcher
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merchant Cornelius Daylight]]**: Trade network informant
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Nurse Helena Brightcare]]**: Medical facility contact
+- **[[02_Worldbuilding/People/Captain Marina Truewater]]**: City Watch infiltrator
+- **[[02_Worldbuilding/Lore/Professor Aldwin Cleartext]]**: Academic researcher
+- **[[02_Worldbuilding/Lore/Merchant Cornelius Daylight]]**: Trade network informant
+- **[[02_Worldbuilding/Lore/Nurse Helena Brightcare]]**: Medical facility contact
 - **[[Lieutenant Storm Truesight]]**: Military intelligence
 - **[[Librarian Sage Documented]]**: Information specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Engineer Torres Ironbright]]**: Technology developer
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Diplomat Victoria Honesty]]**: Political insider
+- **[[02_Worldbuilding/Lore/Engineer Torres Ironbright]]**: Technology developer
+- **[[02_Worldbuilding/Lore/Diplomat Victoria Honesty]]**: Political insider
 
 ### Key Informants
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Remembering Ones]]**: Rescued originals providing testimony
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Citizens Against Shadows]]**: Civilian volunteers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bright Network]]**: Religious opponents of shadow corruption
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Academic Alliance]]**: Scholars studying shadow phenomena
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merchant Truth Society]]**: Traders monitoring suspicious business activity
+- **[[02_Worldbuilding/Lore/The Remembering Ones]]**: Rescued originals providing testimony
+- **[[02_Worldbuilding/Lore/Citizens Against Shadows]]**: Civilian volunteers
+- **[[02_Worldbuilding/Lore/The Bright Network]]**: Religious opponents of shadow corruption
+- **[[02_Worldbuilding/Lore/Academic Alliance]]**: Scholars studying shadow phenomena
+- **[[02_Worldbuilding/Lore/Merchant Truth Society]]**: Traders monitoring suspicious business activity
 
 ### Allied Organizations
 - **[[02_Worldbuilding/Groups/The Crown Authority|02 Worldbuilding/Groups/The Crown Authority]]**: Some members suspect the truth
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Guard]]**: Military unit with shared concerns
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Keepers of Memory]]**: Religious order maintaining authentic memories
+- **[[02_Worldbuilding/Lore/Depth Guard]]**: Military unit with shared concerns
+- **[[02_Worldbuilding/Places/Keepers of Memory]]**: Religious order maintaining authentic memories
 - **[[Truth Seekers Guild]]**: Philosophers dedicated to reality
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Unshadowed]]**: Support group for replacement survivors
+- **[[02_Worldbuilding/Lore/The Unshadowed]]**: Support group for replacement survivors
 
 ## Resources & Capabilities
 
 ### Physical Infrastructure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Obsidian Archive]]**: Secret headquarters and evidence repository
+- **[[02_Worldbuilding/Lore/The Obsidian Archive]]**: Secret headquarters and evidence repository
 - **Safe Houses**: Secure locations throughout Aquabyssos (23 confirmed)
 - **Communication Centers**: Shadow-proof meeting facilities (8 locations)
 - **Research Laboratories**: Development of anti-shadow technology (4 sites)
@@ -358,14 +358,14 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 
 #### The Exposers
 - Believe in immediate public revelation of conspiracy
-- Led by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Field Operations Chief Marcus Ironheart]]
+- Led by [[02_Worldbuilding/Lore/Field Operations Chief Marcus Ironheart]]
 - Want to risk everything on massive coordinated disclosure
 - Argue that delay allows more replacements to occur
 - Sometimes launch unauthorized operations
 
 #### The Builders
 - Focus on gathering more evidence before revelation
-- Led by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Research Director Nerissa Clearwater]]
+- Led by [[02_Worldbuilding/Lore/Research Director Nerissa Clearwater]]
 - Want comprehensive proof before going public
 - Believe premature exposure will fail and make situation worse
 - Prioritize investigation over direct action
@@ -522,32 +522,32 @@ A radical wing led by survivors of replacement attempts advocates for immediate 
 ## Connected Elements
 
 ### Key NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Investigator Supreme Lucian Brightwater]] - Organization leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Research Director Nerissa Clearwater]] - Chief analyst
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Field Operations Chief Marcus Ironheart]] - Action specialist
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]] - Major target of investigation
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Potential ally
+- [[02_Worldbuilding/People/Investigator Supreme Lucian Brightwater]] - Organization leader
+- [[02_Worldbuilding/Lore/Research Director Nerissa Clearwater]] - Chief analyst
+- [[02_Worldbuilding/Lore/Field Operations Chief Marcus Ironheart]] - Action specialist
+- [[02_Worldbuilding/People/Senator Glaucus]] - Major target of investigation
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Potential ally
 
 ### Important Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Obsidian Archive]] - Secret headquarters
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]] - Primary rescue target
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] - Major infiltration site
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Safe House Network]] - Underground railroad
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Laboratories]] - Anti-shadow research
+- [[02_Worldbuilding/Lore/The Obsidian Archive]] - Secret headquarters
+- [[02_Worldbuilding/Places/The Memory Meadows]] - Primary rescue target
+- [[02_Worldbuilding/Places/Parliament of Echoes]] - Major infiltration site
+- [[02_Worldbuilding/Lore/Safe House Network]] - Underground railroad
+- [[02_Worldbuilding/Lore/Investigation Laboratories]] - Anti-shadow research
 
 ### Related Quests
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Expose the Shadow Conspiracy]] - Main investigation line
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Rescue the Originals]] - Liberation missions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Public Revelation]] - Exposure campaign
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Hunt the Shadows]] - Direct action
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Protect the Truth]] - Counter-intelligence
+- [[02_Worldbuilding/Lore/Quest - Expose the Shadow Conspiracy]] - Main investigation line
+- [[02_Worldbuilding/Lore/Quest - Rescue the Originals]] - Liberation missions
+- [[02_Worldbuilding/Lore/Quest - The Public Revelation]] - Exposure campaign
+- [[02_Worldbuilding/Lore/Quest - Hunt the Shadows]] - Direct action
+- [[02_Worldbuilding/Lore/Quest - Protect the Truth]] - Counter-intelligence
 
 ### Opposing Organizations
 - [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] - Primary enemy
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Parliament]] - Infiltrated government
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]] - Conspiracy collaborators
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadowless]] - Elite shadow enforcers
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corrupt Officials]] - Compromised authorities
+- [[02_Worldbuilding/People/Shadow Parliament]] - Infiltrated government
+- [[02_Worldbuilding/Places/Memory Farmers]] - Conspiracy collaborators
+- [[02_Worldbuilding/Lore/The Shadowless]] - Elite shadow enforcers
+- [[02_Worldbuilding/Lore/Corrupt Officials]] - Compromised authorities
 
 ---
 
@@ -565,9 +565,9 @@ Legends speak of Shadow Conspiracy Investigation as a nexus where past and prese
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Memory Farmers]]

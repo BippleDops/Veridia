@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bathyal Succession]]
+- [[02_Worldbuilding/Lore/The Bathyal Succession]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bathyal Succession]]
+- [[02_Worldbuilding/Lore/The Bathyal Succession]]
 
 ## Player-Facing Summary
 

@@ -62,11 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten Mourner]]
+- [[02_Worldbuilding/Places/The Forgotten Mourner]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sister Morwyn]]
+- [[02_Worldbuilding/Places/Sister Morwyn]]

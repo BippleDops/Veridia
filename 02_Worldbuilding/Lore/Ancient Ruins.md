@@ -45,10 +45,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Pressure Conspiracy]]
+- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temporal Navigation]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Pressure Conspiracy]]
+- [[02_Worldbuilding/Places/Temporal Navigation]]
+- [[02_Worldbuilding/Places/The Pressure Conspiracy]]

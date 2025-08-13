@@ -341,7 +341,7 @@ The Steadfast Supply Depot connects to numerous important elements throughout Aq
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Places/Pressure's End]]
 
 ## Player-Facing Summary
 
@@ -363,6 +363,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quartermaster Judith Steadfast]]
+- [[02_Worldbuilding/Places/Quartermaster Judith Steadfast]]
 
 <!-- enriched: true -->

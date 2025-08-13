@@ -29,15 +29,15 @@ world: Both
 *The Broken Vessel of Infinite Visions*
 
 > *"She sees all times at once - past, present, future swirling in her mind like currents in a maelstrom. To seek her wisdom is to risk madness yourself, for truth unfiltered by time's gentle progression burns the soul with its terrible clarity."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priest Nereon]], speaking of the Oracle's burden
+> — [[02_Worldbuilding/People/High Priest Nereon]], speaking of the Oracle's burden
 
 ## Overview
 
-Mad Oracle Thessaly exists at the intersection of divine wisdom and mortal fragility, serving as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most powerful and dangerous prophetic voice. For over forty years, she has channeled visions from the deepest spiritual currents of the ocean, providing insights that have shaped kingdoms and doomed heroes in equal measure. Her prophecies are renowned for their accuracy and feared for their terrible clarity, delivered through a consciousness shattered by the weight of seeing all of time's possibilities simultaneously.
+Mad Oracle Thessaly exists at the intersection of divine wisdom and mortal fragility, serving as [[02_Worldbuilding/Places/Aquabyssos]]'s most powerful and dangerous prophetic voice. For over forty years, she has channeled visions from the deepest spiritual currents of the ocean, providing insights that have shaped kingdoms and doomed heroes in equal measure. Her prophecies are renowned for their accuracy and feared for their terrible clarity, delivered through a consciousness shattered by the weight of seeing all of time's possibilities simultaneously.
 
-Once a promising young priestess named Thessaly Depthwhisper, she volunteered for a ritual communion with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s most profound mysteries. The experience shattered her linear perception of time, leaving her consciousness scattered across past, present, and future like fragments of a broken mirror. Each piece reflects truth, but the complete picture drives observers to despair or madness.
+Once a promising young priestess named Thessaly Depthwhisper, she volunteered for a ritual communion with [[02_Worldbuilding/Lore/The Deep Mother]]'s most profound mysteries. The experience shattered her linear perception of time, leaving her consciousness scattered across past, present, and future like fragments of a broken mirror. Each piece reflects truth, but the complete picture drives observers to despair or madness.
 
-Operating from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Spiral Sanctum]], a temple built around natural underwater vortices that amplify her prophetic abilities, Thessaly exists in a state of controlled madness carefully maintained by her devoted caretakers. Her prophecies come in fragments—cryptic images, half-remembered songs, and symbolic visions that require interpretation by trained priests and scholars.
+Operating from [[02_Worldbuilding/Places/The Spiral Sanctum]], a temple built around natural underwater vortices that amplify her prophetic abilities, Thessaly exists in a state of controlled madness carefully maintained by her devoted caretakers. Her prophecies come in fragments—cryptic images, half-remembered songs, and symbolic visions that require interpretation by trained priests and scholars.
 
 Those who seek her wisdom must understand that her gift comes with a price: she speaks truths that mortals were never meant to know, revelations that can illuminate the path forward or destroy the seeker's sanity entirely. Yet for those brave enough to face her riddling prophecies, Thessaly offers glimpses of futures that might be avoided or destinies that might be fulfilled.
 
@@ -71,7 +71,7 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 
 **Childlike Moments**: Between prophetic episodes, glimpses of her original personality emerge - curious, kind, and desperately lonely, mourning the normal life her gift has made impossible.
 
-**Protective Instincts**: Despite her madness, she retains deep love for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and its people, using her remaining lucid moments to try warning them of dangers her visions have revealed.
+**Protective Instincts**: Despite her madness, she retains deep love for [[02_Worldbuilding/Places/Aquabyssos]] and its people, using her remaining lucid moments to try warning them of dangers her visions have revealed.
 
 ### The Oracle's Burden
 
@@ -79,7 +79,7 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 
 **Moral Complexity**: Understanding that revealing certain prophecies might cause the very disasters she foresees, she struggles with when to speak and when to remain silent.
 
-**Spiritual Connection**: Maintains deep communion with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] and other oceanic powers, serving as their voice even as this connection destroys her mortal consciousness.
+**Spiritual Connection**: Maintains deep communion with [[02_Worldbuilding/Lore/The Deep Mother]] and other oceanic powers, serving as their voice even as this connection destroys her mortal consciousness.
 
 **Sacrificial Love**: Accepts her suffering as necessary service, viewing her madness as the price for protecting others from ignorance of what's to come.
 
@@ -95,8 +95,8 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 **Probability Assessment**: Understanding the likelihood of various potential outcomes
 
 #### Divine Communications
-**Deep Mother's Voice**: Direct communication from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] about oceanic threats and blessings  
-**Ancestral Wisdom**: Messages from the spirits of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s ancestors  
+**Deep Mother's Voice**: Direct communication from [[02_Worldbuilding/Lore/The Deep Mother]] about oceanic threats and blessings  
+**Ancestral Wisdom**: Messages from the spirits of [[02_Worldbuilding/Places/Aquabyssos]]'s ancestors  
 **Elemental Warnings**: Prophecies about natural disasters and environmental changes  
 **Spiritual Guidance**: Religious insights about proper worship and spiritual practice  
 **Divine Judgment**: Understanding how the gods view mortal actions and their consequences
@@ -147,7 +147,7 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 **Interpretation Library**: Vast collection of books analyzing past prophecies and their meanings  
 **Meditation Chambers**: Private spaces where priests prepare to receive and interpret visions  
 **Healing Rooms**: Medical facilities for treating prophetic strain and mental exhaustion  
-**Communication Center**: Magical systems for sending prophecies throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Communication Center**: Magical systems for sending prophecies throughout [[02_Worldbuilding/Places/Aquabyssos]]
 
 #### Sacred Spaces
 **Memorial Garden**: Honoring oracles who have served before Thessaly  
@@ -159,11 +159,11 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 ### Temple Organization
 
 #### Primary Caretakers
-**High Priestess [[vault_backup_20250813_073007/02_Worldbuilding/Places/Marina Oracleguard]]**: Senior religious authority overseeing the Oracle's care  
-**Keeper of Interpretations [[vault_backup_20250813_073007/02_Worldbuilding/Places/Scholar Magnus Riddlewright]]**: Expert in analyzing and explaining prophecies  
-**Temple Physician [[vault_backup_20250813_073007/02_Worldbuilding/Places/Healer Elena Mindmender]]**: Medical specialist treating prophetic strain  
-**Guardian Captain [[vault_backup_20250813_073007/02_Worldbuilding/Places/Warrior Thane Visionward]]**: Security chief protecting Oracle and visitors  
-**Communication Master [[vault_backup_20250813_073007/02_Worldbuilding/Places/Priest Thomas Messagekeeper]]**: Coordinator for disseminating prophecies
+**High Priestess [[02_Worldbuilding/Places/Marina Oracleguard]]**: Senior religious authority overseeing the Oracle's care  
+**Keeper of Interpretations [[02_Worldbuilding/Places/Scholar Magnus Riddlewright]]**: Expert in analyzing and explaining prophecies  
+**Temple Physician [[02_Worldbuilding/Places/Healer Elena Mindmender]]**: Medical specialist treating prophetic strain  
+**Guardian Captain [[02_Worldbuilding/Places/Warrior Thane Visionward]]**: Security chief protecting Oracle and visitors  
+**Communication Master [[02_Worldbuilding/Places/Priest Thomas Messagekeeper]]**: Coordinator for disseminating prophecies
 
 #### Specialized Staff
 **Interpretation Scribes**: Recording and analyzing prophetic utterances  
@@ -213,14 +213,14 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 #### The Great Tide Warning
 **Prophecy**: "When the deep wells sing in harmony, the surface shall meet the bottom, and what was above shall be below."  
 **Interpretation**: Predicted massive underwater earthquake and resulting tsunami  
-**Outcome**: Warning allowed [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] to evacuate vulnerable areas, saving thousands of lives  
+**Outcome**: Warning allowed [[02_Worldbuilding/Places/Aquabyssos]] to evacuate vulnerable areas, saving thousands of lives  
 **Impact**: Established Thessaly's reputation as a true oracle rather than madwoman  
 **Legacy**: Created formal procedures for acting on her prophetic warnings
 
 #### The Diplomatic Betrayal
 **Prophecy**: "The silver tongue speaks poison sweetened with honey, and trust becomes the blade that opens the heart."  
 **Interpretation**: Warning about false diplomatic overtures from hostile surface nation  
-**Outcome**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] diplomats prepared for treachery, avoiding devastating treaty trap  
+**Outcome**: [[02_Worldbuilding/Places/Aquabyssos]] diplomats prepared for treachery, avoiding devastating treaty trap  
 **Revelation**: Prophecy proved accurate when enemy plans were later discovered  
 **Consequence**: Increased government reliance on her political prophecies
 
@@ -242,7 +242,7 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 
 #### The Crown of Waters
 **Prophecy**: "When the crown reflects all depths, the ruler shall command not just subjects, but the sea itself."  
-**Interpretation**: Suggests future transformation of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] leadership  
+**Interpretation**: Suggests future transformation of [[02_Worldbuilding/Places/Aquabyssos]] leadership  
 **Implications**: Unknown whether this represents opportunity or threat  
 **Political Impact**: Various factions claiming prophecy supports their ambitions  
 **Academic Debate**: Scholars arguing over multiple possible meanings
@@ -252,50 +252,50 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 ### Religious Hierarchy
 
 #### Temple Leadership
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Marina Oracleguard]]**: Primary caretaker responsible for her daily needs and spiritual guidance  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple Council]]**: Religious authorities who interpret her prophecies for public distribution  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Divine Orders]]**: Various religious organizations that seek her spiritual insights  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Pilgrimage Coordinators]]**: Officials managing the steady stream of visitors seeking prophecies  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ritual Specialists]]**: Priests who maintain the sacred ceremonies surrounding her oracular functions
+**[[02_Worldbuilding/People/High Priestess Marina Oracleguard]]**: Primary caretaker responsible for her daily needs and spiritual guidance  
+**[[02_Worldbuilding/Places/Temple Council]]**: Religious authorities who interpret her prophecies for public distribution  
+**[[02_Worldbuilding/Groups/Orders/Divine Orders]]**: Various religious organizations that seek her spiritual insights  
+**[[02_Worldbuilding/Places/Pilgrimage Coordinators]]**: Officials managing the steady stream of visitors seeking prophecies  
+**[[02_Worldbuilding/Lore/Ritual Specialists]]**: Priests who maintain the sacred ceremonies surrounding her oracular functions
 
 #### Theological Community
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Scholarly Theologians]]**: Academic religious experts who study her prophecies for theological insights  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Comparative Religion Experts]]**: Scholars comparing her visions with prophecies from other traditions  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Divine Communication Specialists]]**: Researchers studying how oracles receive and interpret divine messages  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Historical Prophetic Analysis]]**: Experts examining patterns in prophetic accuracy and meaning  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Interfaith Dialogue]]**: Religious leaders from different traditions seeking common prophetic ground
+**[[02_Worldbuilding/Places/Scholarly Theologians]]**: Academic religious experts who study her prophecies for theological insights  
+**[[02_Worldbuilding/Places/Comparative Religion Experts]]**: Scholars comparing her visions with prophecies from other traditions  
+**[[02_Worldbuilding/Places/Divine Communication Specialists]]**: Researchers studying how oracles receive and interpret divine messages  
+**[[02_Worldbuilding/Places/Historical Prophetic Analysis]]**: Experts examining patterns in prophetic accuracy and meaning  
+**[[02_Worldbuilding/Places/Interfaith Dialogue]]**: Religious leaders from different traditions seeking common prophetic ground
 
 ### Government Connections
 
 #### Political Leadership
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Chancellor Octavius]]**: Regular consultation on major policy decisions and their potential consequences  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Court]]**: Formal advisory role in matters affecting the royal family and succession  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]**: Occasional testimony on legislation's long-term implications  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Diplomatic Corps]]**: Briefings on international relations and foreign policy outcomes  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Military Command]]**: Strategic consultation on defense planning and conflict prediction
+**[[02_Worldbuilding/Places/Chancellor Octavius]]**: Regular consultation on major policy decisions and their potential consequences  
+**[[02_Worldbuilding/Places/Royal Court]]**: Formal advisory role in matters affecting the royal family and succession  
+**[[02_Worldbuilding/Places/Parliament of Echoes]]**: Occasional testimony on legislation's long-term implications  
+**[[02_Worldbuilding/Places/Diplomatic Corps]]**: Briefings on international relations and foreign policy outcomes  
+**[[02_Worldbuilding/Places/Military Command]]**: Strategic consultation on defense planning and conflict prediction
 
 #### Administrative Agencies
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Crisis Management]]**: Emergency consultation during disasters and major political upheavals  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Economic Planning]]**: Prophetic insight into market trends and economic developments  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Foreign Intelligence]]**: Information about other nations' plans and political developments  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Public Safety]]**: Warnings about potential threats to civilian populations  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Infrastructure Development]]**: Predictions about environmental changes affecting construction and planning
+**[[02_Worldbuilding/Places/Crisis Management]]**: Emergency consultation during disasters and major political upheavals  
+**[[02_Worldbuilding/Places/Economic Planning]]**: Prophetic insight into market trends and economic developments  
+**[[02_Worldbuilding/Places/Foreign Intelligence]]**: Information about other nations' plans and political developments  
+**[[02_Worldbuilding/Places/Public Safety]]**: Warnings about potential threats to civilian populations  
+**[[02_Worldbuilding/Places/Infrastructure Development]]**: Predictions about environmental changes affecting construction and planning
 
 ### Academic Networks
 
 #### Research Communities
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Prophetic Studies Institute]]**: Scholars dedicated to understanding oracular phenomena  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Temporal Magic Research]]**: Magical theorists studying time-based divination and its limitations  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Divine Communication Studies]]**: Academics examining how mortals receive and interpret divine messages  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comparative Mythology]]**: Researchers studying prophetic traditions across different cultures  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Psychological Studies]]**: Experts examining the mental effects of prophetic abilities
+**[[02_Worldbuilding/Places/Prophetic Studies Institute]]**: Scholars dedicated to understanding oracular phenomena  
+**[[02_Worldbuilding/Places/Temporal Magic Research]]**: Magical theorists studying time-based divination and its limitations  
+**[[02_Worldbuilding/Places/Divine Communication Studies]]**: Academics examining how mortals receive and interpret divine messages  
+**[[02_Worldbuilding/Lore/Comparative Mythology]]**: Researchers studying prophetic traditions across different cultures  
+**[[02_Worldbuilding/Places/Psychological Studies]]**: Experts examining the mental effects of prophetic abilities
 
 #### Educational Institutions
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Theological Seminaries]]**: Training institutions for religious professionals studying prophetic interpretation  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/University Philosophy Departments]]**: Academic philosophers examining the ethical implications of prophecy  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Historical Research]]**: Scholars using her prophecies to better understand past events  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Magical Theory Schools]]**: Educational institutions studying divination magic and its applications  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cultural_Organizations/Cultural Studies Programs]]**: Academics examining prophecy's role in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] society
+**[[02_Worldbuilding/Places/Theological Seminaries]]**: Training institutions for religious professionals studying prophetic interpretation  
+**[[02_Worldbuilding/Places/University Philosophy Departments]]**: Academic philosophers examining the ethical implications of prophecy  
+**[[02_Worldbuilding/Places/Historical Research]]**: Scholars using her prophecies to better understand past events  
+**[[02_Worldbuilding/Places/Magical Theory Schools]]**: Educational institutions studying divination magic and its applications  
+**[[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Studies Programs]]**: Academics examining prophecy's role in [[02_Worldbuilding/Places/Aquabyssos]] society
 
 ## Current Challenges and Concerns
 
@@ -379,7 +379,7 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 **Challenge**: Understanding cryptic instructions and preparing for unknown tests  
 **Spiritual Growth**: Characters developing deeper understanding of divine powers  
 **Transformation**: Potential permanent changes resulting from divine contact  
-**Revelation**: New understanding of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s spiritual foundations
+**Revelation**: New understanding of [[02_Worldbuilding/Places/Aquabyssos]]'s spiritual foundations
 
 ### Political and Social Adventures
 
@@ -401,31 +401,31 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 
 ### Religious Networks
 **[[The Deep Mother Cult]]**: Primary religious tradition supporting her prophetic work  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple Hierarchies]]**: Various religious organizations seeking her spiritual guidance  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Pilgrimage Routes]]**: Travel networks bringing visitors to seek her prophecies  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Interfaith Councils]]**: Religious cooperation facilitated by her universal insights  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spiritual Healers]]**: Medical professionals specializing in treating prophetic conditions
+**[[02_Worldbuilding/Places/Temple Hierarchies]]**: Various religious organizations seeking her spiritual guidance  
+**[[02_Worldbuilding/Places/Pilgrimage Routes]]**: Travel networks bringing visitors to seek her prophecies  
+**[[02_Worldbuilding/Places/Interfaith Councils]]**: Religious cooperation facilitated by her universal insights  
+**[[02_Worldbuilding/Lore/Spiritual Healers]]**: Medical professionals specializing in treating prophetic conditions
 
 ### Government Integration
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Chancellor's Advisory Council]]**: Formal governmental role in policy consultation  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Court]]**: Official position as court oracle and advisor to royal family  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Military Intelligence]]**: Strategic planning support through prophetic insight  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Diplomatic Service]]**: Foreign policy guidance based on prophetic international knowledge  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Emergency Management]]**: Crisis response coordination using prophetic warnings
+**[[02_Worldbuilding/Places/Chancellor's Advisory Council]]**: Formal governmental role in policy consultation  
+**[[02_Worldbuilding/Places/Royal Court]]**: Official position as court oracle and advisor to royal family  
+**[[02_Worldbuilding/Groups/Military Intelligence]]**: Strategic planning support through prophetic insight  
+**[[02_Worldbuilding/Places/Diplomatic Service]]**: Foreign policy guidance based on prophetic international knowledge  
+**[[02_Worldbuilding/Places/Emergency Management]]**: Crisis response coordination using prophetic warnings
 
 ### Academic Communities
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Prophetic Studies]]**: Scholarly research into oracular phenomena and interpretation  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Theological Education]]**: Teaching institutions training religious professionals in prophetic understanding  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Historical Analysis]]**: Academic study of prophetic accuracy and historical impact  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Magical Theory]]**: Research into divination magic and temporal perception  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Comparative Religion]]**: Cross-cultural study of prophetic traditions and divine communication
+**[[02_Worldbuilding/Places/Prophetic Studies]]**: Scholarly research into oracular phenomena and interpretation  
+**[[02_Worldbuilding/Places/Theological Education]]**: Teaching institutions training religious professionals in prophetic understanding  
+**[[02_Worldbuilding/Places/Historical Analysis]]**: Academic study of prophetic accuracy and historical impact  
+**[[02_Worldbuilding/Places/Magical Theory]]**: Research into divination magic and temporal perception  
+**[[02_Worldbuilding/Places/Comparative Religion]]**: Cross-cultural study of prophetic traditions and divine communication
 
 ### Social Networks
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Noble Houses]]**: Private consultation on family matters and succession issues  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Merchant Guilds]]**: Economic prophecies affecting trade and commercial planning  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cultural_Organizations/Cultural Organizations]]**: Spiritual guidance for artistic and cultural development  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Community Leaders]]**: Local consultation on matters affecting specific populations  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/International Relations]]**: Prophetic insight into relationships with other underwater realms
+**[[02_Worldbuilding/Places/Noble Houses]]**: Private consultation on family matters and succession issues  
+**[[02_Worldbuilding/Groups/Guilds/Merchant Guilds]]**: Economic prophecies affecting trade and commercial planning  
+**[[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Organizations]]**: Spiritual guidance for artistic and cultural development  
+**[[02_Worldbuilding/Places/Community Leaders]]**: Local consultation on matters affecting specific populations  
+**[[02_Worldbuilding/Places/International Relations]]**: Prophetic insight into relationships with other underwater realms
 
 ## DM Notes and Plot Hooks
 
@@ -457,12 +457,12 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 **Moral Complexity**: Introducing ethical questions about fate, choice, and responsibility  
 **Epic Scale**: Elevating campaign significance through prophecies of world-changing importance
 
-Mad Oracle Thessaly stands as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s window into the divine mysteries of time and fate, where her sacrificed sanity purchases glimpses of truth too vast for mortal comprehension. Through her fractured consciousness and prophetic visions, she serves as both blessing and warning—demonstrating the terrible price of divine knowledge while offering the wisdom necessary to navigate an uncertain future. Her prophecies illuminate the path ahead, even as they remind all who seek her counsel that some knowledge comes at a cost greater than any treasure.
+Mad Oracle Thessaly stands as [[02_Worldbuilding/Places/Aquabyssos]]'s window into the divine mysteries of time and fate, where her sacrificed sanity purchases glimpses of truth too vast for mortal comprehension. Through her fractured consciousness and prophetic visions, she serves as both blessing and warning—demonstrating the terrible price of divine knowledge while offering the wisdom necessary to navigate an uncertain future. Her prophecies illuminate the path ahead, even as they remind all who seek her counsel that some knowledge comes at a cost greater than any treasure.
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whispering Depths]]
+- [[02_Worldbuilding/Places/The Whispering Depths]]
 
 ## Player-Facing Summary
 
@@ -484,7 +484,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]

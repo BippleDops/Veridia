@@ -23,30 +23,30 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Smuggler]]
+- [[02_Worldbuilding/Quests/Smuggler]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deepmind Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Market Square]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian Harbor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Secret Vault Beneath Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Market Canals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Recursion Cult]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Royal Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Void Touched Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vote Vaults]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Smuggler]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Traveling Merchant Finn]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 05 - Descent into Darkness]]
+- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/Places/Deepmind Conspiracy]]
+- [[02_Worldbuilding/Places/Depth Wardens]]
+- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Port Meridian - Market Square]]
+- [[02_Worldbuilding/Places/Port Meridian Harbor]]
+- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[02_Worldbuilding/Places/Shadow Market Canals]]
+- [[02_Worldbuilding/Places/The Recursion Cult]]
+- [[02_Worldbuilding/Places/The Royal Palace]]
+- [[02_Worldbuilding/Places/The Void Touched Depths]]
+- [[02_Worldbuilding/Places/Vote Vaults]]
+- [[02_Worldbuilding/Quests/Smuggler]]
+- [[02_Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[1-Session Journals/Aquabyssos - Session 05 - Descent into Darkness]]
 
 ## Player-Facing Summary
 

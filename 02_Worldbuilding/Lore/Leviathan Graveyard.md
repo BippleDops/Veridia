@@ -26,11 +26,11 @@ world: Both
 
 - [[02_Worldbuilding/Lore/Aurelius Goldwave]]
 - [[02_Worldbuilding/Lore/Kraken Territories]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Order of the Sunken Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]]
+- [[02_Worldbuilding/Lore/Order of the Sunken Crown]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]]
 - [[02_Worldbuilding/Lore/The Restoration Movement]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
 
 ## Player-Facing Summary
 

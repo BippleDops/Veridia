@@ -24,7 +24,7 @@ world: Both
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]
 
 ## Player-Facing Summary
 

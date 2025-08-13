@@ -73,8 +73,8 @@ Three-tiered structure with the main ballroom suspended from the ceiling. Coral-
 ## Connections
 - Direct access to Royal Palace chambers
 - Underwater tunnels to noble residences
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
+- [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
 
 
 ## History
@@ -114,6 +114,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverted Ballroom Wing - Party Quarters]]
+- [[02_Worldbuilding/Places/Inverted Ballroom Wing - Party Quarters]]
 
 <!-- enriched: true -->

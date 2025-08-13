@@ -1,18 +1,14 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
 type: Lore
-updated: '2025-08-13T12:34:28.687005+00:00'
+status: complete
+created: '2025-08-11'
+updated: '2025-08-13T01:18:34.587743+00:00'
 world: Both
+tags:
+- active
+- both
+- lore
 ---
-
 
 
 
@@ -25,7 +21,7 @@ world: Both
 ## Connections
 
 - [[02_Worldbuilding/Lore/Corallion]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vorthak]]
+- [[Vorthak]]
 - [[02_Worldbuilding/People/Tenebrarum]]
 - [[02_Worldbuilding/Places/Crystallium]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

@@ -60,11 +60,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - Refugees of the Deep]]
+- [[02_Worldbuilding/People/Quest - Refugees of the Deep]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Scale-Walker]]
+- [[02_Worldbuilding/People/Captain Scale-Walker]]

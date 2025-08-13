@@ -19,12 +19,12 @@ world: Aquabyssos
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underwater Breathing]]
+- [[02_Worldbuilding/Lore/Underwater Breathing]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underwater Breathing]]
+- [[02_Worldbuilding/Lore/Underwater Breathing]]
 
 ## Player-Facing Summary
 

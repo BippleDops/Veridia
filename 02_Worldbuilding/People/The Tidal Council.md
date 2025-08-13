@@ -116,9 +116,9 @@ The Tidal Council provides excellent opportunities for environmental adventures,
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Emperor's Gambit]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Tidecaller]]
+- [[02_Worldbuilding/Lore/The Emperor's Gambit]]
+- [[02_Worldbuilding/People/The Current Merchants]]
+- [[02_Worldbuilding/People/The Tidecaller]]
 
 
 ## Appearance
@@ -160,6 +160,6 @@ Legends speak of The Tidal Council as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Tidal Council]]
+- [[02_Worldbuilding/People/The Tidal Council]]
 
 <!-- enriched: true -->

@@ -100,7 +100,7 @@ This succession crisis provides a backdrop for political intrigue, moral choices
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
 
 
 ## History
@@ -142,6 +142,6 @@ Legends speak of Bathyal Succession as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Bathyal Succession]]
+- [[02_Worldbuilding/Places/Bathyal Succession]]
 
 <!-- enriched: true -->

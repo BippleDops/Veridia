@@ -1,22 +1,18 @@
 ---
-completed: 2025-08-11
-created: '2025-08-08'
-created_by: auto-stub
+type: Lore
 status: complete
 tags:
 - complete
-- content/lore
 - index
 - lore
 - navigation
-- status/complete
 - universal
-- world/both
-type: Lore
-updated: '2025-08-13T12:34:28.613821+00:00'
 world: Universal
+created_by: auto-stub
+created: '2025-08-08'
+completed: 2025-08-11
+updated: '2025-08-11T00:00:00+00:00'
 ---
-
 
 
 # Update Indexes
@@ -26,8 +22,8 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 ## Core Navigation Indexes
 
 ### Campaign Content
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]] - Complete guide to all campaign materials and session content
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location Index]] - Organized directory of all worldbuilding locations
+- [[Campaign Index]] - Complete guide to all campaign materials and session content
+- [[Location Index]] - Organized directory of all worldbuilding locations
 - [[02_Worldbuilding/Lore/Quest Index]] - Adventure hooks, quests, and campaign objectives
 
 ### Character & People Content
@@ -74,14 +70,14 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 ### Aquabyssos Campaign
 - **Core Locations**: [[02_Worldbuilding/Places/Abyssos Prime]], [[02_Worldbuilding/Places/Port Meridian]], [[02_Worldbuilding/Places/The Memory Meadows]]
 - **Key Organizations**: [[02_Worldbuilding/Places/Parliament of Echoes]], [[02_Worldbuilding/Groups/Silverscale Consortium]], [[02_Worldbuilding/People/The Shadow Surgeons]]
-- **Major NPCs**: [[02_Worldbuilding/People/Emperor Thalassius]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marina Red Tide Coralheart]], [[02_Worldbuilding/People/Vex Shadowthorn]]
+- **Major NPCs**: [[02_Worldbuilding/People/Emperor Thalassius]], [[02_Worldbuilding/Lore/Marina Red Tide Coralheart]], [[02_Worldbuilding/People/Vex Shadowthorn]]
 - **Core Mechanics**: [[02_Worldbuilding/Lore/Pressure Adaptation System]], [[03_Mechanics/Memory Tide Navigation]], [[03_Mechanics/Shadow Separation Mechanics]]
 
 ### Aethermoor Campaign
 - **Core Locations**: [[02_Worldbuilding/Places/Aethermoor]], [[02_Worldbuilding/Places/Lumengarde]], [[02_Worldbuilding/Places/Crystal Gardens]]
 - **Key Organizations**: [[02_Worldbuilding/Places/The Crystal Wardens]], [[02_Worldbuilding/People/The Harmony Collective]], [[02_Worldbuilding/People/The Verdant Accord]]
-- **Major NPCs**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]], [[02_Worldbuilding/People/The Bloodline Carrier]]
-- **Core Mechanics**: [[03_Mechanics/Crystal Plague Mechanics]], [[03_Mechanics/Dual World Mechanics]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bloodline Awakening Powers]]
+- **Major NPCs**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], [[The Deep Mother]], [[02_Worldbuilding/People/The Bloodline Carrier]]
+- **Core Mechanics**: [[03_Mechanics/Crystal Plague Mechanics]], [[03_Mechanics/Dual World Mechanics]], [[02_Worldbuilding/Lore/Bloodline Awakening Powers]]
 
 ## Quick Access Tools
 
@@ -91,14 +87,14 @@ Comprehensive navigation hub for the ObsidianTTRPGVault. This index provides qui
 - Find by type: `type:"location"`, `type:"npc"`, `type:"quest"`
 
 ### Content Creation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Create New Location]] - Template for new location entries
+- [[02_Worldbuilding/Lore/Create New Location]] - Template for new location entries
 - [[Create New NPC]] - Template for new character profiles
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Create New Session]] - Session planning and note templates
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Planning Guide]] - GM preparation workflows
+- [[02_Worldbuilding/Lore/Create New Session]] - Session planning and note templates
+- [[Session Planning Guide]] - GM preparation workflows
 
 ### Data Visualization
 - [[Relationship_Web.canvas|Relationship Web.canvas]] - Visual faction and character connections
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Continental Connections Map]] - Geographic relationship mapping
+- [[02_Worldbuilding/Lore/Continental Connections Map]] - Geographic relationship mapping
 - [[03_Mechanics/Faction Relationship Tracker]] - Organizational standing matrix
 
 ---

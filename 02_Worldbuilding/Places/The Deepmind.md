@@ -8,7 +8,7 @@ danger_level: Moderate
 depth: 3000-5000 feet
 difficulty: Levels 16-20
 obsidianUIMode: preview
-ruler: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]'
+ruler: '[[02_Worldbuilding/People/Aboleth Prime Yoth]]'
 status: complete
 tags:
 - aboleth-lair
@@ -38,7 +38,7 @@ world: Aquabyssos
 *The Living Palace of Thought, Memory Made Manifest, The Neural Throne*
 
 ## Overview
-The Deepmind is a massive organic structure that serves as both the lair and extended body of [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]. Located in the crushing depths beneath [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]], this living dungeon has grown over twelve millennia from Yoth's own flesh and psychic emanations. It functions as a physical manifestation of collective memory, storing the stolen thoughts and experiences of countless beings within its pulsing, neural architecture.
+The Deepmind is a massive organic structure that serves as both the lair and extended body of [[02_Worldbuilding/People/Aboleth Prime Yoth]]. Located in the crushing depths beneath [[02_Worldbuilding/Places/Abyssos Prime]], this living dungeon has grown over twelve millennia from Yoth's own flesh and psychic emanations. It functions as a physical manifestation of collective memory, storing the stolen thoughts and experiences of countless beings within its pulsing, neural architecture.
 
 ## Physical Description
 
@@ -102,7 +102,7 @@ Travelers approaching The Deepmind experience:
 ## Inhabitants & Denizens
 
 ### Permanent Residents
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]**: Supreme ruler
+- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Supreme ruler
 - **Lesser Aboleths** (12): Extensions of Yoth's will
 - **Memory Collectors**: Specialized servant creatures
 - **Thought Thieves**: Invisible psychic parasites
@@ -277,32 +277,32 @@ Yoth can take one lair action per round:
 ## Connected Elements
 
 ### Key NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]] - Creator and consciousness
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]] - Frequent visitor
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]] - Born here
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] - Knows weaknesses
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Sees its true nature
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Creator and consciousness
+- [[02_Worldbuilding/People/Senator Glaucus]] - Frequent visitor
+- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Born here
+- [[02_Worldbuilding/People/The Scattered Emperor]] - Knows weaknesses
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Sees its true nature
 
 ### Related Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] - Puppet government
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] - City above
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]] - Deeper connections
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Meadows]] - Opposite aspect
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Markets]] - Trade stolen memories
+- [[02_Worldbuilding/Places/Parliament of Echoes]] - Puppet government
+- [[02_Worldbuilding/Places/Abyssos Prime]] - City above
+- [[02_Worldbuilding/Places/The Hadal Depths]] - Deeper connections
+- [[02_Worldbuilding/Lore/Memory Meadows]] - Opposite aspect
+- [[02_Worldbuilding/Lore/Shadow Markets]] - Trade stolen memories
 
 ### Important Quests
 - [[02_Worldbuilding/Quests/Quest - The Shadow Conspiracy|02 Worldbuilding/Quests/Quest The Shadow Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Memory Thieves]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Liberation of The Deepmind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Collective Consciousness]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Neural Revolution]]
+- [[02_Worldbuilding/Lore/Quest - The Memory Thieves]]
+- [[02_Worldbuilding/Lore/Quest - Liberation of The Deepmind]]
+- [[02_Worldbuilding/Lore/Quest - The Collective Consciousness]]
+- [[02_Worldbuilding/Lore/Quest - Neural Revolution]]
 
 ### Relevant Items
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Mind Shield Helm]] - Protection against absorption
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Blade]] - Weapon that cuts thoughts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Identity Anchor]] - Prevents personality loss
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Neural Key]] - Opens thought-locked doors
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Collective Codex]] - Map of The Deepmind
+- [[02_Worldbuilding/Lore/Mind Shield Helm]] - Protection against absorption
+- [[02_Worldbuilding/Lore/Memory Blade]] - Weapon that cuts thoughts
+- [[02_Worldbuilding/Lore/Identity Anchor]] - Prevents personality loss
+- [[02_Worldbuilding/Lore/Neural Key]] - Opens thought-locked doors
+- [[02_Worldbuilding/Lore/The Collective Codex]] - Map of The Deepmind
 
 ---
 
@@ -311,19 +311,19 @@ Yoth can take one lair action per round:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Duke Cyrus Reefheart]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sage Lysander Deepthought]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Amnesia Gallery]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Cerulean Trench]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Primordial Vaults]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whispering Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vault Breach]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Ambush Point]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
+- [[02_Worldbuilding/People/Sage Lysander Deepthought]]
+- [[02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
+- [[02_Worldbuilding/Places/Amnesia Gallery]]
+- [[02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Places/The Whispering Depths]]
+- [[02_Worldbuilding/Places/Vault Breach]]
+- [[02_Worldbuilding/Quests/Ambush Point]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
@@ -336,6 +336,6 @@ Legends speak of The Deepmind as a nexus where past and present converge. Locals
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deepmind]]
+- [[02_Worldbuilding/Places/The Deepmind]]
 
 <!-- enriched: true -->

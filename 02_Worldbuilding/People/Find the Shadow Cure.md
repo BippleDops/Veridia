@@ -140,6 +140,6 @@ Legends speak of Find the Shadow Cure as a nexus where past and present converge
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Find the Shadow Cure]]
+- [[02_Worldbuilding/People/Find the Shadow Cure]]
 
 <!-- enriched: true -->

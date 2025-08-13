@@ -166,7 +166,7 @@ Political intrigue emphasizes roleplay, investigation, and moral choices over co
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
 
 ## Player-Facing Summary
 
@@ -178,6 +178,6 @@ Legends speak of Political Intrigue of Meridian as a nexus where past and presen
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Political Intrigue of Meridian]]
+- [[02_Worldbuilding/Places/Political Intrigue of Meridian]]
 
 <!-- enriched: true -->

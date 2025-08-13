@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
+- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
+- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
 
 ## Player-Facing Summary
 

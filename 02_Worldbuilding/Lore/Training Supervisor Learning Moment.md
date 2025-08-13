@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
+- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
+- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
 
 ## Player-Facing Summary
 

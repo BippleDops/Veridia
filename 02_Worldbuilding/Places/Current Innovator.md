@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/The Free Current]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/The Free Current]]
 
 ## Player-Facing Summary
 

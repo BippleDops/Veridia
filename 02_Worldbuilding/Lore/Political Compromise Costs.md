@@ -402,13 +402,13 @@ Short-term survival requires decisions that may damage long-term governance. Pre
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ethical Dilemmas in Shadow Times]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Medical Ethics in Plague Crisis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Economic Justice Debates]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Military Moral Quandaries]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption Timeline]]
+- [[02_Worldbuilding/Lore/Ethical Dilemmas in Shadow Times]]
+- [[02_Worldbuilding/Lore/Medical Ethics in Plague Crisis]]
+- [[02_Worldbuilding/Lore/Economic Justice Debates]]
+- [[02_Worldbuilding/Lore/Military Moral Quandaries]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Shadows]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+- [[02_Worldbuilding/Lore/Shadow Corruption Timeline]]
 
 ## Adventure Hooks
 

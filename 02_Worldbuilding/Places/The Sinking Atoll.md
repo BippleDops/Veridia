@@ -9,11 +9,11 @@ parent_location: The Twilight Shallows
 population: ~800 residents (rapidly evacuating)
 rate_of_descent: 6 inches per day
 related_entities:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Market]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]'
+- '[[02_Worldbuilding/Places/Free Current]]'
+- '[[02_Worldbuilding/Places/The Depth Market]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+- '[[02_Worldbuilding/Places/Abyssos Prime]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows]]'
 status: complete
 tags:
 - aquabyssos
@@ -53,7 +53,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Sinking Atoll stands as both a testament to natural beauty and a tragic reminder of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s ever-changing landscape. Once among the most spectacular shallow-water formations in the realm, this living coral paradise has been slowly but inexorably descending into the depths for the past two years. What began as a vibrant community of coral farmers, pearl divers, and marine researchers has become a desperate race against time as the atoll sinks at a steady rate of six inches per day.
+The Sinking Atoll stands as both a testament to natural beauty and a tragic reminder of [[02_Worldbuilding/Places/Aquabyssos]]'s ever-changing landscape. Once among the most spectacular shallow-water formations in the realm, this living coral paradise has been slowly but inexorably descending into the depths for the past two years. What began as a vibrant community of coral farmers, pearl divers, and marine researchers has become a desperate race against time as the atoll sinks at a steady rate of six inches per day.
 
 The atoll's descent defies conventional understanding of marine geology. Neither earthquake damage nor structural collapse explains the phenomenon - instead, the entire formation appears to be gently settling into the ocean floor as if the very foundation of reality has grown tired of supporting it. This supernatural sinking has created unique environmental conditions, attracted desperate treasure seekers, and forced an entire community to confront the possibility of losing their ancestral home forever.
 
@@ -139,7 +139,7 @@ The atoll's descent defies conventional understanding of marine geology. Neither
 **Equipment**: Specialized magical and technological monitoring equipment  
 **Data**: Extensive data collection on rate, environmental changes, and effects  
 **Collaboration**: Cooperation between different schools of magical and scientific thought  
-**Funding**: Significant funding from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] and other interested parties
+**Funding**: Significant funding from [[02_Worldbuilding/Places/Abyssos Prime]] and other interested parties
 
 ## Flora and Fauna
 
@@ -414,35 +414,35 @@ The atoll's descent defies conventional understanding of marine geology. Neither
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]]
+### [[02_Worldbuilding/Places/Free Current]]
 **Transportation**: Current network provides transportation to and from atoll  
 **Evacuation**: Critical for evacuating residents and resources  
 **Trade**: Historical trade relationships with Current communities  
-**News**: Current network spreads news of atoll's situation throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]  
+**News**: Current network spreads news of atoll's situation throughout [[02_Worldbuilding/Places/Aquabyssos]]  
 **Resources**: Current communities providing aid and support during crisis
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Market]]
+### [[02_Worldbuilding/Places/The Depth Market]]
 **Trade**: Deep-water resources from atoll increasingly valuable  
 **Equipment**: Specialized deep-diving equipment sourced from market  
 **Research**: Market's expertise in deep-sea operations useful for research  
 **Opportunities**: New trading opportunities as atoll environment changes  
 **Information**: Market intelligence network tracking atoll situation
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+### [[02_Worldbuilding/Places/Parliament of Echoes]]
 **Policy**: Political debates over government response to atoll crisis  
 **Resources**: Allocation of emergency resources for evacuation and research  
 **Law**: Legal questions about property rights and community relocation  
 **Research**: Government-funded research into sinking phenomenon  
 **Planning**: Long-term planning for similar potential crises
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+### [[02_Worldbuilding/Places/Abyssos Prime]]
 **Research**: Royal university research programs studying the phenomenon  
 **Resources**: Government resources allocated for crisis response  
 **Refugees**: Atoll refugees relocating to capital city  
 **Politics**: Political implications of government response to crisis  
 **Technology**: Advanced magical and technological resources for investigation
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]
+### [[02_Worldbuilding/Places/The Memory Meadows]]
 **Cultural Preservation**: Preserving community memories and cultural heritage  
 **Research**: Memory-based research into atoll's history and sinking cause  
 **Documentation**: Creating permanent memory archives of atoll community  
@@ -452,7 +452,7 @@ The atoll's descent defies conventional understanding of marine geology. Neither
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Ancient Anchor
-> The atoll is not naturally occurring but is actually built on top of a massive ancient structure that served as an "anchor" keeping part of the ocean floor stable. The sinking is occurring because this anchor is slowly failing after millennia of service. Deep beneath the lagoon lies a chamber containing the anchor's control mechanisms, but reaching it requires navigating through flooded passages and past the ancient guardians that still protect it. The anchor's failure is part of a larger destabilization affecting multiple areas of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], and repairing or replacing it could prevent a catastrophic collapse of the entire region.
+> The atoll is not naturally occurring but is actually built on top of a massive ancient structure that served as an "anchor" keeping part of the ocean floor stable. The sinking is occurring because this anchor is slowly failing after millennia of service. Deep beneath the lagoon lies a chamber containing the anchor's control mechanisms, but reaching it requires navigating through flooded passages and past the ancient guardians that still protect it. The anchor's failure is part of a larger destabilization affecting multiple areas of [[02_Worldbuilding/Places/Aquabyssos]], and repairing or replacing it could prevent a catastrophic collapse of the entire region.
 
 > [!secret] DM Secret - The Coral Consciousness
 > The accelerated coral growth and adaptation is occurring because the coral has developed a collective consciousness in response to the crisis. The coral network is actively trying to save itself and the atoll's inhabitants by rapidly evolving and adapting. This coral consciousness can communicate through bioluminescent patterns and chemical signals, and it possesses detailed knowledge about the sinking's cause and potential solutions. However, the coral is also becoming increasingly desperate and may soon resort to extreme measures to preserve itself, potentially trapping inhabitants within protective coral shells or creating coral-human hybrid beings to ensure survival.
@@ -463,28 +463,28 @@ The atoll's descent defies conventional understanding of marine geology. Neither
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Market]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]
+- [[02_Worldbuilding/Places/Free Current]]
+- [[02_Worldbuilding/Places/The Depth Market]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/The Memory Meadows]]
 
 **Related NPCs**:
 - [[Elder Coral Doomteller]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Atoll Research Team]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Displaced Atoll Residents]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep-Sea Rescue Operations]]
+- [[02_Worldbuilding/Lore/Atoll Research Team]]
+- [[02_Worldbuilding/Lore/Displaced Atoll Residents]]
+- [[02_Worldbuilding/Lore/Deep-Sea Rescue Operations]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Coral Consciousness Network]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ancient Ocean Anchors]]
+- [[02_Worldbuilding/Lore/Coral Consciousness Network]]
+- [[02_Worldbuilding/Lore/Ancient Ocean Anchors]]
 - [[02_Worldbuilding/Groups/Deep-Sea Cultural Protocol|02 Worldbuilding/Groups/Deep Sea Cultural Protocol]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sinking Phenomenon Research]]
+- [[02_Worldbuilding/Lore/Sinking Phenomenon Research]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Wandering Atoll]]
+- [[02_Worldbuilding/Places/The Wandering Atoll]]
 
 ## Player-Facing Summary
 
@@ -506,6 +506,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sinking Atoll]]
+- [[02_Worldbuilding/Places/The Sinking Atoll]]
 
 <!-- enriched: true -->

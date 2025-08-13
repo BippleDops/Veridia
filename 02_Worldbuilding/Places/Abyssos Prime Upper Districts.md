@@ -28,7 +28,7 @@ world: Both
 *The Crown of the Deep Capital, Where Light Still Remembers the Surface*
 
 ## Overview
-The Upper Districts of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] represent the pinnacle of Aquabyssos civilization - both literally and figuratively. Built in the shallower waters where filtered sunlight can still penetrate, these districts house the empire's nobility, government officials, and wealthy merchants. Grand coral palaces rise from cultivated reef platforms, connected by graceful current-bridges that allow citizens to swim effortlessly between buildings. The architecture here blends the organic curves of sea life with the geometric precision of crystal-enhanced construction.
+The Upper Districts of [[02_Worldbuilding/Places/Abyssos Prime]] represent the pinnacle of Aquabyssos civilization - both literally and figuratively. Built in the shallower waters where filtered sunlight can still penetrate, these districts house the empire's nobility, government officials, and wealthy merchants. Grand coral palaces rise from cultivated reef platforms, connected by graceful current-bridges that allow citizens to swim effortlessly between buildings. The architecture here blends the organic curves of sea life with the geometric precision of crystal-enhanced construction.
 
 ## Geography & Layout
 
@@ -36,8 +36,8 @@ The Upper Districts of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ab
 The Upper Districts are built on five main terraces, each at a different depth:
 
 **The Crown Tier (200m depth)**
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]] - Emperor's residence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] - Government seat
+- [[02_Worldbuilding/Places/The Inverse Palace]] - Emperor's residence
+- [[02_Worldbuilding/Places/Parliament of Echoes]] - Government seat
 - Imperial Gardens and ceremonial spaces
 
 **The Noble Ring (300m depth)**
@@ -83,7 +83,7 @@ The Upper Districts are built on five main terraces, each at a different depth:
 ## Notable Locations
 
 ### Government Buildings
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]** - The imperial legislature
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]** - The imperial legislature
 - **The Crystal Court** - Judicial center with truth-detecting crystals
 - **Imperial Treasury** - Heavily guarded financial center
 - **The Diplomatic Coral** - Foreign embassy complex
@@ -190,16 +190,16 @@ The Upper Districts are built on five main terraces, each at a different depth:
 - Stop counterfeit crystal operation
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius]] - Rules from the Crown Tier
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Duke Cyrus Reefheart]] - Major noble house leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Diplomatic representative
+- [[02_Worldbuilding/People/Emperor Thalassius]] - Rules from the Crown Tier
+- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Major noble house leader
+- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Diplomatic representative
 - Various noble house heads and government officials
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] - The greater capital city
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]] - Imperial residence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] - Government center
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]] - Underground counterpart
+- [[02_Worldbuilding/Places/Abyssos Prime]] - The greater capital city
+- [[02_Worldbuilding/Places/The Inverse Palace]] - Imperial residence
+- [[02_Worldbuilding/Places/Parliament of Echoes]] - Government center
+- [[02_Worldbuilding/Places/The Shadow Markets]] - Underground counterpart
 
 ## Quest Hooks
 1. Noble house rivalry threatens to destabilize district politics
@@ -211,9 +211,9 @@ The Upper Districts are built on five main terraces, each at a different depth:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Forge of War]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[02_Worldbuilding/Places/Forge of War]]
+- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
 
 ## Player-Facing Summary
 
@@ -235,6 +235,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
+- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
 
 <!-- enriched: true -->

@@ -352,19 +352,19 @@ Direct assault on primary facility requires heroes to navigate surgical horrors 
 
 ### Key Figures
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/People/The Silhouette Surgeon Prime]]
+#### [[02_Worldbuilding/People/The Silhouette Surgeon Prime]]
 The network's chief medical officer and primary architect of shadow surgery techniques. Actually composed of twelve different shadow personalities sharing one body, representing the ultimate evolution of consciousness splicing procedures.
 
 #### [[02_Worldbuilding/People/Dr. Marina Coralheart - Shadow|02 Worldbuilding/People/Dr. Marina Coralheart Shadow]]
-A shadow replacement of [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] who serves as the network's primary liaison with legitimate medical community, using her reputation to recruit unwitting assistants.
+A shadow replacement of [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] who serves as the network's primary liaison with legitimate medical community, using her reputation to recruit unwitting assistants.
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]
+#### [[02_Worldbuilding/People/Vex Shadowthorn]]
 Provides funding and political protection for network operations while using surgical services to maintain control over criminal organization through strategic personality modifications.
 
 ### Opposing Forces
 
 #### [[02_Worldbuilding/Groups/Investigate Shadow Surgeons|02 Worldbuilding/Groups/Investigate Shadow Surgeons]]
-The legitimate medical organization working to counter shadow surgical procedures, led by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Chief Surgeon Nerissa Tideheart]]. Their research into shadow corruption detection methods poses significant threat to network security.
+The legitimate medical organization working to counter shadow surgical procedures, led by [[02_Worldbuilding/Lore/Chief Surgeon Nerissa Tideheart]]. Their research into shadow corruption detection methods poses significant threat to network security.
 
 #### The Preservation Society
 Underground resistance movement formed by families of replacement victims, dedicated to exposing the network and rescuing preserved consciousness from facility storage tanks.
@@ -417,6 +417,6 @@ Legends speak of Shadow Surgery Network as a nexus where past and present conver
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Surgery Network]]
+- [[02_Worldbuilding/Places/Shadow Surgery Network]]
 
 <!-- enriched: true -->

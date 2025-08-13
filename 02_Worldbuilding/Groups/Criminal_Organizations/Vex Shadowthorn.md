@@ -3,9 +3,9 @@ alignment: Chaotic Evil
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Criminal Syndicate
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Thorned Sanctuary]] (Hidden)'
+headquarters: '[[02_Worldbuilding/Lore/The Thorned Sanctuary]] (Hidden)'
 influence: Major (Underground)
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn the Kingpin]]'
+leader: '[[02_Worldbuilding/People/Vex Shadowthorn the Kingpin]]'
 members: ~800 criminals, smugglers, and shadow-touched
 purpose: Control criminal activities and exploit shadow corruption
 status: complete
@@ -35,14 +35,14 @@ world: Aethermoor
 *The Shadow Syndicate, Masters of the Dark Trade, Lords of Corrupted Crystal*
 
 ## Overview
-Vex Shadowthorn is [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s most powerful and dangerous criminal organization, built around exploiting the growing [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]] that seeps through crystal networks. Named after their enigmatic leader [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn the Kingpin]], this syndicate controls illegal activities across multiple floating cities, specializing in corrupted crystal trafficking, shadow-magic services, and exploiting the chaos caused by unstable [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]. They thrive in the gray areas where legitimate authorities fear to tread, offering services that respectable society needs but won't acknowledge.
+Vex Shadowthorn is [[02_Worldbuilding/Places/Aethermoor]]'s most powerful and dangerous criminal organization, built around exploiting the growing [[02_Worldbuilding/Lore/Shadow Corruption]] that seeps through crystal networks. Named after their enigmatic leader [[02_Worldbuilding/People/Vex Shadowthorn the Kingpin]], this syndicate controls illegal activities across multiple floating cities, specializing in corrupted crystal trafficking, shadow-magic services, and exploiting the chaos caused by unstable [[02_Worldbuilding/Lore/The Seven Shards]]. They thrive in the gray areas where legitimate authorities fear to tread, offering services that respectable society needs but won't acknowledge.
 
 ## Origins & History
 
 ### The Founding Crime (15 Years Ago)
 **First Shadow Crystal Heist**
 - Young Vex Shadowthorn discovered shadow-corrupted crystals had unique properties
-- Assembled crew to steal from [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]] transport
+- Assembled crew to steal from [[02_Worldbuilding/Groups/Silverscale Consortium]] transport
 - First successful theft of unstable crystal cargo worth fortune on black market
 - Realized shadow corruption created opportunities others feared to exploit
 - Established contacts for selling dangerous magical materials
@@ -67,7 +67,7 @@ Vex Shadowthorn is [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aether
 **Criminal Supremacy**
 - Controls majority of illegal crystal trade throughout Aethermoor
 - Expanded into information brokerage and political blackmail
-- Developed international connections with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] crime
+- Developed international connections with [[02_Worldbuilding/Places/Aquabyssos]] crime
 - Created legitimate business fronts for money laundering
 - Built network of corrupted officials and shadow-touched assets
 
@@ -75,11 +75,11 @@ Vex Shadowthorn is [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aether
 
 ### The Shadow Crown
 **Supreme Leadership**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn the Kingpin]]**: Mysterious leader with extensive shadow corruption
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Duchess Nightshade]]**: Second-in-command and master of shadow magic
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Calculator]]**: Financial mastermind and money laundering expert
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thornback]]**: Military operations and enforcement specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Whispered Broker]]**: Information trading and intelligence coordination
+- **[[02_Worldbuilding/People/Vex Shadowthorn the Kingpin]]**: Mysterious leader with extensive shadow corruption
+- **[[02_Worldbuilding/Lore/Duchess Nightshade]]**: Second-in-command and master of shadow magic
+- **[[02_Worldbuilding/Lore/The Crimson Calculator]]**: Financial mastermind and money laundering expert
+- **[[02_Worldbuilding/People/Captain Thornback]]**: Military operations and enforcement specialist
+- **[[02_Worldbuilding/Lore/The Whispered Broker]]**: Information trading and intelligence coordination
 
 ### Operational Divisions
 
@@ -210,18 +210,18 @@ Vex Shadowthorn is [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aether
 ## Territory & Influence
 
 ### Controlled Areas
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Thornfield District]]**: Primary territory in major floating city
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow's End]]**: Criminal haven in dangerous corrupted zone
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Depths]]**: Underground mining operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Nightmarket Plaza]]**: Commercial front and illegal trading center
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Broken Tower]]**: Fortress headquarters in remote location
+- **[[02_Worldbuilding/Places/The Thornfield District]]**: Primary territory in major floating city
+- **[[02_Worldbuilding/Lore/Shadow's End]]**: Criminal haven in dangerous corrupted zone
+- **[[02_Worldbuilding/Lore/The Crystal Depths]]**: Underground mining operations
+- **[[02_Worldbuilding/Lore/Nightmarket Plaza]]**: Commercial front and illegal trading center
+- **[[02_Worldbuilding/Lore/The Broken Tower]]**: Fortress headquarters in remote location
 
 ### Influence Networks
 - Corrupt officials in multiple city governments
 - Infiltration of merchant guilds and trade organizations
 - Connections with other criminal organizations
 - Relationships with shadow-magic practitioners and researchers
-- International contacts in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] underworld
+- International contacts in [[02_Worldbuilding/Places/Aquabyssos]] underworld
 
 ### Protected Operations
 - Crystal processing facilities hidden in dangerous zones
@@ -233,32 +233,32 @@ Vex Shadowthorn is [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aether
 ## Known Members & Associates
 
 ### Leadership Tier
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn the Kingpin]]**: Supreme leader and master criminal
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Duchess Nightshade]]**: Shadow magic expert and strategist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Calculator]]**: Financial operations and legitimacy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thornback]]**: Military operations and enforcement
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Whispered Broker]]**: Information and intelligence
+- **[[02_Worldbuilding/People/Vex Shadowthorn the Kingpin]]**: Supreme leader and master criminal
+- **[[02_Worldbuilding/Lore/Duchess Nightshade]]**: Shadow magic expert and strategist
+- **[[02_Worldbuilding/Lore/The Crimson Calculator]]**: Financial operations and legitimacy
+- **[[02_Worldbuilding/People/Captain Thornback]]**: Military operations and enforcement
+- **[[02_Worldbuilding/Lore/The Whispered Broker]]**: Information and intelligence
 
 ### Operational Specialists
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Razor Darkcrystal]]**: Master thief and infiltration expert
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Surgeon Thorn]]**: Body modification and corruption specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Phantom Fence]]**: Stolen goods distribution and laundering
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Madame Nightwhisper]]**: Information broker and blackmail coordinator
+- **[[02_Worldbuilding/Lore/Razor Darkcrystal]]**: Master thief and infiltration expert
+- **[[02_Worldbuilding/Lore/Shadow Surgeon Thorn]]**: Body modification and corruption specialist
+- **[[02_Worldbuilding/Lore/The Phantom Fence]]**: Stolen goods distribution and laundering
+- **[[02_Worldbuilding/People/Madame Nightwhisper]]**: Information broker and blackmail coordinator
 - **[[Iron Jack Shadowhand]]**: Enforcement and intimidation specialist
 
 ### Field Operatives
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Corrupted Twins]]**: Shadow-enhanced assassins
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Smokescale the Smuggler]]**: Transportation and logistics
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Diamond Dust Dealer]]**: Crystal trafficking specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Thief]]**: Information extraction and espionage
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Blackmarket Betty]]**: Underground economy coordination
+- **[[02_Worldbuilding/Lore/The Corrupted Twins]]**: Shadow-enhanced assassins
+- **[[02_Worldbuilding/Lore/Smokescale the Smuggler]]**: Transportation and logistics
+- **[[02_Worldbuilding/Lore/Diamond Dust Dealer]]**: Crystal trafficking specialist
+- **[[02_Worldbuilding/Places/The Memory Thief]]**: Information extraction and espionage
+- **[[02_Worldbuilding/Lore/Blackmarket Betty]]**: Underground economy coordination
 
 ### External Associates
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Merchants]]**: Legitimate business partners
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corrupt Crystalline Guard]]**: Law enforcement connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professor Darklight]]**: Academic research partnerships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Foreign Shadow Syndicates]]**: International criminal contacts
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Addicted Nobles]]**: High-society clients and informants
+- **[[02_Worldbuilding/Lore/The Shadow Merchants]]**: Legitimate business partners
+- **[[02_Worldbuilding/Lore/Corrupt Crystalline Guard]]**: Law enforcement connections
+- **[[02_Worldbuilding/Lore/Professor Darklight]]**: Academic research partnerships
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/Foreign Shadow Syndicates]]**: International criminal contacts
+- **[[02_Worldbuilding/Lore/The Addicted Nobles]]**: High-society clients and informants
 
 ## Resources & Assets
 
@@ -270,7 +270,7 @@ Vex Shadowthorn is [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aether
 - Currency reserves in multiple forms including shadow-crystals
 
 ### Physical Infrastructure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Thorned Sanctuary]]**: Fortified headquarters complex
+- **[[02_Worldbuilding/Lore/The Thorned Sanctuary]]**: Fortified headquarters complex
 - **Processing Facilities**: Hidden crystal refinement operations (12 locations)
 - **Safe Houses**: Secure meeting and storage locations (50+ sites)
 - **Training Camps**: Facilities for educating criminal specialists (8 locations)
@@ -294,27 +294,27 @@ Vex Shadowthorn is [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aether
 
 ### Law Enforcement
 **Government Response**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Guard]]**: Primary law enforcement enemy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Anti-Corruption Task Force]]**: Specialized unit targeting syndicate
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/City Watch Investigations]]**: Local police attempts to prosecute
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/The Purification Order]]**: Religious opponents of shadow corruption
+- **[[02_Worldbuilding/Lore/Crystal Guard]]**: Primary law enforcement enemy
+- **[[02_Worldbuilding/Lore/Anti-Corruption Task Force]]**: Specialized unit targeting syndicate
+- **[[02_Worldbuilding/Lore/City Watch Investigations]]**: Local police attempts to prosecute
+- **[[02_Worldbuilding/Groups/Orders/The Purification Order]]**: Religious opponents of shadow corruption
 - **[[International Law Enforcement]]**: Cross-realm cooperation against crime
 
 ### Rival Criminal Organizations
 **Competition and Conflict**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Old Families]]**: Traditional crime syndicates displaced by Shadowthorn
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Crystal Pirate Crew]]**: Independent criminals competing for territory
+- **[[02_Worldbuilding/Lore/The Old Families]]**: Traditional crime syndicates displaced by Shadowthorn
+- **[[02_Worldbuilding/Groups/Crystal Pirate Crew]]**: Independent criminals competing for territory
 - **[[02_Worldbuilding/Groups/Foreign Crime Syndicate|02 Worldbuilding/Groups/Foreign Crime Syndicate]]**: International organizations seeking expansion
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Rogue Magical Practitioners]]**: Individuals who refuse syndicate control
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vigilante Organizations]]**: Citizens taking law into own hands
+- **[[02_Worldbuilding/Lore/Rogue Magical Practitioners]]**: Individuals who refuse syndicate control
+- **[[02_Worldbuilding/Lore/Vigilante Organizations]]**: Citizens taking law into own hands
 
 ### Political Opposition
 **Legitimate Authority**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Anti-Crime Politicians]]**: Officials campaigning against syndicate influence
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reform Movements]]**: Citizen groups demanding action against corruption
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/International Pressure]]**: Foreign governments concerned about criminal export
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Business Coalitions]]**: Legitimate enterprises hurt by unfair competition
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Religious Authorities]]**: Moral opposition to shadow corruption exploitation
+- **[[02_Worldbuilding/Lore/Anti-Crime Politicians]]**: Officials campaigning against syndicate influence
+- **[[02_Worldbuilding/Lore/Reform Movements]]**: Citizen groups demanding action against corruption
+- **[[02_Worldbuilding/Lore/International Pressure]]**: Foreign governments concerned about criminal export
+- **[[02_Worldbuilding/Lore/Business Coalitions]]**: Legitimate enterprises hurt by unfair competition
+- **[[02_Worldbuilding/Lore/Religious Authorities]]**: Moral opposition to shadow corruption exploitation
 
 ## Current Operations & Plots
 
@@ -439,9 +439,9 @@ Vex Shadowthorn is [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aether
 
 #### The Succession Question
 **Leadership Competition**
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Duchess Nightshade]] believes she deserves more authority
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Calculator]] wants to focus more on legitimate business
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thornback]] advocates for more aggressive expansion
+- [[02_Worldbuilding/Lore/Duchess Nightshade]] believes she deserves more authority
+- [[02_Worldbuilding/Lore/The Crimson Calculator]] wants to focus more on legitimate business
+- [[02_Worldbuilding/People/Captain Thornback]] advocates for more aggressive expansion
 - Competition creates operational inefficiencies and security risks
 - Vex Shadowthorn plays lieutenants against each other to maintain control
 
@@ -555,7 +555,7 @@ Vex Shadowthorn is [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aether
 
 ### The True Purpose
 **Beyond Crime**
-Vex Shadowthorn the Kingpin is not simply a criminal leader but an agent of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] working to spread shadow corruption throughout Aethermoor. The criminal activities are cover for systematic infection of the population.
+Vex Shadowthorn the Kingpin is not simply a criminal leader but an agent of [[02_Worldbuilding/Lore/The Deep Mother]] working to spread shadow corruption throughout Aethermoor. The criminal activities are cover for systematic infection of the population.
 
 ### The Corruption Experiment
 **Testing Enhancement Limits**
@@ -628,31 +628,31 @@ Shadow enhancement procedures are designed to create dependency, ensuring loyalt
 ## Connected Elements
 
 ### Key NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn the Kingpin]] - Criminal mastermind and shadow-touched leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Duchess Nightshade]] - Shadow magic expert and strategic planner
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Calculator]] - Financial genius and legitimacy advocate
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Potential connection or rival
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]] - Cross-realm criminal contact
+- [[02_Worldbuilding/People/Vex Shadowthorn the Kingpin]] - Criminal mastermind and shadow-touched leader
+- [[02_Worldbuilding/Lore/Duchess Nightshade]] - Shadow magic expert and strategic planner
+- [[02_Worldbuilding/Lore/The Crimson Calculator]] - Financial genius and legitimacy advocate
+- [[02_Worldbuilding/People/The Crimson Sage]] - Potential connection or rival
+- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Cross-realm criminal contact
 
 ### Important Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Thorned Sanctuary]] - Criminal headquarters and fortress
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow's End]] - Criminal haven in corrupted territory
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] - Primary area of operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Depths]] - Illegal mining operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Nightmarket Plaza]] - Commercial front and trading center
+- [[02_Worldbuilding/Lore/The Thorned Sanctuary]] - Criminal headquarters and fortress
+- [[02_Worldbuilding/Lore/Shadow's End]] - Criminal haven in corrupted territory
+- [[02_Worldbuilding/Places/Aethermoor]] - Primary area of operations
+- [[02_Worldbuilding/Lore/The Crystal Depths]] - Illegal mining operations
+- [[02_Worldbuilding/Lore/Nightmarket Plaza]] - Commercial front and trading center
 
 ### Related Quests
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Shadow Crystal Heist]] - Stopping major criminal operation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Corruption Choice]] - Deciding whether to accept enhancement
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Criminal Alliance]] - Working with syndicate against threats
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Kingpin's Fall]] - Direct confrontation with leadership
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Legitimacy Campaign]] - Influencing social acceptance of corruption
+- [[02_Worldbuilding/Lore/Quest - Shadow Crystal Heist]] - Stopping major criminal operation
+- [[02_Worldbuilding/Lore/Quest - The Corruption Choice]] - Deciding whether to accept enhancement
+- [[02_Worldbuilding/Lore/Quest - Criminal Alliance]] - Working with syndicate against threats
+- [[02_Worldbuilding/People/Quest - The Kingpin's Fall]] - Direct confrontation with leadership
+- [[02_Worldbuilding/Lore/Quest - Legitimacy Campaign]] - Influencing social acceptance of corruption
 
 ### Opposing Organizations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Guard]] - Primary law enforcement enemy
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] - Ideological opponents of corruption
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Old Families]] - Traditional crime displaced by syndicate
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Anti-Corruption Task Force]] - Specialized law enforcement unit
+- [[02_Worldbuilding/Lore/Crystal Guard]] - Primary law enforcement enemy
+- [[02_Worldbuilding/Groups/Purist Coalition]] - Ideological opponents of corruption
+- [[02_Worldbuilding/Lore/The Old Families]] - Traditional crime displaced by syndicate
+- [[02_Worldbuilding/Lore/Anti-Corruption Task Force]] - Specialized law enforcement unit
 - [[International Law Enforcement]] - Cross-realm cooperation against crime
 
 ---
@@ -662,8 +662,8 @@ Shadow enhancement procedures are designed to create dependency, ensuring loyalt
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/The Crimson Hand]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -676,6 +676,6 @@ Legends speak of Vex Shadowthorn as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
 
 <!-- enriched: true -->

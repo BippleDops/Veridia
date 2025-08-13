@@ -62,11 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Resonance Cathedral]]
+- [[02_Worldbuilding/Places/The Resonance Cathedral]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Cult of Screams]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of Screams]]

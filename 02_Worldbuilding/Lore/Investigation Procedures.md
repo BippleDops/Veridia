@@ -1,24 +1,20 @@
 ---
-created: '2025-08-11'
+type: Lore
+status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-status: complete
 tags:
+- aquabyssos
 - both
 - complete
-- content/lore
+- investigation
 - lore
-- mechanics/exploration
 - procedures
-- status/complete
-- world/aquabyssos
-- world/both
 - worldbuilding
-type: Lore
-updated: '2025-08-13T12:34:28.597486+00:00'
 world: Both
+updated: '2025-08-11T00:00:00+00:00'
+created: '2025-08-11'
 ---
-
 
 
 
@@ -127,7 +123,7 @@ Mastery of investigation procedures allows the party to uncover the deepest secr
 - [[02_Worldbuilding/People/The Shadow Warren]]
 - [[02_Worldbuilding/Lore/Corruption Exposure Tracking]]
 - [[02_Worldbuilding/Places/Spymaster Crow]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal corruption mechanics]]
+- [[Crystal corruption mechanics]]
 
 ## DM Guidance
 ### Running This Element
@@ -146,19 +142,19 @@ Adapt procedures to reflect your campaign's tone - more bureaucratic for politic
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Citizens of Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crimson Hand Strike Team]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[02_Worldbuilding/Lore/Citizens of Meridian]]
+- [[02_Worldbuilding/Lore/Crimson Hand Strike Team]]
+- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
 - [[02_Worldbuilding/Lore/Evidence Types Guide]]
 - [[02_Worldbuilding/Lore/Fear Farms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Tube Operator Krill]]
+- [[02_Worldbuilding/Lore/Pressure Tube Operator Krill]]
 - [[02_Worldbuilding/Lore/Random Encounters]]
 - [[02_Worldbuilding/Lore/Reputation System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session 0 - Aquabyssos]]
+- [[02_Worldbuilding/Lore/Session 0 - Aquabyssos]]
 - [[02_Worldbuilding/Lore/Silver Mask]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spell Components]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/Spell Components]]
+- [[Thalassius the Wise]]
+- [[The Deep Mother]]
 - [[02_Worldbuilding/Lore/The Restoration Movement]]
 - [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
 

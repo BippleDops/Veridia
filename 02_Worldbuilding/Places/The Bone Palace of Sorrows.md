@@ -29,21 +29,21 @@ world: Both
 *Where Death Holds Court and Eternity Begins*
 
 ## Overview
-The Bone Palace serves as the seat of [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Carrion Court]], an elaborate fortress constructed from the bones of ancient leviathans and ruled by undead nobility who maintain the twisted traditions of aristocratic society beyond death.
+The Bone Palace serves as the seat of [[02_Worldbuilding/Groups/The Carrion Court]], an elaborate fortress constructed from the bones of ancient leviathans and ruled by undead nobility who maintain the twisted traditions of aristocratic society beyond death.
 
 ## Key Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Carrion Court]]** - Primary occupants and ruling undead nobility
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lich-Queen Morwyn the Deathless]]** - Supreme ruler of the palace
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]** - Primary opposition seeking to consecrate the palace
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Leading religious crusade against undead court
+- **[[02_Worldbuilding/Groups/The Carrion Court]]** - Primary occupants and ruling undead nobility
+- **[[02_Worldbuilding/People/Lich-Queen Morwyn the Deathless]]** - Supreme ruler of the palace
+- **[[02_Worldbuilding/People/Crystal Wardens]]** - Primary opposition seeking to consecrate the palace
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Leading religious crusade against undead court
 - **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Business partnerships in necromantic trade
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets New]]** - Source of corpses and dark materials
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]** - Potential recruitment target for undead nobility
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]** - Infiltration target for vampire nobles
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]** - Military leader coordinating anti-undead campaigns
+- **[[02_Worldbuilding/Places/The Shadow Markets New]]** - Source of corpses and dark materials
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Potential recruitment target for undead nobility
+- **[[02_Worldbuilding/Places/Port Meridian]]** - Infiltration target for vampire nobles
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Military leader coordinating anti-undead campaigns
 - **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Transport undead agents to mainland
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]** - Mysterious relationship with ancient undead knowledge
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Vaults]]** - Source of necromantic artifacts and knowledge
+- **[[02_Worldbuilding/People/The Crimson Sage]]** - Mysterious relationship with ancient undead knowledge
+- **[[02_Worldbuilding/Places/The Sundered Vaults]]** - Source of necromantic artifacts and knowledge
 
 ## History
 
@@ -94,11 +94,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bone Palace of Sorrows]]
+- [[02_Worldbuilding/Places/The Bone Palace of Sorrows]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Crystal Wardens]]

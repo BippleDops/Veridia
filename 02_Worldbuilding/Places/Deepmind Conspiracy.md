@@ -46,7 +46,7 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 ## The Network Structure
 
 ### The Core Mind
-**Controller**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Overmind Depth-Thought Eternal]]
+**Controller**: [[02_Worldbuilding/Lore/Overmind Depth-Thought Eternal]]
 **Function**: Central processing unit for all intelligence operations
 **Capacity**: Can maintain mental links with up to 500 individuals simultaneously
 
@@ -59,7 +59,7 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 
 ### The Five Specialized Minds
 
-**The Watcher Mind**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Psychic Observer All-Seeing Echo]]
+**The Watcher Mind**: [[02_Worldbuilding/Lore/Psychic Observer All-Seeing Echo]]
 - Specialty: Surveillance and information gathering
 - Network: 80-100 enhanced perception specialists
 - Operations: Continuous monitoring of targets
@@ -74,7 +74,7 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 - Network: 20-30 precognitive individuals
 - Operations: Strategic forecasting and timeline analysis
 
-**The Whisper Mind**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thought-Speaker Silent]]
+**The Whisper Mind**: [[02_Worldbuilding/Lore/Thought-Speaker Silent]]
 - Specialty: Long-distance telepathic communication
 - Network: 60-80 telepathic communicators
 - Operations: Instant messaging across realms
@@ -93,14 +93,14 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 - Security: Guarded by mind-controlled sentinels
 
 ### The Memory Archive
-- Location: Hidden within [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]]
+- Location: Hidden within [[02_Worldbuilding/Places/The Shadow Markets]]
 - Purpose: Physical storage for dangerous extracted memories
 - Technology: Crystal matrices containing crystallized thoughts
 - Capacity: Memories from approximately 10,000 individuals
 
 ### Communication Nodes
 - Multiple hidden chambers throughout the city
-- Connected to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vote Vaults]], [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Market Canals]], and other locations
+- Connected to [[02_Worldbuilding/Places/Vote Vaults]], [[02_Worldbuilding/Places/Shadow Market Canals]], and other locations
 - Equipment: Magical amplifiers for psychic abilities
 - Personnel: 8-12 psychic operators per location
 
@@ -130,11 +130,11 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 ## Network Connections
 
 ### Primary Partners
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Vote Vaults]]**: Political manipulation coordination
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]]**: Criminal intelligence sharing
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Secret Vault Beneath Throne]]**: Royal intelligence operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Market Canals]]**: Transportation security
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Silent Watcher]]**: Surveillance coordination
+- **[[02_Worldbuilding/Places/Vote Vaults]]**: Political manipulation coordination
+- **[[02_Worldbuilding/Places/The Shadow Markets]]**: Criminal intelligence sharing
+- **[[02_Worldbuilding/Places/Secret Vault Beneath Throne]]**: Royal intelligence operations
+- **[[02_Worldbuilding/Places/Shadow Market Canals]]**: Transportation security
+- **[[02_Worldbuilding/Places/The Silent Watcher]]**: Surveillance coordination
 
 ### Intelligence Sharing
 - Real-time threat assessment and warning systems
@@ -218,11 +218,11 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Secret Vault Beneath Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Market Canals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vote Vaults]]
+- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[02_Worldbuilding/Places/Shadow Market Canals]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/Places/Vote Vaults]]
 
 ## Player-Facing Summary
 
@@ -238,7 +238,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deepmind Conspiracy]]
+- [[02_Worldbuilding/Places/Deepmind Conspiracy]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Silent Watcher]]
+- [[02_Worldbuilding/Places/The Silent Watcher]]

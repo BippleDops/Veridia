@@ -157,7 +157,7 @@ This quest combines Lovecraftian horror with heroic fantasy. Build tension gradu
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whispering Depths]]
+- [[02_Worldbuilding/Places/The Whispering Depths]]
 
 
 ## History
@@ -199,6 +199,6 @@ Legends speak of Quieting the Depths as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quieting the Depths]]
+- [[02_Worldbuilding/Places/Quieting the Depths]]
 
 <!-- enriched: true -->

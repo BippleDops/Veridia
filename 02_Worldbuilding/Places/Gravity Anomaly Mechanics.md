@@ -46,11 +46,11 @@ world: Both Worlds
 *When Natural Laws Bend and Break*
 
 > *"Gravity is not just the force that holds our feet to the ground—it is the invisible hand that shapes reality itself. When that hand trembles, entire worlds can be reshaped in moments."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Theoretical Physicist Marina Voidwright]], studying gravitational phenomena
+> — [[02_Worldbuilding/Lore/Theoretical Physicist Marina Voidwright]], studying gravitational phenomena
 
 ## Overview
 
-Gravity Anomaly Mechanics describe the complex magical and physical phenomena that occur when gravitational forces are disrupted, manipulated, or fundamentally altered in the regions around [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]. These anomalies represent one of the most dangerous and unpredictable environmental hazards affecting both realms, capable of reshaping landscapes, disrupting magical systems, and creating areas where normal physics no longer apply.
+Gravity Anomaly Mechanics describe the complex magical and physical phenomena that occur when gravitational forces are disrupted, manipulated, or fundamentally altered in the regions around [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. These anomalies represent one of the most dangerous and unpredictable environmental hazards affecting both realms, capable of reshaping landscapes, disrupting magical systems, and creating areas where normal physics no longer apply.
 
 Unlike simple magical effects that temporarily alter gravity, true gravity anomalies represent fundamental distortions in the fabric of space-time itself, creating lasting changes to the physical laws governing affected areas. Understanding these mechanics is crucial for navigating anomaly zones, predicting their effects, and developing countermeasures to protect populated areas and critical infrastructure.
 
@@ -362,7 +362,7 @@ Gravitational anomalies represent powerful tools for creating unique and memorab
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]]
+- [[02_Worldbuilding/Places/The Inverse Palace]]
 
 ## Player-Facing Summary
 
@@ -384,7 +384,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
+- [[02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor]]

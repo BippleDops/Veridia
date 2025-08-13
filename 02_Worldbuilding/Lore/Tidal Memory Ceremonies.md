@@ -155,31 +155,31 @@ Tidal Memory Ceremonies represent the most sacred religious practices in Aquabys
 8. **Traumatic Integration**: Help refugee community adapt to tidal memory practices
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Religious leader adapting traditions for inter-realm cooperation
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tidal Priest Marina Deepcurrent]] - Expert in memory ceremonies and tidal interpretation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Keeper Ancient Nerida]] - Eldest keeper of community historical memories
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Elder Whisper-In-The-Dark]] - Spiritual advisor with memory magic knowledge
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Religious leader adapting traditions for inter-realm cooperation
+- [[02_Worldbuilding/People/Tidal Priest Marina Deepcurrent]] - Expert in memory ceremonies and tidal interpretation
+- [[02_Worldbuilding/Places/Memory Keeper Ancient Nerida]] - Eldest keeper of community historical memories
+- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]] - Spiritual advisor with memory magic knowledge
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sacred Memory Gardens]] - Coral formations serving as living archives
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Tidal Shrine]] - Primary ceremonial site for major memory rituals
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ancestor's Pool]] - Sacred site for communicating with ancestral memories
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] - Government incorporating memory consultation
+- [[02_Worldbuilding/Lore/Sacred Memory Gardens]] - Coral formations serving as living archives
+- [[02_Worldbuilding/Lore/The Great Tidal Shrine]] - Primary ceremonial site for major memory rituals
+- [[02_Worldbuilding/Lore/Ancestor's Pool]] - Sacred site for communicating with ancestral memories
+- [[02_Worldbuilding/Places/Parliament of Echoes]] - Government incorporating memory consultation
 
 ## Connected Organizations
 - [[02_Worldbuilding/Groups/Temple of the Healing Waters|02 Worldbuilding/Groups/Temple Of The Healing Waters]] - Religious organization maintaining ceremony traditions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Keepers Guild]] - Professional organization preserving cultural knowledge
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tidal Priests Circle]] - Religious leadership guiding memory practices
+- [[02_Worldbuilding/Places/The Memory Keepers Guild]] - Professional organization preserving cultural knowledge
+- [[02_Worldbuilding/People/Tidal Priests Circle]] - Religious leadership guiding memory practices
 
 The Tidal Memory Ceremonies represent the spiritual heart of Aquabyssos culture, where the eternal ocean serves as both sacred temple and infinite library, preserving the experiences and wisdom of countless generations within its endless tidal embrace.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temple of the First Tide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Festival of Rising Tides]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/Temple of the First Tide]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Festival of Rising Tides]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

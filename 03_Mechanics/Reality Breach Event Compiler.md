@@ -31,7 +31,7 @@ Generates 1,000+ merger zone effects, physics breakdowns, impossible spaces, par
 ## Dimensional Invasions
 - Creatures of elsewhere; sanity and anchor checks
 
-Use with: [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]], [[Merger Hybrid Vehicles]].
+Use with: [[03_Mechanics/Complete Reality Merger System]], [[Merger Hybrid Vehicles]].
 
 ## Player-Facing Summary
 

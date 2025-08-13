@@ -26,7 +26,7 @@ world: Aethermoor
 
 ## Overview
 
-Life in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] moves with the rhythm of winds and the dance of sky currents. The floating cities and cloud-bound settlements have developed intricate daily patterns that honor both the freedom of flight and the practical necessities of aerial existence. Every aspect of daily life is touched by the three-dimensional nature of sky living, from wind-powered morning routines to evening migrations between floating districts.
+Life in [[02_Worldbuilding/Places/Aethermoor]] moves with the rhythm of winds and the dance of sky currents. The floating cities and cloud-bound settlements have developed intricate daily patterns that honor both the freedom of flight and the practical necessities of aerial existence. Every aspect of daily life is touched by the three-dimensional nature of sky living, from wind-powered morning routines to evening migrations between floating districts.
 
 ## The Aethermoor Sky Cycle
 
@@ -535,10 +535,10 @@ From the early morning wind readings to the evening social flights, every aspect
 ---
 
 **Related Topics**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/A Day in Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Working Class Routines]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Noble Leisure Schedules]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Child Life in the Realms]]
+- [[02_Worldbuilding/Lore/A Day in Aquabyssos]]
+- [[02_Worldbuilding/Lore/Working Class Routines]]  
+- [[02_Worldbuilding/Lore/Noble Leisure Schedules]]
+- [[02_Worldbuilding/Lore/Child Life in the Realms]]
 - [[Wind Engineering and Sky Architecture]]
 - [[Aerial Transportation Networks]]
 - [[Aethermoor Culture and Society]]

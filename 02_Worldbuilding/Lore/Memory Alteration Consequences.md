@@ -35,7 +35,7 @@ world: Aquabyssos
 
 ## Overview
 
-Memory alteration in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] has grown from therapeutic necessity to widespread social phenomenon, but this technological advancement comes with severe unintended consequences. What began as medical treatment for [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]] trauma has created a cascade of psychological, social, and even physical problems that threaten the very fabric of Aquabyssian civilization. The consequences range from individual identity crisis to societal reality distortion, with effects that compound across generations.
+Memory alteration in [[02_Worldbuilding/Places/Aquabyssos]] has grown from therapeutic necessity to widespread social phenomenon, but this technological advancement comes with severe unintended consequences. What began as medical treatment for [[02_Worldbuilding/Lore/Timeline of the Drowning]] trauma has created a cascade of psychological, social, and even physical problems that threaten the very fabric of Aquabyssian civilization. The consequences range from individual identity crisis to societal reality distortion, with effects that compound across generations.
 
 ## Categories of Consequences
 
@@ -652,14 +652,14 @@ Memory alteration in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aqua
 
 ## Connection to Campaign Elements
 
-### Relationship to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
+### Relationship to [[02_Worldbuilding/Lore/The Convergence Point]]
 **Memory Alteration and Reality Merger:**
 - Widespread memory alterations may affect how individuals experience convergence
 - False memories could determine which version of merged reality becomes dominant
 - Memory chaos could make convergence process more unpredictable and dangerous
 - Resolution of convergence might eliminate memory alteration problems or make them worse
 
-### Impact on [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Real Marina]]
+### Impact on [[02_Worldbuilding/Lore/The Real Marina]]
 **Marina's Memory Integration:**
 - Her multidimensional memories might be interpreted as memory alteration consequences
 - Treatment for memory alteration might interfere with her natural integration process
@@ -677,15 +677,15 @@ Memory alteration in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aqua
 
 ### The Ultimate Consequence
 > [!warning] DM Only
-> The widespread memory alteration is not just a social problem—it's weakening the barrier between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Each altered memory creates a small "reality wound" that allows dimensional bleeding. The memory alteration epidemic is actually accelerating [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]] and making it more chaotic.
+> The widespread memory alteration is not just a social problem—it's weakening the barrier between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. Each altered memory creates a small "reality wound" that allows dimensional bleeding. The memory alteration epidemic is actually accelerating [[02_Worldbuilding/Lore/The Convergence Point]] and making it more chaotic.
 
 ### The Deep Mother's Influence
 > [!warning] DM Secret
-> [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] has been subtly influencing the development of memory alteration technology through dreams. She wants the population to become comfortable with altered consciousness as preparation for merger into collective awareness. The memory alteration consequences are part of her awakening process.
+> [[02_Worldbuilding/Lore/The Deep Mother]] has been subtly influencing the development of memory alteration technology through dreams. She wants the population to become comfortable with altered consciousness as preparation for merger into collective awareness. The memory alteration consequences are part of her awakening process.
 
 ### The True Cure
 > [!warning] Hidden Knowledge
-> The only way to fully resolve memory alteration consequences is to restore the original unified reality before the dimensional split. This is why [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Real Marina]]'s integration is so important—she holds the key to healing not just individual memories, but the fundamental nature of memory itself.
+> The only way to fully resolve memory alteration consequences is to restore the original unified reality before the dimensional split. This is why [[02_Worldbuilding/Lore/The Real Marina]]'s integration is so important—she holds the key to healing not just individual memories, but the fundamental nature of memory itself.
 
 ## Adventure Hooks and Campaign Integration
 
@@ -718,17 +718,17 @@ Memory alteration in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aqua
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Types Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Fear Farms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silver Mask]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgetting Bomb]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[02_Worldbuilding/Lore/Crystal Festival]]
+- [[02_Worldbuilding/Lore/Evidence Types Guide]]
+- [[02_Worldbuilding/Lore/Fear Farms]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/The Crimson Hand]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Lore/The Forgetting Bomb]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 
@@ -752,6 +752,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]

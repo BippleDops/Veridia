@@ -447,15 +447,15 @@ Before studying any forbidden tome:
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Lore]]
+- [[02_Worldbuilding/Lore/Deep Mother Lore]]
 - [[Complete Deep Mother Subsystem]]
-- [[vault_backup_20250813_073007/03_Mechanics/Deep Mother Sanity System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Prophecies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reality Breach Locations]]
+- [[03_Mechanics/Deep Mother Sanity System]]
+- [[02_Worldbuilding/Lore/The Deep Prophecies]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+- [[02_Worldbuilding/Places/Reality Breach Locations]]
 - [[Observatory of Broken Stars]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Doctor Harmony Whisperfall]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Shadows]]
+- [[02_Worldbuilding/Groups/Doctor Harmony Whisperfall]]
 - [[Meridian Trading Company]]
 
 ## Player-Facing Summary

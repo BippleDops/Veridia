@@ -62,11 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssal Crystals]]
+- [[02_Worldbuilding/Places/Abyssal Crystals]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Market]]
+- [[02_Worldbuilding/Places/The Depth Market]]

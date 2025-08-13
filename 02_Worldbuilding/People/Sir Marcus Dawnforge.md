@@ -26,7 +26,7 @@ tags:
 *"I've seen what the crystals can do - the power they grant, and the price they demand. The Order exists to ensure that price is paid wisely."*
 
 ## Overview
-Sir Marcus Dawnforge is a conflicted veteran knight of the [[vault_backup_20250813_073007/02_Worldbuilding/People/Order of the Shattered Crown]], struggling to balance his duty to regulate crystal use with his growing doubts about the Order's true purpose. His prosthetic crystal arm serves as a constant reminder of both salvation and damnation.
+Sir Marcus Dawnforge is a conflicted veteran knight of the [[02_Worldbuilding/People/Order of the Shattered Crown]], struggling to balance his duty to regulate crystal use with his growing doubts about the Order's true purpose. His prosthetic crystal arm serves as a constant reminder of both salvation and damnation.
 
 ## Appearance
 - Weathered face with premature grey streaking through dark hair
@@ -42,21 +42,21 @@ Sir Marcus Dawnforge is a conflicted veteran knight of the [[vault_backup_202508
 - Has developed a drinking problem to cope with crystal-whispers
 
 ## Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]]**: Former brothers-in-arms, now ideologically divided
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]**: Secretly receives philosophical guidance from him
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]**: Romantic tension - she investigates crystal crimes he's supposed to prevent
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]**: Sees Marcus as too moderate, watches him for signs of "weakness"
-- **Ambassador [[vault_backup_20250813_073007/02_Worldbuilding/People/Korvin Blacktide]]**: Suspects the Ambassador is corrupting Order members
+- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]**: Former brothers-in-arms, now ideologically divided
+- **[[02_Worldbuilding/People/The Crimson Sage]]**: Secretly receives philosophical guidance from him
+- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]**: Romantic tension - she investigates crystal crimes he's supposed to prevent
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Sees Marcus as too moderate, watches him for signs of "weakness"
+- **Ambassador [[02_Worldbuilding/People/Korvin Blacktide]]**: Suspects the Ambassador is corrupting Order members
 
 ## Current Activities
 - Training new Order recruits while subtly teaching them to think independently
-- Investigating disappearances of Order members in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadowmere]]
+- Investigating disappearances of Order members in [[02_Worldbuilding/Places/The Shadowmere]]
 - Maintaining a secret ledger of "unofficial" crystal distributions to the desperate
 - Searching for evidence of corruption within the Order's leadership
 
 ## DM Secrets
 > [!warning] The Crystal Whispers
-> Marcus's prosthetic arm is made from a fragment of the [[vault_backup_20250813_073007/02_Worldbuilding/People/Azure Shard]]. It whispers to him in his dreams, showing him visions of a world where crystal and flesh merge perfectly. He's slowly being influenced to believe that controlled corruption might be humanity's evolution.
+> Marcus's prosthetic arm is made from a fragment of the [[02_Worldbuilding/People/Azure Shard]]. It whispers to him in his dreams, showing him visions of a world where crystal and flesh merge perfectly. He's slowly being influenced to believe that controlled corruption might be humanity's evolution.
 
 > [!danger] The Heretic's Truth
 > Marcus discovered that the Order's founding charter contains a hidden clause: when all Seven Shards are found, the Order is commanded to forcibly merge them with seven "worthy" hosts to create living gods. He's desperately trying to prevent this while appearing loyal.
@@ -79,7 +79,7 @@ Sir Marcus Dawnforge is a conflicted veteran knight of the [[vault_backup_202508
 
 ## Plot Hooks
 - Approaches party to investigate Order members who've gone too deep into crystal experimentation
-- Needs help smuggling refugees out of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] before a Purist Coalition purge
+- Needs help smuggling refugees out of [[02_Worldbuilding/Places/Port Meridian]] before a Purist Coalition purge
 - Offers to train party members in anti-corruption techniques
 - Seeks allies to expose Order corruption without triggering a civil war
 
@@ -115,12 +115,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sir Marcus Dawnforge]]
+- [[02_Worldbuilding/People/Sir Marcus Dawnforge]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Azure Shard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Order of the Shattered Crown]]
+- [[02_Worldbuilding/People/Azure Shard]]
+- [[02_Worldbuilding/People/Order of the Shattered Crown]]

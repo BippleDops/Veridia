@@ -19,13 +19,13 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Influence]]
+- [[02_Worldbuilding/Lore/Deep Mother Influence]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Influence]]
+- [[02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
+- [[02_Worldbuilding/Lore/Deep Mother Influence]]
 
 ## Player-Facing Summary
 

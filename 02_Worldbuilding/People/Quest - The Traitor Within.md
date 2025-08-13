@@ -127,7 +127,7 @@ This quest explores themes of loyalty, family, and moral complexity in wartime. 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
 
 
 ## Appearance
@@ -175,6 +175,6 @@ Legends speak of Quest   The Traitor Within as a nexus where past and present co
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Traitor Within]]
+- [[02_Worldbuilding/People/Quest - The Traitor Within]]
 
 <!-- enriched: true -->

@@ -21,7 +21,7 @@ world: Both
 
 # Merger Hybrid Vehicles
 
-Impossible vessels for zones where physics fails and timelines knot. Requires close coordination with [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]], and [[Memory Trading Economy System|Memory Trading Economy]].
+Impossible vessels for zones where physics fails and timelines knot. Requires close coordination with [[03_Mechanics/Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[02_Worldbuilding/Lore/Deep Mother]], and [[Memory Trading Economy System|Memory Trading Economy]].
 
 ## Impossible Vessels (Examples)
 - Depth-Flyer (Underwater flight through air pockets)
@@ -45,7 +45,7 @@ Impossible vessels for zones where physics fails and timelines knot. Requires cl
 - Deep Guidance: Bargain to receive routes in dreams; pay with memories or years
 
 ## Procedures
-1) Identify zone type from [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]]
+1) Identify zone type from [[03_Mechanics/Complete Reality Merger System]]
 2) Select compatible vessel mode; allocate anchors
 3) Choose navigation method (probability, memory, sanity, dream)
 4) Roll stability, sanity, and paradox; resolve anomalies

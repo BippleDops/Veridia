@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Consortium Security Constructs]]
+- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Consortium Security Constructs]]
+- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
 
 ## Player-Facing Summary
 

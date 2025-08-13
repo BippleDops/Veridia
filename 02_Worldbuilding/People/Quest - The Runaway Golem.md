@@ -75,7 +75,7 @@ Explore themes of consciousness, freedom, and creator responsibility. Faithful s
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
 
 
 ## Appearance
@@ -123,6 +123,6 @@ Legends speak of Quest   The Runaway Golem as a nexus where past and present con
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Runaway Golem]]
+- [[02_Worldbuilding/People/Quest - The Runaway Golem]]
 
 <!-- enriched: true -->

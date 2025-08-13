@@ -22,7 +22,7 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location Index]]
+- [[02_Worldbuilding/Lore/Location Index]]
 
 ## Player-Facing Summary
 

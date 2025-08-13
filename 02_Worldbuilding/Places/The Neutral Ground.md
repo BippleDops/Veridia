@@ -19,23 +19,23 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Lore/Deep Mother]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Serenity Stillwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Floating Market]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Floating Market]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]
 
 ## Player-Facing Summary
 

@@ -43,13 +43,13 @@ Unite the Two Worlds describes a turning current in history where choices about 
 - Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
 
 ## Threads and Revelations
-- Records implicate agents tied to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Lighthouse of Storms]].
-- A rite echoes the activation cadence needed for [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]].
+- Records implicate agents tied to [[02_Worldbuilding/Lore/The Lighthouse of Storms]].
+- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/The Whispering Expanse]].
 - Testimony suggests [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] financed a pivotal bribe.
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Lighthouse of Storms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[02_Worldbuilding/Quests/The Whispering Expanse]]
 - [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
 
 ## Player-Facing Summary

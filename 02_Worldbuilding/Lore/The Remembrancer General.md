@@ -1,27 +1,24 @@
 ---
+type: Lore
+status: complete
+updated: '2025-08-13T01:18:35.276053+00:00'
+created: '2025-08-11'
+tags:
+- aquabyssos
+- category/lore
+- complete
+- lore
+world: Aquabyssos
+obsidianUIMode: preview
 accessibility:
+  screen_reader_summary: This lore entry explains a pivotal principle or event and
+    its consequences for play.
   content_warnings: []
   pronunciation: The Remembrancer General
   safety_tools:
   - Lines & Veils
   - X-Card
-  screen_reader_summary: This lore entry explains a pivotal principle or event and
-    its consequences for play.
-created: '2025-08-11'
-obsidianUIMode: preview
-status: complete
-tags:
-- aquabyssos
-- complete
-- content/lore
-- lore
-- status/complete
-- world/aquabyssos
-type: Lore
-updated: '2025-08-13T12:34:29.522540+00:00'
-world: Aquabyssos
 ---
-
 
 
 
@@ -46,12 +43,12 @@ The Remembrancer General describes a turning current in history where choices ab
 
 ## Threads and Revelations
 - Records implicate agents tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius]].
-- A rite echoes the activation cadence needed for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+- A rite echoes the activation cadence needed for [[02_Worldbuilding/Places/Aquabyssos]].
 - Testimony suggests [[02_Worldbuilding/People/Vex Shadowthorn]] financed a pivotal bribe.
 
 ## Cross-References
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- [[02_Worldbuilding/Places/Aquabyssos]]
 - [[02_Worldbuilding/People/Vex Shadowthorn]]
 
 ## Player-Facing Summary
@@ -78,4 +75,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
+- [[The Convergence Point]]

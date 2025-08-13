@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
 
 ## Player-Facing Summary
 

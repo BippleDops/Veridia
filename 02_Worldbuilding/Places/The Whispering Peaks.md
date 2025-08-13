@@ -5,7 +5,7 @@ created: '2025-07-23'
 danger_level: 8
 elevation: Sea level to 12,000 feet above surface
 government: '[[The Order of Azure Flame]]'
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Grand Master Tempest Windvoice]]'
+leader: '[[02_Worldbuilding/Lore/Grand Master Tempest Windvoice]]'
 modified: 2025-08-09 - Category/Place
 obsidianUIMode: preview
 population: 800
@@ -45,48 +45,48 @@ world: Aquabyssos
 
 ## Overview
 
-The Whispering Peaks rise from the northern waters of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] like the spines of some ancient, slumbering leviathan. These jagged mountains breach the surface in defiance of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]], their peaks shrouded in perpetual mist that carries the voices of countless souls who perished during the cataclysm. The winds here don't merely blow - they speak, carrying fragments of final words, dying prayers, and unfinished promises across the treacherous slopes.
+The Whispering Peaks rise from the northern waters of [[02_Worldbuilding/Places/Aquabyssos]] like the spines of some ancient, slumbering leviathan. These jagged mountains breach the surface in defiance of [[02_Worldbuilding/Places/The Great Drowning]], their peaks shrouded in perpetual mist that carries the voices of countless souls who perished during the cataclysm. The winds here don't merely blow - they speak, carrying fragments of final words, dying prayers, and unfinished promises across the treacherous slopes.
 
-This haunted archipelago serves as both sanctuary and prison for the [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Order of Azure Flame]], warrior-monks who have dedicated themselves to shepherding the restless dead and guarding against the whispers that threaten to drive visitors to madness.
+This haunted archipelago serves as both sanctuary and prison for the [[02_Worldbuilding/Groups/Orders/Order of Azure Flame]], warrior-monks who have dedicated themselves to shepherding the restless dead and guarding against the whispers that threaten to drive visitors to madness.
 
 ## Geography & Climate
 
 ### The Seven Peaks
 **Mount Lament (Highest Peak - 12,000 feet)**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Citadel of Azure Flame]]** - Fortress-monastery of the Order
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crying Stones]]** - Rock formations that weep constantly
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Wind Altar]]** - Where the Order communes with spirits
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silent Watch]]** - Observation post overlooking all approaches
+- **[[02_Worldbuilding/Lore/The Citadel of Azure Flame]]** - Fortress-monastery of the Order
+- **[[02_Worldbuilding/Lore/The Crying Stones]]** - Rock formations that weep constantly
+- **[[02_Worldbuilding/Lore/The Wind Altar]]** - Where the Order communes with spirits
+- **[[02_Worldbuilding/Lore/The Silent Watch]]** - Observation post overlooking all approaches
 
 **Peak of Sorrows**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Mourning Bells]]** - Ancient bell tower that rings without wind
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Widow's Rest]]** - Memorial to those lost at sea
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Echo Chambers]]** - Natural amplification of whispered voices
+- **[[02_Worldbuilding/Lore/The Mourning Bells]]** - Ancient bell tower that rings without wind
+- **[[02_Worldbuilding/Lore/Widow's Rest]]** - Memorial to those lost at sea
+- **[[02_Worldbuilding/Lore/The Echo Chambers]]** - Natural amplification of whispered voices
 
 **Ghostwind Summit**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Phantom Market]]** - Spectral traders appear during storm season
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Banshee Caverns]]** - Where the loudest wails originate
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spirit Gate]]** - Portal to the realm of the dead (heavily guarded)
+- **[[02_Worldbuilding/Lore/The Phantom Market]]** - Spectral traders appear during storm season
+- **[[02_Worldbuilding/Places/The Banshee Caverns]]** - Where the loudest wails originate
+- **[[02_Worldbuilding/Lore/Spirit Gate]]** - Portal to the realm of the dead (heavily guarded)
 
 **Wraithspire**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bone Bridges]]** - Calcified remains spanning chasms
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Keening Cliffs]]** - Sheer drops where winds sound like screaming
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Ossuary Temple]]** - Repository of bones from the drowned
+- **[[02_Worldbuilding/Lore/The Bone Bridges]]** - Calcified remains spanning chasms
+- **[[02_Worldbuilding/Lore/The Keening Cliffs]]** - Sheer drops where winds sound like screaming
+- **[[02_Worldbuilding/Places/The Ossuary Temple]]** - Repository of bones from the drowned
 
 **Soulcry Mountain**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sunken Library]]** - Partially flooded archive of pre-Drowning knowledge
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Pools]]** - Waters that show visions of the past
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Scribes' Sanctuary]]** - Where final messages are recorded
+- **[[02_Worldbuilding/Lore/The Sunken Library]]** - Partially flooded archive of pre-Drowning knowledge
+- **[[02_Worldbuilding/Lore/The Memory Pools]]** - Waters that show visions of the past
+- **[[02_Worldbuilding/Lore/The Scribes' Sanctuary]]** - Where final messages are recorded
 
 **Deadwind Point**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Caves]]** - Glowing formations containing trapped souls
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Listening Posts]]** - Order outposts monitoring spirit activity
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forbidden Descent]]** - Passage to the deepest underwater ruins
+- **[[02_Worldbuilding/Places/The Crystal Caves]]** - Glowing formations containing trapped souls
+- **[[02_Worldbuilding/Lore/The Listening Posts]]** - Order outposts monitoring spirit activity
+- **[[02_Worldbuilding/Lore/The Forbidden Descent]]** - Passage to the deepest underwater ruins
 
 **Spectral Ridge**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Phantom Lighthouse]]** - Ghostly beacon warning ships away
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Drowned Village]]** - Underwater settlement visible during low mist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Wailing Depths]]** - Underwater caverns echoing with voices
+- **[[02_Worldbuilding/Lore/The Phantom Lighthouse]]** - Ghostly beacon warning ships away
+- **[[02_Worldbuilding/Lore/The Drowned Village]]** - Underwater settlement visible during low mist
+- **[[02_Worldbuilding/Lore/The Wailing Depths]]** - Underwater caverns echoing with voices
 
 ### Environmental Phenomena
 
@@ -111,7 +111,7 @@ This haunted archipelago serves as both sanctuary and prison for the [[vault_bac
 ## The Order of Azure Flame
 
 ### Leadership
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Grand Master Tempest Windvoice]]**
+**[[02_Worldbuilding/Lore/Grand Master Tempest Windvoice]]**
 - Last living person to remember the world before the Drowning
 - Can speak directly with the dead
 - Maintains the sacred flame that guides lost souls
@@ -154,11 +154,11 @@ Built into the living rock of Mount Lament, the Citadel serves as humanity's las
 **The Drowned Archive of Knowledge**
 A magnificent library from before the Great Drowning, now half-submerged in a mountain lake formed by trapped floodwaters:
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Floating Stacks]]** - Books magically preserved on floating shelves
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Reading Room]]** - Underwater chamber accessible only to adapted visitors
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Ghostly Librarians]]** - Spectral attendants who still maintain the collection
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forbidden Section]]** - Knowledge too dangerous for living minds
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memorial Alcove]]** - Dedicated to scholars who died protecting books
+- **[[02_Worldbuilding/Lore/The Floating Stacks]]** - Books magically preserved on floating shelves
+- **[[02_Worldbuilding/Lore/The Deep Reading Room]]** - Underwater chamber accessible only to adapted visitors
+- **[[02_Worldbuilding/Lore/The Ghostly Librarians]]** - Spectral attendants who still maintain the collection
+- **[[02_Worldbuilding/Lore/The Forbidden Section]]** - Knowledge too dangerous for living minds
+- **[[02_Worldbuilding/Lore/The Memorial Alcove]]** - Dedicated to scholars who died protecting books
 
 **Notable Collections:**
 - Pre-Drowning maps and navigation charts
@@ -177,11 +177,11 @@ A magnificent library from before the Great Drowning, now half-submerged in a mo
 **The Prison of Souls**
 A network of caves filled with strange, glowing crystals that each contain a trapped soul:
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Gallery of Faces]]** - Crystals showing the faces of the trapped
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Screaming Chamber]]** - Where the most tormented souls are held
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Children's Grotto]]** - Heartbreaking collection of young victims
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Heroes' Hall]]** - Warriors and protectors who died defending others
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Sanctum]]** - Where the most powerful souls are contained
+- **[[02_Worldbuilding/Lore/The Gallery of Faces]]** - Crystals showing the faces of the trapped
+- **[[02_Worldbuilding/Lore/The Screaming Chamber]]** - Where the most tormented souls are held
+- **[[02_Worldbuilding/Lore/The Children's Grotto]]** - Heartbreaking collection of young victims
+- **[[02_Worldbuilding/Lore/The Heroes' Hall]]** - Warriors and protectors who died defending others
+- **[[02_Worldbuilding/Lore/The Deep Sanctum]]** - Where the most powerful souls are contained
 
 **Crystal Properties:**
 - Each crystal contains memories, personality, and sometimes magical abilities
@@ -227,24 +227,24 @@ A network of caves filled with strange, glowing crystals that each contain a tra
 ## Key NPCs
 
 ### Order Members
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Grand Master Tempest Windvoice]]** - Supreme leader, keeper of pre-Drowning memories
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Wind Speaker Aria Ghostheart]]** - Expert in spirit communication
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Soul Shepherd Marcus Peacemaker]]** - Helps traumatized souls find rest
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Mist Walker Captain Luna Pathfinder]]** - Leader of scouting operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Flame Keeper Brother Ignatius]]** - Maintains the sacred Azure Flame
+- **[[02_Worldbuilding/Lore/Grand Master Tempest Windvoice]]** - Supreme leader, keeper of pre-Drowning memories
+- **[[02_Worldbuilding/Lore/Wind Speaker Aria Ghostheart]]** - Expert in spirit communication
+- **[[02_Worldbuilding/Lore/Soul Shepherd Marcus Peacemaker]]** - Helps traumatized souls find rest
+- **[[02_Worldbuilding/People/Mist Walker Captain Luna Pathfinder]]** - Leader of scouting operations
+- **[[02_Worldbuilding/Places/Flame Keeper Brother Ignatius]]** - Maintains the sacred Azure Flame
 
 ### Spectral Residents
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Lighthouse Keeper's Ghost]]** - Warns ships away from dangerous waters
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Morgrim Lastvessel]]** - Ghost of ship captain, provides navigation advice
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Scholar's Shade]]** - Spectral librarian who helps researchers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Children's Chorus]]** - Young victims who sing warnings of danger
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lady Elena the Eternal]]** - Noble ghost who remembers court protocols
+- **[[02_Worldbuilding/Places/The Lighthouse Keeper's Ghost]]** - Warns ships away from dangerous waters
+- **[[02_Worldbuilding/People/Captain Morgrim Lastvessel]]** - Ghost of ship captain, provides navigation advice
+- **[[02_Worldbuilding/Lore/The Scholar's Shade]]** - Spectral librarian who helps researchers
+- **[[02_Worldbuilding/Lore/The Children's Chorus]]** - Young victims who sing warnings of danger
+- **[[02_Worldbuilding/People/Lady Elena the Eternal]]** - Noble ghost who remembers court protocols
 
 ### Visitors & Refugees
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Merchant Captain Tobias Stormwind]]** - Regularly trades with the Order
+- **[[02_Worldbuilding/People/Merchant Captain Tobias Stormwind]]** - Regularly trades with the Order
 - **[[Dr. Coral Soulseeker]]** - Researcher studying spirit phenomena
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Refugee Leader Maria Hopesinger]]** - Leads group of displaced survivors
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Treasure Hunter Jake Gravecoin]]** - Seeks artifacts from the sunken world
+- **[[02_Worldbuilding/Lore/Refugee Leader Maria Hopesinger]]** - Leads group of displaced survivors
+- **[[02_Worldbuilding/Lore/Treasure Hunter Jake Gravecoin]]** - Seeks artifacts from the sunken world
 
 ## Current Events & Plot Hooks
 
@@ -351,7 +351,7 @@ The eternal flame is actually powered by the concentrated regrets and unfulfille
 Hidden in the deepest section of the Sunken Library is a complete ritual for reversing the Great Drowning, but it requires the willing sacrifice of everyone who has adapted to underwater life.
 
 ### The Spirit Army
-The Order is secretly building an army of willing spirits who could be called upon to defend the living world against threats from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]].
+The Order is secretly building an army of willing spirits who could be called upon to defend the living world against threats from [[02_Worldbuilding/Places/The Hadal Depths]].
 
 ---
 
@@ -380,11 +380,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whispering Peaks]]
+- [[02_Worldbuilding/Places/The Whispering Peaks]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]

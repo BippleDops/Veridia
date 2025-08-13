@@ -7,7 +7,7 @@ created_by: auto-stub
 faction_type: Luxury Merchant Guild
 headquarters: '[[The Golden Loom]]'
 influence: International (Aethermoor and Aquabyssos)
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Lady Venetia Silkwind]]'
+leader: '[[02_Worldbuilding/Groups/Lady Venetia Silkwind]]'
 members: ~800 artisans, merchants, and traders
 obsidianUIMode: preview
 status: complete
@@ -40,7 +40,7 @@ world: Aethermoor
 *Weavers of Dreams, The Golden Thread, Masters of Luxury Commerce*
 
 ## Organization Overview and Purpose
-The Silk Trade Guild represents the pinnacle of luxury textile commerce in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], controlling the production, distribution, and sale of the finest silks, enchanted fabrics, and magical textiles throughout the realm. Under the leadership of Lady Venetia Silkwind, the Guild has evolved from a traditional artisan cooperative into a sophisticated commercial empire that influences fashion, politics, and economic policy across both Aethermoor and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+The Silk Trade Guild represents the pinnacle of luxury textile commerce in [[02_Worldbuilding/Places/Aethermoor]], controlling the production, distribution, and sale of the finest silks, enchanted fabrics, and magical textiles throughout the realm. Under the leadership of Lady Venetia Silkwind, the Guild has evolved from a traditional artisan cooperative into a sophisticated commercial empire that influences fashion, politics, and economic policy across both Aethermoor and [[02_Worldbuilding/Places/Aquabyssos]].
 
 The Guild operates through a complex network of master weavers, silk farmers, magical enchanters, merchant traders, and diplomatic representatives who ensure that their products reach the highest echelons of society in both realms. Members of the Guild are renowned not only for their technical expertise in textile production but also for their business acumen, cultural sophistication, and ability to navigate the intricate social hierarchies that determine luxury market success.
 
@@ -190,7 +190,7 @@ The Guild protects valuable proprietary knowledge including traditional weaving 
 The Silk Trade Guild maintains complex relationships with numerous organizations across both Aethermoor and Aquabyssos, balancing cooperation and competition while advancing their commercial interests and market position.
 
 **Allied Relationships**
-The Guild maintains strong partnerships with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Court of Aethermoor]] through their role as exclusive providers of ceremonial textiles and royal wardrobe items. This relationship provides prestige, guaranteed revenue, and protection from competitive pressures while establishing the Guild as the definitive luxury standard. They also work closely with the [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]] in Aquabyssos, recognizing mutual benefits from coordinated luxury commerce and shared customer bases among wealthy inter-dimensional traders.
+The Guild maintains strong partnerships with the [[02_Worldbuilding/Lore/Royal Court of Aethermoor]] through their role as exclusive providers of ceremonial textiles and royal wardrobe items. This relationship provides prestige, guaranteed revenue, and protection from competitive pressures while establishing the Guild as the definitive luxury standard. They also work closely with the [[02_Worldbuilding/Groups/Silverscale Consortium]] in Aquabyssos, recognizing mutual benefits from coordinated luxury commerce and shared customer bases among wealthy inter-dimensional traders.
 
 **Commercial Partnerships**
 The Guild collaborates with various transportation organizations, magical enhancement specialists, and retail distributors who help deliver their products to customers throughout multiple realms. These partnerships include shipping companies that handle delicate textile transport, magical specialists who provide complementary services, luxury retailers who represent Guild products in key markets, and cultural organizations that promote appreciation for fine textiles and fashion.
@@ -248,9 +248,9 @@ The Guild receives a prestigious commission to create textiles for a major royal
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
+- [[02_Worldbuilding/Groups/Merchant Princes]]
+- [[02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
@@ -277,4 +277,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_People_Index|Master People Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium]]

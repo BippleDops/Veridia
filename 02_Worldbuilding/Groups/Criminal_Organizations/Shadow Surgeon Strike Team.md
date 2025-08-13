@@ -5,7 +5,7 @@ alignment: Chaotic Evil
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Elite Special Forces
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Operating Theater]]'
+headquarters: '[[02_Worldbuilding/Lore/The Shadow Operating Theater]]'
 influence: Covert operations across multiple realms
 leader: '[[Colonel Dr. Vivisection]]'
 members: ~50 elite shadow surgeons and support staff
@@ -49,7 +49,7 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 - Created by [[Dr. Penumbra Voidheart]] following attacks on [[02_Worldbuilding/Groups/Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]]
 - Initial recruitment from military medics with shadow-touched abilities
 - First mission: protecting shadow medical facilities from government raids
-- Established [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Operating Theater]] as training facility
+- Established [[02_Worldbuilding/Lore/The Shadow Operating Theater]] as training facility
 - Developed hybrid medical-combat doctrine combining healing and harm
 
 ### Combat Development (12-8 Years Ago)
@@ -63,7 +63,7 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 ### Shadow War Participation (8-5 Years Ago)
 **Covert Operations Expansion**
 - Direct involvement in [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] operations
-- Cross-dimensional missions into [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- Cross-dimensional missions into [[02_Worldbuilding/Places/Aethermoor]]
 - Development of memory extraction combat techniques
 - Establishment of surgical interrogation protocols
 - First documented use of consciousness weaponization
@@ -81,10 +81,10 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 ### Command Structure
 **Medical Military Hierarchy**
 - **Strike Commander**: [[Colonel Dr. Vivisection]] - Former army surgeon turned shadow operative
-- **Operations Chief**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Major Surgeon Nightfall]] - Tactical planning and mission coordination
+- **Operations Chief**: [[02_Worldbuilding/Lore/Major Surgeon Nightfall]] - Tactical planning and mission coordination
 - **Medical Director**: [[Captain Dr. Bloodletting]] - Combat medicine and battlefield treatment
 - **Intelligence Officer**: [[Lieutenant Memory Probe]] - Information extraction and psychological operations
-- **Training Coordinator**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sergeant Instructor Scalpel]] - Combat medicine education and skill development
+- **Training Coordinator**: [[02_Worldbuilding/Lore/Sergeant Instructor Scalpel]] - Combat medicine education and skill development
 - **Support Commander**: [[Field Medic Shadowstitch]] - Logistics and medical supply operations
 
 ### Operational Squads
@@ -180,7 +180,7 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 - **Stealth Technology**: Shadow-based concealment and infiltration equipment
 
 ### Facilities Infrastructure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Operating Theater]]**: Primary training and operations base
+- **[[02_Worldbuilding/Lore/The Shadow Operating Theater]]**: Primary training and operations base
 - **Mobile Surgical Units**: Covert medical facilities
 - **Safe House Network**: Hidden facilities for operations and recovery
 - **Medical Supply Depots**: Equipment and pharmaceutical storage
@@ -191,7 +191,7 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 - **Patient Information Database**: Medical records for potential targets
 - **Shadow Organization Coordination**: Integration with broader shadow operations
 - **Government Medical Intelligence**: Information on official medical systems
-- **Cross-Dimensional Networks**: Contacts in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and beyond
+- **Cross-Dimensional Networks**: Contacts in [[02_Worldbuilding/Places/Aethermoor]] and beyond
 
 ## Current Operations
 
@@ -230,7 +230,7 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 
 #### Operation Cross-Dimensional Medicine
 **Inter-Realm Medical Warfare**
-- Expansion of operations into [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- Expansion of operations into [[02_Worldbuilding/Places/Aethermoor]]
 - Development of techniques for different dimensional medical systems
 - Creation of shadow medical facilities in multiple realms
 - Research into dimensional anchor medical manipulation
@@ -241,29 +241,29 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 ### Shadow Organizations
 - **[[02_Worldbuilding/Groups/Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]]**: Parent organization and primary employer
 - **[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]**: Major contractor for covert operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]**: Complex relationship - uses services but represents threat
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]**: Collaborative relationship for consciousness operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Underground]]**: Support network for operations and cover
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Complex relationship - uses services but represents threat
+- **[[02_Worldbuilding/Places/Memory Farmers]]**: Collaborative relationship for consciousness operations
+- **[[02_Worldbuilding/Lore/Shadow Underground]]**: Support network for operations and cover
 
 ### Medical Community
 - **Conventional Medical Professionals**: Deep cover infiltration and intelligence gathering
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] Medical Guild**: Surveillance and occasional cooperation
+- **[[02_Worldbuilding/Places/Aquabyssos]] Medical Guild**: Surveillance and occasional cooperation
 - **Combat Medics**: Recruitment source and professional rivalry
 - **Medical Researchers**: Intelligence targets and potential assets
 - **Hospital Administrators**: Infiltration targets and operational cover
 
 ### Military Organizations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] Military**: Former colleagues turned potential enemies
+- **[[02_Worldbuilding/Places/Aquabyssos]] Military**: Former colleagues turned potential enemies
 - **Special Forces Units**: Professional competition and tactical study
 - **Intelligence Agencies**: Cat-and-mouse game of infiltration and detection
 - **Foreign Military Medical**: Cross-dimensional intelligence and cooperation
 - **Mercenary Medical Units**: Recruitment and competitive conflict
 
 ### Government Relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]**: Covert surveillance and potential targets
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Covert surveillance and potential targets
 - **Medical Regulators**: Active opposition and infiltration
 - **Law Enforcement**: Avoidance and elimination of investigative threats
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Unknown but assumed hostile
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Unknown but assumed hostile
 - **International Authorities**: Cross-dimensional law enforcement concerns
 
 ## Training & Recruitment
@@ -295,32 +295,32 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 
 ### Command Leadership
 - **[[Colonel Dr. Vivisection]]** - Commander with expertise in surgical assassination
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Major Surgeon Nightfall]]** - Operations chief specializing in tactical planning
+- **[[02_Worldbuilding/Lore/Major Surgeon Nightfall]]** - Operations chief specializing in tactical planning
 - **[[Captain Dr. Bloodletting]]** - Medical director focused on combat medicine
 - **[[Lieutenant Memory Probe]]** - Intelligence officer expert in consciousness operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sergeant Instructor Scalpel]]** - Training coordinator and combat medicine educator
+- **[[02_Worldbuilding/Lore/Sergeant Instructor Scalpel]]** - Training coordinator and combat medicine educator
 
 ### Elite Operatives
 - **[[Dr. Silent Death]]** - Master assassin specializing in undetectable elimination
 - **[[Field Surgeon Shadowblade]]** - Combat medic with exceptional battlefield skills
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Extractor Prime]]** - Leading expert in consciousness warfare
+- **[[02_Worldbuilding/Lore/Memory Extractor Prime]]** - Leading expert in consciousness warfare
 - **[[Dr. Precision Strike]]** - Surgical warfare specialist and weapon developer
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Combat Medic Nightshift]]** - Emergency response and tactical medicine expert
+- **[[02_Worldbuilding/Lore/Combat Medic Nightshift]]** - Emergency response and tactical medicine expert
 
 ### Support Specialists
 - **[[Intelligence Analyst Mindreader]]** - Psychological operations and target analysis
 - **[[Equipment Specialist Shadowstitch]]** - Medical technology and weapon maintenance
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Cover Identity Coordinator]]** - False documentation and infiltration support
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Medical Supply Master]]** - Procurement and logistics coordination
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Communications Operator Silence]]** - Secure networks and operational coordination
+- **[[02_Worldbuilding/Lore/Cover Identity Coordinator]]** - False documentation and infiltration support
+- **[[02_Worldbuilding/Lore/Medical Supply Master]]** - Procurement and logistics coordination
+- **[[02_Worldbuilding/Lore/Communications Operator Silence]]** - Secure networks and operational coordination
 
 ## Headquarters & Holdings
 
 ### Primary Facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Operating Theater]]**: Main training and operations complex
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Combat Medicine Laboratory]]**: Research and development facility
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Extraction Center]]**: Consciousness warfare training and operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Medical Arsenal]]**: Equipment storage and weapon development
+- **[[02_Worldbuilding/Lore/The Shadow Operating Theater]]**: Main training and operations complex
+- **[[02_Worldbuilding/Lore/Combat Medicine Laboratory]]**: Research and development facility
+- **[[02_Worldbuilding/Lore/Memory Extraction Center]]**: Consciousness warfare training and operations
+- **[[02_Worldbuilding/Lore/Medical Arsenal]]**: Equipment storage and weapon development
 - **[[Infiltration Training Complex]]**: Cover identity and covert operations preparation
 
 ### Field Infrastructure
@@ -331,11 +331,11 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 - **Emergency Protocols Facilities**: Crisis response and extraction capabilities
 
 ### Secret Facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Project Surgical Strike Laboratory]]**: Assassination technique development
+- **[[02_Worldbuilding/Lore/Project Surgical Strike Laboratory]]**: Assassination technique development
 - **[[The Memory War Academy]]**: Advanced consciousness warfare training
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Medical Cover Operations Center]]**: Infiltration planning and support
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Cross-Dimensional Medical Base]]**: Inter-realm operations headquarters
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Hippocratic Vault]]**: Classified medical warfare research and storage
+- **[[02_Worldbuilding/Lore/Medical Cover Operations Center]]**: Infiltration planning and support
+- **[[02_Worldbuilding/Lore/Cross-Dimensional Medical Base]]**: Inter-realm operations headquarters
+- **[[02_Worldbuilding/Lore/The Hippocratic Vault]]**: Classified medical warfare research and storage
 
 ## Weaknesses & Vulnerabilities
 
@@ -420,30 +420,30 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 ### Key NPCs
 - **[[Colonel Dr. Vivisection]]** - Strike team commander and surgical warfare expert
 - **[[Dr. Penumbra Voidheart]]** - Founder of parent organization and ultimate authority
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]** - Complex relationship with shadow medical operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Major Surgeon Nightfall]]** - Operations chief and tactical planning expert
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Complex relationship with shadow medical operations
+- **[[02_Worldbuilding/Lore/Major Surgeon Nightfall]]** - Operations chief and tactical planning expert
 - **[[Captain Dr. Bloodletting]]** - Combat medicine director and battlefield expert
 
 ### Related Locations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Operating Theater]]** - Primary training and operations facility
+- **[[02_Worldbuilding/Lore/The Shadow Operating Theater]]** - Primary training and operations facility
 - **[[02_Worldbuilding/Groups/Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]]** - Parent organization locations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Combat Medicine Laboratory]]** - Research and development facility
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]** - Primary operational territory
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]** - Cross-dimensional operations target
+- **[[02_Worldbuilding/Lore/Combat Medicine Laboratory]]** - Research and development facility
+- **[[02_Worldbuilding/Places/Abyssos Prime]]** - Primary operational territory
+- **[[02_Worldbuilding/Places/Aethermoor]]** - Cross-dimensional operations target
 
 ### Associated Quests
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Surgical Assassin]]** - Hunt down rogue medical operative
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Memory War]]** - Prevent consciousness warfare weapon deployment
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Medical Infiltration]]** - Expose shadow operatives in hospital
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Combat Medicine Crisis]]** - Emergency medical support mission
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Cross-Dimensional Medical]]** - Inter-realm medical warfare
+- **[[02_Worldbuilding/Lore/Quest - The Surgical Assassin]]** - Hunt down rogue medical operative
+- **[[02_Worldbuilding/Lore/Quest - Memory War]]** - Prevent consciousness warfare weapon deployment
+- **[[02_Worldbuilding/Lore/Quest - Medical Infiltration]]** - Expose shadow operatives in hospital
+- **[[02_Worldbuilding/Lore/Quest - Combat Medicine Crisis]]** - Emergency medical support mission
+- **[[02_Worldbuilding/Lore/Quest - Cross-Dimensional Medical]]** - Inter-realm medical warfare
 
 ### Important Items
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Surgical Instruments]]** - Medical weapons and specialized equipment
+- **[[02_Worldbuilding/Lore/Shadow Surgical Instruments]]** - Medical weapons and specialized equipment
 - **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - Consciousness warfare technology
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Medical Combat Manual]]** - Training guide for surgical warfare
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Strike Team Communications]]** - Secure operational coordination equipment
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Medical Cover Credentials]]** - False documentation for infiltration
+- **[[02_Worldbuilding/Lore/Medical Combat Manual]]** - Training guide for surgical warfare
+- **[[02_Worldbuilding/Lore/Strike Team Communications]]** - Secure operational coordination equipment
+- **[[02_Worldbuilding/Lore/Medical Cover Credentials]]** - False documentation for infiltration
 
 ---
 
@@ -461,9 +461,9 @@ Legends speak of Shadow Surgeon Strike Team as a nexus where past and present co
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Memory Farmers]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Memory Farmers]]

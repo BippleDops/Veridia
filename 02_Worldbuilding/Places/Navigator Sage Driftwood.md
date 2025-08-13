@@ -130,9 +130,9 @@ Sage Driftwood serves as both a practical resource for oceanic travel and a sour
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Compass Quest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten One]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Wandering Atoll]]
+- [[02_Worldbuilding/Places/Compass Quest]]
+- [[02_Worldbuilding/Places/The Forgotten One]]
+- [[02_Worldbuilding/Places/The Wandering Atoll]]
 
 
 ## History
@@ -180,6 +180,6 @@ Legends speak of Navigator Sage Driftwood as a nexus where past and present conv
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Navigator Sage Driftwood]]
+- [[02_Worldbuilding/Places/Navigator Sage Driftwood]]
 
 <!-- enriched: true -->

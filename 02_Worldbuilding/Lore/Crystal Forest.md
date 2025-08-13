@@ -35,11 +35,11 @@ world: Aquabyssos
 *The Growing Heart of Aquabyssos Technology*
 
 > *"People think crystals are just rocks that happen to be magical. They don't understand that crystals are living systems, communities that must be tended, nurtured, and understood. In the Crystal Forest, we don't just harvest technology—we cultivate civilization itself."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Cultivator Reef Growstone]], Director of Crystal Agriculture
+> — [[02_Worldbuilding/Places/Master Cultivator Reef Growstone]], Director of Crystal Agriculture
 
 ## Overview
 
-The Crystal Forest represents the most sophisticated magical agriculture facility in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], where specialized crystals essential to underwater civilization are cultivated, harvested, and processed for use in everything from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]] components to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]] infrastructure. This vast underwater agricultural complex combines traditional farming techniques with advanced magical cultivation methods to produce the crystalline materials that power modern Aquabyssos technology.
+The Crystal Forest represents the most sophisticated magical agriculture facility in [[02_Worldbuilding/Places/Aquabyssos]], where specialized crystals essential to underwater civilization are cultivated, harvested, and processed for use in everything from [[02_Worldbuilding/Lore/Pressure Adaptation System]] components to [[02_Worldbuilding/Places/Pressure Tubes]] infrastructure. This vast underwater agricultural complex combines traditional farming techniques with advanced magical cultivation methods to produce the crystalline materials that power modern Aquabyssos technology.
 
 Located in the city's agricultural district at optimal depth for crystal growth, the facility spans multiple underwater "groves" where different types of crystals are grown under carefully controlled conditions. Each grove specializes in particular crystal varieties, from basic pressure-regulation crystals used in everyday devices to exotic memory-storage crystals powering the city's most advanced technologies.
 
@@ -62,11 +62,11 @@ The largest section of the facility specializes in growing crystals essential fo
 - **Harvesting Zones**: Rotating sections allowing continuous production without depleting growing areas
 
 **Crystal Varieties Produced:**
-- **Basic Pressure Regulators**: Standard crystals for [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]] components
+- **Basic Pressure Regulators**: Standard crystals for [[02_Worldbuilding/Lore/Pressure Adaptation System]] components
 - **High-Capacity Matrices**: Advanced crystals for city-wide pressure management systems
 - **Emergency Response Crystals**: Rapid-activation crystals for crisis situations
 - **Medical Grade Regulators**: Specialized crystals for healthcare applications
-- **Transportation Crystals**: Crystals optimized for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]] infrastructure
+- **Transportation Crystals**: Crystals optimized for [[02_Worldbuilding/Places/Pressure Tubes]] infrastructure
 
 **The Memory Crystal Gardens:**
 Specialized growing areas producing crystals capable of storing and processing information, essential for Aquabyssos's communication networks and data storage systems.
@@ -99,7 +99,7 @@ Advanced research facilities where scientists and cultivators collaborate to dev
 
 **Current Research Projects:**
 - **Anti-Corruption Crystal Development**: Crystals actively resisting and neutralizing corruption
-- **Cross-Realm Compatibility**: Crystals functioning in both Aquabyssos and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] environments
+- **Cross-Realm Compatibility**: Crystals functioning in both Aquabyssos and [[02_Worldbuilding/Places/Aethermoor]] environments
 - **Emergency Growth Protocols**: Rapid production methods for crisis situations
 - **Biological Integration Enhancement**: Crystals improving compatibility with living systems
 - **Dimensional Stability Research**: Crystals maintaining function during reality convergence
@@ -168,10 +168,10 @@ Specialized workers trained in crystal collection techniques ensure optimal harv
 
 **Harvesting Personnel:**
 - **Master Harvesters**: Experienced leaders directing collection operations ([[Master Harvester Tide Crystalcut]])
-- **Crystal Assessors**: Experts evaluating crystal readiness and quality ([[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Assessor Pearl Gradewell]])
+- **Crystal Assessors**: Experts evaluating crystal readiness and quality ([[02_Worldbuilding/Lore/Crystal Assessor Pearl Gradewell]])
 - **Equipment Specialists**: Technicians maintaining harvesting tools and machinery ([[Equipment Chief Current Toolwright]])
-- **Safety Coordinators**: Personnel ensuring worker protection during harvesting ([[vault_backup_20250813_073007/02_Worldbuilding/Places/Safety Coordinator Reef Safeguard]])
-- **Quality Monitors**: Inspectors verifying harvested crystal standards ([[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quality Monitor Surge Perfectionist]])
+- **Safety Coordinators**: Personnel ensuring worker protection during harvesting ([[02_Worldbuilding/Places/Safety Coordinator Reef Safeguard]])
+- **Quality Monitors**: Inspectors verifying harvested crystal standards ([[02_Worldbuilding/Lore/Quality Monitor Surge Perfectionist]])
 
 **Harvesting Procedures:**
 Careful collection protocols maximize yield while protecting both workers and growing systems:
@@ -220,7 +220,7 @@ Complex distribution networks ensure processed crystals reach their destinations
 Efficient delivery systems ensure crystals reach users when needed:
 
 - **Inventory Management**: Tracking crystal supplies and predicting demand
-- **Transportation Networks**: Coordinating with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]] for crystal delivery
+- **Transportation Networks**: Coordinating with [[02_Worldbuilding/Places/Pressure Tubes]] for crystal delivery
 - **Quality Maintenance**: Ensuring crystals remain stable during transport
 - **Customer Service**: Supporting users with crystal selection and application guidance
 - **Emergency Distribution**: Rapid delivery systems for crisis response situations
@@ -237,7 +237,7 @@ Crystals from the Crystal Forest power essential city infrastructure throughout 
 - **Communication Systems**: Crystals enabling government and emergency communication
 - **Lighting and Power**: Crystals providing illumination and energy for public spaces
 - **Water Treatment**: Crystals purifying and processing the city's water supply
-- **Transportation Infrastructure**: Crystals powering the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]] system
+- **Transportation Infrastructure**: Crystals powering the [[02_Worldbuilding/Places/Pressure Tubes]] system
 
 **Government Services:**
 Public services depend on Crystal Forest products for daily operations:
@@ -296,7 +296,7 @@ Crystal cultivation faces various environmental challenges that can affect produ
 - **Natural Disasters**: Earthquakes and underwater disturbances damaging facilities
 
 **Magical Environmental Issues:**
-- **Corruption Infiltration**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Corruption]] effects spreading to growing areas
+- **Corruption Infiltration**: [[02_Worldbuilding/Places/Crystal Corruption]] effects spreading to growing areas
 - **Magical Field Instability**: Fluctuations in ambient magical energy disrupting cultivation
 - **Dimensional Interference**: Reality convergence effects causing unpredictable crystal behavior
 - **Spell Contamination**: External magical influences interfering with growth processes
@@ -361,7 +361,7 @@ Partnerships with other institutions advance crystal science:
 
 - **University Partnerships**: Academic research supporting technological development
 - **International Cooperation**: Sharing knowledge with other crystal cultivation centers
-- **Cross-Realm Projects**: Joint research with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] institutions
+- **Cross-Realm Projects**: Joint research with [[02_Worldbuilding/Places/Aethermoor]] institutions
 - **Medical Research**: Healthcare applications for crystal technology
 - **Environmental Studies**: Sustainable cultivation and ecological protection
 
@@ -399,7 +399,7 @@ Emerging markets create additional applications for Crystal Forest products:
 - **Environmental Applications**: Crystals supporting ecological protection and restoration
 
 **Cross-Realm Integration:**
-Cooperation with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] creates new possibilities:
+Cooperation with [[02_Worldbuilding/Places/Aethermoor]] creates new possibilities:
 
 - **Dual-Environment Crystals**: Products functioning in both water and air
 - **Reality Bridge Technology**: Crystals supporting dimensional travel and communication
@@ -414,11 +414,11 @@ Cooperation with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermo
 **Connected Infrastructure:**
 The Crystal Forest supports and integrates with multiple Aquabyssos systems:
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]]**: Primary consumer of pressure regulation crystals
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]]**: Transportation system requiring specialized crystals
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underwater Breathing]]**: Life support systems using Crystal Forest products
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Harvest]]**: Economic systems dependent on crystal technology
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Umbral Exchange]]**: Trade networks distributing Crystal Forest products
+- **[[02_Worldbuilding/Lore/Pressure Adaptation System]]**: Primary consumer of pressure regulation crystals
+- **[[02_Worldbuilding/Places/Pressure Tubes]]**: Transportation system requiring specialized crystals
+- **[[02_Worldbuilding/Lore/Underwater Breathing]]**: Life support systems using Crystal Forest products
+- **[[02_Worldbuilding/Lore/The Deep Harvest]]**: Economic systems dependent on crystal technology
+- **[[02_Worldbuilding/Lore/Umbral Exchange]]**: Trade networks distributing Crystal Forest products
 
 ### Professional Networks and Organizations
 
@@ -429,7 +429,7 @@ Various organizations work with the Crystal Forest:
 - **[[Master Cultivators Guild]]**: Professional association supporting crystal farmers
 - **[[Crystal Quality Standards Authority]]**: Regulatory body ensuring product safety and quality
 - **[[Emergency Crystal Response Team]]**: Crisis management specialists handling crystal-related emergencies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/International Crystal Trade Associatio]]**: Organization facilitating crystal commerce
+- **[[02_Worldbuilding/Lore/International Crystal Trade Associatio]]**: Organization facilitating crystal commerce
 
 ### Educational and Training Programs
 
@@ -438,9 +438,9 @@ Multiple institutions support crystal cultivation education:
 
 - **[[Aquabyssos Agricultural University]]**: Academic programs in crystal cultivation
 - **[[02_Worldbuilding/Groups/Crystal Cultivation Training Cente|02 Worldbuilding/Groups/Crystal Cultivation Training Cente]]**: Professional development for industry workers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Youth Crystal Education Program]]**: School programs teaching crystal science
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Master Cultivator Apprenticeships]]**: Traditional training methods for cultivation experts
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/International Exchange Program]]**: Cross-cultural learning opportunities
+- **[[02_Worldbuilding/Lore/Youth Crystal Education Program]]**: School programs teaching crystal science
+- **[[02_Worldbuilding/Groups/Cults_and_Movements/Master Cultivator Apprenticeships]]**: Traditional training methods for cultivation experts
+- **[[02_Worldbuilding/Lore/International Exchange Program]]**: Cross-cultural learning opportunities
 
 ## Campaign Integration and Adventure Opportunities
 
@@ -493,10 +493,10 @@ Understanding crystal agriculture helps characters navigate society:
 
 ## Connected Locations and Organizations
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Primary setting utilizing Crystal Forest products
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]] - Major consumer of facility crystals
+- [[02_Worldbuilding/Places/Aquabyssos]] - Primary setting utilizing Crystal Forest products
+- [[02_Worldbuilding/Lore/Pressure Adaptation System]] - Major consumer of facility crystals
 - [[02_Worldbuilding/Lore/Pressure Tubes|02 Worldbuilding/Lore/Pressure Tubes]] - Transportation system requiring crystal components
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Harvest]] - Economic system supporting crystal trade
+- [[02_Worldbuilding/Lore/The Deep Harvest]] - Economic system supporting crystal trade
 - [[02_Worldbuilding/People/Master Cultivator Reef Growstone|02 Worldbuilding/People/Master Cultivator Reef Growstone]] - Facility director and leading expert
 - [[02_Worldbuilding/People/Master Harvester Tide Crystalcut|02 Worldbuilding/People/Master Harvester Tide Crystalcut]] - Harvesting operations leader
 - [[02_Worldbuilding/Groups/Crystal Agricultural Research Institute|02 Worldbuilding/Groups/Crystal Agricultural Research Institute]] - Primary research partner
@@ -505,26 +505,26 @@ Understanding crystal agriculture helps characters navigate society:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Effect Quick Reference]]
+- [[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
+- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[02_Worldbuilding/Lore/Crystal Festival]]
+- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
+- [[02_Worldbuilding/Lore/Depth Effect Quick Reference]]
 - [[Eastern Kingdoms 2]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Environmental Hazards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Initiative Tracker]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random Encounters]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silver Mask]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temple of the First Tide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bloom Fields]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underwater Breathing]]
+- [[02_Worldbuilding/Lore/Environmental Hazards]]
+- [[02_Worldbuilding/Lore/Initiative Tracker]]
+- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
+- [[02_Worldbuilding/Lore/Random Encounters]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[02_Worldbuilding/Lore/Temple of the First Tide]]
+- [[02_Worldbuilding/Lore/The Bloom Fields]]
+- [[02_Worldbuilding/Lore/The Crimson Hand]]
+- [[02_Worldbuilding/Lore/The Deep Harvest]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[02_Worldbuilding/Lore/Underwater Breathing]]
 
 ## Player-Facing Summary
 
@@ -549,6 +549,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdom]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Umbral Exchange]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]]
+- [[02_Worldbuilding/Lore/Eastern Kingdom]]
+- [[02_Worldbuilding/Lore/Umbral Exchange]]
+- [[02_Worldbuilding/Places/Pressure Tubes]]

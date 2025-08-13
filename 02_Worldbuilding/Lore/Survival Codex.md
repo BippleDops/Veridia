@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Legal System of Aquabyssos]]
+- [[02_Worldbuilding/Lore/Legal System of Aquabyssos]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Legal System of Aquabyssos]]
+- [[02_Worldbuilding/Lore/Legal System of Aquabyssos]]
 
 ## Player-Facing Summary
 

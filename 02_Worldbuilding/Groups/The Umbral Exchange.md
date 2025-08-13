@@ -64,5 +64,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

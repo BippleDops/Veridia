@@ -62,7 +62,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Community Organizations]]
+- [[02_Worldbuilding/Places/Community Organizations]]
 
 <!-- enriched: true -->
 

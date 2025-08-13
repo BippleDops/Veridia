@@ -1,14 +1,14 @@
 ---
 created: '2025-08-08'
 created_date: Second Age of Aquabyssos
-creator: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]'
-current_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] Vault'
+creator: '[[02_Worldbuilding/Lore/Thalassius the Wise]]'
+current_location: '[[02_Worldbuilding/Places/Parliament of Echoes]] Vault'
 danger_level: 3
 rarity: Legendary (Government Controlled)
 related_entities:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+- '[[02_Worldbuilding/Lore/Thalassius the Wise]]'
+- '[[02_Worldbuilding/Lore/The Seven Shards]]'
 - '[[02_Worldbuilding/Groups/Silverscale Banking House|02 Worldbuilding/Groups/Silverscale
   Banking House]]'
 status: complete
@@ -38,21 +38,21 @@ world: Aquabyssos
 
 ## Overview
 
-The Aquabyssos Trade Seal stands as one of the most significant magical artifacts in the underwater realm's political and economic structure. This ancient device, created by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]] during the founding of modern [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], serves as both the ultimate authentication method for official government documents and the cornerstone of international trade relationships.
+The Aquabyssos Trade Seal stands as one of the most significant magical artifacts in the underwater realm's political and economic structure. This ancient device, created by [[02_Worldbuilding/Lore/Thalassius the Wise]] during the founding of modern [[02_Worldbuilding/Places/Aquabyssos]], serves as both the ultimate authentication method for official government documents and the cornerstone of international trade relationships.
 
-More than a simple stamp or marking device, the Trade Seal is a complex magical construct that embodies the political legitimacy and economic authority of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Its markings cannot be forged, replicated, or imitated by any known magical means, making it the most trusted verification system in underwater commerce. Documents bearing the Seal's mark carry the full weight of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]' authority and are accepted as authentic throughout the known world.
+More than a simple stamp or marking device, the Trade Seal is a complex magical construct that embodies the political legitimacy and economic authority of [[02_Worldbuilding/Places/Aquabyssos]]. Its markings cannot be forged, replicated, or imitated by any known magical means, making it the most trusted verification system in underwater commerce. Documents bearing the Seal's mark carry the full weight of [[02_Worldbuilding/Places/Parliament of Echoes]]' authority and are accepted as authentic throughout the known world.
 
-The Seal's importance extends far beyond mere bureaucratic function—it represents the sovereignty of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], the continuity of its government, and the foundation upon which all major diplomatic and trade relationships are built.
+The Seal's importance extends far beyond mere bureaucratic function—it represents the sovereignty of [[02_Worldbuilding/Places/Aquabyssos]], the continuity of its government, and the foundation upon which all major diplomatic and trade relationships are built.
 
 ## Physical Description and Characteristics
 
 ### The Seal Itself
 
-The Aquabyssos Trade Seal measures approximately eight inches in diameter and three inches thick, carved from a single piece of deep-sea obsidian infused with crushed pearls from the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Leviathan Graveyard]]. The obsidian base appears almost black in most lighting but reveals deep blue-green veins when exposed to magical illumination, creating patterns that seem to flow like deep ocean currents.
+The Aquabyssos Trade Seal measures approximately eight inches in diameter and three inches thick, carved from a single piece of deep-sea obsidian infused with crushed pearls from the [[02_Worldbuilding/Lore/Leviathan Graveyard]]. The obsidian base appears almost black in most lighting but reveals deep blue-green veins when exposed to magical illumination, creating patterns that seem to flow like deep ocean currents.
 
 The Seal's face bears an intricate design that changes subtly each time it's used, incorporating elements that cannot be predetermined or copied:
 
-**Central Motif**: The crown of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]] surrounded by seven stylized waves representing the major depth layers of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Central Motif**: The crown of [[02_Worldbuilding/Lore/Thalassius the Wise]] surrounded by seven stylized waves representing the major depth layers of [[02_Worldbuilding/Places/Aquabyssos]]
 
 **Outer Ring**: Ancient runic script that chronicles the date, nature, and authority level of each sealing
 
@@ -63,7 +63,7 @@ The Seal's face bears an intricate design that changes subtly each time it's use
 The Trade Seal possesses several magical characteristics that make it invaluable:
 
 **Authenticity Verification**: Any mark made by the Seal cannot be replicated by mundane or magical means
-**Temporal Recording**: Each use is automatically recorded in mystical archives accessible only to authorized [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] officials
+**Temporal Recording**: Each use is automatically recorded in mystical archives accessible only to authorized [[02_Worldbuilding/Places/Parliament of Echoes]] officials
 **Consciousness Link**: The Seal can only be activated by those with legitimate governmental authority and pure intent
 **Anti-Corruption Enchantment**: The artifact becomes inert if handled by those seeking to use it for personal gain or harmful purposes
 **Dimensional Anchor**: The Seal cannot be moved to other planes of existence or hidden by illusion magic
@@ -81,31 +81,31 @@ The Trade Seal is housed in an elaborate ceremonial case crafted from living cor
 
 ### Origins Under Thalassius the Wise
 
-The Trade Seal was created during the reign of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]], approximately 800 years post-Drowning, as part of his comprehensive governmental reforms. Recognizing that [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] needed credible methods for establishing trade relationships with surface nations and other underwater civilizations, Thalassius commissioned the realm's greatest mages and artificers to create an authentication device that could never be compromised.
+The Trade Seal was created during the reign of [[02_Worldbuilding/Lore/Thalassius the Wise]], approximately 800 years post-Drowning, as part of his comprehensive governmental reforms. Recognizing that [[02_Worldbuilding/Places/Aquabyssos]] needed credible methods for establishing trade relationships with surface nations and other underwater civilizations, Thalassius commissioned the realm's greatest mages and artificers to create an authentication device that could never be compromised.
 
 The creation process took three years and involved:
-- Consultation with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] to understand permanence magic
-- Deep-sea diving expeditions to harvest rare materials from the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Leviathan Graveyard]]
+- Consultation with [[02_Worldbuilding/Lore/The Seven Shards]] to understand permanence magic
+- Deep-sea diving expeditions to harvest rare materials from the [[02_Worldbuilding/Lore/Leviathan Graveyard]]
 - Collaborative work with surface diplomatic representatives to ensure international acceptance
 - Integration of pre-Drowning authentication traditions with new aquatic magical techniques
 
 ### Early Implementation Period
 
-The Seal's first major test came during the negotiation of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]], when [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] representatives demanded unprecedented verification of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]' governmental legitimacy. The Trade Seal's authentication capabilities not only satisfied these requirements but impressed surface diplomats enough to establish it as the gold standard for international document verification.
+The Seal's first major test came during the negotiation of the [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]], when [[02_Worldbuilding/Places/Aethermoor]] representatives demanded unprecedented verification of [[02_Worldbuilding/Places/Aquabyssos]]' governmental legitimacy. The Trade Seal's authentication capabilities not only satisfied these requirements but impressed surface diplomats enough to establish it as the gold standard for international document verification.
 
 During its early years, the Seal was used to authenticate:
-- **Founding Treaties**: Establishing [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]' place in the international community
+- **Founding Treaties**: Establishing [[02_Worldbuilding/Places/Aquabyssos]]' place in the international community
 - **Trade Agreements**: Creating economic relationships with surface and underwater nations
-- **Territorial Claims**: Officially recognizing [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] sovereignty over specific ocean regions
+- **Territorial Claims**: Officially recognizing [[02_Worldbuilding/Places/Aquabyssos]] sovereignty over specific ocean regions
 - **Diplomatic Credentials**: Authorizing ambassadors and official representatives
 
 ### Evolution Through the Ages
 
-As [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] grew in political and economic importance, the Trade Seal's role expanded:
+As [[02_Worldbuilding/Places/Aquabyssos]] grew in political and economic importance, the Trade Seal's role expanded:
 
-**Age of Expansion (600-400 years post-Drowning)**: The Seal authenticated exploration charters, colonial grants, and resource extraction rights as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] established settlements throughout the ocean depths.
+**Age of Expansion (600-400 years post-Drowning)**: The Seal authenticated exploration charters, colonial grants, and resource extraction rights as [[02_Worldbuilding/Places/Aquabyssos]] established settlements throughout the ocean depths.
 
-**Commercial Revolution (400-200 years post-Drowning)**: The Seal became central to establishing [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] as a major trading power, authenticating currency standards, merchant guild charters, and international commerce regulations.
+**Commercial Revolution (400-200 years post-Drowning)**: The Seal became central to establishing [[02_Worldbuilding/Places/Aquabyssos]] as a major trading power, authenticating currency standards, merchant guild charters, and international commerce regulations.
 
 **Modern Era (200 years post-Drowning to present)**: The Seal now authenticates everything from individual citizenship documents to major international treaties, having become indispensable to both domestic governance and foreign relations.
 
@@ -113,7 +113,7 @@ As [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] grew in p
 
 ### Authorization Hierarchy
 
-Access to the Trade Seal follows strict protocols established by the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]:
+Access to the Trade Seal follows strict protocols established by the [[02_Worldbuilding/Places/Parliament of Echoes]]:
 
 **Level One Authority**: Parliament Speaker and designated successors for constitutional documents and major treaties
 **Level Two Authority**: Department heads for international trade agreements and diplomatic credentials  
@@ -141,25 +141,25 @@ During significant events, the Trade Seal serves ceremonial functions:
 
 ### Foundation of Commercial Trust
 
-The Trade Seal has become fundamental to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]' economic success. Its authentication capabilities have created unprecedented levels of international commercial confidence:
+The Trade Seal has become fundamental to [[02_Worldbuilding/Places/Aquabyssos]]' economic success. Its authentication capabilities have created unprecedented levels of international commercial confidence:
 
-**Currency Stability**: Documents establishing [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] monetary policy bear the Seal's mark, providing confidence in the realm's economic management
+**Currency Stability**: Documents establishing [[02_Worldbuilding/Places/Aquabyssos]] monetary policy bear the Seal's mark, providing confidence in the realm's economic management
 **Trade Security**: Merchants worldwide recognize Seal-authenticated documents as completely reliable, reducing transaction costs and disputes
 **Investment Attraction**: Foreign investors view the Seal's presence as a guarantee of governmental stability and legal reliability
 **Commercial Standards**: The Seal has become the benchmark against which other authentication methods are measured
 
 ### International Diplomatic Status
 
-The Seal's reputation extends far beyond [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]' borders:
+The Seal's reputation extends far beyond [[02_Worldbuilding/Places/Aquabyssos]]' borders:
 
-**Surface Relations**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and other surface nations have established the Seal as an acceptable authentication method for their own internal governmental processes
+**Surface Relations**: [[02_Worldbuilding/Places/Aethermoor]] and other surface nations have established the Seal as an acceptable authentication method for their own internal governmental processes
 **Underwater Diplomacy**: Other aquatic civilizations have adopted similar authentication systems modeled on the Trade Seal's design
 **Neutral Territory Recognition**: International waters and neutral zones recognize Seal-authenticated documents as valid regardless of local political conditions
 **Conflict Resolution**: The Seal's authentication has been used to verify ceasefire agreements, peace treaties, and dispute resolution documents
 
 ### Political Legitimacy
 
-Within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], the Trade Seal represents governmental continuity and legitimacy:
+Within [[02_Worldbuilding/Places/Aquabyssos]], the Trade Seal represents governmental continuity and legitimacy:
 
 **Succession Planning**: The transfer of Seal access serves as part of peaceful transitions of power
 **Constitutional Authority**: Major governmental changes require Seal authentication to be considered legitimate
@@ -172,7 +172,7 @@ Within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], the 
 
 The Trade Seal is protected by multiple layers of security:
 
-**Vault Security**: Located in the most secure area of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] complex
+**Vault Security**: Located in the most secure area of the [[02_Worldbuilding/Places/Parliament of Echoes]] complex
 **Guardian Enchantments**: Magical protections that prevent unauthorized access or handling
 **Surveillance Systems**: Continuous monitoring by both magical and mundane security measures
 **Emergency Protocols**: Procedures for protecting the Seal during natural disasters, attacks, or political upheaval
@@ -205,7 +205,7 @@ The Trade Seal's pure nature makes it particularly resistant to shadow corruptio
 
 ### The Seven Shards Connection
 
-Historical research suggests the Trade Seal may contain fragments or resonances from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]], explaining its:
+Historical research suggests the Trade Seal may contain fragments or resonances from [[02_Worldbuilding/Lore/The Seven Shards]], explaining its:
 - **Impossibility to Replicate**: Share similar properties to the legendary artifacts
 - **Temporal Stability**: Resistance to time-based magic and manipulation
 - **Universal Recognition**: Acceptance across different reality layers and dimensional boundaries
@@ -219,9 +219,9 @@ The Trade Seal could play a role in resolving [[02_Worldbuilding/Lore/Marina's I
 
 ### Convergence Crisis Implications
 
-During [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Crisis]], the Trade Seal might:
+During [[02_Worldbuilding/Lore/The Convergence Crisis]], the Trade Seal might:
 - **Dimensional Authentication**: Verify which reality layer documents originate from
-- **Cross-Reality Communication**: Provide trusted communication methods between alternate versions of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- **Cross-Reality Communication**: Provide trusted communication methods between alternate versions of [[02_Worldbuilding/Places/Aquabyssos]]
 - **Stability Maintenance**: Help preserve governmental continuity during reality fluctuations
 
 ## Game Mechanics (D&D 5e)
@@ -256,11 +256,11 @@ During [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Cris
 
 ### The Forged Seal Mystery
 **Level**: 8-12
-A seemingly authentic Trade Seal mark has appeared on documents that the real Seal never touched. Characters must investigate this impossible forgery while uncovering a conspiracy that threatens the foundation of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]' commercial relationships.
+A seemingly authentic Trade Seal mark has appeared on documents that the real Seal never touched. Characters must investigate this impossible forgery while uncovering a conspiracy that threatens the foundation of [[02_Worldbuilding/Places/Aquabyssos]]' commercial relationships.
 
 ### The Missing Authentication
 **Level**: 6-10  
-Important diplomatic documents require Trade Seal authentication, but the Seal has gone missing from its secure vault. The characters must recover it before a crucial treaty negotiation fails, potentially investigating corruption within the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]].
+Important diplomatic documents require Trade Seal authentication, but the Seal has gone missing from its secure vault. The characters must recover it before a crucial treaty negotiation fails, potentially investigating corruption within the [[02_Worldbuilding/Places/Parliament of Echoes]].
 
 ### The Succession Crisis
 **Level**: 12-16
@@ -268,56 +268,56 @@ A disputed governmental transition has left multiple parties claiming legitimate
 
 ### The Surface Conspiracy
 **Level**: 10-14
-Surface agents are attempting to undermine confidence in the Trade Seal by creating fake documents and spreading rumors about its reliability. The characters must expose this economic warfare while protecting [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]' international reputation.
+Surface agents are attempting to undermine confidence in the Trade Seal by creating fake documents and spreading rumors about its reliability. The characters must expose this economic warfare while protecting [[02_Worldbuilding/Places/Aquabyssos]]' international reputation.
 
 ### The Ancient Connection
 **Level**: 14-18
-Research reveals that the Trade Seal contains fragments of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]], making it crucial to preventing [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Crisis]]. Characters must protect the Seal from those who would exploit its power while uncovering its true origins.
+Research reveals that the Trade Seal contains fragments of [[02_Worldbuilding/Lore/The Seven Shards]], making it crucial to preventing [[02_Worldbuilding/Lore/The Convergence Crisis]]. Characters must protect the Seal from those who would exploit its power while uncovering its true origins.
 
 ## Secrets for the DM
 
 > [!secret] DM Secret - The True Power Source
-> The Trade Seal doesn't just contain fragments of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]—it IS one of the Seven Shards, disguised and repurposed by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]. Its authentication powers are actually reality-anchoring abilities, preventing documents from being altered by dimensional shifts or timeline changes.
+> The Trade Seal doesn't just contain fragments of [[02_Worldbuilding/Lore/The Seven Shards]]—it IS one of the Seven Shards, disguised and repurposed by [[02_Worldbuilding/Lore/Thalassius the Wise]]. Its authentication powers are actually reality-anchoring abilities, preventing documents from being altered by dimensional shifts or timeline changes.
 
 > [!secret] DM Secret - The Consciousness Within  
-> The Seal contains a fragment of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]'s consciousness, allowing it to make moral judgments about its use. This intelligence occasionally communicates with worthy bearers through dreams or subtle magical impressions, providing guidance about governmental decisions.
+> The Seal contains a fragment of [[02_Worldbuilding/Lore/Thalassius the Wise]]'s consciousness, allowing it to make moral judgments about its use. This intelligence occasionally communicates with worthy bearers through dreams or subtle magical impressions, providing guidance about governmental decisions.
 
 > [!secret] DM Secret - The Network Connection
 > The Trade Seal is connected to similar artifacts in other major civilizations, creating a hidden network of authentication devices that could be used for instant communication or coordinated action across vast distances. Discovering this network could revolutionize international relations—or create new vulnerabilities.
 
 > [!secret] DM Secret - The Convergence Key
-> During [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Crisis]], the Trade Seal will become one of the key artifacts needed to stabilize reality. Its authentication powers will be essential for determining which version of events is "real" and preventing false realities from overwriting the true timeline.
+> During [[02_Worldbuilding/Lore/The Convergence Crisis]], the Trade Seal will become one of the key artifacts needed to stabilize reality. Its authentication powers will be essential for determining which version of events is "real" and preventing false realities from overwriting the true timeline.
 
 ---
 
 **Related Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Authentication Magic]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/Governmental Authority]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/International Commerce]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/Authentication Magic]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Governmental Authority]]
+- [[02_Worldbuilding/Lore/International Commerce]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Seal Vault Complex]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Diplomatic Quarter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Commercial District]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Lore/Seal Vault Complex]]
+- [[02_Worldbuilding/Places/The Diplomatic Quarter]]
+- [[02_Worldbuilding/Places/Commercial District]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Seal Keepers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/Parliamentary Speakers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Trade Representatives]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Places/Seal Keepers]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliamentary Speakers]]
+- [[02_Worldbuilding/Lore/Trade Representatives]]
 
 **Associated Phenomena**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Anchoring]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Authenticity Verification]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Magical Authentication]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Governmental Legitimacy]]
+- [[02_Worldbuilding/Lore/Reality Anchoring]]
+- [[02_Worldbuilding/Lore/Authenticity Verification]]
+- [[02_Worldbuilding/Lore/Magical Authentication]]
+- [[02_Worldbuilding/Lore/Governmental Legitimacy]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
+- [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
 
 ## Player-Facing Summary
 

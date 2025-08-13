@@ -126,8 +126,8 @@ The Purification Gardens provide excellent opportunities for healing interlude a
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
 
 
 ## Appearance
@@ -163,6 +163,6 @@ Legends speak of The Purification Gardens as a nexus where past and present conv
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Purification Gardens]]
+- [[02_Worldbuilding/People/The Purification Gardens]]
 
 <!-- enriched: true -->

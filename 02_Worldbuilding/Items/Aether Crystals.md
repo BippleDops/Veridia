@@ -1,5 +1,5 @@
 ---
-affiliation: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] (Royal Mint Authority)'
+affiliation: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]] (Royal Mint Authority)'
 created: '2025-08-10'
 created_by: Claude
 current_location: Throughout Aethermoor Economic System
@@ -31,7 +31,7 @@ world: Aethermoor
 *Crystallized Magic as Living Currency*
 
 ## Overview
-Aether Crystals represent Aethermoor's revolutionary approach to currency—magical energy crystallized into stable, portable forms that serve both as medium of exchange and actual magical power source. Unlike traditional coinage, these crystals contain genuine magical energy that can be consumed for spellcasting, powering magical devices, or enhancing magical research. The crystal-based economy reflects Aethermoor's mastery of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] energies and has transformed how magical societies approach both commerce and arcane practice.
+Aether Crystals represent Aethermoor's revolutionary approach to currency—magical energy crystallized into stable, portable forms that serve both as medium of exchange and actual magical power source. Unlike traditional coinage, these crystals contain genuine magical energy that can be consumed for spellcasting, powering magical devices, or enhancing magical research. The crystal-based economy reflects Aethermoor's mastery of [[02_Worldbuilding/Lore/The Seven Shards]] energies and has transformed how magical societies approach both commerce and arcane practice.
 
 ## Physical Description
 ### Basic Characteristics
@@ -174,7 +174,7 @@ Aether Crystals represent Aethermoor's revolutionary approach to currency—magi
 - **Quality Control**: Rigorous testing and grading by certified crystal assessors
 
 #### Major Production Centers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]**: Premier facility producing highest quality crystals
+- **[[02_Worldbuilding/Places/The Crystalline Foundry]]**: Premier facility producing highest quality crystals
 - **Royal Mints**: Government-controlled facilities ensuring currency stability
 - **Guild Workshops**: Specialized producers focused on particular crystal types
 - **Underground Operations**: Illegal facilities producing counterfeit or unstable crystals
@@ -221,7 +221,7 @@ Aether Crystals represent Aethermoor's revolutionary approach to currency—magi
 ## Trading and Commerce
 ### Market Structure
 #### Commodity Exchange
-- **Central Exchange**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Grand Crystal Exchange]] in Aethermoor's capital
+- **Central Exchange**: [[02_Worldbuilding/Lore/The Grand Crystal Exchange]] in Aethermoor's capital
 - **Regional Markets**: Local exchanges in major cities and trade centers
 - **Specialty Auctions**: High-value and rare crystal sales
 - **Futures Trading**: Contracts for future crystal delivery at predetermined prices
@@ -293,7 +293,7 @@ Aether Crystals represent Aethermoor's revolutionary approach to currency—magi
 #### The Shard Resonance
 **Level**: 8-13  
 **Hook**: All crystals in region begin resonating and overcharging simultaneously  
-**Mystery**: Investigate connection to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] activity  
+**Mystery**: Investigate connection to [[02_Worldbuilding/Lore/The Seven Shards]] activity  
 **Danger**: Overcharged crystals explode, causing widespread damage  
 **Discovery**: Ancient Shard fragment awakening and calling to crystallized energies  
 **Resolution**: Safely contain or relocate awakening Shard without destroying economy
@@ -338,10 +338,10 @@ Aether Crystals represent Aethermoor's revolutionary approach to currency—magi
 - **Specialization**: Characters can become experts in specific crystal types
 
 ## Connected Elements
-- Direct connection to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] as energy source
-- Links to [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] through royal mint authority
-- Associated with [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]] as major production center
-- Connected to [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] as security and transport protection
+- Direct connection to [[02_Worldbuilding/Lore/The Seven Shards]] as energy source
+- Links to [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] through royal mint authority
+- Associated with [[02_Worldbuilding/Places/The Crystalline Foundry]] as major production center
+- Connected to [[02_Worldbuilding/People/Crystal Wardens]] as security and transport protection
 - Related to all magical research institutions and universities
 - Links to international trade networks and diplomatic relations
 - Associated with criminal organizations involved in counterfeiting
@@ -394,17 +394,17 @@ Legends speak of Aether Crystals as a nexus where past and present converge. Loc
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aetheron]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Drowned Embassy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Crystalline Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Green Death]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[02_Worldbuilding/Lore/Aetheron]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/The Crystalline Foundry]]
+- [[02_Worldbuilding/Places/The Drowned Embassy]]
+- [[02_Worldbuilding/Quests/Crystalline Depths]]
+- [[02_Worldbuilding/Quests/The Green Death]]

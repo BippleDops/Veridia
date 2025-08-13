@@ -65,12 +65,12 @@ Comprehensive linguistic system covering the rich variety of speech patterns, di
 ## Comprehensive Language Resources
 
 ### Core Linguistic Guides
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Speak Variations]]** - Complete guide to pressure-influenced speech patterns from surface to abyssal depths
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Wind Song Linguistic Guide]]** - Aethermoor's tonal communication system and atmospheric resonance
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Common Idioms and Sayings]]** - Environmental and cultural expressions from both realms
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Swear Words and Curses]]** - Profanity reflecting cultural values, fears, and taboos
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professional Terminology]]** - Specialized guild vocabulary and trade secrets
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Name Etymology Guide]]** - Naming conventions, social hierarchy, and cultural significance
+- **[[02_Worldbuilding/Lore/Depth Speak Variations]]** - Complete guide to pressure-influenced speech patterns from surface to abyssal depths
+- **[[02_Worldbuilding/Lore/Wind Song Linguistic Guide]]** - Aethermoor's tonal communication system and atmospheric resonance
+- **[[02_Worldbuilding/Lore/Common Idioms and Sayings]]** - Environmental and cultural expressions from both realms
+- **[[02_Worldbuilding/Lore/Swear Words and Curses]]** - Profanity reflecting cultural values, fears, and taboos
+- **[[02_Worldbuilding/Lore/Professional Terminology]]** - Specialized guild vocabulary and trade secrets
+- **[[02_Worldbuilding/Lore/Name Etymology Guide]]** - Naming conventions, social hierarchy, and cultural significance
 
 ### Practical Application Guides
 - **Translation Difficulties** - Inter-realm communication challenges and solutions
@@ -116,9 +116,9 @@ Comprehensive linguistic system covering the rich variety of speech patterns, di
 - **Diplomatic Crisis**: Communication failures escalate inter-realm tensions
 
 ## Cross-References
-- [[vault_backup_20250813_073007/03_Mechanics/Depth Adaptation System]] - How physical changes affect speech
-- [[vault_backup_20250813_073007/03_Mechanics/Faction Relationship Tracker]] - Language skills impact social standing
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cultural_Organizations/Cultural Exchange Society]] - Inter-realm communication specialists
+- [[03_Mechanics/Depth Adaptation System]] - How physical changes affect speech
+- [[03_Mechanics/Faction Relationship Tracker]] - Language skills impact social standing
+- [[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Exchange Society]] - Inter-realm communication specialists
 - [[Master_Campaign_Index|Master Campaign Index]] - Integration with ongoing storylines
 
 ## Player-Facing Summary
@@ -154,19 +154,19 @@ The linguistic diversity of Aquabyssos and Aethermoor reflects the environmental
 ## Connections
 
 ### Core Systems
-- [[vault_backup_20250813_073007/03_Mechanics/Depth Adaptation System]] - Physical changes affecting speech
-- [[vault_backup_20250813_073007/03_Mechanics/Faction Standing System]] - Language skills impact relationships
+- [[03_Mechanics/Depth Adaptation System]] - Physical changes affecting speech
+- [[03_Mechanics/Faction Standing System]] - Language skills impact relationships
 - [[Cultural Exchange]] - Inter-realm communication mechanics
 
 ### Language Resources
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Speak Variations]] - Pressure-influenced dialects
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Wind Song Linguistic Guide]] - Aethermoor tonal communication
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Common Idioms and Sayings]] - Cultural expressions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professional Terminology]] - Guild and trade languages
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Name Etymology Guide]] - Cultural naming conventions
+- [[02_Worldbuilding/Lore/Depth Speak Variations]] - Pressure-influenced dialects
+- [[02_Worldbuilding/Lore/Wind Song Linguistic Guide]] - Aethermoor tonal communication
+- [[02_Worldbuilding/Lore/Common Idioms and Sayings]] - Cultural expressions
+- [[02_Worldbuilding/Lore/Professional Terminology]] - Guild and trade languages
+- [[02_Worldbuilding/Lore/Name Etymology Guide]] - Cultural naming conventions
 
 ### NPCs with Linguistic Profiles
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Criminal cant mastery and cross-realm deception
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]] - Dual-nature speech patterns
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Royal wind song and crystal corruption effects
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]] - Shadow-replaced linguistic differences
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Criminal cant mastery and cross-realm deception
+- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]] - Dual-nature speech patterns
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Royal wind song and crystal corruption effects
+- [[02_Worldbuilding/People/Senator Glaucus]] - Shadow-replaced linguistic differences

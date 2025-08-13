@@ -51,4 +51,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/Parliament-of-Shadows-Campaign]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament-of-Shadows-Campaign]]

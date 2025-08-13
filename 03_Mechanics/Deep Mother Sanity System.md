@@ -343,12 +343,12 @@ Players should recognize when their character approaches dangerous sanity levels
 ## Cross-References
 
 - [[Complete Deep Mother Subsystem]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reality Breach Locations]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Lore]]
+- [[02_Worldbuilding/Places/Reality Breach Locations]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+- [[02_Worldbuilding/Lore/Deep Mother Lore]]
 - [[Avatar Manifestations]]
 - [[Forbidden Tomes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Prophetic Dreams]]
+- [[02_Worldbuilding/Places/Prophetic Dreams]]
 - [[Cosmic Truth]]
 
 ## Player-Facing Summary

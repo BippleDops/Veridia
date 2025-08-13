@@ -19,26 +19,26 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Lore]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Kraken Territories]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Pressure Baptism Rites]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Chambers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Memory Ceremonies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Lore/Crystal Forest]]
+- [[02_Worldbuilding/Lore/Deep Mother Lore]]
+- [[02_Worldbuilding/Lore/Kraken Territories]]
+- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/The Crimson Hand]]
+- [[02_Worldbuilding/Lore/The Deep Harvest]]
+- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
+- [[02_Worldbuilding/Lore/The Pressure Baptism Rites]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Seven Betrayers]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[02_Worldbuilding/Lore/Tidal Chambers]]
+- [[02_Worldbuilding/Lore/Tidal Memory Ceremonies]]
+- [[02_Worldbuilding/Places/Aethermoor]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

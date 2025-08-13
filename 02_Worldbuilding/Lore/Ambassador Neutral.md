@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
 
 ## Player-Facing Summary
 

@@ -31,7 +31,7 @@ Nerissa appears ageless, though she has ruled for nearly two centuries. Her silv
 
 ## Background
 
-Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was raised from birth to lead Aquabyssos. She witnessed the last days of the surface empire through inherited memories and carries the weight of three thousand years of isolation. Her grandmother was the last Oracle to speak with [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]] before his sacrifice.
+Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was raised from birth to lead Aquabyssos. She witnessed the last days of the surface empire through inherited memories and carries the weight of three thousand years of isolation. Her grandmother was the last Oracle to speak with [[02_Worldbuilding/People/Emperor Thalassius the Wise]] before his sacrifice.
 
 ### Rise to Power
 - Age 7: First prophetic vision
@@ -44,17 +44,17 @@ Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was 
 
 ### Allies
 - **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - Military commander, trusted but stubborn
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Master of Currents Zephyr]]** - Chief advisor, childhood friend
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Pearl Guard]]** - Elite protectors
+- **[[02_Worldbuilding/People/Master of Currents Zephyr]]** - Chief advisor, childhood friend
+- **[[02_Worldbuilding/People/The Pearl Guard]]** - Elite protectors
 
 ### Rivals
 - **[[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]** - Necessary evil, controls too much trade
 - **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - Dangerous idealist threatening stability
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]** - Ancient threat that must be contained
+- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]** - Ancient threat that must be contained
 
 ### Neutral Parties
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]** - Useful but untrustworthy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Depth Wardens]]** - Loyal to Aquabyssos, not necessarily to her
+- **[[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]** - Useful but untrustworthy
+- **[[02_Worldbuilding/People/The Depth Wardens]]** - Loyal to Aquabyssos, not necessarily to her
 
 ## Current Concerns
 
@@ -65,8 +65,8 @@ Her own visions show two paths:
 She seeks a third option but hasn't found it.
 
 ### The Pressure Wars
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]] grows too independent
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]] stirs with ancient evil
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]] grows too independent
+- [[02_Worldbuilding/Quests/The Maw of Darkness]] stirs with ancient evil
 - Resources stretched thin across seven depths
 
 ### Surface Relations
@@ -92,7 +92,7 @@ She seeks a third option but hasn't found it.
 - Sees possible futures in water reflections
 - Dreams of the past through ancestral memories
 - Can induce visions in others through touch
-- Knows the true location of [[vault_backup_20250813_073007/02_Worldbuilding/People/The Heart of Oceanus]]
+- Knows the true location of [[02_Worldbuilding/People/The Heart of Oceanus]]
 
 ## Hidden Agendas
 
@@ -105,7 +105,7 @@ She seeks a third option but hasn't found it.
 ### Personal Desires
 - Wants to see the sun once before she dies
 - Seeks to break the Oracle curse on her bloodline
-- Hopes to find descendants of [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius]]
+- Hopes to find descendants of [[02_Worldbuilding/People/Emperor Thalassius]]
 - Dreams of reuniting the scattered depth colonies
 
 ## Relationships
@@ -128,7 +128,7 @@ She seeks a third option but hasn't found it.
 - Sees her younger self in Miralyn
 - Fears she might be right about returning
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]
+### [[02_Worldbuilding/People/Aboleth Prime Yoth]]
 "The ancient darkness that remembers when we had legs."
 - Bound by ancient pacts she must honor
 - Knows it plots against her
@@ -136,9 +136,9 @@ She seeks a third option but hasn't found it.
 
 ## Quest Hooks
 
-1. **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tide Turner's Trident]]** - She secretly seeks proof the surface is safe
-2. **[[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]** - Help her break the prophetic curse
-3. **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Seven Seals]]** - Gather the Depth Seals before enemies do
+1. **[[02_Worldbuilding/Lore/Tide Turner's Trident]]** - She secretly seeks proof the surface is safe
+2. **[[02_Worldbuilding/Quests/The Crown's Burden]]** - Help her break the prophetic curse
+3. **[[02_Worldbuilding/People/The Seven Seals]]** - Gather the Depth Seals before enemies do
 4. **Diplomatic Immunity** - Escort her to dangerous negotiations
 
 ## Combat Tactics
@@ -228,10 +228,10 @@ Legends speak of Nerissa Deepcurrent as a nexus where past and present converge.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Depth Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Heart of Oceanus]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/Emperor Thalassius]]
+- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+- [[02_Worldbuilding/People/The Depth Wardens]]
+- [[02_Worldbuilding/People/The Heart of Oceanus]]
+- [[02_Worldbuilding/Quests/The Maw of Darkness]]

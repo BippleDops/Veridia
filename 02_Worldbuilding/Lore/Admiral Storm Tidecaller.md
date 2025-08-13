@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdom Fleet]]
+- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdom Fleet]]
+- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet]]
 
 ## Player-Facing Summary
 

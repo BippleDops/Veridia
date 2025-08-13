@@ -106,7 +106,7 @@ Use this location for high-stakes rescue missions and industrial espionage. The 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/Places/The Cerulean Trench]]
 
 
 ## History
@@ -142,6 +142,6 @@ Legends speak of Depth Crystal Harvest as a nexus where past and present converg
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Crystal Harvest]]
+- [[02_Worldbuilding/Places/Depth Crystal Harvest]]
 
 <!-- enriched: true -->

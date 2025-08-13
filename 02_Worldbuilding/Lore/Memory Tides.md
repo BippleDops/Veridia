@@ -1,19 +1,15 @@
 ---
-created: '2025-08-11'
+type: Lore
 status: complete
 tags:
+- active
 - aethermoor
-- complete
-- content/adventure
-- content/lore
 - lore
-- status/in-progress
-- world/aethermoor
-type: Lore
-updated: '2025-08-13T12:34:29.060155+00:00'
+- quest
 world: Aethermoor
+created: '2025-08-11'
+updated: '2025-08-13T01:18:34.883765+00:00'
 ---
-
 
 
 
@@ -45,12 +41,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[02_Worldbuilding/Quests/Traveling Merchant Finn|02 Worldbuilding/Quests/Traveling Merchant Finn]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Crystalline Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[Crystalline Depths]]
+- [[Rescue Senator Glaucus]]
+- [[The Maw of Darkness]]
+- [[Traveling Merchant Finn]]

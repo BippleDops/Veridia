@@ -28,7 +28,7 @@ world: Both
 *The Incorruptible, Rising Star of the Crystal Wardens*
 
 ## Overview
-Captain Lyanna Brightshield is the youngest captain in [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] history, earning her position through exceptional skill and unwavering integrity. Protégé of [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]], she leads special investigations into corruption and crime. She's beginning to notice inconsistencies in the royal court but hasn't yet connected them to [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s condition.
+Captain Lyanna Brightshield is the youngest captain in [[02_Worldbuilding/People/Crystal Wardens]] history, earning her position through exceptional skill and unwavering integrity. Protégé of [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]], she leads special investigations into corruption and crime. She's beginning to notice inconsistencies in the royal court but hasn't yet connected them to [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s condition.
 
 ## Appearance
 - **Race**: Half-elf with human and moon elf heritage
@@ -43,13 +43,13 @@ Captain Lyanna Brightshield is the youngest captain in [[vault_backup_20250813_0
 ## Personality
 - **Traits**: Determined, perceptive, compassionate, methodical
 - **Ideals**: Justice is blind, truth above all, protect the innocent
-- **Bonds**: Loyalty to [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]], duty to citizens
+- **Bonds**: Loyalty to [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]], duty to citizens
 - **Flaws**: Too trusting of authority, pushes herself too hard, guilt over past failure
 
 ## Background
 - Mother was elven diplomat, father was human guard
 - Witnessed parents killed by corrupted criminals at age 10
-- Raised by [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]] as ward
+- Raised by [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] as ward
 - Youngest graduate of Crystal Warden academy
 - Solved the "Merchant's Gate Murders" at age 22
 - Promoted to Captain after exposing corruption ring
@@ -60,7 +60,7 @@ Captain Lyanna Brightshield is the youngest captain in [[vault_backup_20250813_0
 - **Keen Mind**: Photographic memory
 - **Urban Tracker**: Can track through cities
 - **Insight Mastery**: Rarely fooled by lies
-- **Connection Network**: Informants throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+- **Connection Network**: Informants throughout [[02_Worldbuilding/Places/Crystalhaven]]
 
 ### Combat Training
 - **Fighting Styles**: Defense and Dueling
@@ -76,32 +76,32 @@ Captain Lyanna Brightshield is the youngest captain in [[vault_backup_20250813_0
 ## Relationships
 
 ### Mentors & Allies
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Father figure, commander
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Spiritual advisor
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Moonwhisper]] - Provides research assistance
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]] - Former training partner (unaware of his Purist sympathies)
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Father figure, commander
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Spiritual advisor
+- [[02_Worldbuilding/Places/Keeper Elara Moonwhisper]] - Provides research assistance
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]] - Former training partner (unaware of his Purist sympathies)
 
 ### Professional Contacts
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Coordinates naval investigations
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Technical consultation
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Coordinates naval investigations
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Technical consultation
 - **Sergeant Willem Crow** - Most trusted subordinate
 - Various informants and street contacts
 
 ### Under Investigation
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Primary target
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Primary target
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Ongoing cases
 - [[Marcus "The Shade" Blackwood]] - Tracking movements
 - Corrupt nobles and merchants
 
 ### Complicated
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Growing suspicions
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Can't figure them out
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Growing suspicions
+- [[02_Worldbuilding/People/The Crimson Sage]] - Can't figure them out
 - [[Jasper "Three-Eyes" Flint]] - Useful but untrustworthy
 
 ## Current Investigations
 
 ### Active Cases
-1. **The Crystal Plague** - Lead investigator in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+1. **The Crystal Plague** - Lead investigator in [[02_Worldbuilding/Places/Port Meridian]]
 2. **Syndicate Expansion** - Tracking [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 3. **Missing Persons** - Pattern of disappearances near palace
 4. **Contraband Crystals** - Black market trade
@@ -115,9 +115,9 @@ Captain Lyanna Brightshield is the youngest captain in [[vault_backup_20250813_0
 ## Secrets
 > [!warning] DM Only
 > - Beginning to suspect Queen's illness isn't natural
-> - Has evidence linking [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]] to embezzlement
+> - Has evidence linking [[02_Worldbuilding/People/Lord Aurelius Goldwave]] to embezzlement
 > - Her mother was investigating the Seven Shards before death
-> - [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] has tried to recruit her (she refused)
+> - [[02_Worldbuilding/People/Vex Shadowthorn]] has tried to recruit her (she refused)
 > - Prophetic dreams about a crown breaking (doesn't understand)
 > - Her heterochromia allows her to see through weak illusions
 
@@ -125,13 +125,13 @@ Captain Lyanna Brightshield is the youngest captain in [[vault_backup_20250813_0
 
 ### Quest Giver
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Primary contact
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - Syndicate Shadows]] - Needs help with investigation
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Missing Guards]] - Crystal Wardens vanishing
+- [[02_Worldbuilding/People/Quest - Syndicate Shadows]] - Needs help with investigation
+- [[02_Worldbuilding/People/Quest - The Missing Guards]] - Crystal Wardens vanishing
 
 ### Ally/Support
 - Provides intelligence and resources
 - Can arrest criminals for party
-- Offers safe house in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+- Offers safe house in [[02_Worldbuilding/Places/Crystalhaven]]
 - Testimony can clear party of crimes
 
 ## Combat Tactics
@@ -192,18 +192,18 @@ Captain Lyanna Brightshield is the youngest captain in [[vault_backup_20250813_0
 - Her investigation could expose Queen's secret
 - Moral compass for the campaign
 - Potential love interest or close ally
-- Her choices affect [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] future
+- Her choices affect [[02_Worldbuilding/People/Crystal Wardens]] future
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Mentor
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Growing suspicions
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Primary target
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]] - Old friend
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Investigating
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Mentor
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Growing suspicions
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Primary target
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]] - Old friend
+- [[02_Worldbuilding/People/The Crimson Sage]] - Investigating
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Base of operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Current investigation
+- [[02_Worldbuilding/Places/Crystalhaven]] - Base of operations
+- [[02_Worldbuilding/Places/Port Meridian]] - Current investigation
 - Crystal Warden Fortress - Office
 - Various safe houses
 
@@ -220,7 +220,7 @@ Captain Lyanna Brightshield is the youngest captain in [[vault_backup_20250813_0
 ## Connections
 
 - [[Jasper Three-Eyes Flint]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Knight]]
+- [[02_Worldbuilding/People/Knight]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -239,12 +239,12 @@ Legends speak of Captain Lyanna Brightshield as a nexus where past and present c
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Moonwhisper]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]]
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/Places/Keeper Elara Moonwhisper]]

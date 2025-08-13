@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lady Jade Clawgrip]]
+- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
 
 ## Player-Facing Summary
 

@@ -59,11 +59,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
+- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Singer Naia]]
+- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
+- [[02_Worldbuilding/People/Memory Harvester Kythara]]
+- [[02_Worldbuilding/People/The Shadow Singer Naia]]

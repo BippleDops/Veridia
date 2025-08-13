@@ -32,7 +32,7 @@ obsidianUIMode: preview
 - Abstracted fronts with Morale (0–6). Force checks each round shift fronts; supply and weather influence outcomes.
 
 ## Cross-References
-- [[09_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
+- [[13_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
 - [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]]
 
 ## Player-Facing Summary

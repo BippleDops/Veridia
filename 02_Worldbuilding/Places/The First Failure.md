@@ -16,11 +16,11 @@ location_type: Ruined Magical Laboratory
 notable_npcs:
 - '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper
   Of Failures, Marcus Ashworth]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Archivist Elena Sorrowkeeper]]'
+- '[[02_Worldbuilding/Places/Archivist Elena Sorrowkeeper]]'
 - '[[Ghost of Dr. Thaddeus Brightwater]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memorial Tender Sarah]]'
+- '[[02_Worldbuilding/Places/Memorial Tender Sarah]]'
 obsidianUIMode: preview
-parent_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]'
+parent_location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
 population: 12
 pressure_effects: Moderate
 ruler: '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper
@@ -35,7 +35,7 @@ shadow_density: Moderate
 status: complete
 sub_locations:
 - '[[The Shattered Summoning Circle]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memorial Wall of Names]]'
+- '[[02_Worldbuilding/Places/Memorial Wall of Names]]'
 - '[[The Preservation Chamber]]'
 - '[[Library of Lost Solutions]]'
 - '[[The Guilt Garden]]'
@@ -74,7 +74,7 @@ world: Both
 
 ## Overview
 
-The First Failure stands as both monument and warning—a preserved magical laboratory complex where the initial attempts to prevent [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] not only failed spectacularly but may have actually caused the very catastrophe they sought to prevent. Located in the deep memorial district of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]], this site serves as a sobering reminder of the dangers of unchecked magical ambition and hasty solutions to complex problems.
+The First Failure stands as both monument and warning—a preserved magical laboratory complex where the initial attempts to prevent [[02_Worldbuilding/Places/The Great Drowning]] not only failed spectacularly but may have actually caused the very catastrophe they sought to prevent. Located in the deep memorial district of [[02_Worldbuilding/Places/Abyssos Prime]], this site serves as a sobering reminder of the dangers of unchecked magical ambition and hasty solutions to complex problems.
 
 The complex consists of the ruins of what was once the most advanced magical research facility in the pre-drowning world, led by the brilliant but ultimately tragic figure of Dr. Thaddeus Brightwater. The site has been carefully preserved, not as a shrine to achievement, but as a testament to failure—every broken apparatus, every flawed calculation, every desperate last attempt maintained exactly as it was found in the immediate aftermath of the drowning.
 
@@ -97,7 +97,7 @@ Dr. Thaddeus Brightwater, the realm's most celebrated magical theorist and profe
 - Dr. Thaddeus Brightwater - Project Leader (Transmutation Specialist)
 - Lady Cordelia Mistweaver - Divination Expert
 - Master Artificer Cornelius Gearwright - Magical Engineering
-- Sage Marina Deepcurrent - Ocean Magic Theorist (later revealed to be connected to [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]])
+- Sage Marina Deepcurrent - Ocean Magic Theorist (later revealed to be connected to [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]])
 - High Priestess Seraphina Tideturner - Divine Magic Consultant
 
 ### The Fatal Flaw
@@ -116,7 +116,7 @@ The heart of the complex contains the remains of a massive summoning circle desi
 - Dr. Brightwater's final notes, etched in magical fire on the stone floor
 
 ### Memorial Wall of Names
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memorial Wall of Names]]**
+**[[02_Worldbuilding/Places/Memorial Wall of Names]]**
 A somber addition constructed after the drowning, listing the names of all 40,000 people who died in the immediate catastrophe. The wall was built by survivors who felt the researchers should be remembered alongside their victims, a controversial decision that led to heated debates about responsibility and memorial ethics.
 
 **Wall Sections:**
@@ -164,16 +164,16 @@ A former student of Dr. Brightwater who has dedicated his life to maintaining th
 - Encyclopedic knowledge of the disaster and its causes
 - Severe guilt complex despite not being directly responsible
 - Ability to identify flawed magical theories before they cause harm
-- Unofficial advisor to current magical researchers in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+- Unofficial advisor to current magical researchers in [[02_Worldbuilding/Places/Abyssos Prime]]
 
 ### The Memorial Staff
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Archivist Elena Sorrowkeeper]]** - Keeper of records
+**[[02_Worldbuilding/Places/Archivist Elena Sorrowkeeper]]** - Keeper of records
 - Maintains the Library of Lost Solutions
 - Specializes in failure analysis and pattern recognition
 - Lost her mentor in the drowning, struggles with survivor guilt
 - Developing new methods for ethical magical research
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memorial Tender Sarah]]** - Caretaker of the physical site
+**[[02_Worldbuilding/Places/Memorial Tender Sarah]]** - Caretaker of the physical site
 - Maintains the Guilt Garden and Preservation Chamber
 - Has an uncanny ability to comfort grieving visitors
 - Believes the site has healing power for those who accept responsibility
@@ -197,7 +197,7 @@ A small religious group that views the First Failure as a sacred site demonstrat
 ## Research & Services
 
 ### Failure Analysis
-The site offers consultation services for magical researchers, helping them identify potential flaws in their theories and approaches. This service has prevented several smaller magical disasters and is increasingly sought after by magical institutions across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+The site offers consultation services for magical researchers, helping them identify potential flaws in their theories and approaches. This service has prevented several smaller magical disasters and is increasingly sought after by magical institutions across [[02_Worldbuilding/Places/Aquabyssos]].
 
 ### Historical Research
 Scholars come to study the complete records of pre-drowning magical research, making the site one of the most valuable academic resources in the underwater world.
@@ -228,18 +228,18 @@ Dr. Brightwater's spirit isn't just warning people—he's subtly guiding researc
 ## Connected Locations
 
 ### Research Networks
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]:** Current magical research center
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Complementary memorial archive
+- **[[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]:** Current magical research center
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Complementary memorial archive
 - **[[Royal Academy of Arcane Arts - Ruins]]:** Pre-drowning educational institution
 
 ### Memorial Sites
 - **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Different approach to remembering the dead
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memorial District of Abyssos Prime]]:** Broader commemorative area
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Disaster Prevention Centers]]:** Modern attempts to prevent similar catastrophes
+- **[[02_Worldbuilding/Places/Memorial District of Abyssos Prime]]:** Broader commemorative area
+- **[[02_Worldbuilding/Places/Disaster Prevention Centers]]:** Modern attempts to prevent similar catastrophes
 
 ### Hostile Relations
 - **[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]:** Believes the drowning was divine will
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Progress Through Power Faction]]:** Wants to suppress failure records
+- **[[02_Worldbuilding/Places/Progress Through Power Faction]]:** Wants to suppress failure records
 - **[[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]:** Seeks to harvest traumatic memories from the site
 
 ## Adventure Hooks
@@ -257,7 +257,7 @@ Dr. Brightwater's spirit isn't just warning people—he's subtly guiding researc
 ### Moral Dilemmas
 5. **The Redemption Experiment:** Dr. Brightwater's ghost offers to teach the players his complete research, claiming he's found a way to undo The Great Drowning. However, the ritual would require sacrificing the lives that have been built in the post-drowning world.
 
-6. **The Suppression Order:** Powerful figures in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] want to destroy the First Failure entirely, arguing that it inspires dangerous magical experimentation. Players must choose between preserving historical truth and preventing potential future disasters.
+6. **The Suppression Order:** Powerful figures in [[02_Worldbuilding/Places/Parliament of Echoes]] want to destroy the First Failure entirely, arguing that it inspires dangerous magical experimentation. Players must choose between preserving historical truth and preventing potential future disasters.
 
 ### Personal Growth
 7. **The Guilt Workshop:** One of the players is struggling with the consequences of a past decision that caused harm. Keeper Marcus offers to help them work through their guilt using the lessons of the First Failure, but the process requires confronting painful truths.
@@ -357,7 +357,7 @@ This location works best as:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Places/The Primordial Vaults]]
 
 ## Player-Facing Summary
 
@@ -373,8 +373,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The First Failure]]
+- [[02_Worldbuilding/Places/The First Failure]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]

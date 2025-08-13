@@ -28,11 +28,11 @@ world: Both
 *Crown Jewel of the Deep Realm*
 
 > *"Here, where the weight of water mirrors the weight of crown, where ancient stones remember every royal decree and future possibilities flow like tides through marble halls, the heart of Aquabyssos beats with the rhythm of absolute power tempered by oceanic wisdom."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Court Chronicler Pearl Deepscribe]], Royal Historian
+> — [[02_Worldbuilding/Lore/Court Chronicler Pearl Deepscribe]], Royal Historian
 
 ## Overview
 
-The Royal Palace stands as the magnificent centerpiece of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]], a sprawling complex of interconnected buildings, courtyards, and gardens that serves as both the residence of the royal family and the administrative heart of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] kingdom. Built over centuries and constantly expanded by successive monarchs, the palace represents the pinnacle of underwater architecture and engineering, combining practical governance needs with breathtaking artistic beauty. Within its coral-stone walls, the business of ruling a vast underwater empire unfolds daily, from intimate family dinners to grand state ceremonies, from secret diplomatic meetings to public audiences where citizens can petition their sovereign.
+The Royal Palace stands as the magnificent centerpiece of [[02_Worldbuilding/Places/Abyssos Prime]], a sprawling complex of interconnected buildings, courtyards, and gardens that serves as both the residence of the royal family and the administrative heart of the [[02_Worldbuilding/Places/Aquabyssos]] kingdom. Built over centuries and constantly expanded by successive monarchs, the palace represents the pinnacle of underwater architecture and engineering, combining practical governance needs with breathtaking artistic beauty. Within its coral-stone walls, the business of ruling a vast underwater empire unfolds daily, from intimate family dinners to grand state ceremonies, from secret diplomatic meetings to public audiences where citizens can petition their sovereign.
 
 ## History and Construction
 
@@ -66,7 +66,7 @@ The Royal Palace stands as the magnificent centerpiece of [[vault_backup_2025081
 
 ### The Democratic Reforms
 **Timeline**: 100-50 years ago, constitutional changes affecting palace function  
-**Parliament**: Accommodation of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] representatives  
+**Parliament**: Accommodation of [[02_Worldbuilding/Places/Parliament of Echoes]] representatives  
 **Access**: Increased public access to certain palace areas  
 **Transparency**: Government transparency measures affecting palace operations  
 **Balance**: Balancing royal tradition with democratic expectations
@@ -234,21 +234,21 @@ The Royal Palace stands as the magnificent centerpiece of [[vault_backup_2025081
 
 ### Court Positions and Nobility
 
-#### Lord/Lady Chamberlain [[vault_backup_20250813_073007/02_Worldbuilding/Places/Court Manager Noble]]
+#### Lord/Lady Chamberlain [[02_Worldbuilding/Places/Court Manager Noble]]
 **Administration**: Overall management of palace operations and royal household  
 **Protocol**: Expert in royal protocol and ceremonial procedures  
 **Staff**: Management of palace staff and service operations  
 **Access**: Controlling access to royal family members  
 **Efficiency**: Ensuring efficient palace operations and royal schedule management
 
-#### Royal Advisor [[vault_backup_20250813_073007/02_Worldbuilding/Places/Wise Counselor Deep]]
+#### Royal Advisor [[02_Worldbuilding/Places/Wise Counselor Deep]]
 **Counsel**: Primary advisor on governmental and policy matters  
 **Experience**: Extensive experience in kingdom governance and international relations  
 **Trust**: Trusted confidant with access to most sensitive information  
 **Analysis**: Analysis of complex political and governmental situations  
 **Discretion**: Absolute discretion and loyalty to royal family and kingdom
 
-#### Master of Ceremonies [[vault_backup_20250813_073007/02_Worldbuilding/Places/Protocol Expert Formal]]
+#### Master of Ceremonies [[02_Worldbuilding/Places/Protocol Expert Formal]]
 **Events**: Planning and executing major ceremonial events and state functions  
 **Etiquette**: Expert in diplomatic and royal etiquette  
 **Coordination**: Coordination of complex multi-departmental ceremonial events  
@@ -301,23 +301,23 @@ The Royal Palace stands as the magnificent centerpiece of [[vault_backup_2025081
 **Meetings**: Regular cabinet meetings for major policy decisions  
 **Portfolios**: Various ministerial portfolios covering all aspects of government  
 **Coordination**: Inter-ministerial coordination on complex issues  
-**Accountability**: Accountability to monarch and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+**Accountability**: Accountability to monarch and [[02_Worldbuilding/Places/Parliament of Echoes]]
 
-#### Prime Minister [[vault_backup_20250813_073007/02_Worldbuilding/Places/Government Leader Capable]]
+#### Prime Minister [[02_Worldbuilding/Places/Government Leader Capable]]
 **Role**: Head of government under constitutional monarchy  
 **Leadership**: Leadership of cabinet and day-to-day government operations  
-**Parliament**: Relationship management with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]  
+**Parliament**: Relationship management with [[02_Worldbuilding/Places/Parliament of Echoes]]  
 **Policy**: Policy development and implementation oversight  
 **Coordination**: Coordination between monarch, cabinet, and parliament
 
-#### Minister of Foreign Affairs [[vault_backup_20250813_073007/02_Worldbuilding/Places/Diplomat Supreme International]]
+#### Minister of Foreign Affairs [[02_Worldbuilding/Places/Diplomat Supreme International]]
 **Diplomacy**: Management of international relations and diplomatic missions  
 **Treaties**: Negotiation and implementation of international treaties  
 **Intelligence**: Coordination with intelligence services on international matters  
 **Trade**: International trade relations and economic diplomacy  
 **Crisis**: Crisis management of international incidents and conflicts
 
-#### Minister of Defense [[vault_backup_20250813_073007/02_Worldbuilding/Places/Military Coordinator Strong]]
+#### Minister of Defense [[02_Worldbuilding/Places/Military Coordinator Strong]]
 **Military**: Civilian oversight of kingdom military forces  
 **Security**: National security policy and implementation  
 **Intelligence**: Coordination with military intelligence services  
@@ -366,7 +366,7 @@ The Royal Palace stands as the magnificent centerpiece of [[vault_backup_2025081
 **Celebration**: Kingdom-wide celebration accompanying coronation
 
 #### The Annual Address
-**Speech**: Annual royal address to kingdom and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]  
+**Speech**: Annual royal address to kingdom and [[02_Worldbuilding/Places/Parliament of Echoes]]  
 **Policy**: Announcement of major policy directions and priorities  
 **Reflection**: Reflection on kingdom achievements and challenges  
 **Unity**: Promoting kingdom unity and shared purpose  
@@ -624,28 +624,28 @@ The Royal Palace stands as the magnificent centerpiece of [[vault_backup_2025081
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+### [[02_Worldbuilding/Places/Parliament of Echoes]]
 **Government**: Constitutional relationship between monarchy and parliament  
 **Cooperation**: Cooperation in democratic governance and policy-making  
 **Balance**: Balance of power between royal authority and parliamentary democracy  
 **Communication**: Regular communication and consultation on major issues  
 **Evolution**: Ongoing evolution of constitutional monarchy relationships
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+### [[02_Worldbuilding/Places/Abyssos Prime]]
 **Capital**: Palace as centerpiece of kingdom capital city  
 **Economy**: Economic impact of palace on capital city economy  
 **Security**: Integration of palace security with capital city security  
 **Culture**: Palace influence on capital city culture and social life  
 **Tourism**: Palace tourism contributing to capital city attraction and economy
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
+### [[02_Worldbuilding/Places/Azure Citadel]]
 **Military**: Relationship between royal authority and military command  
 **Security**: Coordination on national security and defense issues  
 **Intelligence**: Intelligence sharing and coordination  
 **Ceremony**: Military ceremonial support for royal functions  
 **Protection**: Military protection for royal family during crises
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
+### [[02_Worldbuilding/Places/The Free Current]]
 **Trade**: Trade relationships and economic policy affecting free traders  
 **Independence**: Balancing royal authority with free current independence  
 **Innovation**: Learning from free current innovations in governance and economics  
@@ -666,33 +666,33 @@ The Royal Palace stands as the magnificent centerpiece of [[vault_backup_2025081
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/The Free Current]]
 
 **Related NPCs**:
 - [[King/Queen Current Monarch]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Prime Minister Government Leader]]
+- [[02_Worldbuilding/Places/Prime Minister Government Leader]]
 - [[Lord/Lady Chamberlain Court Manager]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Advisor Wise Counselor]]
+- [[02_Worldbuilding/Places/Royal Advisor Wise Counselor]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Coral Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crown Jewels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Protocol]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Constitutional Monarchy]]
+- [[02_Worldbuilding/Places/The Coral Throne]]
+- [[02_Worldbuilding/Places/Crown Jewels]]
+- [[02_Worldbuilding/Places/Royal Protocol]]
+- [[02_Worldbuilding/Places/Constitutional Monarchy]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Chamber]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Doctor Coral Shapeshift]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Dream Rails]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Noble Quarter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple Ward]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Throne Room - Heart of Palace]]
+- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[02_Worldbuilding/Lore/Resonance Chamber]]
+- [[02_Worldbuilding/Places/Doctor Coral Shapeshift]]
+- [[02_Worldbuilding/Places/Dream Rails]]
+- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[02_Worldbuilding/Places/Temple Ward]]
+- [[02_Worldbuilding/Places/Throne Room - Heart of Palace]]
 - [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
@@ -716,6 +716,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Palace]]
+- [[02_Worldbuilding/Places/Royal Palace]]
 
 <!-- enriched: true -->

@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
+- [[02_Worldbuilding/Items/Aether Crystals]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
+- [[02_Worldbuilding/Items/Aether Crystals]]
 
 ## Player-Facing Summary
 

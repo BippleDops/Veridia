@@ -168,7 +168,7 @@ This quest emphasizes puzzle-solving, coalition building, and time management ov
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whispering Depths]]
+- [[02_Worldbuilding/Places/The Whispering Depths]]
 
 ## Player-Facing Summary
 
@@ -180,6 +180,6 @@ Legends speak of The Last Words as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Last Words]]
+- [[02_Worldbuilding/Places/The Last Words]]
 
 <!-- enriched: true -->

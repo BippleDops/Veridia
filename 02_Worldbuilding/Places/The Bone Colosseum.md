@@ -28,7 +28,7 @@ world: Both
 *Where Death is Entertainment and Blood is Currency*
 
 ## Overview
-Hidden beneath the warehouse district of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]], the Bone Colosseum is an illegal gladiatorial arena run by [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]. Built from the bones of ancient leviathans and lit by corrupted crystals, this underground amphitheater hosts blood sports for wealthy patrons while serving as a recruitment ground for [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]'s criminal empire.
+Hidden beneath the warehouse district of [[02_Worldbuilding/Places/Port Meridian]], the Bone Colosseum is an illegal gladiatorial arena run by [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]. Built from the bones of ancient leviathans and lit by corrupted crystals, this underground amphitheater hosts blood sports for wealthy patrons while serving as a recruitment ground for [[02_Worldbuilding/People/Vex Shadowthorn]]'s criminal empire.
 
 ## Arena Structure
 
@@ -41,23 +41,23 @@ Hidden beneath the warehouse district of [[vault_backup_20250813_073007/02_World
 
 ### Spectator Levels
 - **The Pit**: Standing room for commoners and desperate gamblers
-- **Noble Boxes**: Private viewing areas for [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]
-- **The Shadow Box**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]'s private viewing area
+- **Noble Boxes**: Private viewing areas for [[02_Worldbuilding/Groups/Merchant Princes]]
+- **The Shadow Box**: [[02_Worldbuilding/People/Vex Shadowthorn]]'s private viewing area
 - **High Gallery**: Where [[02_Worldbuilding/People/Marcus "The Shade" Blackwood|02 Worldbuilding/People/Marcus "The Shade" Blackwood]] coordinates security
 
 ### Support Areas
 - **Gladiator Cells**: Cramped quarters for fighters
 - **Beast Pens**: Holding corrupted creatures and monsters
-- **Medical Bay**: Run by [[vault_backup_20250813_073007/02_Worldbuilding/People/Doctor Helena Voidwalker]]
-- **Weapons Cache**: Maintained by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]'s apprentices
+- **Medical Bay**: Run by [[02_Worldbuilding/People/Doctor Helena Voidwalker]]
+- **Weapons Cache**: Maintained by [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]'s apprentices
 
 ## Key Personnel
 
 ### Management
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]** - Ultimate owner and sponsor
+- **[[02_Worldbuilding/People/Vex Shadowthorn]]** - Ultimate owner and sponsor
 - **[[Marcus "The Shade" Blackwood]]** - Operations manager and security
 - **Fight Master Brutus "Bone Crusher"** - Arena coordinator and referee
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Doctor Helena Voidwalker]]** - Medical examiner and enhancement provider
+- **[[02_Worldbuilding/People/Doctor Helena Voidwalker]]** - Medical examiner and enhancement provider
 
 ### Gladiators
 - **Champion Thessa "Blood Song"** - Undefeated female warrior
@@ -109,7 +109,7 @@ Hidden beneath the warehouse district of [[vault_backup_20250813_073007/02_World
 - "Equipment costs" fund illegal weapon purchases
 
 ### Information Brokerage
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] meets contacts during fights
+- [[02_Worldbuilding/People/Vex Shadowthorn]] meets contacts during fights
 - Nobles reveal secrets while drunk on victory
 - Fighters carry messages between criminal cells
 - [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]] gathers intelligence from spectators
@@ -117,22 +117,22 @@ Hidden beneath the warehouse district of [[vault_backup_20250813_073007/02_World
 ## Connections Network
 
 ### High-Profile Spectators
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Regular gambler and patron
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]** - Secret visitor seeking thrills
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]]** - Launders money through betting
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Recruits elite fighters
+- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Regular gambler and patron
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Secret visitor seeking thrills
+- **[[02_Worldbuilding/People/Banker Titus Goldcurrent]]** - Launders money through betting
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Recruits elite fighters
 
 ### Supply Chain
-- Gladiators sourced from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Slave Markets of Tethys]]
-- Beasts captured from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]]
-- Weapons supplied by [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crimson Foundries]]
-- Corrupt crystals from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows Black Market]]
+- Gladiators sourced from [[02_Worldbuilding/Places/The Slave Markets of Tethys]]
+- Beasts captured from [[02_Worldbuilding/Places/The Crystalline Wastes]]
+- Weapons supplied by [[02_Worldbuilding/Places/The Crimson Foundries]]
+- Corrupt crystals from [[02_Worldbuilding/Places/The Memory Meadows Black Market]]
 
 ### Enemy Surveillance
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]] investigating disappearances
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] seeking to shut down operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] tracking illegal crystal use
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]] planning raid
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] investigating disappearances
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] seeking to shut down operations
+- [[02_Worldbuilding/People/Crystal Wardens]] tracking illegal crystal use
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] planning raid
 
 ## Arena Mechanics
 
@@ -160,7 +160,7 @@ Hidden beneath the warehouse district of [[vault_backup_20250813_073007/02_World
 > [!warning] DM Only
 > - **Torture Chambers**: Where information is extracted from prisoners
 > - **Corruption Labs**: Illegal crystal experimentation on fighters
-> - **Escape Tunnels**: Connect to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]]
+> - **Escape Tunnels**: Connect to [[02_Worldbuilding/Places/The Shadow Markets]]
 > - **Vault Room**: Contains evidence of noble patrons' crimes
 
 ### Underground Network
@@ -168,7 +168,7 @@ Hidden beneath the warehouse district of [[vault_backup_20250813_073007/02_World
 > - Tunnel system connects to [[02_Worldbuilding/Groups/Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] headquarters
 > - Hidden dock allows beast and slave smuggling
 > - Secret meeting rooms host [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] councils
-> - Emergency evacuation routes lead to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Smuggler's Cove]]
+> - Emergency evacuation routes lead to [[02_Worldbuilding/Places/Smuggler's Cove]]
 
 ## Adventure Hooks
 
@@ -186,7 +186,7 @@ Hidden beneath the warehouse district of [[vault_backup_20250813_073007/02_World
 
 ### Social Intrigue
 9. **High Stakes Gambling**: Infiltrate noble betting circles
-10. **Recruitment Test**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] evaluates party as assets
+10. **Recruitment Test**: [[02_Worldbuilding/People/Vex Shadowthorn]] evaluates party as assets
 11. **Political Assassination**: Prevent murder during crowded event
 12. **Corrupt Official**: Expose city guard taking bribes
 
@@ -219,21 +219,21 @@ Hidden beneath the warehouse district of [[vault_backup_20250813_073007/02_World
 - **Scrying Protection**: Shield from external surveillance
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Host city providing cover
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]] - Connected via tunnels
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Smuggler's Cove]] - Escape route and supply point
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Slave Markets of Tethys]] - Fighter recruitment
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows Black Market]] - Crystal supplier
+- [[02_Worldbuilding/Places/Port Meridian]] - Host city providing cover
+- [[02_Worldbuilding/Places/The Shadow Markets]] - Connected via tunnels
+- [[02_Worldbuilding/Places/Smuggler's Cove]] - Escape route and supply point
+- [[02_Worldbuilding/Places/The Slave Markets of Tethys]] - Fighter recruitment
+- [[02_Worldbuilding/Places/The Memory Meadows Black Market]] - Crystal supplier
 
 ## Connected Factions
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Owner and operator
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] - High-profile patrons
+- [[02_Worldbuilding/Groups/Merchant Princes]] - High-profile patrons
 - [[02_Worldbuilding/Groups/Thieves Guild|02 Worldbuilding/Groups/Thieves Guild]] - Underground network allies
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Investigating illegal operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]] - Weapon suppliers
+- [[02_Worldbuilding/People/Crystal Wardens]] - Investigating illegal operations
+- [[02_Worldbuilding/Groups/The Crimson Fleet]] - Weapon suppliers
 
 ## Current Threats
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]] building case for raid
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] building case for raid
 - Gladiator uprising planned by Champion Thessa "Blood Song"
 - Crystal corruption spreading through fighter population
 - Noble patrons demanding increasingly dangerous spectacles
@@ -252,13 +252,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bone Colosseum]]
+- [[02_Worldbuilding/Places/The Bone Colosseum]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]

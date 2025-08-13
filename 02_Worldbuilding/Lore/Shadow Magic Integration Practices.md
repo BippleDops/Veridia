@@ -39,11 +39,11 @@ world: Both
 *The Art of Living with Darkness Made Light*
 
 > *"Shadow magic is not the absence of light, but light's intimate partner in the dance of existence. In the years since the Catastrophe tore reality asunder, we have learned that darkness need not be feared—it must be embraced, understood, and woven into the very fabric of our daily lives. Through careful practice and cultural evolution, shadow has become not our enemy, but our most reliable ally in navigating a world where the boundaries between light and dark, reality and dream, safety and danger have become beautifully, terrifyingly fluid."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Master Shadow Harmonist Penumbra Duskweaver]], Director of the Integration Institute
+> — [[02_Worldbuilding/Lore/Master Shadow Harmonist Penumbra Duskweaver]], Director of the Integration Institute
 
 ## Overview
 
-Shadow Magic Integration Practices represent the comprehensive cultural, magical, and practical framework that both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] have developed to incorporate shadow magic safely and beneficially into everyday life. Following the reality-altering catastrophe that damaged the boundaries between dimensions, shadow magic became an unavoidable presence in both worlds, requiring societies to adapt or face extinction.
+Shadow Magic Integration Practices represent the comprehensive cultural, magical, and practical framework that both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] have developed to incorporate shadow magic safely and beneficially into everyday life. Following the reality-altering catastrophe that damaged the boundaries between dimensions, shadow magic became an unavoidable presence in both worlds, requiring societies to adapt or face extinction.
 
 Rather than treating shadow magic as a dangerous force to be suppressed or avoided, both civilizations chose a path of integration—developing sophisticated practices, techniques, and cultural norms that allow citizens to work with shadow energy as a natural part of their environment. This approach has proven not only successful but transformative, creating new forms of art, commerce, technology, and social organization that would have been impossible in the pre-Catastrophe era.
 
@@ -634,10 +634,10 @@ Integration research creates opportunities for characters to participate in cutt
 
 ## Connected Locations and Organizations
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Umbral Exchange]] - Commercial system utilizing advanced shadow magic integration
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Threshold]] - Dimensional nexus where shadow magic integration became necessary
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Underwater civilization pioneering shadow magic integration techniques
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] - Surface civilization adapting traditional culture to include shadow magic
+- [[02_Worldbuilding/Lore/Umbral Exchange]] - Commercial system utilizing advanced shadow magic integration
+- [[02_Worldbuilding/Lore/The Threshold]] - Dimensional nexus where shadow magic integration became necessary
+- [[02_Worldbuilding/Places/Aquabyssos]] - Underwater civilization pioneering shadow magic integration techniques
+- [[02_Worldbuilding/Places/Aethermoor]] - Surface civilization adapting traditional culture to include shadow magic
 - [[02_Worldbuilding/Groups/Integration Institute|02 Worldbuilding/Groups/Integration Institute]] - Primary research and educational organization
 - [[02_Worldbuilding/Groups/Shadow Harmonists Guild|02 Worldbuilding/Groups/Shadow Harmonists Guild]] - Professional organization for integration specialists
 - [[02_Worldbuilding/Groups/Cultural Bridge Alliance|02 Worldbuilding/Groups/Cultural Bridge Alliance]] - Organization facilitating cooperation between traditional and integrated communities
@@ -647,8 +647,8 @@ Integration research creates opportunities for characters to participate in cutt
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silver Mask]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -674,4 +674,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor]]

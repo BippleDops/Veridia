@@ -261,10 +261,10 @@ Different altitudes create distinct linguistic environments:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Speak Variations]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Common Idioms and Sayings]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professional Terminology]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Crystal Council]]
+- [[02_Worldbuilding/Lore/Depth Speak Variations]]
+- [[02_Worldbuilding/Lore/Common Idioms and Sayings]]
+- [[02_Worldbuilding/Lore/Professional Terminology]]
+- [[02_Worldbuilding/Lore/Aethermoor Crystal Council]]
 - [[Wind Singer]]
 
 ## Player-Facing Summary

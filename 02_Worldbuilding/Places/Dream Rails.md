@@ -23,16 +23,16 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location Index]]
+- [[02_Worldbuilding/Lore/Location Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Terminal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Palace]]
+- [[02_Worldbuilding/People/Tenebrarum]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Pressure Terminal]]
+- [[02_Worldbuilding/Places/Pressure Tubes]]
+- [[02_Worldbuilding/Places/Royal Palace]]
 
 ## Player-Facing Summary
 

@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Bubble Burst]]
+- [[02_Worldbuilding/Places/Bubble Burst]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Bubble Burst]]
+- [[02_Worldbuilding/Places/Bubble Burst]]
 
 ## Player-Facing Summary
 

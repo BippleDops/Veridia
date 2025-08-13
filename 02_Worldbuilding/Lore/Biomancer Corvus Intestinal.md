@@ -33,17 +33,17 @@ world: Aquabyssos
 *The Flesh Weaver of the Deep Currents*
 
 > *"Life is but clay in the hands of those who understand its true malleable nature. Corvus doesn't simply study biology - he conducts it like a symphony, with each organ, each cell, each breath following his precise orchestration of living harmony."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professor Depth Biologist]], Former Colleague at the [[Institute of Living Sciences]]
+> — [[02_Worldbuilding/Lore/Professor Depth Biologist]], Former Colleague at the [[Institute of Living Sciences]]
 
 ## Overview
 
-Biomancer Corvus Intestinal stands as the most accomplished and simultaneously most feared practitioner of biological manipulation magic in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. His mastery of flesh magic has transcended conventional biomancy to achieve near-perfect control over living systems, earning him recognition as both a revolutionary researcher and a dangerous individual whose experiments push the boundaries of ethical magical practice.
+Biomancer Corvus Intestinal stands as the most accomplished and simultaneously most feared practitioner of biological manipulation magic in [[02_Worldbuilding/Places/Aquabyssos]]. His mastery of flesh magic has transcended conventional biomancy to achieve near-perfect control over living systems, earning him recognition as both a revolutionary researcher and a dangerous individual whose experiments push the boundaries of ethical magical practice.
 
 Corving operates as an independent research specialist, conducting experiments in remote deep-sea locations where his work cannot be directly observed or regulated by conventional authorities. His modifications to his own biology have extended his lifespan and capabilities far beyond normal limits, making him effectively immortal while maintaining perfect mental acuity despite centuries of existence.
 
 His reputation stems from groundbreaking advances in biological adaptation, regenerative medicine, and creature enhancement, but also from disturbing reports of experiments that blur the line between healing and horror. While his techniques have saved countless lives through revolutionary medical applications, his methods and ultimate goals remain subjects of intense debate and concern among the magical community.
 
-Recent developments suggest that Corvus has begun investigating applications of biomancy to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Influence]], seeking to understand whether biological manipulation can provide resistance to or integration with crystal corruption effects, making his current research both potentially invaluable and extraordinarily dangerous.
+Recent developments suggest that Corvus has begun investigating applications of biomancy to [[02_Worldbuilding/Lore/The Crystal Influence]], seeking to understand whether biological manipulation can provide resistance to or integration with crystal corruption effects, making his current research both potentially invaluable and extraordinarily dangerous.
 
 ## Physical Appearance and Biological Modifications
 
@@ -119,7 +119,7 @@ Beyond conventional biomancy, Corvus has developed entirely new categories of ma
 
 ### Research Applications and Innovations
 
-Corving's experimental work has produced revolutionary advances in biological magic while creating techniques and applications that have transformed medical practice throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+Corving's experimental work has produced revolutionary advances in biological magic while creating techniques and applications that have transformed medical practice throughout [[02_Worldbuilding/Places/Aquabyssos]].
 
 **Regenerative Medicine**: Complete restoration of damaged organs and biological systems through guided regeneration that improves upon original functionality.
 
@@ -187,7 +187,7 @@ The consciousness transfer techniques developed through this research have provi
 
 ### Current Crystal Corruption Research
 
-Ready investigation into the interaction between biological systems and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Influence]] represents Corvus's most recent and potentially most dangerous research focus.
+Ready investigation into the interaction between biological systems and [[02_Worldbuilding/Lore/The Crystal Influence]] represents Corvus's most recent and potentially most dangerous research focus.
 
 Early results suggest that properly modified biological systems can provide resistance to crystal corruption while potentially enabling controlled integration with beneficial crystal effects without suffering corruption-related damage.
 
@@ -199,7 +199,7 @@ The potential applications of this research could provide crucial defenses again
 
 ### Medical Revolutionary Applications
 
-Corving's techniques have revolutionized medical practice throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], providing treatments for conditions that were previously considered incurable while dramatically improving the success rates of conventional medical procedures.
+Corving's techniques have revolutionized medical practice throughout [[02_Worldbuilding/Places/Aquabyssos]], providing treatments for conditions that were previously considered incurable while dramatically improving the success rates of conventional medical procedures.
 
 **Universal Healing Protocol**: Development of biological enhancement techniques that enable any individual to heal rapidly from virtually any injury while maintaining perfect health throughout extended lifespans.
 
@@ -243,7 +243,7 @@ Published research has advanced the fundamental understanding of biological magi
 
 ### Crystal Corruption Integration Studies
 
-Ongoing experimental work focuses on understanding whether controlled exposure to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Influence]] can provide beneficial effects without causing corruption while developing biological countermeasures against crystal corruption effects.
+Ongoing experimental work focuses on understanding whether controlled exposure to [[02_Worldbuilding/Lore/The Crystal Influence]] can provide beneficial effects without causing corruption while developing biological countermeasures against crystal corruption effects.
 
 Experimental subjects include volunteers who have received biological modifications designed to provide crystal resistance while enabling controlled interaction with crystal influences for research and defensive purposes.
 
@@ -343,15 +343,15 @@ Public policy discussions have focused on balancing innovation incentives with p
 
 ### Professional Collaborations
 
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professor Depth Biologist]] - Former colleague at the [[Institute of Living Sciences]] who maintains professional correspondence despite philosophical disagreements about research ethics. Their collaboration focuses on theoretical foundations while avoiding direct involvement in experimental work.
+[[02_Worldbuilding/Lore/Professor Depth Biologist]] - Former colleague at the [[Institute of Living Sciences]] who maintains professional correspondence despite philosophical disagreements about research ethics. Their collaboration focuses on theoretical foundations while avoiding direct involvement in experimental work.
 
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Corruption Researcher Prime]] - Recent collaborative partner in crystal corruption research who provides expertise in crystal analysis while benefiting from Corvus's biological expertise. Their joint research has produced significant advances in understanding crystal-biology interactions.
+[[02_Worldbuilding/Lore/Crystal Corruption Researcher Prime]] - Recent collaborative partner in crystal corruption research who provides expertise in crystal analysis while benefiting from Corvus's biological expertise. Their joint research has produced significant advances in understanding crystal-biology interactions.
 
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Sea Environmental Specialist]] - Long-term partner in deep ocean research who provides environmental expertise and logistical support for remote research operations while benefiting from access to advanced biological enhancement techniques.
+[[02_Worldbuilding/Lore/Deep Sea Environmental Specialist]] - Long-term partner in deep ocean research who provides environmental expertise and logistical support for remote research operations while benefiting from access to advanced biological enhancement techniques.
 
 [[Enhancement Ethics Advisor]] - Professional ethicist who provides guidance on research ethics while attempting to balance innovation needs with safety considerations and regulatory compliance requirements.
 
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Medical Applications Coordinator]] - Specialist in translating experimental techniques into practical medical treatments while ensuring appropriate training and safety measures for medical practitioners using advanced biological enhancement techniques.
+[[02_Worldbuilding/Lore/Medical Applications Coordinator]] - Specialist in translating experimental techniques into practical medical treatments while ensuring appropriate training and safety measures for medical practitioners using advanced biological enhancement techniques.
 
 ### Research Subjects and Enhanced Individuals
 
@@ -369,11 +369,11 @@ Public policy discussions have focused on balancing innovation incentives with p
 
 [[Ethics Review Board Chairman]] - Academic leader who has consistently opposed Corvus's research methods while advocating for stronger regulatory oversight and safety requirements for biological enhancement research.
 
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Species Purity Advocate]] - Political activist who opposes biological modification as unnatural interference with normal biological development while organizing resistance to enhancement technology implementation.
+[[02_Worldbuilding/Lore/Species Purity Advocate]] - Political activist who opposes biological modification as unnatural interference with normal biological development while organizing resistance to enhancement technology implementation.
 
 [[02_Worldbuilding/Groups/Regulatory Authority Directo|02 Worldbuilding/Groups/Regulatory Authority Directo]] - Government official responsible for oversight of magical research who has attempted to impose restrictions on Corvus's experimental work while balancing safety concerns with innovation benefits.
 
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Traditional Medicine Spokesman]] - Medical professional who argues that conventional healing techniques are safer and more appropriate than biological enhancement while opposing the adoption of experimental medical treatments.
+[[02_Worldbuilding/Lore/Traditional Medicine Spokesman]] - Medical professional who argues that conventional healing techniques are safer and more appropriate than biological enhancement while opposing the adoption of experimental medical treatments.
 
 [[Environmental Protection Specialist]] - Scientist who has raised concerns about the ecological impact of new species creation while advocating for comprehensive environmental impact studies before implementing large-scale biological modification projects.
 
@@ -478,8 +478,8 @@ Corving's advanced medical techniques provide solutions to medical crises that c
 ## Connected Locations and Organizations
 - [[02_Worldbuilding/Lore/Aquabyssos|02 Worldbuilding/Lore/Aquabyssos]] - Primary realm where Corvus conducts his research
 - [[02_Worldbuilding/Lore/Institute of Living Sciences|02 Worldbuilding/Lore/Institute Of Living Sciences]] - Academic institution where Corvus received his training
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Influence]] - Corruption phenomenon studied in current research
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spell Lists]] - Catalog including biological manipulation spells
+- [[02_Worldbuilding/Lore/The Crystal Influence]] - Corruption phenomenon studied in current research
+- [[02_Worldbuilding/Lore/Spell Lists]] - Catalog including biological manipulation spells
 - [[02_Worldbuilding/Lore/Deep Sea Research Facilities|02 Worldbuilding/Lore/Deep Sea Research Facilities]] - Remote locations where advanced experiments are conducted
 - [[02_Worldbuilding/People/Professor Depth Biologist|02 Worldbuilding/People/Professor Depth Biologist]] - Former colleague and current correspondent
 - [[02_Worldbuilding/People/Crystal Corruption Researcher Prime|02 Worldbuilding/People/Crystal Corruption Researcher Prime]] - Current collaborative research partner
@@ -487,7 +487,7 @@ Corving's advanced medical techniques provide solutions to medical crises that c
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
 
 ## Player-Facing Summary
 

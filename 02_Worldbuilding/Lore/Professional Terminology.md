@@ -325,11 +325,11 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Common Idioms and Sayings]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Speak Variations]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Wind Song Linguistic Guide]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Swear Words and Curses]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/The Traders Guild]]
+- [[02_Worldbuilding/Lore/Common Idioms and Sayings]]
+- [[02_Worldbuilding/Lore/Depth Speak Variations]]
+- [[02_Worldbuilding/Lore/Wind Song Linguistic Guide]]  
+- [[02_Worldbuilding/Lore/Swear Words and Curses]]
+- [[02_Worldbuilding/Groups/Guilds/The Traders Guild]]
 - [[Crystal Engineering Guild]]
 - [[Deep Mining Guild]]
 

@@ -3,13 +3,13 @@ category: Religious-Historical Event
 created: '2025-08-11'
 created_by: cultural-expansion
 related_entities:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'
+- '[[02_Worldbuilding/Lore/The Deep Mother]]'
 - '[[02_Worldbuilding/Lore/Aetheron]]'
 - '[[02_Worldbuilding/Lore/The Shattering of the Crown]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Drowning]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]'
+- '[[02_Worldbuilding/Lore/The Drowning]]'
+- '[[02_Worldbuilding/Lore/The Convergence Point]]'
 - '[[02_Worldbuilding/Lore/The Seven Betrayers]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]]'
+- '[[02_Worldbuilding/Lore/Queen Seraphina]]'
 significance: Reality-Altering
 status: complete
 tags:
@@ -96,7 +96,7 @@ Remarkably, both civilizations developed extensive prophetic traditions around t
 
 **Historical Fulfillment:**
 - [[02_Worldbuilding/Lore/The Shattering of the Crown]] in Aethermoor (Year 1 GC)
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Drowning]] beginning simultaneously in Aquabyssos
+- [[02_Worldbuilding/Lore/The Drowning]] beginning simultaneously in Aquabyssos
 - Seven crown fragments corresponding to seven major current systems in Aquabyssos
 - Crystal technology evolution matching underwater pressure technology
 
@@ -109,7 +109,7 @@ Remarkably, both civilizations developed extensive prophetic traditions around t
 *"She who dreams beneath all waters shall stir when the light-bearer falls. Her awakening song reaches through stone and crystal, through air and current, calling the scattered children home."*
 
 **Prophetic Elements:**
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s increasing activity as crystal formations destabilize
+- [[02_Worldbuilding/Lore/The Deep Mother]]'s increasing activity as crystal formations destabilize
 - Her "song" - psychic emanations affecting both worlds
 - "Scattered children" - inhabitants of both Aquabyssos and Aethermoor
 - The call "home" - to a merged state of existence
@@ -124,7 +124,7 @@ Remarkably, both civilizations developed extensive prophetic traditions around t
 *"A queen of two faces, one crystal-crowned, one depth-blessed, shall open the way between worlds. Through her choice, the paths converge or divide forever."*
 
 **The Queen Identified:**
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]] of Aethermoor, whose bloodline carries both surface nobility and connection to deep mysteries
+- [[02_Worldbuilding/Lore/Queen Seraphina]] of Aethermoor, whose bloodline carries both surface nobility and connection to deep mysteries
 - Her "crystal crown" representing her Aethermoor royal status
 - Her "depth-blessing" through ancestral connection to pre-Drowning nobility
 - Her position as the critical decision-maker for convergence
@@ -286,7 +286,7 @@ Remarkably, both civilizations developed extensive prophetic traditions around t
 ### The Great Catalysts (500-1 YBC)
 **Era of Preparation**
 - Prophecies become increasingly specific about timing and individuals
-- Predictions of the great transformative events ([[02_Worldbuilding/Lore/The Shattering of the Crown]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Drowning]])
+- Predictions of the great transformative events ([[02_Worldbuilding/Lore/The Shattering of the Crown]], [[02_Worldbuilding/Lore/The Drowning]])
 - Religious and political leaders begin making decisions based on prophetic guidance
 
 ### The Transformation Era (1-500 Years Post-Catalyst)
@@ -315,7 +315,7 @@ Remarkably, both civilizations developed extensive prophetic traditions around t
 
 ## Key Figures in Prophecy
 
-### The Prophesied Queen: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]]
+### The Prophesied Queen: [[02_Worldbuilding/Lore/Queen Seraphina]]
 **Role in Prophecy:** The "Portal Queen" who determines convergence outcome
 **Prophetic Attributes:**
 - Bloodline connection to both worlds through ancient noble ancestry
@@ -328,7 +328,7 @@ Remarkably, both civilizations developed extensive prophetic traditions around t
 - Experiencing increasing prophetic dreams and dimensional sensitivity
 - Key decisions approaching that will determine her path toward or away from convergence
 
-### The Deep Mother: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+### The Deep Mother: [[02_Worldbuilding/Lore/The Deep Mother]]
 **Role in Prophecy:** The cosmic force orchestrating convergence from beneath
 **Prophetic Attributes:**
 - Ancient entity whose dreams influence reality in both worlds
@@ -449,10 +449,10 @@ Remarkably, both civilizations developed extensive prophetic traditions around t
 **Goal:** Maintaining world separation through spiritual barriers
 
 #### The Deep Mother Cult (Primarily Aquabyssos)
-**Beliefs:** Convergence serves [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s cosmic awakening
+**Beliefs:** Convergence serves [[02_Worldbuilding/Lore/The Deep Mother]]'s cosmic awakening
 **Practices:** Deep-sea meditation, pressure rituals, dream communion
 **Leadership:** Deep-dwelling oracles claiming direct divine communication
-**Goal:** Facilitating [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s awakening through convergence
+**Goal:** Facilitating [[02_Worldbuilding/Lore/The Deep Mother]]'s awakening through convergence
 
 #### The Shard Seekers (Primarily Aethermoor)
 **Beliefs:** Reuniting the shattered crown pieces will enable proper convergence
@@ -609,16 +609,16 @@ Remarkably, both civilizations developed extensive prophetic traditions around t
 
 ## Connected References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] - Divine entity orchestrating convergence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]] - Key prophetic figure determining convergence outcome
+- [[02_Worldbuilding/Lore/The Deep Mother]] - Divine entity orchestrating convergence
+- [[02_Worldbuilding/Lore/Queen Seraphina]] - Key prophetic figure determining convergence outcome
 - [[02_Worldbuilding/Lore/The Shattering of the Crown]] - Catalyst event beginning convergence process
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Drowning]] - Parallel transformation in Aquabyssos
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]] - Physical/temporal location where merger occurs
+- [[02_Worldbuilding/Lore/The Drowning]] - Parallel transformation in Aquabyssos
+- [[02_Worldbuilding/Lore/The Convergence Point]] - Physical/temporal location where merger occurs
 - [[02_Worldbuilding/Lore/The Seven Betrayers]] - Bloodlines carrying convergence abilities
 - [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Ancient witness to prophetic traditions
 - [[02_Worldbuilding/Lore/The Memory Vaults]] - Repositories of prophetic records
 - [[Crystal Resonance Chambers]] - Aethermoor prophetic sites
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Depth Oracles]] - Aquabyssos prophetic tradition
+- [[02_Worldbuilding/Lore/The Depth Oracles]] - Aquabyssos prophetic tradition
 - [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Echoes]] - Political body dealing with convergence preparations
 - [[02_Worldbuilding/Places/The Shadow Markets]] - Places where convergence phenomena are strongest
 
@@ -632,7 +632,7 @@ Remarkably, both civilizations developed extensive prophetic traditions around t
 - [[02_Worldbuilding/Lore/Eastern Kingdoms]]
 - [[02_Worldbuilding/Lore/Silver Mask]]
 - [[02_Worldbuilding/Lore/Temple of the First Tide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
 - [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
 - [[02_Worldbuilding/Lore/The Restoration Movement]]
 - [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
@@ -661,7 +661,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/The Convergence Point]]
 - [[02_Worldbuilding/Lore/The Seven Betrayers]]
 - [[02_Worldbuilding/Lore/The Shattering of the Crown]]
 - [[02_Worldbuilding/People/Aboleth Prime Yoth]]

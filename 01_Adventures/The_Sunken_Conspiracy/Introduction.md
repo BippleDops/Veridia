@@ -34,7 +34,7 @@ world: Aquabyssos
 
 ### Synopsis
 
-The busy port of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] has become plagued by mysterious ship disappearances. What begins as a simple investigation into missing merchant vessels soon unravels a complex conspiracy involving smugglers, corrupt officials, and ancient technology that threatens the stability of both Aquabyssos and the surface world. The party must navigate treacherous political waters, pursue enemies through pressure tube systems, infiltrate a hidden smuggling base, and ultimately confront a conspiracy that reaches to the highest levels of government.
+The busy port of [[02_Worldbuilding/Places/Port Meridian]] has become plagued by mysterious ship disappearances. What begins as a simple investigation into missing merchant vessels soon unravels a complex conspiracy involving smugglers, corrupt officials, and ancient technology that threatens the stability of both Aquabyssos and the surface world. The party must navigate treacherous political waters, pursue enemies through pressure tube systems, infiltrate a hidden smuggling base, and ultimately confront a conspiracy that reaches to the highest levels of government.
 
 ### Central Mystery
 
@@ -91,7 +91,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 
 ### Allies and Contacts
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]**
+**[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**
 - Secret leader of the [[02_Worldbuilding/Groups/Free Current|02 Worldbuilding/Groups/Free Current]] resistance
 - Provides official authority and underground connections
 - Torn between her duties and her conscience
@@ -117,7 +117,7 @@ The adventure is designed as a five-session investigation with multiple paths an
 - Commands significant resources and loyal agents
 - Complex motivations involving family and survival
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Marrow Drinker]]** (Recurring Threat)
+**[[02_Worldbuilding/People/Captain Marrow Drinker]]** (Recurring Threat)
 - Vampire pirate working with the conspiracy
 - Provides the muscle for major operations
 - Operates from the shadows with supernatural crew

@@ -29,17 +29,17 @@ world: Both
 ## The Grand Transportation Nexus of Aquabyssos
 
 > *"All currents lead through the Terminal. From the deepest trenches to the shallowest reefs, every journey of consequence begins or ends here."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Terminal Master Hadrian Depthbridge]]
+> — [[02_Worldbuilding/Places/Terminal Master Hadrian Depthbridge]]
 
 ## Overview
 
-The Pressure Terminal stands as the most sophisticated transportation facility in all of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], serving as the central hub for the realm's revolutionary pressure-tube transit system. This massive complex processes over 50,000 passengers daily, connecting the capital [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] to dozens of cities, outposts, and installations throughout the underwater kingdom. The Terminal represents the pinnacle of pressure engineering, featuring advanced compression chambers, automated routing systems, and safety protocols that make high-speed underwater travel possible across vast distances.
+The Pressure Terminal stands as the most sophisticated transportation facility in all of [[02_Worldbuilding/Places/Aquabyssos]], serving as the central hub for the realm's revolutionary pressure-tube transit system. This massive complex processes over 50,000 passengers daily, connecting the capital [[02_Worldbuilding/Places/Abyssos Prime]] to dozens of cities, outposts, and installations throughout the underwater kingdom. The Terminal represents the pinnacle of pressure engineering, featuring advanced compression chambers, automated routing systems, and safety protocols that make high-speed underwater travel possible across vast distances.
 
 ## History and Development
 
 ### The Early Experiments
 **Period**: 150 years ago during the reign of King Bathys the Bold  
-**Innovation**: First successful long-distance pressure tube created by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Engineer Cordelia Pressurewright]]  
+**Innovation**: First successful long-distance pressure tube created by [[02_Worldbuilding/Places/Master Engineer Cordelia Pressurewright]]  
 **Distance**: Initial 5-mile tube connecting palace to military outpost  
 **Challenges**: Early systems were slow, dangerous, and could only carry messages  
 **Breakthrough**: Discovery of pressure-amplification crystals enabled passenger transport
@@ -64,7 +64,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Renovation**: Completed 20 years ago with latest pressure-crystal technology  
 **Capacity**: Current system can handle 100,000 passengers per day  
 **Automation**: Advanced magical-mechanical systems reduce human error  
-**Integration**: Connected with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Dream Rails]] surface transport system  
+**Integration**: Connected with [[02_Worldbuilding/Places/Dream Rails]] surface transport system  
 **Expansion Plans**: New routes to distant colonies and allied underwater nations
 
 ## Architecture and Layout
@@ -306,7 +306,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Capacity**: Large cargo pods carrying tons of goods per trip  
 **Schedule**: Coordinated with business needs and shipping requirements  
 **Specialized**: Temperature-controlled pods for perishables, secure pods for valuables  
-**Integration**: Connects with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District]] and other commercial facilities
+**Integration**: Connects with [[02_Worldbuilding/Places/Harbor District]] and other commercial facilities
 
 #### Medical Emergency
 **Service**: Rapid transport for critical medical cases  
@@ -348,7 +348,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 ## Staff and Personnel
 
 ### Terminal Management
-**Terminal Master [[vault_backup_20250813_073007/02_Worldbuilding/Places/Hadrian Depthbridge]]**: Overall facility operations and policy  
+**Terminal Master [[02_Worldbuilding/Places/Hadrian Depthbridge]]**: Overall facility operations and policy  
 **Assistant Directors**: Specialized management for different terminal areas  
 **Shift Supervisors**: 24-hour operational oversight and problem resolution  
 **Department Heads**: Engineering, Security, Customer Service, Maintenance  
@@ -370,28 +370,28 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 
 ### Notable NPCs
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Terminal Master Hadrian Depthbridge]]
+#### [[02_Worldbuilding/Places/Terminal Master Hadrian Depthbridge]]
 **Background**: 25-year veteran of pressure-tube operations, former senior engineer  
 **Personality**: Methodical, safety-obsessed, excellent under pressure (literally and figuratively)  
 **Challenge**: Balancing operational efficiency with absolute safety requirements  
 **Reputation**: Known for never having a fatal accident during his tenure  
 **Personal**: Haunted by a major accident early in his career, now obsessively thorough
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chief Engineer Marina Crystalwright]]
+#### [[02_Worldbuilding/Places/Chief Engineer Marina Crystalwright]]
 **Role**: Head of all technical operations and system maintenance  
 **Expertise**: Revolutionary advances in pressure-crystal technology  
 **Innovation**: Developed current generation of safety and efficiency improvements  
 **Personality**: Brilliant but impatient with bureaucracy and inefficiency  
 **Secret**: Working on experimental technology for interplanar pressure travel
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Security Chief Corwin Ironshell]]
+#### [[02_Worldbuilding/Places/Security Chief Corwin Ironshell]]
 **Background**: Former military officer specializing in underwater combat and security  
 **Responsibility**: All terminal security, coordination with law enforcement  
 **Skills**: Expert in crowd control, emergency response, threat assessment  
 **Challenge**: Balancing security needs with smooth passenger flow  
 **Network**: Extensive contacts throughout Aquabyssos military and police
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Customer Relations Director Seraphina Calmcurrent]]
+#### [[02_Worldbuilding/Places/Customer Relations Director Seraphina Calmcurrent]]
 **Role**: Managing passenger experience, resolving complaints and problems  
 **Personality**: Diplomatic, patient, skilled at de-escalating tense situations  
 **Languages**: Fluent in 12 languages and dialects used throughout the kingdom  
@@ -460,7 +460,7 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 **Government**: Military supplies, administrative documents, diplomatic materials  
 **Specialized**: Medical supplies, research materials, high-value goods  
 **Competition**: Competes with slower but cheaper sea transport for some cargo  
-**Integration**: Coordinates with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District]] and other transportation hubs
+**Integration**: Coordinates with [[02_Worldbuilding/Places/Harbor District]] and other transportation hubs
 
 ### Economic Multiplier Effects
 **Tourism**: Enables travel between regions, supporting hospitality industries  
@@ -562,28 +562,28 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] - Capital City
+### [[02_Worldbuilding/Places/Abyssos Prime]] - Capital City
 **Integration**: Terminal is central hub connecting all districts of the capital  
 **Government**: Direct administrative oversight and funding  
 **Population**: Major portion of daily passengers are capital residents  
 **Economy**: Critical infrastructure supporting capital's economic activity  
 **Politics**: Terminal operations closely monitored by royal government
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District]] - Maritime Connection
+### [[02_Worldbuilding/Places/Harbor District]] - Maritime Connection
 **Coordination**: Integrated scheduling with ship arrivals and departures  
 **Cargo**: Transfer point between sea transport and pressure-tube system  
 **Passengers**: International travelers often use both systems  
 **Infrastructure**: Physical connections and shared support services  
 **Commerce**: Complementary rather than competitive transportation options
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deep Patrol]] - Military Coordination
+### [[02_Worldbuilding/Places/The Deep Patrol]] - Military Coordination
 **Security**: Joint operations for terminal security and threat response  
 **Transportation**: Military personnel use terminal for rapid deployment  
 **Intelligence**: Information sharing about potential security threats  
 **Emergency**: Military backup available for major terminal emergencies  
 **Training**: Joint training exercises for emergency response scenarios
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Portal Alpha]] - International Gateway
+### [[02_Worldbuilding/Places/Surface Portal Alpha]] - International Gateway
 **Connection**: Direct pressure-tube route to surface portal facility  
 **Integration**: Coordinated processing of international passengers  
 **Diplomacy**: Shared protocols for diplomatic and government travel  
@@ -630,31 +630,31 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 ---
 
 **Related Locations**:  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deep Patrol]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Portal Alpha]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Dream Rails]]  
+- [[02_Worldbuilding/Places/Abyssos Prime]]  
+- [[02_Worldbuilding/Places/Harbor District]]  
+- [[02_Worldbuilding/Places/The Deep Patrol]]  
+- [[02_Worldbuilding/Places/Surface Portal Alpha]]  
+- [[02_Worldbuilding/Places/Dream Rails]]  
 
 **Related NPCs**:  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Terminal Master Hadrian Depthbridge]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chief Engineer Marina Crystalwright]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Security Chief Corwin Ironshell]]  
+- [[02_Worldbuilding/Places/Terminal Master Hadrian Depthbridge]]  
+- [[02_Worldbuilding/Places/Chief Engineer Marina Crystalwright]]  
+- [[02_Worldbuilding/Places/Security Chief Corwin Ironshell]]  
 - [[Royal Transit Authority]]  
 
 **Related Items and Concepts**:  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure-Tube System]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Transportation Pods]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Crystals]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Emergency Protocols]]
+- [[02_Worldbuilding/Places/Pressure-Tube System]]  
+- [[02_Worldbuilding/Places/Transportation Pods]]  
+- [[02_Worldbuilding/Places/Pressure Crystals]]  
+- [[02_Worldbuilding/Places/Emergency Protocols]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Noble Quarter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]]
+- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[02_Worldbuilding/Places/Harbor District]]
+- [[02_Worldbuilding/Places/Noble Quarter]]
+- [[02_Worldbuilding/Places/The Inverse Palace]]
 
 ## Player-Facing Summary
 
@@ -676,9 +676,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Terminal]]
+- [[02_Worldbuilding/Places/Pressure Terminal]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Portal Alpha]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deep Patrol]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Surface Portal Alpha]]
+- [[02_Worldbuilding/Places/The Deep Patrol]]

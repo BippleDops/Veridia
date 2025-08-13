@@ -162,7 +162,7 @@ This heist emphasizes planning and teamwork over combat. Reward creative problem
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/Places/The Phosphor Markets]]
 
 ## Player-Facing Summary
 
@@ -174,6 +174,6 @@ Legends speak of Market Heist as a nexus where past and present converge. Locals
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market Heist]]
+- [[02_Worldbuilding/Places/Market Heist]]
 
 <!-- enriched: true -->

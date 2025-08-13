@@ -380,10 +380,10 @@ Fort Pressureborn connects to numerous important elements throughout Aquabyssos 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
 
@@ -405,6 +405,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Commander Drake Pressureborn]]
+- [[02_Worldbuilding/Places/Commander Drake Pressureborn]]
 
 <!-- enriched: true -->

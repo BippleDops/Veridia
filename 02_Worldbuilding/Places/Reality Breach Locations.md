@@ -297,11 +297,11 @@ Remember that breaches are inherently unstable - they should feel dangerous even
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
 - [[Complete Deep Mother Subsystem]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Anchors]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Lore]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]]
+- [[02_Worldbuilding/Lore/Reality Anchors]]
+- [[02_Worldbuilding/Lore/Deep Mother Lore]]
+- [[02_Worldbuilding/Lore/Shadow Corruption]]
 - [[Avatar Manifestations]]
 - [[Temporal Mechanics]]
 - [[Void Shepherds]]

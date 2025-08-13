@@ -24,7 +24,7 @@ tags:
 # Ambassador Nerida Deepcurrent
 
 ## Overview
-The enigmatic envoy from the Tidal Courts of Aquabyssos, a vast underwater empire thought lost to legend. Nerida arrived in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] six months ago, claiming to represent the "Drowned Parliament"—a coalition of submerged civilizations that have thrived beneath the waves for centuries.
+The enigmatic envoy from the Tidal Courts of Aquabyssos, a vast underwater empire thought lost to legend. Nerida arrived in [[02_Worldbuilding/Places/Crystalhaven]] six months ago, claiming to represent the "Drowned Parliament"—a coalition of submerged civilizations that have thrived beneath the waves for centuries.
 
 ## Appearance
 - Aquamarine skin with bioluminescent markings that pulse with emotion
@@ -58,11 +58,11 @@ The enigmatic envoy from the Tidal Courts of Aquabyssos, a vast underwater empir
 - Warlock invocations granting water control and psychic abilities
 
 ## Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Maintains cordial diplomatic relations while secretly assessing her weakness
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]**: Sees him as potentially useful for future succession manipulation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]]**: Knows his ships have discovered Aquabyssos ruins; wants him silenced or recruited
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]**: Trading partner for smuggling operations between surface and depths
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]**: Fascinated by his crystal technology; secretly offers deep-sea materials
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Maintains cordial diplomatic relations while secretly assessing her weakness
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]**: Sees him as potentially useful for future succession manipulation
+- **[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]**: Knows his ships have discovered Aquabyssos ruins; wants him silenced or recruited
+- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Trading partner for smuggling operations between surface and depths
+- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]**: Fascinated by his crystal technology; secretly offers deep-sea materials
 - **Sister Morwyn Veilkeeper**: Exchanges prophetic visions about the coming convergence
 
 ## Current Activities
@@ -78,7 +78,7 @@ The enigmatic envoy from the Tidal Courts of Aquabyssos, a vast underwater empir
 > - Knows that three of the Seven Shards originated from Aquabyssos temples
 > - Has been marking key surface dwellers with invisible deep-marks for future "collection"
 > - The palanquin water contains a scrying pool linked to the Sunken Sovereign
-> - Plans to trigger controlled flooding of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] to establish an Aquabyssos foothold
+> - Plans to trigger controlled flooding of [[02_Worldbuilding/Places/Port Meridian]] to establish an Aquabyssos foothold
 > - Carries a Tide Pearl that can summon a tsunami once per year
 
 ## Embassy: The Cerulean Depths
@@ -90,7 +90,7 @@ Located in Crystalhaven's Embassy Quarter, her residence is a architectural marv
 
 ## Plot Hooks
 1. Hires party to retrieve a sunken relic from pre-drowning ruins
-2. Requests escort to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] for "trade negotiations"
+2. Requests escort to [[02_Worldbuilding/Places/Port Meridian]] for "trade negotiations"
 3. Offers valuable information about underwater passages in exchange for crystal samples
 4. Needs discrete investigation of ships that have been exploring too deep
 
@@ -106,14 +106,14 @@ Nerida represents the looming threat of Aquabyssos while maintaining plausible d
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Kraken Territories]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marriage Between Worlds]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Lore/Kraken Territories]]
+- [[02_Worldbuilding/Lore/Marriage Between Worlds]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
 - [[Jasper Three-Eyes Flint]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Mayor Thompson]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Pearl Guard]]
+- [[02_Worldbuilding/People/Mayor Thompson]]
+- [[02_Worldbuilding/People/Senator]]
+- [[02_Worldbuilding/People/The Pearl Guard]]
 
 
 ## Goals
@@ -143,6 +143,6 @@ Legends speak of Ambassador Nerida Deepcurrent as a nexus where past and present
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
+- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
 
 <!-- enriched: true -->

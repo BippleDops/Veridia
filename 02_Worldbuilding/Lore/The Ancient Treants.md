@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Emerald Sage Willowbark]]
+- [[02_Worldbuilding/People/The Emerald Sage Willowbark]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Emerald Sage Willowbark]]
+- [[02_Worldbuilding/People/The Emerald Sage Willowbark]]
 
 ## Player-Facing Summary
 

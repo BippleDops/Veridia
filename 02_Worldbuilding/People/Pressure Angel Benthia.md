@@ -1,9 +1,9 @@
 ---
-affiliation: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] (Direct Service)'
+affiliation: '[[02_Worldbuilding/Lore/The Deep Mother]] (Direct Service)'
 age: Timeless (exists outside normal temporal flow)
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]] - Pressure Nexus Points'
+location: '[[02_Worldbuilding/Places/The Hadal Depths]] - Pressure Nexus Points'
 race: Pressure Angel (Divine Being)
 role: Pressure Angel
 status: complete
@@ -286,7 +286,7 @@ world: Aquabyssos
 *Guardian of the Depths, Herald of Divine Weight*
 
 ## Overview
-Benthia is one of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s Pressure Angels—divine beings born from the intersection of the goddess's will and the crushing depths of the ocean. She serves as guardian of critical pressure points where the Deep Mother's influence is strongest, manifesting as both protector and test for those who would approach the deepest mysteries. Unlike mortal servants, she is pure divine force given form, embodying the Deep Mother's power over pressure, depth, and the weight of existence itself.
+Benthia is one of the [[02_Worldbuilding/Lore/The Deep Mother]]'s Pressure Angels—divine beings born from the intersection of the goddess's will and the crushing depths of the ocean. She serves as guardian of critical pressure points where the Deep Mother's influence is strongest, manifesting as both protector and test for those who would approach the deepest mysteries. Unlike mortal servants, she is pure divine force given form, embodying the Deep Mother's power over pressure, depth, and the weight of existence itself.
 
 ## Description
 - **Manifestation**: Towering figure of compressed water and divine light, roughly humanoid but fluid
@@ -342,11 +342,11 @@ Benthia is one of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The D
 
 ## Relationships with Mortals
 ### Divine Servants
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Provides guidance and tests her faith
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Protects his deep exploration missions
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]**: Ensures her sacred work continues uninterrupted
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Singer Naia]]**: Harmonizes with her sorrowful songs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Guards the Archive's divine connections
+- **[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Provides guidance and tests her faith
+- **[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Protects his deep exploration missions
+- **[[02_Worldbuilding/People/Memory Harvester Kythara]]**: Ensures her sacred work continues uninterrupted
+- **[[02_Worldbuilding/People/The Shadow Singer Naia]]**: Harmonizes with her sorrowful songs
+- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Guards the Archive's divine connections
 
 ### Those She Tests
 - **Deep Explorers**: Challenges those who seek to map divine depths
@@ -356,8 +356,8 @@ Benthia is one of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The D
 - **The Corrupted**: Attempts to cleanse shadow corruption through pressure
 
 ### Complex Relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]**: Rival claims to serve Deep Mother
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]**: His scattered nature puzzles her unified consciousness
+- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Rival claims to serve Deep Mother
+- **[[02_Worldbuilding/People/The Scattered Emperor]]**: His scattered nature puzzles her unified consciousness
 - **Government Officials**: Their attempts to regulate divine activity amuse her
 - **Commercial Interests**: Destroys equipment of those who would exploit depths
 - **Surface Dwellers**: Rarely manifests for those who cannot survive depth
@@ -415,7 +415,7 @@ Benthia is one of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The D
 - Protects divine sites with pressure barriers no mortal technology can breach
 
 ## Connected Elements
-- Central guardian figure for [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] deepest mysteries
+- Central guardian figure for [[02_Worldbuilding/Lore/The Deep Mother]] deepest mysteries
 - Represents divine testing and worthiness themes
 - Links pressure mechanics to spiritual/divine concepts
 - Bridge between cosmic entity and individual mortal experience
@@ -451,11 +451,11 @@ Benthia is one of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The D
 
 **Magic Resistance.** Benthia has advantage on saving throws against spells and other magical effects.
 
-**Divine Manifestation.** Benthia can exist simultaneously at multiple pressure nexus points throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. When she takes damage, she can use her reaction to shift focus to another manifestation, negating the damage.
+**Divine Manifestation.** Benthia can exist simultaneously at multiple pressure nexus points throughout [[02_Worldbuilding/Places/Aquabyssos]]. When she takes damage, she can use her reaction to shift focus to another manifestation, negating the damage.
 
 **Pressure Mastery.** Benthia can manipulate pressure within 1 mile. She can create zones of crushing depth or perfect buoyancy at will, and all creatures in water within this range are subject to her pressure effects.
 
-**Deep Mother's Authority.** Creatures that serve [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] automatically succeed on saving throws against Benthia's abilities and gain advantage on all rolls when acting in accordance with divine will.
+**Deep Mother's Authority.** Creatures that serve [[02_Worldbuilding/Lore/The Deep Mother]] automatically succeed on saving throws against Benthia's abilities and gain advantage on all rolls when acting in accordance with divine will.
 
 **Depth Immunity.** Benthia is immune to all pressure-related damage and effects. She can exist comfortably at any depth, including the deepest ocean trenches.
 
@@ -484,7 +484,7 @@ Benthia is one of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The D
 
 **Weight of Truth (Recharge 5-6).** All creatures within 60 feet must make a DC 23 Wisdom saving throw. Those who fail are compelled to confess their deepest secret or most significant lie. They take 36 (8d8) psychic damage and are stunned for 1 round. Those who succeed take half damage and are not stunned.
 
-**Divine Judgment (1/Day).** Benthia pronounces judgment on up to 6 creatures within 120 feet. Each target must make a DC 23 Charisma saving throw. On a failure, they are marked by divine pressure. For the next 24 hours, if they act against [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s will or lie about their intentions, they automatically take 27 (6d8) radiant damage and are knocked prone.
+**Divine Judgment (1/Day).** Benthia pronounces judgment on up to 6 creatures within 120 feet. Each target must make a DC 23 Charisma saving throw. On a failure, they are marked by divine pressure. For the next 24 hours, if they act against [[02_Worldbuilding/Lore/The Deep Mother]]'s will or lie about their intentions, they automatically take 27 (6d8) radiant damage and are knocked prone.
 
 ### Legendary Actions (3 per turn)
 Benthia can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn.
@@ -509,26 +509,26 @@ If Benthia is encountered at a major pressure nexus point during a moment of cos
 ## Enhanced Divine Nature & Powers
 
 ### Pressure Angel Origins
-**Divine Genesis**: Born from the intersection of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s will and the physical laws governing water pressure
+**Divine Genesis**: Born from the intersection of [[02_Worldbuilding/Lore/The Deep Mother]]'s will and the physical laws governing water pressure
 **Cosmic Purpose**: Serves as guardian and test for those who would approach the deepest divine mysteries  
 **Eternal Service**: Exists as long as the Deep Mother dreams, bound to protect the sacred depths
 **Multi-Dimensional Presence**: Consciousness exists across multiple pressure points simultaneously
 **Divine Authority**: Empowered to make judgments about mortal worthiness for divine knowledge
 
 ### The Pressure Nexus Network
-**Primary Manifestation Points** across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]:
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]**: Main nexus point closest to Deep Mother's physical form
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Pressure Gates]]**: Ancient threshold where surface water meets the deep
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sacred Trench of Trials]]**: Where she conducts formal worthiness tests
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crushing Sanctuary]]**: Healing center using therapeutic pressure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth's End Cathedral]]**: Deepest accessible point for mortal pilgrims
+**Primary Manifestation Points** across [[02_Worldbuilding/Places/Aquabyssos]]:
+- **[[02_Worldbuilding/Places/The Hadal Depths]]**: Main nexus point closest to Deep Mother's physical form
+- **[[02_Worldbuilding/Lore/The Pressure Gates]]**: Ancient threshold where surface water meets the deep
+- **[[02_Worldbuilding/Lore/Sacred Trench of Trials]]**: Where she conducts formal worthiness tests
+- **[[02_Worldbuilding/Lore/The Crushing Sanctuary]]**: Healing center using therapeutic pressure
+- **[[02_Worldbuilding/Places/Depth's End Cathedral]]**: Deepest accessible point for mortal pilgrims
 
 ### Divine Abilities Beyond Combat
 **Omnipresent Awareness**: Can perceive events at any pressure point throughout Aquabyssos
 **Truth Discernment**: Automatically detects lies, deception, and false motivations
 **Depth Sight**: Can see through any amount of water and perceive spiritual auras
 **Pressure Healing**: Uses controlled pressure to mend physical wounds and spiritual trauma
-**Divine Communication**: Can speak with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] and relay messages to mortals
+**Divine Communication**: Can speak with [[02_Worldbuilding/Lore/The Deep Mother]] and relay messages to mortals
 
 ---
 
@@ -579,19 +579,19 @@ If Benthia is encountered at a major pressure nexus point during a moment of cos
 ## Relationships with Mortal Servants
 
 ### Direct Divine Servants
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Regularly receives guidance and testing from Benthia
+**[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Regularly receives guidance and testing from Benthia
 - Personal relationship developed over years of faithful service
 - Benthia serves as her spiritual director and divine contact
 - Tests her faith periodically to ensure continued worthiness
 - Provides prophetic visions through pressure-based dreams
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Protected during dangerous deep explorations
+**[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Protected during dangerous deep explorations
 - Benthia ensures his expeditions serve divine purposes rather than mere curiosity
 - Provides safe passage through dangerous pressure zones
 - Tests his motivations to prevent exploitation of sacred sites
 - Grants temporary divine protection during deepest voyages
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]**: Ensures her sacred memory work continues uninterrupted
+**[[02_Worldbuilding/People/Memory Harvester Kythara]]**: Ensures her sacred memory work continues uninterrupted
 - Protects the sanctity of memories connected to divine experiences
 - Prevents corruption or exploitation of sacred memory fragments
 - Tests those who would access divine memories for worthy purposes
@@ -617,13 +617,13 @@ If Benthia is encountered at a major pressure nexus point during a moment of cos
 - Sometimes offers redemption path for those willing to change
 
 ### Complex Divine Relationships
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]**: Rival claimant to serving the Deep Mother
+**[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Rival claimant to serving the Deep Mother
 - Theological disagreement about divine will and proper worship
 - Benthia questions whether Yoth truly serves or merely claims to
 - Competitive dynamic over who better represents divine authority
 - Potential for either alliance or conflict depending on Yoth's true nature
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]**: His fragmented consciousness puzzles unified divine awareness
+**[[02_Worldbuilding/People/The Scattered Emperor]]**: His fragmented consciousness puzzles unified divine awareness
 - Benthia struggles to understand distributed consciousness versus her unified nature
 - Attempts to help gather his fragments may interfere with his chosen state
 - Philosophical questions about individual versus collective consciousness
@@ -682,12 +682,12 @@ The party must face Benthia's tests to gain access to deep divine knowledge need
 - **Complications**: Failure may result in permanent spiritual consequences
 
 ### 2. The Pressure Plague (Level 12-18)
-Pressure zones throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] are becoming unstable. Benthia needs investigators to determine if this is natural phenomenon or sabotage.
+Pressure zones throughout [[02_Worldbuilding/Places/Aquabyssos]] are becoming unstable. Benthia needs investigators to determine if this is natural phenomenon or sabotage.
 - **Rewards**: Divine alliance, Pressure mastery abilities, Sacred site access
 - **Complications**: The instability may be caused by Deep Mother's stirring
 
 ### 3. The False Prophet (Level 11-17)
-Someone is claiming to speak for [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] and leading pilgrims astray. Benthia needs the party to investigate and expose the deception.
+Someone is claiming to speak for [[02_Worldbuilding/Lore/The Deep Mother]] and leading pilgrims astray. Benthia needs the party to investigate and expose the deception.
 - **Rewards**: Divine authority recognition, Spiritual weapons, Truth-sight abilities
 - **Complications**: The false prophet may have genuine divine power from another source
 
@@ -705,13 +705,13 @@ Benthia needs mortals to serve as her representatives in negotiations with surfa
 
 ## Connected Campaign Elements
 
-### Links to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] Mythology
+### Links to [[02_Worldbuilding/Lore/The Deep Mother]] Mythology
 - Direct representative of divine will in physical world
 - Gateway to understanding cosmic entity's nature and purposes
 - Test for worthiness to approach ultimate divine mysteries
 - Bridge between mortal understanding and cosmic consciousness
 
-### Integration with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] Deep Sea Mysteries
+### Integration with [[02_Worldbuilding/Places/Aquabyssos]] Deep Sea Mysteries
 - Guardian of deepest and most dangerous oceanic regions
 - Protector of ancient sites and artifacts with divine significance
 - Controller of pressure-based phenomena throughout the realm
@@ -745,8 +745,8 @@ Benthia needs mortals to serve as her representatives in negotiations with surfa
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
@@ -763,10 +763,10 @@ Legends speak of Pressure Angel Benthia as a nexus where past and present conver
 - [[02_Worldbuilding/People/Pressure Angel Benthia|02 Worldbuilding/People/Pressure Angel Benthia]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Singer Naia]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
+- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
+- [[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]
+- [[02_Worldbuilding/People/Memory Harvester Kythara]]
+- [[02_Worldbuilding/People/The Scattered Emperor]]
+- [[02_Worldbuilding/People/The Shadow Singer Naia]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]

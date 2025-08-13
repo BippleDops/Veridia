@@ -189,6 +189,6 @@ Legends speak of Artificer as a nexus where past and present converge. Locals de
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Artificer]]
+- [[02_Worldbuilding/Places/Artificer]]
 
 <!-- enriched: true -->

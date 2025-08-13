@@ -51,7 +51,7 @@ If Thalassius fails a saving throw, he can choose to succeed instead.
 
 **Ancient Sovereignty.** Thalassius has advantage on saving throws against being turned and is immune to effects that would alter his form. Aquatic creatures must succeed on a DC 22 Wisdom saving throw to attack him directly.
 
-**Depth-Blessed Immortality.** Unlike typical liches, Thalassius's phylactery is the entire Sunken Throne itself, blessed by the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]. He regenerates 20 hit points at the start of his turn if he has at least 1 hit point and is within Aquabyssos.
+**Depth-Blessed Immortality.** Unlike typical liches, Thalassius's phylactery is the entire Sunken Throne itself, blessed by the [[02_Worldbuilding/Lore/Deep Mother]]. He regenerates 20 hit points at the start of his turn if he has at least 1 hit point and is within Aquabyssos.
 
 **Master of Tides.** Thalassius can control water within 1 mile, creating currents, whirlpools, or calm seas at will. This functions as the *control water* spell but requires no concentration.
 
@@ -99,15 +99,15 @@ On initiative count 20 (losing initiative ties), Thalassius takes a lair action 
 
 ## Description
 
-Emperor Thalassius the Wise has ruled Aquabyssos for over three thousand years, transforming from benevolent king to undead sovereign through a pact with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]] herself. Unlike the twisted liches of the surface world, Thalassius maintained his sanity and noble bearing through the transformation, though his flesh has long since given way to translucent, jellyfish-like tissue stretched over ancient bones that gleam with deep-sea phosphorescence.
+Emperor Thalassius the Wise has ruled Aquabyssos for over three thousand years, transforming from benevolent king to undead sovereign through a pact with the [[02_Worldbuilding/Lore/Deep Mother]] herself. Unlike the twisted liches of the surface world, Thalassius maintained his sanity and noble bearing through the transformation, though his flesh has long since given way to translucent, jellyfish-like tissue stretched over ancient bones that gleam with deep-sea phosphorescence.
 
 Standing seven feet tall even in his hunched, eternal posture, Thalassius wears the corroded crown of the first emperor, now fused to his skull through millennia of pressure and magic. His eyes are twin abyssal pearls that glow with an eerie blue-green light, seeing through time itself. Barnacles and coral growths decorate his form like jewelry, and schools of bioluminescent fish swim through his partially translucent body, living symbols of his unity with the ocean depths.
 
-The emperor rarely leaves the Sunken Throne, a massive chamber at the heart of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]], where the water itself bows to his will. Here, surrounded by the fossilized remains of his original court, he contemplates the eternal balance between the depths and the surface, between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], between life and undeath.
+The emperor rarely leaves the Sunken Throne, a massive chamber at the heart of [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]], where the water itself bows to his will. Here, surrounded by the fossilized remains of his original court, he contemplates the eternal balance between the depths and the surface, between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]], between life and undeath.
 
 ## History
 
-Thalassius was once a mortal king who united the warring underwater kingdoms through diplomacy and wisdom rather than conquest. When the Great Drowning threatened to destroy all civilization in the depths, he made the ultimate sacrifice: accepting undeath to become an eternal guardian of his people. The ritual, performed by the high priests of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]], bound his soul not to a single phylactery but to the very throne of Aquabyssos itself.
+Thalassius was once a mortal king who united the warring underwater kingdoms through diplomacy and wisdom rather than conquest. When the Great Drowning threatened to destroy all civilization in the depths, he made the ultimate sacrifice: accepting undeath to become an eternal guardian of his people. The ritual, performed by the high priests of the [[02_Worldbuilding/Lore/Deep Mother]], bound his soul not to a single phylactery but to the very throne of Aquabyssos itself.
 
 For three millennia, he has maintained the delicate balance of power in the depths, preventing wars between the various underwater races, negotiating with the aboleths of the deepest trenches, and maintaining the ancient treaties with surface nations. His transformation into lichdom was seen not as a curse but as the ultimate act of self-sacrifice for his people.
 
@@ -123,7 +123,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 
 ### Core Imperial Alliance System
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/People/Tribune Cassia Deepcurrent]] - The Loyal General**
+#### **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]] - The Loyal General**
 
 **Historical Development**:
 - **Early Military Career**: Cassia served with distinction in the border wars 150 years ago, earning Thalassius's attention through tactical brilliance and absolute loyalty
@@ -140,7 +140,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - **Thalassius owes Cassia**: Her family's lives, saved during a shadow conspiracy assassination attempt
 - **Cassia owes Thalassius**: Her entire social position and the opportunity to rebuild the military her way
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Typhoon Blackheart]] - The Naval Enforcer**
+#### **[[02_Worldbuilding/People/Commander Typhoon Blackheart]] - The Naval Enforcer**
 
 **Historical Development**:
 - **Naval Tradition**: Third generation naval commander whose family has served the throne for 400 years
@@ -153,7 +153,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - **The Pirate Suppression**: Cleared major shipping lanes of criminal interference
 - **The Border Fortress Defense**: Successfully defended against external invasion attempts
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]] - The Shadow Administration**
+#### **[[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]] - The Shadow Administration**
 
 **Historical Development**:
 - **Constitutional Innovation**: Created 30 years ago during governmental reform to handle matters requiring imperial deniability
@@ -169,7 +169,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 
 ### International Diplomatic Relations
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - The Strained Alliance**
+#### **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - The Strained Alliance**
 
 **Historical Development**:
 - **Inherited Diplomacy**: Thalassius had positive relations with Seraphina's father, creating initial goodwill
@@ -196,7 +196,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 
 ### Opposition and Challenge Networks
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]] - The Existential Threat**
+#### **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]] - The Existential Threat**
 
 **The Corruption Challenge**:
 - **Ideological Opposition**: Their reality manipulation directly threatens the natural order Thalassius seeks to preserve
@@ -204,7 +204,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - **Time Pressure**: Growing influence forces increasingly desperate responses from imperial authorities
 - **Intelligence War**: Constant struggle to identify and counter their infiltration efforts
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] - The Religious Opposition**
+#### **[[02_Worldbuilding/Groups/Purist Coalition]] - The Religious Opposition**
 
 **Historical Conflict**:
 - **Theological Opposition**: View Thalassius's undeath as fundamental violation of natural order
@@ -220,7 +220,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 
 ### Complex Regional Relationships
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]] - The Philosophical Allies**
+#### **[[02_Worldbuilding/Groups/The Convergence Seekers]] - The Philosophical Allies**
 
 **Shared Goals with Complications**:
 - **Reality Stability**: Both seek to maintain cosmic balance and prevent dimensional collapse
@@ -228,7 +228,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - **Knowledge Exchange**: Share research on reality manipulation while competing for same resources
 - **Trust Issues**: Both groups maintain secrets that prevent full cooperation
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Thalassa the Depth-Touched]] - The Transformed Subject**
+#### **[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]] - The Transformed Subject**
 
 **Complex Imperial Relationship**:
 - **Imperial Responsibility**: Thalassius feels partially responsible for her transformation
@@ -236,7 +236,7 @@ For three millennia, he has maintained the delicate balance of power in the dept
 - **Protective Oversight**: Provides subtle support while maintaining official distance
 - **Strategic Value**: Her unique abilities serve imperial interests despite personal complications
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]] - The Dangerous Ally**
+#### **[[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]] - The Dangerous Ally**
 
 **Information Broker Relationship**:
 - **Intelligence Value**: Provides crucial information about threats and opportunities
@@ -268,9 +268,9 @@ For three millennia, he has maintained the delicate balance of power in the dept
 
 2. **The Succession Question** - Despite his immortality, Thalassius seeks an heir who could rule should he fall. The trials to prove worthiness involve retrieving artifacts from the deepest trenches.
 
-3. **The Ancient Pact** - The original agreement with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]] requires renewal every thousand years. The time approaches, but the goddess has gone silent, and disturbing signs suggest something has happened to her.
+3. **The Ancient Pact** - The original agreement with the [[02_Worldbuilding/Lore/Deep Mother]] requires renewal every thousand years. The time approaches, but the goddess has gone silent, and disturbing signs suggest something has happened to her.
 
-4. **Diplomatic Summit** - Thalassius calls for a grand assembly between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] to address the growing shadow corruption. He needs capable agents to ensure the summit isn't sabotaged.
+4. **Diplomatic Summit** - Thalassius calls for a grand assembly between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] to address the growing shadow corruption. He needs capable agents to ensure the summit isn't sabotaged.
 
 5. **The Living Throne** - The Sunken Throne itself has begun to exhibit signs of consciousness, possibly due to the accumulated souls and memories within it. Thalassius fears he may be losing control of his own phylactery.
 
@@ -304,19 +304,19 @@ For three millennia, he has maintained the delicate balance of power in the dept
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Korvin Blacktide]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/People/Korvin Blacktide]]
 - [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Oracle]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Marius]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Cerulean Breath]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Pearl Guard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Sorrowmaster]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Senator's Private Chambers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vault Breach]]
+- [[02_Worldbuilding/People/Oracle]]
+- [[02_Worldbuilding/People/Senator Marius]]
+- [[02_Worldbuilding/People/Senator]]
+- [[02_Worldbuilding/People/The Cerulean Breath]]
+- [[02_Worldbuilding/People/The Current Merchants]]
+- [[02_Worldbuilding/People/The Pearl Guard]]
+- [[02_Worldbuilding/People/The Sorrowmaster]]
+- [[02_Worldbuilding/Places/Senator's Private Chambers]]
+- [[02_Worldbuilding/Places/Vault Breach]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
@@ -340,18 +340,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Shard Guardian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Typhoon Blackheart]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- [[02_Worldbuilding/Groups/Purist Coalition]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
+- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/The Crimson Shard Guardian]]
+- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]

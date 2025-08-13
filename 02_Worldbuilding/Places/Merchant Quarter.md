@@ -23,13 +23,13 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quest - The Blackmail Papers]]
+- [[02_Worldbuilding/Places/Quest - The Blackmail Papers]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Blackmail Papers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[02_Worldbuilding/People/Quest - The Blackmail Papers]]
+- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
 
 ## Player-Facing Summary
 

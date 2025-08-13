@@ -28,15 +28,15 @@ world: Both
 *Where Stone Bleeds Metal and Slaves Dig Their Graves*
 
 ## Overview
-The Iron Pits of Malachar are a massive mining complex in the depths of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]], operated by [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]] to extract rare metals and corrupted crystals for their war machine. Named after the ancient dwarven mining lord whose spirit still haunts the deepest shafts, these pits combine brutal slave labor with dangerous mining conditions to feed the forges of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crimson Foundries]].
+The Iron Pits of Malachar are a massive mining complex in the depths of [[02_Worldbuilding/Places/The Sundered Peaks]], operated by [[02_Worldbuilding/Groups/The Crimson Fleet]] to extract rare metals and corrupted crystals for their war machine. Named after the ancient dwarven mining lord whose spirit still haunts the deepest shafts, these pits combine brutal slave labor with dangerous mining conditions to feed the forges of [[02_Worldbuilding/Places/The Crimson Foundries]].
 
 ## Mining Complex Structure
 
 ### Surface Operations
 - **The Sorting Yards**: Where raw ore is processed and graded
 - **Slave Barracks**: Cramped quarters for 2,000+ enslaved workers
-- **Guard Towers**: Manned by [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]] overseers
-- **Administrative Complex**: Run by [[vault_backup_20250813_073007/02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]]
+- **Guard Towers**: Manned by [[02_Worldbuilding/Groups/The Crimson Fleet]] overseers
+- **Administrative Complex**: Run by [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]]
 
 ### The Upper Pits (Levels 1-5)
 - **Iron Veins**: Standard metal extraction operations
@@ -59,7 +59,7 @@ The Iron Pits of Malachar are a massive mining complex in the depths of [[vault_
 ## Key Personnel
 
 ### Management & Overseers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]]** - Operations commander
+- **[[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]]** - Operations commander
 - **Mine Boss Grizelda Ironlung** - Day-to-day mining operations
 - **[[02_Worldbuilding/People/Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master Smith Vulcan Deepforge]]** - Quality control specialist
 - **[[02_Worldbuilding/People/Doctor Silas Voidtouch|02 Worldbuilding/People/Doctor Silas Voidtouch]]** - Slave "medical" officer
@@ -81,7 +81,7 @@ The Iron Pits of Malachar are a massive mining complex in the depths of [[vault_
 ### Extraction Methods
 - **Traditional Mining**: Pickaxe and shovel work by slave labor
 - **Crystal Blasting**: Magical explosives for hard rock
-- **Steam Drilling**: Powered equipment from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crimson Foundries]]
+- **Steam Drilling**: Powered equipment from [[02_Worldbuilding/Places/The Crimson Foundries]]
 - **Spirit Compulsion**: Using ghost miners for dangerous areas
 
 ### Valuable Resources
@@ -145,10 +145,10 @@ The Iron Pits of Malachar are a massive mining complex in the depths of [[vault_
 - The Broken Chain Gang coordinates escape attempts
 
 ### External Allies
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] seek to shut down crystal operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]] investigates worker disappearances
+- [[02_Worldbuilding/People/Crystal Wardens]] seek to shut down crystal operations
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] investigates worker disappearances
 - [[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]] occasionally extract rescued slaves
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]] provides spiritual support
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]] provides spiritual support
 
 ### Liberation Attempts
 - Multiple failed uprisings crushed brutally
@@ -159,14 +159,14 @@ The Iron Pits of Malachar are a massive mining complex in the depths of [[vault_
 ## Economic Connections
 
 ### Supply Chain
-- Raw materials shipped to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crimson Foundries]]
-- Processed metals sold through [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]]
+- Raw materials shipped to [[02_Worldbuilding/Places/The Crimson Foundries]]
+- Processed metals sold through [[02_Worldbuilding/Places/The Shadow Markets]]
 - Corrupted crystals distributed by [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
-- Slave labor sourced from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] raids
+- Slave labor sourced from [[02_Worldbuilding/Places/Port Meridian]] raids
 
 ### Financial Network
-- Profits flow to [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Marrow Drinker]]'s war chest
-- Money laundered through [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]]
+- Profits flow to [[02_Worldbuilding/People/Captain Marrow Drinker]]'s war chest
+- Money laundered through [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
 - Equipment purchased from legitimate sources via shell companies
 - Corruption research funded by secret investors
 
@@ -179,7 +179,7 @@ The Iron Pits of Malachar are a massive mining complex in the depths of [[vault_
 ## Combat Encounters
 
 ### Surface Level (CR 3-5)
-- Patrol squads of 6-8 [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]] guards
+- Patrol squads of 6-8 [[02_Worldbuilding/Groups/The Crimson Fleet]] guards
 - Overseer with whip and guard dogs
 - Escaped slaves begging for rescue
 - Crystal-corrupted mining equipment attacking randomly
@@ -227,9 +227,9 @@ The Iron Pits of Malachar are a massive mining complex in the depths of [[vault_
 
 ### Political Implications
 > [!warning] DM Only
-> - [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]] secretly invested in the operation
-> - Some [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] knowingly buy blood metals
-> - [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]] plans military assault
+> - [[02_Worldbuilding/People/Prince Caspian Duskwater]] secretly invested in the operation
+> - Some [[02_Worldbuilding/Groups/Merchant Princes]] knowingly buy blood metals
+> - [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] plans military assault
 > - Evidence could implicate legitimate businesses in slavery
 
 ## Environmental Impact
@@ -247,15 +247,15 @@ The Iron Pits of Malachar are a massive mining complex in the depths of [[vault_
 - Spiritual corruption spreading through underground streams
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]] - Mountain region containing the mines
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crimson Foundries]] - Primary recipient of extracted materials
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]] - Distribution point for processed goods
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Source of slave labor via raids
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Vaults]] - Connected by ancient tunnel systems
+- [[02_Worldbuilding/Places/The Sundered Peaks]] - Mountain region containing the mines
+- [[02_Worldbuilding/Places/The Crimson Foundries]] - Primary recipient of extracted materials
+- [[02_Worldbuilding/Places/The Shadow Markets]] - Distribution point for processed goods
+- [[02_Worldbuilding/Places/Port Meridian]] - Source of slave labor via raids
+- [[02_Worldbuilding/Places/The Sundered Vaults]] - Connected by ancient tunnel systems
 
 ## Connected Factions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]] - Primary operators and beneficiaries
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Investigating and opposing crystal operations
+- [[02_Worldbuilding/Groups/The Crimson Fleet]] - Primary operators and beneficiaries
+- [[02_Worldbuilding/People/Crystal Wardens]] - Investigating and opposing crystal operations
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Crystal distribution partners
 - [[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]] - Occasional liberation supporters
 
@@ -279,11 +279,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Iron Pits of Malachar]]
+- [[02_Worldbuilding/Places/The Iron Pits of Malachar]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Crystal Wardens]]

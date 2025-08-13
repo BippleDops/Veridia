@@ -25,10 +25,10 @@ world: Both
 # Economic Systems and Currency
 *The Flow of Wealth Across Two Realms*
 
-> *"Money is the universal language. It speaks fluently in both air and water, and those who master its dialects rule worlds."* - [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]]
+> *"Money is the universal language. It speaks fluently in both air and water, and those who master its dialects rule worlds."* - [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
 
 ## Overview
-The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] represent a complex web of currencies, exchange mechanisms, and financial institutions that have evolved to facilitate trade across dramatically different environments. From the crystal-backed currencies of the surface to the pressure-forged coins of the depths, these monetary systems reflect the unique challenges and opportunities of inter-realm commerce.
+The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] represent a complex web of currencies, exchange mechanisms, and financial institutions that have evolved to facilitate trade across dramatically different environments. From the crystal-backed currencies of the surface to the pressure-forged coins of the depths, these monetary systems reflect the unique challenges and opportunities of inter-realm commerce.
 
 ## Primary Currency Systems
 
@@ -50,7 +50,7 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 - Exchange rate fluctuates based on crystal market stability
 
 #### Crystal Notes (Trade Currency)
-**Issuing Authority**: [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] Council
+**Issuing Authority**: [[02_Worldbuilding/Groups/Merchant Princes]] Council
 **Backing**: High-grade crystal reserves held in secure vaults
 **Usage**: Preferred for long-distance trade and large transactions
 **Value**: Directly tied to crystal purity and quality ratings
@@ -67,7 +67,7 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 - Value fluctuations based on crystal market conditions
 
 #### Goldwave Commercial Credits (Private Currency)
-**Issuing Authority**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]'s financial network
+**Issuing Authority**: [[02_Worldbuilding/People/Lord Aurelius Goldwave]]'s financial network
 **Backing**: Diversified portfolio of investments and precious metals
 **Usage**: Internal transactions within Goldwave business empire
 **Special Features**: 
@@ -78,7 +78,7 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 ### Aquabyssos Deep Currencies
 
 #### Imperial Pearls (Standard Currency)
-**Issuing Authority**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
+**Issuing Authority**: [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
 **Backing**: Ancient treasure vaults and territorial control
 **Denominations**:
 - **Black Pearl** (1000 gp equivalent) - Imperial transactions
@@ -94,7 +94,7 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 - Naturally waterproof and corrosion-resistant
 
 #### Current Bonds (Investment Currency)
-**Issuing Authority**: [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]] (Nereon Swiftcurrent)
+**Issuing Authority**: [[02_Worldbuilding/People/The Current Merchants]] (Nereon Swiftcurrent)
 **Backing**: Future transport capacity and exclusive route access
 **Usage**: Payment for premium shipping services and route investments
 **Unique Features**:
@@ -114,7 +114,7 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 ### Cross-Realm Exchange Systems
 
 #### The Meridian Exchange
-**Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+**Location**: [[02_Worldbuilding/Places/Port Meridian]]
 **Function**: Primary currency conversion hub between realms
 **Daily Volume**: 500,000+ gp equivalent in currency exchanges
 **Services**:
@@ -130,7 +130,7 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 - 1 Pressure Coin = 2-5 Pearl equivalents (depth dependent)
 
 #### Deep Vault Banking Consortium
-**Controller**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]]
+**Controller**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
 **Services**: 
 - Secure currency storage across both realms
 - Inter-realm wire transfers using magical communication
@@ -173,7 +173,7 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 ### Major Banking Houses
 
 #### House Goldwave Financial Services
-**Founder**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
+**Founder**: [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
 **Specialty**: International trade finance and legitimate business investments
 **Assets**: 2+ million gp in diversified holdings
 **Services**:
@@ -184,13 +184,13 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 - Educational institution support
 
 **Secret Services**:
-- Funding for [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- Funding for [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
 - Temporal magic research investments
 - Shard acquisition financing
 - Revolutionary planning support
 
 #### Deep Vault Banking Consortium  
-**Controller**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]]
+**Controller**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
 **Specialty**: Cross-realm currency manipulation and control
 **Assets**: 5+ million gp equivalent across both realms
 **Services**:
@@ -208,7 +208,7 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 - Market manipulation for personal profit
 
 #### Merchant Princes Collective Treasury
-**Controller**: Council of Five [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]
+**Controller**: Council of Five [[02_Worldbuilding/Groups/Merchant Princes]]
 **Specialty**: Commercial trade financing and monopoly maintenance
 **Assets**: 10+ million gp in combined resources
 **Services**:
@@ -252,7 +252,7 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 - **Purpose**: Financing new trade route exploration and development
 - **Returns**: Share of route profits for successful developments
 - **Risks**: Route failure, political changes, environmental hazards
-- **Major Players**: [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]], independent exploration companies
+- **Major Players**: [[02_Worldbuilding/People/The Current Merchants]], independent exploration companies
 
 **Political Stability Derivatives**
 - **Function**: Betting on political outcomes and their economic effects
@@ -266,13 +266,13 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 
 #### Market Cornering
 **Process**: Purchasing large quantities of essential goods to control supply
-**Practitioners**: [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]], major trading houses
+**Practitioners**: [[02_Worldbuilding/Groups/Merchant Princes]], major trading houses
 **Legal Status**: Technically legal but subject to government intervention
 **Countermeasures**: Government price controls, alternative supply development, international intervention
 
 #### Currency Manipulation
 **Process**: Large-scale currency trading to influence exchange rates
-**Practitioners**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]], major financial institutions
+**Practitioners**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]], major financial institutions
 **Effects**: Can destabilize economies, benefit specific trade relationships
 **Regulation**: Minimal due to complexity and institutional power
 
@@ -341,13 +341,13 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 #### Crystal Coast Commercial District
 **Economic Focus**: Crystal processing, luxury goods manufacturing, high-end services
 **Currency Preference**: Crystal Notes and high-denomination Crowns
-**Major Players**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]], Crystal Refinement Guilds
+**Major Players**: [[02_Worldbuilding/People/Lord Aurelius Goldwave]], Crystal Refinement Guilds
 **Unique Features**: Premium pricing, exclusive clientele, advanced magical services
 
 #### Port Districts
 **Economic Focus**: Trade facilitation, maritime services, international commerce  
 **Currency Preference**: Mixed currencies with heavy exchange activity
-**Major Players**: [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]], independent traders, foreign merchants
+**Major Players**: [[02_Worldbuilding/Groups/Merchant Princes]], independent traders, foreign merchants
 **Unique Features**: 24-hour operations, multi-cultural business practices, competitive pricing
 
 #### Agricultural Regions
@@ -360,7 +360,7 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 #### Imperial Capital Region
 **Economic Focus**: Government services, luxury consumption, political commerce
 **Currency Preference**: Imperial Pearls, prestige transactions
-**Major Players**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]], noble houses, government contractors
+**Major Players**: [[02_Worldbuilding/People/Emperor Thalassius the Wise]], noble houses, government contractors
 **Unique Features**: Protocol-heavy transactions, status-based pricing, political influence factors
 
 #### Deep Industrial Complexes
@@ -372,7 +372,7 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 #### Current Trading Networks
 **Economic Focus**: Transportation services, navigation, inter-zone commerce
 **Currency Preference**: Current Bonds, service exchange systems
-**Major Players**: [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]], navigation specialists, transport guilds
+**Major Players**: [[02_Worldbuilding/People/The Current Merchants]], navigation specialists, transport guilds
 **Unique Features**: Dynamic pricing based on current conditions, subscription-based services, route monopolies
 
 ## Crisis Economics and Emergency Systems
@@ -407,14 +407,14 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 #### The Great Crystal Corruption Crisis (15 years ago)
 **Cause**: Widespread crystal contamination destroyed currency backing
 **Impact**: 70% devaluation of Crystal Notes, mass business failures
-**Resolution**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]] cornered stable currency market
+**Resolution**: [[02_Worldbuilding/People/Banker Titus Goldcurrent]] cornered stable currency market
 **Lasting Effects**: Increased financial regulation, Titus's rise to power, continued crystal currency instability
 
 #### The Current Wars (8 years ago)
 **Cause**: Military conflict disrupted major trade routes
 **Impact**: 300% increase in transport costs, food shortages in both realms
 **Resolution**: Peace treaty restored trade, but new route monopolies emerged
-**Lasting Effects**: [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]] dominance, increased military escort costs
+**Lasting Effects**: [[02_Worldbuilding/People/The Current Merchants]] dominance, increased military escort costs
 
 #### The Shadow Market Collapse (3 years ago)
 **Cause**: Law enforcement raids destroyed major criminal financial networks
@@ -561,16 +561,16 @@ The economic systems of [[vault_backup_20250813_073007/02_Worldbuilding/Places/A
 10: **Market Manipulation** - Artificially created shortages or surpluses affect player interests
 
 ## Connected NPCs and Systems
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]] - Primary legitimate financial power
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]] - Currency manipulation expert
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] - Commercial economic controllers
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]] - Deep-sea financial specialists
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] - Primary legitimate financial power
+- [[02_Worldbuilding/People/Banker Titus Goldcurrent]] - Currency manipulation expert
+- [[02_Worldbuilding/Groups/Merchant Princes]] - Commercial economic controllers
+- [[02_Worldbuilding/People/The Current Merchants]] - Deep-sea financial specialists
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal economic operators
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Grand Trade Routes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Major Trading Companies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Commercial Hubs and Markets]]
+- [[02_Worldbuilding/Lore/The Grand Trade Routes]]
+- [[02_Worldbuilding/Groups/Major Trading Companies]]
+- [[02_Worldbuilding/Places/Commercial Hubs and Markets]]
 - [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]]
 - [[03_Mechanics/Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]]
 

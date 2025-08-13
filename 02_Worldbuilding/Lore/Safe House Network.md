@@ -1,19 +1,15 @@
 ---
-created: '2025-08-11'
+type: Lore
 status: complete
 tags:
+- active
 - aethermoor
-- complete
-- content/adventure
-- content/lore
 - lore
-- status/in-progress
-- world/aethermoor
-type: Lore
-updated: '2025-08-13T12:34:29.013293+00:00'
+- quest
 world: Aethermoor
+created: '2025-08-11'
+updated: '2025-08-13T01:18:34.842633+00:00'
 ---
-
 
 
 
@@ -45,7 +41,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Quest - The Blackmail Papers]]
+- [[02_Worldbuilding/People/Quest - The Blackmail Papers]]
 
 
 ## Connections

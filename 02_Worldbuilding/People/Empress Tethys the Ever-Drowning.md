@@ -28,7 +28,7 @@ world: Both
 *"I have died ten thousand times, and each death teaches me the same lesson: the surface world is a beautiful lie we tell ourselves while drowning."*
 
 ## Overview
-Empress Tethys rules [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] through a unique curse/blessing - she drowns to death every dawn and resurrects every dusk, losing and regaining memories in fragments. She is simultaneously the most and least powerful being in the underwater realm, experiencing existence from infinite perspectives.
+Empress Tethys rules [[02_Worldbuilding/Places/Aquabyssos]] through a unique curse/blessing - she drowns to death every dawn and resurrects every dusk, losing and regaining memories in fragments. She is simultaneously the most and least powerful being in the underwater realm, experiencing existence from infinite perspectives.
 
 ## Appearance (Varies by Time of Day)
 ### Dawn (Dying)
@@ -71,10 +71,10 @@ Unknown to most, each death creates a "temporal echo" of Tethys that descends to
 - **Surface Tethys**: A version that never drowned, exists in dreams
 
 ## Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Korvin Blacktide]]**: Her voice on the surface, carries fragments of her memories
+- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]**: Her voice on the surface, carries fragments of her memories
 - **The Tidal Council**: Fear and worship her in equal measure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sees her as a sister in transformation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]**: Knows his true identity, considers him responsible for the Drowning
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sees her as a sister in transformation
+- **[[02_Worldbuilding/People/The Crimson Sage]]**: Knows his true identity, considers him responsible for the Drowning
 - **The Things That Dwell Beneath**: Her true masters, or perhaps her children
 
 ## Powers & Abilities
@@ -100,7 +100,7 @@ Unknown to most, each death creates a "temporal echo" of Tethys that descends to
 ## Current Schemes
 1. **The Great Convergence**: Reuniting all versions of herself
 2. **The Surface Mirror**: Creating reflection of Aquabyssos above water
-3. **The Shard Drowning**: Acquiring one of Aethermoor's [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+3. **The Shard Drowning**: Acquiring one of Aethermoor's [[02_Worldbuilding/Lore/The Seven Shards]]
 4. **The Memory Harvest**: Collecting all drowned memories into herself
 5. **The Final Transformation**: Becoming a Thing That Dwells Beneath
 
@@ -192,6 +192,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]
+- [[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]
 
 <!-- enriched: true -->

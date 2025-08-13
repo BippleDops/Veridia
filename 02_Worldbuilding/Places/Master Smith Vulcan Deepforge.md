@@ -50,9 +50,9 @@ world: Aquabyssos
 
 ## Overview
 
-Master Smith Vulcan Deepforge stands as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most renowned craftsman, whose legendary skill in metallurgy and magical enhancement has produced some of the finest weapons, armor, and tools in the underwater realm. His workshop, The Great Forge, serves as both production center and training academy for aspiring smiths throughout the region.
+Master Smith Vulcan Deepforge stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most renowned craftsman, whose legendary skill in metallurgy and magical enhancement has produced some of the finest weapons, armor, and tools in the underwater realm. His workshop, The Great Forge, serves as both production center and training academy for aspiring smiths throughout the region.
 
-Beyond his technical mastery, Vulcan has pioneered techniques for working with deep-sea materials and incorporating magical properties into crafted items, creating works that are both functional masterpieces and works of art. His reputation extends far beyond [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], with requests for his work coming from allied realms and distant communities.
+Beyond his technical mastery, Vulcan has pioneered techniques for working with deep-sea materials and incorporating magical properties into crafted items, creating works that are both functional masterpieces and works of art. His reputation extends far beyond [[02_Worldbuilding/Places/Aquabyssos]], with requests for his work coming from allied realms and distant communities.
 
 ## Character Statistics
 
@@ -122,29 +122,29 @@ Vulcan's reputation was established when he created his first masterwork at age 
 
 His innovation in combining traditional smithing techniques with magical enhancement led to breakthrough developments in underwater metallurgy, establishing new standards for quality and functionality.
 
-The establishment of The Great Forge as both workshop and training center marked his transition from individual craftsman to leader of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s metalworking community.
+The establishment of The Great Forge as both workshop and training center marked his transition from individual craftsman to leader of [[02_Worldbuilding/Places/Aquabyssos]]'s metalworking community.
 
 ### Legendary Works
 
 Vulcan's career includes creation of numerous legendary items, including the Trident of Tidal Command for the royal family and the Armor of Deep Currents for the realm's greatest champions.
 
-His work on defensive installations and magical infrastructure has contributed significantly to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s security and prosperity, with his forge-created components forming essential parts of the realm's magical and mechanical systems.
+His work on defensive installations and magical infrastructure has contributed significantly to [[02_Worldbuilding/Places/Aquabyssos]]'s security and prosperity, with his forge-created components forming essential parts of the realm's magical and mechanical systems.
 
-Recent projects include developing new alloys resistant to magical corruption and creating specialized equipment for dealing with supernatural threats affecting both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]].
+Recent projects include developing new alloys resistant to magical corruption and creating specialized equipment for dealing with supernatural threats affecting both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]].
 
 ## Current Role and Responsibilities
 
 ### Master of The Great Forge
 
-Vulcan oversees all major metalworking projects for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], from weapons and armor for military forces to specialized tools for various industries and magical applications.
+Vulcan oversees all major metalworking projects for [[02_Worldbuilding/Places/Aquabyssos]], from weapons and armor for military forces to specialized tools for various industries and magical applications.
 
 His workshop employs dozens of skilled craftsmen and serves as training ground for apprentices from throughout the region, ensuring that his techniques and standards will continue beyond his own career.
 
-Quality control for all major metalwork projects passes through his inspection, maintaining [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s reputation for superior craftsmanship and reliability.
+Quality control for all major metalwork projects passes through his inspection, maintaining [[02_Worldbuilding/Places/Aquabyssos]]'s reputation for superior craftsmanship and reliability.
 
 ### Military Equipment Specialist
 
-Vulcan works closely with military leadership to develop and maintain equipment for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] defense forces, creating specialized weapons and armor adapted for underwater combat and magical threats.
+Vulcan works closely with military leadership to develop and maintain equipment for [[02_Worldbuilding/Places/Aquabyssos]] defense forces, creating specialized weapons and armor adapted for underwater combat and magical threats.
 
 His expertise in anti-magical materials has proven crucial for creating equipment capable of operating effectively against corrupted creatures and supernatural enemies.
 
@@ -182,7 +182,7 @@ Despite his respect for tradition, Vulcan embraces innovation and experimentatio
 
 His curiosity extends to learning from other craftsmen, magical practitioners, and even enemies, always looking for insights that might enhance his understanding and capabilities.
 
-This balance between traditional respect and innovative thinking has kept his work at the forefront of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] craftsmanship while honoring the heritage of his profession.
+This balance between traditional respect and innovative thinking has kept his work at the forefront of [[02_Worldbuilding/Places/Aquabyssos]] craftsmanship while honoring the heritage of his profession.
 
 ## Equipment and Legendary Creations
 
@@ -202,35 +202,35 @@ This balance between traditional respect and innovative thinking has kept his wo
 
 **Armor of Deep Currents** - Legendary armor set that provides protection while enhancing underwater mobility and granting resistance to pressure-based attacks.
 
-**The Forge Gates** - Massive defensive installations protecting [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], combining traditional metalwork with magical enhancement for unprecedented defensive capabilities.
+**The Forge Gates** - Massive defensive installations protecting [[02_Worldbuilding/Places/Aquabyssos]], combining traditional metalwork with magical enhancement for unprecedented defensive capabilities.
 
-**Corruption-Resistant Alloys** - New materials developed specifically for dealing with magical corruption, now used throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] for critical applications.
+**Corruption-Resistant Alloys** - New materials developed specifically for dealing with magical corruption, now used throughout [[02_Worldbuilding/Places/Aquabyssos]] for critical applications.
 
 ## Relationships and Connections
 
 ### Professional Network
 
-**[[02_Worldbuilding/Groups/Guild Master Coppe|02 Worldbuilding/Groups/Guild Master Coppe]]** - Leader of the Artisan Guild, with whom Vulcan coordinates on major projects and policy decisions affecting all craftsmen in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+**[[02_Worldbuilding/Groups/Guild Master Coppe|02 Worldbuilding/Groups/Guild Master Coppe]]** - Leader of the Artisan Guild, with whom Vulcan coordinates on major projects and policy decisions affecting all craftsmen in [[02_Worldbuilding/Places/Aquabyssos]].
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Military Commander Steel]]** - Primary liaison for military equipment projects, ensuring that Vulcan's creations meet operational requirements and combat effectiveness standards.
+**[[02_Worldbuilding/Lore/Military Commander Steel]]** - Primary liaison for military equipment projects, ensuring that Vulcan's creations meet operational requirements and combat effectiveness standards.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Enchanter Mystic]]** - Collaborator on magical enhancement projects, combining Vulcan's craftsmanship with sophisticated magical augmentation techniques.
+**[[02_Worldbuilding/Lore/Royal Enchanter Mystic]]** - Collaborator on magical enhancement projects, combining Vulcan's craftsmanship with sophisticated magical augmentation techniques.
 
 ### Apprentices and Students
 
 **[[Journeyman Smith Iron]]** - Senior apprentice being prepared to eventually take over day-to-day forge operations, showing exceptional promise in both technical skill and leadership ability.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Apprentice Copper]]** - Talented young craftsman specializing in decorative work and artistic applications of metalworking techniques.
+**[[02_Worldbuilding/Lore/Apprentice Copper]]** - Talented young craftsman specializing in decorative work and artistic applications of metalworking techniques.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Student Engineer Bronze]]** - Apprentice focused on mechanical applications and tool development, representing new directions in practical craftsmanship applications.
+**[[02_Worldbuilding/Lore/Student Engineer Bronze]]** - Apprentice focused on mechanical applications and tool development, representing new directions in practical craftsmanship applications.
 
 ### Personal Relationships
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Master Artist Pear]]** - Close friend and occasional collaborator whose artistic vision complements Vulcan's technical expertise in creating works that are both functional and beautiful.
+**[[02_Worldbuilding/Lore/Master Artist Pear]]** - Close friend and occasional collaborator whose artistic vision complements Vulcan's technical expertise in creating works that are both functional and beautiful.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Merchant Captain Trade]]** - Business partner who helps source rare materials and distribute Vulcan's creations to distant markets, expanding the reach of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] craftsmanship.
+**[[02_Worldbuilding/People/Merchant Captain Trade]]** - Business partner who helps source rare materials and distribute Vulcan's creations to distant markets, expanding the reach of [[02_Worldbuilding/Places/Aquabyssos]] craftsmanship.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Family Matriarch Anvil]]** - Elderly relative who taught him early metalworking basics and continues to provide wisdom and perspective on maintaining family traditions.
+**[[02_Worldbuilding/Groups/Family Matriarch Anvil]]** - Elderly relative who taught him early metalworking basics and continues to provide wisdom and perspective on maintaining family traditions.
 
 ## Quest Hooks and Adventure Opportunities
 
@@ -248,7 +248,7 @@ Vulcan has discovered references to an ancient forge containing techniques and m
 **Level**: 10-15  
 **Type**: Investigation/Combat Mission
 
-Magical corruption is affecting metal goods throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], and Vulcan needs the party's help to identify the source and develop countermeasures while protecting the realm's infrastructure.
+Magical corruption is affecting metal goods throughout [[02_Worldbuilding/Places/Aquabyssos]], and Vulcan needs the party's help to identify the source and develop countermeasures while protecting the realm's infrastructure.
 
 **Rewards**: Anti-corruption equipment, magical research insights, realm-wide recognition
 
@@ -278,11 +278,11 @@ Vulcan serves as an excellent source of equipment enhancement, custom gear creat
 
 His teaching role provides opportunities for character development through apprenticeships or training montages, particularly for characters interested in crafting or magical item creation.
 
-The Great Forge serves as a central location for equipment-related activities and can be a hub for adventures involving materials gathering, technical challenges, or defense against threats to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+The Great Forge serves as a central location for equipment-related activities and can be a hub for adventures involving materials gathering, technical challenges, or defense against threats to [[02_Worldbuilding/Places/Aquabyssos]].
 
 ### Economic Impact
 
-Vulcan's work represents significant economic value within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], making him important for campaigns involving trade, economics, or resource management.
+Vulcan's work represents significant economic value within [[02_Worldbuilding/Places/Aquabyssos]], making him important for campaigns involving trade, economics, or resource management.
 
 His innovations and training programs contribute to the realm's overall technological and magical advancement, affecting broader campaign developments.
 
@@ -299,10 +299,10 @@ Interactions with Vulcan can help players understand the value of craftsmanship,
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bone Colosseum]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crimson Foundries]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Places/The Bone Colosseum]]
+- [[02_Worldbuilding/Places/The Crimson Foundries]]
 
 ## Player-Facing Summary
 
@@ -324,7 +324,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
+- [[02_Worldbuilding/Places/Master Smith Vulcan Deepforge]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor]]

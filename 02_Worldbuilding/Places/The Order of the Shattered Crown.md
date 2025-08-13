@@ -176,15 +176,15 @@ The Order provides opportunities for redemption-themed adventures, charitable mi
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
+- [[02_Worldbuilding/Groups/Purist Coalition]]
+- [[02_Worldbuilding/Groups/The Crystal Throne]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
 - [[Gareth Goldenheart, The Chosen Vessel]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Azure Prophet Nerissa]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Living Weapon]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/People/The Azure Prophet Nerissa]]
+- [[02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/The Living Weapon]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
@@ -197,6 +197,6 @@ Legends speak of The Order of the Shattered Crown as a nexus where past and pres
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
 
 <!-- enriched: true -->

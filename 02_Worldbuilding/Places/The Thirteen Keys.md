@@ -123,7 +123,7 @@ This quest works best as a campaign centerpiece spanning multiple levels. Each k
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Places/The Primordial Vaults]]
 
 
 ## History
@@ -165,6 +165,6 @@ Legends speak of The Thirteen Keys as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Thirteen Keys]]
+- [[02_Worldbuilding/Places/The Thirteen Keys]]
 
 <!-- enriched: true -->

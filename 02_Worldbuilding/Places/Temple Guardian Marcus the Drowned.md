@@ -28,11 +28,11 @@ world: Both
 *Ancient Sacred Site of Submerged Faith*
 
 > *"In the deepest currents where light fears to tread, where the weight of water becomes the weight of eternity, there stands the Drowned Temple - a monument to faith that death itself cannot diminish, tended by those who found holiness in their own drowning."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sacred Historian Coral Deepscribe]], *Lost Sanctuaries of Aquabyssos*
+> — [[02_Worldbuilding/Places/Sacred Historian Coral Deepscribe]], *Lost Sanctuaries of Aquabyssos*
 
 ## Overview
 
-The Drowned Temple represents one of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most mysterious and spiritually powerful religious sites, an ancient sanctuary that predates the current underwater civilization by centuries. Built originally as a surface temple to oceanic deities, it was claimed by rising waters during the Great Submersion, transforming from a place of worship into something far more profound - a shrine to the sacred nature of drowning itself. Under the eternal guardianship of Marcus the Drowned, an undying priest whose faith transcended death, the temple has become a pilgrimage destination for those seeking to understand the mystical relationship between water, death, and divine transcendence.
+The Drowned Temple represents one of [[02_Worldbuilding/Places/Aquabyssos]]'s most mysterious and spiritually powerful religious sites, an ancient sanctuary that predates the current underwater civilization by centuries. Built originally as a surface temple to oceanic deities, it was claimed by rising waters during the Great Submersion, transforming from a place of worship into something far more profound - a shrine to the sacred nature of drowning itself. Under the eternal guardianship of Marcus the Drowned, an undying priest whose faith transcended death, the temple has become a pilgrimage destination for those seeking to understand the mystical relationship between water, death, and divine transcendence.
 
 ## Atmospheric Description
 
@@ -105,7 +105,7 @@ The Drowned Temple represents one of [[vault_backup_20250813_073007/02_Worldbuil
 
 ### The Sacred Relic Quest
 **Level**: 8-14  
-**Mission**: Ancient texts speak of a divine artifact hidden within the temple that could purify the corruption spreading through [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s waters. The characters must prove their worthiness to Marcus and undergo spiritual trials to locate the relic, facing both physical dangers and spiritual challenges that test their faith and resolve.
+**Mission**: Ancient texts speak of a divine artifact hidden within the temple that could purify the corruption spreading through [[02_Worldbuilding/Places/Aquabyssos]]'s waters. The characters must prove their worthiness to Marcus and undergo spiritual trials to locate the relic, facing both physical dangers and spiritual challenges that test their faith and resolve.
 
 ### The False Guardian
 **Level**: 7-13  
@@ -174,29 +174,29 @@ The Drowned Temple represents one of [[vault_backup_20250813_073007/02_Worldbuil
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Null Cathedral]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Harbor District]]
+- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
+- [[02_Worldbuilding/Places/The Null Cathedral]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Acolyte Sister Tidal Deepfaith]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sacred Historian Coral Deepscribe]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pilgrim Guide Nautilus Pathfinder]]
+- [[02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]
+- [[02_Worldbuilding/Places/Acolyte Sister Tidal Deepfaith]]
+- [[02_Worldbuilding/Places/Sacred Historian Coral Deepscribe]]
+- [[02_Worldbuilding/Places/Pilgrim Guide Nautilus Pathfinder]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sacred Drowning Ritual]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pool of Sacred Drowning]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Divine Preservation Magic]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Underwater Religious Practices]]
+- [[02_Worldbuilding/Lore/Sacred Drowning Ritual]]
+- [[02_Worldbuilding/Places/Pool of Sacred Drowning]]
+- [[02_Worldbuilding/Places/Divine Preservation Magic]]
+- [[02_Worldbuilding/Places/Underwater Religious Practices]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[02_Worldbuilding/Quests/The Lock Saboteur]]
 
 ## Player-Facing Summary
 
@@ -218,6 +218,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]
+- [[02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]
 
 <!-- enriched: true -->

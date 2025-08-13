@@ -232,12 +232,12 @@ The current Crystal Sovereign, Prism-Heart the Radiant, has begun showing signs 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Academies/The Crystal Academy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Academies/Royal Academy of Arcane Art]]
+- [[02_Worldbuilding/Quests/The Crown's Burden]]
+- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[02_Worldbuilding/Quests/The Crown's Burden]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Academies/The Crystal Academy]]
+- [[02_Worldbuilding/Groups/Academies/Royal Academy of Arcane Art]]
 
 ## Player-Facing Summary
 

@@ -1,12 +1,12 @@
 ---
 connections:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Cult Practices]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Kelp Forest Monasteries]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temple of the First Tide]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Drowned God]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Depth Caste System]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Memory Ceremonies]]'
+- '[[02_Worldbuilding/Lore/Deep Mother Cult Practices]]'
+- '[[02_Worldbuilding/Lore/Kelp Forest Monasteries]]'
+- '[[02_Worldbuilding/Lore/Temple of the First Tide]]'
+- '[[02_Worldbuilding/Lore/The Drowned God]]'
+- '[[02_Worldbuilding/Lore/Pressure Adaptation System]]'
+- '[[02_Worldbuilding/Lore/Aquabyssos Depth Caste System]]'
+- '[[02_Worldbuilding/Lore/Tidal Memory Ceremonies]]'
 created: '2025-08-11'
 created_by: cultural-expansion
 status: complete
@@ -43,21 +43,21 @@ world: Aquabyssos
 
 ## Overview
 
-The **Pressure Baptism Rites** represent one of the most fundamental and universal religious ceremonies practiced throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], serving as both spiritual initiation and practical adaptation ritual for those seeking to live in the deep underwater realms. Unlike surface baptisms that symbolically cleanse through brief immersion, pressure baptism involves extended exposure to crushing depths that permanently transform both body and spirit, marking the transition from surface existence to true membership in the underwater community.
+The **Pressure Baptism Rites** represent one of the most fundamental and universal religious ceremonies practiced throughout [[02_Worldbuilding/Places/Aquabyssos]], serving as both spiritual initiation and practical adaptation ritual for those seeking to live in the deep underwater realms. Unlike surface baptisms that symbolically cleanse through brief immersion, pressure baptism involves extended exposure to crushing depths that permanently transform both body and spirit, marking the transition from surface existence to true membership in the underwater community.
 
 These ancient ceremonies combine practical pressure adaptation techniques with profound spiritual teachings about the nature of transformation, surrender, and rebirth through ordeal. The rites are administered by specially trained priests called **Depth Wardens** who possess both the theological knowledge to guide spiritual transformation and the medical expertise to prevent death during the dangerous physical adaptation process.
 
-Pressure baptism serves multiple functions within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] society: religious initiation into the deep-dwelling community, practical preparation for life at crushing depths, social confirmation of commitment to underwater civilization, and spiritual purification through transformative ordeal. The ceremony marks one of the most significant transitions possible in the underwater world - the permanent adoption of the deep as one's true spiritual and physical home.
+Pressure baptism serves multiple functions within [[02_Worldbuilding/Places/Aquabyssos]] society: religious initiation into the deep-dwelling community, practical preparation for life at crushing depths, social confirmation of commitment to underwater civilization, and spiritual purification through transformative ordeal. The ceremony marks one of the most significant transitions possible in the underwater world - the permanent adoption of the deep as one's true spiritual and physical home.
 
 ## Historical Development
 
 ### Ancient Origins
-The pressure baptism tradition predates the founding of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] itself, emerging from the earliest attempts by surface dwellers to establish permanent underwater settlements. Initial colonization efforts faced catastrophic failure rates as surface-adapted humans proved incapable of surviving at the depths necessary for secure underwater cities.
+The pressure baptism tradition predates the founding of [[02_Worldbuilding/Places/Aquabyssos]] itself, emerging from the earliest attempts by surface dwellers to establish permanent underwater settlements. Initial colonization efforts faced catastrophic failure rates as surface-adapted humans proved incapable of surviving at the depths necessary for secure underwater cities.
 
 The first successful pressure adaptation techniques were developed by **Saint Benthia the Deep-Walker**, a surface religious leader who claimed to receive divine visions instructing her in methods for spiritual and physical transformation that would allow humans to thrive in the underwater realm. Her original techniques, preserved in the sacred text known as the "Codex of Depths," combined practical pressure conditioning with intensive spiritual preparation designed to prepare both body and soul for the trauma of transformation.
 
 ### The Great Descent
-During the founding period of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], pressure baptism evolved from individual adaptation ritual to mass ceremony necessary for establishing the underwater population. The "Great Descent" period saw thousands of surface dwellers undergoing pressure baptism to join the new underwater civilization, with survival rates gradually improving as techniques were refined and spiritual preparation was enhanced.
+During the founding period of [[02_Worldbuilding/Places/Aquabyssos]], pressure baptism evolved from individual adaptation ritual to mass ceremony necessary for establishing the underwater population. The "Great Descent" period saw thousands of surface dwellers undergoing pressure baptism to join the new underwater civilization, with survival rates gradually improving as techniques were refined and spiritual preparation was enhanced.
 
 This period established many of the ritual elements still practiced today, including the use of sacred diving bells, the ceremonial descent through multiple pressure zones, and the community celebration that welcomes newly baptized individuals into full underwater citizenship.
 
@@ -124,14 +124,14 @@ The baptism proper begins in specially constructed chambers that can precisely c
 Candidates enter the chamber while reciting the "Prayer of Descent," formally requesting divine guidance and protection during their transformation. The chamber is then gradually pressurized while depth wardens monitor both physical responses and spiritual state.
 
 **The Trial of Second Depth**
-Once candidates have adapted to the first pressure level, they descend to the second chamber, which exposes them to pressures equivalent to the intermediate depths where much of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] daily life occurs. This stage tests their ability to maintain consciousness and spiritual focus while their bodies undergo significant physiological changes.
+Once candidates have adapted to the first pressure level, they descend to the second chamber, which exposes them to pressures equivalent to the intermediate depths where much of [[02_Worldbuilding/Places/Aquabyssos]] daily life occurs. This stage tests their ability to maintain consciousness and spiritual focus while their bodies undergo significant physiological changes.
 
 This phase often includes visions or spiritual experiences as the brain responds to altered pressure and oxygen levels. Depth wardens are trained to distinguish between beneficial spiritual revelations and dangerous hallucinations, providing guidance that helps candidates interpret their experiences constructively.
 
 **The Crucible of True Depth**
-The final stage exposes candidates to pressures found in the deepest inhabited areas of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. This extreme environment pushes the limits of human adaptation and creates the most profound spiritual experiences of the baptism process.
+The final stage exposes candidates to pressures found in the deepest inhabited areas of [[02_Worldbuilding/Places/Aquabyssos]]. This extreme environment pushes the limits of human adaptation and creates the most profound spiritual experiences of the baptism process.
 
-Many candidates report direct communication with divine entities, prophetic visions about their future role in underwater society, or mystical experiences of unity with the ocean itself. Those who successfully complete this stage emerge with permanent physiological adaptations that allow them to survive and thrive at any depth within the inhabited ranges of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+Many candidates report direct communication with divine entities, prophetic visions about their future role in underwater society, or mystical experiences of unity with the ocean itself. Those who successfully complete this stage emerge with permanent physiological adaptations that allow them to survive and thrive at any depth within the inhabited ranges of [[02_Worldbuilding/Places/Aquabyssos]].
 
 ### The Emergence and Celebration
 
@@ -152,7 +152,7 @@ The celebration includes:
 ## Variations by Community and Tradition
 
 ### Orthodox Pressure Baptism
-The standard form practiced in most of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], following traditional procedures established during the founding period. This conservative approach emphasizes safety and spiritual orthodoxy while maintaining the essential transformative elements.
+The standard form practiced in most of [[02_Worldbuilding/Places/Aquabyssos]], following traditional procedures established during the founding period. This conservative approach emphasizes safety and spiritual orthodoxy while maintaining the essential transformative elements.
 
 ### Extreme Depth Baptism
 Practiced by some communities that inhabit the deepest areas accessible to human life. These baptisms expose candidates to pressures that would kill those with standard adaptation, creating individuals capable of surviving in the most extreme underwater environments.
@@ -184,7 +184,7 @@ Adapted baptism for craftspeople whose work requires specific depth-related abil
 ## Sacred Sites and Equipment
 
 ### The Great Baptistery
-The primary pressure baptism facility for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], a massive complex of interconnected chambers that can accommodate multiple simultaneous baptisms while maintaining both safety and ritual sanctity. The facility includes:
+The primary pressure baptism facility for [[02_Worldbuilding/Places/Aquabyssos]], a massive complex of interconnected chambers that can accommodate multiple simultaneous baptisms while maintaining both safety and ritual sanctity. The facility includes:
 
 - **Preparation Halls**: Spaces for the 30-day conditioning period
 - **Graduated Chambers**: Multiple pressure levels for safe adaptation
@@ -239,18 +239,18 @@ Traditional practice baptizes individuals after reaching adult decision-making c
 Some groups practice modified baptisms that provide limited depth adaptation without the full transformation experience, creating theological disputes about what constitutes authentic spiritual membership in the deep community.
 
 ### The Cross-World Integration Debate
-Contact with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] has raised questions about whether pressure baptism principles could be adapted for surface world spiritual development, and whether aerial equivalents might exist.
+Contact with [[02_Worldbuilding/Places/Aethermoor]] has raised questions about whether pressure baptism principles could be adapted for surface world spiritual development, and whether aerial equivalents might exist.
 
 ## Cultural and Social Impact
 
 ### Class and Social Structure
-Pressure baptism creates a fundamental division in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] society between those adapted for deep life and those limited to shallow depths, with significant implications for social mobility and professional opportunity.
+Pressure baptism creates a fundamental division in [[02_Worldbuilding/Places/Aquabyssos]] society between those adapted for deep life and those limited to shallow depths, with significant implications for social mobility and professional opportunity.
 
 ### Family Relationships
 Families are often divided by pressure baptism decisions, with some members choosing transformation while others remain surface-adapted, creating complex dynamics and potential conflicts.
 
 ### Cultural Identity
-Pressure baptism serves as a defining characteristic of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] cultural identity, distinguishing underwater civilization from surface cultures and creating strong community bonds among the depth-adapted.
+Pressure baptism serves as a defining characteristic of [[02_Worldbuilding/Places/Aquabyssos]] cultural identity, distinguishing underwater civilization from surface cultures and creating strong community bonds among the depth-adapted.
 
 ### Religious Authority
 Depth wardens who administer pressure baptism hold significant spiritual and social authority, making them influential figures in community decision-making and cultural development.
@@ -299,17 +299,17 @@ A young person from an influential family is expected to undergo pressure baptis
 Pressure baptism ceremonies are producing candidates with unusual and potentially dangerous adaptations, suggesting that someone is deliberately modifying the traditional process for unknown purposes.
 
 ### The Cross-World Candidate
-An individual from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] requests pressure baptism, creating unprecedented theological and practical challenges that require the PCs to navigate complex cultural and religious issues.
+An individual from [[02_Worldbuilding/Places/Aethermoor]] requests pressure baptism, creating unprecedented theological and practical challenges that require the PCs to navigate complex cultural and religious issues.
 
 ### The Lost Depth Warden
 An experienced priest who administers pressure baptism disappears under mysterious circumstances, leaving candidates stranded in the middle of their transformation process and requiring immediate intervention to prevent deaths.
 
 ### The Ancient Alternative
-Archaeological evidence suggests that pre-[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] cultures used different methods for depth adaptation that might be safer or more effective than current pressure baptism techniques, but investigating these alternatives requires dangerous exploration and challenges to religious orthodoxy.
+Archaeological evidence suggests that pre-[[02_Worldbuilding/Places/Aquabyssos]] cultures used different methods for depth adaptation that might be safer or more effective than current pressure baptism techniques, but investigating these alternatives requires dangerous exploration and challenges to religious orthodoxy.
 
 ## Connection to Broader Themes
 
-Pressure baptism serves as a powerful metaphor for the fundamental transformations required by both individual spiritual development and the broader cultural adaptations needed for successful inter-world cooperation. The ceremony's emphasis on willing submission to transformative ordeal parallels the challenges faced by both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] as they navigate the convergence of their two civilizations.
+Pressure baptism serves as a powerful metaphor for the fundamental transformations required by both individual spiritual development and the broader cultural adaptations needed for successful inter-world cooperation. The ceremony's emphasis on willing submission to transformative ordeal parallels the challenges faced by both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] as they navigate the convergence of their two civilizations.
 
 The ritual also highlights themes of sacrifice, community, and the price of belonging, exploring the question of how much change individuals and communities are willing to accept in pursuit of greater spiritual and social goals. These themes resonate throughout the campaign's exploration of identity, transformation, and the costs and benefits of fundamental change.
 
@@ -317,8 +317,8 @@ The ritual also highlights themes of sacrifice, community, and the price of belo
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Kraken Territories]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temple of the First Tide]]
+- [[02_Worldbuilding/Lore/Kraken Territories]]
+- [[02_Worldbuilding/Lore/Temple of the First Tide]]
 
 ## Player-Facing Summary
 
@@ -336,5 +336,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Kraken Territories]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Lore/Kraken Territories]]
+- [[02_Worldbuilding/Places/Aethermoor]]

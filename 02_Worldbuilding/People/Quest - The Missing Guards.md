@@ -43,13 +43,13 @@ world: Aethermoor
 Quest - The Missing Guards moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
 
 - Ideal: Stability through controlled risk.
-- Bond: A family archive tied to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Lighthouse of Storms]].
+- Bond: A family archive tied to [[02_Worldbuilding/Lore/The Lighthouse of Storms]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers.
 
 ## Tactics and Traits
 - Conversational Disarm: First parley each day imposes disadvantage on Insight checks to read their tells.
 - Ledger of Debts: Knows a favor owed by agents linked to [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]].
-- Contingency: Keeps a sealed route toward [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]] if negotiations sour.
+- Contingency: Keeps a sealed route toward [[02_Worldbuilding/Quests/The Whispering Expanse]] if negotiations sour.
 
 ## For the Table (Use Now)
 - Opening Line: “Prices rise with fear; calm your breath and we can afford the truth.”
@@ -62,13 +62,13 @@ Quest - The Missing Guards moves information and influence like currency. Public
 - Verdant Accord observer: -1 (ideological friction)
 
 ## Hooks to the Main Campaign
-- Offers a map shard pointing toward [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Lighthouse of Storms]].
-- Brokers a ceasefire to enable [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]].
+- Offers a map shard pointing toward [[02_Worldbuilding/Lore/The Lighthouse of Storms]].
+- Brokers a ceasefire to enable [[02_Worldbuilding/Quests/The Whispering Expanse]].
 - Sells a rumor naming [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] as the true buyer behind a recent theft.
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Lighthouse of Storms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[02_Worldbuilding/Quests/The Whispering Expanse]]
 - [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
 
 ## Player-Facing Summary
@@ -94,4 +94,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]

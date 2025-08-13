@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
 
 ## Player-Facing Summary
 

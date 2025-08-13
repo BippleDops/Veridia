@@ -23,20 +23,20 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Temporal Convergence Storms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whispering Depths]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Depth Wardens]]
+- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/Places/The Temporal Convergence Storms]]
+- [[02_Worldbuilding/Places/The Whispering Depths]]
 
 ## Player-Facing Summary
 

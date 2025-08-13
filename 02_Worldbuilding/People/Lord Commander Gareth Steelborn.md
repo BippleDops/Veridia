@@ -28,7 +28,7 @@ world: Both
 *The Crystal Shield, Defender of the Realm*
 
 ## Overview
-Lord Commander Gareth Steelborn leads the [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]], [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s elite military force. A veteran of countless battles and absolutely loyal to [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]], he represents the idealistic view of crystal technology used for protection and justice. He remains unaware of the Queen's corruption, believing fully in the righteousness of their cause.
+Lord Commander Gareth Steelborn leads the [[02_Worldbuilding/People/Crystal Wardens]], [[02_Worldbuilding/Places/Aethermoor]]'s elite military force. A veteran of countless battles and absolutely loyal to [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], he represents the idealistic view of crystal technology used for protection and justice. He remains unaware of the Queen's corruption, believing fully in the righteousness of their cause.
 
 ## Appearance
 - **Build**: Imposing, 6'3", muscular
@@ -269,7 +269,7 @@ Lord Commander Gareth Steelborn leads the [[vault_backup_20250813_073007/02_Worl
 - Remembers conversations and observations that suggest deeper conspiracies at work
 
 ## Background
-- Born to a blacksmith family in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ironhold]]
+- Born to a blacksmith family in [[02_Worldbuilding/Places/Ironhold]]
 - Joined military at 16 after crystal raiders killed his family
 - Rose through ranks through merit and valor
 - Became Lord Commander five years ago
@@ -278,9 +278,9 @@ Lord Commander Gareth Steelborn leads the [[vault_backup_20250813_073007/02_Worl
 ## Abilities & Resources
 
 ### Military Command
-- Commands 10,000 [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- Commands 10,000 [[02_Worldbuilding/People/Crystal Wardens]]
 - Elite personal guard: "The Crystalline Guard"
-- Network of fortresses across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- Network of fortresses across [[02_Worldbuilding/Places/Aethermoor]]
 - Access to military intelligence
 
 ### Combat Abilities
@@ -297,28 +297,28 @@ Lord Commander Gareth Steelborn leads the [[vault_backup_20250813_073007/02_Worl
 ## Relationships
 
 ### Loyalties
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Absolute devotion (tragic if he learns truth)
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]] - Protégé and surrogate daughter
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]] - Former student (unaware of his Purist sympathies)
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Absolute devotion (tragic if he learns truth)
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Protégé and surrogate daughter
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]] - Former student (unaware of his Purist sympathies)
 
 ### Allies
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Military cooperation
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Supplies crystal weapons
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Provides healing for troops
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Military cooperation
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Supplies crystal weapons
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Provides healing for troops
 
 ### Tensions
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Distrusts their influence on Queen
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]] - Sees as threat to stability
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Sworn enemy of crime
+- [[02_Worldbuilding/People/The Crimson Sage]] - Distrusts their influence on Queen
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Sees as threat to stability
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Sworn enemy of crime
 
 ### Respected Opponents
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]] - Respects but opposes
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] - Understands concerns but disagrees
+- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Respects but opposes
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Understands concerns but disagrees
 
 ## Secrets
 > [!warning] DM Only
 > - Has noticed Queen's behavioral changes but attributes to stress
-> - Secretly loves [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]] like a daughter
+> - Secretly loves [[02_Worldbuilding/People/Captain Lyanna Brightshield]] like a daughter
 > - Possesses evidence that could expose [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 > - His brother [[Marcus "The Shade" Blackwood]] works for the Syndicate
 > - Would turn against the Queen if he knew about her corruption
@@ -326,10 +326,10 @@ Lord Commander Gareth Steelborn leads the [[vault_backup_20250813_073007/02_Worl
 
 ## Current Activities
 - Training new Crystal Warden recruits
-- Investigating [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] terrorist cells
+- Investigating [[02_Worldbuilding/Groups/Purist Coalition]] terrorist cells
 - Planning defenses for Crystal Festival
-- Searching for [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]]'s expedition
-- Monitoring [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]] border
+- Searching for [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'s expedition
+- Monitoring [[02_Worldbuilding/Places/The Crystalline Wastes]] border
 
 ## Motivations
 1. **Primary**: Protect the innocent and maintain order
@@ -362,7 +362,7 @@ Lord Commander Gareth Steelborn leads the [[vault_backup_20250813_073007/02_Worl
 1. Needs help investigating corruption in the Wardens
 2. Secret mission to retrieve stolen crystal weapons
 3. Find evidence about his brother's criminal activities
-4. Rescue captured Wardens from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]]
+4. Rescue captured Wardens from [[02_Worldbuilding/Places/The Crystalline Wastes]]
 5. Test party's worthiness to join elite unit
 
 ## Speaking Style
@@ -384,26 +384,26 @@ Lord Commander Gareth Steelborn leads the [[vault_backup_20250813_073007/02_Worl
 - Will be devastated when Queen's corruption revealed
 - Could become party's greatest ally or enemy depending on approach
 - His rigid worldview is both strength and weakness
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]] plots to use him against Queen
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]] plots to use him against Queen
 - Critical figure in preventing/causing civil war
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Sworn liege
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]] - Protégé
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Sworn liege
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Protégé
 - [[Marcus "The Shade" Blackwood]] - Estranged brother
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]] - Former student
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Military ally
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]] - Former student
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Military ally
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Base of operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] Fortress - Military headquarters
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]] - Patrol area
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Reinforcement duties
+- [[02_Worldbuilding/Places/Crystalhaven]] - Base of operations
+- [[02_Worldbuilding/People/Crystal Wardens]] Fortress - Military headquarters
+- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Patrol area
+- [[02_Worldbuilding/Places/Port Meridian]] - Reinforcement duties
 
 ## Involved Quests
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Military support
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Security detail
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Traitor Within]] - Investigating corruption
+- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Security detail
+- [[02_Worldbuilding/People/Quest - The Traitor Within]] - Investigating corruption
 
 
 ## Connections
@@ -426,12 +426,12 @@ Legends speak of Lord Commander Gareth Steelborn as a nexus where past and prese
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Traitor Within]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ironhold]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]]
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/Quest - The Traitor Within]]
+- [[02_Worldbuilding/Places/Ironhold]]

@@ -46,10 +46,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdoms]]
+- [[02_Worldbuilding/Lore/Eastern Kingdoms]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdoms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Alternative-Path-Fled-City]]
+- [[02_Worldbuilding/Lore/Eastern Kingdoms]]
+- [[02_Worldbuilding/Places/Alternative-Path-Fled-City]]

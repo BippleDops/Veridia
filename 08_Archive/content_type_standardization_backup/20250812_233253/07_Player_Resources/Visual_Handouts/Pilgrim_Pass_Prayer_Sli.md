@@ -33,7 +33,7 @@ A document circulated among locals and travelers. Its edges are smudged with sal
 - If lost: a copy resurfaces at a cost, along with a rumor
 
 ## Cross-References
-- [[09_Performance/Indexes/Location_Network_Graph.md|Location Network]]
+- [[13_Performance/Indexes/Location_Network_Graph.md|Location Network]]
 - [[03_Mechanics/Rumor_Mill_Networ|03 Mechanics/Rumor Mill Networ]]
 - [[06_GM_Resources/Ultimate_GM_Screen.md|GM Screen]]
 

@@ -175,7 +175,7 @@ Spy Games emphasizes roleplay, investigation, and moral choices over combat. Kee
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Wandering Atoll]]
+- [[02_Worldbuilding/Places/The Wandering Atoll]]
 
 ## Player-Facing Summary
 
@@ -187,6 +187,6 @@ Legends speak of Spy Games as a nexus where past and present converge. Locals de
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Spy Games]]
+- [[02_Worldbuilding/Places/Spy Games]]
 
 <!-- enriched: true -->

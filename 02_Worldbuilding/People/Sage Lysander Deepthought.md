@@ -23,17 +23,17 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Academy]]
+- [[02_Worldbuilding/Lore/Abyssal Academy]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Academy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Cultivator Thalia Greenglow]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Cerulean Breath]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Archivist Vera Glowmind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deepmind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten One]]
+- [[02_Worldbuilding/Lore/Abyssal Academy]]
+- [[02_Worldbuilding/People/Master Cultivator Thalia Greenglow]]
+- [[02_Worldbuilding/People/The Cerulean Breath]]
+- [[02_Worldbuilding/Places/Archivist Vera Glowmind]]
+- [[02_Worldbuilding/Places/The Deepmind]]
+- [[02_Worldbuilding/Places/The Forgotten One]]
 
 ## Player-Facing Summary
 

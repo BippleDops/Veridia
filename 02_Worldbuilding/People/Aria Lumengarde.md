@@ -23,20 +23,20 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Knight]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Pretender]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]]
+- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]
+- [[02_Worldbuilding/People/Knight]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/Quest - The Pretender]]
+- [[02_Worldbuilding/Places/The Verdant Reach]]
 
 ## Player-Facing Summary
 

@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Foundation Depths]]
+- [[02_Worldbuilding/Places/The Foundation Depths]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Foundation Depths]]
+- [[02_Worldbuilding/Places/The Foundation Depths]]
 
 ## Player-Facing Summary
 

@@ -29,11 +29,11 @@ world: Both
 *Where Troubled Waters Find Peace*
 
 > *"In the depths of conflict, only in stillness can truth be found. Here, enemies become neighbors, and neighbors become friends. The water remembers every dispute resolved, every peace achieved."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Serenity Stillwater]], Master of the Peaceful Current
+> — [[02_Worldbuilding/Places/Mediator Serenity Stillwater]], Master of the Peaceful Current
 
 ## Overview
 
-The Stillwater Mediation Hall stands as Aquabyssos's premier center for conflict resolution and peaceful arbitration, where Master [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Serenity Stillwater]] and her team of skilled mediators help resolve disputes that might otherwise escalate into violence or lasting feuds. Located within [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Ground]], the Hall operates under sacred principles of neutrality and impartiality, providing a sanctuary where even bitter enemies can meet safely to find peaceful solutions. More than just a courthouse or arbitration center, the Stillwater Mediation Hall has become a symbol of hope for lasting peace, demonstrating that even the deepest conflicts can be resolved through patience, understanding, and skilled mediation.
+The Stillwater Mediation Hall stands as Aquabyssos's premier center for conflict resolution and peaceful arbitration, where Master [[02_Worldbuilding/Places/Mediator Serenity Stillwater]] and her team of skilled mediators help resolve disputes that might otherwise escalate into violence or lasting feuds. Located within [[02_Worldbuilding/Places/The Neutral Ground]], the Hall operates under sacred principles of neutrality and impartiality, providing a sanctuary where even bitter enemies can meet safely to find peaceful solutions. More than just a courthouse or arbitration center, the Stillwater Mediation Hall has become a symbol of hope for lasting peace, demonstrating that even the deepest conflicts can be resolved through patience, understanding, and skilled mediation.
 
 ## History and Foundation
 
@@ -45,7 +45,7 @@ The Stillwater Mediation Hall stands as Aquabyssos's premier center for conflict
 **Pioneer**: First formal mediation institution in underwater realm
 
 ### Serenity's Arrival
-**Transformation**: 35 years ago, [[vault_backup_20250813_073007/02_Worldbuilding/Places/Serenity Stillwater]] joined as junior mediator  
+**Transformation**: 35 years ago, [[02_Worldbuilding/Places/Serenity Stillwater]] joined as junior mediator  
 **Innovation**: Introduced revolutionary "Still Water Method" of conflict resolution  
 **Recognition**: Success rate improved from 40% to 85% under her guidance  
 **Growth**: Demand for services increased dramatically  
@@ -169,7 +169,7 @@ The Stillwater Mediation Hall stands as Aquabyssos's premier center for conflict
 **Understanding**: Seeking root causes rather than surface symptoms
 
 #### Emotional Current Reading
-**Innovation**: Unique technique developed by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Serenity Stillwater]]  
+**Innovation**: Unique technique developed by [[02_Worldbuilding/Places/Serenity Stillwater]]  
 **Method**: Reading emotional patterns in water currents around participants  
 **Information**: Provides insight into true feelings beneath spoken words  
 **Ethics**: Used only to promote understanding, never manipulation  
@@ -207,7 +207,7 @@ The Stillwater Mediation Hall stands as Aquabyssos's premier center for conflict
 
 #### Current Finding
 **Exploration**: Seeking common ground and shared interests  
-**Innovation**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Serenity Stillwater]]'s technique for identifying convergent needs  
+**Innovation**: [[02_Worldbuilding/Places/Serenity Stillwater]]'s technique for identifying convergent needs  
 **Discovery**: Often reveals surprising areas of agreement  
 **Hope**: Building foundation for resolution  
 **Momentum**: Creating positive energy for problem-solving
@@ -260,21 +260,21 @@ The Stillwater Mediation Hall stands as Aquabyssos's premier center for conflict
 
 ### Leadership
 
-#### Master [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+#### Master [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
 **Background**: 35 years of mediation experience, developer of Stillwater Method  
 **Philosophy**: "Conflict is simply peace waiting to be discovered"  
 **Innovation**: Pioneer in emotional current reading and memory sharing techniques  
 **Reputation**: Recognized as most skilled mediator in known world  
 **Teaching**: Dedicated to training next generation of peacemakers
 
-#### Senior Mediator [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Peaceweaver]]
+#### Senior Mediator [[02_Worldbuilding/Places/Current Peaceweaver]]
 **Specialization**: Complex multi-party disputes and community conflicts  
-**Experience**: 20 years working alongside [[vault_backup_20250813_073007/02_Worldbuilding/Places/Serenity Stillwater]]  
+**Experience**: 20 years working alongside [[02_Worldbuilding/Places/Serenity Stillwater]]  
 **Innovation**: Expert in cultural bridge mediation techniques  
 **Leadership**: Deputy director handling administrative responsibilities  
 **Mentorship**: Primary trainer for new mediator apprentices
 
-#### Keeper of Memories [[vault_backup_20250813_073007/02_Worldbuilding/Places/Echo Truthseer]]
+#### Keeper of Memories [[02_Worldbuilding/Places/Echo Truthseer]]
 **Role**: Specialist in memory sharing mediation  
 **Ability**: Rare gift for safely facilitating memory exchange  
 **Ethics**: Absolute guardian of mental privacy and safety  
@@ -283,28 +283,28 @@ The Stillwater Mediation Hall stands as Aquabyssos's premier center for conflict
 
 ### Specialized Mediators
 
-#### Cultural Liaison [[vault_backup_20250813_073007/02_Worldbuilding/Places/Bridge Currentcrosser]]
+#### Cultural Liaison [[02_Worldbuilding/Places/Bridge Currentcrosser]]
 **Expertise**: Mediating conflicts between different cultural groups  
 **Knowledge**: Deep understanding of dozens of cultural traditions  
 **Language**: Fluent in 15+ languages and cultural communication styles  
 **Diplomacy**: Experience in inter-cultural relationship building  
 **Innovation**: Developer of cultural appreciation techniques
 
-#### Family Harmony Specialist [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tide Bondkeeper]]
+#### Family Harmony Specialist [[02_Worldbuilding/Places/Tide Bondkeeper]]
 **Focus**: Disputes within families and close relationships  
 **Training**: Expert in family dynamics and generational patterns  
 **Healing**: Specialized in addressing inherited traumas  
 **Approach**: Gentle, nurturing style particularly effective with emotional wounds  
 **Success**: High rate of lasting family reconciliation
 
-#### Community Organizer [[vault_backup_20250813_073007/02_Worldbuilding/Places/Flow Circlemaker]]
+#### Community Organizer [[02_Worldbuilding/Places/Flow Circlemaker]]
 **Specialization**: Large-scale community mediation  
 **Skills**: Managing complex group dynamics  
 **Democracy**: Ensuring equal participation in large groups  
 **Consensus**: Building agreement among diverse stakeholders  
 **Implementation**: Following up to ensure community solutions work
 
-#### Restorative Justice Coordinator [[vault_backup_20250813_073007/02_Worldbuilding/Places/Wave Healingbringer]]
+#### Restorative Justice Coordinator [[02_Worldbuilding/Places/Wave Healingbringer]]
 **Innovation**: Developing alternatives to punishment-based justice  
 **Community**: Building community involvement in healing process  
 **Creativity**: Finding meaningful ways for wrongdoers to repair harm  
@@ -313,21 +313,21 @@ The Stillwater Mediation Hall stands as Aquabyssos's premier center for conflict
 
 ### Support Staff
 
-#### Session Coordinator [[vault_backup_20250813_073007/02_Worldbuilding/Places/Gentle Currentguide]]
+#### Session Coordinator [[02_Worldbuilding/Places/Gentle Currentguide]]
 **Organization**: Scheduling and managing mediation logistics  
 **Preparation**: Ensuring all necessary resources available  
 **Communication**: Liaison between parties before and after mediation  
 **Documentation**: Maintaining confidential records  
 **Follow-up**: Checking on agreement implementation
 
-#### Emotional Support Specialist [[vault_backup_20250813_073007/02_Worldbuilding/Places/Calm Soothingwave]]
+#### Emotional Support Specialist [[02_Worldbuilding/Places/Calm Soothingwave]]
 **Training**: Professional counselor specializing in conflict-related trauma  
 **Support**: Individual counseling for mediation participants  
 **Preparation**: Helping participants prepare emotionally for mediation  
 **Recovery**: Ongoing support during healing process  
 **Referral**: Connecting participants with additional resources as needed
 
-#### Research Coordinator [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deep Studycurrent]]
+#### Research Coordinator [[02_Worldbuilding/Places/Deep Studycurrent]]
 **Documentation**: Recording and analyzing mediation outcomes  
 **Innovation**: Research into new mediation techniques  
 **Education**: Developing training materials and curricula  
@@ -537,7 +537,7 @@ The Stillwater Mediation Hall stands as Aquabyssos's premier center for conflict
 **Ethics**: How to handle magically compromised testimony
 
 #### The Disappeared Mediator
-**Crisis**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Serenity Stillwater]] vanishes during critical mediation  
+**Crisis**: [[02_Worldbuilding/Places/Serenity Stillwater]] vanishes during critical mediation  
 **Investigation**: Searching for clues while maintaining mediation schedule  
 **Suspects**: Desperate disputants, foreign agents, magical accidents  
 **Time Pressure**: Important mediation cannot proceed without her  
@@ -671,35 +671,35 @@ The Stillwater Mediation Hall stands as Aquabyssos's premier center for conflict
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Ground]]
+### [[02_Worldbuilding/Places/The Neutral Ground]]
 **Integration**: Mediation Hall serves as conflict resolution center for district  
 **Services**: Handles diplomatic disputes requiring neutral intervention  
 **Support**: Contributes to district's peaceful atmosphere  
 **Network**: Connected to other neutral institutions  
 **Reputation**: Hall's success enhances district's reputation
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+### [[02_Worldbuilding/Places/Parliament of Echoes]]
 **Service**: Provides mediation for political disputes  
 **Consultation**: Advising on conflict resolution legislation  
 **Training**: Teaching diplomatic negotiation techniques  
 **Prevention**: Early intervention in political conflicts  
 **Alternative**: Offering alternative to formal legal proceedings
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District]]
+### [[02_Worldbuilding/Places/Harbor District]]
 **Commercial**: Mediating trade disputes and contract conflicts  
 **Labor**: Resolving workplace conflicts and union disputes  
 **Cultural**: Addressing conflicts in diverse international community  
 **Economics**: Supporting stable business environment  
 **Integration**: Helping immigrants integrate peacefully
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Cultural Districts]]
+### [[02_Worldbuilding/Places/Cultural Districts]]
 **Specialization**: Expert in cross-cultural conflict resolution  
 **Education**: Teaching cultural sensitivity and appreciation  
 **Bridge**: Building connections between different communities  
 **Prevention**: Preventing culture-based conflicts through understanding  
 **Celebration**: Supporting cultural exchange and friendship
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+### [[02_Worldbuilding/Places/Memory Farmers]]
 **Technology**: Collaboration on ethical memory sharing techniques  
 **Innovation**: Joint research on memory-based healing  
 **Ethics**: Developing standards for memory privacy protection  
@@ -709,41 +709,41 @@ The Stillwater Mediation Hall stands as Aquabyssos's premier center for conflict
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Empathic Resonance
-> The Stillwater Mediation Hall is built around a naturally occurring phenomenon where the water itself absorbs and reflects emotional states. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Serenity Stillwater]] discovered this property decades ago and has been carefully cultivating it, creating an environment where participants literally feel each other's emotions through the water. This empathic resonance is the real secret behind the Hall's extraordinary success rate, but Serenity fears that revealing this would make people feel manipulated rather than genuinely reconciled.
+> The Stillwater Mediation Hall is built around a naturally occurring phenomenon where the water itself absorbs and reflects emotional states. [[02_Worldbuilding/Places/Serenity Stillwater]] discovered this property decades ago and has been carefully cultivating it, creating an environment where participants literally feel each other's emotions through the water. This empathic resonance is the real secret behind the Hall's extraordinary success rate, but Serenity fears that revealing this would make people feel manipulated rather than genuinely reconciled.
 
 > [!secret] DM Secret - The Broken Mediator
-> [[vault_backup_20250813_073007/02_Worldbuilding/Places/Serenity Stillwater]] carries a terrible secret: she has never been able to resolve her own deepest conflict with her estranged sister, despite being the most skilled mediator in the world. Her sister was wrongfully exiled years ago due to a misunderstanding that Serenity was partly responsible for, and every attempt at reconciliation has failed. This unresolved pain drives her dedication to helping others find peace, but also represents her greatest vulnerability.
+> [[02_Worldbuilding/Places/Serenity Stillwater]] carries a terrible secret: she has never been able to resolve her own deepest conflict with her estranged sister, despite being the most skilled mediator in the world. Her sister was wrongfully exiled years ago due to a misunderstanding that Serenity was partly responsible for, and every attempt at reconciliation has failed. This unresolved pain drives her dedication to helping others find peace, but also represents her greatest vulnerability.
 
 > [!secret] DM Secret - The Memory Archive
-> Hidden beneath the Hall is a secret chamber containing copies of memories from thousands of mediation sessions, preserved without the participants' knowledge. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper of Memories Echo Truthseer]] has been secretly collecting these memories, believing they represent valuable documentation of human conflict and resolution. However, this massive violation of privacy could destroy the Hall's reputation if discovered, and Echo struggles with the ethical implications of her actions while being unable to destroy what she sees as invaluable historical records.
+> Hidden beneath the Hall is a secret chamber containing copies of memories from thousands of mediation sessions, preserved without the participants' knowledge. [[02_Worldbuilding/Places/Keeper of Memories Echo Truthseer]] has been secretly collecting these memories, believing they represent valuable documentation of human conflict and resolution. However, this massive violation of privacy could destroy the Hall's reputation if discovered, and Echo struggles with the ethical implications of her actions while being unable to destroy what she sees as invaluable historical records.
 
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Ground]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Cultural Districts]]
+- [[02_Worldbuilding/Places/The Neutral Ground]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Harbor District]]
+- [[02_Worldbuilding/Places/Cultural Districts]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Serenity Stillwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Peaceweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Echo Truthseer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Bridge Currentcrosser]]
+- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[02_Worldbuilding/Places/Current Peaceweaver]]
+- [[02_Worldbuilding/Places/Echo Truthseer]]
+- [[02_Worldbuilding/Places/Bridge Currentcrosser]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Stillwater Method]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Sharing Techniques]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Restorative Justice]]
+- [[02_Worldbuilding/Places/The Stillwater Method]]
+- [[02_Worldbuilding/Places/Memory Sharing Techniques]]
+- [[02_Worldbuilding/Places/Restorative Justice]]
 - [[Cultural Bridge Mediation]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
 
@@ -765,7 +765,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Serenity Stillwater]]
+- [[02_Worldbuilding/Places/Mediator Serenity Stillwater]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Memory Farmers]]

@@ -5,9 +5,9 @@ alignment: Lawful Neutral (Honor-bound)
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Aristocratic Dueling Society
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Umbral Pavilion]]'
+headquarters: '[[02_Worldbuilding/Lore/The Umbral Pavilion]]'
 influence: High Society, Shadow Court
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Duchess Lysandra Voidgrace]]'
+leader: '[[02_Worldbuilding/Lore/Shadow Duchess Lysandra Voidgrace]]'
 members: ~75 active duelists, ~300 affiliates
 modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
@@ -41,7 +41,7 @@ world: Aquabyssos
 
 ## Organization Overview
 
-The Shadow Duchess Duel represents the pinnacle of civilized conflict resolution within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s elite shadow society. Founded by the legendary Shadow Duchess Lysandra Voidgrace, this aristocratic organization maintains strict codes of honor through formal dueling practices that have evolved far beyond simple combat into an art form combining martial prowess, shadow manipulation, and social diplomacy.
+The Shadow Duchess Duel represents the pinnacle of civilized conflict resolution within [[02_Worldbuilding/Places/Aquabyssos]]'s elite shadow society. Founded by the legendary Shadow Duchess Lysandra Voidgrace, this aristocratic organization maintains strict codes of honor through formal dueling practices that have evolved far beyond simple combat into an art form combining martial prowess, shadow manipulation, and social diplomacy.
 
 Unlike the chaotic violence that often characterizes conflicts in the depths, the Shadow Duchess Duel operates according to elaborate protocols that transform potentially lethal disputes into structured competitions. Their influence extends throughout the upper echelons of shadow-touched society, where a duel properly conducted according to their standards can resolve everything from minor social slights to major political disputes.
 
@@ -324,13 +324,13 @@ The Shadow Duchess Duel offers professional mediation and arbitration services t
 **Relationship**: Mutual Respect and Cooperation
 Both organizations value tradition, honor, and scholarly excellence. The Order provides astronomical timing for important ceremonies while the Duel provides conflict resolution services for scholarly disputes.
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**
+#### **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**
 **Relationship**: Diplomatic Recognition
 The Empire recognizes the Duel as legitimate representatives of shadow nobility. Formal protocols exist for handling disputes between mer-folk and shadow-touched individuals.
 
 ### Neutral Relations
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]**
+#### **[[02_Worldbuilding/Groups/Silverscale Consortium]]**
 **Relationship**: Professional Services
 The Consortium occasionally employs the Duel for arbitration of complex business disputes. The relationship is cordial but entirely professional.
 
@@ -350,7 +350,7 @@ The Cult's chaotic violence and disregard for civilized conduct directly contrad
 
 ### Hostile Relations
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]**
+#### **[[02_Worldbuilding/Groups/Purist Coalition]]**
 **Relationship**: Ideological Enemies
 The Coalition views shadow-touched individuals as corrupted abominations, making any cooperation impossible. The Duel maintains defensive protocols against Purist attacks.
 
@@ -532,33 +532,33 @@ Secret agreements with other organizations may commit the Shadow Duchess Duel to
 
 **Related Organizations**:
 - [[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
+- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
 - [[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
 - [[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
 
 **Key Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Umbral Pavilion]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Noble Districts]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Dueling Chambers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Academies/Shadow Academy Training Grounds]]
+- [[02_Worldbuilding/Lore/The Umbral Pavilion]]
+- [[02_Worldbuilding/Places/Shadow Noble Districts]]
+- [[02_Worldbuilding/Lore/The Dueling Chambers]]
+- [[02_Worldbuilding/Groups/Academies/Shadow Academy Training Grounds]]
 
 **Notable NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Duchess Lysandra Voidgrace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadowblade Marshal Darian Nightstrike]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Voidwhisper Diplomat Seraphina Darkgrace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Umbral Scholar Valentina Depthlore]]
+- [[02_Worldbuilding/Lore/Shadow Duchess Lysandra Voidgrace]]
+- [[02_Worldbuilding/Lore/Shadowblade Marshal Darian Nightstrike]]
+- [[02_Worldbuilding/Lore/Voidwhisper Diplomat Seraphina Darkgrace]]
+- [[02_Worldbuilding/Lore/Umbral Scholar Valentina Depthlore]]
 
 **Important Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Umbral Codes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Honor System]]
+- [[02_Worldbuilding/Lore/The Umbral Codes]]
+- [[02_Worldbuilding/Lore/Shadow Honor System]]
 - [[Formal Dueling Protocols]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Society Hierarchy]]
+- [[02_Worldbuilding/Lore/Shadow Society Hierarchy]]
 - [[Honor-Based Conflict Resolution]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
 
 ## Player-Facing Summary
 

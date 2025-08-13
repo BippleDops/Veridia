@@ -19,21 +19,21 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/Lore/Investigation Procedures]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Interrogation Techniques]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alteration Consequences]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silver Mask]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of Crimes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[02_Worldbuilding/Lore/Interrogation Techniques]]
+- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/Lore/Memory Alteration Consequences]]
+- [[02_Worldbuilding/Lore/Reality Merge Zones]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[02_Worldbuilding/Lore/Timeline of Crimes]]
+- [[02_Worldbuilding/Places/Aethermoor]]
 
 ## Player-Facing Summary
 

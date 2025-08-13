@@ -944,11 +944,11 @@ Certain madnesses enhance specific transformations:
 ## Integration with Other Systems
 
 This system connects with:
-- [[vault_backup_20250813_073007/03_Mechanics/Complete Pressure Adaptation System]] - Adaptation accelerates in merger zones
-- [[vault_backup_20250813_073007/03_Mechanics/Complete Faction Warfare System]] - Factions fight for merger control
-- [[vault_backup_20250813_073007/03_Mechanics/Memory Trading Economy]] - Memories as merger currency
-- [[vault_backup_20250813_073007/03_Mechanics/Sanity Horror Framework]] - Mental effects of reality breakdown
-- [[vault_backup_20250813_073007/03_Mechanics/Deep Mother Subsystem]] - Her influence on reality
+- [[03_Mechanics/Complete Pressure Adaptation System]] - Adaptation accelerates in merger zones
+- [[03_Mechanics/Complete Faction Warfare System]] - Factions fight for merger control
+- [[03_Mechanics/Memory Trading Economy]] - Memories as merger currency
+- [[03_Mechanics/Sanity Horror Framework]] - Mental effects of reality breakdown
+- [[03_Mechanics/Deep Mother Subsystem]] - Her influence on reality
 
 ---
 

@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Whisper-Touched William]]
+- [[02_Worldbuilding/Places/Whisper-Touched William]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Whisper-Touched William]]
+- [[02_Worldbuilding/Places/Whisper-Touched William]]
 
 ## Player-Facing Summary
 

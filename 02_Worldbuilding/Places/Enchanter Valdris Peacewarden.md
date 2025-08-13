@@ -129,7 +129,7 @@ Valdris serves as an excellent source of magical items, information about the ci
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
 
 
 ## History
@@ -177,6 +177,6 @@ Legends speak of Enchanter Valdris Peacewarden as a nexus where past and present
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Enchanter Valdris Peacewarden]]
+- [[02_Worldbuilding/Places/Enchanter Valdris Peacewarden]]
 
 <!-- enriched: true -->

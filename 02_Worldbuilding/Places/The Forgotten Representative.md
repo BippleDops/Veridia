@@ -92,10 +92,10 @@ Use the Forgotten Representative to introduce historical complexity to current e
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 02 - The Parliament's Paradox]]
+- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[1-Session Journals/Aquabyssos - Session 02 - The Parliament's Paradox]]
 
 
 ## History
@@ -143,6 +143,6 @@ Legends speak of The Forgotten Representative as a nexus where past and present 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten Representative]]
+- [[02_Worldbuilding/Places/The Forgotten Representative]]
 
 <!-- enriched: true -->

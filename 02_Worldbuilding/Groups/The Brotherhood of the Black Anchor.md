@@ -26,20 +26,20 @@ world: Both
 *In Shadow We Sail, In Silence We Strike*
 
 ## Overview
-The Brotherhood of the Black Anchor operates as a sophisticated smuggling and piracy network that competes directly with both [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]] and [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] for control of maritime criminal activities, specializing in stealth operations and information trafficking.
+The Brotherhood of the Black Anchor operates as a sophisticated smuggling and piracy network that competes directly with both [[02_Worldbuilding/Groups/The Crimson Fleet]] and [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] for control of maritime criminal activities, specializing in stealth operations and information trafficking.
 
 ## Key Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]]** - Primary rival for maritime criminal dominance
+- **[[02_Worldbuilding/Groups/The Crimson Fleet]]** - Primary rival for maritime criminal dominance
 - **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Competition and occasional cooperation
 - **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Recruitment pool and loose affiliates  
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Primary naval opposition
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Floating Markets of Nereidios]]** - Infiltration target and protection racket
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]** - Major operations base and corruption center
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]** - Active investigator of Brotherhood crimes
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets New]]** - Distribution partner for stolen goods
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Slave Markets of Tethys]]** - Competition for human trafficking routes
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Tidecaller]]** - Mysterious relationship and potential alliance
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Deepwater Trading Consortium]]** - Target for raids and extortion
+- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Primary naval opposition
+- **[[02_Worldbuilding/Places/The Floating Markets of Nereidios]]** - Infiltration target and protection racket
+- **[[02_Worldbuilding/Places/Port Meridian]]** - Major operations base and corruption center
+- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]** - Active investigator of Brotherhood crimes
+- **[[02_Worldbuilding/Places/The Shadow Markets New]]** - Distribution partner for stolen goods
+- **[[02_Worldbuilding/Places/The Slave Markets of Tethys]]** - Competition for human trafficking routes
+- **[[02_Worldbuilding/People/The Tidecaller]]** - Mysterious relationship and potential alliance
+- **[[02_Worldbuilding/Groups/The Deepwater Trading Consortium]]** - Target for raids and extortion
 - **[[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]]** - Information broker and intelligence source
 
 ## Player-Facing Summary

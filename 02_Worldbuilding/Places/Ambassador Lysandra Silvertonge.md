@@ -41,32 +41,32 @@ world: Aquabyssos
 
 ## Overview
 
-The Aethermoor Embassy in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] serves as the official diplomatic representation of the aerial realm within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], housed in an architecturally unique compound that represents the intersection of two vastly different civilizations. The embassy takes its common name from its long-serving ambassador, **Lysandra Silvertonge**, whose remarkable diplomatic career and personal charm have made her one of the most respected figures in inter-realm relations.
+The Aethermoor Embassy in [[02_Worldbuilding/Places/Abyssos Prime]] serves as the official diplomatic representation of the aerial realm within [[02_Worldbuilding/Places/Aquabyssos]], housed in an architecturally unique compound that represents the intersection of two vastly different civilizations. The embassy takes its common name from its long-serving ambassador, **Lysandra Silvertonge**, whose remarkable diplomatic career and personal charm have made her one of the most respected figures in inter-realm relations.
 
-Located in the prestigious [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Diplomatic Quarter]] of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]], the embassy compound exists as a carefully designed fusion of architectural styles, where crystalline spires meet coral formations and atmospheric processing systems enable both aquatic and aerial beings to coexist comfortably. The facility serves not only as a diplomatic mission but also as a cultural bridge, trade facilitation center, and safe haven for citizens of both realms.
+Located in the prestigious [[02_Worldbuilding/Places/The Diplomatic Quarter]] of [[02_Worldbuilding/Places/Abyssos Prime]], the embassy compound exists as a carefully designed fusion of architectural styles, where crystalline spires meet coral formations and atmospheric processing systems enable both aquatic and aerial beings to coexist comfortably. The facility serves not only as a diplomatic mission but also as a cultural bridge, trade facilitation center, and safe haven for citizens of both realms.
 
-The embassy represents one of the most successful diplomatic installations in the known worlds, having maintained peaceful relations between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] for over three decades despite the fundamental differences between the sky-dwelling and depth-dwelling civilizations. Under Ambassador Silvertonge's leadership, the embassy has become a model for inter-realm cooperation and understanding.
+The embassy represents one of the most successful diplomatic installations in the known worlds, having maintained peaceful relations between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] for over three decades despite the fundamental differences between the sky-dwelling and depth-dwelling civilizations. Under Ambassador Silvertonge's leadership, the embassy has become a model for inter-realm cooperation and understanding.
 
 ## Architectural Design & Physical Layout
 
 ### The Hybrid Architecture Approach
 
-The embassy building represents a remarkable feat of engineering, combining the best elements of both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] architectural traditions. The structure rises through multiple levels, each designed to accommodate different atmospheric conditions and the varying needs of both aerial and aquatic visitors.
+The embassy building represents a remarkable feat of engineering, combining the best elements of both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] architectural traditions. The structure rises through multiple levels, each designed to accommodate different atmospheric conditions and the varying needs of both aerial and aquatic visitors.
 
-The foundation consists of traditional [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] coral-growing techniques, where living coral has been shaped and cultivated to form the structural base. This living foundation not only provides stability but also creates a natural filtration system for the water that flows through the lower levels of the building.
+The foundation consists of traditional [[02_Worldbuilding/Places/Aquabyssos]] coral-growing techniques, where living coral has been shaped and cultivated to form the structural base. This living foundation not only provides stability but also creates a natural filtration system for the water that flows through the lower levels of the building.
 
-Rising from this base, crystalline elements characteristic of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] architecture reach toward the surface, creating transparent walls and allowing natural light to penetrate the depths. These crystal formations are not merely decorative but serve as part of an complex environmental control system that manages pressure, temperature, and atmospheric composition throughout the building.
+Rising from this base, crystalline elements characteristic of [[02_Worldbuilding/Places/Aethermoor]] architecture reach toward the surface, creating transparent walls and allowing natural light to penetrate the depths. These crystal formations are not merely decorative but serve as part of an complex environmental control system that manages pressure, temperature, and atmospheric composition throughout the building.
 
 ### Level-by-Level Layout
 
 #### Level 1: The Aquatic Reception Areas (900-1000 feet depth)
-The deepest level of the embassy caters primarily to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] officials and citizens, featuring fully aquatic environments with comfortable water pressure and temperature. The **Grand Reception Hall** serves as the primary meeting space for formal diplomatic functions, its coral-lined walls displaying artistic representations of both realms' histories.
+The deepest level of the embassy caters primarily to [[02_Worldbuilding/Places/Aquabyssos]] officials and citizens, featuring fully aquatic environments with comfortable water pressure and temperature. The **Grand Reception Hall** serves as the primary meeting space for formal diplomatic functions, its coral-lined walls displaying artistic representations of both realms' histories.
 
 **Key Facilities:**
 - **Diplomatic Meeting Chambers**: Secure spaces for sensitive negotiations
 - **Cultural Display Gallery**: Rotating exhibitions showcasing both civilizations
 - **Aquatic Guest Quarters**: Comfortable accommodations for visiting officials
-- **Secure Communications Center**: Encrypted communication with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- **Secure Communications Center**: Encrypted communication with [[02_Worldbuilding/Places/Aethermoor]]
 
 The **Treaty Chamber** occupies a place of honor on this level, its walls inscribed with the text of every agreement signed between the two realms. The chamber's design incorporates both coral and crystal elements, symbolizing the unity that can be achieved despite fundamental differences.
 
@@ -80,18 +80,18 @@ This innovative level features gradually changing atmospheric conditions, allowi
 - **Security Coordination**: Joint security operations between both realms
 
 #### Level 3: The Aerial Accommodations (800-850 feet depth)
-The upper portions of the embassy feature air-filled spaces designed for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] citizens and officials who cannot operate in fully aquatic environments. **Crystal Sky Gardens** recreate aerial atmospheric conditions while maintaining the underwater location through sophisticated environmental controls.
+The upper portions of the embassy feature air-filled spaces designed for [[02_Worldbuilding/Places/Aethermoor]] citizens and officials who cannot operate in fully aquatic environments. **Crystal Sky Gardens** recreate aerial atmospheric conditions while maintaining the underwater location through sophisticated environmental controls.
 
 **Aerial-Optimized Facilities:**
 - **Ambassador's Residence**: Private quarters for senior diplomatic staff
-- **Sky Council Chamber**: Meeting spaces designed for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] cultural preferences
-- **Crystal Communication Spires**: Direct magical contact with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] leadership
+- **Sky Council Chamber**: Meeting spaces designed for [[02_Worldbuilding/Places/Aethermoor]] cultural preferences
+- **Crystal Communication Spires**: Direct magical contact with [[02_Worldbuilding/Places/Aethermoor]] leadership
 - **Emergency Transit Systems**: Rapid transport to the surface if needed
 
 ### Innovative Environmental Systems
 
 #### Dual-Atmosphere Management
-The embassy's greatest achievement is its ability to maintain multiple atmospheric conditions simultaneously while ensuring the comfort and safety of all occupants. The **Atmospheric Harmonization System** represents cutting-edge cooperation between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] crystal technology and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] bio-engineering.
+The embassy's greatest achievement is its ability to maintain multiple atmospheric conditions simultaneously while ensuring the comfort and safety of all occupants. The **Atmospheric Harmonization System** represents cutting-edge cooperation between [[02_Worldbuilding/Places/Aethermoor]] crystal technology and [[02_Worldbuilding/Places/Aquabyssos]] bio-engineering.
 
 **Technical Features:**
 - **Pressure Regulation Networks**: Maintaining appropriate pressure levels throughout
@@ -113,7 +113,7 @@ Given the sensitive nature of diplomatic operations, the embassy features compre
 ### Diplomatic Services and Activities
 
 #### Inter-Realm Negotiations
-The embassy serves as the primary venue for ongoing negotiations between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] on matters ranging from trade agreements to territorial boundaries. These discussions require careful management of cultural differences and communication challenges.
+The embassy serves as the primary venue for ongoing negotiations between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] on matters ranging from trade agreements to territorial boundaries. These discussions require careful management of cultural differences and communication challenges.
 
 **Current Ongoing Negotiations:**
 - **Trade Route Expansion**: Discussions about new commercial pathways between realms
@@ -163,7 +163,7 @@ Academic researchers from both realms collaborate on projects that benefit both 
 - **Special Abilities**: Divine Heritage, Diplomatic Immunity, Cultural Bridge-Building, Master Negotiator
 
 **Diplomatic Mastery**: Exceptional ability to find common ground between opposing positions
-**Cultural Intelligence**: Deep understanding of both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] societies
+**Cultural Intelligence**: Deep understanding of both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] societies
 **Language Mastery**: Fluent in multiple languages and communication styles
 **Political Navigation**: Skilled at managing complex political relationships and protocols
 
@@ -181,10 +181,10 @@ Ambassador Silvertonge has served in her current position for fifteen years, dur
 
 **Cultural Mediation**: Bridges communication gaps between different cultural approaches
 **Protocol Expertise**: Ensures proper diplomatic procedures and customs are followed
-**Local Knowledge**: Deep understanding of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] political and social dynamics
+**Local Knowledge**: Deep understanding of [[02_Worldbuilding/Places/Aquabyssos]] political and social dynamics
 **Administrative Coordination**: Manages daily embassy operations and staff coordination
 
-Torren serves as the primary liaison with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] government officials and provides essential cultural context for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] diplomatic initiatives. His local knowledge and connections have been crucial to the embassy's success.
+Torren serves as the primary liaison with [[02_Worldbuilding/Places/Aquabyssos]] government officials and provides essential cultural context for [[02_Worldbuilding/Places/Aethermoor]] diplomatic initiatives. His local knowledge and connections have been crucial to the embassy's success.
 
 ### Cultural Attaché Zephyr Windwhisper
 *Non-binary Air Genasi, Chaotic Good*
@@ -225,11 +225,11 @@ Commander Tideguard oversees a joint security force that includes personnel from
 ### For Diplomatic Personnel
 
 #### Secure Communication Systems
-The embassy maintains multiple communication channels with both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] leadership, using various technologies and magical methods to ensure secure and reliable contact.
+The embassy maintains multiple communication channels with both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] leadership, using various technologies and magical methods to ensure secure and reliable contact.
 
 **Communication Services:**
-- **Crystal Matrix Communications**: Magical communication with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] leadership
-- **Bio-Current Messaging**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]-style communication through living systems
+- **Crystal Matrix Communications**: Magical communication with [[02_Worldbuilding/Places/Aethermoor]] leadership
+- **Bio-Current Messaging**: [[02_Worldbuilding/Places/Aquabyssos]]-style communication through living systems
 - **Emergency Alert Networks**: Rapid communication during crisis situations
 - **Encrypted Diplomatic Channels**: Secure lines for sensitive information
 
@@ -341,7 +341,7 @@ Despite extensive translation services, fundamental differences in how the two c
 The formal requirements and social expectations of both cultures sometimes conflict, requiring careful navigation and creative solutions.
 
 **Protocol Issues:**
-- **Meeting Structure**: Balancing formal [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] protocols with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] consensus approaches
+- **Meeting Structure**: Balancing formal [[02_Worldbuilding/Places/Aethermoor]] protocols with [[02_Worldbuilding/Places/Aquabyssos]] consensus approaches
 - **Social Hierarchy**: Managing different approaches to rank and status
 - **Gift-Giving Customs**: Navigating different traditions around diplomatic gifts
 - **Religious Observances**: Respecting different spiritual practices and requirements
@@ -445,22 +445,22 @@ Discovery of an ancient treaty between the realms reveals obligations that both 
 ## Connected Locations and Plot Threads
 
 ### Direct Diplomatic Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Crystal Council]]**: Primary government relationship for embassy operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]**: Main [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] government interface
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Diplomatic Quarter]]**: Surrounding embassy district and related facilities
+- **[[02_Worldbuilding/Lore/Aethermoor Crystal Council]]**: Primary government relationship for embassy operations
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Main [[02_Worldbuilding/Places/Aquabyssos]] government interface
+- **[[02_Worldbuilding/Places/The Diplomatic Quarter]]**: Surrounding embassy district and related facilities
 - **[[Cultural Exchange Centers]]**: Facilities in both realms supporting diplomatic programs
 
 ### Economic and Trade Relationships
 - **[[Inter-Realm Trade Routes]]**: Commercial pathways facilitated by embassy
 - **[[Joint Research Facilities]]**: Collaborative technology and research centers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cultural_Organizations/Cultural Markets]]**: Commercial areas specializing in inter-realm trade
+- **[[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Markets]]**: Commercial areas specializing in inter-realm trade
 - **[[Embassy Bank Networks]]**: Financial institutions supporting diplomatic commerce
 
 ### Security and Intelligence Networks
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Joint Security Commands]]**: Coordinated protection and intelligence operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Threat Assessment Centers]]**: Facilities monitoring dangers to both realms
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Emergency Response Networks]]**: Crisis management and disaster response systems
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Counter-Intelligence Operations]]**: Protecting diplomatic and commercial interests
+- **[[02_Worldbuilding/Lore/Joint Security Commands]]**: Coordinated protection and intelligence operations
+- **[[02_Worldbuilding/Lore/Threat Assessment Centers]]**: Facilities monitoring dangers to both realms
+- **[[02_Worldbuilding/Lore/Emergency Response Networks]]**: Crisis management and disaster response systems
+- **[[02_Worldbuilding/Lore/Counter-Intelligence Operations]]**: Protecting diplomatic and commercial interests
 
 ---
 
@@ -470,10 +470,10 @@ Discovery of an ancient treaty between the realms reveals obligations that both 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archon Meredith Saltweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Concierge Phillip Gracewater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lord Reginald Seaworthy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
+- [[02_Worldbuilding/Places/Concierge Phillip Gracewater]]
+- [[02_Worldbuilding/Places/Lord Reginald Seaworthy]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
 
 ## Player-Facing Summary
 
@@ -495,9 +495,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]]
+- [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]

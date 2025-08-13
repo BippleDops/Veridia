@@ -23,7 +23,7 @@ tags:
 # Sister Morwyn Veilkeeper
 
 ## Overview
-A enigmatic member of the Order of the Shattered Crown who serves as the order's primary researcher into the Shadow Shard's properties. Sister Morwyn operates from a hidden sanctum within [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadowmere]], where the boundary between reality and shadow grows thin.
+A enigmatic member of the Order of the Shattered Crown who serves as the order's primary researcher into the Shadow Shard's properties. Sister Morwyn operates from a hidden sanctum within [[02_Worldbuilding/Places/The Shadowmere]], where the boundary between reality and shadow grows thin.
 
 ## Appearance
 - Age: 47 (appears younger due to shadow exposure)
@@ -57,10 +57,10 @@ A enigmatic member of the Order of the Shattered Crown who serves as the order's
 - 1st-5th level: Shadow spells and divination magic
 
 ## Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]**: Suspects his true identity, exchanges cryptic warnings
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]**: Mutual distrust; she knows he possesses the Amber Shard
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]**: Uneasy alliance; trades information for safe passage through Shadowmere
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Has prophetic visions about the Queen's corruption
+- **[[02_Worldbuilding/People/The Crimson Sage]]**: Suspects his true identity, exchanges cryptic warnings
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Mutual distrust; she knows he possesses the Amber Shard
+- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Uneasy alliance; trades information for safe passage through Shadowmere
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Has prophetic visions about the Queen's corruption
 - **Ambassador Nerida Deepcurrent**: Secret correspondence about underwater omens
 
 ## Current Activities
@@ -73,7 +73,7 @@ A enigmatic member of the Order of the Shattered Crown who serves as the order's
 > [!warning] DM Only
 > - Has discovered that the Shadow Shard is actually a gateway to where the Crown of Stars originated
 > - Knows the location of three Shadow Anchors that prevent the Shadowmere from expanding
-> - Has been experiencing visions of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and the connection between the Shards and the ancient flood
+> - Has been experiencing visions of [[02_Worldbuilding/Places/Aquabyssos]] and the connection between the Shards and the ancient flood
 > - Is slowly being transformed by shadow exposure into something not quite mortal
 > - Possesses a map showing where all Seven Shards will be at the moment of the "Second Shattering"
 
@@ -118,6 +118,6 @@ Legends speak of Sister Morwyn Veilkeeper as a nexus where past and present conv
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Morwyn Veilkeeper]]
+- [[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]
 
 <!-- enriched: true -->

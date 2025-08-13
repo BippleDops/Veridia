@@ -28,7 +28,7 @@ world: Both
 *Where Every Currency Sings and All Fortunes Are Made*
 
 ## Overview
-The Grand Bazaar of Echoing Coins is the largest and most influential marketplace in the known world, spanning twelve city blocks in the heart of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]. This massive commercial district operates under the direct protection of the [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]], featuring hundreds of permanent shops, thousands of temporary stalls, and the most sophisticated financial exchange systems ever developed. The bazaar's name comes from the magical acoustics that make every coin dropped audible throughout the complex, creating a constant symphony of commerce.
+The Grand Bazaar of Echoing Coins is the largest and most influential marketplace in the known world, spanning twelve city blocks in the heart of [[02_Worldbuilding/Places/Port Meridian]]. This massive commercial district operates under the direct protection of the [[02_Worldbuilding/Groups/Merchant Princes]], featuring hundreds of permanent shops, thousands of temporary stalls, and the most sophisticated financial exchange systems ever developed. The bazaar's name comes from the magical acoustics that make every coin dropped audible throughout the complex, creating a constant symphony of commerce.
 
 ## Market Structure
 
@@ -59,14 +59,14 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 ## Key Merchant Houses & Personalities
 
 ### The Merchant Prince Council
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Controls maritime trade and shipping insurance
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Lady Venetia Silkwind]]** - Dominates textile and luxury goods markets
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Master Chen Wei]]** - Monopolizes exotic imports and rare component trade
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Madame Rosalind Goldleaf]]** - Information brokerage and social commodities
+- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Controls maritime trade and shipping insurance
+- **[[02_Worldbuilding/Groups/Lady Venetia Silkwind]]** - Dominates textile and luxury goods markets
+- **[[02_Worldbuilding/Groups/Master Chen Wei]]** - Monopolizes exotic imports and rare component trade
+- **[[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]** - Information brokerage and social commodities
 
 ### Independent Major Traders
 - **[[02_Worldbuilding/People/Merchant Viktor Geargrind|02 Worldbuilding/People/Merchant Viktor Geargrind]]** - Specialized equipment and magical devices
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]]** - International banking and currency exchange
+- **[[02_Worldbuilding/People/Banker Titus Goldcurrent]]** - International banking and currency exchange
 - **[[02_Worldbuilding/People/Antiquarian Eliza Tidecaller|02 Worldbuilding/People/Antiquarian Eliza Tidecaller]]** - Historical artifacts and archaeological finds
 - **[[02_Worldbuilding/People/Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]]** - Magical services and memory manipulation
 
@@ -99,9 +99,9 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 ## Merchant Networks & Trade Routes
 
 ### International Connections
-- **Northern Route** - Trade with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] and mountain kingdoms
+- **Northern Route** - Trade with [[02_Worldbuilding/Places/Crystalhaven]] and mountain kingdoms
 - **Southern Seas** - Maritime connections to tropical trading partners
-- **Eastern Overland** - Caravan routes through [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]]
+- **Eastern Overland** - Caravan routes through [[02_Worldbuilding/Places/The Sundered Peaks]]
 - **Western Islands** - Island-hopping trade networks and exotic goods
 
 ### Supplier Networks
@@ -114,13 +114,13 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 - **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Gray market distribution
 - **Noble House Purchasing Agents** - Direct sales to aristocracy
 - **Regional Merchant Caravans** - Bulk distribution to smaller markets
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]]** - Rapid delivery services
+- **[[02_Worldbuilding/People/The Current Merchants]]** - Rapid delivery services
 
 ## Security & Regulations
 
 ### Market Protection
 - **Merchant Guard Companies** - Private security for valuable shipments
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]'s Patrols** - Official city watch presence
+- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'s Patrols** - Official city watch presence
 - **Magic Detection Teams** - Identifying cursed or dangerous items
 - **Anti-Theft Enchantments** - Magical security throughout the bazaar
 
@@ -161,11 +161,11 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 ### Regional Economics
 - **Price Setting** - Bazaar rates influence markets across the continent
 - **Employment** - Provides jobs for 50,000+ people directly
-- **Tax Revenue** - Major source of income for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- **Tax Revenue** - Major source of income for [[02_Worldbuilding/Places/Port Meridian]]
 - **Innovation Hub** - New business models and financial instruments
 
 ### Political Influence
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]** effectively rule the city
+- **[[02_Worldbuilding/Groups/Merchant Princes]]** effectively rule the city
 - **Foreign Relations** - Economic ties influence diplomatic policies
 - **Military Funding** - Financing various factions and conflicts
 - **Information Control** - News and rumors spread from bazaar networks
@@ -231,18 +231,18 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 - **Sky Bridges** - Elevated walkways connecting major merchant buildings
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Host city providing legal framework
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Major trading partner via northern routes
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]] - Competing and complementary black markets
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]] - Source of exotic mountain goods
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Azure Coast]] - Regional network of smaller markets
+- [[02_Worldbuilding/Places/Port Meridian]] - Host city providing legal framework
+- [[02_Worldbuilding/Places/Crystalhaven]] - Major trading partner via northern routes
+- [[02_Worldbuilding/Places/The Shadow Markets]] - Competing and complementary black markets
+- [[02_Worldbuilding/Places/The Sundered Peaks]] - Source of exotic mountain goods
+- [[02_Worldbuilding/Places/The Azure Coast]] - Regional network of smaller markets
 
 ## Connected Factions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] - Primary owners and operators
+- [[02_Worldbuilding/Groups/Merchant Princes]] - Primary owners and operators
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal infiltration and money laundering
 - [[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]] - Gray market distribution networks
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Investigating illegal crystal trade
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]] - Both customer and threat to shipping
+- [[02_Worldbuilding/People/Crystal Wardens]] - Investigating illegal crystal trade
+- [[02_Worldbuilding/Groups/The Crimson Fleet]] - Both customer and threat to shipping
 
 ## Current Threats & Opportunities
 - Rising tensions between major merchant houses threatening market stability
@@ -264,15 +264,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
+- [[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Lady Venetia Silkwind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Master Chen Wei]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Lady Venetia Silkwind]]
+- [[02_Worldbuilding/Groups/Master Chen Wei]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]

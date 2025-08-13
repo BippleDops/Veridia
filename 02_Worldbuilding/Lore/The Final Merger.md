@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merged Reality Zones]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merged Reality Zones]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
 
 ## Player-Facing Summary
 

@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Mayor Thompson]]
+- [[02_Worldbuilding/People/Mayor Thompson]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Mayor Thompson]]
+- [[02_Worldbuilding/People/Mayor Thompson]]
 
 ## Player-Facing Summary
 

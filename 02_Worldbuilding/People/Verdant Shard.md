@@ -176,7 +176,7 @@ Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the
 **Druidic Enhancement**
 - **Perfect Shapeshifting**: Transform into any natural creature or plant
 - **Elemental Communication**: Speak with earth, air, fire, and water
-- **Weather Cooperation**: Work with [[vault_backup_20250813_073007/02_Worldbuilding/People/Azure Shard]] on weather patterns
+- **Weather Cooperation**: Work with [[02_Worldbuilding/People/Azure Shard]] on weather patterns
 - **Animal Communion**: Understand and command all natural creatures
 - **Natural Healing**: Cure any disease or injury through plant medicine
 
@@ -251,14 +251,14 @@ Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the
 ## Relationships with Other Guardians
 
 ### Active Guardian Connections
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Azure Shard]]** (Sky/Storm)
+**[[02_Worldbuilding/People/Azure Shard]]** (Sky/Storm)
 - Closest ally and frequent collaborator on environmental projects
 - Coordinate weather patterns with plant growth cycles
 - Regular communication about realm-wide ecological health
 - Share information about threats to natural systems
 - Work together on climate restoration and stability
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Seventh Shard]]** (Mystery/Void)
+**[[02_Worldbuilding/People/Seventh Shard]]** (Mystery/Void)
 - Deeply troubled by Seventh's increasing isolation and strange activities
 - Verdant represents life while Seventh seems to embrace emptiness
 - Still attempts regular communication despite philosophical differences
@@ -465,39 +465,39 @@ Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the
 ## Connected Elements
 
 ### Key NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Azure Shard]] - Primary guardian ally
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Seventh Shard]] - Concerning guardian relationship
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Emperor]] - Original Crown bearer
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]] - Successor druid
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Emerald Sage Willowbark]] - Druidic advisor
+- [[02_Worldbuilding/People/Azure Shard]] - Primary guardian ally
+- [[02_Worldbuilding/People/Seventh Shard]] - Concerning guardian relationship
+- [[02_Worldbuilding/People/The Emperor]] - Original Crown bearer
+- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Successor druid
+- [[02_Worldbuilding/People/The Emerald Sage Willowbark]] - Druidic advisor
 
 ### Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Heart Grove]] - Primary residence and sanctuary
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Whispering Wildlands]] - Home territory
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Mother Tree]] - Consciousness center
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Seasonal Quarters]] - Different climate zones
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Living Library]] - Natural history repository
+- [[02_Worldbuilding/Lore/Heart Grove]] - Primary residence and sanctuary
+- [[02_Worldbuilding/Lore/Whispering Wildlands]] - Home territory
+- [[02_Worldbuilding/Lore/The Great Mother Tree]] - Consciousness center
+- [[02_Worldbuilding/Places/Seasonal Quarters]] - Different climate zones
+- [[02_Worldbuilding/Lore/Living Library]] - Natural history repository
 
 ### Organizations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shard Guardians]] - Ancient order
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Circle of Eternal Seasons]] - Druidic order
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Awakened Grove Council]] - Intelligent plant advisors
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ecological Restoration Society]] - Environmental allies
+- [[02_Worldbuilding/Lore/The Seven Shard Guardians]] - Ancient order
+- [[02_Worldbuilding/Lore/Circle of Eternal Seasons]] - Druidic order
+- [[02_Worldbuilding/Lore/The Awakened Grove Council]] - Intelligent plant advisors
+- [[02_Worldbuilding/Lore/Ecological Restoration Society]] - Environmental allies
 - [[Guardian Tree Network]] - Communication system
 
 ### Items & Artifacts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Verdant Shard]] - The original artifact
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crown of Stars Fragments]] - Related artifacts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Staff of Growing]] - Backup nature focus
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Seeds of Tomorrow]] - Prophetically important plants
+- [[02_Worldbuilding/Lore/The Verdant Shard]] - The original artifact
+- [[02_Worldbuilding/Lore/Crown of Stars Fragments]] - Related artifacts
+- [[02_Worldbuilding/Lore/Staff of Growing]] - Backup nature focus
+- [[02_Worldbuilding/Lore/Seeds of Tomorrow]] - Prophetically important plants
 - [[Guardian Root Network]] - Communication system
 
 ### Events & Concepts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Shattering]] - Original crown fragmentation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Green Apocalypse]] - Uncontrolled growth crisis
+- [[02_Worldbuilding/Lore/The Great Shattering]] - Original crown fragmentation
+- [[02_Worldbuilding/Lore/The Green Apocalypse]] - Uncontrolled growth crisis
 - [[Guardian Merger Rituals]] - Transformation process
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Verdant Vision]] - Prophetic warnings
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ecological Balance Protocols]] - Guardian responsibilities
+- [[02_Worldbuilding/Lore/The Verdant Vision]] - Prophetic warnings
+- [[02_Worldbuilding/Lore/Ecological Balance Protocols]] - Guardian responsibilities
 
 ---
 
@@ -506,7 +506,7 @@ Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sorrow-Root Nightbloom]]
+- [[02_Worldbuilding/People/Sorrow-Root Nightbloom]]
 
 ## Player-Facing Summary
 
@@ -518,6 +518,6 @@ Legends speak of Verdant Shard as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Verdant Shard]]
+- [[02_Worldbuilding/People/Verdant Shard]]
 
 <!-- enriched: true -->

@@ -212,7 +212,7 @@ Use the Temporal Harvest to:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Old Valdris]]
+- [[02_Worldbuilding/Places/Old Valdris]]
 
 ## Player-Facing Summary
 
@@ -224,6 +224,6 @@ Legends speak of Temporal Harvest as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temporal Harvest]]
+- [[02_Worldbuilding/Places/Temporal Harvest]]
 
 <!-- enriched: true -->

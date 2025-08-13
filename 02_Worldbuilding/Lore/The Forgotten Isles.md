@@ -1,32 +1,28 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
 type: Lore
-updated: '2025-08-13T12:34:28.845244+00:00'
+status: complete
+created: '2025-08-11'
+updated: '2025-08-13T01:18:34.695627+00:00'
 world: Both
+tags:
+- active
+- both
+- lore
 ---
-
 
 
 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
+- [[Deep Mother]]
 - [[02_Worldbuilding/Lore/The Crown of Stars]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sundering]]
+- [[02_Worldbuilding/Lore/The Sundering]]
 - [[02_Worldbuilding/Places/Aethermoor]]
 - [[02_Worldbuilding/Places/Memory Farmers]]
 

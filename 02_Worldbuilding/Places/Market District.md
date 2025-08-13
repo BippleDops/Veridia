@@ -51,13 +51,13 @@ A sprawling district centered around the Grand Bazaar, with permanent shops lini
 
 ## Notable NPCs
 ### Leaders
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Mayor Thompson]] - District administrator
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Guildmaster Harwick]] - Merchant's Guild leader
+- [[02_Worldbuilding/People/Mayor Thompson]] - District administrator
+- [[02_Worldbuilding/Places/Guildmaster Harwick]] - Merchant's Guild leader
 
 ### Merchants
 - [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] - Master blacksmith
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Magical goods
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pip Goldleaf]] - General goods
+- [[02_Worldbuilding/Places/Pip Goldleaf]] - General goods
 
 ## Available Services
 ### Shops
@@ -65,7 +65,7 @@ A sprawling district centered around the Grand Bazaar, with permanent shops lini
 |-----------|------|-------|---------------|
 | Ironforge Smithy | Blacksmith | [[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] | Masterwork weapons |
 | Starweaver's Arcana | Magic | [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] | Potions, scrolls |
-| The Golden Goose | Inn | [[vault_backup_20250813_073007/02_Worldbuilding/Places/Martha Hillbrook]] | Comfortable rooms |
+| The Golden Goose | Inn | [[02_Worldbuilding/Places/Martha Hillbrook]] | Comfortable rooms |
 
 ## Current Events
 - Tensions rising with the Thieves' Guild
@@ -133,5 +133,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Mayor Thompson]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pip Goldleaf]]
+- [[02_Worldbuilding/People/Mayor Thompson]]
+- [[02_Worldbuilding/Places/Pip Goldleaf]]

@@ -64,12 +64,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Divine Test]]
+- [[02_Worldbuilding/People/Quest - The Divine Test]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/The Crimson Sage]]

@@ -28,7 +28,7 @@ world: Both
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Marina]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Marina]]
 
 ## Player-Facing Summary
 

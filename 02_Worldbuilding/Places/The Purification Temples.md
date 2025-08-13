@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Corruption Taboos]]
+- [[02_Worldbuilding/Lore/Crystal Corruption Taboos]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Corruption Taboos]]
+- [[02_Worldbuilding/Lore/Crystal Corruption Taboos]]
 
 ## Player-Facing Summary
 

@@ -1,22 +1,18 @@
 ---
-completed: 2025-08-11
-created: '2025-08-08'
-created_by: auto-stub
+type: Lore
 status: complete
 tags:
-- campaign/arc
+- campaign
 - complete
-- content/lore
 - index
 - lore
-- status/complete
 - universal
-- world/both
-type: Lore
-updated: '2025-08-13T12:34:28.739447+00:00'
 world: Universal
+created_by: auto-stub
+created: '2025-08-08'
+completed: 2025-08-11
+updated: '2025-08-11T00:00:00+00:00'
 ---
-
 
 
 # Campaign Index
@@ -62,43 +58,43 @@ Central hub for all campaign materials, session records, and cross-campaign conn
 - [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]] - Cosmic horror revealed
 
 #### Key Story Elements
-- **Core Conflict**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Festival]] - Reality-altering ritual with cosmic consequences
-- **Main Antagonist**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] - Ancient entity seeking manifestation
+- **Core Conflict**: [[The Crystal Festival]] - Reality-altering ritual with cosmic consequences
+- **Main Antagonist**: [[The Deep Mother]] - Ancient entity seeking manifestation
 - **Political Focus**: [[02_Worldbuilding/Places/The Crystal Wardens]] vs [[02_Worldbuilding/People/The Harmony Collective]] - Factional conflicts
 - **Environmental Challenge**: [[03_Mechanics/Crystal Plague Mechanics]] - Crystallization corruption
 
 ## Cross-Campaign Connections
 
 ### World Transition Guide
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor to Aquabyssos Transition Guide]] - Moving between campaigns
+- [[Aethermoor to Aquabyssos Transition Guide]] - Moving between campaigns
 - [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]] - Comprehensive world links
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]] - Complete transition mechanics
+- [[Comprehensive-World-Connection-Guide]] - Complete transition mechanics
 
 ### Shared Elements
 - [[NPC Cross-World Connections]] - Characters appearing in both worlds
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Continental Connections & Story Weave]] - Geographic and narrative links
+- [[Continental Connections & Story Weave]] - Geographic and narrative links
 - [[02_Worldbuilding/Lore/Merged Reality Zones]] - Areas where both worlds intersect
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]] - Joint governance possibilities
+- [[United Councils of Both Worlds]] - Joint governance possibilities
 
 ## Campaign Resources
 
 ### Planning & Management
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Planning Guide]] - GM preparation workflows
+- [[Session Planning Guide]] - GM preparation workflows
 - [[02_Worldbuilding/Lore/Campaign Management Guide]] - Long-term campaign organization
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session Planning Toolkit]] - Tools and templates for session prep
-- [[vault_backup_20250813_073007/06_GM_Resources/Scene Framing Templates]] - Narrative scene construction
+- [[02_Worldbuilding/Lore/Session Planning Toolkit]] - Tools and templates for session prep
+- [[06_GM_Resources/Scene Framing Templates]] - Narrative scene construction
 
 ### Player Resources
-- [[vault_backup_20250813_073007/07_Player_Resources/Session_Summaries/Session Zero Universal Guide]] - Campaign startup procedures
-- [[vault_backup_20250813_073007/07_Player_Resources/Player Portal]] - Central player information hub
-- [[vault_backup_20250813_073007/07_Player_Resources/World Primer]] - Essential world knowledge for players
-- [[vault_backup_20250813_073007/07_Player_Resources/Quick Start Guide]] - New player onboarding
+- [[07_Player_Resources/Session_Summaries/Session Zero Universal Guide]] - Campaign startup procedures
+- [[07_Player_Resources/Player Portal]] - Central player information hub
+- [[07_Player_Resources/World Primer]] - Essential world knowledge for players
+- [[07_Player_Resources/Quick Start Guide]] - New player onboarding
 
 ### Reference Materials
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign World]] - Overarching world details
+- [[02_Worldbuilding/Lore/Campaign World]] - Overarching world details
 - [[02_Worldbuilding/Lore/Campaign Path]] - Story progression tracking
 - [[02_Worldbuilding/Lore/Campaign Epilogues]] - Potential campaign endings
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]] - Historical context for Aquabyssos
+- [[Timeline of the Drowning]] - Historical context for Aquabyssos
 - [[02_Worldbuilding/Lore/Timeline of Crimes]] - Mystery investigation tracking
 
 ## Faction & Organization Index
@@ -127,15 +123,15 @@ Central hub for all campaign materials, session records, and cross-campaign conn
 ## Quest & Adventure Tracking
 
 ### Major Quest Lines
-- **Aquabyssos**: [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]], [[03_Mechanics/Unite All Factions]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Save Both Civilizations]]
-- **Aethermoor**: [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Save Queen Seraphina]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Prevent Resonance Cascade]]
-- **Cross-Campaign**: [[02_Worldbuilding/Lore/Unite the Two Worlds]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Healing Two Worlds]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
+- **Aquabyssos**: [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]], [[03_Mechanics/Unite All Factions]], [[02_Worldbuilding/Lore/Save Both Civilizations]]
+- **Aethermoor**: [[Stop the Crystal Festival Ritual]], [[02_Worldbuilding/Lore/Save Queen Seraphina]], [[02_Worldbuilding/Lore/Prevent Resonance Cascade]]
+- **Cross-Campaign**: [[02_Worldbuilding/Lore/Unite the Two Worlds]], [[Healing Two Worlds]], [[The Final Choice]]
 
 ### Adventure Categories
-- **Investigation**: [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- **Investigation**: [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]], [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
 - **Political**: [[03_Mechanics/Faction Standing System]], [[03_Mechanics/Faction Relationship Tracker]]
-- **Environmental**: [[03_Mechanics/Navigate Fractal Reality]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merged Zone Navigation]]
-- **Mystical**: [[03_Mechanics/Memory Tide Navigation]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Navigation Hazards]]
+- **Environmental**: [[03_Mechanics/Navigate Fractal Reality]], [[02_Worldbuilding/Lore/Merged Zone Navigation]]
+- **Mystical**: [[03_Mechanics/Memory Tide Navigation]], [[02_Worldbuilding/Lore/Temporal Navigation Hazards]]
 
 ## Mechanical Systems Index
 
@@ -147,15 +143,15 @@ Central hub for all campaign materials, session records, and cross-campaign conn
 
 ### Specialized Systems
 - [[03_Mechanics/Faction Standing System]] - Relationship tracking with organizations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Cosmic horror and madness mechanics
+- [[02_Worldbuilding/Places/Aquabyssos]] - Cosmic horror and madness mechanics
 - [[03_Mechanics/Shadow Separation Mechanics]] - Aquabyssos shadow independence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bloodline Awakening Powers]] - Aethermoor supernatural abilities
+- [[02_Worldbuilding/Lore/Bloodline Awakening Powers]] - Aethermoor supernatural abilities
 
 ---
 
 ## Navigation Links
-- **Back to**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Update Indexes]] - Main navigation hub
-- **See Also**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location Index]] - Geographic content organization
+- **Back to**: [[Update Indexes]] - Main navigation hub
+- **See Also**: [[Location Index]] - Geographic content organization
 - **Related**: [[02_Worldbuilding/Lore/Quest Index]] - Adventure and objective tracking
 
 ---

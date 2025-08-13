@@ -512,17 +512,17 @@ The establishment of major trade routes transformed the maritime empire from iso
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pre-Drowning Civilization Archives]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Economic History of the Realms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Parliamentary Founding]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Plague Origins]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Conspiracy Timeline]]
+- [[02_Worldbuilding/Lore/Pre-Drowning Civilization Archives]]
+- [[02_Worldbuilding/Lore/Economic History of the Realms]]
+- [[02_Worldbuilding/Lore/Parliamentary Founding]]
+- [[02_Worldbuilding/Lore/Crystal Plague Origins]]
+- [[02_Worldbuilding/Lore/Shadow Conspiracy Timeline]]
 - [[The Catastrophe: Hour by Hour]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Post-Merge Chronology]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Great Drowning]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant's Covenant]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Lore/Post-Merge Chronology]]
+- [[02_Worldbuilding/Lore/Great Drowning]]
+- [[02_Worldbuilding/Groups/Merchant's Covenant]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/Places/Port Meridian]]
 - [[Deep Parliament Chambers]]
 
 ## Player-Facing Summary

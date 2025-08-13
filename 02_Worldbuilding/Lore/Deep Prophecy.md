@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vorthak]]
+- [[02_Worldbuilding/Lore/Vorthak]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vorthak]]
+- [[02_Worldbuilding/Lore/Vorthak]]
 
 ## Player-Facing Summary
 

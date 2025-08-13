@@ -22,7 +22,7 @@ world: Both
 
 # Vehicle Customization & Progression
 
-Upgrade trees, crew mechanics, and living evolution paths. Ties into [[vault_backup_20250813_073007/03_Mechanics/Complete Faction Warfare System]] doctrines, [[Memory Trading Economy System|Memory Trading Economy]] markets, and [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
+Upgrade trees, crew mechanics, and living evolution paths. Ties into [[03_Mechanics/Complete Faction Warfare System]] doctrines, [[Memory Trading Economy System|Memory Trading Economy]] markets, and [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
 
 ## Modular Upgrade Systems
 - Biological Grafting: Parasite symbionts, coral armor, regenerative sacs

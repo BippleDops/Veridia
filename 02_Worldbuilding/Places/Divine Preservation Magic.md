@@ -58,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Divine Preservation Magic]]
+- [[02_Worldbuilding/Places/Divine Preservation Magic]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]
+- [[02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]

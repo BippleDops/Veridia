@@ -31,25 +31,25 @@ world: Both
 The Seekers' Guild organizes expeditions to dangerous locations, coordinates treasure hunting operations, and maintains databases of archaeological discoveries. They provide equipment, funding, and logistical support for adventuring parties exploring ancient ruins and dangerous territories.
 
 ## Key Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Vaults]]** - Primary exploration target and research site
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Screaming Battleground]]** - Historical expedition site
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]]** - Dangerous exploration territory
+- **[[02_Worldbuilding/Places/The Sundered Vaults]]** - Primary exploration target and research site
+- **[[02_Worldbuilding/Places/The Screaming Battleground]]** - Historical expedition site
+- **[[02_Worldbuilding/Places/The Crystalline Wastes]]** - Dangerous exploration territory
 - **[[02_Worldbuilding/People/Antiquarian Eliza Tidecaller|02 Worldbuilding/People/Antiquarian Eliza Tidecaller]]** - Guild sponsor and artifact appraiser
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Academic partnership and research
+- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Academic partnership and research
 - **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Transportation to dangerous locations
 - **[[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]]** - Information broker and guide supplier
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]** - Equipment supply and artifact sales
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]** - Mysterious patron with specific interests
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]** - Joint expeditions to purify corrupted sites
+- **[[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]** - Equipment supply and artifact sales
+- **[[02_Worldbuilding/People/The Crimson Sage]]** - Mysterious patron with specific interests
+- **[[02_Worldbuilding/People/Crystal Wardens]]** - Joint expeditions to purify corrupted sites
 - **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Competition for valuable discoveries
 - **[[02_Worldbuilding/Places/Aethermoor Archives|02 Worldbuilding/Places/Aethermoor Archives]]** - Historical research and expedition planning
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -75,4 +75,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Crystal Wardens]]

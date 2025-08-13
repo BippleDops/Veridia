@@ -22,7 +22,7 @@ world: Aquabyssos
 *Magical Items Forged in the Depths of Aquabyssos*
 
 ## Overview
-Pressure Artifacts are magical items uniquely attuned to the crushing depths and tidal forces of Aquabyssos. These items harness the immense pressure of the deep ocean, drawing power from the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] to create effects impossible to replicate on the surface. Many Pressure Artifacts require attunement and function best at depth, losing effectiveness or even becoming dormant when brought to shallow waters or dry land.
+Pressure Artifacts are magical items uniquely attuned to the crushing depths and tidal forces of Aquabyssos. These items harness the immense pressure of the deep ocean, drawing power from the [[02_Worldbuilding/Lore/The Seven Shards]] to create effects impossible to replicate on the surface. Many Pressure Artifacts require attunement and function best at depth, losing effectiveness or even becoming dormant when brought to shallow waters or dry land.
 
 ## Common Pressure Artifacts
 
@@ -347,7 +347,7 @@ Pressure Artifacts are magical items uniquely attuned to the crushing depths and
 
 ### Shard of the Sunken World
 *Wondrous item, artifact (requires attunement)*
-- **Description**: Fragment of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] containing memories of drowned civilizations
+- **Description**: Fragment of [[02_Worldbuilding/Lore/The Seven Shards]] containing memories of drowned civilizations
 - **Properties**:
   - Access memories and knowledge of all drowned civilizations
   - Raise sunken cities from ocean floor
@@ -411,7 +411,7 @@ Pressure Artifacts are magical items uniquely attuned to the crushing depths and
 - **Politics**: Items tied to Aquabyssos governmental structure
 - **Survival**: Equipment necessary for extreme depth survival
 - **Power**: Items that grow stronger with increased depth and pressure
-- **Mystery**: Artifacts with connections to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] and ancient civilizations
+- **Mystery**: Artifacts with connections to [[02_Worldbuilding/Lore/The Seven Shards]] and ancient civilizations
 
 ## Balancing Pressure Artifacts
 
@@ -430,11 +430,11 @@ Pressure Artifacts are magical items uniquely attuned to the crushing depths and
 - **Moral Restrictions**: Some items only work for worthy or righteous users
 
 ## Connected Elements
-- Links to [[vault_backup_20250813_073007/02_Worldbuilding/Items/Crown of Tidal Sovereignty]] as ultimate pressure artifact
-- Connections to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] as power source
-- Associated with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] as crafting center
-- Related to [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] through royal regalia
-- Connected to [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Crystal Wardens]] as guardians of powerful items
+- Links to [[02_Worldbuilding/Items/Crown of Tidal Sovereignty]] as ultimate pressure artifact
+- Connections to [[02_Worldbuilding/Lore/The Seven Shards]] as power source
+- Associated with [[02_Worldbuilding/Places/Abyssos Prime]] as crafting center
+- Related to [[02_Worldbuilding/People/The Scattered Emperor]] through royal regalia
+- Connected to [[02_Worldbuilding/Groups/Crystal Wardens]] as guardians of powerful items
 - Links to pressure adaptation mechanics and depth survival systems
 - Associated with major aquatic locations and deep-sea exploration sites
 

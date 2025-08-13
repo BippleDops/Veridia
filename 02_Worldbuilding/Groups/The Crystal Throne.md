@@ -28,21 +28,21 @@ world: Both
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Cathedral of Light]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Crystalline Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Smuggler]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
+- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[02_Worldbuilding/Places/The Gilded Shard]]
+- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[02_Worldbuilding/Quests/Crystalline Depths]]
+- [[02_Worldbuilding/Quests/Smuggler]]
 
 ## Player-Facing Summary
 

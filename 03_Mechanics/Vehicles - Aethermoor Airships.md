@@ -20,7 +20,7 @@ world: Aethermoor
 
 # Aethermoor Airships
 
-Crystal-powered vessels that ride currents, gravity folds, and starlight. Integrates [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[vault_backup_20250813_073007/03_Mechanics/Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[vault_backup_20250813_073007/03_Mechanics/Complete Pressure Adaptation System]] (altitude inversion), and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]].
+Crystal-powered vessels that ride currents, gravity folds, and starlight. Integrates [[03_Mechanics/Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[03_Mechanics/Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[03_Mechanics/Complete Pressure Adaptation System]] (altitude inversion), and [[02_Worldbuilding/Lore/Deep Mother]].
 
 ## Crystal-Powered Airships (Examples)
 - Harmonium Skiff (Resonant levitation; silent running)
@@ -48,7 +48,7 @@ GM Note: Expand to 50+ designs via template [[05_Templates/Vehicles/New_Ship_Tem
 - Sky Piracy: Boarding grapnels, anchor jammers, wind shear traps
 
 ## Integration Hooks
-- Altitude Pressure Inversion: Apply pressure rules inverted for height (see [[vault_backup_20250813_073007/03_Mechanics/Depth Survival Mechanics]])
+- Altitude Pressure Inversion: Apply pressure rules inverted for height (see [[03_Mechanics/Depth Survival Mechanics]])
 - Sanity: Prolonged void-sight requires [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] saves; shrine-chant stabilizes
 - Reality: Fold-Gate Couriers create micro-mergers; anchors mitigate
 - Memory: Whisper Kites harvest route echoes; charts fuel long-haul jumps

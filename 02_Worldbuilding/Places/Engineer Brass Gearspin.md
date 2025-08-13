@@ -384,9 +384,9 @@ The Brass Works connects to numerous important elements throughout Aquabyssos an
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Wandering Atoll]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
+- [[02_Worldbuilding/Places/The Wandering Atoll]]
+- [[02_Worldbuilding/Quests/The Lock Saboteur]]
 
 ## Player-Facing Summary
 
@@ -408,6 +408,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Engineer Brass Gearspin]]
+- [[02_Worldbuilding/Places/Engineer Brass Gearspin]]
 
 <!-- enriched: true -->

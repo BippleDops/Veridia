@@ -29,7 +29,7 @@ world: Both
 *The Healing Light, She Who Brings Dawn to Darkness, Keeper of Sacred Flames*
 
 ## Overview
-High Priestess Celeste Dawnbringer leads the Church of the Luminous Dawn in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]], serving as the kingdom's highest religious authority and primary divine healer. Publicly revered for her compassion and healing miracles, she carries a devastating secret: she knows of [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s crystal corruption and has been secretly providing treatments to slow its progress. This burden weighs heavily on her soul, as she struggles between her loyalty to the crown, her duty to her people, and her fear of what the queen might become.
+High Priestess Celeste Dawnbringer leads the Church of the Luminous Dawn in [[02_Worldbuilding/Places/Crystalhaven]], serving as the kingdom's highest religious authority and primary divine healer. Publicly revered for her compassion and healing miracles, she carries a devastating secret: she knows of [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s crystal corruption and has been secretly providing treatments to slow its progress. This burden weighs heavily on her soul, as she struggles between her loyalty to the crown, her duty to her people, and her fear of what the queen might become.
 
 ## Appearance
 - **Build**: Medium height at 5'6" with a dignified, maternal presence
@@ -59,7 +59,7 @@ High Priestess Celeste Dawnbringer leads the Church of the Luminous Dawn in [[va
 - **Light Walking**: Can step through beams of light to travel instantly
 
 ### The Luminous Dawn Church
-- **Supreme Authority**: Leads all Light Domain clerics in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- **Supreme Authority**: Leads all Light Domain clerics in [[02_Worldbuilding/Places/Aethermoor]]
 - **Healing Sanctuaries**: Network of hospitals and temples
 - **Sacred Order**: Elite priests sworn to secrecy about royal matters
 - **Divine Treasury**: Resources for healing supplies and charitable works
@@ -80,21 +80,21 @@ High Priestess Celeste Dawnbringer leads the Church of the Luminous Dawn in [[va
 - **Mother Superior Catherine** - Elderly nun who trained Celeste, wisdom keeper
 
 ### Royal Connections
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret patient and friend, growing concern
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Suspects something but hasn't asked
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Suspicious of his influence on the queen
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Fellow secret keeper
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret patient and friend, growing concern
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Suspects something but hasn't asked
+- [[02_Worldbuilding/People/The Crimson Sage]] - Suspicious of his influence on the queen
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Fellow secret keeper
 
 ### Church Hierarchy
 - **Cardinal Vincent Goldspire** - Northern dioceses, unaware of secrets
 - **Archbishop Helena Dawnfire** - Eastern provinces, traditionalist
 - **Bishop Marcus Sunblade** - Military chaplain, queen's supporter
-- Various temple leaders throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- Various temple leaders throughout [[02_Worldbuilding/Places/Aethermoor]]
 
 ### Opposition & Concerns
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] - Would destroy everything if he knew
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] - See crystal magic as inherently evil
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Another who knows the queen's secret
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Would destroy everything if he knew
+- [[02_Worldbuilding/Groups/Purist Coalition]] - See crystal magic as inherently evil
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Another who knows the queen's secret
 - Conservative church factions opposed to any crystal use
 
 ## Secrets
@@ -105,17 +105,17 @@ High Priestess Celeste Dawnbringer leads the Church of the Luminous Dawn in [[va
 > - Maintains correspondence with healers in other realms seeking cures
 > - Her own faith is beginning to crack under the weight of deception
 > - Has created false healing miracles to maintain public confidence
-> - Knows the location of two of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] through the queen
+> - Knows the location of two of [[02_Worldbuilding/Lore/The Seven Shards]] through the queen
 
 ## Current Activities
-- Providing secret medical treatments to [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- Providing secret medical treatments to [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
 - Developing new anti-corruption healing techniques
 - Managing the public face of the church while hiding royal secrets
 - Training select acolytes in advanced healing without revealing why
 - Investigating reports of corruption outbreaks in distant provinces
 
 ## Motivations
-1. **Primary**: Heal and protect [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] at all costs
+1. **Primary**: Heal and protect [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] at all costs
 2. **Secondary**: Prevent civil war through secrecy and stability
 3. **Hidden**: Find a true cure for crystal corruption
 4. **Personal**: Reconcile her actions with her faith and conscience
@@ -173,20 +173,20 @@ High Priestess Celeste Dawnbringer leads the Church of the Luminous Dawn in [[va
 - Her eventual breakdown or revelation could trigger kingdom-wide events
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret patient and friend
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Mysterious rival advisor
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] - Dangerous opposition
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Fellow conspirator
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret patient and friend
+- [[02_Worldbuilding/People/The Crimson Sage]] - Mysterious rival advisor
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Dangerous opposition
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Fellow conspirator
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Cathedral and healing centers
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Luminous Dawn Cathedral]] - Her primary base
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sacred Healing Gardens]] - Where she conducts treatments
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]] - Royal palace connections
+- [[02_Worldbuilding/Places/Crystalhaven]] - Cathedral and healing centers
+- [[02_Worldbuilding/Places/The Luminous Dawn Cathedral]] - Her primary base
+- [[02_Worldbuilding/People/Sacred Healing Gardens]] - Where she conducts treatments
+- [[02_Worldbuilding/Groups/The Crystal Throne]] - Royal palace connections
 
 ## The Secret Medical Protocol
 ### The Queen's Treatments
-Every three days, in the hidden sanctuary beneath the cathedral, Celeste performs intensive healing sessions on [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] to slow the progression of her crystal corruption.
+Every three days, in the hidden sanctuary beneath the cathedral, Celeste performs intensive healing sessions on [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] to slow the progression of her crystal corruption.
 
 ### Treatment Components
 - **Light Infusion**: Direct channeling of pure radiant energy into the queen's system
@@ -225,7 +225,7 @@ Each treatment session drains Celeste significantly:
 - **Background**: Ancient nun who trained Celeste and remembers the kingdom before crystal magic
 - **Role**: Spiritual advisor and keeper of historical knowledge
 - **Personality**: Wise, patient, deeply concerned about the moral implications
-- **Secret Knowledge**: Suspects [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]'s true identity
+- **Secret Knowledge**: Suspects [[02_Worldbuilding/People/The Crimson Sage]]'s true identity
 
 ## The Corruption Research Project
 ### Experimental Techniques
@@ -253,7 +253,7 @@ Celeste has developed several innovative approaches to treating crystal corrupti
 - Attempts to "purify" corrupted crystals rather than destroy them
 - Theoretical breakthrough that could revolutionize treatment
 - Still in experimental phase with mixed results
-- Opposition: [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] would execute her if he knew
+- Opposition: [[02_Worldbuilding/People/High Inquisitor Maltheos]] would execute her if he knew
 
 ### Research Facilities
 **The Hidden Sanctuary**
@@ -277,7 +277,7 @@ Celeste must navigate complex relationships within her own organization:
 **Bishop Marcus Sunblade** - Military chaplain who could become powerful ally or dangerous enemy
 
 ### Government Relations
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Knows something is wrong with the queen but hasn't confronted Celeste
+**[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Knows something is wrong with the queen but hasn't confronted Celeste
 **Royal Council Members** - Several are growing suspicious of the queen's inconsistent public appearances
 **Parliament Leaders** - Some want to use any royal weakness for political advantage
 
@@ -420,7 +420,7 @@ Struggles with whether her actions represent divine guidance or human arrogance 
 Wonders if her treatments actually heal the queen or simply postpone inevitable consequences while enabling continued dangerous behavior.
 
 ## Connected Elements - Expanded
-- Central to the secret conspiracy surrounding [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s condition
+- Central to the secret conspiracy surrounding [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s condition
 - Key figure in church-state relations and religious authority
 - Links healing magic to political intrigue and moral complexity
 - Represents themes of sacrifice, deception, and the cost of compassion
@@ -428,33 +428,33 @@ Wonders if her treatments actually heal the queen or simply postpone inevitable 
 
 ## Involved Quests
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Her expertise essential
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Healer's Burden]] - Her secret threatens exposure
+- [[02_Worldbuilding/People/Quest - The Healer's Burden]] - Her secret threatens exposure
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - May hold the cure
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - Faith and Doubt]] - Her spiritual crisis affects the church
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Royal Treatment]] - Maintaining the queen's secret medical needs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Sanctuary's Secret]] - Protecting the hidden medical facility
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Divine Test]] - Proving her methods don't violate divine will
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Successor's Burden]] - Training replacement who can handle the truth
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Corruption Cure]] - Developing permanent solution to crystal corruption
+- [[02_Worldbuilding/People/Quest - Faith and Doubt]] - Her spiritual crisis affects the church
+- [[02_Worldbuilding/People/Quest - The Royal Treatment]] - Maintaining the queen's secret medical needs
+- [[02_Worldbuilding/People/Quest - The Sanctuary's Secret]] - Protecting the hidden medical facility
+- [[02_Worldbuilding/People/Quest - The Divine Test]] - Proving her methods don't violate divine will
+- [[02_Worldbuilding/People/Quest - The Successor's Burden]] - Training replacement who can handle the truth
+- [[02_Worldbuilding/People/Quest - The Corruption Cure]] - Developing permanent solution to crystal corruption
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Knight]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/The Crystal Throne]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
+- [[02_Worldbuilding/People/Knight]]
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
 - [[Marcus "The Shade" Blackwood]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Nature's Balance]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
+- [[02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[02_Worldbuilding/Quests/The Crown's Burden]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -473,6 +473,6 @@ Legends speak of High Priestess Celeste Dawnbringer as a nexus where past and pr
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
 
 <!-- enriched: true -->

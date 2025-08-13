@@ -1,5 +1,5 @@
 ---
-affiliation: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] (Natural Phenomenon)'
+affiliation: '[[02_Worldbuilding/Lore/The Deep Mother]] (Natural Phenomenon)'
 created: '2025-08-09'
 created_by: auto-stub
 danger_level: Moderate
@@ -33,7 +33,7 @@ world: Aquabyssos
 *Where the Mother's Nightmares Surface*
 
 ## Overview
-Shadow Wells are mysterious phenomena scattered throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], appearing as pools of absolute darkness from which emerge the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s nightmares and darker dreams. These sites serve as manifestation points where the sleeping goddess's unconscious anxieties, fears, and sorrows take physical form in the material world. Each Well represents a different aspect of cosmic dread, making them both fascinating research sites and extremely dangerous locations.
+Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Places/Aquabyssos]], appearing as pools of absolute darkness from which emerge the [[02_Worldbuilding/Lore/The Deep Mother]]'s nightmares and darker dreams. These sites serve as manifestation points where the sleeping goddess's unconscious anxieties, fears, and sorrows take physical form in the material world. Each Well represents a different aspect of cosmic dread, making them both fascinating research sites and extremely dangerous locations.
 
 ## Nature & Properties
 ### Physical Characteristics
@@ -53,7 +53,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[vault_backup_202508
 ## Geographic Distribution
 ### Primary Well Clusters
 #### The Despair Depths
-**Location**: Deepest oceanic trenches near [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]  
+**Location**: Deepest oceanic trenches near [[02_Worldbuilding/Places/The Hadal Depths]]  
 **Count**: ~50 Wells  
 **Manifestations**: Existential dread, cosmic loneliness, fear of meaninglessness
 - **The Void Well**: Largest Well producing entities of pure nihilism
@@ -116,7 +116,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[vault_backup_202508
 
 ### Notable Shadow Entities
 #### The Drowning Fear
-- **Origin**: Well near [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- **Origin**: Well near [[02_Worldbuilding/Places/Parliament of Echoes]]
 - **Nature**: Manifestation of society's fear of losing democracy
 - **Appearance**: Massive humanoid figure made of crushing water
 - **Behavior**: Appears during political crises, attempts to "drown" dissent
@@ -139,7 +139,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[vault_backup_202508
 ## Human Interaction
 ### Research Communities
 #### The Shadow Scholars
-- **Leadership**: [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Singer Naia]] provides spiritual guidance
+- **Leadership**: [[02_Worldbuilding/People/The Shadow Singer Naia]] provides spiritual guidance
 - **Purpose**: Academic study of shadow manifestations and their meanings
 - **Methods**: Careful observation, limited interaction, detailed documentation
 - **Base**: Mobile research stations that can quickly evacuate if needed
@@ -172,7 +172,7 @@ Shadow Wells are mysterious phenomena scattered throughout [[vault_backup_202508
 - **Belief**: Wells provide direct connection to sleeping goddess's mind
 - **Practices**: Meditation at Well edges, attempting communication with shadow entities
 - **Risks**: Frequent psychological casualties among unprepared pilgrims
-- **Guidance**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Thalassa the Depth-Touched]] provides spiritual counsel
+- **Guidance**: [[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]] provides spiritual counsel
 - **Sacred Journey**: Multi-Well pilgrimage representing different aspects of divine sorrow
 
 ## Well Monitoring & Management
@@ -261,10 +261,10 @@ Shadow Wells are mysterious phenomena scattered throughout [[vault_backup_202508
 - **Connection Network**: Do Wells communicate with each other across distances?
 
 ## Connected Elements
-- Direct manifestations of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s unconscious mind
+- Direct manifestations of [[02_Worldbuilding/Lore/The Deep Mother]]'s unconscious mind
 - Source of materials and services for shadow-based magic and therapy
-- Location for [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Singer Naia]]'s spiritual work
-- Sites visited by [[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Thalassa the Depth-Touched]] and other Deep Mother servants
+- Location for [[02_Worldbuilding/People/The Shadow Singer Naia]]'s spiritual work
+- Sites visited by [[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]] and other Deep Mother servants
 - Research locations for studying cosmic psychology and fear manifestation
 
 ## DM Notes
@@ -284,15 +284,15 @@ Shadow Wells are mysterious phenomena scattered throughout [[vault_backup_202508
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Environmental Hazards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Initiative Tracker]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random Encounters]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/Lore/Environmental Hazards]]
+- [[02_Worldbuilding/Lore/Initiative Tracker]]
+- [[02_Worldbuilding/Lore/Random Encounters]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Singer Naia]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[02_Worldbuilding/People/The Shadow Singer Naia]]
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
@@ -311,6 +311,6 @@ Legends speak of Shadow Wells as a nexus where past and present converge. Locals
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Wells]]
+- [[02_Worldbuilding/Places/Shadow Wells]]
 
 <!-- enriched: true -->

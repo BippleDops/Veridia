@@ -35,7 +35,7 @@ world: Both Worlds
 *The Art of Destruction, Energy, and Force*
 
 > *"In the crushing depths where every breath is earned through struggle, evocation becomes more than the art of destruction - it is the fundamental expression of will against entropy. We do not simply cast fire into water; we command reality itself to burn."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Arcane Destroyer Tidal Stormcaller]], Master of Combat Magic at the [[02_Worldbuilding/Lore/War College of Depths]]
+> — [[02_Worldbuilding/Lore/Arcane Destroyer Tidal Stormcaller]], Master of Combat Magic at the [[02_Worldbuilding/Lore/War College of Depths]]
 
 ## Overview
 
@@ -258,8 +258,8 @@ Evocation magic works synergistically with other magical traditions:
 - **Environmental Impact**: Considering the long-term effects of large-scale destruction
 
 ## Connected Magical Systems
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/System Cli Spells School Abjuration]] - Protective barriers for evocation practitioners
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/System Cli Spells School Conjuration]] - Summoning energy and effects from other locations
+- [[02_Worldbuilding/Lore/System Cli Spells School Abjuration]] - Protective barriers for evocation practitioners
+- [[02_Worldbuilding/Lore/System Cli Spells School Conjuration]] - Summoning energy and effects from other locations
 - [[02_Worldbuilding/Lore/War College of Depths]] - Military academy for combat evocation
 - [[02_Worldbuilding/Lore/The Void Currents|02 Worldbuilding/Lore/The Void Currents]] - Source of cosmic destructive energy
 - [[02_Worldbuilding/Lore/Engineering Corps|02 Worldbuilding/Lore/Engineering Corps]] - Organization specializing in construction-oriented destruction
@@ -286,7 +286,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spell Lists]]
+- [[02_Worldbuilding/Lore/Spell Lists]]
 
 
 ## Connections

@@ -58,15 +58,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corallion]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bathyal Succession]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deserter's Tale]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Emperor's Gambit]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vote Vaults]]
+- [[02_Worldbuilding/Lore/Corallion]]
+- [[02_Worldbuilding/Lore/The Bathyal Succession]]
+- [[02_Worldbuilding/Lore/The Deserter's Tale]]
+- [[02_Worldbuilding/Lore/The Emperor's Gambit]]
+- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/Places/Vote Vaults]]

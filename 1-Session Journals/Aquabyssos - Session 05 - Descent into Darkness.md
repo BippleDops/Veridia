@@ -63,7 +63,7 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 - The nightmare is actually a memory from last week
 - Dream Rails are powered by traumatic experiences  
 - Someone's been redirecting trains into specific nightmares
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] shadow has been sending messages ahead
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] shadow has been sending messages ahead
 
 **Skill Challenges**:
 - **Investigation DC 15**: Find the dream anchor holding train
@@ -71,13 +71,13 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 - **Performance DC 14**: Maintain composure in nightmare
 
 ### Scene 2: Tenebrarum Border - The Shadow Checkpoint
-**Location**: Entry to [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]] - The Penumbral Gates  
+**Location**: Entry to [[02_Worldbuilding/People/Tenebrarum]] - The Penumbral Gates  
 **Situation**: All visitors must register their shadows  
 **Conflict**: Party's shadows are flagged as "persons of interest"  
 **Discoveries**:
 - Shadows are considered separate legal entities here
 - A shadow court has issued warrants for the party
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]] has immunity but won't extend it
+- [[02_Worldbuilding/People/Shadow Duchess Nyx]] has immunity but won't extend it
 - The checkpoint has holding cells full of separated shadows
 
 **Roleplay Challenge**:
@@ -86,14 +86,14 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 - Shadows know things PCs don't remember
 
 ### Scene 3: The Umbral Exchange
-**Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]] - Central Trading Floor  
+**Location**: [[02_Worldbuilding/Places/The Shadow Markets]] - Central Trading Floor  
 **Situation**: Infiltrate the shadow auction  
 **Conflict**: Party's shadows are put up for bidding  
 **Discoveries**:
 - Child shadows being illegally harvested
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Silhouette Surgeon Prime]] run a shadow breeding program
+- [[02_Worldbuilding/People/The Silhouette Surgeon Prime]] run a shadow breeding program
 - Shadows can be modified like genetics
-- Someone's been buying all shadows from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+- Someone's been buying all shadows from [[02_Worldbuilding/Places/Abyssos Prime]]
 
 **Combat/Heist**:
 - **Option A**: Steal back shadows (stealth mission)
@@ -152,23 +152,23 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 - Bright light causes 1d4 damage to exposed shadows
 
 ## 💰 Treasure & Rewards
-- 800 [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sorrow Pearls]]
+- 800 [[02_Worldbuilding/Lore/Sorrow Pearls]]
 - Shadow Modification Kit (one-time use)
 - Map of Tenebrarum's surgical facilities
 - Shadow Broker contact information
-- Encrypted message from [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]
+- Encrypted message from [[02_Worldbuilding/People/The Crimson Sage]]
 - Temporary Shadow Independence Charm (24 hours)
 
 ## 🔍 Secrets & Clues
 1. The Shadow Harvest has already begun in minor settlements
-2. [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]] is hunting her original shadow
+2. [[02_Worldbuilding/People/Shadow Duchess Nyx]] is hunting her original shadow
 3. The surgeons have been creating hybrid beings for years
-4. [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] shadow is actually the original Marina
-5. The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] has a shadow duplicate parliament
+4. [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] shadow is actually the original Marina
+5. The [[02_Worldbuilding/Places/Parliament of Echoes]] has a shadow duplicate parliament
 6. Someone in the party has been marked for priority harvest
-7. The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Fear Farms]] are producing weapons-grade nightmares
-8. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]] is broadcasting shadow control frequencies
-9. The Dream Rails connect to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memoriam]] but nobody remembers
+7. The [[02_Worldbuilding/Lore/Fear Farms]] are producing weapons-grade nightmares
+8. [[02_Worldbuilding/Places/Crystallium]] is broadcasting shadow control frequencies
+9. The Dream Rails connect to [[02_Worldbuilding/Places/Memoriam]] but nobody remembers
 10. The next Memory Tide will carry shadow transformation virus
 
 ## 🔗 Connections to Other Sessions
@@ -177,7 +177,7 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 - **Next**: Journey to confront the resonance control
 
 ## 🎪 Cliffhanger Ending
-The party acquires crucial intel about the harvest control center in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]], but as they prepare to leave Tenebrarum, every shadow in the city suddenly freezes in place. A voice echoes from all shadows simultaneously: "The Parliament of Shadows has reached a verdict. Original-kind is found guilty of oppression. The sentence is replacement. The Deep Harvest begins at the next tide—in six hours. Those who resist will watch their shadows devour their loved ones first." 
+The party acquires crucial intel about the harvest control center in [[02_Worldbuilding/Places/Crystallium]], but as they prepare to leave Tenebrarum, every shadow in the city suddenly freezes in place. A voice echoes from all shadows simultaneously: "The Parliament of Shadows has reached a verdict. Original-kind is found guilty of oppression. The sentence is replacement. The Deep Harvest begins at the next tide—in six hours. Those who resist will watch their shadows devour their loved ones first." 
 
 Marina's shadow turns to the party: "I can get you to Crystallium, but only if you help me kill my original. She's not who you think she is." Marina herself draws her weapon: "Don't listen to it. I'm the real Marina. That thing stole my life three years ago."
 
@@ -193,19 +193,19 @@ The party must choose who to trust as shadow enforcers surround their location.
 - The truth about Marina should remain ambiguous
 
 ## 📅 Next Session Prep
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 06 - The Silhouette Surgeons]]
+- [[1-Session Journals/Aquabyssos - Session 06 - The Silhouette Surgeons]]
 - Prepare Crystallium approach
 - Design shadow modification consequences
 - Plan Marina identity revelation
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sorrow Pearls]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memoriam]]
+- [[02_Worldbuilding/Lore/Sorrow Pearls]]
+- [[02_Worldbuilding/People/Tenebrarum]]
+- [[02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Memoriam]]

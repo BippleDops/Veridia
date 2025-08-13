@@ -23,23 +23,23 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Divine Intervention]]
+- [[02_Worldbuilding/Quests/Quest - Divine Intervention]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Nameless Auditor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deepmind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Primordial Vaults]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Divine Intervention]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Depth Accords]]
+- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/The Nameless Auditor]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/The Deepmind]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Quests/Quest - Divine Intervention]]
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[02_Worldbuilding/Quests/The Depth Accords]]
 
 ## Player-Facing Summary
 

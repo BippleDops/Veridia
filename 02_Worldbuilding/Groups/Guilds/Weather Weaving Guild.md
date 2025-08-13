@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
 
 ## Player-Facing Summary
 

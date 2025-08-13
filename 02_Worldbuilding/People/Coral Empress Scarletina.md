@@ -64,12 +64,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Coral Empress Scarletina]]
+- [[02_Worldbuilding/People/Coral Empress Scarletina]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Throne Syndicate HQ]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate HQ]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate]]

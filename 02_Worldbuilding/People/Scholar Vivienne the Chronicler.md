@@ -1,9 +1,9 @@
 ---
-affiliation: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Archive of Forgotten Things]]'
+affiliation: '[[02_Worldbuilding/Lore/The Archive of Forgotten Things]]'
 age: '62'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+location: '[[02_Worldbuilding/Places/Crystalhaven]]
   - The Grand Library'
 race: Half-Elf
 role: Shard Historian
@@ -36,7 +36,7 @@ world: Aethermoor
 *Keeper of Shard Lore, Master of Ancient Texts*
 
 ## Overview
-Scholar Vivienne is the kingdom's foremost expert on the history of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]], having spent four decades collecting, translating, and analyzing every scrap of information about the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] and its shattering. Unlike the obsessed seekers, she approaches the Shards with academic detachment, believing knowledge should be preserved regardless of its danger.
+Scholar Vivienne is the kingdom's foremost expert on the history of [[02_Worldbuilding/Lore/The Seven Shards]], having spent four decades collecting, translating, and analyzing every scrap of information about the [[02_Worldbuilding/Lore/The Crown of Stars]] and its shattering. Unlike the obsessed seekers, she approaches the Shards with academic detachment, believing knowledge should be preserved regardless of its danger.
 
 ## Description
 - **Appearance**: Elegant woman with silver-streaked auburn hair, wearing fine but practical robes
@@ -47,7 +47,7 @@ Scholar Vivienne is the kingdom's foremost expert on the history of [[vault_back
 ### The Academic Path
 - Daughter of a court scribe and an elven lorekeeper
 - Began studying Shard lore after discovering contradictions in official histories
-- Founded the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Archive of Forgotten Things]] to preserve dangerous knowledge
+- Founded the [[02_Worldbuilding/Lore/The Archive of Forgotten Things]] to preserve dangerous knowledge
 - Maintains strict neutrality in factional conflicts
 
 ### Current Work
@@ -59,13 +59,13 @@ Scholar Vivienne is the kingdom's foremost expert on the history of [[vault_back
 ## Knowledge & Expertise
 ### What She Knows
 - Location hints for 5 of the 7 Shards
-- Complete history of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]
+- Complete history of [[02_Worldbuilding/Lore/The Great Crystallization]]
 - Identity patterns of past Shard seekers
 - Theoretical methods for Shard control or destruction
 - Ancient languages related to divine artifacts
 
 ### What She Suspects
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] is connected to the original Crown
+- [[02_Worldbuilding/People/The Crimson Sage]] is connected to the original Crown
 - The Shards may be conscious or semi-sentient
 - Multiple fake Shards exist, created by would-be gods
 - The true purpose of the Crown's shattering was intentional
@@ -84,11 +84,11 @@ Scholar Vivienne is the kingdom's foremost expert on the history of [[vault_back
 - **Shard Seeker Journals**: Final writings of failed seekers
 
 ## Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Provides historical counsel (secretly)
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Provides historical counsel (secretly)
 - **[[Keeper of the Shattered Crown, Marcus Crystalvein]]**: Academic respect despite his corruption
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]**: Tense relationship over "dangerous" knowledge
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Zephyr Goldwhisper]]**: Occasionally consults her research
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/The Crystal Cult]]**: Studies their prophecies while opposing their methods
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Tense relationship over "dangerous" knowledge
+- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Occasionally consults her research
+- **[[02_Worldbuilding/Groups/Cults_and_Movements/The Crystal Cult]]**: Studies their prophecies while opposing their methods
 
 ## Services Offered
 ### To Trustworthy Parties
@@ -150,9 +150,9 @@ Religious extremists plan to destroy the Archive of Forgotten Things, viewing it
 - Wants to solve the Shard mystery before dying
 
 ## Connected Elements
-- Key information source for [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] plotlines
+- Key information source for [[02_Worldbuilding/Lore/The Seven Shards]] plotlines
 - Links to multiple factions through her research
-- Connection to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]'s academic community
+- Connection to [[02_Worldbuilding/Places/Crystalhaven]]'s academic community
 - Bridge between ancient history and current events
 
 ---
@@ -263,13 +263,13 @@ Vivienne can take 2 legendary actions, choosing from the options below. Only one
 
 ## Cross-Campaign Integration
 
-### Links to [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+### Links to [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
 - Possesses historical records of previous dimensional instabilities
 - Expert analysis of how cosmic events affect historical timelines
 - Research into connections between Seven Shards and dimensional stability
 - Historical precedents for reality convergence events
 
-### Connection to [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]]
+### Connection to [[02_Worldbuilding/Groups/The Convergence Seekers]]
 - Academic collaboration on dimensional research projects
 - Neutral perspective on whether convergence represents opportunity or threat
 - Historical analysis of past attempts at dimensional manipulation
@@ -290,12 +290,12 @@ Vivienne can take 2 legendary actions, choosing from the options below. Only one
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
+- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
 - [[Gareth Goldenheart, The Chosen Vessel]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Amnesia Gallery]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[02_Worldbuilding/Places/Amnesia Gallery]]
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
@@ -317,8 +317,8 @@ Legends speak of Scholar Vivienne the Chronicler as a nexus where past and prese
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
+- [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]]
+- [[02_Worldbuilding/Lore/The Crown of Stars]]
 - [[Keeper of the Shattered Crown, Marcus Crystalvein]]

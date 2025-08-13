@@ -5,17 +5,17 @@ created: '2025-08-11'
 date_played: null
 estimated_time: 4-5 hours
 level: 6
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]]'
+location: '[[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]]'
 npcs_featured:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] (Echo)'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdom Fleet]]'
+- '[[02_Worldbuilding/Lore/The Deep Mother]]'
+- '[[02_Worldbuilding/Lore/United Councils of Both Worlds]]'
+- '[[02_Worldbuilding/People/The Crimson Sage]] (Echo)'
+- '[[02_Worldbuilding/Lore/Eastern Kingdom Fleet]]'
 obsidianUIMode: preview
 quests_advanced:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Face the Ancient Threat]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Unite the Two Worlds]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish New World Order]]'
+- '[[02_Worldbuilding/Lore/Face the Ancient Threat]]'
+- '[[02_Worldbuilding/Lore/Unite the Two Worlds]]'
+- '[[02_Worldbuilding/Groups/Orders/Establish New World Order]]'
 session_number: 10
 status: complete
 tags:
@@ -59,7 +59,7 @@ The merged city shudders as massive tentacles of pure void rise from the depths.
 - **Discovery**: Eastern Kingdoms have their own shard
 
 ### Scene 2: Diving into Darkness
-- **Location**: Abyssal depths beneath [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- **Location**: Abyssal depths beneath [[02_Worldbuilding/Places/Aquabyssos]]
 - **Situation**: Locate the Deep Mother's prison core
 - **Conflict**: Navigate elder defenses and void creatures
 - **Discovery**: The prison requires seven sacrifices or one transcendent being
@@ -86,7 +86,7 @@ The merged city shudders as massive tentacles of pure void rise from the depths.
 6. Union of surface and depth magic can create life
 7. The Deep Mother's tears created the first oceans
 8. Void and reality can coexist if balanced
-9. [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] became part of the world's magic
+9. [[02_Worldbuilding/People/The Crimson Sage]] became part of the world's magic
 10. This cycle has repeated across ages
 
 ## 👥 NPCs
@@ -148,20 +148,20 @@ The merged city shudders as massive tentacles of pure void rise from the depths.
 ## 🎭 Campaign Conclusion Options
 
 ### Victory Through Unity
-If the party successfully unites both worlds and communes with the Deep Mother, she agrees to slumber peacefully, her loneliness eased by the dream of merged civilizations. The bloodline carrier becomes the eternal bridge between realms, transformed but retaining their consciousness. New Meridian becomes a beacon of cooperation, with floating districts of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] creating a vertical city of wonder. The Eastern Kingdoms establish embassies, and a new age of magical renaissance begins.
+If the party successfully unites both worlds and communes with the Deep Mother, she agrees to slumber peacefully, her loneliness eased by the dream of merged civilizations. The bloodline carrier becomes the eternal bridge between realms, transformed but retaining their consciousness. New Meridian becomes a beacon of cooperation, with floating districts of [[02_Worldbuilding/Places/Aquabyssos]] creating a vertical city of wonder. The Eastern Kingdoms establish embassies, and a new age of magical renaissance begins.
 
 ### Pyrrhic Victory
 If the party must seal the Deep Mother by force, the effort requires the bloodline carrier to fully merge with the crown, becoming a living monument at the city's heart. Both worlds survive but scarred. Some districts remain permanently merged while others separate. The Eastern Kingdoms establish a cautious trade relationship. Citizens learn to live with duality, and the party becomes the new council governing the changed world.
 
 ### Bittersweet Ending
-If the party makes a compact with the Deep Mother, she withdraws but takes [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] with her to explore the cosmic void. The underwater city phases out of reality, leaving only a few districts as embassies. The bloodline carrier can choose mortality or immortality. Meridian is forever changed, with patches of impossible architecture and physics. The party must help establish new norms for a reality that's been fundamentally altered.
+If the party makes a compact with the Deep Mother, she withdraws but takes [[02_Worldbuilding/Places/Aquabyssos]] with her to explore the cosmic void. The underwater city phases out of reality, leaving only a few districts as embassies. The bloodline carrier can choose mortality or immortality. Meridian is forever changed, with patches of impossible architecture and physics. The party must help establish new norms for a reality that's been fundamentally altered.
 
 ## 🏆 Final Rewards
 - Titles and lands in the new order
 - Mythic boons from the Deep Mother
 - Access to Aquabyssos magic/technology
 - Eastern Kingdom trade rights
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]'s complete magical library
+- [[02_Worldbuilding/People/The Crimson Sage]]'s complete magical library
 - Choice of transformation or preservation
 - Epilogue scenes based on choices
 
@@ -174,11 +174,11 @@ If the party makes a compact with the Deep Mother, she withdraws but takes [[vau
 - The crown's power attracts new threats
 
 ## 🔗 Connected Notes
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdoms]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/Eastern Kingdoms]]
 - New World Order
-- [[vault_backup_20250813_073007/03_Mechanics/Merged Reality Mechanics]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Epilogues]]
+- [[03_Mechanics/Merged Reality Mechanics]]
+- [[02_Worldbuilding/Lore/Campaign Epilogues]]
 
 ## 📝 DM Notes
 ```
@@ -209,4 +209,4 @@ Future Hooks:
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]

@@ -23,29 +23,29 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Deepwatch Guard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Void Watchers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/The Resonance Forge Hammer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/The Tidal Shard of Memory]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Oracle Nerida the Tidereader]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Order of the Shattered Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Bloodline Carrier]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Threshold Chambers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Groups/The Deepwatch Guard]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
+- [[02_Worldbuilding/Groups/The Void Watchers]]
+- [[02_Worldbuilding/Items/The Resonance Forge Hammer]]
+- [[02_Worldbuilding/Items/The Tidal Shard of Memory]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
+- [[02_Worldbuilding/People/Order of the Shattered Crown]]
+- [[02_Worldbuilding/People/The Bloodline Carrier]]
+- [[02_Worldbuilding/Places/The Threshold Chambers]]
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

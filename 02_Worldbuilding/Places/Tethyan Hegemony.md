@@ -29,18 +29,18 @@ world: Both
 *Where Ancient Wisdom Meets Democratic Ideals*
 
 > *"In the depths where pressure crushes dreams, the Tethyan Hegemony proves that even the deepest currents can carry the voice of the people. Here, beneath leagues of crushing water, democracy does not drown—it evolves."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Constitutional Scholar Valdris Deepthought]], *Principles of Aquatic Governance*
+> — [[02_Worldbuilding/Places/Constitutional Scholar Valdris Deepthought]], *Principles of Aquatic Governance*
 
 ## Overview
 
-The Tethyan Hegemony stands as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s oldest and most stable underwater democracy, a vast seafloor nation that has maintained representative government for over 800 years. Built upon the ruins of the ancient Tethyan Empire, this constitutional maritime republic encompasses vast kelp forest cities, coral reef settlements, and deep-sea mining colonies across thousands of square miles of ocean floor. The Hegemony serves as both a beacon of democratic ideals in the deep ocean and a powerful trading partner that has managed to balance ancient traditions with progressive governance, creating a unique political system that adapts classical democracy to the pressures and realities of deep-sea life.
+The Tethyan Hegemony stands as [[02_Worldbuilding/Places/Aquabyssos]]'s oldest and most stable underwater democracy, a vast seafloor nation that has maintained representative government for over 800 years. Built upon the ruins of the ancient Tethyan Empire, this constitutional maritime republic encompasses vast kelp forest cities, coral reef settlements, and deep-sea mining colonies across thousands of square miles of ocean floor. The Hegemony serves as both a beacon of democratic ideals in the deep ocean and a powerful trading partner that has managed to balance ancient traditions with progressive governance, creating a unique political system that adapts classical democracy to the pressures and realities of deep-sea life.
 
 ### Key Statistics
 - **Territory**: 45,000 square miles of seafloor and water column
 - **Population**: 8.5 million citizens across 200+ settlements
 - **Government**: Constitutional Maritime Republic with elected representatives
 - **Depth Range**: 500-2,000 feet (moderate pressure zones)
-- **Capital**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]], built within ancient Tethyan ruins
+- **Capital**: [[02_Worldbuilding/Places/New Tethys]], built within ancient Tethyan ruins
 - **Time Flow**: 0.92x surface time (slightly accelerated)
 
 ## History and the Evolution of Democracy
@@ -56,7 +56,7 @@ The Tethyan Hegemony stands as [[vault_backup_20250813_073007/02_Worldbuilding/P
 ### The Democratic Revolution
 **Timeline**: 850-800 years ago, the Great Tide of Change  
 **Leaders**: The Founding Swimmers—early democratic philosophers and revolutionaries  
-**Catalysts**: Economic inequality, pressure from [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]'s reforms  
+**Catalysts**: Economic inequality, pressure from [[02_Worldbuilding/People/The Scattered Emperor]]'s reforms  
 **Methods**: Largely peaceful transition through constitutional conventions  
 **Opposition**: Conservative nobles and traditionalist factions  
 **Victory**: Establishment of the first underwater constitutional democracy
@@ -98,14 +98,14 @@ The Tethyan Hegemony stands as [[vault_backup_20250813_073007/02_Worldbuilding/P
 **Composition**: 400 elected representatives serving 6-year terms  
 **Representation**: Based on depth-weighted population calculations  
 **Powers**: Law-making, budget approval, international treaty ratification  
-**Location**: Grand Assembly Hall in [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]  
+**Location**: Grand Assembly Hall in [[02_Worldbuilding/Places/New Tethys]]  
 **Sessions**: Year-round with seasonal intensives during migration periods
 
 #### The High Chancellor
 **Role**: Chief executive elected by direct popular vote  
 **Term**: 8-year term with possibility of one re-election  
 **Powers**: Executive administration, diplomatic representation, emergency powers  
-**Current**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/High Chancellor Nerissa Deepcurrent]], second term  
+**Current**: [[02_Worldbuilding/Places/High Chancellor Nerissa Deepcurrent]], second term  
 **Selection**: Direct democratic election every 8 years  
 **Support**: Chancellor's Cabinet of appointed department heads
 
@@ -128,21 +128,21 @@ The Tethyan Hegemony stands as [[vault_backup_20250813_073007/02_Worldbuilding/P
 
 #### The Current Democratic Party
 **Ideology**: Classical democratic principles, individual rights, free trade  
-**Leadership**: Led by [[vault_backup_20250813_073007/02_Worldbuilding/Places/High Chancellor Nerissa Deepcurrent]]  
+**Leadership**: Led by [[02_Worldbuilding/Places/High Chancellor Nerissa Deepcurrent]]  
 **Platform**: Maintaining democratic institutions, international cooperation  
 **Support**: Strong in urban areas and shallow settlements  
 **History**: Dominant party since democratic founding
 
 #### The Deep Conservative Alliance
 **Ideology**: Traditional values, depth-based hierarchy, controlled change  
-**Leadership**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Senator Abyssos Traditionkeeper]]  
+**Leadership**: [[02_Worldbuilding/Places/Senator Abyssos Traditionkeeper]]  
 **Platform**: Slower democratic evolution, cultural preservation  
 **Support**: Popular in deep settlements and rural areas  
 **Concerns**: Worried about rapid social changes and external influences
 
 #### The Progressive Tide Movement
 **Ideology**: Expanded democracy, environmental protection, social justice  
-**Leadership**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Representative Coral Youngcurrent]]  
+**Leadership**: [[02_Worldbuilding/Places/Representative Coral Youngcurrent]]  
 **Platform**: Democratic reform, pressure equality, environmental regulation  
 **Support**: Young voters, environmentalists, social reformers  
 **Goals**: Modernizing democratic institutions for current challenges
@@ -181,12 +181,12 @@ The Tethyan Hegemony stands as [[vault_backup_20250813_073007/02_Worldbuilding/P
 **Mechanism**: Direct democracy tool for major constitutional questions  
 **Requirements**: Triggered by petition of 100,000 citizens or Assembly vote  
 **Process**: Extended debate period followed by territory-wide voting  
-**Recent**: Recent referendum on [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Conspiracy]] investigation powers  
+**Recent**: Recent referendum on [[02_Worldbuilding/People/Shadow Conspiracy]] investigation powers  
 **Importance**: Allows direct citizen input on fundamental governance questions
 
 ## Major Settlements and Regions
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]] - The Democratic Capital
+### [[02_Worldbuilding/Places/New Tethys]] - The Democratic Capital
 **Population**: 1.2 million, the largest underwater democratic city  
 **Location**: Built within and around ancient Tethyan Empire ruins  
 **Government**: Mayoral system with elected city council  
@@ -196,7 +196,7 @@ The Tethyan Hegemony stands as [[vault_backup_20250813_073007/02_Worldbuilding/P
 **Economy**: Government services, international trade, cultural institutions  
 **Notable**: The Democracy Monument commemorating the founding revolution
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Courts]] - The Judicial Center
+### [[02_Worldbuilding/Places/Coral Courts]] - The Judicial Center
 **Population**: 450,000, center of legal education and practice  
 **Specialization**: Legal services, judicial administration, law schools  
 **Architecture**: Magnificent coral structures housing court buildings  
@@ -264,7 +264,7 @@ The Tethyan Hegemony stands as [[vault_backup_20250813_073007/02_Worldbuilding/P
 **Products**: Food, textiles, construction materials, medicines  
 **Methods**: Environmentally sustainable democratic management  
 **Innovation**: Advanced aquaculture techniques developed through public research  
-**Export**: Major kelp exporter to other [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] regions  
+**Export**: Major kelp exporter to other [[02_Worldbuilding/Places/Aquabyssos]] regions  
 **Governance**: Forest councils democratically manage harvest quotas
 
 #### Pressure Crystal Mining
@@ -291,21 +291,21 @@ The Tethyan Hegemony stands as [[vault_backup_20250813_073007/02_Worldbuilding/P
 
 ### Trade Relationships
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] - Complex Partnership
+#### [[02_Worldbuilding/Places/Abyssos Prime]] - Complex Partnership
 **Trade**: Balanced trade in technology, culture, and resources  
 **Politics**: Tense relationship due to different governmental systems  
 **Benefits**: Democratic expertise in exchange for advanced pressure technology  
 **Challenges**: Ideological differences creating diplomatic complications  
 **Future**: Potential for deeper cooperation or increased conflict
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Commercial Alliance
+#### [[02_Worldbuilding/Places/Port Meridian]] - Commercial Alliance
 **Trade**: Major trading partnership with surface-connected port  
 **Exchange**: Kelp products for surface goods and materials  
 **Benefits**: Access to surface world markets and technologies  
 **Cooperation**: Democratic values creating natural partnership  
 **Growth**: Rapidly expanding trade relationship
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]] - Knowledge Exchange
+#### [[02_Worldbuilding/Places/Memory Farmers]] - Knowledge Exchange
 **Services**: Democratic governance training in exchange for memory services  
 **Research**: Collaborative research on collective decision-making  
 **Benefits**: Enhanced democratic participation through better memory tools  
@@ -341,10 +341,10 @@ The Tethyan Hegemony stands as [[vault_backup_20250813_073007/02_Worldbuilding/P
 
 #### Democratic Literature Movement
 **Genre**: Literature exploring democratic themes and citizen experiences  
-**Authors**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Poet Laureate Tidal Wordsmith]], [[vault_backup_20250813_073007/02_Worldbuilding/Places/Novelist Current Stories]]  
+**Authors**: [[02_Worldbuilding/Places/Poet Laureate Tidal Wordsmith]], [[02_Worldbuilding/Places/Novelist Current Stories]]  
 **Themes**: Individual rights, collective responsibility, democratic participation  
 **Innovation**: New literary forms adapted for underwater reading and performance  
-**Export**: Democratic literature influential throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Export**: Democratic literature influential throughout [[02_Worldbuilding/Places/Aquabyssos]]
 
 #### Civic Architecture
 **Style**: Architecture designed to support democratic participation  
@@ -471,7 +471,7 @@ The Tethyan Hegemony stands as [[vault_backup_20250813_073007/02_Worldbuilding/P
 > Despite its democratic ideals, the Hegemony operates a sophisticated intelligence network monitoring threats to democratic institutions. This network, known only to top leadership, gathers information on anti-democratic conspiracies, foreign intelligence operations, and internal threats. While established with good intentions, there are growing concerns about surveillance overreach and the potential for abuse. Some progressive leaders are beginning to question whether secret surveillance can ever be compatible with true democratic transparency.
 
 > [!secret] DM Secret - The Ancient Tethyan Inheritance
-> Deep beneath [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]] lie sealed chambers containing the accumulated knowledge and treasures of the ancient Tethyan Empire. This inheritance includes not only vast wealth but also powerful artifacts and knowledge that could transform the balance of power in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. The democratic government knows of their existence but has chosen not to access them, fearing that such power could corrupt democratic institutions. However, growing pressures may force them to reconsider this decision.
+> Deep beneath [[02_Worldbuilding/Places/New Tethys]] lie sealed chambers containing the accumulated knowledge and treasures of the ancient Tethyan Empire. This inheritance includes not only vast wealth but also powerful artifacts and knowledge that could transform the balance of power in [[02_Worldbuilding/Places/Aquabyssos]]. The democratic government knows of their existence but has chosen not to access them, fearing that such power could corrupt democratic institutions. However, growing pressures may force them to reconsider this decision.
 
 > [!secret] DM Secret - The Deep Democracy Project
 > A secret research project is developing ways to extend democratic governance to the deepest parts of the ocean, including areas with crushing pressure that normal inhabitants cannot survive. This involves creating new forms of representation for pressure-adapted communities and potentially developing technology to allow broader participation in deep-sea democracy. The project is controversial even within the government due to questions about the costs and risks of such expansion.
@@ -504,38 +504,38 @@ The Tethyan Hegemony stands as [[vault_backup_20250813_073007/02_Worldbuilding/P
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]] - Democratic capital
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Courts]] - Judicial center
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] - Complex rival
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Trading partner
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]] - Knowledge exchange partner
+- [[02_Worldbuilding/Places/New Tethys]] - Democratic capital
+- [[02_Worldbuilding/Places/Coral Courts]] - Judicial center
+- [[02_Worldbuilding/Places/Abyssos Prime]] - Complex rival
+- [[02_Worldbuilding/Places/Port Meridian]] - Trading partner
+- [[02_Worldbuilding/Places/Memory Farmers]] - Knowledge exchange partner
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/High Chancellor Nerissa Deepcurrent]] - Current leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Admiral Thalassa Stormcurrent]] - Military commander
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chief Diplomat Corallion Reefwright]] - International relations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Historian Memento]] - Cultural leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Constitutional Scholar Valdris Deepthought]] - Reform advocate
+- [[02_Worldbuilding/Places/High Chancellor Nerissa Deepcurrent]] - Current leader
+- [[02_Worldbuilding/Places/Admiral Thalassa Stormcurrent]] - Military commander
+- [[02_Worldbuilding/Places/Chief Diplomat Corallion Reefwright]] - International relations
+- [[02_Worldbuilding/Places/Ancient Historian Memento]] - Cultural leader
+- [[02_Worldbuilding/Places/Constitutional Scholar Valdris Deepthought]] - Reform advocate
 
 **Related Factions**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Democratic Party]] - Governing party
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deep Conservative Alliance]] - Opposition party
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Progressive Tide Movement]] - Reform movement
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Moderate Depth Coalition]] - Centrist coalition
+- [[02_Worldbuilding/Places/Current Democratic Party]] - Governing party
+- [[02_Worldbuilding/Places/Deep Conservative Alliance]] - Opposition party
+- [[02_Worldbuilding/Places/Progressive Tide Movement]] - Reform movement
+- [[02_Worldbuilding/Places/Moderate Depth Coalition]] - Centrist coalition
 
 **Related Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure-Weighted Representation]] - Unique democratic system
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Democratic Renewal]] - Current reform movement
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Democratic Technology Development]] - Technological innovation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Kelp Forest Constituencies]] - Environmental democratic movement
+- [[02_Worldbuilding/Places/Pressure-Weighted Representation]] - Unique democratic system
+- [[02_Worldbuilding/Places/The Great Democratic Renewal]] - Current reform movement
+- [[02_Worldbuilding/Places/Democratic Technology Development]] - Technological innovation
+- [[02_Worldbuilding/Places/Kelp Forest Constituencies]] - Environmental democratic movement
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archon Meredith Saltweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Mourning Depths]]
+- [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
+- [[02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Mourning Depths]]
 
 ## Player-Facing Summary
 
@@ -557,11 +557,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[02_Worldbuilding/Places/Tethyan Hegemony]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/People/Shadow Conspiracy]]
+- [[02_Worldbuilding/People/The Scattered Emperor]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Port Meridian]]

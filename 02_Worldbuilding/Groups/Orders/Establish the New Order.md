@@ -1,6 +1,6 @@
 ---
 MyCategory: Revolutionary Political Movement
-MyContainer: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]]'
+MyContainer: '[[02_Worldbuilding/Places/Lumengarde]]'
 benefits:
 - reward: Access to crystal stabilization techniques and unified governance training
   standing: 1
@@ -51,7 +51,7 @@ world: Aethermoor
 
 *Revolutionary movement seeking to replace Aethermoor's fractured sky island politics with unified crystalline governance*
 
-The **Establish the New Order** movement represents the most ambitious political transformation attempt in Aethermoor's post-[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] history. Founded on the principle that the realm's traditional sky island independence has become a fatal weakness in the face of dimensional instabilities and external threats, the organization seeks to create a completely new form of government based on crystal-enhanced collective consciousness and unified command structure.
+The **Establish the New Order** movement represents the most ambitious political transformation attempt in Aethermoor's post-[[02_Worldbuilding/Places/The Great Drowning]] history. Founded on the principle that the realm's traditional sky island independence has become a fatal weakness in the face of dimensional instabilities and external threats, the organization seeks to create a completely new form of government based on crystal-enhanced collective consciousness and unified command structure.
 
 Unlike reform movements that work within existing systems, the New Order advocates for total political restructuring. They believe Aethermoor's survival depends on abandoning the autonomous sky island model in favor of a crystalline network that can coordinate responses to reality storms, void incursions, and interdimensional conflicts with unprecedented efficiency and unity.
 
@@ -67,16 +67,16 @@ The movement's enigmatic leader, known only as "The Architect," claims to be a s
 **The Architect's Vision**: A unified Aethermoor where all major decisions flow through crystal networks connecting every citizen, enabling perfect information sharing and collective decision-making while maintaining individual autonomy through crystal-mediated consciousness preservation.
 
 ### The Command Structure
-**Supreme Commander [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Thrace Ironwood]]**: Military leader and practical administrator of New Order operations. Former Crystal Warden who became disillusioned with the organization's inability to coordinate effective responses to realm-wide crises.
+**Supreme Commander [[02_Worldbuilding/People/Commander Thrace Ironwood]]**: Military leader and practical administrator of New Order operations. Former Crystal Warden who became disillusioned with the organization's inability to coordinate effective responses to realm-wide crises.
 
-**Chief Coordinator [[vault_backup_20250813_073007/02_Worldbuilding/People/Aria Lumengarde]]**: Political strategist and public face of the movement. Descendant of Lumengarde's founding families who advocates for voluntary adoption of New Order principles rather than revolutionary imposition.
+**Chief Coordinator [[02_Worldbuilding/People/Aria Lumengarde]]**: Political strategist and public face of the movement. Descendant of Lumengarde's founding families who advocates for voluntary adoption of New Order principles rather than revolutionary imposition.
 
-**Order Chaplain [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]**: Spiritual advisor who frames the movement in religious terms, promoting the Unity Doctrine that presents crystalline consciousness as divine enlightenment rather than political control.
+**Order Chaplain [[02_Worldbuilding/People/Brother Marcus Steelbane]]**: Spiritual advisor who frames the movement in religious terms, promoting the Unity Doctrine that presents crystalline consciousness as divine enlightenment rather than political control.
 
 ### Regional Operations
-**The Northern Command**: Operating from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]], focuses on converting existing government institutions and establishing crystal infrastructure in major population centers.
+**The Northern Command**: Operating from [[02_Worldbuilding/Places/Lumengarde]], focuses on converting existing government institutions and establishing crystal infrastructure in major population centers.
 
-**The Southern Expansion**: Working in the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sundered Peaks]], specializes in winning over mining communities and crystal extraction operations through promises of enhanced safety and coordination.
+**The Southern Expansion**: Working in the [[02_Worldbuilding/Lore/Sundered Peaks]], specializes in winning over mining communities and crystal extraction operations through promises of enhanced safety and coordination.
 
 **The Eastern Front**: Based in frontier sky islands, emphasizes the movement's ability to provide coordinated defense against external threats and dimensional instabilities.
 
@@ -97,7 +97,7 @@ The movement's political theory combines practical crisis management with mystic
 **Reality Stabilization**: Governmental structures designed specifically to maintain dimensional stability through coordinated crystal network management and reality anchor placement.
 
 ### The Unity Doctrine
-The movement's quasi-religious philosophy, developed by [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]:
+The movement's quasi-religious philosophy, developed by [[02_Worldbuilding/People/Brother Marcus Steelbane]]:
 
 **Crystalline Enlightenment**: Connection to crystal networks provides expanded consciousness and wisdom beyond individual limitations.
 
@@ -141,7 +141,7 @@ The final goal involves transforming Aethermoor into a single political entity w
 
 **Crystal Workers**: Mining, research, and technical personnel who understand crystal technology's potential for large-scale organization and communication.
 
-**Military Personnel**: Current and former [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]], sky island guards, and frontier defenders frustrated by lack of coordinated response capabilities.
+**Military Personnel**: Current and former [[02_Worldbuilding/People/Crystal Wardens]], sky island guards, and frontier defenders frustrated by lack of coordinated response capabilities.
 
 **Administrative Officials**: Government workers who have witnessed inefficiencies in current inter-island coordination and communication systems.
 
@@ -199,34 +199,34 @@ Gradual modification of Aethermoor social values:
 ## Allies and Opposition
 
 ### Allied Organizations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] (Reformed)**: Former members converted to New Order principles
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]]**: Shares goals of fundamental Aethermoor transformation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]**: Benefits from coordinated crystal technology development
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]]**: Philosophical alignment on dimensional harmony principles
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Void Watchers]]**: Practical cooperation on interdimensional threat response
+- **[[02_Worldbuilding/People/Crystal Wardens]] (Reformed)**: Former members converted to New Order principles
+- **[[02_Worldbuilding/Lore/The Restoration Movement]]**: Shares goals of fundamental Aethermoor transformation
+- **[[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]**: Benefits from coordinated crystal technology development
+- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Philosophical alignment on dimensional harmony principles
+- **[[02_Worldbuilding/Groups/The Void Watchers]]**: Practical cooperation on interdimensional threat response
 
 ### Sympathetic but Cautious
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Temple of Divine Order]]**: Appreciates stability goals but questions consciousness modification
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Artisans' Collective]]**: Interested in coordinated resource access but values independence
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]**: Sees economic opportunities but fears loss of trading autonomy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]**: Shares interest in reality research but opposes authoritarian methods
+- **[[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]**: Appreciates stability goals but questions consciousness modification
+- **[[02_Worldbuilding/Lore/The Artisans' Collective]]**: Interested in coordinated resource access but values independence
+- **[[02_Worldbuilding/Groups/Merchant Princes]]**: Sees economic opportunities but fears loss of trading autonomy
+- **[[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]**: Shares interest in reality research but opposes authoritarian methods
 
 ### Opposed Organizations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]**: Views crystal consciousness modification as fundamental corruption
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]**: Represents traditional power structures being dismantled
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]**: Opposes unified governance that would eliminate operational freedom
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**: Suspicious of any unified human government in their territory
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]**: Philosophically opposes all organized governmental authority
+- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Views crystal consciousness modification as fundamental corruption
+- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]**: Represents traditional power structures being dismantled
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]**: Opposes unified governance that would eliminate operational freedom
+- **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**: Suspicious of any unified human government in their territory
+- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]**: Philosophically opposes all organized governmental authority
 
 ### Complex Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]**: Competing visions of crystal-based governance create tension
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/The Order of the Azure Flame]]**: Shares mystical approaches but disagrees on implementation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Deepwatch Guard]]**: Military cooperation potential but fears loss of organizational independence
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]]**: Some pirates attracted to promises of coordinated operations
+- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Competing visions of crystal-based governance create tension
+- **[[02_Worldbuilding/Groups/Orders/The Order of the Azure Flame]]**: Shares mystical approaches but disagrees on implementation
+- **[[02_Worldbuilding/Groups/The Deepwatch Guard]]**: Military cooperation potential but fears loss of organizational independence
+- **[[02_Worldbuilding/Groups/The Crimson Fleet]]**: Some pirates attracted to promises of coordinated operations
 
 ## Territory and Infrastructure
 
-### Primary Headquarters: The Unity Spire, [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]]
+### Primary Headquarters: The Unity Spire, [[02_Worldbuilding/Places/Lumengarde]]
 A massive crystal construct existing partially outside normal space-time, serving as:
 - Command center for realm-wide operations
 - Demonstration facility showcasing crystal governance potential
@@ -235,7 +235,7 @@ A massive crystal construct existing partially outside normal space-time, servin
 
 ### Regional Centers
 
-**Northern Integration Hub ([[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]])**: Mining community conversion center
+**Northern Integration Hub ([[02_Worldbuilding/Places/The Sundered Peaks]])**: Mining community conversion center
 - Crystal extraction coordination improving safety and efficiency
 - Worker education programs promoting collective consciousness benefits
 - Reality anchor installation protecting communities from dimensional instability
@@ -270,13 +270,13 @@ A massive crystal construct existing partially outside normal space-time, servin
 ## Internal Politics and Factions
 
 ### The Voluntary Integrationists
-Led by [[vault_backup_20250813_073007/02_Worldbuilding/People/Aria Lumengarde]], believe New Order principles should be adopted through persuasion and demonstration rather than force. They emphasize showing the benefits of crystal consciousness and unified governance while respecting individual choice.
+Led by [[02_Worldbuilding/People/Aria Lumengarde]], believe New Order principles should be adopted through persuasion and demonstration rather than force. They emphasize showing the benefits of crystal consciousness and unified governance while respecting individual choice.
 
 ### The Revolutionary Command
-Following [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Thrace Ironwood]], argue that traditional institutions are too corrupt and inefficient for gradual reform. They advocate for rapid political transformation through coordinated action when crises create opportunities.
+Following [[02_Worldbuilding/People/Commander Thrace Ironwood]], argue that traditional institutions are too corrupt and inefficient for gradual reform. They advocate for rapid political transformation through coordinated action when crises create opportunities.
 
 ### The Mystic Unity Faction
-[[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]'s followers view the movement in spiritual terms, believing crystal consciousness represents evolutionary advancement toward divine enlightenment. They promote conversion through religious rather than political appeals.
+[[02_Worldbuilding/People/Brother Marcus Steelbane]]'s followers view the movement in spiritual terms, believing crystal consciousness represents evolutionary advancement toward divine enlightenment. They promote conversion through religious rather than political appeals.
 
 ### The Technological Supremacists
 A growing faction believing crystal technology itself, rather than political philosophy, should drive transformation. They focus on developing increasingly advanced crystal systems that make traditional governance obsolete through superior functionality.
@@ -306,7 +306,7 @@ The New Order promotes an economic system built around coordinated crystal techn
 
 ### Resource Network
 **Material Resources**:
-- Extensive crystal mining operations in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]]
+- Extensive crystal mining operations in [[02_Worldbuilding/Places/The Sundered Peaks]]
 - Advanced manufacturing facilities for crystal technology production
 - Transportation networks enabling rapid resource movement
 - Storage facilities with reality-anchor protection against dimensional disruption
@@ -402,26 +402,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Deepwatch Guard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/The Order of the Azure Flame]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Void Watchers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Thrace Ironwood]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]]
+- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]
+- [[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
+- [[02_Worldbuilding/Groups/Merchant Princes]]
+- [[02_Worldbuilding/Groups/Purist Coalition]]
+- [[02_Worldbuilding/Groups/Orders/Temple of Divine Order]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
+- [[02_Worldbuilding/Groups/The Deepwatch Guard]]
+- [[02_Worldbuilding/Groups/Orders/The Order of the Azure Flame]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
+- [[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]
+- [[02_Worldbuilding/Groups/The Void Watchers]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
+- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[02_Worldbuilding/Places/Lumengarde]]
+- [[02_Worldbuilding/Places/The Sundered Peaks]]

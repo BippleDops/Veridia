@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Maelstrom Palace]]
+- [[02_Worldbuilding/Places/Maelstrom Palace]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Maelstrom Palace]]
+- [[02_Worldbuilding/Places/Maelstrom Palace]]
 
 ## Player-Facing Summary
 

@@ -6,14 +6,14 @@ current_state: Partially Flooded Ruins
 danger_level: Moderate-High
 depth: 2500-3000 feet
 difficulty: Levels 6-12
-original_builder: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]]'
+original_builder: '[[02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]]'
 population: 50+ (scholars, guardians, spirits)
 related_entities:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]]'
+- '[[02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]]'
 - '[[02_Worldbuilding/Groups/The Scribes'' Covenant|02 Worldbuilding/Groups/The Scribes''
   Covenant]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Order of Preserved Knowledge]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Archives]]'
+- '[[02_Worldbuilding/Groups/Orders/Order of Preserved Knowledge]]'
+- '[[02_Worldbuilding/Lore/Deep Archives]]'
 status: complete
 tags:
 - ancient-wisdom
@@ -46,7 +46,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Sunken Library of Thalassius stands as one of the most significant repositories of pre-Drowning knowledge in all of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Once the crown jewel of [[vault_backup_20250813_073007/02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]]'s educational empire, this massive underwater complex contains hundreds of thousands of books, scrolls, magical texts, and artifacts that have survived the catastrophic transformation of the world.
+The Sunken Library of Thalassius stands as one of the most significant repositories of pre-Drowning knowledge in all of [[02_Worldbuilding/Places/Aquabyssos]]. Once the crown jewel of [[02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]]'s educational empire, this massive underwater complex contains hundreds of thousands of books, scrolls, magical texts, and artifacts that have survived the catastrophic transformation of the world.
 
 Built originally as a surface library complex spanning over 12 city blocks, the library was miraculously preserved when the Great Drowning occurred. Through a combination of hasty protective magic and fortunate architecture, large portions of the structure maintained air-filled chambers and preserved their precious contents. Today, it exists as a partially flooded maze of chambers, halls, and towers where scholars from across the realm come to study forbidden knowledge and recover lost wisdom.
 
@@ -176,7 +176,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 
 **The Restricted Collection**: The most valuable and dangerous books in the library:
 - **The Arcane Codex**: Original spell research by legendary wizards
-- **The Imperial Library**: Personal collection of [[vault_backup_20250813_073007/02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]]
+- **The Imperial Library**: Personal collection of [[02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]]
 - **The Forbidden Knowledge**: Books too dangerous for unrestricted access
 - **The Living Texts**: Books that have achieved a form of sentience
 
@@ -257,34 +257,34 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 #### The Keeper's Circle
 **Current Library Leadership**: A council of dedicated scholars who coordinate operations:
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Aquaeous Depth-Scholar]]**: Chief Librarian and overall administrator
+**[[02_Worldbuilding/Places/Keeper Aquaeous Depth-Scholar]]**: Chief Librarian and overall administrator
 - **Background**: Former surface academic who adapted to underwater life
 - **Expertise**: Specializes in pre-Drowning history and cultural preservation
 - **Authority**: Makes decisions about access permissions and research priorities
 - **Residence**: Private chambers in the Grand Dome with extensive personal library
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Archivist Coral-Mind Preserver]]**: Head of collections and cataloguing
+**[[02_Worldbuilding/Lore/Archivist Coral-Mind Preserver]]**: Head of collections and cataloguing
 - **Species**: Sea elf with natural adaptation to underwater environment
 - **Role**: Manages organization and preservation of all library materials
 - **Innovation**: Developed new magical techniques for underwater book storage
 - **Projects**: Currently working on comprehensive catalog of entire collection
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Research Director Current-Thought]]**: Coordinates active research projects
+**[[02_Worldbuilding/Lore/Research Director Current-Thought]]**: Coordinates active research projects
 - **Background**: Former adventurer who settled into scholarly life
-- **Connections**: Maintains relationships with researchers throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- **Connections**: Maintains relationships with researchers throughout [[02_Worldbuilding/Places/Aquabyssos]]
 - **Services**: Matches researchers with appropriate resources and collaborators
 - **Expertise**: Specializes in practical applications of academic knowledge
 
 #### The Scholar Community
 **Resident Researchers**: 20+ individuals who have made the library their permanent home:
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sage Marina Deeptext]]**: Expert in magical theory and spell research
+**[[02_Worldbuilding/Lore/Sage Marina Deeptext]]**: Expert in magical theory and spell research
 - **Specialty**: Develops new spells adapted for underwater environments
 - **Location**: Maintains laboratory in the Arcane Spire
 - **Services**: Teaches magic to qualified students and creates custom spells
 - **Research**: Currently investigating how the Drowning changed magical laws
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Historian Kelp Chronicler]]**: Specialist in pre-Drowning civilizations
+**[[02_Worldbuilding/Lore/Historian Kelp Chronicler]]**: Specialist in pre-Drowning civilizations
 - **Project**: Writing comprehensive history of the Great Drowning
 - **Sources**: Has access to eyewitness accounts and government documents
 - **Network**: Corresponding scholars throughout the underwater realm
@@ -292,7 +292,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 
 **[[Engineer Pressure-Smith]]**: Studies ancient construction techniques
 - **Focus**: How pre-Drowning buildings were adapted for underwater use
-- **Practical Work**: Consults on construction projects throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- **Practical Work**: Consults on construction projects throughout [[02_Worldbuilding/Places/Aquabyssos]]
 - **Innovation**: Develops new building methods combining old and new techniques
 - **Teaching**: Trains architects and engineers in flood-resistant construction
 
@@ -308,19 +308,19 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 #### The Eternal Librarians
 **Ghostly Staff**: Spirits of librarians who died during the Great Drowning but continue their work:
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spectral Librarian Reverent Bookmark]]**: Guardian of the Restricted Collection
+**[[02_Worldbuilding/Lore/Spectral Librarian Reverent Bookmark]]**: Guardian of the Restricted Collection
 - **Death**: Died trying to protect the most dangerous magical texts
 - **Current Role**: Tests visitors to determine if they can safely access forbidden knowledge
 - **Abilities**: Can phase through walls, read minds, and manipulate magical energy
 - **Personality**: Stern but fair, genuinely concerned with preventing magical catastrophes
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Phantom Archivist Silent Catalogue]]**: Maintains the ghostly filing system
+**[[02_Worldbuilding/Lore/Phantom Archivist Silent Catalogue]]**: Maintains the ghostly filing system
 - **Background**: Memorized the location of every book before dying
 - **Services**: Can locate any text in the library instantly
 - **Communication**: Speaks only through writing that appears in the air
 - **Limitation**: Cannot interact with physical objects but can guide living people
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Wraith Curator Ancient-Wisdom]]**: Protects historical documents
+**[[02_Worldbuilding/Lore/Wraith Curator Ancient-Wisdom]]**: Protects historical documents
 - **Obsession**: Preserving accurate historical records
 - **Behavior**: Becomes hostile when people attempt to alter or destroy historical texts
 - **Knowledge**: Remembers events that occurred before the Drowning
@@ -557,11 +557,11 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 **Revelation**: The prophecy suggests the Drowning was intentionally caused
 
 **Key Locations**: The Sealed Prophecy Vaults, Guardian Dragon lairs, Ghostly archivist territories
-**Important NPCs**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spectral Librarian Reverent Bookmark]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sage Marina Deeptext]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Scholar of Eight Arms]]
+**Important NPCs**: [[02_Worldbuilding/Lore/Spectral Librarian Reverent Bookmark]], [[02_Worldbuilding/Lore/Sage Marina Deeptext]], [[02_Worldbuilding/Lore/The Scholar of Eight Arms]]
 **Rewards**: Knowledge of future threats, historical insights, potentially world-changing information
 
 #### The Emperor's Secret Collection
-**Hook**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]] hid his personal magical research somewhere in the library
+**Hook**: [[02_Worldbuilding/People/Scholar Emperor Thalassius the Wise]] hid his personal magical research somewhere in the library
 **Mystery**: The collection's location is protected by a complex series of riddles and tests
 **Danger**: The Emperor's experiments may have been too dangerous to survive
 **Politics**: Multiple factions want access to the Emperor's magical innovations
@@ -577,7 +577,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 **Resolution**: Successful rescue improves party reputation with scholarly community
 
 #### The Missing Expedition
-**Background**: Academic delegation from [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]] has disappeared in the library
+**Background**: Academic delegation from [[02_Worldbuilding/Places/New Tethys]] has disappeared in the library
 **Investigation**: Trail leads to dangerous areas controlled by hostile guardians
 **Discovery**: Expedition triggered ancient security systems and is held prisoner
 **Negotiation**: Guardians may release prisoners in exchange for specific services
@@ -606,7 +606,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 **Sides**: Government agencies, academic institutions, criminal organizations
 **Stakes**: Control of historical records that could legitimize political claims
 **Party Role**: Choose sides or attempt to maintain library neutrality
-**Resolution**: Outcome affects scholarly freedom throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Resolution**: Outcome affects scholarly freedom throughout [[02_Worldbuilding/Places/Aquabyssos]]
 
 #### The Censorship Crisis
 **Issue**: Authorities demand removal of certain historical records
@@ -634,7 +634,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Research-Based Adventures (Levels 5-12)
 
 #### The Academic Conference
-**Event**: Scholars from across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] gather for major conference
+**Event**: Scholars from across [[02_Worldbuilding/Places/Aquabyssos]] gather for major conference
 **Organization**: Party helps coordinate complex logistics and security
 **Politics**: Different academic and political factions create tension
 **Crisis**: Sabotage attempts or attacks on prominent scholars
@@ -652,21 +652,21 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Academic Relationships
 
 #### Partner Institutions
-**Allied Organizations**: Other scholarly groups throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]:
+**Allied Organizations**: Other scholarly groups throughout [[02_Worldbuilding/Places/Aquabyssos]]:
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Scribes' Covenant]]**: Professional organization for librarians and archivists
+**[[02_Worldbuilding/Lore/The Scribes' Covenant]]**: Professional organization for librarians and archivists
 - **Membership**: Many library staff belong to this organization
 - **Services**: Professional development, resource sharing, standardized practices
 - **Advocacy**: Political representation for scholarly interests
 - **Networking**: Connections between libraries and archives throughout the realm
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Order of Preserved Knowledge]]**: Religious organization dedicated to protecting information
+**[[02_Worldbuilding/Groups/Orders/Order of Preserved Knowledge]]**: Religious organization dedicated to protecting information
 - **Philosophy**: Believes knowledge preservation is sacred duty
 - **Cooperation**: Provides funding and personnel for important projects
 - **Protection**: Offers security services for threatened collections
 - **Ritual Services**: Blessing ceremonies for new acquisitions and major projects
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/University of Depth Studies]]**: Major academic institution in [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
+**[[02_Worldbuilding/Lore/University of Depth Studies]]**: Major academic institution in [[02_Worldbuilding/Places/New Tethys]]
 - **Student Exchange**: Advanced students study at the library
 - **Faculty Collaboration**: Joint research projects and publication efforts
 - **Resource Sharing**: Interlibrary loan and document exchange programs
@@ -686,7 +686,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 #### Government Relations
 **Official Status**: The library's relationship with various governmental entities:
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]**: The central government of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**[[02_Worldbuilding/Places/Parliament of Echoes]]**: The central government of [[02_Worldbuilding/Places/Aquabyssos]]
 - **Legal Status**: Official recognition as educational institution
 - **Funding**: Government grants for specific research projects
 - **Access Rights**: Parliamentary investigators have special library privileges
@@ -718,7 +718,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 #### Economic Networks
 **Financial Connections**: The library's role in the broader economy:
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Merchant's Covenant]]**: Trading organization that values historical information
+**[[02_Worldbuilding/Lore/The Merchant's Covenant]]**: Trading organization that values historical information
 - **Market Research**: Historical data helps predict economic trends
 - **Authentication Services**: Verification of artifact age and origin
 - **Investment Decisions**: Historical precedents inform business strategies
@@ -841,14 +841,14 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ---
 
 *"In the depths where knowledge sleeps, every book is a message in a bottle from a drowned world. Here, the past speaks to the present through words that survived when cities fell and civilizations ended."*  
-— [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Aquaeous Depth-Scholar]], Chief Librarian
+— [[02_Worldbuilding/Places/Keeper Aquaeous Depth-Scholar]], Chief Librarian
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Amnesia Gallery]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
+- [[02_Worldbuilding/Places/Amnesia Gallery]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
@@ -872,6 +872,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
 
 <!-- enriched: true -->

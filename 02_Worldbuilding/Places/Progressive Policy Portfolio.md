@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Senator]]
+- [[02_Worldbuilding/People/The Senator]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Senator]]
+- [[02_Worldbuilding/People/The Senator]]
 
 ## Player-Facing Summary
 

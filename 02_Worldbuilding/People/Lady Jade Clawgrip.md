@@ -1,9 +1,9 @@
 ---
-affiliation: '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales'
+affiliation: '[[02_Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales'
 age: '38'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silver Tower of Commerce]] - Acquisitions Floor'
+location: '[[02_Worldbuilding/Lore/The Silver Tower of Commerce]] - Acquisitions Floor'
 race: Half-Dragon (Silver Heritage)
 role: Scale of Acquisition
 status: complete
@@ -34,7 +34,7 @@ world: Aethermoor
 *The Corporate Predator, Mistress of Hostile Takeovers*
 
 ## Overview
-Lady Jade Clawgrip serves as the "Scale of Acquisition" on the [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]'s Board of Scales, specializing in hostile takeovers, corporate warfare, and the complete destruction of business competitors. Her silver dragon heritage gives her both supernatural abilities and an instinctive understanding of greed and acquisition, making her the Consortium's most feared negotiator and its most effective weapon against economic rivals.
+Lady Jade Clawgrip serves as the "Scale of Acquisition" on the [[02_Worldbuilding/Groups/Silverscale Consortium]]'s Board of Scales, specializing in hostile takeovers, corporate warfare, and the complete destruction of business competitors. Her silver dragon heritage gives her both supernatural abilities and an instinctive understanding of greed and acquisition, making her the Consortium's most feared negotiator and its most effective weapon against economic rivals.
 
 ## Description
 - **Appearance**: Tall, elegant woman with silver-streaked black hair and predatory green eyes
@@ -45,7 +45,7 @@ Lady Jade Clawgrip serves as the "Scale of Acquisition" on the [[vault_backup_20
 
 ## Background
 ### Silver Dragon Legacy
-- Granddaughter of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Argyros the Silver]], the dragon who founded the Consortium
+- Granddaughter of [[02_Worldbuilding/Lore/Argyros the Silver]], the dragon who founded the Consortium
 - Inherited dragon's instinct for accumulating wealth and territory
 - Born into Consortium royalty but earned her position through ruthless competence
 - Struggled with dragon nature versus human society's expectations
@@ -75,7 +75,7 @@ Lady Jade Clawgrip serves as the "Scale of Acquisition" on the [[vault_backup_20
 
 ## Current Operations
 ### Active Takeover Targets
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Free Traders Alliance]]**: Independent merchant confederation threatening Consortium dominance
+- **[[02_Worldbuilding/Lore/The Free Traders Alliance]]**: Independent merchant confederation threatening Consortium dominance
 - **Crystalhaven Guild Bank**: Financial institution with too much independence
 - **The Meridian Shipping Consortium**: Rival attempting to challenge Consortium's transport monopoly
 - **Noble House Financial Holdings**: Aristocratic families with significant liquid assets
@@ -105,15 +105,15 @@ Lady Jade Clawgrip serves as the "Scale of Acquisition" on the [[vault_backup_20
 
 ## Relationships
 ### Consortium Board
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Zephyr Goldwhisper]]**: Competitive respect between ambitious executives
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Countess Argentum Vaultkeeper]]**: Alliance based on mutual benefit
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marcus Ledgerborn]]**: Professional relationship focused on trade efficiency
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Commander Ironprice]]**: Coordinates military support for corporate operations
+- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Competitive respect between ambitious executives
+- **[[02_Worldbuilding/Places/Countess Argentum Vaultkeeper]]**: Alliance based on mutual benefit
+- **[[02_Worldbuilding/Lore/Marcus Ledgerborn]]**: Professional relationship focused on trade efficiency
+- **[[02_Worldbuilding/Lore/Commander Ironprice]]**: Coordinates military support for corporate operations
 - **Board Colleagues**: Rivals for influence and Chairman's favor
 
 ### External Relations
 - **Target Companies**: Views them as prey to be consumed
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sees as obstacle to complete corporate control
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sees as obstacle to complete corporate control
 - **Independent Merchants**: Constantly evaluating for acquisition potential
 - **Foreign Competitors**: International rivals requiring different strategies
 - **Dragon Descendants**: Complex relationship with others sharing draconic heritage
@@ -176,7 +176,7 @@ Lady Jade Clawgrip serves as the "Scale of Acquisition" on the [[vault_backup_20
 - Becomes bridge between draconic and human perspectives
 
 ## Connected Elements
-- Central figure for [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]] corporate warfare
+- Central figure for [[02_Worldbuilding/Groups/Silverscale Consortium]] corporate warfare
 - Links dragon heritage to modern corporate themes
 - Represents extreme capitalism and social Darwinism
 - Key antagonist for independent business storylines
@@ -253,7 +253,7 @@ Jade can take 3 legendary actions, choosing from the options below. Only one leg
 **Spellcasting (Costs 2 Actions).** Jade casts a spell of 3rd level or lower.
 
 ### Lair Actions
-When encountered in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silver Tower of Commerce]] or another major business location under her control, Jade can take lair actions on initiative count 20:
+When encountered in [[02_Worldbuilding/Lore/The Silver Tower of Commerce]] or another major business location under her control, Jade can take lair actions on initiative count 20:
 
 **Market Manipulation.** All creatures in the lair must succeed on a DC 19 Wisdom saving throw or become obsessed with making profitable deals, taking the charmed condition for 1 minute.
 
@@ -279,10 +279,10 @@ When encountered in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sil
 - Temperature drops slightly around her when angry
 
 ### Motivations Beyond Profit
-- **Grandfather's Legacy**: Proving worthy of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Argyros the Silver]]'s business empire
+- **Grandfather's Legacy**: Proving worthy of [[02_Worldbuilding/Lore/Argyros the Silver]]'s business empire
 - **Dragon Validation**: Establishing dominance in human society as dragon ancestor did
 - **Perfectionist Drive**: Cannot tolerate inefficiency or wasted potential
-- **Territorial Expansion**: Viewing all of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] as potential dragon territory
+- **Territorial Expansion**: Viewing all of [[02_Worldbuilding/Places/Aethermoor]] as potential dragon territory
 
 ### Personal Vulnerabilities
 - Struggles with loneliness due to her predatory nature isolating her
@@ -302,11 +302,11 @@ When encountered in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sil
 **Current Target List**:
 - **[[Meridian Trading Company]]**: Independent shipping operation (valued at 800,000gp)
 - **[[The Free Guilds Alliance]]**: Coalition of artisan guilds (combined value 1.2 million gp)
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Deepwater Banking Consortium]]**: Financial rival controlling 15% of kingdom's credit
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Commerce Commission]]**: Government regulatory body (corruption value inestimable)
+- **[[02_Worldbuilding/People/Deepwater Banking Consortium]]**: Financial rival controlling 15% of kingdom's credit
+- **[[02_Worldbuilding/Lore/Royal Commerce Commission]]**: Government regulatory body (corruption value inestimable)
 
 ### The Intelligence Network
-**"The Silver Eyes"**: 200+ informants across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s business sector
+**"The Silver Eyes"**: 200+ informants across [[02_Worldbuilding/Places/Aethermoor]]'s business sector
 - Embedded agents in competitor organizations
 - Financial analysts tracking market vulnerabilities
 - Legal specialists identifying regulatory weaknesses
@@ -320,9 +320,9 @@ When encountered in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sil
 - 47 regulatory officials in key departments
 
 **Pending Corruption**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Minister of Trade Relations]]: Currently under financial pressure
+- [[02_Worldbuilding/Lore/Minister of Trade Relations]]: Currently under financial pressure
 - [[High Judge of Commercial Court]]: Family debts being leveraged
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Treasurer]]: Personal scandals being documented
+- [[02_Worldbuilding/Lore/Royal Treasurer]]: Personal scandals being documented
 
 ---
 
@@ -333,10 +333,10 @@ When encountered in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sil
 **Predator's Mark**: Can track anyone she's conducted business with for up to 1 year
 **Silver Tongue**: Advantage on all Deception and Persuasion checks involving financial matters
 **Territorial Awareness**: Knows immediately when competitors enter her established business territories
-**Generational Memory**: Can access fragments of grandfather [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Argyros the Silver]]'s memories
+**Generational Memory**: Can access fragments of grandfather [[02_Worldbuilding/Lore/Argyros the Silver]]'s memories
 
 ### The Clawgrip Vault
-Located beneath [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silver Tower of Commerce]], Jade's personal treasure hoard rivals ancient dragons:
+Located beneath [[02_Worldbuilding/Lore/The Silver Tower of Commerce]], Jade's personal treasure hoard rivals ancient dragons:
 - **Liquid Assets**: 2.8 million gold pieces in various currencies
 - **Art Collection**: 127 pieces valued at 50,000+ gold each
 - **Magic Items**: 23 legendary items with commercial applications
@@ -354,33 +354,33 @@ Jade's dragon nature is becoming more pronounced:
 
 ## Relationships & Faction Dynamics
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]] Board Politics
-**Alliance with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Countess Argentum Vaultkeeper]]**: 
+### [[02_Worldbuilding/Groups/Silverscale Consortium]] Board Politics
+**Alliance with [[02_Worldbuilding/Places/Countess Argentum Vaultkeeper]]**: 
 - Joint financial manipulation schemes
 - Shared intelligence on regulatory threats
 - Coordinated attacks on banking competitors
 - Mutual protection from board coup attempts
 
-**Rivalry with [[vault_backup_20250813_073007/02_Worldbuilding/People/Zephyr Goldwhisper]]**:
+**Rivalry with [[02_Worldbuilding/People/Zephyr Goldwhisper]]**:
 - Competition for Chairman's favor and succession rights
 - Economic warfare through competing acquisition targets
 - Sabotage of each other's major deals
 - Race to demonstrate greater dragon heritage worthiness
 
-**Professional Respect for [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marcus Ledgerborn]]**:
+**Professional Respect for [[02_Worldbuilding/Lore/Marcus Ledgerborn]]**:
 - Acknowledges his operational expertise
 - Uses his logistics network for her acquisition operations
 - Provides him with financial backing for infrastructure projects
 - Maintains careful balance of cooperation and competition
 
 ### External Corporate Relations
-**War with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Free Traders Alliance]]**:
+**War with [[02_Worldbuilding/Lore/The Free Traders Alliance]]**:
 - Systematic disruption of their shipping routes
 - Legal warfare through bought judges and regulations
 - Recruitment of their key personnel with massive salary offers
 - Economic siege tactics cutting off their financing
 
-**Infiltration of [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s Government**:
+**Infiltration of [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s Government**:
 - Three cabinet members now on Consortium payroll
 - Royal economic policy increasingly favorable to Consortium
 - Government contracts being steered to Consortium subsidiaries
@@ -439,12 +439,12 @@ Jade approaches the party with a "business opportunity" - help her acquire a spe
 - **Complications**: The target organization helps people Jade's methods would harm
 
 ### 2. The Dragon's Inheritance (Level 12-16)
-Jade seeks the party's help locating her missing grandfather [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Argyros the Silver]], believing his return will secure her position in the Consortium hierarchy.
+Jade seeks the party's help locating her missing grandfather [[02_Worldbuilding/Lore/Argyros the Silver]], believing his return will secure her position in the Consortium hierarchy.
 - **Rewards**: 25,000gp, Draconic magic items, Partnership in recovered dragon hoard
 - **Complications**: Argyros may have been imprisoned for good reason
 
 ### 3. The Corporate War (Level 8-15)
-Full conflict erupts between Jade's Consortium and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Free Traders Alliance]]. The party can choose sides or try to broker peace.
+Full conflict erupts between Jade's Consortium and [[02_Worldbuilding/Lore/The Free Traders Alliance]]. The party can choose sides or try to broker peace.
 - **Rewards**: Varies by faction chosen and success level
 - **Complications**: Victory for either side may destabilize the kingdom's economy
 
@@ -462,15 +462,15 @@ Internal Consortium politics threaten civil war as board members position themse
 
 ## Connected Campaign Elements
 
-### Links to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] Economics
+### Links to [[02_Worldbuilding/Places/Aethermoor]] Economics
 - Central figure in kingdom's shift toward corporate oligarchy
 - Her success or failure affects economic stability
 - Relationship with crown creates potential constitutional crisis
 - Business practices influence other merchants and guilds
 
-### Integration with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Technology]] Storylines
+### Integration with [[02_Worldbuilding/Lore/Crystal Technology]] Storylines
 - Consortium heavily invested in crystal-based business infrastructure
-- Potential conflict with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] over crystal commerce
+- Potential conflict with [[02_Worldbuilding/Groups/Purist Coalition]] over crystal commerce
 - Corporate applications of crystal technology for surveillance and control
 - Economic impact of any crystal-related disasters or bans
 
@@ -501,9 +501,9 @@ Internal Consortium politics threaten civil war as board members position themse
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Thrace Ironwood]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Nameless Auditor]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[02_Worldbuilding/People/The Nameless Auditor]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
@@ -516,9 +516,9 @@ Legends speak of Lady Jade Clawgrip as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lady Jade Clawgrip]]
+- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Groups/Purist Coalition]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/Places/Aethermoor]]

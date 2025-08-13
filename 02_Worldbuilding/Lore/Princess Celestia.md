@@ -1,27 +1,24 @@
 ---
+type: Lore
+status: complete
+updated: '2025-08-13T01:18:35.146003+00:00'
+created: '2025-08-11'
+tags:
+- aethermoor
+- category/lore
+- complete
+- lore
+world: Aethermoor
+obsidianUIMode: preview
 accessibility:
+  screen_reader_summary: This lore entry explains a pivotal principle or event and
+    its consequences for play.
   content_warnings: []
   pronunciation: Princess Celestia
   safety_tools:
   - Lines & Veils
   - X-Card
-  screen_reader_summary: This lore entry explains a pivotal principle or event and
-    its consequences for play.
-created: '2025-08-11'
-obsidianUIMode: preview
-status: complete
-tags:
-- aethermoor
-- complete
-- content/lore
-- lore
-- status/complete
-- world/aethermoor
-type: Lore
-updated: '2025-08-13T12:34:29.391980+00:00'
-world: Aethermoor
 ---
-
 
 
 
@@ -46,13 +43,13 @@ Princess Celestia describes a turning current in history where choices about mem
 
 ## Threads and Revelations
 - Records implicate agents tied to [[02_Worldbuilding/Lore/The Lighthouse of Storms]].
-- A rite echoes the activation cadence needed for [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]].
-- Testimony suggests [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Elena Starweaver]] financed a pivotal bribe.
+- A rite echoes the activation cadence needed for [[02_Worldbuilding/Quests/The Whispering Expanse.md|The Whispering Expanse]].
+- Testimony suggests [[02_Worldbuilding/Quests/Elena Starweaver]] financed a pivotal bribe.
 
 ## Cross-References
 - [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Elena Starweaver]]
+- [[02_Worldbuilding/Quests/The Whispering Expanse.md|The Whispering Expanse]]
+- [[02_Worldbuilding/Quests/Elena Starweaver]]
 
 ## Player-Facing Summary
 
@@ -77,5 +74,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[Comprehensive-World-Connection-Guide]]
 - [[02_Worldbuilding/Lore/Reputation System]]

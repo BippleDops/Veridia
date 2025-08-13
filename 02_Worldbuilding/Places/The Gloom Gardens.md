@@ -124,7 +124,7 @@ As word spread about the area's unique beauty and therapeutic atmosphere, artist
 ## Connections
 
 The Gloom Gardens connect to the rest of Aquabyssos through discrete transport tubes that maintain the twilight atmosphere. The district also has cultural connections to similar contemplative communities in other underwater realms and maintains research relationships with surface-world botanical institutions studying bioluminescence.
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]]
+- [[02_Worldbuilding/Places/Lumengarde]]
 
 
 ## Layout
@@ -164,6 +164,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gloom Gardens]]
+- [[02_Worldbuilding/Places/The Gloom Gardens]]
 
 <!-- enriched: true -->

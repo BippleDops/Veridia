@@ -115,8 +115,8 @@ This quest explores environmental themes and offers multiple problem-solving app
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]]
+- [[02_Worldbuilding/People/Archdruid Thornweaver]]
+- [[02_Worldbuilding/Places/The Verdant Reach]]
 
 
 ## Overview
@@ -170,6 +170,6 @@ Legends speak of Quest   The Dying Forest as a nexus where past and present conv
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Dying Forest]]
+- [[02_Worldbuilding/People/Quest - The Dying Forest]]
 
 <!-- enriched: true -->

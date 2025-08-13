@@ -173,16 +173,16 @@ The Great Drowning serves as foundational lore explaining why Aquabyssos exists 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[02_Worldbuilding/Quests/The Maw of Darkness]]
 
 
 ## Connections
 
 - [[The Catastrophe: Hour by Hour]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pre-Drowning Civilization Archives]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Post-Merge Chronology]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Conspiracy Timeline]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reality Anchor Network]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Living Weapon]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[02_Worldbuilding/Lore/Pre-Drowning Civilization Archives]]
+- [[02_Worldbuilding/Lore/Post-Merge Chronology]]
+- [[02_Worldbuilding/Lore/Shadow Conspiracy Timeline]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Places/Reality Anchor Network]]
+- [[02_Worldbuilding/Places/The Living Weapon]]
+- [[02_Worldbuilding/Quests/The Maw of Darkness]]

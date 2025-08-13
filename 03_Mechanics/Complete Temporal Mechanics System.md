@@ -32,7 +32,7 @@ Builds time travel rules, paradox resolution, temporal combat, chrono-corruption
 ## Time Travel Procedures
 1) Define Intent (when/where; personal scope or world scope)
 2) Pay Cost (memories, sanity loss, anchor fuel)
-3) Roll Timeline Check: 1d100 vs. Integrity with modifiers from [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]]
+3) Roll Timeline Check: 1d100 vs. Integrity with modifiers from [[03_Mechanics/Complete Reality Merger System]]
 4) Resolve Paradox Risk; apply loop or branch per Resolution Rules
 
 ## Paradox Resolution
@@ -63,7 +63,7 @@ Builds time travel rules, paradox resolution, temporal combat, chrono-corruption
 - Fast/Slow/Stopped bands; pressure/altitude modifiers interact with time flow
 - Long exposure: Aging/regression risks; sanity checks
 
-Integration: [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]].
+Integration: [[03_Mechanics/Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Memory Trading Economy System|Memory Economy]], [[02_Worldbuilding/Lore/Deep Mother]].
 
 ## Player-Facing Summary
 

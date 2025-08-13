@@ -1,7 +1,7 @@
 ---
 connections:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Lore]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Cult Practices]]'
+- '[[02_Worldbuilding/Lore/Deep Mother Lore]]'
+- '[[02_Worldbuilding/Lore/Deep Mother Cult Practices]]'
 - '[[Sanity_Horror_Framework|Sanity Horror Framework]]'
 created: '2025-08-11'
 level-range: 7-9
@@ -59,7 +59,7 @@ This module emphasizes **investigation over combat**, **atmosphere over action**
 ## Campaign Integration
 
 ### Aquabyssos Setting Integration
-This adventure works best when placed in the broader context of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] setting, where reality is already under strain from dimensional convergence and the influence of cosmic entities like the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]. The void breach represents a different but related threat—not oceanic corruption but the hunger of the space between spaces.
+This adventure works best when placed in the broader context of the [[02_Worldbuilding/Places/Aquabyssos]] setting, where reality is already under strain from dimensional convergence and the influence of cosmic entities like the [[02_Worldbuilding/Lore/Deep Mother]]. The void breach represents a different but related threat—not oceanic corruption but the hunger of the space between spaces.
 
 **Recommended Placement:**
 - After characters have experienced at least one major Deep Mother encounter
@@ -68,7 +68,7 @@ This adventure works best when placed in the broader context of the [[vault_back
 - When party sanity levels are relatively stable (this will change quickly)
 
 ### Connection Points
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Cult Practices]]**: Some cultists may recognize void corruption as antithetical to their beliefs
+- **[[02_Worldbuilding/Lore/Deep Mother Cult Practices]]**: Some cultists may recognize void corruption as antithetical to their beliefs
 - **Reality Merger Mechanics**: The void breach creates its own reality distortion effects
 - **Pressure Adaptation**: Deep-sea experience may help resist some void effects
 - **Memory Trading Economy**: Void corruption affects memory and identity in unique ways

@@ -28,7 +28,7 @@ world: Both
 # Smuggler's Cove
 
 ## Overview
-Smuggler's Cove exists at the unique intersection between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], a half-submerged trading post built into a natural grotto where surface meets depth. Neither realm claims jurisdiction over this lawless haven, making it the perfect place for illegal trade, political refugees, and those who don't fit into either world. The Cove operates on a simple principle: gold talks, questions don't get asked, and everyone minds their own business.
+Smuggler's Cove exists at the unique intersection between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], a half-submerged trading post built into a natural grotto where surface meets depth. Neither realm claims jurisdiction over this lawless haven, making it the perfect place for illegal trade, political refugees, and those who don't fit into either world. The Cove operates on a simple principle: gold talks, questions don't get asked, and everyone minds their own business.
 
 ## Physical Description
 
@@ -62,16 +62,16 @@ Underwater sections accessible only to water-breathers or those with magical ass
 ## Key Locations Within the Cove
 
 ### The Tide Clock Tower
-A massive clockwork mechanism that controls the artificial tide and serves as the Cove's most recognizable landmark. The tower extends both above and below the waterline, with different facilities accessible during high and low tides. It's managed by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chronos Tidekeep]], a mysterious figure who might be human, might be aquatic, or might be something else entirely.
+A massive clockwork mechanism that controls the artificial tide and serves as the Cove's most recognizable landmark. The tower extends both above and below the waterline, with different facilities accessible during high and low tides. It's managed by [[02_Worldbuilding/Places/Chronos Tidekeep]], a mysterious figure who might be human, might be aquatic, or might be something else entirely.
 
 ### The Neutral Scales
-The Cove's banking and currency exchange facility, run by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Midas Goldcurrent]], who is simultaneously the most trusted and most feared individual in the Cove. They handle currency conversion between surface gold and depth pearls, maintain secure vaults for valuables, and provide discrete financial services for those who need to hide their wealth.
+The Cove's banking and currency exchange facility, run by [[02_Worldbuilding/Places/Midas Goldcurrent]], who is simultaneously the most trusted and most feared individual in the Cove. They handle currency conversion between surface gold and depth pearls, maintain secure vaults for valuables, and provide discrete financial services for those who need to hide their wealth.
 
 ### The Crosscurrent Tavern
-A unique establishment that transforms completely between high and low tides. During air periods, it's a traditional tavern with hearth, ale, and surface food. During water periods, it becomes an underwater cantina with kelp wine and deep-sea delicacies. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Bartender Marina Dualborn]] somehow manages both incarnations perfectly.
+A unique establishment that transforms completely between high and low tides. During air periods, it's a traditional tavern with hearth, ale, and surface food. During water periods, it becomes an underwater cantina with kelp wine and deep-sea delicacies. [[02_Worldbuilding/Places/Bartender Marina Dualborn]] somehow manages both incarnations perfectly.
 
 ### The Rumor Mill
-Information broker headquarters run by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Intelligence Dealer Echo Whisperwave]]. They maintain networks of contacts in both realms and can provide intelligence, arrange meetings, or spread specific information for the right price. Their facility includes a complex system of message tubes that work in both air and water.
+Information broker headquarters run by [[02_Worldbuilding/Places/Intelligence Dealer Echo Whisperwave]]. They maintain networks of contacts in both realms and can provide intelligence, arrange meetings, or spread specific information for the right price. Their facility includes a complex system of message tubes that work in both air and water.
 
 ### The Modification Markets
 Several competing businesses offer transformation and enhancement services:
@@ -101,13 +101,13 @@ At any given time, 200-400 additional people pass through the Cove:
 
 ### Notable Residents
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Finn Crosscurrent]]**: De facto leader of the Cove, a former pirate who established the current neutral governance system. They're one of the few people trusted by both surface and depth authorities.
+**[[02_Worldbuilding/People/Captain Finn Crosscurrent]]**: De facto leader of the Cove, a former pirate who established the current neutral governance system. They're one of the few people trusted by both surface and depth authorities.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Archivist Reef Bookkeeper]]**: Maintains the Cove's library and historical records, including detailed knowledge of trade routes, political situations, and legal loopholes in both realms.
+**[[02_Worldbuilding/Places/Archivist Reef Bookkeeper]]**: Maintains the Cove's library and historical records, including detailed knowledge of trade routes, political situations, and legal loopholes in both realms.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Security Chief Wade Peacekeep]]**: Enforces the Cove's simple but strict laws with a team of mercenaries recruited from both realms. They ensure violence stays minimal and business keeps flowing.
+**[[02_Worldbuilding/Places/Security Chief Wade Peacekeep]]**: Enforces the Cove's simple but strict laws with a team of mercenaries recruited from both realms. They ensure violence stays minimal and business keeps flowing.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Twin Prophets]]**: Mysterious fortune tellers who predict weather, political changes, and market fluctuations with uncanny accuracy. No one knows if they're really twins, really prophets, or even really human.
+**[[02_Worldbuilding/Places/The Twin Prophets]]**: Mysterious fortune tellers who predict weather, political changes, and market fluctuations with uncanny accuracy. No one knows if they're really twins, really prophets, or even really human.
 
 ## The Cove's Laws and Governance
 
@@ -153,7 +153,7 @@ The Peace Keepers are a professional security force that focuses on maintaining 
 ## Threats and Dangers
 
 ### Political Pressure
-Both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] would prefer to control or shut down the Cove, but they're prevented by:
+Both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] would prefer to control or shut down the Cove, but they're prevented by:
 - The Cove's usefulness for their own covert operations
 - Treaties that guarantee the area's neutral status  
 - The economic disruption that closing it would cause
@@ -208,16 +208,16 @@ The Cove's neutral status is fragile and constantly threatened by:
 
 ## Connected Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+### [[02_Worldbuilding/Places/Port Meridian]]
 The closest major surface port to the Cove, with regular (though officially unacknowledged) trade connections. Many surface goods destined for the Cove are initially processed through Meridian.
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
+### [[02_Worldbuilding/Places/New Tethys]]
 Aquabyssos city that maintains "cultural exchange" programs with the Cove. Many depth dwellers use the Cove as their first exposure to surface culture.
 
 ### [[02_Worldbuilding/Places/The Crystal Throne|02 Worldbuilding/Places/The Crystal Throne]]
 Aethermoor's government officially condemns the Cove while secretly using it for intelligence gathering and covert operations.
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
+### [[02_Worldbuilding/Places/The Bathyal Palace]]
 Aquabyssos leadership similarly maintains public disapproval while conducting private business through Cove intermediaries.
 
 ## Quest Hooks and Adventures
@@ -258,9 +258,9 @@ A powerful faction wants to end the Cove's neutral status and claim it for one r
 
 ## Secrets
 > [!warning] DM Only
-> - The artificial tide system is powered by a fragment of one of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]], making the Cove much more important than anyone realizes
-> - [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Finn Crosscurrent]] is actually a spy working for both realms simultaneously, playing them against each other to maintain the Cove's independence
-> - The Neutral Council elections are rigged by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Midas Goldcurrent]], who profits from keeping specific people in power
+> - The artificial tide system is powered by a fragment of one of [[02_Worldbuilding/Lore/The Seven Shards]], making the Cove much more important than anyone realizes
+> - [[02_Worldbuilding/People/Captain Finn Crosscurrent]] is actually a spy working for both realms simultaneously, playing them against each other to maintain the Cove's independence
+> - The Neutral Council elections are rigged by [[02_Worldbuilding/Places/Midas Goldcurrent]], who profits from keeping specific people in power
 > - There's a secret fourth level to the Cove, deep underwater, where the most dangerous and illegal activities take place
 > - The Cove is slowly sinking due to magical instabilities, and only a few people know they have maybe five years before it becomes uninhabitable
 
@@ -276,9 +276,9 @@ Smuggler's Cove works best as:
 ## Connections
 
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Smuggler]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/Quests/Smuggler]]
+- [[02_Worldbuilding/Quests/Traveling Merchant Finn]]
 
 ## Player-Facing Summary
 
@@ -300,7 +300,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Smuggler's Cove]]
+- [[02_Worldbuilding/Places/Smuggler's Cove]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]

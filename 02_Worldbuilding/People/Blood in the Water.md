@@ -134,6 +134,6 @@ Legends speak of Blood in the Water as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Blood in the Water]]
+- [[02_Worldbuilding/People/Blood in the Water]]
 
 <!-- enriched: true -->

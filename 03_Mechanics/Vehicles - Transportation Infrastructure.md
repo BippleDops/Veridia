@@ -22,7 +22,7 @@ world: Both
 
 # Transportation Infrastructure
 
-Macro-systems that make journeys strategic. Connects to economies, factions, and reality stability. Cross-links with [[Memory Trading Economy System|Memory Trading Economy]] and [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]].
+Macro-systems that make journeys strategic. Connects to economies, factions, and reality stability. Cross-links with [[Memory Trading Economy System|Memory Trading Economy]] and [[03_Mechanics/Complete Reality Merger System]].
 
 ## Aquabyssos Networks
 - Pressure Tube Highways: City-to-city sealed tubes with adaptation checkpoints

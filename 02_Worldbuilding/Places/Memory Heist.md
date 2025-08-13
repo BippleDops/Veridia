@@ -46,11 +46,11 @@ world: Both Worlds
 *The Art of Stealing Thoughts*
 
 > *"Gold can be replaced, artifacts can be reproduced, but a stolen memory leaves a hole in the soul that can never truly be filled. We are what we remember—take that away, and what remains?"*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Mind Guardian Vera]], specialist in memory protection
+> — [[02_Worldbuilding/Lore/Mind Guardian Vera]], specialist in memory protection
 
 ## Overview
 
-Memory Heist refers to the sophisticated criminal technique of magically extracting, copying, or stealing specific memories from targeted individuals, representing one of the most invasive and devastating forms of magical crime affecting both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]. Unlike simple mind reading, memory theft involves permanently removing or duplicating mental content, leaving victims with gaps in their knowledge and experience that can fundamentally alter their identity and capabilities.
+Memory Heist refers to the sophisticated criminal technique of magically extracting, copying, or stealing specific memories from targeted individuals, representing one of the most invasive and devastating forms of magical crime affecting both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. Unlike simple mind reading, memory theft involves permanently removing or duplicating mental content, leaving victims with gaps in their knowledge and experience that can fundamentally alter their identity and capabilities.
 
 This practice has evolved from crude magical experimentation into refined criminal art, with specialized practitioners developing techniques for precise memory extraction while leaving minimal evidence of their activities. The psychological and social impact of memory theft has made it one of the most serious crimes in both realms, while its investigative complexity makes it extremely difficult to detect and prosecute.
 
@@ -372,7 +372,7 @@ Memory Heist represents a sophisticated form of magical crime that challenges tr
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Places/The Primordial Vaults]]
 
 ## Player-Facing Summary
 
@@ -394,7 +394,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Heist]]
+- [[02_Worldbuilding/Places/Memory Heist]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor]]

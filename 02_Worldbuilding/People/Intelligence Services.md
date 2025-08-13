@@ -23,13 +23,13 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Intelligence Services]]
+- [[02_Worldbuilding/Lore/Intelligence Services]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum Ambassadors]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]
+- [[02_Worldbuilding/People/Tenebrarum Ambassadors]]
 
 ## Player-Facing Summary
 

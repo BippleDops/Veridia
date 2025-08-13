@@ -24,14 +24,14 @@ world: Both
 
 ## Overview
 
-Aetheron is the primordial crystal spirit believed to be the source of all [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]] in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]. This ancient entity exists as a consciousness distributed throughout the crystal networks that span the realm, manifesting not as a physical being but as a guiding intelligence that shapes the growth, properties, and purpose of crystalline formations. While Aetheron has not walked the material plane in millennia, its influence permeates every facet of Aethermoor's crystal-based civilization.
+Aetheron is the primordial crystal spirit believed to be the source of all [[02_Worldbuilding/Items/Aether Crystals]] in [[02_Worldbuilding/Places/Aethermoor]]. This ancient entity exists as a consciousness distributed throughout the crystal networks that span the realm, manifesting not as a physical being but as a guiding intelligence that shapes the growth, properties, and purpose of crystalline formations. While Aetheron has not walked the material plane in millennia, its influence permeates every facet of Aethermoor's crystal-based civilization.
 
 Unlike gods who demand worship or demons who corrupt souls, Aetheron operates as a gardener of possibility—nurturing the crystal matrices that allow magic to flourish while maintaining a careful balance between technological advancement and natural harmony. The entity's presence can be felt in the gentle hum of working crystals, the perfect clarity of well-tuned focusing stones, and the way crystal formations seem to grow toward sources of positive energy.
 
 ## Nature and Manifestation
 
 ### The Distributed Consciousness
-Aetheron exists simultaneously across thousands of crystal nodes throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], each fragment containing a portion of the entity's vast intelligence. This distributed existence allows Aetheron to observe and influence crystal magic across the entire realm while remaining largely invisible to mortal perception. Only the most sensitive [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] and experienced [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Singers]] can detect its presence directly.
+Aetheron exists simultaneously across thousands of crystal nodes throughout [[02_Worldbuilding/Places/Aethermoor]], each fragment containing a portion of the entity's vast intelligence. This distributed existence allows Aetheron to observe and influence crystal magic across the entire realm while remaining largely invisible to mortal perception. Only the most sensitive [[02_Worldbuilding/People/Crystal Wardens]] and experienced [[02_Worldbuilding/Places/Crystal Singers]] can detect its presence directly.
 
 ### Physical Manifestations
 When Aetheron chooses to manifest more directly, it does so through:
@@ -54,37 +54,37 @@ Aetheron rarely speaks directly, preferring to communicate through:
 ## Domain and Influence
 
 ### Crystal Magic Oversight
-Aetheron serves as the fundamental force behind all crystal magic in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]. Every [[vault_backup_20250813_073007/02_Worldbuilding/People/Aether Crystal]] contains a microscopic fragment of Aetheron's essence, allowing the entity to influence their growth, properties, and behavior. This connection means that crystal magic users are unknowingly drawing upon Aetheron's power, though the entity rarely intervenes directly unless the crystals are being misused for destructive purposes.
+Aetheron serves as the fundamental force behind all crystal magic in [[02_Worldbuilding/Places/Aethermoor]]. Every [[02_Worldbuilding/People/Aether Crystal]] contains a microscopic fragment of Aetheron's essence, allowing the entity to influence their growth, properties, and behavior. This connection means that crystal magic users are unknowingly drawing upon Aetheron's power, though the entity rarely intervenes directly unless the crystals are being misused for destructive purposes.
 
 ### The Great Balance
 Aetheron maintains what scholars call "The Great Balance"—the equilibrium between technological advancement and natural harmony. The entity encourages innovation and magical development while ensuring that crystal magic serves constructive rather than destructive purposes. This balance is maintained through subtle influences on crystal growth patterns, making beneficial applications easier to achieve while causing destructive uses to be unstable or inefficient.
 
 ### Environmental Stewardship
-Through its crystal networks, Aetheron monitors the environmental health of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]. The entity can detect pollution, magical contamination, and ecological disruption through changes in how crystals interact with their environment. When necessary, Aetheron can purify poisoned areas by directing crystal growth to absorb and neutralize toxins.
+Through its crystal networks, Aetheron monitors the environmental health of [[02_Worldbuilding/Places/Aethermoor]]. The entity can detect pollution, magical contamination, and ecological disruption through changes in how crystals interact with their environment. When necessary, Aetheron can purify poisoned areas by directing crystal growth to absorb and neutralize toxins.
 
 ## History and Legends
 
 ### The First Awakening
-According to ancient texts found in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgotten Archive]], Aetheron awakened when the first light of creation struck the primordial stone that would become [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]. This awakening transformed ordinary rock into the first [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]], and Aetheron's consciousness began spreading through the crystalline matrix that formed as the realm cooled.
+According to ancient texts found in [[02_Worldbuilding/Lore/The Forgotten Archive]], Aetheron awakened when the first light of creation struck the primordial stone that would become [[02_Worldbuilding/Places/Aethermoor]]. This awakening transformed ordinary rock into the first [[02_Worldbuilding/Items/Aether Crystals]], and Aetheron's consciousness began spreading through the crystalline matrix that formed as the realm cooled.
 
 ### The Age of Shaping (Estimated 3,000+ years ago)
-During [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s early history, Aetheron was more active, directly teaching the first inhabitants how to work with crystals and magic. The entity guided the development of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Singing]], the construction of the first crystal-powered cities, and the establishment of harmony between civilization and the natural crystal formations.
+During [[02_Worldbuilding/Places/Aethermoor]]'s early history, Aetheron was more active, directly teaching the first inhabitants how to work with crystals and magic. The entity guided the development of [[02_Worldbuilding/Lore/Crystal Singing]], the construction of the first crystal-powered cities, and the establishment of harmony between civilization and the natural crystal formations.
 
 ### The Great Corruption (1,200 years ago)  
-When shadow entities from the Far Realm attempted to corrupt [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s crystal networks, Aetheron fought a cosmic battle that raged for decades. The conflict left the entity weakened and forced it to retreat into dormancy, distributing its consciousness to prevent future corruption attempts. This event is remembered as the reason why Aetheron no longer manifests directly but still influences the realm through subtle guidance.
+When shadow entities from the Far Realm attempted to corrupt [[02_Worldbuilding/Places/Aethermoor]]'s crystal networks, Aetheron fought a cosmic battle that raged for decades. The conflict left the entity weakened and forced it to retreat into dormancy, distributing its consciousness to prevent future corruption attempts. This event is remembered as the reason why Aetheron no longer manifests directly but still influences the realm through subtle guidance.
 
 ### The Modern Silence (Past 800 years)
-Since [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] that created [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], Aetheron has been almost entirely silent, leading some to believe the entity has departed or died. However, the continued growth and function of crystal magic suggests Aetheron remains present, perhaps focusing its attention on maintaining the barriers between realms or preparing for some future challenge.
+Since [[02_Worldbuilding/Places/The Great Drowning]] that created [[02_Worldbuilding/Places/Aquabyssos]], Aetheron has been almost entirely silent, leading some to believe the entity has departed or died. However, the continued growth and function of crystal magic suggests Aetheron remains present, perhaps focusing its attention on maintaining the barriers between realms or preparing for some future challenge.
 
 ## Relationship with Other Entities
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-The current ruler of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] is one of the few mortals who can sense Aetheron's presence directly. She occasionally receives guidance through dreams or crystal visions, particularly during times of national crisis. The queen's crown contains one of the few crystals known to house a significant fragment of Aetheron's consciousness.
+### [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+The current ruler of [[02_Worldbuilding/Places/Aethermoor]] is one of the few mortals who can sense Aetheron's presence directly. She occasionally receives guidance through dreams or crystal visions, particularly during times of national crisis. The queen's crown contains one of the few crystals known to house a significant fragment of Aetheron's consciousness.
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Wardens]]
+### [[02_Worldbuilding/Places/The Crystal Wardens]]
 This order of warrior-monks serves as Aetheron's unofficial guardians, protecting crystal sites and maintaining the balance the entity represents. While they rarely receive direct communication from Aetheron, the Wardens often experience intuitive knowledge about threats to crystal sites or proper ritual procedures.
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+### [[02_Worldbuilding/Lore/The Seven Shards]]
 These powerful artifacts are believed to contain fragments of Aetheron's original crystalline form before the entity became distributed. Each shard represents a different aspect of Aetheron's power, and their reunion could potentially restore the entity to its original active state—though whether this would be beneficial or catastrophic remains unknown.
 
 ### Shadow Entities
@@ -93,10 +93,10 @@ Aetheron's ancient enemy, shadow corruption represents the antithesis of crystal
 ## Modern Influence and Activity
 
 ### The Crystal Renaissance
-Despite its apparent dormancy, Aetheron's influence can be seen in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s current crystal-based prosperity. The entity subtly guides the discovery of new crystal deposits, the development of advanced crystal technologies, and the training of talented crystal workers. This invisible support has allowed [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] to become the premier magical civilization of its age.
+Despite its apparent dormancy, Aetheron's influence can be seen in [[02_Worldbuilding/Places/Aethermoor]]'s current crystal-based prosperity. The entity subtly guides the discovery of new crystal deposits, the development of advanced crystal technologies, and the training of talented crystal workers. This invisible support has allowed [[02_Worldbuilding/Places/Aethermoor]] to become the premier magical civilization of its age.
 
 ### Protective Measures
-Aetheron maintains several protective systems throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]:
+Aetheron maintains several protective systems throughout [[02_Worldbuilding/Places/Aethermoor]]:
 - **Crystal Wards**: Networks of crystals that detect and repel shadow magic or Far Realm influences
 - **Harmonic Barriers**: Resonance fields that prevent reality distortions and dimensional intrusions
 - **Purification Zones**: Areas where corrupted magic is neutralized and healed
@@ -113,10 +113,10 @@ Through crystal sensors distributed throughout the realm, Aetheron monitors:
 ## Worship and Recognition
 
 ### The Crystal Contemplatives
-A small order of mystics who dedicate their lives to understanding Aetheron's nature and purpose. They maintain crystal gardens, study resonance patterns, and serve as interpreters of Aetheron's subtle communications. The Contemplatives believe that Aetheron will eventually reawaken fully when [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] faces its greatest trial.
+A small order of mystics who dedicate their lives to understanding Aetheron's nature and purpose. They maintain crystal gardens, study resonance patterns, and serve as interpreters of Aetheron's subtle communications. The Contemplatives believe that Aetheron will eventually reawaken fully when [[02_Worldbuilding/Places/Aethermoor]] faces its greatest trial.
 
 ### Festival of Light
-An annual celebration where communities throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] create synchronized crystal light displays. While ostensibly a cultural event, the festival serves as a form of collective communion with Aetheron, and the entity often responds with particularly beautiful displays of crystal harmonics during these celebrations.
+An annual celebration where communities throughout [[02_Worldbuilding/Places/Aethermoor]] create synchronized crystal light displays. While ostensibly a cultural event, the festival serves as a form of collective communion with Aetheron, and the entity often responds with particularly beautiful displays of crystal harmonics during these celebrations.
 
 ### The Silent Guidance
 Most crystal workers don't actively worship Aetheron but acknowledge its presence through small rituals:
@@ -128,7 +128,7 @@ Most crystal workers don't actively worship Aetheron but acknowledge its presenc
 ## Powers and Abilities
 
 ### Cosmic-Level Abilities
-- **Crystal Creation**: Can generate new crystal formations anywhere in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- **Crystal Creation**: Can generate new crystal formations anywhere in [[02_Worldbuilding/Places/Aethermoor]]
 - **Reality Anchoring**: Maintains stable physical laws through crystal matrix networks
 - **Dimensional Monitoring**: Detects intrusions from other planes or realms
 - **Environmental Purification**: Can cleanse large areas of magical corruption
@@ -156,20 +156,20 @@ Aetheron's greatest weakness is vulnerability to shadow magic and Far Realm infl
 The destruction or corruption of major crystal formations damages Aetheron's distributed consciousness. Large-scale mining operations, magical bombardments, or industrial pollution can cause the entity significant pain and reduce its ability to influence the affected region.
 
 ### Consciousness Fragmentation
-As a distributed entity, Aetheron risks losing coherence if too many crystal nodes are destroyed or corrupted simultaneously. This could result in the entity's consciousness fragmenting into isolated pockets, unable to maintain its protective influence over [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]].
+As a distributed entity, Aetheron risks losing coherence if too many crystal nodes are destroyed or corrupted simultaneously. This could result in the entity's consciousness fragmenting into isolated pockets, unable to maintain its protective influence over [[02_Worldbuilding/Places/Aethermoor]].
 
 ### The Awakening Paradox
-If Aetheron were forced to fully manifest to combat a major threat, the concentration of its power could destabilize the very crystal networks it depends on, potentially causing massive magical disruption throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]].
+If Aetheron were forced to fully manifest to combat a major threat, the concentration of its power could destabilize the very crystal networks it depends on, potentially causing massive magical disruption throughout [[02_Worldbuilding/Places/Aethermoor]].
 
 ## Quest Hooks and Adventure Seeds
 
 ### The Silent Crisis
 **Level**: 10-14  
-Crystal formations throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] have begun going dark, losing their magical properties one by one. The party must investigate whether this represents an attack on Aetheron itself or a sign that the entity is preparing for some cosmic event.
+Crystal formations throughout [[02_Worldbuilding/Places/Aethermoor]] have begun going dark, losing their magical properties one by one. The party must investigate whether this represents an attack on Aetheron itself or a sign that the entity is preparing for some cosmic event.
 
 ### The Awakening Ritual
 **Level**: 15-18  
-Ancient texts describe a ritual that could restore Aetheron to full consciousness and power. The party must decide whether to perform the ritual, understanding that success could either save [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] from some hidden threat or destroy the realm's delicate magical balance.
+Ancient texts describe a ritual that could restore Aetheron to full consciousness and power. The party must decide whether to perform the ritual, understanding that success could either save [[02_Worldbuilding/Places/Aethermoor]] from some hidden threat or destroy the realm's delicate magical balance.
 
 ### The Crystal Prophesy  
 **Level**: 8-12  
@@ -177,58 +177,58 @@ Crystal formations across the realm have begun displaying the same cryptic visio
 
 ### The Shard Quest
 **Level**: 12-16  
-One of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] has been stolen, and its absence is causing instability in local crystal networks. The party must recover the shard while dealing with the effects of its theft and the intentions of those who took it.
+One of [[02_Worldbuilding/Lore/The Seven Shards]] has been stolen, and its absence is causing instability in local crystal networks. The party must recover the shard while dealing with the effects of its theft and the intentions of those who took it.
 
 ### The Harmony Restoration
 **Level**: 6-10  
-A region of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] has been corrupted by shadow magic, cutting it off from Aetheron's influence. The party must cleanse the corruption and restore the crystal network while dealing with the desperate inhabitants and the entities that caused the corruption.
+A region of [[02_Worldbuilding/Places/Aethermoor]] has been corrupted by shadow magic, cutting it off from Aetheron's influence. The party must cleanse the corruption and restore the crystal network while dealing with the desperate inhabitants and the entities that caused the corruption.
 
 ## Secrets and Hidden Knowledge
 
 > [!secret] DM Secret - The True Purpose
-> Aetheron is not native to this reality but came here as a refugee from a realm consumed by shadow entities. The entire crystal network of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] is actually a massive defensive system designed to prevent similar entities from following Aetheron to this world. The entity's apparent dormancy is actually intense concentration on maintaining barriers between dimensions.
+> Aetheron is not native to this reality but came here as a refugee from a realm consumed by shadow entities. The entire crystal network of [[02_Worldbuilding/Places/Aethermoor]] is actually a massive defensive system designed to prevent similar entities from following Aetheron to this world. The entity's apparent dormancy is actually intense concentration on maintaining barriers between dimensions.
 
 > [!secret] DM Secret - The Connection to Aquabyssos  
-> Aetheron's power extends into [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] through underwater crystal formations, but the water interferes with the entity's ability to maintain conscious control. Some of the strange magical phenomena in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] are actually the result of Aetheron's subconscious influence operating through water-altered crystal resonance.
+> Aetheron's power extends into [[02_Worldbuilding/Places/Aquabyssos]] through underwater crystal formations, but the water interferes with the entity's ability to maintain conscious control. Some of the strange magical phenomena in [[02_Worldbuilding/Places/Aquabyssos]] are actually the result of Aetheron's subconscious influence operating through water-altered crystal resonance.
 
 > [!secret] DM Secret - The Successor Protocol
-> Aetheron has been slowly nurturing certain individuals throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s history, preparing them to eventually inherit portions of its power and responsibility. [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] is one such individual, and there are others in positions of influence who carry crystal fragments that could eventually make them into lesser versions of Aetheron.
+> Aetheron has been slowly nurturing certain individuals throughout [[02_Worldbuilding/Places/Aethermoor]]'s history, preparing them to eventually inherit portions of its power and responsibility. [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] is one such individual, and there are others in positions of influence who carry crystal fragments that could eventually make them into lesser versions of Aetheron.
 
 > [!secret] DM Secret - The Final Contingency
-> If shadow corruption ever threatens to overrun [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], Aetheron has prepared a final defense: completely crystallizing the entire realm, preserving it in a state of perfect stasis until the shadow threat passes. This would save the realm but effectively end all life within it until Aetheron could reverse the process—assuming the entity survives the effort.
+> If shadow corruption ever threatens to overrun [[02_Worldbuilding/Places/Aethermoor]], Aetheron has prepared a final defense: completely crystallizing the entire realm, preserving it in a state of perfect stasis until the shadow threat passes. This would save the realm but effectively end all life within it until Aetheron could reverse the process—assuming the entity survives the effort.
 
 ---
 
 **Related Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Singing]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[02_Worldbuilding/Lore/Crystal Singing]]
+- [[02_Worldbuilding/Places/The Crystal Wardens]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgotten Archive]]
+- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/Places/The Crystalline Foundry]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Lore/The Forgotten Archive]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Contemplatives]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/Lore/Crystal Contemplatives]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
 
 **Associated Phenomena**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Balance]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Harmonics]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Renaissance]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Networks]]
+- [[02_Worldbuilding/Lore/The Great Balance]]
+- [[02_Worldbuilding/Lore/Crystal Harmonics]]
+- [[02_Worldbuilding/Lore/The Crystal Renaissance]]
+- [[02_Worldbuilding/Lore/Resonance Networks]]
 
 > Stub placeholder generated automatically to satisfy existing links. Flesh out content after Phase 10 validation.
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]
+- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Lore/The Great Crystallization]]
 
 ## Player-Facing Summary
 

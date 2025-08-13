@@ -38,23 +38,23 @@ world: Aethermoor
 
 ## Overview
 
-The **Withered Court** stands as one of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s most enigmatic and dangerous political entities - a necrocracy of undead aristocrats who refuse to relinquish their ancestral claims to power. Located in the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadowlands]] region, their seat of power is the magnificent yet terrifying **Ossuary Palace**, a structure built from the bones of thousands and animated by the collective will of generations of deceased nobles.
+The **Withered Court** stands as one of [[02_Worldbuilding/Places/Aethermoor]]'s most enigmatic and dangerous political entities - a necrocracy of undead aristocrats who refuse to relinquish their ancestral claims to power. Located in the [[02_Worldbuilding/Lore/Shadowlands]] region, their seat of power is the magnificent yet terrifying **Ossuary Palace**, a structure built from the bones of thousands and animated by the collective will of generations of deceased nobles.
 
-This undead aristocracy emerged during the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Great Dying]], when a cabal of nobles used forbidden [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Necromantic Rituals]] to preserve their consciousness beyond death rather than face the dissolution of their bloodlines. Now they exist as various forms of undead, from elegant [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Liches]] and regal [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vampires]] to more exotic forms like [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bone Princes]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Wraith Duchesses]].
+This undead aristocracy emerged during the [[02_Worldbuilding/Lore/Great Dying]], when a cabal of nobles used forbidden [[02_Worldbuilding/Lore/Necromantic Rituals]] to preserve their consciousness beyond death rather than face the dissolution of their bloodlines. Now they exist as various forms of undead, from elegant [[02_Worldbuilding/Lore/Liches]] and regal [[02_Worldbuilding/Lore/Vampires]] to more exotic forms like [[02_Worldbuilding/Lore/Bone Princes]] and [[02_Worldbuilding/Lore/Wraith Duchesses]].
 
 ## Political Structure & Territory
 
-The Withered Court operates as a feudal hierarchy where death is merely another form of elevation in rank. Their territory encompasses the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bleakmoore Estates]], the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crypt Gardens]], and the notorious [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Valley of Eternal Mourning]]. Living subjects serve alongside undead retainers, creating a bizarre society where the dead literally rule over the living.
+The Withered Court operates as a feudal hierarchy where death is merely another form of elevation in rank. Their territory encompasses the [[02_Worldbuilding/Lore/Bleakmoore Estates]], the [[02_Worldbuilding/Lore/Crypt Gardens]], and the notorious [[02_Worldbuilding/Lore/Valley of Eternal Mourning]]. Living subjects serve alongside undead retainers, creating a bizarre society where the dead literally rule over the living.
 
 ### The Ossuary Palace
 
-The Court's seat of power is an architectural marvel of macabre beauty. Constructed entirely from consecrated bones, the palace exists in multiple dimensions simultaneously - visitors might find themselves in grand ballrooms filled with ghostly dancers or trapped in bone-walled libraries where the books scream when opened. The throne room, known as the **Chamber of Final Judgments**, is where the Court Eternal makes decisions that affect both the living and dead across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]].
+The Court's seat of power is an architectural marvel of macabre beauty. Constructed entirely from consecrated bones, the palace exists in multiple dimensions simultaneously - visitors might find themselves in grand ballrooms filled with ghostly dancers or trapped in bone-walled libraries where the books scream when opened. The throne room, known as the **Chamber of Final Judgments**, is where the Court Eternal makes decisions that affect both the living and dead across [[02_Worldbuilding/Places/Aethermoor]].
 
 ## Atmosphere & Culture
 
 The Withered Court maintains many of the customs and ceremonies of living nobility, but twisted through the lens of undeath. They host elaborate **Death Masques** where both living and dead dance until dawn, conduct **Séance Salons** for diplomatic discourse with spirits, and practice **Blood Sports** where the entertainment often proves literally fatal for participants.
 
-The air throughout their domain carries the perpetual scent of funeral flowers and embalming spices, while [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Phantom Orchestras]] provide haunting melodies that can be heard echoing across the moors. The Court values tradition, bloodline purity, and the accumulation of both temporal power and spiritual essence.
+The air throughout their domain carries the perpetual scent of funeral flowers and embalming spices, while [[02_Worldbuilding/Lore/Phantom Orchestras]] provide haunting melodies that can be heard echoing across the moors. The Court values tradition, bloodline purity, and the accumulation of both temporal power and spiritual essence.
 
 ## Notable NPCs
 
@@ -88,7 +88,7 @@ The undisputed ruler of the Withered Court, Countess Ashborne has maintained her
 - **Languages**: Common, Ancient Common, Draconic
 - **Legendary Actions**: 3 per turn
 
-A former general who chose vampirism over death in battle, Lord Grimhold commands the Court's military forces including the elite **Crimson Legion** - vampire knights who patrol the Shadowlands. His tactical brilliance remains undiminished by undeath, and he personally leads raids against the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Living Alliance]] territories.
+A former general who chose vampirism over death in battle, Lord Grimhold commands the Court's military forces including the elite **Crimson Legion** - vampire knights who patrol the Shadowlands. His tactical brilliance remains undiminished by undeath, and he personally leads raids against the [[02_Worldbuilding/Lore/Living Alliance]] territories.
 
 ### Lady Seraphina Hollowmere, The Weeping Duchess
 *Female Elf Banshee Noble, Court Diplomat*
@@ -130,7 +130,7 @@ Once a renowned diplomat in life, Lady Hollowmere's tragic death transformed her
 
 ## Plot Hooks
 
-1. **The Inheritance War**: A living heir has appeared claiming rights to one of the Court's territories, backed by legal documents the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bone Scribes]] cannot deny. The Court must navigate ancient laws while maintaining their power structure.
+1. **The Inheritance War**: A living heir has appeared claiming rights to one of the Court's territories, backed by legal documents the [[02_Worldbuilding/Lore/Bone Scribes]] cannot deny. The Court must navigate ancient laws while maintaining their power structure.
 
 2. **The Withering Plague**: A mysterious affliction is causing undead throughout the Court to lose their intelligence and become mindless zombies. The nobles desperately seek a cure before their entire civilization crumbles.
 
@@ -144,15 +144,15 @@ Once a renowned diplomat in life, Lady Hollowmere's tragic death transformed her
 
 ## Relationships & Conflicts
 
-The Withered Court maintains tense relationships with most living nations in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], particularly the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple Coalition]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Rangers of the Living Dawn]] who view them as abominations to be destroyed. However, they have surprising diplomatic ties with the [[Shadow Merchants Guild]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Necromancer's Conclave]], and even some pragmatic members of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Arcane Assembly]].
+The Withered Court maintains tense relationships with most living nations in [[02_Worldbuilding/Places/Aethermoor]], particularly the [[02_Worldbuilding/Places/Temple Coalition]] and [[02_Worldbuilding/Lore/Rangers of the Living Dawn]] who view them as abominations to be destroyed. However, they have surprising diplomatic ties with the [[Shadow Merchants Guild]], [[02_Worldbuilding/Lore/Necromancer's Conclave]], and even some pragmatic members of the [[02_Worldbuilding/Lore/Arcane Assembly]].
 
-Their greatest enemies are the [[02_Worldbuilding/Groups/The Purification Order|02 Worldbuilding/Groups/The Purification Order]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Living Alliance]], and the mysterious [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Death Hunters Guild]] who specialize in permanently destroying powerful undead. The Court also faces internal conflicts between different factions of undead nobility, each representing different approaches to their eternal existence.
+Their greatest enemies are the [[02_Worldbuilding/Groups/The Purification Order|02 Worldbuilding/Groups/The Purification Order]], [[02_Worldbuilding/Lore/Living Alliance]], and the mysterious [[02_Worldbuilding/Groups/Guilds/Death Hunters Guild]] who specialize in permanently destroying powerful undead. The Court also faces internal conflicts between different factions of undead nobility, each representing different approaches to their eternal existence.
 
 ## Connections
 
-The Withered Court serves as a unique political entity within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], offering opportunities for complex moral dilemmas, political intrigue, and supernatural horror. Their influence extends through the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Network]], connections to various [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Undead Enclaves]], and ancient treaties with forgotten kingdoms. Characters may find themselves reluctant allies, sworn enemies, or unwilling participants in the Court's elaborate games of power that span both life and death.
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Synthesis Gardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
+The Withered Court serves as a unique political entity within [[02_Worldbuilding/Places/Aethermoor]], offering opportunities for complex moral dilemmas, political intrigue, and supernatural horror. Their influence extends through the [[02_Worldbuilding/Lore/Shadow Network]], connections to various [[02_Worldbuilding/Lore/Undead Enclaves]], and ancient treaties with forgotten kingdoms. Characters may find themselves reluctant allies, sworn enemies, or unwilling participants in the Court's elaborate games of power that span both life and death.
+- [[02_Worldbuilding/Places/The Synthesis Gardens]]
+- [[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
 
 
 ## History
@@ -204,7 +204,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Withered Court]]
+- [[02_Worldbuilding/Places/Withered Court]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor]]

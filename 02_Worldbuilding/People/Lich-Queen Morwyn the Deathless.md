@@ -64,12 +64,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lich-Queen Morwyn the Deathless]]
+- [[02_Worldbuilding/People/Lich-Queen Morwyn the Deathless]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Carrion Court]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bone Palace of Sorrows]]
+- [[02_Worldbuilding/Groups/The Carrion Court]]
+- [[02_Worldbuilding/Places/The Bone Palace of Sorrows]]

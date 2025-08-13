@@ -35,7 +35,7 @@ world: Aquabyssos
 
 ## Overview
 
-The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverse Palace]] stands as the most paradoxical structure in all of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], defying both architectural logic and the fundamental laws of physics. Built not upon the ocean floor but suspended in the crushing darkness between tectonic plates, this impossible fortress serves as the seat of power for the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]] and the primary residence of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Sovereign]].
+The [[02_Worldbuilding/Places/Inverse Palace]] stands as the most paradoxical structure in all of [[02_Worldbuilding/Places/Aquabyssos]], defying both architectural logic and the fundamental laws of physics. Built not upon the ocean floor but suspended in the crushing darkness between tectonic plates, this impossible fortress serves as the seat of power for the [[02_Worldbuilding/Lore/The Abyssal Court]] and the primary residence of [[02_Worldbuilding/Lore/The Deep Sovereign]].
 
 What makes the palace "inverse" is its fundamental rejection of directional reality - corridors flow upward into deeper waters, stairs descend toward surface pressures, and gravity itself seems negotiable within its coral-wrought halls. The structure exists in a state of perpetual architectural rebellion, where the concept of "up" and "down" become matters of political allegiance rather than physical law.
 
@@ -43,20 +43,20 @@ What makes the palace "inverse" is its fundamental rejection of directional real
 
 ### The Inverted Spires
 
-The palace's most striking features are its **seventeen towering spires** that pierce not upward but deeper into the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crushing Depths]]. Each spire serves as both a residential wing and a dimensional anchor, tethering different layers of reality to prevent the palace from drifting into the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Void Between Pressures]]. The spires are:
+The palace's most striking features are its **seventeen towering spires** that pierce not upward but deeper into the [[02_Worldbuilding/Lore/Crushing Depths]]. Each spire serves as both a residential wing and a dimensional anchor, tethering different layers of reality to prevent the palace from drifting into the [[02_Worldbuilding/Lore/Void Between Pressures]]. The spires are:
 
-- **The Coral Throne Spire**: Where [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Sovereign]] holds court
-- **The Whisper Archives**: Repository of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Forbidden Knowledge]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eldritch Secrets]]
-- **The Pressure Gardens**: Impossible spaces where [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Flora]] grows in zero-pressure environments
+- **The Coral Throne Spire**: Where [[02_Worldbuilding/Lore/The Deep Sovereign]] holds court
+- **The Whisper Archives**: Repository of [[02_Worldbuilding/Lore/Forbidden Knowledge]] and [[02_Worldbuilding/Lore/Eldritch Secrets]]
+- **The Pressure Gardens**: Impossible spaces where [[02_Worldbuilding/Lore/Abyssal Flora]] grows in zero-pressure environments
 - **The Temporal Anchor**: Prevents the palace from slipping through time
-- **The Memory Vaults**: Where the experiences of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Drowned]] are stored
-- **Fourteen Lesser Spires**: Housing for the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Nobility]] and their retinues
+- **The Memory Vaults**: Where the experiences of the [[02_Worldbuilding/Lore/Drowned]] are stored
+- **Fourteen Lesser Spires**: Housing for the [[02_Worldbuilding/Lore/Abyssal Nobility]] and their retinues
 
 ### The Gravity Wells
 
-Throughout the palace, **localized gravity wells** create pockets where the normal rules don't apply. These were created by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deepcaster]] [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Void-Touched]] mages using rituals that required the sacrifice of entire [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Leviathan]] pods. Key gravity-defying areas include:
+Throughout the palace, **localized gravity wells** create pockets where the normal rules don't apply. These were created by [[02_Worldbuilding/Lore/Deepcaster]] [[02_Worldbuilding/Lore/Void-Touched]] mages using rituals that required the sacrifice of entire [[02_Worldbuilding/Lore/Leviathan]] pods. Key gravity-defying areas include:
 
-- **The Ascending Throne Room**: Where petitioners must "fall upward" to approach [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Sovereign]]
+- **The Ascending Throne Room**: Where petitioners must "fall upward" to approach [[02_Worldbuilding/Lore/The Deep Sovereign]]
 - **The Inverted Gardens**: Coral forests that grow in all directions simultaneously
 - **The Paradox Pools**: Bodies of water that flow in impossible loops
 - **The Weightless Archives**: Where knowledge itself has mass and must be contained by gravitational fields
@@ -65,7 +65,7 @@ Throughout the palace, **localized gravity wells** create pockets where the norm
 
 ### The Deep Sovereign
 
-At the heart of the palace rules [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Sovereign]], a being whose true nature remains shrouded in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Shadows]]. Those who have survived an audience describe a figure that seems to exist in multiple dimensions simultaneously - sometimes appearing as a massive [[vault_backup_20250813_073007/02_Worldbuilding/Places/Kraken]]-like entity, other times as a humanoid figure wreathed in bioluminescent tentacles.
+At the heart of the palace rules [[02_Worldbuilding/Lore/The Deep Sovereign]], a being whose true nature remains shrouded in [[02_Worldbuilding/Lore/Pressure Shadows]]. Those who have survived an audience describe a figure that seems to exist in multiple dimensions simultaneously - sometimes appearing as a massive [[02_Worldbuilding/Places/Kraken]]-like entity, other times as a humanoid figure wreathed in bioluminescent tentacles.
 
 **The Deep Sovereign (CR 20)**
 *Gargantuan aberration, chaotic evil*
@@ -89,14 +89,14 @@ At the heart of the palace rules [[vault_backup_20250813_073007/02_Worldbuilding
 
 ### The Pressure Lords
 
-Below The Deep Sovereign are the [[vault_backup_20250813_073007/02_Worldbuilding/People/Pressure Lords]], twelve powerful entities who each control different aspects of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crushing Depths]]. They include:
+Below The Deep Sovereign are the [[02_Worldbuilding/People/Pressure Lords]], twelve powerful entities who each control different aspects of the [[02_Worldbuilding/Lore/Crushing Depths]]. They include:
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Bathysmal]]: Master of the deepest trenches
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lady Pelagic]]: Commander of the open waters
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Duke Hadal]]: Ruler of the midnight zone
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Baroness Abyssal]]: Guardian of the palace's security
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Count Benthic]]: Keeper of the sea floor territories
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Earl Demersal]]: Master of the palace's living architecture
+- [[02_Worldbuilding/People/Lord Bathysmal]]: Master of the deepest trenches
+- [[02_Worldbuilding/People/Lady Pelagic]]: Commander of the open waters
+- [[02_Worldbuilding/People/Duke Hadal]]: Ruler of the midnight zone
+- [[02_Worldbuilding/Lore/Baroness Abyssal]]: Guardian of the palace's security
+- [[02_Worldbuilding/Lore/Count Benthic]]: Keeper of the sea floor territories
+- [[02_Worldbuilding/Lore/Earl Demersal]]: Master of the palace's living architecture
 
 ## Environmental Hazards
 
@@ -125,7 +125,7 @@ The palace exists in a constant state of **pressure flux**, creating dangerous e
 - Prolonged exposure to the palace's impossible geometry
 - After 24 hours: DC 15 Wisdom save or gain one level of madness
 - Each additional day: DC increases by 2
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eldritch Knowledge]] skill checks can help navigate safely
+- [[02_Worldbuilding/Lore/Eldritch Knowledge]] skill checks can help navigate safely
 
 ## Notable Locations Within the Palace
 
@@ -140,17 +140,17 @@ The palace's main audience chamber defies comprehension. Visitors must "fall upw
 
 ### The Whisper Archives
 
-This repository contains knowledge gathered from across the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multiverse]], stored in crystallized forms that can only be accessed by those who have survived the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Initiation]]. The archives contain:
+This repository contains knowledge gathered from across the [[02_Worldbuilding/Lore/Multiverse]], stored in crystallized forms that can only be accessed by those who have survived the [[02_Worldbuilding/Lore/Deep Initiation]]. The archives contain:
 
-- Maps of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Territories]]
-- Histories of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sunken Civilizations]]
-- Prophecies regarding the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Rising Dark]]
-- Formulas for creating [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure-Wrought]] items
-- Intelligence on surface world activities gathered by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Spies]]
+- Maps of the [[02_Worldbuilding/Lore/Pressure Territories]]
+- Histories of the [[02_Worldbuilding/Lore/Sunken Civilizations]]
+- Prophecies regarding the [[02_Worldbuilding/Lore/Rising Dark]]
+- Formulas for creating [[02_Worldbuilding/Lore/Pressure-Wrought]] items
+- Intelligence on surface world activities gathered by [[02_Worldbuilding/Lore/Deep Spies]]
 
 ### The Living Corridors
 
-Many of the palace's passages are actually enormous, dormant creatures from the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Elder Deep]]. These bioarchitectural elements serve multiple functions:
+Many of the palace's passages are actually enormous, dormant creatures from the [[02_Worldbuilding/Lore/Elder Deep]]. These bioarchitectural elements serve multiple functions:
 
 - **Digestive Hallways**: Can consume intruders if activated
 - **Neural Corridors**: Allow rapid communication throughout the palace
@@ -161,27 +161,27 @@ Many of the palace's passages are actually enormous, dormant creatures from the 
 
 ### The Ascension Plot
 
-A growing faction within the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]] believes the time has come to abandon the depths and conquer the surface oceans. Led by [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Bathysmal]], this group seeks to use the palace's reality-warping capabilities to:
+A growing faction within the [[02_Worldbuilding/Lore/The Abyssal Court]] believes the time has come to abandon the depths and conquer the surface oceans. Led by [[02_Worldbuilding/People/Lord Bathysmal]], this group seeks to use the palace's reality-warping capabilities to:
 
-- Create permanent [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Portals]] to surface waters
-- Establish [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Inverse Colonies]] on the ocean floor
-- Convert surface-dwelling sea creatures to serve the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Sovereign]]
-- Ultimately transform all oceans into extensions of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- Create permanent [[02_Worldbuilding/Places/Pressure Portals]] to surface waters
+- Establish [[02_Worldbuilding/Lore/Inverse Colonies]] on the ocean floor
+- Convert surface-dwelling sea creatures to serve the [[02_Worldbuilding/Lore/The Deep Sovereign]]
+- Ultimately transform all oceans into extensions of [[02_Worldbuilding/Places/Aquabyssos]]
 
 ### The Deep Purists
 
 Opposing the Ascension Plot are the **Deep Purists**, traditionalists who believe the palace should remain hidden in the depths. They argue that:
 
-- Surface contact risks exposure to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Solar Corruption]]
+- Surface contact risks exposure to [[02_Worldbuilding/Lore/Solar Corruption]]
 - The palace's power depends on its isolation
-- Integration with surface waters would dilute their [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Essence]]
-- The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ancient Pacts]] with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Elder Things]] forbid such expansion
+- Integration with surface waters would dilute their [[02_Worldbuilding/Lore/Abyssal Essence]]
+- The [[02_Worldbuilding/Lore/Ancient Pacts]] with the [[02_Worldbuilding/Lore/Elder Things]] forbid such expansion
 
 ### The Temporal Rebellion
 
 A secretive faction has discovered that the palace's [[02_Worldbuilding/Lore/Temporal Anchor Points|02 Worldbuilding/Lore/Temporal Anchor Points]] can be manipulated to access alternate timelines. They seek to:
 
-- Find timelines where the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Great Sundering]] never occurred
+- Find timelines where the [[02_Worldbuilding/Lore/Great Sundering]] never occurred
 - Retrieve lost knowledge from destroyed realities
 - Potentially replace the current reality with a more favorable one
 - Use temporal manipulation to eliminate their political rivals
@@ -190,7 +190,7 @@ A secretive faction has discovered that the palace's [[02_Worldbuilding/Lore/Tem
 
 ### The Diplomatic Mission
 
-The party is chosen as neutral representatives to negotiate a trade agreement between the surface kingdoms and the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]]. However, they must navigate:
+The party is chosen as neutral representatives to negotiate a trade agreement between the surface kingdoms and the [[02_Worldbuilding/Lore/The Abyssal Court]]. However, they must navigate:
 
 - Complex etiquette involving gravitational orientation
 - Political intrigue between competing factions
@@ -202,19 +202,19 @@ The party is chosen as neutral representatives to negotiate a trade agreement be
 
 ### The Stolen Spire
 
-One of the palace's seventeen spires has been mysteriously severed and transported to the surface world, threatening to expose the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverse Palace]]'s existence. The party must:
+One of the palace's seventeen spires has been mysteriously severed and transported to the surface world, threatening to expose the [[02_Worldbuilding/Places/Inverse Palace]]'s existence. The party must:
 
 - Investigate the theft and identify the culprits
 - Navigate surface politics to contain the situation
 - Return the spire before its absence destabilizes the palace
-- Deal with surface dwellers who have been exposed to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Architecture]]
+- Deal with surface dwellers who have been exposed to [[02_Worldbuilding/Lore/Abyssal Architecture]]
 
 *Level Range: 12-16*
 *Themes: Investigation, planar travel, containment*
 
 ### The Deep Inheritance
 
-A PC discovers they are the heir to one of the [[vault_backup_20250813_073007/02_Worldbuilding/People/Pressure Lords]] and must travel to the palace to claim their birthright. However:
+A PC discovers they are the heir to one of the [[02_Worldbuilding/People/Pressure Lords]] and must travel to the palace to claim their birthright. However:
 
 - Other claimants seek to eliminate them
 - The inheritance comes with terrible responsibilities
@@ -226,10 +226,10 @@ A PC discovers they are the heir to one of the [[vault_backup_20250813_073007/02
 
 ### The Reality Breach
 
-The palace's reality-warping properties have created a tear in the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dimensional Fabric]], threatening to merge [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Far Realm]]. The party must:
+The palace's reality-warping properties have created a tear in the [[02_Worldbuilding/Lore/Dimensional Fabric]], threatening to merge [[02_Worldbuilding/Places/Aquabyssos]] with the [[02_Worldbuilding/Lore/Far Realm]]. The party must:
 
 - Navigate increasingly unstable architectural spaces
-- Prevent [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Elder Things]] from exploiting the breach
+- Prevent [[02_Worldbuilding/Lore/Elder Things]] from exploiting the breach
 - Restore the palace's dimensional stability
 - Face the possibility that sealing the breach requires personal sacrifice
 
@@ -238,11 +238,11 @@ The palace's reality-warping properties have created a tear in the [[vault_backu
 
 ### The Archive Heist
 
-The party is hired to steal specific knowledge from the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Whisper Archives]], but they must:
+The party is hired to steal specific knowledge from the [[02_Worldbuilding/Lore/Whisper Archives]], but they must:
 
-- Infiltrate the most heavily guarded location in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- Infiltrate the most heavily guarded location in [[02_Worldbuilding/Places/Aquabyssos]]
 - Navigate the palace's impossible architecture
-- Avoid detection by the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Living Corridors]]
+- Avoid detection by the [[02_Worldbuilding/Lore/Living Corridors]]
 - Escape with knowledge that multiple factions will kill to possess
 
 *Level Range: 11-16*
@@ -250,18 +250,18 @@ The party is hired to steal specific knowledge from the [[vault_backup_20250813_
 
 ## Connections to Other Locations
 
-The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverse Palace]] serves as a nexus point connecting to numerous other significant locations:
+The [[02_Worldbuilding/Places/Inverse Palace]] serves as a nexus point connecting to numerous other significant locations:
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crushing Depths]]**: The palace's primary domain and source of power
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Territories]]**: Regions under the palace's direct control
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sunken Cities]]**: Ancient civilizations now serving the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]]
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Coral Throne]]**: The actual seat of The Deep Sovereign's power
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Current Networks]]**: Transportation systems connecting the palace to distant realms
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Void Between Pressures]]**: The space between realities where the palace anchors
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Surface Breach Points]]**: Hidden entrances to the surface oceans
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Elder Deep]]**: The primordial realm from which the palace draws its power
+- **[[02_Worldbuilding/Lore/Crushing Depths]]**: The palace's primary domain and source of power
+- **[[02_Worldbuilding/Lore/Pressure Territories]]**: Regions under the palace's direct control
+- **[[02_Worldbuilding/Lore/The Sunken Cities]]**: Ancient civilizations now serving the [[02_Worldbuilding/Lore/The Abyssal Court]]
+- **[[02_Worldbuilding/Places/The Coral Throne]]**: The actual seat of The Deep Sovereign's power
+- **[[02_Worldbuilding/Lore/Deep Current Networks]]**: Transportation systems connecting the palace to distant realms
+- **[[02_Worldbuilding/Lore/Void Between Pressures]]**: The space between realities where the palace anchors
+- **[[02_Worldbuilding/Lore/Surface Breach Points]]**: Hidden entrances to the surface oceans
+- **[[02_Worldbuilding/Lore/Elder Deep]]**: The primordial realm from which the palace draws its power
 - **[[Temporal Anchor Points]]**: Locations where time flows differently
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Whispering Chambers]]**: Communication centers throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- **[[02_Worldbuilding/Lore/The Whispering Chambers]]**: Communication centers throughout [[02_Worldbuilding/Places/Aquabyssos]]
 
 ## Treasures and Artifacts
 
@@ -295,14 +295,14 @@ Forged from the pressure-compressed remains of surface metals, this armor provid
 - Advantage on saves against environmental hazards
 - Ability to function normally in any pressure environment
 
-The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverse Palace]] stands as both a marvel of impossible architecture and a center of cosmic political power, where the laws of reality bend to the will of entities whose motivations remain as dark and mysterious as the depths they call home.
+The [[02_Worldbuilding/Places/Inverse Palace]] stands as both a marvel of impossible architecture and a center of cosmic political power, where the laws of reality bend to the will of entities whose motivations remain as dark and mysterious as the depths they call home.
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Find the Grief Bomb]]
+- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
 
 ## Player-Facing Summary
 
@@ -318,6 +318,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
 
 <!-- enriched: true -->

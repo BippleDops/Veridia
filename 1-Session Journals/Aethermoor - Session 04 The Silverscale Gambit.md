@@ -10,9 +10,9 @@ danger_level: 7
 date: null
 duration_hours: 4
 encounters:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crimson Hand Strike Team]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Vex Shadowthorn Boss Fight]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Consortium Security Constructs]]'
+- '[[02_Worldbuilding/Lore/Crimson Hand Strike Team]]'
+- '[[02_Worldbuilding/Groups/Criminal_Organizations/Vex Shadowthorn Boss Fight]]'
+- '[[02_Worldbuilding/Groups/Consortium Security Constructs]]'
 gold_gained: 1000
 items_gained:
 - Shard Compass
@@ -20,16 +20,16 @@ items_gained:
 - Crimson Hand intelligence reports
 level: 4
 locations_visited:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Banking House]]'
+- '[[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]'
+- '[[02_Worldbuilding/Lore/Silverscale Banking House]]'
 - '[[Smuggler''s Cove]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Emergency Bunker]]'
+- '[[02_Worldbuilding/Lore/Silverscale Emergency Bunker]]'
 - '[[Abandoned Consortium Warehouse]]'
 npcs_met:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Director Hadrian Silverscale]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/Vex Shadowthorn]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
+- '[[02_Worldbuilding/Lore/Director Hadrian Silverscale]]'
+- '[[02_Worldbuilding/People/The Crimson Sage]]'
 obsidianUIMode: preview
 players: []
 plot_threads:
@@ -38,14 +38,14 @@ plot_threads:
 - Vex was Marcus's apprentice
 - Queen discovered shard in royal vault
 - Crystal Festival aligned with cosmic event
-primary_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]'
+primary_location: '[[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]'
 quests_completed: []
 quests_progressed:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Seven Shards Mystery]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Investigate the Crystal Plague]]'
+- '[[02_Worldbuilding/Places/The Seven Shards Mystery]]'
+- '[[02_Worldbuilding/People/Investigate the Crystal Plague]]'
 quests_started:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silverscale Conspiracy]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Race Against the Festival]]'
+- '[[02_Worldbuilding/Lore/The Silverscale Conspiracy]]'
+- '[[02_Worldbuilding/Lore/Race Against the Festival]]'
 session: Session-04
 status: complete
 tags:
@@ -100,7 +100,7 @@ The Silverscale Consortium's flagship explodes in the harbor, raining crystalliz
 
 ## Scene 1: The Consortium Vault
 
-### Location: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Banking House]]
+### Location: [[02_Worldbuilding/Lore/Silverscale Banking House]]
 **Read Aloud:** *The banking house's magical security screams warnings as Crimson Hand operatives breach the emergency vault. Crystallized gold from the explosion has somehow disrupted the ward patterns.*
 
 ### Challenges
@@ -121,12 +121,12 @@ The Silverscale Consortium's flagship explodes in the harbor, raining crystalliz
 **Success Threshold**: 4 successes before 3 failures
 - Each success: Recover one crucial document
 - Each failure: Crimson Hand gets closer to their goal
-- Critical Success: Find secret compartment with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
+- Critical Success: Find secret compartment with [[02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
 - Critical Failure: Trigger lockdown, trapped for 10 minutes
 
 ## Scene 2: Marina's Revelation
 
-### Location: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+### Location: [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
 **Atmosphere**: Bioluminescent algae provides eerie blue-green light. Ancient stone architecture predates Port Meridian. Sound of impossible tides.
 
 ### Marina's True Identity
@@ -159,7 +159,7 @@ Marina reveals a map showing:
 
 ## Scene 3: The Consortium Director
 
-### Location: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Emergency Bunker]]
+### Location: [[02_Worldbuilding/Lore/Silverscale Emergency Bunker]]
 **Security**: Antimagic field, construct guardians, escape tunnel to ships
 
 ### Director Hadrian Silverscale
@@ -341,19 +341,19 @@ This session establishes:
 - Bloodline connections across realms
 
 ## Rules References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corruption Exposure Tracking]]
-- [[vault_backup_20250813_073007/03_Mechanics/Aquabyssos Adaptation Mechanics]]
-- [[vault_backup_20250813_073007/03_Mechanics/Faction Standing System]]
-- [[vault_backup_20250813_073007/03_Mechanics/Crystal Plague Progression]]
-- [[vault_backup_20250813_073007/03_Mechanics/Underwater Combat Rules]]
+- [[02_Worldbuilding/Lore/Corruption Exposure Tracking]]
+- [[03_Mechanics/Aquabyssos Adaptation Mechanics]]
+- [[03_Mechanics/Faction Standing System]]
+- [[03_Mechanics/Crystal Plague Progression]]
+- [[03_Mechanics/Underwater Combat Rules]]
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Emergency Bunker]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+- [[02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
+- [[02_Worldbuilding/Lore/Silverscale Emergency Bunker]]
+- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]

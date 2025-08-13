@@ -27,7 +27,7 @@ world: Both
 *The Iron Monk, Guardian of the Sacred Flame*
 
 ## Overview
-Brother Marcus Steelbane stands as one of the most respected warrior-monks in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], serving the [[02_Worldbuilding/Groups/Order of the Crystal Flame|02 Worldbuilding/Groups/Order Of The Crystal Flame]] with unwavering dedication. Once a blacksmith's son from the industrial districts, Marcus found his calling after a devastating forge accident left him scarred but spiritually awakened. His unique martial discipline combines monastic training with the elemental forces of crystal magic, making him a formidable protector of the sacred sites.
+Brother Marcus Steelbane stands as one of the most respected warrior-monks in [[02_Worldbuilding/Places/Aethermoor]], serving the [[02_Worldbuilding/Groups/Order of the Crystal Flame|02 Worldbuilding/Groups/Order Of The Crystal Flame]] with unwavering dedication. Once a blacksmith's son from the industrial districts, Marcus found his calling after a devastating forge accident left him scarred but spiritually awakened. His unique martial discipline combines monastic training with the elemental forces of crystal magic, making him a formidable protector of the sacred sites.
 
 ## Appearance
 - **Build**: Powerfully built at 6'1", muscled from years of smithing and training
@@ -82,22 +82,22 @@ Born **Marcus Ironwright** in the Forge District, he was destined to follow his 
 ## Relationships
 
 ### Brotherhood
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Spiritual mentor and guide
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Spiritual mentor and guide
 - **Brother Thomas Lightkeeper** - Best friend and sparring partner
 - **Sister Catherine Flameweaver** - Fellow crystal researcher
 - **Abbot Maximillan Emberward** - Monastery leader, father figure
 - The temple novices - Teaching meditation and martial arts
 
 ### Allies
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sir Theron Crystalward]] - Mutual respect for dedication
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Appreciates craftsmanship
+- [[02_Worldbuilding/People/Sir Theron Crystalward]] - Mutual respect for dedication
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Appreciates craftsmanship
 - **Captain Aldric Stormguard** - Guards temple precincts
 - Local blacksmiths - Still maintains professional relationships
 
 ### Complicated Relations
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Knows of past indiscretions (blackmail potential)
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Knows of past indiscretions (blackmail potential)
 - **Elena Ironwright** - Estranged sister who blames him for father's death
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Doctor Helena Voidwalker]] - Philosophical disagreements about healing
+- [[02_Worldbuilding/People/Doctor Helena Voidwalker]] - Philosophical disagreements about healing
 - Former forge workers - Some resent his "abandonment" of the trade
 
 ### Enemies
@@ -195,10 +195,10 @@ Marcus believes that true strength comes from discipline, not power. He teaches 
 - Represents the theme of redemption and second chances
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Spiritual superior
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Knows compromising information
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Professional respect
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sir Theron Crystalward]] - Fellow guardian of sacred sites
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Spiritual superior
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Knows compromising information
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Professional respect
+- [[02_Worldbuilding/People/Sir Theron Crystalward]] - Fellow guardian of sacred sites
 
 ## Connected Locations  
 - [[02_Worldbuilding/Places/Crystal Spires|02 Worldbuilding/Places/Crystal Spires]] - Primary residence and workplace
@@ -214,23 +214,23 @@ Marcus believes that true strength comes from discipline, not power. He teaches 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition Thugs]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Thrace Ironwood]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
+- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
+- [[02_Worldbuilding/Groups/Purist Coalition Thugs]]
+- [[02_Worldbuilding/Groups/Purist Coalition]]
+- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
+- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]]
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 03 Council of Shadows]]
+- [[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
+- [[1-Session Journals/Aethermoor - Session 03 Council of Shadows]]
 - [[Aethermoor - Session 07 The Festival of Transformation]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
@@ -250,6 +250,6 @@ Legends speak of Brother Marcus Steelbane as a nexus where past and present conv
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
 
 <!-- enriched: true -->

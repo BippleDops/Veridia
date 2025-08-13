@@ -73,20 +73,20 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 ### Academic Colleagues
 - **[[02_Worldbuilding/Groups/The Crystal Academy|02 Worldbuilding/Groups/The Crystal Academy]]** - Primary institutional affiliation
 - **Crystal Research Faculty** - Fellow professors studying crystal magic at the academy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]** - Unknown connection providing research insights
+- **[[02_Worldbuilding/People/The Crimson Sage]]** - Unknown connection providing research insights
 - **Graduate Students** - Proteges learning advanced crystal manipulation techniques
 - **International Scholars** - Researchers from other institutions studying crystal phenomena
 
 ### Political Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Royal patron funding his research (unaware of his corruption)
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Crystal Wardens]]** - Military unit interested in his weapon applications
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Wealthy backer with hidden agenda involving the Shards
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Royal patron funding his research (unaware of his corruption)
+- **[[02_Worldbuilding/Groups/Crystal Wardens]]** - Military unit interested in his weapon applications
+- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Wealthy backer with hidden agenda involving the Shards
 - **Government Oversight** - Officials monitoring his more dangerous experiments
 
 ### Opposition & Critics
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]** - Views his work as crystal corruption abomination
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]]** - Opposes crystal expansion and corruption of nature
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]** - Organization dedicated to eliminating crystal influence
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Views his work as crystal corruption abomination
+- **[[02_Worldbuilding/People/Archdruid Thornweaver]]** - Opposes crystal expansion and corruption of nature
+- **[[02_Worldbuilding/Groups/Purist Coalition]]** - Organization dedicated to eliminating crystal influence
 - **Ethics Committees** - Academic groups questioning his experimental methods
 
 ### Research Subjects & Collaborators
@@ -143,7 +143,7 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 
 ### Supply Networks
 - **Crystal Miners** - Sources for raw crystal materials
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]** - Traders providing rare and exotic crystals
+- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Traders providing rare and exotic crystals
 - **Equipment Suppliers** - Craftsmen creating specialized research tools
 - **Black Market Contacts** - Illegal sources for forbidden or restricted materials
 
@@ -183,13 +183,13 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 ## Relationships
 
 ### Academic Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Former student who now rivals his innovations
+- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Former student who now rivals his innovations
 - **Dean Lumina Brightforge** - Academy superior who protects him from his critics
 - **Professor Thesis Bookworm** - Colleague who documents his discoveries (and accidents)
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Guard]]** - Knights who both rely on his innovations and monitor his experiments
+- **[[02_Worldbuilding/Lore/Crystal Guard]]** - Knights who both rely on his innovations and monitor his experiments
 
 ### Cross-Realm Research Collaborations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]** - Deep-sea divine crystal phenomenon research partnership
+- **[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]** - Deep-sea divine crystal phenomenon research partnership
   - Studies crystalline formations found on divine entities in deepest ocean trenches
   - Analyzes how crystal resonance patterns correlate with cosmic consciousness
   - Develops early warning systems using crystal-based divine activity detection
@@ -203,12 +203,12 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 
 ### Enemies & Critics
 - **The Natural Order Society** - Group that opposes artificial enhancement of living beings
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]** - Religious authority who considers his work heretical
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Religious authority who considers his work heretical
 - **Professor Marcus Traditionalist** - Academy rival who believes his methods are too dangerous
 - **The Crystal Plague Survivors** - Individuals harmed by his past experimental failures
 
 ### Complicated Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Values his innovations but fears his growing instability
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Values his innovations but fears his growing instability
 - **Captain Strength Ironwill** - Military officer who needs his weapons but distrusts his methods
 - **His own crystal constructs** - Created beings who may be developing their own agenda
 - **The families of test subjects** - People caught between gratitude and horror at his treatments
@@ -334,16 +334,16 @@ Aldric's research facility is a maze of interconnected chambers, each serving sp
 - **Hidden Chambers**: Secret rooms containing his most controversial research
 
 ## Connected NPCs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Former student and current rival
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Patron who values his work but fears his methods
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]** - Religious opponent who sees his work as heretical
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Guard]]** - Military order that uses his innovations
+- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Former student and current rival
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Patron who values his work but fears his methods
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Religious opponent who sees his work as heretical
+- **[[02_Worldbuilding/Lore/Crystal Guard]]** - Military order that uses his innovations
 
 ## Connected Locations
 - **[[02_Worldbuilding/Groups/The Crystal Academy|02 Worldbuilding/Groups/The Crystal Academy]]** - His primary workplace and center of crystal research
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Luminous Laboratory District]]** - The academic and research quarter of Aethermoor
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Caves]]** - Source of his raw materials and test site for large experiments
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Underground Testing Facility]]** - Secret location for his most dangerous research
+- **[[02_Worldbuilding/Places/Luminous Laboratory District]]** - The academic and research quarter of Aethermoor
+- **[[02_Worldbuilding/Places/The Crystal Caves]]** - Source of his raw materials and test site for large experiments
+- **[[02_Worldbuilding/People/Underground Testing Facility]]** - Secret location for his most dangerous research
 
 ## Plot Threads
 Professor Crystalweaver embodies the classic "mad scientist" archetype while raising questions about the price of progress and the ethics of experimentation. He can be involved in numerous plot threads:
@@ -357,18 +357,18 @@ His character represents the theme that genius and madness often walk hand-in-ha
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Aether Crystal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Barnacle]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Bloodline Carrier]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Cerulean Breath]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Void Tears]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Crystalline Depths]]
+- [[02_Worldbuilding/Groups/The Crystal Throne]]
+- [[02_Worldbuilding/People/Aether Crystal]]
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- [[02_Worldbuilding/People/The Barnacle]]
+- [[02_Worldbuilding/People/The Bloodline Carrier]]
+- [[02_Worldbuilding/People/The Cerulean Breath]]
+- [[02_Worldbuilding/People/The Crimson Sage]]
+- [[02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/Places/The Gilded Shard]]
+- [[02_Worldbuilding/Places/The Void Tears]]
+- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[02_Worldbuilding/Quests/Crystalline Depths]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
@@ -388,7 +388,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]]
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]

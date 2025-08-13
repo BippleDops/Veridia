@@ -104,17 +104,17 @@ His rise to mayor wasn't through popular vote but through strategic bribes, blac
 - **Madame Coral Seasinger** - Brothel owner who provides information and discrete services
 - **Captain "Deadweight" Morrison** - Smuggler captain who handles Thompson's illegal imports
 - **Treasurer Penny Goldfish** - District treasurer whom Thompson has thoroughly corrupted
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]]** - Legitimate merchant guild that Thompson secretly controls
+- **[[02_Worldbuilding/People/The Current Merchants]]** - Legitimate merchant guild that Thompson secretly controls
 
 ### Enemies
 - **Inspector Jagged Reef** - Incorruptible investigator trying to build a case against him
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Pearl Guard]]** - Elite imperial guards who suspect his criminal activities
+- **[[02_Worldbuilding/People/The Pearl Guard]]** - Elite imperial guards who suspect his criminal activities
 - **Widow Blackwater** - Mother of his predecessor, who knows he ordered the assassination
 - **Father Tidal Mercy** - Local priest who preaches against corruption and greed
 
 ### Complicated Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Cordelia Deepcurrent]]** - Useful political ally who doesn't know the full extent of his crimes
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]** - Suspicious diplomatic contact who he's trying to corrupt
+- **[[02_Worldbuilding/People/Senator Cordelia Deepcurrent]]** - Useful political ally who doesn't know the full extent of his crimes
+- **[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]** - Suspicious diplomatic contact who he's trying to corrupt
 - **Captain Reef Walker** - Harbor patrol captain who takes bribes but has limits
 - **His estranged daughter Melody** - Surface dweller who wants nothing to do with his new life
 
@@ -138,7 +138,7 @@ His rise to mayor wasn't through popular vote but through strategic bribes, blac
 
 ### Hidden Truths (DM Only)
 > [!warning] DM Secrets
-> - **The Murder Contract**: Thompson hired [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Parliament]] assassins to kill the previous mayor, paying them with stolen imperial artifacts
+> - **The Murder Contract**: Thompson hired [[02_Worldbuilding/People/Shadow Parliament]] assassins to kill the previous mayor, paying them with stolen imperial artifacts
 > - **Surface Debts**: His original gambling debts are still outstanding, and surface creditors are beginning to track him down
 > - **The Daughter's Leverage**: His estranged daughter Melody has evidence of his crimes and is deciding whether to expose him
 > - **Imperial Spy**: He's been secretly feeding information to Aethermoor agents about Aquabyssos military movements
@@ -232,16 +232,16 @@ Under Thompson's leadership, Drift Harbor has become a study in contrasts:
 - Environmental destruction ignored in favor of profitable ventures
 
 ## Connected NPCs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Cordelia Deepcurrent]]** - Political ally who doesn't know his true nature
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]** - Suspicious diplomatic contact
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]]** - Merchant guild under his control
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Pearl Guard]]** - Imperial investigators pursuing him
+- **[[02_Worldbuilding/People/Senator Cordelia Deepcurrent]]** - Political ally who doesn't know his true nature
+- **[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]** - Suspicious diplomatic contact
+- **[[02_Worldbuilding/People/The Current Merchants]]** - Merchant guild under his control
+- **[[02_Worldbuilding/People/The Pearl Guard]]** - Imperial investigators pursuing him
 
 ## Connected Locations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Drift Harbor District]]** - His domain and center of power
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Smuggler's Den]]** - Hidden base of operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Mayor's Manor]]** - Heavily fortified residence and office
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Golden Fishook Tavern]]** - Front for his illegal gambling operation
+- **[[02_Worldbuilding/Places/Drift Harbor District]]** - His domain and center of power
+- **[[02_Worldbuilding/People/The Smuggler's Den]]** - Hidden base of operations
+- **[[02_Worldbuilding/People/Mayor's Manor]]** - Heavily fortified residence and office
+- **[[02_Worldbuilding/People/The Golden Fishook Tavern]]** - Front for his illegal gambling operation
 
 ## Plot Threads
 Thompson serves as an excellent example of corruption at the local level and can be involved in numerous plot threads:
@@ -258,7 +258,7 @@ His character represents the theme that evil often wears a friendly face and tha
 
 - [[Gareth_Ironforge|Gareth Ironforge]]
 - [[Jasper Three-Eyes Flint]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Pearl Guard]]
+- [[02_Worldbuilding/People/The Pearl Guard]]
 - [[Market_District|Market District]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
@@ -276,8 +276,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Mayor Thompson]]
+- [[02_Worldbuilding/People/Mayor Thompson]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]]
+- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
+- [[02_Worldbuilding/People/The Current Merchants]]

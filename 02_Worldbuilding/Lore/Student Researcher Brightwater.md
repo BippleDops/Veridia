@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Mindwell]]
+- [[02_Worldbuilding/Places/Keeper Elara Mindwell]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Mindwell]]
+- [[02_Worldbuilding/Places/Keeper Elara Mindwell]]
 
 ## Player-Facing Summary
 

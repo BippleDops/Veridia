@@ -13,6 +13,5 @@
   "foldHeading": true,
   "foldIndent": true,
   "showIndentGuide": true,
-  "readableLineLength": false,
-  "theme": "moonstone"
+  "readableLineLength": false
 }

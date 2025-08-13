@@ -26,10 +26,10 @@ world: Both
 # Economic Crime Methods
 *The Art of Stealing Without Taking, and Profiting Without Producing*
 
-> *"The most elegant crime is the one where the victim thanks you for robbing them. The perfect financial crime is when the system itself pays you to destroy it."* - [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]]
+> *"The most elegant crime is the one where the victim thanks you for robbing them. The perfect financial crime is when the system itself pays you to destroy it."* - [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
 
 ## Overview
-Economic crime in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] has evolved into sophisticated methodologies that exploit the complex financial systems connecting both realms. These crimes range from simple fraud to elaborate schemes that manipulate entire economic sectors, often operating within legal gray areas that make detection and prosecution extremely difficult.
+Economic crime in [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] has evolved into sophisticated methodologies that exploit the complex financial systems connecting both realms. These crimes range from simple fraud to elaborate schemes that manipulate entire economic sectors, often operating within legal gray areas that make detection and prosecution extremely difficult.
 
 ## Tax Evasion Methods
 
@@ -87,7 +87,7 @@ Economic crime in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aetherm
 
 #### Current Transport Fee Avoidance
 **Method**: Using unofficial transport networks to avoid current usage fees
-**Participants**: [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]], independent traders, smugglers
+**Participants**: [[02_Worldbuilding/People/The Current Merchants]], independent traders, smugglers
 **Savings**: 15-40% reduction in transport-related taxation
 **Detection Risk**: Moderate (patrol monitoring can detect unauthorized current usage)
 
@@ -496,10 +496,10 @@ Economic crime in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aetherm
 
 ## Connected Systems and Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]] - Major figure in legitimate and criminal finance
+- [[02_Worldbuilding/People/Banker Titus Goldcurrent]] - Major figure in legitimate and criminal finance
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal organization specializing in economic crime
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Economic Systems and Currency]] - Legitimate financial systems targeted by crime
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Black Market Price Guide]] - Illegal markets supported by economic crime
+- [[02_Worldbuilding/Lore/Economic Systems and Currency]] - Legitimate financial systems targeted by crime
+- [[02_Worldbuilding/Lore/Black Market Price Guide]] - Illegal markets supported by economic crime
 - [[03_Mechanics/Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]] - Tools for modeling economic crime impacts
 
 ## Player-Facing Summary

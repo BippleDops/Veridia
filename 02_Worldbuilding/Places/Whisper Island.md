@@ -3,13 +3,13 @@ climate: Temperate, frequently shrouded in mist
 created: '2025-08-09'
 danger_level: 9
 government: None (Anarchic)
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Azure Coast]] waters'
+location: '[[02_Worldbuilding/Places/The Azure Coast]] waters'
 population: Unknown (Estimated 200-500)
 related_entities:
 - '[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow
   Conspiracy]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alterations]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Meadows Black Market]]'
+- '[[02_Worldbuilding/Lore/Memory Alterations]]'
+- '[[02_Worldbuilding/Places/Memory Meadows Black Market]]'
 size: 12 square miles
 status: draft
 tags:
@@ -44,7 +44,7 @@ world: Both Aethermoor and Aquabyssos
 
 ## Overview
 
-Whisper Island sits in disputed waters between [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Azure Coast]] and the deeper territories of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], shrouded in perpetual mist and surrounded by unnaturally calm waters. This enigmatic landmass serves as a neutral ground for those engaged in the most clandestine activities - a place where secrets are traded, memories are altered, and identities can be completely rewritten.
+Whisper Island sits in disputed waters between [[02_Worldbuilding/Places/The Azure Coast]] and the deeper territories of [[02_Worldbuilding/Places/Aquabyssos]], shrouded in perpetual mist and surrounded by unnaturally calm waters. This enigmatic landmass serves as a neutral ground for those engaged in the most clandestine activities - a place where secrets are traded, memories are altered, and identities can be completely rewritten.
 
 Neither surface nor underwater authorities claim jurisdiction over Whisper Island, making it a haven for criminals, conspirators, spies, and others who prefer to operate beyond the reach of conventional law. The island's most disturbing feature is its tendency to make visitors forget certain experiences while simultaneously preserving other memories with supernatural clarity.
 
@@ -84,7 +84,7 @@ Buildings on Whisper Island exist in states of constant, subtle flux:
 - Rarely interact directly with visitors
 - Appear to possess complete knowledge of everything that occurs on the island
 - May not be entirely human anymore
-- Rumored to be connected to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+- Rumored to be connected to [[02_Worldbuilding/Places/Memory Farmers]]
 
 ### Regular Visitors
 **Intelligence Operatives**: Spies from various surface and underwater governments
@@ -125,7 +125,7 @@ Buildings on Whisper Island exist in states of constant, subtle flux:
 - Customers can browse memories before purchase
 - Quality and authenticity vary wildly
 - Some memories contain embedded traps or compulsions
-- Connected to larger [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Meadows Black Market]] network
+- Connected to larger [[02_Worldbuilding/Places/Memory Meadows Black Market]] network
 
 ## Supernatural Effects
 
@@ -233,8 +233,8 @@ Investigation into missing persons whose identities have been completely erased:
 
 ### Territorial Disputes
 Neither surface nor underwater governments claim Whisper Island:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Azure Coast]] authorities avoid the area entirely
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] considers it "cursed waters" outside their territory
+- [[02_Worldbuilding/Places/The Azure Coast]] authorities avoid the area entirely
+- [[02_Worldbuilding/Places/Aquabyssos]] considers it "cursed waters" outside their territory
 - Various criminal organizations compete for informal control
 - International law becomes meaningless in island's waters
 
@@ -259,8 +259,8 @@ EOF < /dev/null
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Luminous Hollow]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
+- [[02_Worldbuilding/Places/Luminous Hollow]]
+- [[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
 
 ## Player-Facing Summary
 
@@ -282,6 +282,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Whisper Island]]
+- [[02_Worldbuilding/Places/Whisper Island]]
 
 <!-- enriched: true -->

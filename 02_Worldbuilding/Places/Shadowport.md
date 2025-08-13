@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Floating Market]]
+- [[02_Worldbuilding/Places/The Floating Market]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Floating Market]]
+- [[02_Worldbuilding/Places/The Floating Market]]
 
 ## Player-Facing Summary
 

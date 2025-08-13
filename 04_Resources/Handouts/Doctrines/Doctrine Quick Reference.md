@@ -39,7 +39,7 @@ Travel feels different under each doctrine. Use this as a vibe guide and checkli
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/06_GM_Resources/Session_Packets/Aethermoor Session 01]]
+- [[06_GM_Resources/Session_Packets/Aethermoor Session 01]]
 
 ## Faction Relationships
 

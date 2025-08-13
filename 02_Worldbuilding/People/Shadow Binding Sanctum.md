@@ -161,6 +161,6 @@ Legends speak of Shadow Binding Sanctum as a nexus where past and present conver
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Binding Sanctum]]
+- [[02_Worldbuilding/People/Shadow Binding Sanctum]]
 
 <!-- enriched: true -->

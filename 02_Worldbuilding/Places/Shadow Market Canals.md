@@ -74,7 +74,7 @@ Subtle symbols carved into tunnel walls indicate:
 - Meeting points (interlocked circles)
 
 **The Flow Charts**
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Canal Master Typhoon Currentwise]] maintains detailed maps showing:
+[[02_Worldbuilding/Lore/Canal Master Typhoon Currentwise]] maintains detailed maps showing:
 - Tidal schedules affecting water levels
 - Patrol routes and timing
 - Safe houses and storage points
@@ -126,9 +126,9 @@ All newcomers must be sponsored by established canal users:
 - **Water Walking** prevention fields forcing underwater approach
 
 **Layer 4: Enforcement Response**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Current Riders]]**: Fast response team on specialized watercraft
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Enforcers]]**: Armed guards trained in underwater combat
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Tide Turners]]**: Elite operatives capable of controlling water flow
+- **[[02_Worldbuilding/Lore/The Current Riders]]**: Fast response team on specialized watercraft
+- **[[02_Worldbuilding/Lore/Depth Enforcers]]**: Armed guards trained in underwater combat
+- **[[02_Worldbuilding/Lore/The Tide Turners]]**: Elite operatives capable of controlling water flow
 - **[[Emergency Response Protocol]]**: Complete canal lockdown procedures
 
 ## Operations and Services
@@ -197,9 +197,9 @@ Rapid transport system using trained water creatures:
 **Background**: Former city engineer who helped design the original drainage system
 **Motivation**: Maintaining profitable operations while avoiding official attention
 **Key Relationships**: 
-- Secret arrangement with [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]] for territory division
-- Information sharing agreement with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deepmind Conspiracy]]
-- Protection contract with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Syndicate Enforcers]]
+- Secret arrangement with [[02_Worldbuilding/Places/The Shadow Markets]] for territory division
+- Information sharing agreement with [[02_Worldbuilding/Places/Deepmind Conspiracy]]
+- Protection contract with [[02_Worldbuilding/Places/Syndicate Enforcers]]
 
 **Abilities**: 
 - **Master Navigator**: Knows every passage and shortcut in the system
@@ -274,56 +274,56 @@ Negotiates with legitimate businesses and maintains cover operations
 **Specialty**: High-speed transportation and courier services
 **Territory**: The fastest current channels and main thoroughfares
 **Membership**: 30-40 individuals, mostly young and agile swimmers
-**Leadership**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Speed-Current Jet]], a reformed street racing champion
+**Leadership**: [[02_Worldbuilding/Lore/Speed-Current Jet]], a reformed street racing champion
 **Services**: Message delivery, package transport, emergency evacuation
 
 ### The Depth Dealers
 **Specialty**: Rare and dangerous magical items
 **Territory**: The deepest storage areas and most secure channels
 **Membership**: 15-20 experienced magic users and treasure hunters
-**Leadership**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Arcane-Depth Void]], mysterious figure who may not be entirely human
+**Leadership**: [[02_Worldbuilding/Lore/Arcane-Depth Void]], mysterious figure who may not be entirely human
 **Inventory**: Cursed items, unstable magical devices, extraplanar artifacts
 
 ### The Silent Current
 **Specialty**: Assassination, kidnapping, and violence for hire
 **Territory**: The maze sections and emergency escape routes
 **Membership**: 8-12 elite operatives with unknown true identities
-**Leadership**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Silence]], who communicates only through written messages
+**Leadership**: [[02_Worldbuilding/Lore/The Deep Silence]], who communicates only through written messages
 **Methods**: Drowning accidents, poisoned water supplies, underwater ambushes
 
 ### The Memory Tide
 **Specialty**: Extraction, storage, and trading of memories
 **Territory**: Specialized chambers with mystical properties
 **Membership**: 20-25 individuals with psychic abilities
-**Leadership**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Mind-Current Remembrance]], former temple priest turned rogue
+**Leadership**: [[02_Worldbuilding/Lore/Mind-Current Remembrance]], former temple priest turned rogue
 **Operations**: Memory theft, experience trading, selective amnesia services
 
 ## Connections to Other Locations
 
 ### Direct Physical Connections
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]]**
+**[[02_Worldbuilding/Places/The Shadow Markets]]**
 Secret tunnels connect to the main criminal trading center:
 - Shared security protocols and mutual defense agreements
 - Regular transfer of goods between locations
 - Joint operations for major criminal enterprises
 - Emergency evacuation routes between facilities
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Vote Vaults]]**
+**[[02_Worldbuilding/Places/Vote Vaults]]**
 Hidden passages allow discrete transport of political information:
 - Protected courier routes for sensitive documents
 - Secure meeting locations for political conspirators
 - Money laundering operations for political financing
 - Blackmail material storage and transport
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Secret Vault Beneath Throne]]**
+**[[02_Worldbuilding/Places/Secret Vault Beneath Throne]]**
 Unofficial connection through royal intelligence networks:
 - Crown agents use canals for covert operations
 - Royal intelligence gathering from criminal sources
 - Discrete disposal of politically sensitive items
 - Emergency communication channels during crises
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]**
+**[[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]**
 Underwater passages for transporting medical contraband:
 - Illegal organ trade and body modification services
 - Transport of dangerous medical experiments
@@ -332,21 +332,21 @@ Underwater passages for transporting medical contraband:
 
 ### Intelligence Networks
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Deepmind Conspiracy]]**
+**[[02_Worldbuilding/Places/Deepmind Conspiracy]]**
 Shared information resources and coordinated intelligence:
 - Exchange of political and criminal intelligence
 - Joint surveillance operations on common threats
 - Mutual warning systems for authority raids
 - Coordinated misinformation campaigns
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Silent Watcher]]**
+**[[02_Worldbuilding/Places/The Silent Watcher]]**
 Surveillance cooperation and territory monitoring:
 - Shared observation posts and warning systems
 - Coordinated tracking of authority movements
 - Joint intelligence analysis and threat assessment
 - Emergency communication during security breaches
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Whisper Translation]]**
+**[[02_Worldbuilding/Places/Whisper Translation]]**
 Communication services and coded message delivery:
 - Encrypted communication between criminal organizations
 - Translation services for international criminal contacts
@@ -355,21 +355,21 @@ Communication services and coded message delivery:
 
 ### Criminal Alliances
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Syndicate Enforcers]]**
+**[[02_Worldbuilding/Places/Syndicate Enforcers]]**
 Mutual protection and enforcement cooperation:
 - Shared security personnel during major operations
 - Joint response to external threats
 - Territory respect agreements and boundary maintenance
 - Coordinated pricing and service standards
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Thief]]**
+**[[02_Worldbuilding/Places/Memory Thief]]**
 Memory trading and information extraction services:
 - Shared facilities for memory processing and storage
 - Joint operations for acquiring valuable memories
 - Information verification through memory extraction
 - Protection of memory-based intelligence networks
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Hidden Smuggler's Cove]]**
+**[[02_Worldbuilding/Places/Hidden Smuggler's Cove]]**
 Goods transfer and transportation coordination:
 - Transporting maritime smuggling goods to underground markets
 - Shared storage facilities and security arrangements
@@ -552,14 +552,14 @@ Criminal organizations in the canal system launch a bid to take control of Aquab
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deepmind Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Secret Vault Beneath Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Merchant Riptide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vote Vaults]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Ambush Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[02_Worldbuilding/Places/Deepmind Conspiracy]]
+- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[02_Worldbuilding/Places/Shadow Merchant Riptide]]
+- [[02_Worldbuilding/Places/Vote Vaults]]
+- [[02_Worldbuilding/Quests/Ambush Point]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
 
 ## Player-Facing Summary
 
@@ -575,10 +575,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Market Canals]]
+- [[02_Worldbuilding/Places/Shadow Market Canals]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Hidden Smuggler's Cove]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Thief]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Silent Watcher]]
+- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+- [[02_Worldbuilding/Places/Memory Thief]]
+- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [[02_Worldbuilding/Places/The Silent Watcher]]

@@ -32,7 +32,7 @@ The Carrion Court is an aristocratic hierarchy of undead beings that maintains t
 ## Court Hierarchy
 
 ### The Throne of Bones (Royal Family)
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lich-Queen Morwyn the Deathless]]** - Supreme ruler and ancient sorceress
+- **[[02_Worldbuilding/People/Lich-Queen Morwyn the Deathless]]** - Supreme ruler and ancient sorceress
 - **Prince Consort Valdric the Pale** - Vampire lord and military commander
 - **Princess Seraphine the Weeping** - Banshee heir with prophetic powers
 - **Duke Malachar Graveheart** - Lich advisor and court necromancer
@@ -78,22 +78,22 @@ The Carrion Court is an aristocratic hierarchy of undead beings that maintains t
 ## Territorial Control
 
 ### Primary Domain
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bone Palace of Sorrows]]** - Royal seat and court headquarters
+- **[[02_Worldbuilding/Places/The Bone Palace of Sorrows]]** - Royal seat and court headquarters
 - **The Graveyard Kingdoms** - Network of necropolis cities
 - **Shadow Marshlands** - Haunted swamps under court control
 - **The Mourning Fields** - Battlegrounds where undead armies train
 
 ### Infiltrated Regions
-- Noble families in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] with vampire connections
-- Funeral directors throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- Corrupted priests in various temples across [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Azure Coast]]
+- Noble families in [[02_Worldbuilding/Places/Crystalhaven]] with vampire connections
+- Funeral directors throughout [[02_Worldbuilding/Places/Port Meridian]]
+- Corrupted priests in various temples across [[02_Worldbuilding/Places/The Azure Coast]]
 - Academic positions in universities studying necromantic arts
 
 ### Contested Territories
-- Ongoing conflicts with [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] over burial practices
-- Territorial disputes with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]] over corpse supplies
+- Ongoing conflicts with [[02_Worldbuilding/People/Crystal Wardens]] over burial practices
+- Territorial disputes with [[02_Worldbuilding/Groups/The Crimson Fleet]] over corpse supplies
 - Competition with [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] for criminal influence
-- Religious wars against [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]'s followers
+- Religious wars against [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]'s followers
 
 ## Court Culture & Traditions
 
@@ -124,22 +124,22 @@ The Carrion Court is an aristocratic hierarchy of undead beings that maintains t
 - **Corrupted Noble Houses** - Living aristocrats with undead sympathies
 
 ### Neutral Parties
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]** - Respected for ancient knowledge
+- **[[02_Worldbuilding/People/The Crimson Sage]]** - Respected for ancient knowledge
 - **Ancient Vampire Clans** - Independent undead who acknowledge court legitimacy
 - **Demon Contractors** - Business relationships for specific services
 - **[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Mutual respect for ancient powers
 
 ### Active Enemies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]** - Religious crusade against all undead
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Leading divine opposition
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]** - Coordinating anti-undead military actions
+- **[[02_Worldbuilding/People/Crystal Wardens]]** - Religious crusade against all undead
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Leading divine opposition
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Coordinating anti-undead military actions
 - **Living noble families** - Threatened by undead claims to their titles
 
 ### Complex Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]** - Potential recruitment target
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Corrupt enough to potentially ally
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Honorable enemy worthy of respect
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]** - Economic relationships despite ideological differences
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Potential recruitment target
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Corrupt enough to potentially ally
+- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Honorable enemy worthy of respect
+- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Economic relationships despite ideological differences
 
 ## Recruitment & Conversion
 
@@ -210,21 +210,21 @@ The Carrion Court is an aristocratic hierarchy of undead beings that maintains t
 - Banking relationships maintained across multiple generations
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bone Palace of Sorrows]] - Primary headquarters and royal seat
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Major infiltration and recruitment target
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Noble families with vampire connections
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Azure Coast]] - Network of corrupted temples and burial grounds
+- [[02_Worldbuilding/Places/The Bone Palace of Sorrows]] - Primary headquarters and royal seat
+- [[02_Worldbuilding/Places/Port Meridian]] - Major infiltration and recruitment target
+- [[02_Worldbuilding/Places/Crystalhaven]] - Noble families with vampire connections
+- [[02_Worldbuilding/Places/The Azure Coast]] - Network of corrupted temples and burial grounds
 
 ## Connected NPCs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lich-Queen Morwyn the Deathless]]** - Supreme ruler and founder
+- **[[02_Worldbuilding/People/Lich-Queen Morwyn the Deathless]]** - Supreme ruler and founder
 - **Prince Consort Valdric the Pale** - Military commander and vampire lord
 - **Princess Seraphine the Weeping** - Prophetic banshee heir
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Primary religious opposition
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Primary religious opposition
 
 ## Connected Factions
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Primary ideological and military opposition
+- [[02_Worldbuilding/People/Crystal Wardens]] - Primary ideological and military opposition
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Occasional criminal cooperation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] - Complex economic relationships
+- [[02_Worldbuilding/Groups/Merchant Princes]] - Complex economic relationships
 - [[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]] - Mutual respect for ancient power
 
 ## Immediate Threats
@@ -249,9 +249,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets New]]
+- [[02_Worldbuilding/Places/The Shadow Markets New]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Crystal Wardens]]

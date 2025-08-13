@@ -463,6 +463,6 @@ Legends speak of Surface Signals as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Signals]]
+- [[02_Worldbuilding/Places/Surface Signals]]
 
 <!-- enriched: true -->

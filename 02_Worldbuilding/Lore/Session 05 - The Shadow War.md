@@ -45,9 +45,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]

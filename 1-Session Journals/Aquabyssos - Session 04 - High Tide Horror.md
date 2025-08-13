@@ -8,9 +8,9 @@ danger_level: 9
 date: null
 duration_hours: 4
 encounters:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Hybrid Abominations]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Duchess Duel]]'
+- '[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]'
+- '[[02_Worldbuilding/Lore/Hybrid Abominations]]'
+- '[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Duchess Duel]]'
 gold_gained: 0
 items_gained:
 - Shadow Lock Chains
@@ -18,15 +18,15 @@ items_gained:
 - Nyx's Shadow Blade
 level: 5
 locations_visited:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Market Canals]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Chambers]]'
+- '[[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]'
+- '[[02_Worldbuilding/Places/Shadow Market Canals]]'
+- '[[02_Worldbuilding/Lore/The Convergence Point]]'
+- '[[02_Worldbuilding/Lore/Tidal Chambers]]'
 npcs_met:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Nyx]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Real Marina]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] (United)'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Nyx]]'
+- '[[02_Worldbuilding/Lore/The Real Marina]]'
+- '[[02_Worldbuilding/People/The Scattered Emperor]] (United)'
 obsidianUIMode: preview
 players: []
 plot_threads:
@@ -35,14 +35,14 @@ plot_threads:
 - Emperor's sacrifice
 - Two Nyx dilemma
 - Continental war threat
-primary_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Reflection Pools]]'
+primary_location: '[[02_Worldbuilding/Places/The Reflection Pools]]'
 quests_completed: []
 quests_progressed:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Save Marina]]'
+- '[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]'
+- '[[02_Worldbuilding/Lore/Save Marina]]'
 quests_started:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Unite or Divide]]'
+- '[[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]'
+- '[[02_Worldbuilding/Lore/Unite or Divide]]'
 session: Session-04
 shadow_activity: Critical
 status: complete
@@ -82,15 +82,15 @@ High tide triggers the Shadow Harvest as hundreds of shadows converge on the Ref
 - Shadow independence vs. original survival
 
 ### Prepared Encounters
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]] - Mass operation scene
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Hybrid Abominations]] - Failed merge creatures
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Duchess Duel]] - Nyx vs Shadow Nyx
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]] - Mass operation scene
+- [[02_Worldbuilding/Lore/Hybrid Abominations]] - Failed merge creatures
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Duchess Duel]] - Nyx vs Shadow Nyx
 
 ### Critical NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]] - Original, fighting her shadow
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Nyx]] - The evolution, leading harvest
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] - Considering reunification
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Real Marina]] - Exhausted from shadow battle
+- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Original, fighting her shadow
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Nyx]] - The evolution, leading harvest
+- [[02_Worldbuilding/People/The Scattered Emperor]] - Considering reunification
+- [[02_Worldbuilding/Lore/The Real Marina]] - Exhausted from shadow battle
 
 ## Session Timeline
 
@@ -105,7 +105,7 @@ Water in the Reflection Pools turns pitch black as hundreds of shadows converge.
 ### Key Events
 
 #### Event 1: Race to the Pools
-**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Market Canals]]
+**Location:** [[02_Worldbuilding/Places/Shadow Market Canals]]
 **Challenge:** Navigate through shadow-possessed citizens
 **Mechanics:**
 - Stealth DC 14 to avoid detection
@@ -118,7 +118,7 @@ Water in the Reflection Pools turns pitch black as hundreds of shadows converge.
 - Mass confusion - nobody knows who's who
 
 #### Event 2: The Surgical Theater Horror
-**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+**Location:** [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
 **Scene:** Witness mass shadow transplant operations
 **Horror Elements:**
 - Citizens paralyzed on operating tables
@@ -141,7 +141,7 @@ Water in the Reflection Pools turns pitch black as hundreds of shadows converge.
 - Combat if negotiations fail
 
 #### Event 4: The Emperor's Gambit
-**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Convergence Point]]
+**Location:** [[02_Worldbuilding/Lore/Convergence Point]]
 **Situation:** The Emperor offers to reunite and stop the harvest
 **Cost:** He will die permanently if reunited too long
 **Decision Tree:**
@@ -278,7 +278,7 @@ Each player must declare their position:
 - Shadow activity permanent change
 
 #### The Cliffhanger
-Whatever path chosen, as dawn approaches (impossible at this depth), a message arrives from [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]]:
+Whatever path chosen, as dawn approaches (impossible at this depth), a message arrives from [[02_Worldbuilding/People/Tenebrarum]]:
 
 > "The Shadow Parliament has convened. The vote is unanimous. 
 > For the crime of existence denial, war is declared on all who cast shadows.
@@ -288,7 +288,7 @@ Whatever path chosen, as dawn approaches (impossible at this depth), a message a
 
 Marina (or her shadow) turns to the party: "We need to reach Tenebrarum before—" 
 
-EXPLOSION. The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tube Terminal]] detonates, trapping everyone in Abyssos Prime as shadow forces surround the city. The only way out is through shadow-controlled territory, and every person's shadow is now a potential enemy.
+EXPLOSION. The [[02_Worldbuilding/Places/Pressure Tube Terminal]] detonates, trapping everyone in Abyssos Prime as shadow forces surround the city. The only way out is through shadow-controlled territory, and every person's shadow is now a potential enemy.
 
 ## Combat Tracking
 
@@ -401,14 +401,14 @@ EXPLOSION. The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure T
 ---
 
 ## Related Content
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Parliament]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Continental War]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Harvest]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Harvest]]
+- [[02_Worldbuilding/People/Tenebrarum]]
+- [[02_Worldbuilding/People/Shadow Parliament]]
+- [[02_Worldbuilding/Lore/Continental War]]
+- [[02_Worldbuilding/Lore/The Deep Harvest]]
 
 ## Campaign Continuity
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]] → **Current Session** → [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Session 05 - The Shadow War]]
+- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]] → **Current Session** → [[02_Worldbuilding/Lore/Session 05 - The Shadow War]]
 
 ---
 
@@ -416,15 +416,15 @@ EXPLOSION. The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure T
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Nyx]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Duchess Duel]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tube Terminal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Market Canals]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Nyx]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Duchess Duel]]
+- [[02_Worldbuilding/Lore/Convergence Point]]
+- [[02_Worldbuilding/Places/Pressure Tube Terminal]]
+- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [[02_Worldbuilding/Places/Shadow Market Canals]]

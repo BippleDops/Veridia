@@ -1,34 +1,30 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
 type: Lore
-updated: '2025-08-13T12:34:29.128941+00:00'
+status: complete
+created: '2025-08-11'
+updated: '2025-08-13T01:18:34.942690+00:00'
 world: Both
+tags:
+- active
+- both
+- lore
 ---
-
 
 
 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Customs House]]
+- [[02_Worldbuilding/Lore/Customs House|02 Worldbuilding/Lore/Customs House]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Customs House]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Queen]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[Customs House]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Queen]]
+- [[The Seven Shards]]
 - [[02_Worldbuilding/Lore/Throne Room]]
 
 ## Player-Facing Summary

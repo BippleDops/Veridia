@@ -72,19 +72,19 @@ The Crimson Sage appears as a mysterious scholar researching crystal corruption 
 ## Relationships
 
 ### Current Contacts
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secretly advising (guilt over her corruption)
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]] - Feeds information through research
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secretly advising (guilt over her corruption)
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] - Feeds information through research
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Former high priestess
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Complicated history
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Complicated history
 
 ### The Seven Betrayers (Now Dead)
 - Seeks their descendants for unclear purposes
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] is descendant of one
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]] is descendant of another
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] is descendant of one
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] is descendant of another
 
 ### Complicated Feelings
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]] - Reminds him of simpler times
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Knows his true mission
+- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Reminds him of simpler times
+- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Knows his true mission
 - Humanity in general - Love and resentment
 
 ## Secrets Within Secrets
@@ -105,7 +105,7 @@ The Crimson Sage appears as a mysterious scholar researching crystal corruption 
 
 ## Multiple Identities
 - **The Crimson Sage** - Wandering scholar
-- **Master Aldwyn** - Reclusive researcher in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]]
+- **Master Aldwyn** - Reclusive researcher in [[02_Worldbuilding/Places/The Sundered Peaks]]
 - **The Whispered One** - Mythical figure in criminal underworld
 - **Brother Clemens** - Humble priest in small villages
 
@@ -171,17 +171,17 @@ The Crimson Sage appears as a mysterious scholar researching crystal corruption 
 - His presence should feel significant
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret advisor
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] - Watches with interest
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Knows more than should
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret advisor
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Watches with interest
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Knows more than should
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Former servant
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Sent on quest
+- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Sent on quest
 
 ## Connected Locations
 - Everywhere and nowhere
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shattered Sanctum]] - Hidden sanctuary
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]] - Often found here
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]] - Desert retreat
+- [[02_Worldbuilding/Places/The Shattered Sanctum]] - Hidden sanctuary
+- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Often found here
+- [[02_Worldbuilding/Quests/The Whispering Expanse]] - Desert retreat
 
 ## Complete D&D 5E Statistics
 *Medium humanoid (human, divine), true neutral*
@@ -266,12 +266,12 @@ The transformation from Aetheron the God-King to the Crimson Sage was neither in
 The seven advisors who shattered Aetheron's crown were not acting from pure malice, but from genuine belief that his godhood had become corrupted and dangerous.
 
 ### The Betrayers' Names and Fates
-1. **Marcus the Just** - Ancestor of [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]
+1. **Marcus the Just** - Ancestor of [[02_Worldbuilding/People/High Inquisitor Maltheos]]
 2. **Seraphina the Wise** - Founded the first crystal healing academy
 3. **Gareth Ironheart** - Military commander who died in the Shattering
 4. **Lysander the Scholar** - Created the first crystal research protocols
 5. **Nerissa Tidecaller** - Ancestor of several current noble families
-6. **Valdris the Merchant** - Ancestor of [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
+6. **Valdris the Merchant** - Ancestor of [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
 7. **Thrace the Builder** - Architect of the original crystal containment systems
 
 ### Their Justification
@@ -375,11 +375,11 @@ Roll d12 for type of interaction:
 ## Involved Quests
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Orchestrating
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - May have caused
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Divine Intervention]] - Is the intervention
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Crown's Return]] - Central to restoration plans
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Betrayers' Truth]] - Investigating his past advisors
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Divine Test]] - Challenges he presents to worthy individuals
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Shattered Memories]] - Helping him recover lost knowledge
+- [[02_Worldbuilding/Quests/Quest - Divine Intervention]] - Is the intervention
+- [[02_Worldbuilding/People/Quest - The Crown's Return]] - Central to restoration plans
+- [[02_Worldbuilding/People/Quest - The Betrayers' Truth]] - Investigating his past advisors
+- [[02_Worldbuilding/People/Quest - The Divine Test]] - Challenges he presents to worthy individuals
+- [[02_Worldbuilding/People/Quest - The Shattered Memories]] - Helping him recover lost knowledge
 - All quests, ultimately - His influence touches every major storyline
 
 ## The Living Tapestry of Fate
@@ -412,10 +412,10 @@ This choice will determine not just his fate, but the future of magic, monarchy,
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shattering of the Crown]]
+- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Lore/The Seven Betrayers]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/The Shattering of the Crown]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -434,10 +434,10 @@ Legends speak of The Crimson Sage as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]
+- [[02_Worldbuilding/People/The Crimson Sage]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Divine Intervention]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
+- [[02_Worldbuilding/Quests/Quest - Divine Intervention]]
+- [[02_Worldbuilding/Quests/The Whispering Expanse]]

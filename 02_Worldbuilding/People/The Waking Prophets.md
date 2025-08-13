@@ -110,9 +110,9 @@ The Waking Prophets offer opportunities to explore themes of fanaticism, the pri
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/His Own Shadow]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Oracle]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Sorrowmaster]]
+- [[02_Worldbuilding/People/His Own Shadow]]
+- [[02_Worldbuilding/People/Oracle]]
+- [[02_Worldbuilding/People/The Sorrowmaster]]
 
 
 ## Appearance
@@ -158,6 +158,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Waking Prophets]]
+- [[02_Worldbuilding/People/The Waking Prophets]]
 
 <!-- enriched: true -->

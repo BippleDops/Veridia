@@ -1268,11 +1268,11 @@ Achieve equilibrium:
 ## Integration with Other Systems
 
 This system connects with:
-- [[vault_backup_20250813_073007/03_Mechanics/Complete Pressure Adaptation System]] - Adapted forces in warfare
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merger Mechanics]] - Cross-dimensional conflicts
-- [[vault_backup_20250813_073007/03_Mechanics/Memory Trading Economy]] - Information as resource
-- [[vault_backup_20250813_073007/06_GM_Resources/NPC Quick Reference Guide]] - Individual loyalty within factions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Political Intrigue Session]] - Personal-scale political play
+- [[03_Mechanics/Complete Pressure Adaptation System]] - Adapted forces in warfare
+- [[02_Worldbuilding/Lore/Reality Merger Mechanics]] - Cross-dimensional conflicts
+- [[03_Mechanics/Memory Trading Economy]] - Information as resource
+- [[06_GM_Resources/NPC Quick Reference Guide]] - Individual loyalty within factions
+- [[02_Worldbuilding/Lore/Political Intrigue Session]] - Personal-scale political play
 
 ---
 
@@ -1300,9 +1300,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/06_GM_Resources/NPC Quick Reference Guide]]
+- [[06_GM_Resources/NPC Quick Reference Guide]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/06_GM_Resources/NPC Quick Reference Guide]]
+- [[06_GM_Resources/NPC Quick Reference Guide]]

@@ -23,14 +23,14 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/Places/The Phosphor Markets]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/Places/The Phosphor Markets]]
 
 ## Player-Facing Summary
 

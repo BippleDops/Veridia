@@ -41,7 +41,7 @@ world: Aethermoor
 
 ## Overview
 
-The Market Square of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] stands as the beating commercial heart of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s greatest port city. This massive open plaza, spanning nearly three acres at the city's center, serves as the primary marketplace where merchants, travelers, and citizens from across multiple realms gather to engage in the fundamental activities of civilization: trade, communication, and the exchange of ideas.
+The Market Square of [[02_Worldbuilding/Places/Port Meridian]] stands as the beating commercial heart of [[02_Worldbuilding/Places/Aethermoor]]'s greatest port city. This massive open plaza, spanning nearly three acres at the city's center, serves as the primary marketplace where merchants, travelers, and citizens from across multiple realms gather to engage in the fundamental activities of civilization: trade, communication, and the exchange of ideas.
 
 More than a simple marketplace, the Market Square represents the intersection of cultures, currencies, and concepts that have shaped Port Meridian's identity as a cosmopolitan hub. Here, the crystal-powered innovations of Aethermoor meet the practical needs of daily life, creating a unique synthesis of advanced technology and traditional commerce that attracts visitors from across dimensional boundaries.
 
@@ -318,13 +318,13 @@ The Market Square operates under the **Charter of Fair Trade**, a foundational d
 
 **Regulatory Authority**:
 **The Market Council** - Seven-member governing body responsible for policy and enforcement:
-- **Market Master General** [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sterling Goldbalance]] - Overall administration and final authority
+- **Market Master General** [[02_Worldbuilding/Lore/Sterling Goldbalance]] - Overall administration and final authority
 - **Guild Representative** [[Master Merchant Luna Fairweigh]] - Voice of established merchant interests
-- **Citizen Advocate** [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Counselor Marcus Publicvoice]] - Representative of general population interests
-- **Cultural Liaison** [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ambassador Sage Bridgebuilder]] - Expert in inter-realm relations and customs
-- **Legal Advisor** [[vault_backup_20250813_073007/02_Worldbuilding/Places/Magistrate Justice Lawkeeper]] - Interpretation and enforcement of commercial law
-- **Economic Analyst** [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Treasurer Mint Coinwise]] - Financial oversight and market analysis
-- **Security Coordinator** [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Guard Peacehold]] - Safety and law enforcement coordination
+- **Citizen Advocate** [[02_Worldbuilding/Lore/Counselor Marcus Publicvoice]] - Representative of general population interests
+- **Cultural Liaison** [[02_Worldbuilding/Lore/Ambassador Sage Bridgebuilder]] - Expert in inter-realm relations and customs
+- **Legal Advisor** [[02_Worldbuilding/Places/Magistrate Justice Lawkeeper]] - Interpretation and enforcement of commercial law
+- **Economic Analyst** [[02_Worldbuilding/Lore/Treasurer Mint Coinwise]] - Financial oversight and market analysis
+- **Security Coordinator** [[02_Worldbuilding/People/Captain Guard Peacehold]] - Safety and law enforcement coordination
 
 ### Licensing and Permits
 
@@ -555,27 +555,27 @@ A deal involving artifacts of immense power and value brings representatives fro
 ## Connections and Cross-References
 
 ### Related Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - The greater city containing the Market Square
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian Harbor]] - Underwater connection and source of much trade goods and merchant activity
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Merchant Quarter]] - Residential and business area for wealthy traders
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Noble Quarter]] - Location of the city's wealthiest customers
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Royal Palace]] - Political authority overseeing trade policy
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] - The surface kingdom this market serves
+- [[02_Worldbuilding/Places/Port Meridian]] - The greater city containing the Market Square
+- [[02_Worldbuilding/Places/Port Meridian Harbor]] - Underwater connection and source of much trade goods and merchant activity
+- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]] - Residential and business area for wealthy traders
+- [[02_Worldbuilding/Places/Port Meridian - Noble Quarter]] - Location of the city's wealthiest customers
+- [[02_Worldbuilding/Places/The Royal Palace]] - Political authority overseeing trade policy
+- [[02_Worldbuilding/Places/Aethermoor]] - The surface kingdom this market serves
 
 ### Associated Organizations
 - [[02_Worldbuilding/Groups/Crystal Merchants Guil|02 Worldbuilding/Groups/Crystal Merchants Guil]] - Professional organization for crystal-related commerce
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Trade Commission]] - Government agency regulating inter-realm commerce
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Market Security Force]] - Specialized law enforcement for commercial areas
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cultural_Organizations/Cultural Exchange Society]] - Organization promoting understanding between different realms
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Master Artificers Guild]] - Suppliers of crystal technology and magical items
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]] - Underground competition and alternative trading network
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]] - Security coordination between surface and underwater commerce
+- [[02_Worldbuilding/Lore/Aethermoor Trade Commission]] - Government agency regulating inter-realm commerce
+- [[02_Worldbuilding/Lore/Market Security Force]] - Specialized law enforcement for commercial areas
+- [[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Exchange Society]] - Organization promoting understanding between different realms
+- [[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]] - Suppliers of crystal technology and magical items
+- [[02_Worldbuilding/Places/The Shadow Markets]] - Underground competition and alternative trading network
+- [[02_Worldbuilding/Places/Depth Wardens]] - Security coordination between surface and underwater commerce
 
 ### Key Figures
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sterling Goldbalance]] - Market Master General and chief administrator
+- [[02_Worldbuilding/Lore/Sterling Goldbalance]] - Market Master General and chief administrator
 - [[Master Merchant Luna Fairweigh]] - Guild representative and merchant advocate
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Luminous Sterling]] - Premier crystal jewelry artisan
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Magnus Fairweight]] - Master tool and equipment provider
+- [[02_Worldbuilding/Lore/Luminous Sterling]] - Premier crystal jewelry artisan
+- [[02_Worldbuilding/Lore/Magnus Fairweight]] - Master tool and equipment provider
 
 ## Secrets and Mysteries
 
@@ -585,7 +585,7 @@ A deal involving artifacts of immense power and value brings representatives fro
 Beneath the Market Square lies a hidden vault containing the original founder's treasure, including artifacts and currency from the city's earliest days. Access to this wealth could dramatically shift the economic balance of power.
 
 **The Merchant Conspiracy**
-A secret society of the most powerful merchants coordinates policy and manipulates market conditions to their advantage, operating through seemingly independent decisions that actually follow a coordinated plan with connections to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Royal Palace]].
+A secret society of the most powerful merchants coordinates policy and manipulates market conditions to their advantage, operating through seemingly independent decisions that actually follow a coordinated plan with connections to [[02_Worldbuilding/Places/The Shadow Markets]] and [[02_Worldbuilding/Places/The Royal Palace]].
 
 **The Cultural Artifact**
 Hidden within one of the permanent stalls is an artifact of immense cultural significance to a distant realm, placed there for safekeeping during a long-ago crisis and now forgotten by all who knew of its presence.
@@ -599,7 +599,7 @@ Some merchants seem to always know exactly what prices to set for maximum profit
 Occasionally, merchants disappear overnight, leaving their stalls empty and no trace of where they went. These disappearances follow no apparent pattern and have never been solved.
 
 **The Midnight Market**
-Rumors persist of a secret market that operates in the Square during the darkest hours of night, dealing in goods and services that cannot be traded during daylight hours, possibly connected to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]] operations.
+Rumors persist of a secret market that operates in the Square during the darkest hours of night, dealing in goods and services that cannot be traded during daylight hours, possibly connected to [[02_Worldbuilding/Places/The Shadow Markets]] operations.
 
 ---
 
@@ -608,9 +608,9 @@ Rumors persist of a secret market that operates in the Square during the darkest
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian Harbor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Royal Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]]
+- [[02_Worldbuilding/Places/Port Meridian Harbor]]
+- [[02_Worldbuilding/Places/The Royal Palace]]
+- [[02_Worldbuilding/Places/The Shadow Markets]]
 
 ## Player-Facing Summary
 
@@ -632,12 +632,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Market Square]]
+- [[02_Worldbuilding/Places/Port Meridian - Market Square]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Goldwave Manor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
+- [[02_Worldbuilding/Lore/Goldwave Manor]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Depth Wardens]]
+- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[02_Worldbuilding/Places/Port Meridian]]

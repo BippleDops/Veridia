@@ -19,7 +19,7 @@ world: Aquabyssos
 
 # Aquabyssos Submarines
 
-Pressure-adaptive vessels built for the abyss. These ships integrate [[vault_backup_20250813_073007/03_Mechanics/Complete Pressure Adaptation System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]], [[vault_backup_20250813_073007/03_Mechanics/Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]].
+Pressure-adaptive vessels built for the abyss. These ships integrate [[03_Mechanics/Complete Pressure Adaptation System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[03_Mechanics/Complete Reality Merger System]], [[03_Mechanics/Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], and [[02_Worldbuilding/Lore/Deep Mother]].
 
 ## Pressure-Adaptive Vessels (Examples)
 - Coral Leviathan (Living coral hull; grows new bulkheads at Crush+)

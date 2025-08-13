@@ -2,12 +2,12 @@
 created: '2025-08-09'
 danger_level: 6
 founded: Third Age of Aquabyssos
-government: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]'
+government: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
 leader: '[[02_Worldbuilding/People/Professor Euclid Mindmaze|02 Worldbuilding/People/Professor
   Euclid Mindmaze]]'
-parent_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]'
+parent_location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
 related_entities:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]'
+- '[[02_Worldbuilding/Lore/Deep Mother]]'
 - '[[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
 - '[[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The
   Abyss Beneath Aquabyssos]]'
@@ -45,9 +45,9 @@ world: Aquabyssos
 
 ## Overview
 
-The Abyssal Academy stands as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most prestigious institution of higher learning, though its reputation is equally founded on academic excellence and dangerous research practices. Located in the scholar's district of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]], this imposing structure of living coral and cultivated brain coral serves as a beacon for those seeking knowledge that surface institutions would consider too perilous to pursue.
+The Abyssal Academy stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most prestigious institution of higher learning, though its reputation is equally founded on academic excellence and dangerous research practices. Located in the scholar's district of [[02_Worldbuilding/Places/Abyssos Prime]], this imposing structure of living coral and cultivated brain coral serves as a beacon for those seeking knowledge that surface institutions would consider too perilous to pursue.
 
-Under the guidance of the enigmatic [[02_Worldbuilding/People/Professor Euclid Mindmaze|02 Worldbuilding/People/Professor Euclid Mindmaze]], the Academy has become the primary center for research into abyssal phenomena, psionic theory, and the deep mysteries that even [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] debates in hushed tones. Its graduates often find themselves at the forefront of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most critical missions, though many others are claimed by the very knowledge they seek to master.
+Under the guidance of the enigmatic [[02_Worldbuilding/People/Professor Euclid Mindmaze|02 Worldbuilding/People/Professor Euclid Mindmaze]], the Academy has become the primary center for research into abyssal phenomena, psionic theory, and the deep mysteries that even [[02_Worldbuilding/Places/Parliament of Echoes]] debates in hushed tones. Its graduates often find themselves at the forefront of [[02_Worldbuilding/Places/Aquabyssos]]'s most critical missions, though many others are claimed by the very knowledge they seek to master.
 
 ## Architecture & Layout
 
@@ -66,7 +66,7 @@ The Academy consists of seven interconnected spiral towers, each devoted to a di
 - **The Pressure Testing Chambers**: Where students learn to survive extreme depths
 - **The Memory Pools**: Living libraries that store experiences directly
 - **The Aberrant Menagerie**: Controlled environment for studying dangerous creatures
-- **The Communion Chamber**: Where advanced students attempt contact with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
+- **The Communion Chamber**: Where advanced students attempt contact with [[02_Worldbuilding/Lore/Deep Mother]]
 - **The Resonance Laboratory**: For studying sonic and psychic phenomena
 - **The Surgical Theater**: Medical and biomantic research facility
 
@@ -89,7 +89,7 @@ The Academy consists of seven interconnected spiral towers, each devoted to a di
 
 ### Specialized Disciplines
 **The Deep Calling** - Students who show aptitude for communicating with abyssal entities
-**Memory Architects** - Specialists in consciousness exploration and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Meadows Black Market]]
+**Memory Architects** - Specialists in consciousness exploration and [[02_Worldbuilding/Places/Memory Meadows Black Market]]
 **Pressure Walkers** - Those who can survive and operate in the deepest trenches
 **Synthesis Scholars** - Researchers combining science, magic, and aberrant biology
 
@@ -97,7 +97,7 @@ The Academy consists of seven interconnected spiral towers, each devoted to a di
 
 ### Current Leadership
 **Dean Professor Euclid Mindmaze**: Renowned for her research into psionic labyrinths
-**Vice-Dean Thalasson Deepcurrent**: Former [[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Korvin Blacktide]] turned academic
+**Vice-Dean Thalasson Deepcurrent**: Former [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] turned academic
 **Archivist Prime Nerissa Voidscribe**: Keeper of the Academy's most dangerous knowledge
 
 ### Distinguished Professors
@@ -129,11 +129,11 @@ Students can conduct independent research projects:
 
 ## Notable Alumni
 
-**Admiral Cassandra Stormwind**: Now serves in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] naval forces
-**Sage Lysander Deepthought**: Adviser to the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+**Admiral Cassandra Stormwind**: Now serves in [[02_Worldbuilding/Places/Port Meridian]] naval forces
+**Sage Lysander Deepthought**: Adviser to the [[02_Worldbuilding/Places/Parliament of Echoes]]
 **Dr. Helena Voidwalker**: Leading researcher in interdimensional phenomena
 **The Biomancer Collective**: Graduates who formed [[02_Worldbuilding/Groups/The Shadow Surgeons|02 Worldbuilding/Groups/The Shadow Surgeons]]
-**Memory Merchant Valeria**: Operates in the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Meadows Black Market]]
+**Memory Merchant Valeria**: Operates in the [[02_Worldbuilding/Places/Memory Meadows Black Market]]
 
 ## Dangers & Controversies
 
@@ -155,13 +155,13 @@ The Academy faces ongoing criticism from [[02_Worldbuilding/Groups/The Restorati
 
 1. **The Missing Class**: An entire advanced psionics class has vanished during a field study to [[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The Abyss Beneath Aquabyssos]]
 2. **The Ethical Investigation**: Characters are hired to investigate rumors of illegal experimentation on prisoners
-3. **The Aberrant Outbreak**: Something has escaped from the Academy's menagerie and is terrorizing [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+3. **The Aberrant Outbreak**: Something has escaped from the Academy's menagerie and is terrorizing [[02_Worldbuilding/Places/Abyssos Prime]]
 4. **The Knowledge Thief**: Someone is stealing dangerous research and selling it to hostile factions
 5. **The Professor's Plea**: [[02_Worldbuilding/People/Professor Euclid Mindmaze|02 Worldbuilding/People/Professor Euclid Mindmaze]] secretly contacts the party about a faculty member who may be possessed
 6. **The Final Exam**: Characters must infiltrate the Academy to steal or destroy specific research
 7. **The Recruitment Drive**: The Academy seeks to hire the party as "field researchers" for dangerous expeditions
 8. **The Ethical Dilemma**: A breakthrough discovery could save lives but requires morally questionable methods
-9. **The Rival Institution**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]'s magical colleges want the Academy's forbidden research
+9. **The Rival Institution**: [[02_Worldbuilding/Places/Crystalhaven]]'s magical colleges want the Academy's forbidden research
 10. **The Graduation Crisis**: The Academy's most promising students are being targeted by unknown assassins
 
 ## Academic Resources
@@ -193,9 +193,9 @@ EOF < /dev/null
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sage Lysander Deepthought]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/People/Sage Lysander Deepthought]]
+- [[02_Worldbuilding/Places/Lumengarde]]
+- [[02_Worldbuilding/Places/New Tethys]]
 
 ## Player-Facing Summary
 
@@ -219,4 +219,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Convergence Point]]
+- [[02_Worldbuilding/Lore/Convergence Point]]

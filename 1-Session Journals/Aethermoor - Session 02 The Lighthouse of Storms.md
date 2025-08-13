@@ -33,19 +33,19 @@ The party investigates Whisper Island, discovering Captain Blackwater's crystall
 - First glimpse of Aquabyssos
 
 ### Prepared Encounters
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Mimics]] on ship
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Infected Experiments]] in lighthouse
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crimson Hand Apprentices]] at peak
+- [[02_Worldbuilding/Lore/Crystal Mimics]] on ship
+- [[02_Worldbuilding/Lore/Infected Experiments]] in lighthouse
+- [[02_Worldbuilding/Lore/Crimson Hand Apprentices]] at peak
 
 ### NPCs to Include
 - [[Jasper Three-Eyes Flint]] - Terrified survivor with crucial info
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn's Apprentices]] - Fanatic but doubting
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Mysterious first appearance
+- [[02_Worldbuilding/People/Vex Shadowthorn's Apprentices]] - Fanatic but doubting
+- [[02_Worldbuilding/People/The Crimson Sage]] - Mysterious first appearance
 
 ## Session Timeline
 
 ### Opening Scene
-**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/Places/Whisper Island Docks]]
+**Location:** [[02_Worldbuilding/Places/Whisper Island Docks]]
 **Time:** Dawn, heavy fog
 **Description:**
 The party's boat cuts through unnatural fog thick as wool. Crystalline formations jut from the water like frozen lightning, scraping against the hull. Through the mist, the Seahawk emerges - a Meridian Navy ship half-consumed by purple crystal growth, frozen mid-scream. A figure in red robes watches from the lighthouse peak, then vanishes.
@@ -58,7 +58,7 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 ### Key Events
 
 #### Event 1: The Crystallized Ship
-**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seahawk]]
+**Location:** [[02_Worldbuilding/Lore/The Seahawk]]
 **NPCs:** None (Crystal Mimics disguised as equipment)
 **Outcome:**
 - Explore Captain Blackwater's abandoned vessel
@@ -70,7 +70,7 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 **Key Discovery:** Journal entry: "The seven shards aren't weapons - they're a prison. Something sleeps beneath the waves, and the crystals are its dreams made manifest."
 
 #### Event 2: The Keeper's House
-**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/People/Lighthouse Keeper]]
+**Location:** [[02_Worldbuilding/People/Lighthouse Keeper]]
 **NPCs:** [[Jasper Three-Eyes Flint]]
 **Outcome:**
 - Find Jasper hiding, partially crystallized (30% transformed)
@@ -97,20 +97,20 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 
 #### Event 4: The Resonance Chamber
 **Location:** [[01_Campaigns/Aethermoor/Locations/Lighthouse Peak - Resonance Chamber|01 Campaigns/Aethermoor/Locations/Lighthouse Peak Resonance Chamber]]
-**NPCs:** [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn's Apprentices]] (2)
+**NPCs:** [[02_Worldbuilding/People/Vex Shadowthorn's Apprentices]] (2)
 **Outcome:**
 - Massive 20-foot crystal formation pulsing with energy
 - Apprentices conducting ritual to "call the Deep God"
 - Can attempt to reason (Persuasion DC 20) or fight
 - Disrupting ritual triggers vision sequence
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] appears briefly to help if needed
+- [[02_Worldbuilding/People/The Crimson Sage]] appears briefly to help if needed
 
 ### The Shared Vision
 When the ritual is disrupted, everyone experiences:
 > *You're falling... no, sinking. The world inverts. Below becomes above. You see a vast city of impossible architecture - spires that grow downward, water that flows upward, streets that exist in multiple dimensions simultaneously. Thousands of crystallized figures are arranged in prayer formation. A voice speaks in your minds, not in words but in pure meaning: "The Seventh Shard awakens. The Drowned God stirs. The surface world's time grows short."*
 
 ### Closing Scene
-**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/People/Lighthouse Keeper]]
+**Location:** [[02_Worldbuilding/People/Lighthouse Keeper]]
 **Cliffhanger:**
 The party awakens from the vision to find three days have passed. Jasper is gone, leaving only a note: "They know you're here now. Both of them - the thing below and the one who wears the crown. The city prepares for war with itself. Trust the Sage, fear the Queen, find the Seven before the Festival. PS - I took one shard. Safer with me running than you fighting."
 
@@ -119,9 +119,9 @@ The party awakens from the vision to find three days have passed. Jasper is gone
 ### Combat
 | Encounter | Location | Difficulty | Outcome |
 |-----------|----------|------------|---------|
-| [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Mimics]] (3) | [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seahawk]] cargo hold | Medium | Morphing ship equipment |
-| [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Infected Experiments]] (2) | Lighthouse second floor | Hard | Multi-attack crystalline claws |
-| [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crimson Hand Apprentices]] (2) | Resonance Chamber | Hard | Level 5 spellcasters |
+| [[02_Worldbuilding/Lore/Crystal Mimics]] (3) | [[02_Worldbuilding/Lore/The Seahawk]] cargo hold | Medium | Morphing ship equipment |
+| [[02_Worldbuilding/Lore/Infected Experiments]] (2) | Lighthouse second floor | Hard | Multi-attack crystalline claws |
+| [[02_Worldbuilding/Lore/Crimson Hand Apprentices]] (2) | Resonance Chamber | Hard | Level 5 spellcasters |
 
 ### Social
 | NPC | Location | Purpose | Outcome |
@@ -131,11 +131,11 @@ The party awakens from the vision to find three days have passed. Jasper is gone
 
 ## Quest Progress
 ### Started
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whisper Island Mystery]] - Uncover lighthouse experiments
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Captain Blackwater's Fate]] - Learn what happened to missing captain
+- [[02_Worldbuilding/Places/The Whisper Island Mystery]] - Uncover lighthouse experiments
+- [[02_Worldbuilding/Quests/Captain Blackwater's Fate]] - Learn what happened to missing captain
 
 ### Advanced
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Investigate the Crystal Plague]] - Discovered it's not a disease but a calling
+- [[02_Worldbuilding/People/Investigate the Crystal Plague]] - Discovered it's not a disease but a calling
 
 ### Completed
 None this session
@@ -171,7 +171,7 @@ Per Player: 200-250 (depending on party size)
 
 ### Relationship Changes
 - [[Jasper Three-Eyes Flint]] - Disposition varies based on treatment
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Mysterious but helpful (+1 if noticed)
+- [[02_Worldbuilding/People/The Crimson Sage]] - Mysterious but helpful (+1 if noticed)
 
 ## World Changes
 - Lighthouse experiments disrupted
@@ -202,7 +202,7 @@ Per Player: 200-250 (depending on party size)
 7. Festival is significant deadline
 
 ## Hooks for Next Session
-1. Emergency council in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+1. Emergency council in [[02_Worldbuilding/Places/Port Meridian]]
 2. Three days missing - what happened?
 3. Jasper has one shard and is running
 4. Festival deadline approaching
@@ -230,7 +230,7 @@ Per Player: 200-250 (depending on party size)
 
 ## Prep for Next Session
 - [ ] Create emergency council scenario
-- [ ] Detail Lord [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aurelius Goldwave]] murder scene
+- [ ] Detail Lord [[02_Worldbuilding/Lore/Aurelius Goldwave]] murder scene
 - [ ] Prepare faction representatives
 - [ ] Plan political intrigue encounters
 - [ ] Develop "3 days of events" timeline
@@ -250,16 +250,16 @@ Per Player: 200-250 (depending on party size)
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Captain Blackwater's Fate]]
+- [[02_Worldbuilding/Quests/Captain Blackwater's Fate]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crimson Hand Apprentices]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Mimics]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Investigate the Crystal Plague]]
+- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[02_Worldbuilding/Lore/Crimson Hand Apprentices]]
+- [[02_Worldbuilding/Lore/Crystal Mimics]]
+- [[02_Worldbuilding/People/Investigate the Crystal Plague]]
 - [[Jasper Three-Eyes Flint]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn's Apprentices]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whisper Island Mystery]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Captain Blackwater's Fate]]
+- [[02_Worldbuilding/People/Vex Shadowthorn's Apprentices]]
+- [[02_Worldbuilding/Places/The Whisper Island Mystery]]
+- [[02_Worldbuilding/Quests/Captain Blackwater's Fate]]

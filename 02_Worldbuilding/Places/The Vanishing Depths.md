@@ -23,7 +23,7 @@ world: Both
 # The Vanishing Depths
 
 ## Overview
-The Vanishing Depths represent one of the most dangerous and unpredictable regions in all of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - an area where reality itself becomes unstable, constantly shifting between different states of existence. Sometimes the water is there, sometimes it isn't. Sometimes gravity works normally, other times it flows sideways or upward. The area appears to be the result of dimensional tears caused by [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]], where the barriers between planes of existence have worn dangerously thin.
+The Vanishing Depths represent one of the most dangerous and unpredictable regions in all of [[02_Worldbuilding/Places/Aquabyssos]] - an area where reality itself becomes unstable, constantly shifting between different states of existence. Sometimes the water is there, sometimes it isn't. Sometimes gravity works normally, other times it flows sideways or upward. The area appears to be the result of dimensional tears caused by [[02_Worldbuilding/Places/The Great Drowning]], where the barriers between planes of existence have worn dangerously thin.
 
 ## The Nature of the Instability
 
@@ -59,9 +59,9 @@ Labyrinthine structures that exist only as potential - they become real when obs
 ## Inhabitants and Entities
 
 ### The Constant Explorers
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Navigator Flux Timewalker]]**: A researcher who has been exploring the Depths for subjective centuries but only minutes of real time. They exist partially outside normal time and can provide guidance, though their advice often relates to events that haven't happened yet.
+**[[02_Worldbuilding/Places/Navigator Flux Timewalker]]**: A researcher who has been exploring the Depths for subjective centuries but only minutes of real time. They exist partially outside normal time and can provide guidance, though their advice often relates to events that haven't happened yet.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Probability Merchant]]**: A trader who exists in multiple realities simultaneously, selling items that might exist, once existed, or will exist. They accept payment in possibilities, memories, or temporal paradoxes rather than conventional currency.
+**[[02_Worldbuilding/Places/The Probability Merchant]]**: A trader who exists in multiple realities simultaneously, selling items that might exist, once existed, or will exist. They accept payment in possibilities, memories, or temporal paradoxes rather than conventional currency.
 
 ### The Reality Refugees
 People and creatures from other dimensions who became trapped in the Depths when reality shifts connected their home planes to this area. They include:
@@ -79,7 +79,7 @@ Creatures that have adapted to feed on reality distortions themselves. These inc
 **Possibility Spiders**: Web-spinning entities that trap potential futures in crystalline nets
 
 ### The Lost Expedition
-An entire research team from [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]] that has been missing for three years, though they experience it as three hours. They've established a base camp in a relatively stable pocket and are desperately trying to map safe routes out while conducting valuable research on dimensional mechanics.
+An entire research team from [[02_Worldbuilding/Places/New Tethys]] that has been missing for three years, though they experience it as three hours. They've established a base camp in a relatively stable pocket and are desperately trying to map safe routes out while conducting valuable research on dimensional mechanics.
 
 ## Hazards and Dangers
 
@@ -148,7 +148,7 @@ Movement in the Depths doesn't follow normal rules:
 Crystallized moments of choice that can be shattered to reroll any die result. Each crystal contains a specific decision point from history and using it slightly alters the timeline. Extremely valuable but dangerous to collect in large quantities.
 
 ### Temporal Anchors
-Devices that create small zones of stable time and space, essential for safe exploration. These rare artifacts were created before [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] and cannot be replicated with current magical knowledge.
+Devices that create small zones of stable time and space, essential for safe exploration. These rare artifacts were created before [[02_Worldbuilding/Places/The Great Drowning]] and cannot be replicated with current magical knowledge.
 
 ### Reality Compasses
 Instruments that point toward stable reality rather than magnetic north. They help navigators avoid the worst instabilities but sometimes point in impossible directions like "up through time" or "sideways into yesterday."
@@ -161,23 +161,23 @@ Pearls that contain entire pocket dimensions where refugees from collapsed reali
 
 ## Connected Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Primordial Vaults]]
+### [[02_Worldbuilding/Places/The Primordial Vaults]]
 Some believe the Vanishing Depths are connected to the deepest levels of the Vaults, where reality was first damaged. Temporal explorers occasionally report finding passages that lead between the two locations.
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
+### [[02_Worldbuilding/Places/New Tethys]]
 The city's research institutions send regular (though carefully planned) expeditions to study the Depths. The knowledge gained has advanced their understanding of memory magic and dimensional theory significantly.
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]  
+### [[02_Worldbuilding/Places/Aethermoor]]  
 Reality tears occasionally connect the Depths to the surface world, creating brief portals that allow limited travel between realms. These connections are unpredictable and extremely dangerous to use.
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+### [[02_Worldbuilding/Places/The Hadal Depths]]
 The boundary between the Vanishing Depths and the Hadal Depths is unclear, as both locations exist partially outside normal reality. Some scholars believe they may be the same place viewed from different dimensional perspectives.
 
 ## Quest Hooks and Adventures
 
 ### The Stabilization Project
 **Level**: 13-17  
-[[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]] scientists believe they've found a way to permanently stabilize a section of the Depths, but they need adventurers to place quantum anchors at specific coordinates that keep changing as reality shifts.
+[[02_Worldbuilding/Places/New Tethys]] scientists believe they've found a way to permanently stabilize a section of the Depths, but they need adventurers to place quantum anchors at specific coordinates that keep changing as reality shifts.
 
 ### The Paradox Investigation  
 **Level**: 11-15  
@@ -212,19 +212,19 @@ A valuable artifact was lost in the Depths decades ago, but temporal distortions
 ## Research Value and Scientific Interest
 
 ### Dimensional Studies
-The Depths provide unparalleled opportunities to study the fundamental nature of reality, space, and time. Researchers from across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] come here despite the dangers to advance their understanding of:
+The Depths provide unparalleled opportunities to study the fundamental nature of reality, space, and time. Researchers from across [[02_Worldbuilding/Places/Aquabyssos]] come here despite the dangers to advance their understanding of:
 - Planar mechanics and dimensional travel
 - The relationship between magic and reality
 - Time travel theory and temporal paradox resolution
 - The aftereffects of massive magical catastrophes
 
 ### Historical Preservation
-The temporal anomalies in the Depths preserve moments from throughout history, including events from before [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]]. This makes the area invaluable for historians and archaeologists willing to brave its dangers.
+The temporal anomalies in the Depths preserve moments from throughout history, including events from before [[02_Worldbuilding/Places/The Great Drowning]]. This makes the area invaluable for historians and archaeologists willing to brave its dangers.
 
 ## Secrets
 > [!warning] DM Only
 > - The Vanishing Depths are slowly expanding as reality becomes less stable over time
-> - [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] was not a single event but an ongoing temporal paradox centered here
+> - [[02_Worldbuilding/Places/The Great Drowning]] was not a single event but an ongoing temporal paradox centered here
 > - One of the Null Spheres contains the original timeline where the drowning never happened
 > - The Paradox Engine is actually a person - someone who became so unstable they can alter reality through will alone
 > - Every creature that dies in the Depths creates a new dimensional fracture, making the problem progressively worse
@@ -240,7 +240,7 @@ The Vanishing Depths work best as:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/Places/New Tethys]]
 
 ## Player-Facing Summary
 
@@ -262,6 +262,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Vanishing Depths]]
+- [[02_Worldbuilding/Places/The Vanishing Depths]]
 
 <!-- enriched: true -->

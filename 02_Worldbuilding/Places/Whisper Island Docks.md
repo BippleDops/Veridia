@@ -23,13 +23,13 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]
 
 ## Player-Facing Summary
 

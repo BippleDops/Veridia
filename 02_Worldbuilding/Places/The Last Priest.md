@@ -140,7 +140,7 @@ The Last Priest embodies themes of faith versus authority, cultural preservation
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Old Valdris]]
+- [[02_Worldbuilding/Places/Old Valdris]]
 
 
 ## History
@@ -182,6 +182,6 @@ Legends speak of The Last Priest as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Last Priest]]
+- [[02_Worldbuilding/Places/The Last Priest]]
 
 <!-- enriched: true -->

@@ -23,14 +23,14 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/Port Meridian]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Tidal Council]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]
+- [[02_Worldbuilding/People/The Tidal Council]]
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

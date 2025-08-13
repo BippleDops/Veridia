@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of Crimes]]
+- [[02_Worldbuilding/Lore/Timeline of Crimes]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of Crimes]]
+- [[02_Worldbuilding/Lore/Timeline of Crimes]]
 
 ## Player-Facing Summary
 

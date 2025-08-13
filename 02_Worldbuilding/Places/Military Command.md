@@ -23,14 +23,14 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Military Command]]
+- [[02_Worldbuilding/Lore/Military Command]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
 - [[Keeper of the Past, Elderly Morgan]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]
 
 ## Player-Facing Summary
 

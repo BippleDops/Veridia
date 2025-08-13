@@ -333,12 +333,12 @@ When describing the cathedral's aberrant architecture:
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reality Breach Locations]]
-- [[vault_backup_20250813_073007/03_Mechanics/Deep Mother Sanity System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Prophecies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Lore]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/High Oracle Serenity Deepcall]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+- [[02_Worldbuilding/Places/Reality Breach Locations]]
+- [[03_Mechanics/Deep Mother Sanity System]]
+- [[02_Worldbuilding/Lore/The Deep Prophecies]]
+- [[02_Worldbuilding/Lore/Deep Mother Lore]]
+- [[02_Worldbuilding/Groups/High Oracle Serenity Deepcall]]
 - [[Brother Pelagios Irondeep]]
 - [[Complete Deep Mother Subsystem]]
 - [[Transformation Mechanics]]

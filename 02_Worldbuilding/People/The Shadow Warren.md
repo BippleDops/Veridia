@@ -339,10 +339,10 @@ Warren's story can evolve throughout a campaign:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
+- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
 
 ## Player-Facing Summary
 
@@ -364,6 +364,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Warren]]
+- [[02_Worldbuilding/People/The Shadow Warren]]
 
 <!-- enriched: true -->

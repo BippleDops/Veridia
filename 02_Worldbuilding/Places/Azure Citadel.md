@@ -33,26 +33,26 @@ world: Aquabyssos
 # Azure Citadel
 
 **Type:** Military Fortress/Government Complex  
-**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Strategic Defense Position  
-**Government:** [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] Military Authority  
+**Location:** [[02_Worldbuilding/Places/Aquabyssos]] - Strategic Defense Position  
+**Government:** [[02_Worldbuilding/Places/Parliament of Echoes]] Military Authority  
 **Population:** ~2,500 (military personnel, government officials, support staff)  
 **Notable Features:** Underwater fortress, crystal-powered defenses, temporal communication arrays
 
 ## Overview
-The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s primary military headquarters and governmental stronghold. Built into a natural underwater mountain formation, its blue-crystal walls glow with protective enchantments while its strategic position allows oversight of all major shipping lanes and deep-sea approaches. From here, [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]] coordinates the realm's defenses against threats from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]].
+The Azure Citadel stands as [[02_Worldbuilding/Places/Aquabyssos]]'s primary military headquarters and governmental stronghold. Built into a natural underwater mountain formation, its blue-crystal walls glow with protective enchantments while its strategic position allows oversight of all major shipping lanes and deep-sea approaches. From here, [[02_Worldbuilding/People/Admiral Thorne Blackwater]] coordinates the realm's defenses against threats from [[02_Worldbuilding/Places/The Hadal Depths]].
 
 ## History and Construction
 
 ### Original Foundation
 **Built**: 150 years after the Great Drowning  
-**Purpose**: Central command for the newly organized [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]]  
+**Purpose**: Central command for the newly organized [[02_Worldbuilding/Places/Depth Wardens]]  
 **Architect**: Master Engineer Coral Deepwright (whose descendants still maintain the facility)  
 **Materials**: Living coral framework reinforced with pressure-resistant crystals  
 **Design Philosophy**: "Impregnable from below, invisible from above"
 
 ### Major Expansions
-**The Parliamentary Wing (50 years ago)**: Added civilian government facilities when [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] needed secure meeting spaces  
-**The Deep Watch Tower (30 years ago)**: Extended monitoring capabilities to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]  
+**The Parliamentary Wing (50 years ago)**: Added civilian government facilities when [[02_Worldbuilding/Places/Parliament of Echoes]] needed secure meeting spaces  
+**The Deep Watch Tower (30 years ago)**: Extended monitoring capabilities to [[02_Worldbuilding/Places/The Hadal Depths]]  
 **The Crystal Communications Array (10 years ago)**: Enables real-time contact with surface world  
 **The Emergency Bunkers (5 years ago)**: Classified facilities for catastrophic scenarios
 
@@ -61,16 +61,16 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 ### The Outer Fortress
 **The Approach**: Narrow canyon that funnels attackers into overlapping fields of fire  
 **Gate System**: Triple barriers of crystal, coral, and living water  
-**Perimeter Defenses**: Automated turrets powered by [[vault_backup_20250813_073007/02_Worldbuilding/People/Aether Crystal]] fragments  
+**Perimeter Defenses**: Automated turrets powered by [[02_Worldbuilding/People/Aether Crystal]] fragments  
 **Early Warning Network**: Sensory arrays detecting movement for miles in all directions
 
 ### The Central Citadel (5 Levels)
 
 **Level 1 - Surface Interface:**
 - **Reception Hall**: Where surface diplomats and traders are received
-- **Cultural Exchange Center**: Displays showing [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] history and achievements
+- **Cultural Exchange Center**: Displays showing [[02_Worldbuilding/Places/Aquabyssos]] history and achievements
 - **Diplomatic Quarters**: Secure accommodations for important guests
-- **Surface Communications**: Equipment for maintaining contact with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- **Surface Communications**: Equipment for maintaining contact with [[02_Worldbuilding/Places/Aethermoor]]
 
 **Level 2 - Government Operations:**
 - **Parliamentary Chambers**: Secure meeting spaces for government officials
@@ -79,13 +79,13 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 - **Emergency Command**: Backup government functions during crisis
 
 **Level 3 - Military Command:**
-- **Admiral's Office**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]'s personal command center
-- **Operations Center**: Coordination of all [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]] activities
+- **Admiral's Office**: [[02_Worldbuilding/People/Admiral Thorne Blackwater]]'s personal command center
+- **Operations Center**: Coordination of all [[02_Worldbuilding/Places/Depth Wardens]] activities
 - **Communications Hub**: Contact with all military units and outposts
 - **Tactical Planning**: War gaming and strategic analysis
 
 **Level 4 - Deep Operations:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Lock]] Monitoring**: Oversight of the barrier protecting from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- **[[02_Worldbuilding/Places/The Lock]] Monitoring**: Oversight of the barrier protecting from [[02_Worldbuilding/Places/The Hadal Depths]]
 - **Deep Scout Coordination**: Command post for extreme depth reconnaissance
 - **Threat Assessment**: Analysis of dangers from the deepest waters
 - **Special Operations**: Classified military programs
@@ -107,9 +107,9 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 ## Military Organization
 
 ### Command Structure
-**Supreme Commander**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]  
+**Supreme Commander**: [[02_Worldbuilding/People/Admiral Thorne Blackwater]]  
 **Deputy Commanders**:
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Commander Drake Pressureborn]]**: Deep Operations Division
+- **[[02_Worldbuilding/Places/Commander Drake Pressureborn]]**: Deep Operations Division
 - **Captain Regina Shieldwall**: Fortress Defense Division
 - **Major Marcus Depthstrike**: Special Operations Division
 - **Colonel Sarah Tidecaller**: Intelligence Division
@@ -126,20 +126,20 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 **Crystal Weapons**: Magically enhanced armaments for combat effectiveness  
 **Leviathan Vehicles**: Submarine craft for transportation and combat  
 **Communication Crystals**: Instant contact across vast underwater distances  
-**Defensive Constructs**: Automated guardians powered by [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
+**Defensive Constructs**: Automated guardians powered by [[02_Worldbuilding/Items/Aether Crystals]]
 
 ## Services and Resources Available
 
 ### Military Services
-**Equipment and Armory**: Access to the most advanced underwater military equipment in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Equipment and Armory**: Access to the most advanced underwater military equipment in [[02_Worldbuilding/Places/Aquabyssos]]
 - **Depth Suits**: Pressure-resistant armor allowing operation at any depth
-- **Crystal Weapons**: Magically enhanced arms powered by [[vault_backup_20250813_073007/02_Worldbuilding/People/Aether Crystal]] fragments  
+- **Crystal Weapons**: Magically enhanced arms powered by [[02_Worldbuilding/People/Aether Crystal]] fragments  
 - **Leviathan Vehicles**: Submersible craft for transportation and combat
 - **Communication Arrays**: Instant contact with any point in the realm
 
 **Training Facilities**: World-class military education and combat preparation
 - **Deep Combat School**: Training for fighting in extreme underwater conditions
-- **Leadership Academy**: Officer training for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]] command positions
+- **Leadership Academy**: Officer training for [[02_Worldbuilding/Places/Depth Wardens]] command positions
 - **Intelligence School**: Spy training and information analysis techniques
 - **Engineering Corps**: Technical training for maintaining citadel systems
 
@@ -157,7 +157,7 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 - **Strategic Planning**: Long-term policy development and implementation
 
 **Legal Services**: Military justice and government legal support
-- **Court Martial**: Military legal proceedings for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]] personnel
+- **Court Martial**: Military legal proceedings for [[02_Worldbuilding/Places/Depth Wardens]] personnel
 - **Security Clearance**: Background investigations and loyalty verification
 - **Contract Negotiation**: International treaties and trade agreements
 - **Constitutional Interpretation**: Legal guidance on government powers
@@ -170,13 +170,13 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 - **Vehicle Development**: Better submarines and underwater transport
 
 **Intelligence Services**: Information gathering and analysis
-- **Threat Assessment**: Evaluation of dangers from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- **Threat Assessment**: Evaluation of dangers from [[02_Worldbuilding/Places/The Hadal Depths]]
 - **Foreign Intelligence**: Information about other realms and their activities
 - **Counter-Intelligence**: Protection against espionage and infiltration
 - **Technical Intelligence**: Analysis of captured enemy equipment and technology
 
 ### Civilian Services (Limited Access)
-**Diplomatic Relations**: Interface between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and other realms
+**Diplomatic Relations**: Interface between [[02_Worldbuilding/Places/Aquabyssos]] and other realms
 - **Embassy Functions**: Reception and accommodation of foreign diplomats
 - **Cultural Exchange**: Programs promoting understanding between realms
 - **Trade Negotiations**: Commercial agreements and economic partnerships
@@ -191,7 +191,7 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 ## Government Functions
 
 ### Parliamentary Operations
-**Secure Sessions**: When [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] needs protected meeting space  
+**Secure Sessions**: When [[02_Worldbuilding/Places/Parliament of Echoes]] needs protected meeting space  
 **Crisis Government**: Emergency command structure during national emergencies  
 **Diplomatic Security**: Protection for high-level negotiations and treaties  
 **Intelligence Briefings**: Regular updates on threats to national security
@@ -199,7 +199,7 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 ### Administrative Departments
 **Military Affairs**: Coordination between government and armed forces  
 **Foreign Relations**: Management of relationships with other realms  
-**Internal Security**: Protection against threats from within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]  
+**Internal Security**: Protection against threats from within [[02_Worldbuilding/Places/Aquabyssos]]  
 **Emergency Management**: Disaster response and crisis coordination
 
 ## Daily Life and Operations
@@ -223,11 +223,11 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 ## Strategic Importance
 
 ### Military Advantages
-**Central Position**: Can coordinate defense of all [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] territories  
-**Deep Access**: Unique ability to monitor and respond to threats from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]  
+**Central Position**: Can coordinate defense of all [[02_Worldbuilding/Places/Aquabyssos]] territories  
+**Deep Access**: Unique ability to monitor and respond to threats from [[02_Worldbuilding/Places/The Hadal Depths]]  
 **Communication Hub**: Links all military units and government facilities  
 **Resource Concentration**: Largest cache of military equipment and supplies  
-**Symbolic Power**: Represents [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] strength and determination
+**Symbolic Power**: Represents [[02_Worldbuilding/Places/Aquabyssos]] strength and determination
 
 ### Defensive Capabilities
 **Structural Integrity**: Can withstand attacks from creatures of enormous size and power  
@@ -239,10 +239,10 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 ## Current Threats and Concerns
 
 ### External Dangers
-**Deep Incursions**: Increased activity from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]] threatening all defenses  
-**Surface Tensions**: Potential conflict with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] requiring military preparation  
-**Dimensional Instabilities**: Reality tears near [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Lock]] causing unpredictable effects  
-**Resource Competition**: Other powers seeking control of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] assets
+**Deep Incursions**: Increased activity from [[02_Worldbuilding/Places/The Hadal Depths]] threatening all defenses  
+**Surface Tensions**: Potential conflict with [[02_Worldbuilding/Places/Aethermoor]] requiring military preparation  
+**Dimensional Instabilities**: Reality tears near [[02_Worldbuilding/Places/The Lock]] causing unpredictable effects  
+**Resource Competition**: Other powers seeking control of [[02_Worldbuilding/Places/Aquabyssos]] assets
 
 ### Internal Challenges
 **Political Pressure**: Civilian government sometimes conflicts with military priorities  
@@ -254,20 +254,20 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 ## Notable Locations Within
 
 ### The Crystal War Room
-**Description**: Central command facility with holographic displays of all [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] territories  
+**Description**: Central command facility with holographic displays of all [[02_Worldbuilding/Places/Aquabyssos]] territories  
 **Features**: Real-time tactical information, communication with all military units  
 **Technology**: Advanced crystal arrays showing troop positions, threat assessments, resource allocation  
 **Access**: Restricted to highest-ranking military and government officials
 
 ### The Hall of Heroes
-**Purpose**: Memorial honoring [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]] who died protecting the realm  
+**Purpose**: Memorial honoring [[02_Worldbuilding/Places/Depth Wardens]] who died protecting the realm  
 **Displays**: Crystal monuments preserving memories and achievements of fallen warriors  
 **Ceremonies**: Regular commemorations and military promotions held here  
 **Inspiration**: Serves as reminder of duty and sacrifice to current personnel
 
 ### The Deep Observatory
-**Function**: Monitoring station watching [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]] for signs of danger  
-**Equipment**: Most advanced sensory equipment available to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]  
+**Function**: Monitoring station watching [[02_Worldbuilding/Places/The Hadal Depths]] for signs of danger  
+**Equipment**: Most advanced sensory equipment available to [[02_Worldbuilding/Places/Aquabyssos]]  
 **Staffing**: Specialists trained to recognize threats normal people might miss  
 **Importance**: First line of defense against the most dangerous creatures in existence
 
@@ -284,22 +284,22 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 **Contents**: Weapons and plans for scenarios too terrible to discuss publicly  
 **Examples**: 
 - Plans for evacuating entire population to surface world
-- Weapons capable of destroying [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Lock]] if it becomes corrupted
-- Diplomatic agreements with entities from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
-- Methods for severing connection to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] permanently
-- Protocols for awakening ancient [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Leviathan]] guardians
-- Doomsday device targeting the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The World Tree]] roots
-- Emergency alliance treaties with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]
-- Backup consciousness storage for critical personnel in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]] archives
+- Weapons capable of destroying [[02_Worldbuilding/Places/The Lock]] if it becomes corrupted
+- Diplomatic agreements with entities from [[02_Worldbuilding/Places/The Hadal Depths]]
+- Methods for severing connection to [[02_Worldbuilding/Places/Aethermoor]] permanently
+- Protocols for awakening ancient [[02_Worldbuilding/Lore/Leviathan]] guardians
+- Doomsday device targeting the [[02_Worldbuilding/Lore/The World Tree]] roots
+- Emergency alliance treaties with [[02_Worldbuilding/Groups/The Crystal Throne]]
+- Backup consciousness storage for critical personnel in [[02_Worldbuilding/Places/Memory Farmers]] archives
 
 ### Project Deep Strike
 **Classification**: Beyond top secret  
-**Purpose**: Preparation for offensive war against [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]  
+**Purpose**: Preparation for offensive war against [[02_Worldbuilding/Places/The Hadal Depths]]  
 **Resources**: Secret development of weapons specifically designed to fight cosmic horrors  
 **Risk**: If discovered, could trigger premature war with entities beyond human comprehension
 
 ### The Admiral's Burden
-**Truth**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]] is slowly dying from exposure to deep horrors  
+**Truth**: [[02_Worldbuilding/People/Admiral Thorne Blackwater]] is slowly dying from exposure to deep horrors  
 **Timeline**: Has approximately 18 months before psychological collapse  
 **Preparation**: Secretly training replacement while maintaining appearance of stability  
 **Knowledge**: Only three people know the truth; revelation would cause military crisis
@@ -307,7 +307,7 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 ## Adventure Opportunities
 
 ### Military Missions
-- **Deep Reconnaissance**: Scouting missions to investigate threats in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- **Deep Reconnaissance**: Scouting missions to investigate threats in [[02_Worldbuilding/Places/The Hadal Depths]]
 - **Diplomatic Security**: Protecting important negotiations with foreign powers
 - **Special Operations**: Classified missions that require extraordinary capabilities
  - **Equipment Testing**: Field trials of experimental military technology
@@ -327,59 +327,59 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 
 ## Relationships with Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Lock]]
+### [[02_Worldbuilding/Places/The Lock]]
 **Connection**: Primary monitoring and support facility  
 **Responsibility**: Provides personnel, supplies, and emergency response  
 **Importance**: Failure of The Lock would make Azure Citadel the last line of defense
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+### [[02_Worldbuilding/Places/Parliament of Echoes]]
 **Relationship**: Uneasy cooperation between military and civilian authority  
 **Tensions**: Different priorities sometimes create conflict  
 **Integration**: Government wing allows better coordination during emergencies
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+### [[02_Worldbuilding/Places/Abyssos Prime]]
 **Role**: Military protection for the capital city  
 **Coordination**: Regular communication and resource sharing  
 **Evacuation**: Emergency plans to defend or evacuate government if necessary
 
-### Surface World ([[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]])
+### Surface World ([[02_Worldbuilding/Places/Aethermoor]])
 **Diplomacy**: Manages military aspects of inter-realm relations  
 **Intelligence**: Monitors surface world for potential threats or opportunities  
 **Cooperation**: Joint operations and information sharing when interests align
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]]
+### [[02_Worldbuilding/Places/The Gilded Shard]]
 **Academic Exchange**: Military officers receive advanced magical training
 **Research Cooperation**: Joint development of crystal-based military technology
 **Intelligence Sharing**: Information about dimensional threats and magical phenomena
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+### [[02_Worldbuilding/Places/Memory Farmers]]
 **Information Network**: Critical intelligence about underwater threats and anomalies
 **Resource Trading**: Exchange of rare materials and specialized knowledge
 **Joint Operations**: Collaborative missions to investigate strange phenomena
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sunken Bazaar]]
+### [[02_Worldbuilding/Lore/The Sunken Bazaar]]
 **Supply Chain**: Primary source for specialized equipment and rare materials
-**Intelligence Hub**: Merchants provide information about activities throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Intelligence Hub**: Merchants provide information about activities throughout [[02_Worldbuilding/Places/Aquabyssos]]
 **Economic Protection**: Military ensures safe passage for critical trade routes
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Coral Gardens]]
+### [[02_Worldbuilding/Lore/The Coral Gardens]]
 **Recruitment**: Source of new personnel with natural aquatic abilities
 **Strategic Resources**: Coral-based construction materials and biological defenses
 **Cultural Relations**: Maintaining positive relationships with nature-aligned communities
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The World Tree]]
+### [[02_Worldbuilding/Lore/The World Tree]]
 **Strategic Monitoring**: Observation of the great tree's health and any threats to its stability
 **Resource Coordination**: Protection of lumber and magical essence harvesting operations
 **Environmental Intelligence**: Early warning system for realm-wide magical disturbances
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Leviathan]] Clans
+### [[02_Worldbuilding/Lore/Leviathan]] Clans
 **Alliance Negotiations**: Diplomatic relations with the great sea creatures
-**Mutual Defense**: Coordination of protection against threats from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+**Mutual Defense**: Coordination of protection against threats from [[02_Worldbuilding/Places/The Hadal Depths]]
 **Intelligence Sharing**: Information exchange about deep-sea activities and dangers
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shimmering Veil]]
+### [[02_Worldbuilding/Lore/The Shimmering Veil]]
 **Dimensional Security**: Monitoring of the barrier between realms for stability
-**Travel Regulation**: Control of authorized passage between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and other planes
+**Travel Regulation**: Control of authorized passage between [[02_Worldbuilding/Places/Aquabyssos]] and other planes
 **Threat Detection**: Early warning of extra-dimensional incursions or invasions
 
 ## D&D 5e Mechanical Elements
@@ -406,7 +406,7 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 - **Crystal Turrets**: +8 to hit, 2d8+4 force damage, 120 ft range
 - **Barrier Generation**: AS 20, 50 hp force barriers appear to block passages
 
-**Deep Watch Effects**: Characters who spend extended time monitoring [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]] must make escalating Wisdom saving throws:
+**Deep Watch Effects**: Characters who spend extended time monitoring [[02_Worldbuilding/Places/The Hadal Depths]] must make escalating Wisdom saving throws:
 - **1 week**: DC 12 or gain the Frightened condition for 1 hour
 - **1 month**: DC 15 or develop a short-term madness
 - **6 months**: DC 18 or develop a long-term madness
@@ -414,7 +414,7 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 
 ### Notable NPCs (D&D 5e Stats)
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]** (Human Veteran with additional features)
+**[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** (Human Veteran with additional features)
 - **AS**: 18 (Plate Armor)
 - **HP**: 95 (13d8 + 39)
 - **Speed**: 30 ft, Swim 60 ft
@@ -422,7 +422,7 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 - **Skills**: Athletics +6, Intimidation +6, Perception +3
 - **Special**: Legendary Actions (3 per turn), Underwater Adaptation, Command Presence
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Commander Drake Pressureborn]]** (Human Knight with aquatic adaptations)
+**[[02_Worldbuilding/Places/Commander Drake Pressureborn]]** (Human Knight with aquatic adaptations)
 - **AS**: 18 (Plate Armor)
 - **HP**: 78 (12d8 + 24)
 - **Speed**: 30 ft, Swim 50 ft
@@ -444,7 +444,7 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 - **Last Stand**: Ultimate defensive position if all else fails
 
 ### Adventure Integration
-- **Military Careers**: Characters can join [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]] or serve as specialists
+- **Military Careers**: Characters can join [[02_Worldbuilding/Places/Depth Wardens]] or serve as specialists
 - **Government Service**: Opportunities in intelligence, diplomacy, or administration
 - **Contractor Work**: Independent operators hired for missions too sensitive for regular military
 - **Crisis Response**: Emergency situations requiring immediate action
@@ -452,8 +452,8 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 ### Encounter Suggestions
 **Level 1-4**: Investigate sabotage in the supply warehouses, escort VIPs through dangerous areas
 **Level 5-8**: Counter-intelligence operations, defend against deep creature incursions
-**Level 9-12**: Diplomatic missions to hostile territories, special operations in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
-**Level 13-16**: Prevent catastrophic breach of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Lock]], uncover high-level conspiracy
+**Level 9-12**: Diplomatic missions to hostile territories, special operations in [[02_Worldbuilding/Places/The Hadal Depths]]
+**Level 13-16**: Prevent catastrophic breach of [[02_Worldbuilding/Places/The Lock]], uncover high-level conspiracy
 **Level 17-20**: Defend against cosmic horror invasion, prevent reality-threatening catastrophe
 
 ### Customization Options
@@ -463,28 +463,28 @@ The Azure Citadel stands as [[vault_backup_20250813_073007/02_Worldbuilding/Plac
 - **Threat Level**: Connect to ongoing campaign dangers and conflicts
 
 > [!danger] DM Secret
-> The Azure Citadel was not built where it is by accident. It sits directly above a sealed portal to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]] that predates the Great Drowning. The entire fortress is actually a massive containment facility, and its real purpose is not to defend [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] from external threats, but to prevent something far worse from escaping into the world. [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]] knows this truth, and it's part of what's driving him to madness - he realizes that if the citadel ever falls, the thing beneath it will be the least of their problems.
+> The Azure Citadel was not built where it is by accident. It sits directly above a sealed portal to [[02_Worldbuilding/Places/The Hadal Depths]] that predates the Great Drowning. The entire fortress is actually a massive containment facility, and its real purpose is not to defend [[02_Worldbuilding/Places/Aquabyssos]] from external threats, but to prevent something far worse from escaping into the world. [[02_Worldbuilding/People/Admiral Thorne Blackwater]] knows this truth, and it's part of what's driving him to madness - he realizes that if the citadel ever falls, the thing beneath it will be the least of their problems.
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime Docks]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Blood Current Express]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Viktor Geargrind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Seamstress Coral Silkweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Market]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Foundation Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Lock]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Current Tavern]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Ground]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Void Currents]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
+- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
+- [[02_Worldbuilding/Places/Blood Current Express]]
+- [[02_Worldbuilding/Places/Merchant Viktor Geargrind]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Royal Palace]]
+- [[02_Worldbuilding/Places/Seamstress Coral Silkweaver]]
+- [[02_Worldbuilding/Places/The Crystal Wardens]]
+- [[02_Worldbuilding/Places/The Depth Market]]
+- [[02_Worldbuilding/Places/The Foundation Depths]]
+- [[02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/The Gilded Shard]]
+- [[02_Worldbuilding/Places/The Lock]]
+- [[02_Worldbuilding/Places/The Neutral Current Tavern]]
+- [[02_Worldbuilding/Places/The Neutral Ground]]
+- [[02_Worldbuilding/Places/Void Currents]]
+- [[02_Worldbuilding/Items/Aether Crystals]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
@@ -504,15 +504,15 @@ Legends speak of Azure Citadel as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
 
 <!-- enriched: true -->
 riched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Commander Drake Pressureborn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Commander Drake Pressureborn]]
+- [[02_Worldbuilding/Places/Depth Wardens]]
+- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]

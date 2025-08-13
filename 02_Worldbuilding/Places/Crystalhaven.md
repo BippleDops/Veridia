@@ -29,7 +29,7 @@ world: Both
 *The Crystal Throne, Heart of Aethermoor*
 
 ## Overview
-Crystalhaven stands as the shining jewel of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], a city where crystal spires reach toward the heavens and aether-powered technology lights every street. Built around the largest Aether Crystal formation on the continent, the city serves as the seat of power for [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] and the center of crystal innovation.
+Crystalhaven stands as the shining jewel of [[02_Worldbuilding/Places/Aethermoor]], a city where crystal spires reach toward the heavens and aether-powered technology lights every street. Built around the largest Aether Crystal formation on the continent, the city serves as the seat of power for [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] and the center of crystal innovation.
 
 ### Sensory Immersion: The Crystal Throne
 
@@ -48,46 +48,46 @@ Crystalhaven stands as the shining jewel of [[vault_backup_20250813_073007/02_Wo
 ### The Radiant Quarter
 **Sensory Signature**: The most prestigious district radiates warmth and golden light from perfectly maintained crystal formations. The air shimmers with prismatic effects as sunlight refracts through architectural crystals, creating rainbow patterns that shift throughout the day. Sounds here carry with crystal clarity - conversations, footsteps, and even whispers seem amplified and purified. The temperature remains consistently pleasant through crystal-regulated climate control, while the ground itself pulses gently with contained magical energy.
 
-- **The Crystal Palace** - Home to [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- **The Crystal Palace** - Home to [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
   *Environmental Details*: The palace emanates a deep harmonic hum that resonates through visitors' bones, creating a sense of awe and authority. Hidden corruption in the throne room creates cold spots and areas where sound becomes muffled, though these effects are carefully concealed by illusion magic. Walls pulse with stored sunlight, creating an eternal golden hour effect.
 
 - **The Hall of Resonance** - Parliament building
   *Acoustic Environment*: Designed for perfect acoustics, every word spoken carries clearly throughout the chamber. Crystal formations record speeches and can replay them on command, creating an environment where political words have literal weight and permanence.
 
-- **Embassy Row** - Foreign dignitaries and [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]'s former residence
+- **Embassy Row** - Foreign dignitaries and [[02_Worldbuilding/People/Prince Caspian Duskwater]]'s former residence
   *Cultural Atmosphere*: Each embassy maintains its own environmental bubble - foreign scents, sounds, and even lighting that help visiting dignitaries feel at home while showcasing the cultural diversity that Crystalhaven welcomes.
 
 ### The Forge District
 **Sensory Signature**: Industrial heat and crystal-forging create a complex environment of controlled chaos. The air tastes of metal, crystal dust, and ozone from magical processes. Constant hammering, crystal chiming, and mechanical sounds create an industrial symphony. Temperature varies dramatically - scorching near forges, cooling rapidly in crystal-working areas. The ground vibrates with heavy machinery and magical processes.
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]** - Largest crystal refinement facility
+- **[[02_Worldbuilding/Places/The Crystalline Foundry]]** - Largest crystal refinement facility
   *Industrial Environment*: Massive crystal formations being shaped and refined create spectacular light shows of dangerous beauty. Workers wear special protective equipment against crystal radiation. The air shimmers with heat and magical energy, while the sound of crystal formation - a combination of growing, chiming, and occasionally cracking - creates an otherworldly acoustic experience.
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Artificer's Row]]** - Magical item creation
+- **[[02_Worldbuilding/Places/Artificer's Row]]** - Magical item creation
   *Workshop Atmosphere*: Each workshop hums with different magical frequencies as artisans craft specialized items. The street itself sparkles with escaped magical energy from various experiments. Scents range from ozone and heated metal to exotic magical components. Window displays glow with the warm light of completed magical items.
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Aether Works]]** - Run by [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- **[[02_Worldbuilding/Places/The Aether Works]]** - Run by [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
   *Master Workshop Environment*: The most sophisticated magical manufacturing facility, where the air itself is charged with organized magical energy. Every tool and surface responds to the master artificer's will, creating an environment where intention becomes reality through technological magic.
 
 ### The Scholar's Sanctum
 **Sensory Signature**: Quiet contemplation enhanced by crystal-amplified mental clarity. The air carries the crisp scent of preserved knowledge and organized thought. Sound here is naturally muffled to promote concentration, while crystal formations provide perfect reading light that adjusts to individual needs. Temperature control creates comfortable study environments regardless of weather.
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Grand Archive]]** - Overseen by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Moonwhisper]]
+- **[[02_Worldbuilding/Places/The Grand Archive]]** - Overseen by [[02_Worldbuilding/Places/Keeper Elara Moonwhisper]]
   *Library Environment*: Crystal formations preserve and organize knowledge, creating an environment where information can literally be felt in the air. Books glow softly when relevant to a reader's research, while crystal reading-lights adjust automatically for optimal comprehension. The silence here is profound but comfortable, broken only by the soft whisper of turning pages and the occasional crystal chime of discovery.
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Academies/The Crystal Academy]]** - Where [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]] teaches
+- **[[02_Worldbuilding/Groups/Academies/The Crystal Academy]]** - Where [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] teaches
   *Educational Atmosphere*: Classrooms utilize crystal formations to enhance learning, creating environments where complex concepts can be visualized in three-dimensional light displays. The air carries a sense of potential and discovery, while crystal formations respond to students' understanding levels, providing feedback on comprehension.
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Observatory]]** - Studies crystal formations
+- **[[02_Worldbuilding/Places/The Observatory]]** - Studies crystal formations
   *Research Environment*: Precise instruments for studying crystal behavior create an environment of scientific wonder. The air tastes of concentrated knowledge and careful observation, while specialized crystal formations allow researchers to perceive magical phenomena normally invisible to human senses.
 
 ### The Market Spiral
 **Sensory Signature**: Commercial energy and the excitement of trade create a bustling environment of constant activity. Crystal formations here pulse with the rhythm of commerce, growing brighter during busy periods and dimming during quiet hours. The air carries scents of exotic goods, while the sound of negotiation and transaction creates a constant background hum of economic activity.
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]]** - Upscale inn run by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
+- **[[02_Worldbuilding/Places/The Gilded Shard]]** - Upscale inn run by [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
   *Luxury Environment*: Crystal formations create perfect ambient lighting and temperature control, while magical amenities provide unprecedented comfort. The air carries subtle perfumes and the sense of discreet luxury, while sound dampening ensures privacy for high-stakes conversations.
 
-- **Crystal Exchange** - Controlled by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Lord Silas Copperfield]]
+- **Crystal Exchange** - Controlled by [[02_Worldbuilding/Places/Merchant Lord Silas Copperfield]]
   *Financial Environment*: Crystal formations here evaluate and authenticate magical goods automatically, creating an environment of trust and precision. The air tastes of prosperity and careful calculation, while crystal displays show current market values and economic trends in real-time.
 
 - **The Singing Crystal Tavern** - Information hub, owned by [[Jasper "Three-Eyes" Flint]]
@@ -102,24 +102,24 @@ Crystalhaven stands as the shining jewel of [[vault_backup_20250813_073007/02_Wo
 - **Black Shard Market** - Illegal crystal trade
   *Criminal Environment*: Corrupted and illegal crystal goods create an atmosphere of danger and forbidden power. The air tastes of corruption and desperation, while the constant risk of crystal contamination makes every transaction potentially lethal. Lighting is deliberately dim to hide illegal activities.
 
-- **The Corroded Crown** - Tavern frequented by [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]'s agents
+- **The Corroded Crown** - Tavern frequented by [[02_Worldbuilding/People/Vex Shadowthorn]]'s agents
   *Criminal Tavern Environment*: Corrupted crystal formations create an atmosphere of menace and hidden danger. Conversations are deliberately muffled to hide criminal planning, while the air carries the bitter taste of corruption and the constant tension of illegal activity.
 
 ## Notable Locations
 
 ### The Crystal Throne
-Massive throne carved from a single Aether Crystal, slowly corrupting anyone who sits upon it. Currently occupied by [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]], who uses illusion magic to hide her advancing corruption.
+Massive throne carved from a single Aether Crystal, slowly corrupting anyone who sits upon it. Currently occupied by [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], who uses illusion magic to hide her advancing corruption.
 
 ### The Resonance Spire
-Tallest structure in the city, used for long-distance magical communication. Maintained by [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Wardens]].
+Tallest structure in the city, used for long-distance magical communication. Maintained by [[02_Worldbuilding/Places/The Crystal Wardens]].
 
 ### The Purification Gardens
-Where those suffering from crystal corruption seek healing. Run by [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]].
+Where those suffering from crystal corruption seek healing. Run by [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]].
 
 ## Government & Politics
-- **Ruler**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- **Military**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]] and the [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- **Opposition**: Secret [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] cells led locally by [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]
+- **Ruler**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- **Military**: [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] and the [[02_Worldbuilding/People/Crystal Wardens]]
+- **Opposition**: Secret [[02_Worldbuilding/Groups/Purist Coalition]] cells led locally by [[02_Worldbuilding/People/Brother Marcus Steelbane]]
 
 ## Economy
 
@@ -129,21 +129,21 @@ Where those suffering from crystal corruption seek healing. Run by [[vault_backu
 - Magical weapons and armor
 
 ### Major Imports
-- Food from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]]
-- Raw materials from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]]
-- Exotic goods via [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- Food from [[02_Worldbuilding/Places/The Verdant Reach]]
+- Raw materials from [[02_Worldbuilding/Places/The Sundered Peaks]]
+- Exotic goods via [[02_Worldbuilding/Places/Port Meridian]]
 
 ## Services & Shops
 
 ### Inns & Taverns
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]]** - Luxury accommodations (10 gp/night)
+- **[[02_Worldbuilding/Places/The Gilded Shard]]** - Luxury accommodations (10 gp/night)
 - **The Crystalline Rest** - Middle-class inn (2 gp/night)
 - **The Cracked Crystal** - Budget lodging (5 sp/night)
 - **The Singing Crystal Tavern** - Best for information
 
 ### Shops
-- **Gearwright's Wonders** - [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]'s shop
-- **The Mystic Prism** - [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sage Lyralei Starweaver]]'s magical components
+- **Gearwright's Wonders** - [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]'s shop
+- **The Mystic Prism** - [[02_Worldbuilding/Places/Sage Lyralei Starweaver]]'s magical components
 - **Steelborn Armaments** - Weapons and armor
 - **The Crystal Emporium** - General magical goods
 
@@ -155,8 +155,8 @@ Where those suffering from crystal corruption seek healing. Run by [[vault_backu
 ## Current Events
 - Preparations for the Crystal Festival next month
 - Investigation into [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- Rumors of [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]'s return
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] propaganda appearing overnight
+- Rumors of [[02_Worldbuilding/People/Prince Caspian Duskwater]]'s return
+- [[02_Worldbuilding/Groups/Purist Coalition]] propaganda appearing overnight
 
 ## Adventure Hooks
 1. Noble's child showing signs of corruption needs discrete help
@@ -168,31 +168,31 @@ Where those suffering from crystal corruption seek healing. Run by [[vault_backu
 ## NPCs
 
 ### Government Officials
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Ruler (secretly corrupted)
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]] - City Watch Captain
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Ruler (secretly corrupted)
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military leader
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - City Watch Captain
 
 ### Merchants & Services
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Innovation and crafting
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Lord Silas Copperfield]] - Trade magnate
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Madame Rosalind Goldleaf]] - Inn proprietor and information broker
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Innovation and crafting
+- [[02_Worldbuilding/Places/Merchant Lord Silas Copperfield]] - Trade magnate
+- [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]] - Inn proprietor and information broker
 
 ### Scholars & Mages
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]] - Crystal expert
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Moonwhisper]] - Head librarian
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sage Lyralei Starweaver]] - Magical researcher
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] - Crystal expert
+- [[02_Worldbuilding/Places/Keeper Elara Moonwhisper]] - Head librarian
+- [[02_Worldbuilding/Places/Sage Lyralei Starweaver]] - Magical researcher
 
 ### Underworld
 - [[Jasper "Three-Eyes" Flint]] - Tavern owner, information dealer
 - [[Marcus "The Shade" Blackwood]] - Syndicate enforcer
-- Contacts for [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]
+- Contacts for [[02_Worldbuilding/People/Vex Shadowthorn]]
 
 ## DM Secrets
 > [!warning] DM Only
 > - The Crystal Throne is actually one of the Seven Shards
-> - Queen Seraphina meets with [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] in secret
+> - Queen Seraphina meets with [[02_Worldbuilding/People/The Crimson Sage]] in secret
 > - The Undercity connects to ancient pre-Shattering ruins
-> - [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]] plans to assassinate the Queen during the Crystal Festival
+> - [[02_Worldbuilding/People/Brother Marcus Steelbane]] plans to assassinate the Queen during the Crystal Festival
 > - The corruption in the throne room is spreading, affecting the palace staff
 
 ## Random Encounters (City)
@@ -209,17 +209,17 @@ Where those suffering from crystal corruption seek healing. Run by [[vault_backu
 | 12 | Mysterious hooded figure following party |
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]] - Surrounding kingdom
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]] - Major industry
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Trade partner
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]] - Crystal source
+- [[02_Worldbuilding/Places/Lumengarde]] - Surrounding kingdom
+- [[02_Worldbuilding/Places/The Crystalline Foundry]] - Major industry
+- [[02_Worldbuilding/Places/Port Meridian]] - Trade partner
+- [[02_Worldbuilding/Places/The Sundered Peaks]] - Crystal source
 
 ## See Also
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]] - Luxury inn
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Palace]] - Government seat
+- [[02_Worldbuilding/Places/The Gilded Shard]] - Luxury inn
+- [[02_Worldbuilding/Places/Royal Palace]] - Government seat
 - [[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The Crystal Palace]] - Royal residence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] - Continental connection
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Azure Coast]] - Coastal access
+- [[02_Worldbuilding/Places/Aethermoor]] - Continental connection
+- [[02_Worldbuilding/Places/The Azure Coast]] - Coastal access
 
 ## Daily Life in Crystalhaven
 
@@ -241,15 +241,15 @@ Where those suffering from crystal corruption seek healing. Run by [[vault_backu
 
 ### Work Day Activities (9 AM to 6 PM)
 
-**The Crystal Court**: Queen [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s court operates with crystal-enhanced ceremony where every word is recorded and magical auras analyzed for deception. Courtiers learn to modulate their magical signatures to convey respect, while the Queen uses illusion magic to hide her advancing corruption from crystal detection systems.
+**The Crystal Court**: Queen [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s court operates with crystal-enhanced ceremony where every word is recorded and magical auras analyzed for deception. Courtiers learn to modulate their magical signatures to convey respect, while the Queen uses illusion magic to hide her advancing corruption from crystal detection systems.
 
-**Forge District Operations**: Master [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] oversees crystal-powered manufacturing where magical energy flows through assembly lines like electricity. Workers rotate shifts to prevent magical exhaustion, while crystal formations monitor product quality and adjust manufacturing parameters automatically. The constant sound of crystal chiming creates industrial music that guides work rhythms.
+**Forge District Operations**: Master [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] oversees crystal-powered manufacturing where magical energy flows through assembly lines like electricity. Workers rotate shifts to prevent magical exhaustion, while crystal formations monitor product quality and adjust manufacturing parameters automatically. The constant sound of crystal chiming creates industrial music that guides work rhythms.
 
-**Scholar's Sanctum Activities**: Research proceeds through crystal-enhanced learning where complex concepts are visualized in three-dimensional light displays. [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]] conducts experiments where crystal formations store and replay magical processes for detailed study. Students work in groups around crystal formations that amplify their collective understanding and coordinate research efforts.
+**Scholar's Sanctum Activities**: Research proceeds through crystal-enhanced learning where complex concepts are visualized in three-dimensional light displays. [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] conducts experiments where crystal formations store and replay magical processes for detailed study. Students work in groups around crystal formations that amplify their collective understanding and coordinate research efforts.
 
-**Market Spiral Commerce**: Trade operates through crystal-authenticated transactions where magical verification prevents fraud. Merchants use crystal displays to showcase goods with enhanced visual effects, while customers evaluate purchases through crystal-analysis that reveals quality and magical properties. The [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]] hosts business meetings where crystal formations ensure privacy while recording agreements.
+**Market Spiral Commerce**: Trade operates through crystal-authenticated transactions where magical verification prevents fraud. Merchants use crystal displays to showcase goods with enhanced visual effects, while customers evaluate purchases through crystal-analysis that reveals quality and magical properties. The [[02_Worldbuilding/Places/The Gilded Shard]] hosts business meetings where crystal formations ensure privacy while recording agreements.
 
-**Underground Resistance**: In the Shadow Warren, [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] operates using corrupted crystal networks that avoid official detection. [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]'s [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] cells use traditional, non-crystal communication methods to coordinate resistance activities. These groups meet in corruption-shielded chambers where crystal detection fails.
+**Underground Resistance**: In the Shadow Warren, [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] operates using corrupted crystal networks that avoid official detection. [[02_Worldbuilding/People/Brother Marcus Steelbane]]'s [[02_Worldbuilding/Groups/Purist Coalition]] cells use traditional, non-crystal communication methods to coordinate resistance activities. These groups meet in corruption-shielded chambers where crystal detection fails.
 
 **Crystal Maintenance**: Specialized teams throughout the city perform daily crystal calibration, cleaning corruption buildup, and replacing failing formations. This essential work requires rotating shifts due to corruption exposure risks and provides employment for those whose magical abilities have been damaged by corruption contact.
 
@@ -271,15 +271,15 @@ Where those suffering from crystal corruption seek healing. Run by [[vault_backu
 
 ### Night Life (11 PM to 5 AM)
 
-**The Crystal Guard**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]]'s patrols use crystal-powered equipment that can detect magical signatures, corruption influence, and unauthorized magical activities. Night guards wear crystal-enhanced armor that provides protection against magical attacks while amplifying their sensory abilities to detect threats in darkness.
+**The Crystal Guard**: [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]'s patrols use crystal-powered equipment that can detect magical signatures, corruption influence, and unauthorized magical activities. Night guards wear crystal-enhanced armor that provides protection against magical attacks while amplifying their sensory abilities to detect threats in darkness.
 
 **Shadow Warren Activities**: The city's criminal underground operates most actively during crystal-dimming hours when detection systems function less effectively. Corrupted crystal networks allow illegal communications while [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] conducts business in chambers where official crystal monitoring fails.
 
 **Elite Entertainment**: Wealthy citizens gather in exclusive venues where crystal formations create immersive magical experiences - shared dreams, memory-viewing parties, and magical competitions where participants demonstrate their abilities in safe, controlled environments. These gatherings often involve political networking and business negotiations conducted through magical means.
 
-**Research and Development**: Night hours provide optimal conditions for sensitive magical experiments when ambient magical interference is minimal. [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]] and other researchers conduct dangerous experiments using specialized crystal containment systems, while [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] tests new magical devices under controlled conditions.
+**Research and Development**: Night hours provide optimal conditions for sensitive magical experiments when ambient magical interference is minimal. [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] and other researchers conduct dangerous experiments using specialized crystal containment systems, while [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] tests new magical devices under controlled conditions.
 
-**Underground Networks**: Secret societies including [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] cells meet in shielded locations where crystal detection fails. These groups coordinate resistance activities, share intelligence about government corruption, and plan responses to what they see as magical contamination of society.
+**Underground Networks**: Secret societies including [[02_Worldbuilding/Groups/Purist Coalition]] cells meet in shielded locations where crystal detection fails. These groups coordinate resistance activities, share intelligence about government corruption, and plan responses to what they see as magical contamination of society.
 
 **Corruption Monitoring**: Specialized teams work throughout the night tracking corruption spread patterns, maintaining containment systems, and responding to corruption outbreaks. This essential but dangerous work involves close contact with corrupted crystal formations and requires frequent rotation of personnel.
 
@@ -287,9 +287,9 @@ Where those suffering from crystal corruption seek healing. Run by [[vault_backu
 
 **Crystal Festival Preparations**: Monthly celebrations centered around crystal-enhanced displays and magical competitions require weeks of preparation. Citizens participate in community crystal-tuning ceremonies, while artisans create magical displays that showcase the city's technological achievements. Security preparations involve enhanced corruption detection and magical monitoring systems.
 
-**Guild Assembly Days**: Weekly meetings of professional guilds follow traditions from the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Guild Traditions Compendium]], adapted for crystal-enhanced communication and magical verification. These gatherings coordinate professional standards, training programs, and responses to corruption threats while maintaining traditional ceremonial elements.
+**Guild Assembly Days**: Weekly meetings of professional guilds follow traditions from the [[02_Worldbuilding/Lore/Guild Traditions Compendium]], adapted for crystal-enhanced communication and magical verification. These gatherings coordinate professional standards, training programs, and responses to corruption threats while maintaining traditional ceremonial elements.
 
-**Royal Observances**: Court ceremonies follow the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Festival Calendar Complete]] with crystal-enhanced pageantry that displays the monarchy's magical power. These events require elaborate preparation involving crystal choreography, magical security systems, and coordination between different social classes to maintain proper ceremonial protocols.
+**Royal Observances**: Court ceremonies follow the [[02_Worldbuilding/Lore/Festival Calendar Complete]] with crystal-enhanced pageantry that displays the monarchy's magical power. These events require elaborate preparation involving crystal choreography, magical security systems, and coordination between different social classes to maintain proper ceremonial protocols.
 
 **Seasonal Crystal Adjustments**:
 - **Winter**: Crystal formations require additional power to maintain heating and lighting, creating rationing systems and energy conservation measures
@@ -297,27 +297,27 @@ Where those suffering from crystal corruption seek healing. Run by [[vault_backu
 - **Summer**: Peak magical activity period with enhanced crystal performance but increased corruption risks requiring additional safety protocols
 - **Autumn**: Harvest season for magical materials and crystal formation pruning, involving city-wide coordination of magical workers and specialized equipment
 
-**Corruption Response Cycles**: Weekly corruption assessment and containment activities involve city-wide coordination between [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]], medical personnel, and specialized cleanup teams. These essential activities follow strict protocols to prevent corruption spread while maintaining essential city functions.
+**Corruption Response Cycles**: Weekly corruption assessment and containment activities involve city-wide coordination between [[02_Worldbuilding/People/Crystal Wardens]], medical personnel, and specialized cleanup teams. These essential activities follow strict protocols to prevent corruption spread while maintaining essential city functions.
 
-**International Relations**: Regular diplomatic activities with other major settlements require complex preparation involving cultural consultation from the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]], magical security systems, and coordination between palace staff and foreign representatives. Trade delegations and cultural exchanges occur on scheduled cycles that coordinate with other cities' calendars.
+**International Relations**: Regular diplomatic activities with other major settlements require complex preparation involving cultural consultation from the [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]], magical security systems, and coordination between palace staff and foreign representatives. Trade delegations and cultural exchanges occur on scheduled cycles that coordinate with other cities' calendars.
 
 ## Key Factions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]] - Government
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Military/Police
+- [[02_Worldbuilding/Groups/The Crystal Throne]] - Government
+- [[02_Worldbuilding/People/Crystal Wardens]] - Military/Police
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal underground
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] - Secret opposition cells
+- [[02_Worldbuilding/Groups/Purist Coalition]] - Secret opposition cells
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
+- [[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
 - [[Eastern Kingdoms 2]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District Customs House]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Wardens]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
+- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
+- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/Places/Harbor District Customs House]]
+- [[02_Worldbuilding/Places/The Crystal Wardens]]
 - [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
@@ -335,15 +335,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/Places/Crystalhaven]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdom]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Moonwhisper]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Lore/Eastern Kingdom]]
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
+- [[02_Worldbuilding/Places/Keeper Elara Moonwhisper]]
+- [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
+- [[02_Worldbuilding/Places/The Crystalline Foundry]]
+- [[02_Worldbuilding/Places/The Gilded Shard]]

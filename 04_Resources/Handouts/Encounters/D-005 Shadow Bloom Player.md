@@ -40,4 +40,4 @@ Possible outcomes
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/06_GM_Resources/Session_Packets/Aquabyssos Session 01]]
+- [[06_GM_Resources/Session_Packets/Aquabyssos Session 01]]

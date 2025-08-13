@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Tensions]]
+- [[02_Worldbuilding/Places/Surface Tensions]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Tensions]]
+- [[02_Worldbuilding/Places/Surface Tensions]]
 
 ## Player-Facing Summary
 

@@ -142,15 +142,15 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bone Colosseum]]
+- [[02_Worldbuilding/Places/The Bone Colosseum]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 06 - The Silhouette Surgeons]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
+- [[02_Worldbuilding/Places/Crystalhaven]]
+- [[1-Session Journals/Aquabyssos - Session 06 - The Silhouette Surgeons]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

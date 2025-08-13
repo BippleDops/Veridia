@@ -70,7 +70,7 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 
 ### Fears & Weaknesses
 - Extended time away from water causes physical deterioration
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]' holy magic can disrupt his divine connections
+- [[02_Worldbuilding/People/Crystal Wardens]]' holy magic can disrupt his divine connections
 - Potential rebellion from fully-converted aboleth hybrids
 - Ancient binding magics that keep Leviathan Lords dormant
 
@@ -103,7 +103,7 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 - Maintains personal guard of 50 elite hybrid warriors
 
 ### Strategic Operations
-- Coordinates attacks on shipping lanes to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+- Coordinates attacks on shipping lanes to [[02_Worldbuilding/Places/Crystalhaven]]
 - Oversees breeding programs creating hybrid armies
 - Directs infiltration of coastal communities
 - Plans massive ritual to wake Leviathan Lords
@@ -123,16 +123,16 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 - **Captain Kraken-Heart** - Military commander of cult forces
 
 ### Enemies & Opposition
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Leading religious opposition
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Primary naval opponent
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Military threat to cult operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]** - Ideological and magical opposition
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Leading religious opposition
+- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Primary naval opponent
+- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Military threat to cult operations
+- **[[02_Worldbuilding/People/Crystal Wardens]]** - Ideological and magical opposition
 
 ### Complex Relationships
 - **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]** - Ancient patron, sometimes competing interests
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Marrow Drinker]]** - Temporary alliance against surface navies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]** - Potential convert due to ocean affinity
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]]** - Captured enemy being slowly converted
+- **[[02_Worldbuilding/People/Captain Marrow Drinker]]** - Temporary alliance against surface navies
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Potential convert due to ocean affinity
+- **[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]** - Captured enemy being slowly converted
 
 ## Current Operations
 
@@ -165,7 +165,7 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 - **Spellcasting**: Cast a spell of 3rd level or lower
 - **Command Minions**: Direct allied sea monsters
 
-### Lair Actions (in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Cathedral of Stars]])
+### Lair Actions (in [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]])
 - Flood chambers or drain water as needed
 - Summon 1d4 aboleth spawn or shark swarms
 - Cast Mass Suggestion on all creatures in lair
@@ -208,16 +208,16 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 8. **The Prophecy**: Use Dagon's visions to prevent greater catastrophe
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Cathedral of Stars]] - Primary residence and power base
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Azure Coast]] - Main area of cult operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Major conversion target
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] - Complex political relationships with underwater kingdoms
+- [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]] - Primary residence and power base
+- [[02_Worldbuilding/Places/The Azure Coast]] - Main area of cult operations
+- [[02_Worldbuilding/Places/Port Meridian]] - Major conversion target
+- [[02_Worldbuilding/Places/Abyssos Prime]] - Complex political relationships with underwater kingdoms
 
 ## Connected Factions
 - [[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]] - Supreme leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Primary religious opposition
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]] - Temporary alliance of convenience
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] - Targets for economic disruption
+- [[02_Worldbuilding/People/Crystal Wardens]] - Primary religious opposition
+- [[02_Worldbuilding/Groups/The Crimson Fleet]] - Temporary alliance of convenience
+- [[02_Worldbuilding/Groups/Merchant Princes]] - Targets for economic disruption
 
 ## Immediate Threats
 - Great Awakening Ritual scheduled for next major tidal convergence
@@ -227,7 +227,7 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/The Leviathan Cult]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/The Leviathan Cult]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -244,7 +244,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priest Dagon Deepcaller]]
+- [[02_Worldbuilding/People/High Priest Dagon Deepcaller]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Crystal Wardens]]

@@ -5,9 +5,9 @@ alignment: Chaotic Neutral
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Maritime Organization
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Phantom Docks]]'
+headquarters: '[[02_Worldbuilding/Lore/The Phantom Docks]]'
 influence: Coastal regions and sea routes
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Master Tideshade]]'
+leader: '[[02_Worldbuilding/Places/Harbor Master Tideshade]]'
 members: ~800 sailors, dock workers, and maritime specialists
 obsidianUIMode: preview
 status: complete
@@ -40,14 +40,14 @@ world: Aquabyssos
 *The Phantom Fleet, Harbormasters of the Void, The Twilight Tide*
 
 ## Overview
-The Shadow Marina operates as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s premier shadow-touched maritime organization, controlling interdimensional shipping routes and managing harbor facilities that exist partially outside normal reality. They provide essential maritime services for shadow commerce while maintaining a network of vessels capable of sailing between dimensions. More than just a port authority, they represent a fusion of traditional seafaring culture with supernatural logistics, bridging the gap between conventional maritime trade and shadow realm commerce.
+The Shadow Marina operates as [[02_Worldbuilding/Places/Aquabyssos]]'s premier shadow-touched maritime organization, controlling interdimensional shipping routes and managing harbor facilities that exist partially outside normal reality. They provide essential maritime services for shadow commerce while maintaining a network of vessels capable of sailing between dimensions. More than just a port authority, they represent a fusion of traditional seafaring culture with supernatural logistics, bridging the gap between conventional maritime trade and shadow realm commerce.
 
 ## History
 
 ### Foundation Era (70 Years Ago)
 **The Phantom Harbor**
 - Founded when dimensional rifts began appearing in coastal waters
-- Original fleet of shadow-touched vessels discovered during [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Storm]]
+- Original fleet of shadow-touched vessels discovered during [[02_Worldbuilding/Lore/The Great Storm]]
 - Established first phantom dock facilities in partially-real harbor space
 - Recruited sailors and dock workers affected by shadow corruption
 - Developed initial protocols for interdimensional maritime operations
@@ -56,7 +56,7 @@ The Shadow Marina operates as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 **Shadow Fleet Development**
 - Acquired and converted conventional vessels for shadow operation
 - Developed shadow navigation techniques and interdimensional charts
-- Established trade routes connecting [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- Established trade routes connecting [[02_Worldbuilding/Places/Aquabyssos]] with [[02_Worldbuilding/Places/Aethermoor]]
 - Created specialized maritime services for shadow-touched cargo
 - Built reputation as reliable but mysterious shipping organization
 
@@ -80,12 +80,12 @@ The Shadow Marina operates as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 
 ### Harbor Authority
 **Maritime Leadership**
-- **Harbor Master**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Master Tideshade]] - Former naval officer turned shadow mariner
-- **Fleet Admiral**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Admiral Mistcurrent]] - Shadow fleet operations and naval strategy
-- **Dock Superintendent**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Supervisor Voidwharf]] - Harbor facilities and cargo management
-- **Navigation Chief**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Dimensional]] - Charts and interdimensional routing
-- **Security Director**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Commander Darkwater]] - Maritime law enforcement and protection
-- **Trade Coordinator**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merchant Marine Shadowcargo]] - Commercial shipping and contracts
+- **Harbor Master**: [[02_Worldbuilding/Places/Harbor Master Tideshade]] - Former naval officer turned shadow mariner
+- **Fleet Admiral**: [[02_Worldbuilding/Lore/Admiral Mistcurrent]] - Shadow fleet operations and naval strategy
+- **Dock Superintendent**: [[02_Worldbuilding/Lore/Supervisor Voidwharf]] - Harbor facilities and cargo management
+- **Navigation Chief**: [[02_Worldbuilding/People/Captain Dimensional]] - Charts and interdimensional routing
+- **Security Director**: [[02_Worldbuilding/Lore/Commander Darkwater]] - Maritime law enforcement and protection
+- **Trade Coordinator**: [[02_Worldbuilding/Lore/Merchant Marine Shadowcargo]] - Commercial shipping and contracts
 
 ### Operational Divisions
 
@@ -99,7 +99,7 @@ The Shadow Marina operates as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 
 #### Harbor Facilities Management
 **Port Operations and Services**
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Phantom Docks]]: Primary shadow harbor complex
+- [[02_Worldbuilding/Lore/The Phantom Docks]]: Primary shadow harbor complex
 - Cargo loading, unloading, and storage facilities
 - Ship maintenance, repair, and modification services
 - Fuel, supplies, and provisioning for shadow vessels
@@ -173,7 +173,7 @@ The Shadow Marina operates as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 - **Emergency Response Ships**: Rescue and medical support vessels
 
 ### Harbor Infrastructure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Phantom Docks]]**: Primary harbor complex with 50+ berths
+- **[[02_Worldbuilding/Lore/The Phantom Docks]]**: Primary harbor complex with 50+ berths
 - **Shadow Warehouses**: Cargo storage facilities with dimensional expansion
 - **Ship Maintenance Yards**: Repair and modification facilities
 - **Fuel and Supply Depots**: Resources for shadow vessel operations
@@ -239,9 +239,9 @@ The Shadow Marina operates as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 ## Relationships & Politics
 
 ### Government Relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] Maritime Authority**: Complex relationship of cooperation and competition
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Unofficial recognition and limited cooperation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]**: Mixed support depending on political climate
+- **[[02_Worldbuilding/Places/Aquabyssos]] Maritime Authority**: Complex relationship of cooperation and competition
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Unofficial recognition and limited cooperation
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Mixed support depending on political climate
 - **Customs and Port Authority**: Ongoing tension over jurisdiction and regulation
 - **Naval Forces**: Professional rivalry and occasional cooperation
 
@@ -261,7 +261,7 @@ The Shadow Marina operates as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 
 ### Complex Relationships
 - **Local Coastal Communities**: Economic benefits vs. concerns about illegal activities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]**: Uses services but represents potential threat
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Uses services but represents potential threat
 - **Environmental Groups**: Concerns about dimensional pollution and ecosystem impact
 - **Religious Organizations**: Moral opposition to shadow maritime activities
 - **Adventure Parties**: Potential clients, investigators, or enforcement agents
@@ -292,33 +292,33 @@ The Shadow Marina operates as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 ## Notable Members
 
 ### Leadership
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Master Tideshade]]** - Marina founder and supreme maritime authority
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Admiral Mistcurrent]]** - Fleet operations commander and naval strategist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Supervisor Voidwharf]]** - Harbor facilities manager and cargo coordinator
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Dimensional]]** - Chief navigator and interdimensional routing expert
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Commander Darkwater]]** - Security director and maritime law enforcement
+- **[[02_Worldbuilding/Places/Harbor Master Tideshade]]** - Marina founder and supreme maritime authority
+- **[[02_Worldbuilding/Lore/Admiral Mistcurrent]]** - Fleet operations commander and naval strategist
+- **[[02_Worldbuilding/Lore/Supervisor Voidwharf]]** - Harbor facilities manager and cargo coordinator
+- **[[02_Worldbuilding/People/Captain Dimensional]]** - Chief navigator and interdimensional routing expert
+- **[[02_Worldbuilding/Lore/Commander Darkwater]]** - Security director and maritime law enforcement
 
 ### Prominent Captains
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Shadowsail]]** - Master of the flagship vessel Leviathan's Dream
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Mistwalker]]** - Specialist in dangerous interdimensional routes
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Contraband]]** - Expert smuggler and cargo concealment specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Rescue]]** - Emergency response and maritime rescue operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Navigator]]** - Master chart-maker and dimensional mapping expert
+- **[[02_Worldbuilding/People/Captain Shadowsail]]** - Master of the flagship vessel Leviathan's Dream
+- **[[02_Worldbuilding/People/Captain Mistwalker]]** - Specialist in dangerous interdimensional routes
+- **[[02_Worldbuilding/People/Captain Contraband]]** - Expert smuggler and cargo concealment specialist
+- **[[02_Worldbuilding/People/Captain Rescue]]** - Emergency response and maritime rescue operations
+- **[[02_Worldbuilding/People/Captain Navigator]]** - Master chart-maker and dimensional mapping expert
 
 ### Support Specialists
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dock Master Voidpilings]]** - Harbor construction and maintenance expert
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ship Wright Shadowhull]]** - Vessel construction and modification specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Weather Reader Stormwatch]]** - Dimensional weather prediction and monitoring
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Cargo Master Holdspace]]** - Specialized handling of supernatural merchandise
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Communications Officer Tidecall]]** - Interdimensional messaging and coordination
+- **[[02_Worldbuilding/Lore/Dock Master Voidpilings]]** - Harbor construction and maintenance expert
+- **[[02_Worldbuilding/Lore/Ship Wright Shadowhull]]** - Vessel construction and modification specialist
+- **[[02_Worldbuilding/Lore/Weather Reader Stormwatch]]** - Dimensional weather prediction and monitoring
+- **[[02_Worldbuilding/Lore/Cargo Master Holdspace]]** - Specialized handling of supernatural merchandise
+- **[[02_Worldbuilding/Lore/Communications Officer Tidecall]]** - Interdimensional messaging and coordination
 
 ## Headquarters & Holdings
 
 ### Primary Facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Phantom Docks]]**: Main harbor complex with advanced shadow capabilities
+- **[[02_Worldbuilding/Lore/The Phantom Docks]]**: Main harbor complex with advanced shadow capabilities
 - **[[Marina Administration Center]]**: Harbor authority headquarters and management
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Vessel Registry]]**: Ship documentation and certification services
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Shipyard]]**: Construction and modification facilities
+- **[[02_Worldbuilding/Lore/The Vessel Registry]]**: Ship documentation and certification services
+- **[[02_Worldbuilding/Lore/Shadow Shipyard]]**: Construction and modification facilities
 - **[[Maritime Intelligence Center]]**: Navigation and weather monitoring
 
 ### Harbor Infrastructure
@@ -329,11 +329,11 @@ The Shadow Marina operates as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 - **Security Stations**: Harbor patrol and law enforcement operations
 
 ### Secret Facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Hidden Anchorage]]**: Covert harbor for illegal operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Smuggler's Den]]**: Contraband processing and distribution center
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Chart Vault]]**: Secret navigation information and restricted routes
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Emergency Protocols Cente]]**: Crisis response and evacuation planning
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Registry]]**: Classified vessel documentation and identity records
+- **[[02_Worldbuilding/Lore/The Hidden Anchorage]]**: Covert harbor for illegal operations
+- **[[02_Worldbuilding/Lore/Smuggler's Den]]**: Contraband processing and distribution center
+- **[[02_Worldbuilding/Lore/The Chart Vault]]**: Secret navigation information and restricted routes
+- **[[02_Worldbuilding/Lore/Emergency Protocols Cente]]**: Crisis response and evacuation planning
+- **[[02_Worldbuilding/Lore/The Shadow Registry]]**: Classified vessel documentation and identity records
 
 ## Weaknesses & Vulnerabilities
 
@@ -416,31 +416,31 @@ The Shadow Marina operates as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 ## Connected Elements
 
 ### Key NPCs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Master Tideshade]]** - Marina founder and maritime authority
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]** - Government relationship
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Admiral Mistcurrent]]** - Fleet operations commander
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]** - Major client and potential threat
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Shadowsail]]** - Flagship vessel commander
+- **[[02_Worldbuilding/Places/Harbor Master Tideshade]]** - Marina founder and maritime authority
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]** - Government relationship
+- **[[02_Worldbuilding/Lore/Admiral Mistcurrent]]** - Fleet operations commander
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Major client and potential threat
+- **[[02_Worldbuilding/People/Captain Shadowsail]]** - Flagship vessel commander
 
 ### Related Locations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Phantom Docks]]** - Primary harbor facility
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]** - Host realm and regulatory authority
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]** - Major trade destination
+- **[[02_Worldbuilding/Lore/The Phantom Docks]]** - Primary harbor facility
+- **[[02_Worldbuilding/Places/Aquabyssos]]** - Host realm and regulatory authority
+- **[[02_Worldbuilding/Places/Aethermoor]]** - Major trade destination
 - **[[02_Worldbuilding/Groups/Shadow Bazaar|02 Worldbuilding/Groups/Shadow Bazaar]]** - Trade and logistics partner
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Hidden Anchorage]]** - Secret harbor for illegal operations
+- **[[02_Worldbuilding/Lore/The Hidden Anchorage]]** - Secret harbor for illegal operations
 
 ### Associated Quests
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Phantom Fleet]]** - Investigation of shadow maritime operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Dimensional Crossing]]** - Navigate dangerous interdimensional passage
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Quest - Harbor Security]]** - Protect marina from attack or sabotage
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Smuggler's Run]]** - Transport dangerous cargo across realms
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Maritime Mystery]]** - Investigate disappearance of vessels or crew
+- **[[02_Worldbuilding/Lore/Quest - The Phantom Fleet]]** - Investigation of shadow maritime operations
+- **[[02_Worldbuilding/Lore/Quest - Dimensional Crossing]]** - Navigate dangerous interdimensional passage
+- **[[02_Worldbuilding/Places/Quest - Harbor Security]]** - Protect marina from attack or sabotage
+- **[[02_Worldbuilding/Lore/Quest - The Smuggler's Run]]** - Transport dangerous cargo across realms
+- **[[02_Worldbuilding/Lore/Quest - Maritime Mystery]]** - Investigate disappearance of vessels or crew
 
 ### Important Items
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Navigation Charts]]** - Interdimensional maritime maps
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Phantom Harbor Charter]]** - Legal authorization for marina operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dimensional Anchor Technology]]** - Equipment for reality stabilization
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Vessel Registry]]** - Documentation for interdimensional ships
+- **[[02_Worldbuilding/Lore/Shadow Navigation Charts]]** - Interdimensional maritime maps
+- **[[02_Worldbuilding/Places/Phantom Harbor Charter]]** - Legal authorization for marina operations
+- **[[02_Worldbuilding/Lore/Dimensional Anchor Technology]]** - Equipment for reality stabilization
+- **[[02_Worldbuilding/Lore/The Vessel Registry]]** - Documentation for interdimensional ships
 - **[[Maritime Emergency Protocols]]** - Crisis response procedures
 
 ---
@@ -450,7 +450,7 @@ The Shadow Marina operates as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
 
 ## Player-Facing Summary
 
@@ -464,4 +464,4 @@ Legends speak of Shadow Marina as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Bexley]]
+- [[02_Worldbuilding/Groups/Bexley]]

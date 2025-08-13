@@ -91,24 +91,24 @@ She represents the Deepcurrent District, the wealthiest area of Aquabyssos, wher
 ## Relationships
 
 **Allies:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Parliament Loyalists]]** - Her primary political faction, though she maneuvers to lead rather than follow
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Maintains cordial relations while quietly positioning for more power
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]]** - Her cousin and financial advisor who helps fund her political operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]** - Her sister, serving as the diplomatic arm of their family's ambitions
+- **[[02_Worldbuilding/People/Parliament Loyalists]]** - Her primary political faction, though she maneuvers to lead rather than follow
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Maintains cordial relations while quietly positioning for more power
+- **[[02_Worldbuilding/People/Banker Titus Goldcurrent]]** - Her cousin and financial advisor who helps fund her political operations
+- **[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]** - Her sister, serving as the diplomatic arm of their family's ambitions
 
 **Enemies:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Parliament]]** - She sees them as a direct threat to legitimate government
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Coral Throne Syndicate]]** - Criminal organizations that corrupt the political process
+- **[[02_Worldbuilding/People/Shadow Parliament]]** - She sees them as a direct threat to legitimate government
+- **[[02_Worldbuilding/People/The Coral Throne Syndicate]]** - Criminal organizations that corrupt the political process
 - **Reform Movement** - Radical politicians who want to democratize the Parliament system
 
 **Complicated:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]** - Political rival who she respects but fundamentally disagrees with on key issues
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]** - She suspects him of shadow corruption but lacks definitive proof
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]** - Navigates the complex relationship between surface and depth politics
+- **[[02_Worldbuilding/People/Senator Glaucus]]** - Political rival who she respects but fundamentally disagrees with on key issues
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - She suspects him of shadow corruption but lacks definitive proof
+- **[[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]** - Navigates the complex relationship between surface and depth politics
 
 ## Quest Hooks
 
-1. **The Corruption Investigation** - Cordelia discovers evidence that several senators are taking bribes from [[vault_backup_20250813_073007/02_Worldbuilding/People/The Coral Throne Syndicate]]. She needs discrete investigators to gather proof without alerting the criminals or causing a government crisis.
+1. **The Corruption Investigation** - Cordelia discovers evidence that several senators are taking bribes from [[02_Worldbuilding/People/The Coral Throne Syndicate]]. She needs discrete investigators to gather proof without alerting the criminals or causing a government crisis.
 
 2. **The Shadow Bill** - A piece of legislation is making its way through Parliament that seems innocuous but would actually give shadow entities legal rights in Aquabyssos. Cordelia needs help uncovering who's really behind this bill and stopping it.
 
@@ -121,8 +121,8 @@ She represents the Deepcurrent District, the wealthiest area of Aquabyssos, wher
 ## Secrets
 
 - **The Deepcurrent Fortune**: Her family's wealth comes from an ancient contract with sea devils, trading souls for political power across generations.
-- **The Double Agent**: She's been feeding information to both [[vault_backup_20250813_073007/02_Worldbuilding/People/Parliament Loyalists]] and moderate shadow factions, playing all sides to maintain stability.
-- **The Succession Plan**: Cordelia is secretly working to position herself as [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]'s successor, believing she can modernize Aquabyssos without revolution.
+- **The Double Agent**: She's been feeding information to both [[02_Worldbuilding/People/Parliament Loyalists]] and moderate shadow factions, playing all sides to maintain stability.
+- **The Succession Plan**: Cordelia is secretly working to position herself as [[02_Worldbuilding/People/Emperor Thalassius the Wise]]'s successor, believing she can modernize Aquabyssos without revolution.
 - **The Surface Connection**: She has been in covert communication with surface world leaders, negotiating potential trade agreements that bypass traditional diplomatic channels.
 - **The Memory Archive**: She possesses a collection of extracted memories from political opponents, giving her devastating blackmail material but also making her a target.
 
@@ -202,16 +202,16 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator]]
+- [[02_Worldbuilding/People/Senator]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
+- [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
+- [[02_Worldbuilding/People/Senator Glaucus]]
+- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]

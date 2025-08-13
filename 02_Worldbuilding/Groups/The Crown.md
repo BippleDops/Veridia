@@ -8,7 +8,7 @@ faction_type: Government
 headquarters: '[[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The
   Crystal Palace]]'
 influence: National
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+leader: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
 members: ~10,000 direct servants
 obsidianUIMode: preview
 status: complete
@@ -39,7 +39,7 @@ world: Aethermoor
 *The Royal Authority of Aethermoor, Keepers of the Shattered Legacy, The Crystal Throne*
 
 ## Overview
-The Crown represents the royal government of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], built upon the ruins of the God-King Aetheron's empire 500 years ago. Currently led by [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]], The Crown maintains authority through control of Aether Crystals, military might, and the myth of divine mandate. However, crystal corruption, noble rebellions, and the Queen's deteriorating condition threaten the institution's survival.
+The Crown represents the royal government of [[02_Worldbuilding/Places/Aethermoor]], built upon the ruins of the God-King Aetheron's empire 500 years ago. Currently led by [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], The Crown maintains authority through control of Aether Crystals, military might, and the myth of divine mandate. However, crystal corruption, noble rebellions, and the Queen's deteriorating condition threaten the institution's survival.
 
 ## History
 
@@ -61,26 +61,26 @@ After Aetheron's Crown shattered into Seven Shards:
 ### Decline (Last Century)
 - Increasing crystal corruption
 - Noble house rebellions
-- Economic pressure from [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
-- Shadow infiltration from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- Economic pressure from [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- Shadow infiltration from [[02_Worldbuilding/Places/Aquabyssos]]
 - Queen's progressive madness
 
 ## Structure & Hierarchy
 
 ### The Royal Family
 #### Current Monarchy
-- **Queen**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] (corrupted)
-- **King Consort**: [[vault_backup_20250813_073007/02_Worldbuilding/People/King Marcus Lumengarde]] (deceased mysteriously)
-- **Crown Prince**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Prince Aurelius Lumengarde]] (missing)
-- **Princess**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Princess Celestine Lumengarde]] (in hiding)
-- **Bastard Son**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] (unacknowledged)
+- **Queen**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] (corrupted)
+- **King Consort**: [[02_Worldbuilding/People/King Marcus Lumengarde]] (deceased mysteriously)
+- **Crown Prince**: [[02_Worldbuilding/Lore/Prince Aurelius Lumengarde]] (missing)
+- **Princess**: [[02_Worldbuilding/Lore/Princess Celestine Lumengarde]] (in hiding)
+- **Bastard Son**: [[02_Worldbuilding/People/Vex Shadowthorn]] (unacknowledged)
 
 #### The Inner Circle
-- **Royal Advisor**: [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] (secret identity)
-- **Lord Commander**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
-- **High Treasurer**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Castellan Ironledger III]]
-- **Spymaster**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Whispered Voice]] (unknown identity)
-- **Court Wizard**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- **Royal Advisor**: [[02_Worldbuilding/People/The Crimson Sage]] (secret identity)
+- **Lord Commander**: [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- **High Treasurer**: [[02_Worldbuilding/People/Castellan Ironledger III]]
+- **Spymaster**: [[02_Worldbuilding/Lore/The Whispered Voice]] (unknown identity)
+- **Court Wizard**: [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
 
 ### Government Branches
 
@@ -163,8 +163,8 @@ After Aetheron's Crown shattered into Seven Shards:
 5. **Succession Crisis**: Find legitimate heir
 
 ### Desperate Measures
-- Considering alliance with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
-- Secretly negotiating with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
+- Considering alliance with [[02_Worldbuilding/Places/Aquabyssos]]
+- Secretly negotiating with [[02_Worldbuilding/Groups/Silverscale Consortium]]
 - Exploring forbidden magic
 - Preparing for possible civil war
 - Planning Queen's "retirement"
@@ -172,32 +172,32 @@ After Aetheron's Crown shattered into Seven Shards:
 ## Relationships & Alliances
 
 ### Allies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/House Brightblade]]**: Military support
+- **[[02_Worldbuilding/Lore/House Brightblade]]**: Military support
 - **[[02_Worldbuilding/Groups/The Silver Order|02 Worldbuilding/Groups/The Silver Order]]**: Religious backing
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Merchant Guilds]]**: Economic cooperation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Northern Principalities]]**: Defense pact
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]]**: Naval loyalty
+- **[[02_Worldbuilding/Groups/Guilds/Merchant Guilds]]**: Economic cooperation
+- **[[02_Worldbuilding/Lore/Northern Principalities]]**: Defense pact
+- **[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]**: Naval loyalty
 
 ### Rivals
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]**: Economic competition
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Houses_and_Nobility/House Shadowmere]]**: Succession dispute
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Free Cities]]**: Independence movement
+- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Economic competition
+- **[[02_Worldbuilding/Groups/Houses_and_Nobility/House Shadowmere]]**: Succession dispute
+- **[[02_Worldbuilding/Lore/The Free Cities]]**: Independence movement
 - **[[02_Worldbuilding/Groups/The Crimson Hand|02 Worldbuilding/Groups/The Crimson Hand]]**: Revolutionary threat
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Noble Opposition]]**: Internal dissent
+- **[[02_Worldbuilding/Lore/Noble Opposition]]**: Internal dissent
 
 ### Enemies
 - **[[02_Worldbuilding/Groups/Shadow Conspiracy|02 Worldbuilding/Groups/Shadow Conspiracy]]**: Active infiltration
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Separatist Movements]]**: Seek kingdom division
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Crystal Cults]]**: Religious extremists
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]**: Through agents
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgotten Princes]]**: Rival claimants
+- **[[02_Worldbuilding/Lore/Separatist Movements]]**: Seek kingdom division
+- **[[02_Worldbuilding/Groups/Cults_and_Movements/Crystal Cults]]**: Religious extremists
+- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Through agents
+- **[[02_Worldbuilding/Lore/The Forgotten Princes]]**: Rival claimants
 
 ### Complicated
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]**: Advisor with agenda
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]**: Conditional support
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]**: Unacknowledged blood
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Common People]]**: Growing unrest
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: Secret negotiations
+- **[[02_Worldbuilding/People/The Crimson Sage]]**: Advisor with agenda
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Conditional support
+- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Unacknowledged blood
+- **[[02_Worldbuilding/Lore/Common People]]**: Growing unrest
+- **[[02_Worldbuilding/Places/Aquabyssos]]**: Secret negotiations
 
 ## Internal Conflicts
 
@@ -255,48 +255,48 @@ After Aetheron's Crown shattered into Seven Shards:
 ## Notable Members
 
 ### Leadership
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Corrupted monarch
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Secret advisor
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Castellan Ironledger III]] - Financial master
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Whispered Voice]] - Spy network head
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Corrupted monarch
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military leader
+- [[02_Worldbuilding/People/The Crimson Sage]] - Secret advisor
+- [[02_Worldbuilding/People/Castellan Ironledger III]] - Financial master
+- [[02_Worldbuilding/Lore/The Whispered Voice]] - Spy network head
 
 ### Key Operatives
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]] - Royal Guard Captain
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Crystal expert
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dame Rosanna Truthseeker]] - Inquisitor
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Marcus Shadowbane]] - Anti-infiltration
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sister Catherine]] - Royal Confessor
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Royal Guard Captain
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Crystal expert
+- [[02_Worldbuilding/Lore/Dame Rosanna Truthseeker]] - Inquisitor
+- [[02_Worldbuilding/People/Lord Marcus Shadowbane]] - Anti-infiltration
+- [[02_Worldbuilding/Lore/Sister Catherine]] - Royal Confessor
 
 ### Hidden Assets
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Blades]] - Secret police
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Touched]] - Enhanced agents
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keepers of Memory]] - Information control
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silence]] - Assassination unit
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Doubles]] - Body doubles network
+- [[02_Worldbuilding/Lore/The Crimson Blades]] - Secret police
+- [[02_Worldbuilding/Lore/Crystal Touched]] - Enhanced agents
+- [[02_Worldbuilding/Places/Keepers of Memory]] - Information control
+- [[02_Worldbuilding/Lore/The Silence]] - Assassination unit
+- [[02_Worldbuilding/Lore/Royal Doubles]] - Body doubles network
 
 ## Headquarters & Holdings
 
 ### Primary Locations
 - **[[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The Crystal Palace]]**: Royal seat
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lumengarde City]]**: Capital
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Royal Vaults]]**: Treasury and armory
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]**: Shard cultivation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tower of Echoes]]**: Intelligence center
+- **[[02_Worldbuilding/Lore/Lumengarde City]]**: Capital
+- **[[02_Worldbuilding/Lore/The Royal Vaults]]**: Treasury and armory
+- **[[02_Worldbuilding/Places/Crystal Gardens]]**: Shard cultivation
+- **[[02_Worldbuilding/Lore/Tower of Echoes]]**: Intelligence center
 
 ### Secondary Holdings
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Northern Fortresses]]**: Military bases
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Ports]]**: Naval control
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Mines]]**: Resource extraction
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Noble Estates]]**: Loyal house lands
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Border Castles]]**: Defense network
+- **[[02_Worldbuilding/Lore/Northern Fortresses]]**: Military bases
+- **[[02_Worldbuilding/Places/Royal Ports]]**: Naval control
+- **[[02_Worldbuilding/Places/Crystal Mines]]**: Resource extraction
+- **[[02_Worldbuilding/Lore/Noble Estates]]**: Loyal house lands
+- **[[02_Worldbuilding/Groups/Border Castles]]**: Defense network
 
 ### Secret Facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Vault]]**: Shard containment
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Prison]]**: Infiltrator detention
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Laboratory]]**: Forbidden research
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Bunker]]**: Emergency shelter
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Palace]]**: Information archive
+- **[[02_Worldbuilding/Lore/The Deep Vault]]**: Shard containment
+- **[[02_Worldbuilding/Lore/Shadow Prison]]**: Infiltrator detention
+- **[[02_Worldbuilding/Lore/Crystal Laboratory]]**: Forbidden research
+- **[[02_Worldbuilding/Lore/Royal Bunker]]**: Emergency shelter
+- **[[02_Worldbuilding/Places/The Memory Palace]]**: Information archive
 
 ## Symbols & Regalia
 
@@ -386,32 +386,32 @@ After Aetheron's Crown shattered into Seven Shards:
 ## Connected Elements
 
 ### Key NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Hidden power
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] - Religious ally
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Bastard heir
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Naval commander
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Leader
+- [[02_Worldbuilding/People/The Crimson Sage]] - Hidden power
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Religious ally
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Bastard heir
+- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Naval commander
 
 ### Related Locations
 - [[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The Crystal Palace]] - Headquarters
 - [[02_Worldbuilding/Places/Lumengarde City|02 Worldbuilding/Places/Lumengarde City]] - Capital
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]] - Resource source
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Royal Vaults]] - Treasury
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Northern Fortresses]] - Military power
+- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Resource source
+- [[02_Worldbuilding/Lore/The Royal Vaults]] - Treasury
+- [[02_Worldbuilding/Lore/Northern Fortresses]] - Military power
 
 ### Associated Quests
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Succession Crisis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Crown's Shadow]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Royal Redemption]]
+- [[02_Worldbuilding/Lore/Quest - Succession Crisis]]
+- [[02_Worldbuilding/Lore/Quest - The Crown's Shadow]]
+- [[02_Worldbuilding/Lore/Quest - Royal Redemption]]
 
 ### Related Items
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crown Fragment]] - Pieces of original
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Seal]] - Authority symbol
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Weapons]] - Military equipment
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Succession Documents]] - Legal claims
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Detection Orb]] - Security tool
+- [[02_Worldbuilding/Lore/Crown Fragment]] - Pieces of original
+- [[02_Worldbuilding/Lore/Royal Seal]] - Authority symbol
+- [[02_Worldbuilding/Lore/Crystal Weapons]] - Military equipment
+- [[02_Worldbuilding/Lore/Succession Documents]] - Legal claims
+- [[02_Worldbuilding/Lore/Shadow Detection Orb]] - Security tool
 
 ---
 
@@ -429,10 +429,10 @@ Legends speak of The Crown as a nexus where past and present converge. Locals de
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Castellan Ironledger III]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/People/Castellan Ironledger III]]
+- [[02_Worldbuilding/Places/Crystal Gardens]]

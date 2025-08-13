@@ -10,11 +10,11 @@ participants:
 - Pressure Nobility
 - Hadal Council
 related_entities:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Echoes]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Pressure Wars]]'
+- '[[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Echoes]]'
+- '[[02_Worldbuilding/People/Aboleth Prime Yoth]]'
+- '[[02_Worldbuilding/Lore/The Deep Mother]]'
+- '[[02_Worldbuilding/People/Emperor Thalassius]]'
+- '[[02_Worldbuilding/Lore/The Pressure Wars]]'
 scale: Continental (All Depth Zones)
 significance: Constitutional Crisis
 status: complete
@@ -50,9 +50,9 @@ world: Aquabyssos
 
 ## Overview
 
-The Bathyal Succession (234-267 AS) stands as the most transformative political event in Aquabyssos history since [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Drowning]]. What began as a traditional royal succession dispute evolved into a fundamental reimagining of government, ultimately abolishing the ancient depth-based monarchy and establishing the modern parliamentary democracy centered around [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Echoes]].
+The Bathyal Succession (234-267 AS) stands as the most transformative political event in Aquabyssos history since [[02_Worldbuilding/Lore/The Drowning]]. What began as a traditional royal succession dispute evolved into a fundamental reimagining of government, ultimately abolishing the ancient depth-based monarchy and establishing the modern parliamentary democracy centered around [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Echoes]].
 
-The conflict derived its name from the **Bathyal Zone** (depths of 1,000-4,000 meters), where most of the political maneuvering and initial battles took place. However, the succession crisis eventually engulfed every depth level of Aquabyssos society, from the surface-touch zones to the deepest hadal trenches where [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s influence was strongest.
+The conflict derived its name from the **Bathyal Zone** (depths of 1,000-4,000 meters), where most of the political maneuvering and initial battles took place. However, the succession crisis eventually engulfed every depth level of Aquabyssos society, from the surface-touch zones to the deepest hadal trenches where [[02_Worldbuilding/Lore/The Deep Mother]]'s influence was strongest.
 
 Unlike surface-world succession wars focused on territorial control, the Bathyal Succession was fundamentally about pressure - both literal and political. The crisis centered on whether depth-based hereditary monarchy could adapt to the complex realities of post-Drowning civilization, or whether new forms of government were needed for humanity's underwater existence.
 
@@ -68,14 +68,14 @@ Before the crisis, Aquabyssos operated under the **Pressure Crown System**, a mo
 - **Twilight Throne** (200-1,000m): Administrative governance, daily law
 - **Bathyal Scepter** (1,000-4,000m): Military command, resource allocation  
 - **Abyssal Seal** (4,000-6,000m): Deep trade, pressure technology
-- **Hadal Rod** (6,000m+): Religious authority, connection to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- **Hadal Rod** (6,000m+): Religious authority, connection to [[02_Worldbuilding/Lore/The Deep Mother]]
 
 Each level required the monarch to physically reside at that depth for specific periods, demonstrating their adaptation and understanding of pressure-based governance. The system worked for over two centuries but created inherent tensions:
 
 **Built-in Conflicts:**
 - **Physical Limitations**: Not all royals could survive at deeper levels
 - **Cultural Stratification**: Different depth zones developed distinct interests
-- **Religious Tensions**: Deeper zones increasingly influenced by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- **Religious Tensions**: Deeper zones increasingly influenced by [[02_Worldbuilding/Lore/The Deep Mother]]
 - **Economic Imbalances**: Resource distribution favored accessible depth zones
 - **Military Complications**: Defense needs varied dramatically by depth
 
@@ -177,7 +177,7 @@ The thermal vent disaster catalyzed existing opposition movements into active re
 - **Leadership**: Religious leaders claiming direct divine communication
 - **Goal**: Replace human rule with divinely guided government
 - **Support Base**: Deepest zone populations and religious extremists
-- **Ideology**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s awakening requires spiritual leadership
+- **Ideology**: [[02_Worldbuilding/Lore/The Deep Mother]]'s awakening requires spiritual leadership
 
 **The Pressure Purists**
 - **Leadership**: Military commanders and security officials
@@ -319,11 +319,11 @@ Following military victory, the parliamentary government pursued reconciliation 
 ### Phase Five: The Deep Mother Crisis (258-267 AS)
 **"The Divine Challenge"**
 
-The final phase began when [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s increasing activity challenged both democratic and monarchical authority:
+The final phase began when [[02_Worldbuilding/Lore/The Deep Mother]]'s increasing activity challenged both democratic and monarchical authority:
 
 #### The Great Stirring (258 AS)
 
-Signs of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s awakening created religious and political crisis:
+Signs of [[02_Worldbuilding/Lore/The Deep Mother]]'s awakening created religious and political crisis:
 - **Prophetic Dreams**: Mass visions affecting populations across all depth zones
 - **Physical Manifestations**: Unexplained phenomena in deepest ocean areas
 - **Religious Revival**: Dramatic increase in Deep Mother worship
@@ -432,7 +432,7 @@ The **Constitution of Depths** established the modern Aquabyssos governmental sy
 
 ### International Figures
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]
+#### [[02_Worldbuilding/People/Aboleth Prime Yoth]]
 **Role**: Ancient advisor who provided historical perspective during crisis
 **Influence**: Counseled against repeating historical mistakes of surface world
 **Position**: Supported democratic transition as more stable than monarchy
@@ -652,18 +652,18 @@ Some succession-era issues remain unresolved:
 
 ## Connected References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Echoes]] - Democratic institution established during succession crisis
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius]] - Historical precedent for successful depth monarchy
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] - Divine entity whose awakening influenced final resolution
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]] - Ancient advisor who guided constitutional development
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Pressure Wars]] - Military conflicts that determined democratic victory
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Vaults]] - Repositories preserving succession-era documents and artifacts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Depth Councils]] - Regional governmental bodies created during crisis
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sacred Senate]] - Religious advisory institution integrated into democracy
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Constitution of Depths]] - Founding document establishing current government
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Echoes]] - Democratic institution established during succession crisis
+- [[02_Worldbuilding/People/Emperor Thalassius]] - Historical precedent for successful depth monarchy
+- [[02_Worldbuilding/Lore/The Deep Mother]] - Divine entity whose awakening influenced final resolution
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Ancient advisor who guided constitutional development
+- [[02_Worldbuilding/Lore/The Pressure Wars]] - Military conflicts that determined democratic victory
+- [[02_Worldbuilding/Lore/The Memory Vaults]] - Repositories preserving succession-era documents and artifacts
+- [[02_Worldbuilding/Lore/The Depth Councils]] - Regional governmental bodies created during crisis
+- [[02_Worldbuilding/Lore/The Sacred Senate]] - Religious advisory institution integrated into democracy
+- [[02_Worldbuilding/Lore/The Constitution of Depths]] - Founding document establishing current government
 - [[02_Worldbuilding/Groups/The Battle of Parliament Dee|02 Worldbuilding/Groups/The Battle Of Parliament Dee]] - Decisive naval engagement ensuring democratic victory
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Mercy Accords]] - Post-conflict reconciliation agreements
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Thermal Shift]] - Natural disaster that tested early democratic government
+- [[02_Worldbuilding/Lore/The Mercy Accords]] - Post-conflict reconciliation agreements
+- [[02_Worldbuilding/Lore/The Great Thermal Shift]] - Natural disaster that tested early democratic government
 
 ---
 
@@ -673,10 +673,10 @@ Some succession-era issues remain unresolved:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdoms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Lighthouse of Storms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Lore/Eastern Kingdoms]]
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
 
 ## Player-Facing Summary
 
@@ -701,5 +701,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius]]
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
+- [[02_Worldbuilding/People/Emperor Thalassius]]

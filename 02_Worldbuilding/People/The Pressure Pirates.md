@@ -23,13 +23,13 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Lore/The Final Choice]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lighthouse Keeper]]
+- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/People/Lighthouse Keeper]]
 
 ## Player-Facing Summary
 

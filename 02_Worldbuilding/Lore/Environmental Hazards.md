@@ -19,27 +19,27 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Navigation Hazards]]
+- [[02_Worldbuilding/Lore/Temporal Navigation Hazards]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Effect Quick Reference]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Initiative Tracker]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Kraken Territories]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random Encounters]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silver Mask]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Distortion Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Navigation Hazards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bloom Fields]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Threshold]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Wells]]
+- [[02_Worldbuilding/Lore/Crystal Forest]]
+- [[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]
+- [[02_Worldbuilding/Lore/Depth Effect Quick Reference]]
+- [[02_Worldbuilding/Lore/Initiative Tracker]]
+- [[02_Worldbuilding/Lore/Kraken Territories]]
+- [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
+- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
+- [[02_Worldbuilding/Lore/Random Encounters]]
+- [[02_Worldbuilding/Lore/Reality Merge Zones]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
+- [[02_Worldbuilding/Lore/Temporal Distortion Zones]]
+- [[02_Worldbuilding/Lore/Temporal Navigation Hazards]]
+- [[02_Worldbuilding/Lore/The Bloom Fields]]
+- [[02_Worldbuilding/Lore/The Threshold]]
+- [[02_Worldbuilding/Places/Shadow Wells]]
 
 ## Player-Facing Summary
 

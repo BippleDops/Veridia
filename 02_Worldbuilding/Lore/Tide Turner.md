@@ -470,21 +470,21 @@ Something in the deepest ocean trenches is calling to individuals with tidal mag
 
 ## Connected References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pelagic the Current-Walker]] - First historical Tide Turner
+- [[02_Worldbuilding/Lore/Pelagic the Current-Walker]] - First historical Tide Turner
 - [[Abyssal the Deep-Touched]] - Deep ocean explorer Tide Turner
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marina the Unifier]] - Political unity Tide Turner
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple of Perpetual Tides]] - Source of original prophecies
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Order of the Eternal Current]] - Secret religious organization
+- [[02_Worldbuilding/Lore/Marina the Unifier]] - Political unity Tide Turner
+- [[02_Worldbuilding/Places/Temple of Perpetual Tides]] - Source of original prophecies
+- [[02_Worldbuilding/Groups/Orders/Order of the Eternal Current]] - Secret religious organization
 - [[Church of Tidal Harmony]] - Primary Tide Turner religious group
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Council of Depths]] - Government body managing Tide Turner issues
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]] - Potential corrupting influence on Tide Turners
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Engineering]] - Technical applications of Tide Turner principles
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Current Riders Union]] - Transportation guild influenced by Tide Turner philosophy
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Current Society]] - Secret organization preserving Tide Turner knowledge
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Corrupted Current]] - Dark organization opposing Tide Turners
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tide Turner Investigation Committee]] - Government monitoring body
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Ready Current]] - Social preparation movement
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Reserve]] - Economic fund for supporting future Tide Turner
+- [[02_Worldbuilding/Lore/Council of Depths]] - Government body managing Tide Turner issues
+- [[02_Worldbuilding/Lore/Deep Mother]] - Potential corrupting influence on Tide Turners
+- [[02_Worldbuilding/Lore/Tidal Engineering]] - Technical applications of Tide Turner principles
+- [[02_Worldbuilding/Lore/Current Riders Union]] - Transportation guild influenced by Tide Turner philosophy
+- [[02_Worldbuilding/Lore/Deep Current Society]] - Secret organization preserving Tide Turner knowledge
+- [[02_Worldbuilding/Lore/The Corrupted Current]] - Dark organization opposing Tide Turners
+- [[02_Worldbuilding/Lore/Tide Turner Investigation Committee]] - Government monitoring body
+- [[02_Worldbuilding/Lore/The Ready Current]] - Social preparation movement
+- [[02_Worldbuilding/Lore/Tidal Reserve]] - Economic fund for supporting future Tide Turner
 
 ## Long-term Campaign Implications
 
@@ -502,7 +502,7 @@ The Tide Turner serves as both inspiration and cautionary tale, representing the
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tide Turner's Trident]]
+- [[02_Worldbuilding/Lore/Tide Turner's Trident]]
 
 ## Player-Facing Summary
 
@@ -520,5 +520,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Lore/Deep Mother]]
+- [[02_Worldbuilding/Lore/Deep Mother]]

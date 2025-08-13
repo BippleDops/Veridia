@@ -3,9 +3,9 @@ alignment: Lawful Neutral
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Military Tactical Unit
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Strategic Command Center]] (Mobile)'
+headquarters: '[[02_Worldbuilding/Lore/The Strategic Command Center]] (Mobile)'
 influence: Specialized (Military Operations)
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Commander Reef Shadowstrike]]'
+leader: '[[02_Worldbuilding/Places/Commander Reef Shadowstrike]]'
 members: ~150 elite soldiers and tactical specialists
 purpose: Elite ambush and tactical warfare unit
 status: complete
@@ -37,7 +37,7 @@ world: Aquabyssos
 *The Tidal Strikers, Masters of Battlefield Surprise, Those Who Strike from Darkness*
 
 ## Overview
-Shadow Ambush - Optional (SAO) is an elite military unit within the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] armed forces, specializing in ambush tactics, guerrilla warfare, and surgical strikes against high-value targets. Unlike traditional military formations that rely on direct confrontation, SAO operates using stealth, misdirection, and precisely timed assaults to achieve maximum impact with minimal casualties. Their name reflects their philosophy: every engagement should offer the enemy a way out ("optional" escape), but those who choose to fight face devastating tactical superiority. They serve as the realm's premier special operations force for situations requiring finesse over brute force.
+Shadow Ambush - Optional (SAO) is an elite military unit within the [[02_Worldbuilding/Places/Aquabyssos]] armed forces, specializing in ambush tactics, guerrilla warfare, and surgical strikes against high-value targets. Unlike traditional military formations that rely on direct confrontation, SAO operates using stealth, misdirection, and precisely timed assaults to achieve maximum impact with minimal casualties. Their name reflects their philosophy: every engagement should offer the enemy a way out ("optional" escape), but those who choose to fight face devastating tactical superiority. They serve as the realm's premier special operations force for situations requiring finesse over brute force.
 
 ## Origins & History
 
@@ -77,11 +77,11 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[vault_back
 
 ### Command Structure
 **Leadership Hierarchy**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Commander Reef Shadowstrike]]**: Supreme commander and tactical genius
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Major Tide Precisestrike]]**: Second-in-command and operations coordinator
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Storm Ambushmaster]]**: Training and doctrine development
+- **[[02_Worldbuilding/Places/Commander Reef Shadowstrike]]**: Supreme commander and tactical genius
+- **[[02_Worldbuilding/Lore/Major Tide Precisestrike]]**: Second-in-command and operations coordinator
+- **[[02_Worldbuilding/People/Captain Storm Ambushmaster]]**: Training and doctrine development
 - **[[Lieutenant Coral Stealthwater]]**: Intelligence and reconnaissance specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sergeant Major Deep Veteranstrike]]**: Senior enlisted advisor and field coordinator
+- **[[02_Worldbuilding/Lore/Sergeant Major Deep Veteranstrike]]**: Senior enlisted advisor and field coordinator
 
 ### Operational Squadrons
 
@@ -260,37 +260,37 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[vault_back
 ## Known Personnel & Specialists
 
 ### Command Leadership
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Commander Reef Shadowstrike]]**: Founder and supreme tactical commander
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Major Tide Precisestrike]]**: Operations coordinator and strategic planner
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Storm Ambushmaster]]**: Training director and doctrine developer
+- **[[02_Worldbuilding/Places/Commander Reef Shadowstrike]]**: Founder and supreme tactical commander
+- **[[02_Worldbuilding/Lore/Major Tide Precisestrike]]**: Operations coordinator and strategic planner
+- **[[02_Worldbuilding/People/Captain Storm Ambushmaster]]**: Training director and doctrine developer
 - **[[Lieutenant Coral Stealthwater]]**: Intelligence specialist and reconnaissance expert
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sergeant Major Deep Veteranstrike]]**: Senior enlisted leader and field coordinator
+- **[[02_Worldbuilding/Lore/Sergeant Major Deep Veteranstrike]]**: Senior enlisted leader and field coordinator
 
 ### Squadron Leaders
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Alpha Leader Marina Depthstrike]]**: Deep water operations specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Beta Leader Torres Coastalambush]]**: Amphibious warfare expert
+- **[[02_Worldbuilding/Lore/Alpha Leader Marina Depthstrike]]**: Deep water operations specialist
+- **[[02_Worldbuilding/Lore/Beta Leader Torres Coastalambush]]**: Amphibious warfare expert
 - **[[Gamma Leader Swift Currentrider]]**: Mobile operations commander
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Delta Leader Precise Shadowsurgeon]]**: Surgical strike specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Echo Leader Scout Informationtide]]**: Reconnaissance and intelligence coordinator
+- **[[02_Worldbuilding/Lore/Delta Leader Precise Shadowsurgeon]]**: Surgical strike specialist
+- **[[02_Worldbuilding/Lore/Echo Leader Scout Informationtide]]**: Reconnaissance and intelligence coordinator
 
 ### Technical Specialists
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Master Sergeant Tech Innovationstrike]]**: Equipment development specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Chief Medic Coral Battlehealer]]**: Medical officer and combat surgeon
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Communications Chief Storm Signalmaster]]**: Information systems coordinator
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Demolitions Expert Deep Precisionboom]]**: Explosives and breaching specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Survival Instructor Wild Depthteacher]]**: Environmental training coordinator
+- **[[02_Worldbuilding/Lore/Master Sergeant Tech Innovationstrike]]**: Equipment development specialist
+- **[[02_Worldbuilding/Lore/Chief Medic Coral Battlehealer]]**: Medical officer and combat surgeon
+- **[[02_Worldbuilding/Lore/Communications Chief Storm Signalmaster]]**: Information systems coordinator
+- **[[02_Worldbuilding/Lore/Demolitions Expert Deep Precisionboom]]**: Explosives and breaching specialist
+- **[[02_Worldbuilding/Lore/Survival Instructor Wild Depthteacher]]**: Environmental training coordinator
 
 ### Support Personnel
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Supply Master Current Logistics]]**: Equipment and material coordination
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Training Sergeant Major Veteran Teachstrike]]**: Recruit development specialist
+- **[[02_Worldbuilding/Lore/Supply Master Current Logistics]]**: Equipment and material coordination
+- **[[02_Worldbuilding/Lore/Training Sergeant Major Veteran Teachstrike]]**: Recruit development specialist
 - **[[Intelligence Analyst Sharp Datapoint]]**: Information processing and analysis
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Medical Director Healing Tidecurrent]]**: Healthcare and injury prevention
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Security Chief Guard Protectionstrike]]**: Facility and personnel security
+- **[[02_Worldbuilding/Lore/Medical Director Healing Tidecurrent]]**: Healthcare and injury prevention
+- **[[02_Worldbuilding/Lore/Security Chief Guard Protectionstrike]]**: Facility and personnel security
 
 ## Resources & Equipment
 
 ### Specialized Facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Strategic Command Center]]**: Mobile headquarters with advanced command systems
+- **[[02_Worldbuilding/Lore/The Strategic Command Center]]**: Mobile headquarters with advanced command systems
 - **Training Facilities**: Specialized environments for tactical skill development (8 locations)
 - **Equipment Testing Ranges**: Proving grounds for weapons and gear evaluation (4 sites)
 - **Medical Facilities**: Advanced trauma care and rehabilitation centers (3 clinics)
@@ -381,35 +381,35 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[vault_back
 
 ### Military Integration
 **Armed Forces Cooperation**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Navy]]**: Primary operational support and coordination
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marine Corps]]**: Training partnership and personnel exchange
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Intelligence Services]]**: Information sharing and mission coordination
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Military Medical Corps]]**: Healthcare and trauma treatment support
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Strategic Command Center]]**: Mission planning and strategic integration
+- **[[02_Worldbuilding/Lore/Aquabyssos Navy]]**: Primary operational support and coordination
+- **[[02_Worldbuilding/Lore/Marine Corps]]**: Training partnership and personnel exchange
+- **[[02_Worldbuilding/People/Intelligence Services]]**: Information sharing and mission coordination
+- **[[02_Worldbuilding/Lore/Military Medical Corps]]**: Healthcare and trauma treatment support
+- **[[02_Worldbuilding/Lore/The Strategic Command Center]]**: Mission planning and strategic integration
 
 ### Government Relations
 **Official Connections**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Department of Defense]]**: Administrative oversight and funding
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/National Security Council]]**: Strategic planning and threat assessment
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Foreign Affairs Ministry]]**: International operations coordination
+- **[[02_Worldbuilding/Lore/Department of Defense]]**: Administrative oversight and funding
+- **[[02_Worldbuilding/Lore/National Security Council]]**: Strategic planning and threat assessment
+- **[[02_Worldbuilding/Lore/Foreign Affairs Ministry]]**: International operations coordination
 - **[[Emergency Management Agency]]**: Disaster response collaboration
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Intelligence Community]]**: Information sharing and analysis
+- **[[02_Worldbuilding/Lore/Intelligence Community]]**: Information sharing and analysis
 
 ### International Partnerships
 **Allied Cooperation**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Special Forces]]**: Cross-realm military exchange
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Allied Nation Military Units]]**: Joint training and operations
+- **[[02_Worldbuilding/Lore/Aethermoor Special Forces]]**: Cross-realm military exchange
+- **[[02_Worldbuilding/Lore/Allied Nation Military Units]]**: Joint training and operations
 - **[[International Peace Organization]]**: Peacekeeping mission support
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Military Training Academies]]**: Educational exchange programs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Defense Research Institutions]]**: Technology and doctrine development
+- **[[02_Worldbuilding/Lore/Military Training Academies]]**: Educational exchange programs
+- **[[02_Worldbuilding/Lore/Defense Research Institutions]]**: Technology and doctrine development
 
 ### Civilian Connections
 **Community Relations**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Veterans Organizations]]**: Support for former military personnel
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Military Families Support Groups]]**: Assistance for service member families
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Academic Institutions]]**: Research partnerships and education
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Defense Contractors]]**: Equipment development and procurement
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Community Leaders]]**: Public relations and civilian cooperation
+- **[[02_Worldbuilding/Lore/Veterans Organizations]]**: Support for former military personnel
+- **[[02_Worldbuilding/Places/Military Families Support Groups]]**: Assistance for service member families
+- **[[02_Worldbuilding/Lore/Academic Institutions]]**: Research partnerships and education
+- **[[02_Worldbuilding/Lore/Defense Contractors]]**: Equipment development and procurement
+- **[[02_Worldbuilding/Places/Community Leaders]]**: Public relations and civilian cooperation
 
 ## Adventure Hooks
 
@@ -504,32 +504,32 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[vault_back
 ## Connected Elements
 
 ### Key NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Commander Reef Shadowstrike]] - Tactical genius and unit founder
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Major Tide Precisestrike]] - Operations coordinator and strategic planner
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Storm Ambushmaster]] - Training specialist and doctrine developer
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Potential military ally
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]] - Navy coordination and support
+- [[02_Worldbuilding/Places/Commander Reef Shadowstrike]] - Tactical genius and unit founder
+- [[02_Worldbuilding/Lore/Major Tide Precisestrike]] - Operations coordinator and strategic planner
+- [[02_Worldbuilding/People/Captain Storm Ambushmaster]] - Training specialist and doctrine developer
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Potential military ally
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Navy coordination and support
 
 ### Important Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Strategic Command Center]] - Mobile headquarters and command facility
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Advanced Training Facilities]] - Specialized education and skill development
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Primary area of operations
+- [[02_Worldbuilding/Lore/The Strategic Command Center]] - Mobile headquarters and command facility
+- [[02_Worldbuilding/Lore/Advanced Training Facilities]] - Specialized education and skill development
+- [[02_Worldbuilding/Places/Aquabyssos]] - Primary area of operations
 - [[Equipment Testing Ranges]] - Innovation and development facilities
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/International Training Exchanges]] - Allied military cooperation
+- [[02_Worldbuilding/Lore/International Training Exchanges]] - Allied military cooperation
 
 ### Related Quests
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Elite Selection]] - Joining special forces through training
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Precision Strike]] - Surgical military operation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Hostage Rescue]] - Emergency response mission
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Military Innovation]] - Tactical development project
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - International Crisis]] - Diplomatic and military resolution
+- [[02_Worldbuilding/Lore/Quest - Elite Selection]] - Joining special forces through training
+- [[02_Worldbuilding/Lore/Quest - Precision Strike]] - Surgical military operation
+- [[02_Worldbuilding/Lore/Quest - Hostage Rescue]] - Emergency response mission
+- [[02_Worldbuilding/Lore/Quest - Military Innovation]] - Tactical development project
+- [[02_Worldbuilding/Lore/Quest - International Crisis]] - Diplomatic and military resolution
 
 ### Supporting Organizations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Navy]] - Primary military support and coordination
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Intelligence Services]] - Information sharing and mission planning
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Military Medical Corps]] - Healthcare and trauma treatment
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Defense Research Institutions]] - Technology and doctrine development
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Allied Special Forces]] - International military cooperation
+- [[02_Worldbuilding/Lore/Aquabyssos Navy]] - Primary military support and coordination
+- [[02_Worldbuilding/People/Intelligence Services]] - Information sharing and mission planning
+- [[02_Worldbuilding/Lore/Military Medical Corps]] - Healthcare and trauma treatment
+- [[02_Worldbuilding/Lore/Defense Research Institutions]] - Technology and doctrine development
+- [[02_Worldbuilding/Lore/Allied Special Forces]] - International military cooperation
 
 ---
 
@@ -538,7 +538,7 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[vault_back
 
 ## Connections
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
+- [[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]
 
 ## Player-Facing Summary
 
@@ -552,5 +552,5 @@ Legends speak of Shadow Ambush   Optional as a nexus where past and present conv
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]

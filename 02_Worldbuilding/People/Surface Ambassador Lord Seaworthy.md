@@ -3,7 +3,7 @@ affiliation: '[[Surface Kingdoms]] - Diplomatic Corps'
 age: '52'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Diplomatic Quarter]] - Surface Embassy'
+location: '[[02_Worldbuilding/Places/The Diplomatic Quarter]] - Surface Embassy'
 race: Human (Air-breathing)
 role: Surface Ambassador
 status: complete
@@ -35,7 +35,7 @@ world: Aquabyssos
 *Bridge Between Worlds, Voice of the Surface Kingdoms*
 
 ## Overview
-Lord Admiral Horatio Seaworthy serves as the primary diplomatic representative of the Surface Kingdoms to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], maintaining the delicate political and trade relationships between the air-breathing world above and the underwater realm below. A former naval commander who earned his position through a combination of maritime expertise, political acumen, and genuine respect for aquatic cultures, he navigates the complex currents of inter-dimensional diplomacy while adapting to life in an environment that wasn't designed for his species.
+Lord Admiral Horatio Seaworthy serves as the primary diplomatic representative of the Surface Kingdoms to [[02_Worldbuilding/Places/Aquabyssos]], maintaining the delicate political and trade relationships between the air-breathing world above and the underwater realm below. A former naval commander who earned his position through a combination of maritime expertise, political acumen, and genuine respect for aquatic cultures, he navigates the complex currents of inter-dimensional diplomacy while adapting to life in an environment that wasn't designed for his species.
 
 ## Description
 - **Appearance**: Distinguished middle-aged man with silver-streaked beard and weathered features from years at sea
@@ -46,7 +46,7 @@ Lord Admiral Horatio Seaworthy serves as the primary diplomatic representative o
 
 ## Background
 ### Naval Career
-- Served 25 years in the Royal Navy of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Maritime Alliance]]
+- Served 25 years in the Royal Navy of [[02_Worldbuilding/Lore/The Maritime Alliance]]
 - Rose from midshipman to Lord Admiral through merit and strategic brilliance
 - Led successful campaigns against sea monsters threatening surface shipping
 - Developed unprecedented understanding of oceanic environments and creatures
@@ -72,7 +72,7 @@ Lord Admiral Horatio Seaworthy serves as the primary diplomatic representative o
 - **Cultural Barriers**: Navigating vastly different social structures and customs
 - **Communication Gaps**: Concepts that don't translate between air and water societies
 - **Technological Differences**: Bridging gaps between surface and aquatic technologies
-- **Religious Disparities**: Mediating between surface and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] worship
+- **Religious Disparities**: Mediating between surface and [[02_Worldbuilding/Lore/The Deep Mother]] worship
 
 ### Political Complexities
 - **Multiple Constituencies**: Representing various surface kingdoms with competing interests
@@ -83,18 +83,18 @@ Lord Admiral Horatio Seaworthy serves as the primary diplomatic representative o
 
 ## Current Political Situation
 ### Surface Kingdom Relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Maritime Alliance]]**: Primary sponsor, expects favorable naval intelligence
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Empire]]**: Interested in Aquabyssos crystal technology applications
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Northern Kingdoms]]**: Seek access to deep-sea fishing grounds
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Southern Trading Companies]]**: Want exclusive access to underwater markets
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Academic Consortium]]**: Fascinated by aquatic magical and scientific knowledge
+- **[[02_Worldbuilding/Lore/The Maritime Alliance]]**: Primary sponsor, expects favorable naval intelligence
+- **[[02_Worldbuilding/Lore/The Crystal Empire]]**: Interested in Aquabyssos crystal technology applications
+- **[[02_Worldbuilding/People/The Northern Kingdoms]]**: Seek access to deep-sea fishing grounds
+- **[[02_Worldbuilding/Lore/The Southern Trading Companies]]**: Want exclusive access to underwater markets
+- **[[02_Worldbuilding/Lore/The Academic Consortium]]**: Fascinated by aquatic magical and scientific knowledge
 
 ### Aquabyssos Political Navigation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]**: Formal diplomatic recognition but limited practical authority
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]**: Real political power requiring careful cultivation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Key ally for progressive reform initiatives
+- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Formal diplomatic recognition but limited practical authority
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Real political power requiring careful cultivation
+- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Key ally for progressive reform initiatives
 - **Local Power Brokers**: Various faction leaders whose support is essential
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] Faithful**: Religious authorities who influence public opinion
+- **[[02_Worldbuilding/Lore/The Deep Mother]] Faithful**: Religious authorities who influence public opinion
 
 ## Diplomatic Initiatives
 ### Trade Agreements
@@ -135,10 +135,10 @@ Lord Admiral Horatio Seaworthy serves as the primary diplomatic representative o
 
 ## Personal Relationships
 ### Aquabyssos Allies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Mutual respect and collaborative partnership
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Professional relationship managing surface-Aquabyssos shipping
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Cultural exchange programs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Echoing Thunder]]**: Military-to-military professional courtesy
+- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Mutual respect and collaborative partnership
+- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Professional relationship managing surface-Aquabyssos shipping
+- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Cultural exchange programs
+- **[[02_Worldbuilding/People/Captain Echoing Thunder]]**: Military-to-military professional courtesy
 - **Local Merchant Leaders**: Economic partnerships and trade facilitation
 
 ### Surface Kingdom Contacts
@@ -149,8 +149,8 @@ Lord Admiral Horatio Seaworthy serves as the primary diplomatic representative o
 - **Ambassador Corps**: Peer relationships with other diplomatic representatives
 
 ### Complex Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]**: Formal respect despite practical limitations
-- **Religious Authorities**: Careful diplomacy around [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] worship
+- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Formal respect despite practical limitations
+- **Religious Authorities**: Careful diplomacy around [[02_Worldbuilding/Lore/The Deep Mother]] worship
 - **Military Leaders**: Professional respect tempered by potential conflict concerns
 - **Economic Competitors**: Those who see his mission as threat to their interests
 - **Cultural Conservatives**: Both surface and aquatic traditionalists suspicious of his work
@@ -304,7 +304,7 @@ When encountered in the Surface Embassy or during formal diplomatic functions, S
 ## Enhanced Diplomatic Background
 
 ### The Maritime Alliance Connection
-Seaworthy's appointment as ambassador represents a careful political calculation by the **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Maritime Alliance]]**:
+Seaworthy's appointment as ambassador represents a careful political calculation by the **[[02_Worldbuilding/Lore/The Maritime Alliance]]**:
 - **Naval Intelligence**: His position provides unique access to Aquabyssos military capabilities
 - **Economic Interests**: Surface kingdoms seek exclusive access to underwater resources
 - **Strategic Planning**: Long-term goals for surface-aquatic cooperation or control
@@ -332,7 +332,7 @@ Seaworthy's appointment as ambassador represents a careful political calculation
 ## Embassy Operations and Staff
 
 ### The Surface Embassy Complex
-**Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Diplomatic Quarter]], specially constructed building
+**Location**: [[02_Worldbuilding/Places/The Diplomatic Quarter]], specially constructed building
 **Architecture**: Hybrid design accommodating both air-breathing and aquatic visitors
 - **Air-filled quarters** for surface staff with magical environmental controls
 - **Aquatic reception areas** with flowing water chambers for Aquabyssos visitors  
@@ -375,7 +375,7 @@ Seaworthy's appointment as ambassador represents a careful political calculation
 **Echo Deepwhisper** (Sea Elf, security coordinator)
 - Manages embassy security in coordination with local authorities
 - Expert in underwater combat and threat assessment
-- Maintains relationships with [[vault_backup_20250813_073007/02_Worldbuilding/People/The Depth Wardens]] and other security forces
+- Maintains relationships with [[02_Worldbuilding/People/The Depth Wardens]] and other security forces
 - Ensures safety of both surface and aquatic visitors to embassy
 
 ---
@@ -384,21 +384,21 @@ Seaworthy's appointment as ambassador represents a careful political calculation
 
 ### Key Aquabyssos Political Figures
 
-**Relationship with [[vault_backup_20250813_073007/02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**
+**Relationship with [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**
 - **Professional Alliance**: Mutual respect for each other's dedication to justice
 - **Reform Collaboration**: Joint efforts on legal and social reform initiatives  
 - **Information Sharing**: Discrete exchange of intelligence about threats to both realms
 - **Policy Coordination**: Ensuring surface trade doesn't undermine Aquabyssos social progress
 - **Personal Friendship**: Genuine respect grown into trusted partnership
 
-**Navigation of [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]'s Complex Rule**
+**Navigation of [[02_Worldbuilding/People/The Scattered Emperor]]'s Complex Rule**
 - **Formal Recognition**: Maintains diplomatic protocols despite Emperor's limitations
 - **Practical Governance**: Works with Parliament while respecting Imperial authority
 - **Memory Considerations**: Adapts communication to account for Emperor's scattered consciousness
 - **Historical Context**: Studies past Imperial decisions for policy guidance
 - **Succession Planning**: Discrete preparation for potential changes in leadership
 
-**Engagement with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]**
+**Engagement with [[02_Worldbuilding/Places/Parliament of Echoes]]**
 - **Multi-party Diplomacy**: Maintains relationships across political spectrum
 - **Committee Testimony**: Regular briefings on surface world developments
 - **Legislative Advocacy**: Supports bills beneficial to surface-Aquabyssos relations
@@ -407,14 +407,14 @@ Seaworthy's appointment as ambassador represents a careful political calculation
 
 ### Surface Kingdom Political Management
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Maritime Alliance]] Expectations**
+**[[02_Worldbuilding/Lore/The Maritime Alliance]] Expectations**
 - **Naval Intelligence**: Regular reports on Aquabyssos naval capabilities and defenses
 - **Strategic Assessment**: Analysis of potential Aquabyssos threat to surface shipping
 - **Economic Advantage**: Securing favorable trade terms for Alliance members
 - **Political Influence**: Developing pro-surface faction within Aquabyssos government
 - **Military Cooperation**: Exploring joint operations against common threats
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Empire]] Interests**
+**[[02_Worldbuilding/Lore/The Crystal Empire]] Interests**
 - **Technology Exchange**: Access to Aquabyssos crystal and magical innovations
 - **Resource Access**: Securing supplies of unique underwater materials
 - **Research Collaboration**: Joint magical and technological development projects
@@ -502,7 +502,7 @@ Political upheaval in Aquabyssos or surface kingdoms threatens established diplo
 - **Complications**: Success may require choosing sides in civil conflicts
 
 ### 5. The Deep Mother's Intervention (Level 14-20)
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s stirring affects surface-Aquabyssos relations in unexpected ways. Seaworthy needs help understanding divine intervention in political affairs.
+[[02_Worldbuilding/Lore/The Deep Mother]]'s stirring affects surface-Aquabyssos relations in unexpected ways. Seaworthy needs help understanding divine intervention in political affairs.
 - **Rewards**: 20,000gp, divine insights, cosmic significance
 - **Complications**: Divine will may conflict with both surface and Aquabyssos political interests
 
@@ -511,7 +511,7 @@ Political upheaval in Aquabyssos or surface kingdoms threatens established diplo
 ## Connected Campaign Elements
 
 ### Integration with Aquabyssos Politics
-- Regular source of information about [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] developments
+- Regular source of information about [[02_Worldbuilding/Places/Parliament of Echoes]] developments
 - Can facilitate party access to high-level Aquabyssos political figures
 - Provides context for how surface world events affect local politics
 - Offers diplomatic solutions to conflicts involving government authorities
@@ -550,7 +550,7 @@ Political upheaval in Aquabyssos or surface kingdoms threatens established diplo
 ## Connections
 
 - [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator]]
+- [[02_Worldbuilding/People/Senator]]
 
 ## Player-Facing Summary
 
@@ -562,10 +562,10 @@ Legends speak of Surface Ambassador Lord Seaworthy as a nexus where past and pre
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Depth Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[02_Worldbuilding/People/The Depth Wardens]]
+- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]

@@ -11,19 +11,19 @@ factions:
   Of Divine Order]]'
 - '[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan
   Cult]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Deep Mother Zealots]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Syncretist Mediators]]'
+- '[[02_Worldbuilding/Places/Deep Mother Zealots]]'
+- '[[02_Worldbuilding/Places/Syncretist Mediators]]'
 government: Religious Council of War
 location_name: The Theological Warfare Grounds
 location_type: Contested Religious Battlefield
 notable_npcs:
 - '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High
   Theologian Commander Aurelius]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Leviathan Prophet Thalassa]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Deep Mother Priestess Sira]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Cardinal Harmony]]'
+- '[[02_Worldbuilding/Places/Leviathan Prophet Thalassa]]'
+- '[[02_Worldbuilding/People/Deep Mother Priestess Sira]]'
+- '[[02_Worldbuilding/Places/Mediator Cardinal Harmony]]'
 obsidianUIMode: preview
-parent_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]'
+parent_location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
 population: 500
 pressure_effects: Severe
 ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High
@@ -76,7 +76,7 @@ world: Both
 
 ## Overview
 
-The Theological Warfare Grounds represent the most dangerous and spiritually charged location in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]—a designated battlefield where competing religious factions settle their theological disputes through a combination of formal debate, divine magic, and when necessary, holy combat. This complex serves as both arena and embassy, where the major religious powers of the underwater world engage in an ongoing war of faiths that has lasted since [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]].
+The Theological Warfare Grounds represent the most dangerous and spiritually charged location in [[02_Worldbuilding/Places/Abyssos Prime]]—a designated battlefield where competing religious factions settle their theological disputes through a combination of formal debate, divine magic, and when necessary, holy combat. This complex serves as both arena and embassy, where the major religious powers of the underwater world engage in an ongoing war of faiths that has lasted since [[02_Worldbuilding/Places/The Great Drowning]].
 
 What makes this location unique is that violence here is not random or chaotic but ritualized and regulated. The various religious factions have agreed that rather than allowing theological disputes to tear apart society, they will be resolved in formal combat under strict rules. This has created a bizarre fusion of monastery, military base, and gladiatorial arena where priests dual with both scripture and sword.
 
@@ -93,7 +93,7 @@ What makes this location unique is that violence here is not random or chaotic b
 The Great Drowning didn't just transform the physical world—it created a theological crisis. Different religious groups interpreted the catastrophe in radically different ways, leading to fundamental disagreements about divine will, the nature of existence, and humanity's relationship with higher powers.
 
 ### The First Holy War
-Initially, these theological differences led to violent conflicts throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]], threatening to destroy the already fragile post-drowning society. The violence escalated until the city faced religious civil war.
+Initially, these theological differences led to violent conflicts throughout [[02_Worldbuilding/Places/Abyssos Prime]], threatening to destroy the already fragile post-drowning society. The violence escalated until the city faced religious civil war.
 
 ### The Covenant of Contained Conflict
 Rather than allow theological disputes to destroy civilization, the major religious factions signed the Covenant of Contained Conflict, establishing the Theological Warfare Grounds as the designated location for resolving religious disputes through regulated combat.
@@ -140,8 +140,8 @@ Worship the massive sea creatures as divine beings, believing that The Great Dro
 - Ritualistic combat honoring sea predators
 
 ### Deep Mother Zealots
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Deep Mother Zealots]]**
-Worship the mysterious entity known as [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]], believing she is the ultimate source of all life and that the drowning was her attempt to birth a new form of existence.
+**[[02_Worldbuilding/Places/Deep Mother Zealots]]**
+Worship the mysterious entity known as [[02_Worldbuilding/Lore/The Deep Mother]], believing she is the ultimate source of all life and that the drowning was her attempt to birth a new form of existence.
 
 **Theological Position:**
 - The Deep Mother is the true creator goddess
@@ -156,7 +156,7 @@ Worship the mysterious entity known as [[vault_backup_20250813_073007/02_Worldbu
 - Symbiotic relationships with deep-sea parasites
 
 ### Syncretist Mediators
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Syncretist Mediators]]**
+**[[02_Worldbuilding/Places/Syncretist Mediators]]**
 Believe that all the various religious interpretations contain elements of truth and work to find common ground between competing faiths.
 
 **Theological Position:**
@@ -221,9 +221,9 @@ A growing controversy about whether contact with the surface world should be res
 
 ### The Undead Soul Debate
 A complex theological question about whether undead beings possess souls:
-- This debate connects directly to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Eternal Senate]] citizenship issues
+- This debate connects directly to [[02_Worldbuilding/Places/The Eternal Senate]] citizenship issues
 - Different factions have radically different positions
-- The outcome affects undead rights throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- The outcome affects undead rights throughout [[02_Worldbuilding/Places/Aquabyssos]]
 
 ### The Memory Sacred Controversy
 Disputes about the religious significance of memory and whether [[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]] practices are spiritually acceptable.
@@ -264,7 +264,7 @@ The current rotating leader of the Religious Council of War, representing the [[
 - Tactical genius in religious warfare
 
 ### Leviathan Prophet Thalassa
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Leviathan Prophet Thalassa]]**
+**[[02_Worldbuilding/Places/Leviathan Prophet Thalassa]]**
 Spiritual leader of [[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]] forces, known for her ability to channel the power of massive sea creatures during combat.
 
 **Abilities:**
@@ -274,8 +274,8 @@ Spiritual leader of [[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuildin
 - Transformation into semi-aquatic forms
 
 ### Deep Mother Priestess Sira
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Deep Mother Priestess Sira]]**
-High priestess of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deep Mother Zealots]], whose body shows extensive biological modifications that she claims are gifts from the Deep Mother.
+**[[02_Worldbuilding/People/Deep Mother Priestess Sira]]**
+High priestess of the [[02_Worldbuilding/Places/Deep Mother Zealots]], whose body shows extensive biological modifications that she claims are gifts from the Deep Mother.
 
 **Modifications:**
 - Gills that function as both breathing apparatus and vocal enhancement
@@ -284,8 +284,8 @@ High priestess of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Dee
 - Symbiotic relationship with deep-sea parasites
 
 ### Mediator Cardinal Harmony
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Mediator Cardinal Harmony]]**
-Leader of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Syncretist Mediators]] who has somehow learned to use divine magic from all the competing religious traditions.
+**[[02_Worldbuilding/Places/Mediator Cardinal Harmony]]**
+Leader of the [[02_Worldbuilding/Places/Syncretist Mediators]] who has somehow learned to use divine magic from all the competing religious traditions.
 
 **Unique Abilities:**
 - Multi-faith divine spellcasting
@@ -328,28 +328,28 @@ Some evidence suggests that the gods themselves are orchestrating the theologica
 The supposedly neutral Heresy Hunters may actually serve a hidden religious agenda, gradually steering theological disputes toward specific outcomes.
 
 ### The Ultimate Weapon
-Rumors persist about a theological super-weapon being developed that could end all religious disputes by imposing a single, unified faith on everyone in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+Rumors persist about a theological super-weapon being developed that could end all religious disputes by imposing a single, unified faith on everyone in [[02_Worldbuilding/Places/Aquabyssos]].
 
 ### The Syncretist Solution
-The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Syncretist Mediators]] may have discovered a way to literally merge all the competing religions into a single, unified faith that incorporates all theological perspectives.
+The [[02_Worldbuilding/Places/Syncretist Mediators]] may have discovered a way to literally merge all the competing religions into a single, unified faith that incorporates all theological perspectives.
 
 ## Connected Locations
 
 ### Religious Sites
 - **[[02_Worldbuilding/Groups/Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]:** Primary Divine Order facility
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Leviathan Shrines]]:** Underwater creature worship sites
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Deep Mother Spawning Pools]]:** Transformation and evolution centers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Interfaith Community Centers]]:** Syncretist outreach locations
+- **[[02_Worldbuilding/Places/Leviathan Shrines]]:** Underwater creature worship sites
+- **[[02_Worldbuilding/Places/Deep Mother Spawning Pools]]:** Transformation and evolution centers
+- **[[02_Worldbuilding/Places/Interfaith Community Centers]]:** Syncretist outreach locations
 
 ### Government Relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Eternal Senate]]:** Religious influence on politics
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]:** Theological lobbying efforts
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]]:** Divine counsel to leadership
+- **[[02_Worldbuilding/Places/The Eternal Senate]]:** Religious influence on politics
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]:** Theological lobbying efforts
+- **[[02_Worldbuilding/Places/The Inverse Palace]]:** Divine counsel to leadership
 
 ### Neutral Zones
 - **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Interfaith memorial services
 - **[[02_Worldbuilding/Places/Whisper-Touched William's Oracle Shrine|02 Worldbuilding/Places/Whisper Touched William's Oracle Shrine]]:** Neutral prophetic consultation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Healing Temples]]:** Medical care for combat injuries
+- **[[02_Worldbuilding/Places/Healing Temples]]:** Medical care for combat injuries
 
 ## Adventure Hooks
 
@@ -475,11 +475,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Theological Warfare]]
+- [[02_Worldbuilding/Places/Theological Warfare]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]

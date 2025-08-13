@@ -5,17 +5,17 @@ created: '2025-08-11'
 date_played: null
 estimated_time: 4 hours
 level: 5
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Threshold]] - Between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'
+location: '[[02_Worldbuilding/Lore/The Threshold]] - Between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]'
 npcs_featured:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Drowned God]] (True Form)'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ancient Aquabyssos Rulers]]'
+- '[[02_Worldbuilding/Lore/The Drowned God]] (True Form)'
+- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers]]'
 obsidianUIMode: preview
 quests_advanced:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Rewrite the World Order]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Sealing]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Save Both Civilizations]]'
+- '[[02_Worldbuilding/Groups/Orders/Rewrite the World Order]]'
+- '[[02_Worldbuilding/Lore/The Final Sealing]]'
+- '[[02_Worldbuilding/Lore/Save Both Civilizations]]'
 session_number: 8
 status: complete
 tags:
@@ -47,7 +47,7 @@ world: Aethermoor
 
 ## 🎬 Strong Start
 
-Reality fractures. The party exists simultaneously in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. They see the same location in two timelines - the current festival disaster and the ancient catastrophe that created the Drowned God. They must navigate both realities, as actions in one affect the other. The bloodline carrier begins fragmenting across dimensions.
+Reality fractures. The party exists simultaneously in [[02_Worldbuilding/Places/Port Meridian]] and [[02_Worldbuilding/Places/Aquabyssos]]. They see the same location in two timelines - the current festival disaster and the ancient catastrophe that created the Drowned God. They must navigate both realities, as actions in one affect the other. The bloodline carrier begins fragmenting across dimensions.
 
 ## 📍 Scenes
 
@@ -81,7 +81,7 @@ Reality fractures. The party exists simultaneously in [[vault_backup_20250813_07
 2. Aquabyssos's magic could solve Aethermoor's problems
 3. The entity feeds on isolation between worlds
 4. Ancient Aquabyssos had peaceful surface relations
-5. [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] is burning her life force as fuel
+5. [[02_Worldbuilding/People/The Crimson Sage]] is burning her life force as fuel
 6. The Queen's love for her people can break the possession
 7. Time is circular in this space - endings create beginnings
 8. The Festival was always meant to be a bridge ceremony
@@ -145,14 +145,14 @@ Reality fractures. The party exists simultaneously in [[vault_backup_20250813_07
 
 ## 🎭 Cliffhanger Ending
 
-The party succeeds in beginning the rewriting process. Reality stabilizes into a new configuration - [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] rises but as floating districts above [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]], connected by crystalline bridges. Water flows upward in certain areas. The two civilizations can see each other, learn from each other. But the bloodline carrier stands at the center, their body becoming the living seal between worlds. They have one choice: remain as an eternal guardian, conscious but transformed, or pass the burden to another. The Queen, free from possession, approaches with tears: "There is another way. The crown can hold the seal, but someone must wear it forever, ruling both worlds but belonging to neither." The entity's voice echoes one last time: "Choose quickly. The window closes at dawn."
+The party succeeds in beginning the rewriting process. Reality stabilizes into a new configuration - [[02_Worldbuilding/Places/Aquabyssos]] rises but as floating districts above [[02_Worldbuilding/Places/Port Meridian]], connected by crystalline bridges. Water flows upward in certain areas. The two civilizations can see each other, learn from each other. But the bloodline carrier stands at the center, their body becoming the living seal between worlds. They have one choice: remain as an eternal guardian, conscious but transformed, or pass the burden to another. The Queen, free from possession, approaches with tears: "There is another way. The crown can hold the seal, but someone must wear it forever, ruling both worlds but belonging to neither." The entity's voice echoes one last time: "Choose quickly. The window closes at dawn."
 
 ## 🔗 Connected Notes
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Drowned God]]
-- [[vault_backup_20250813_073007/03_Mechanics/Dual World Mechanics]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/Reality Merge Zones]]
+- [[02_Worldbuilding/Lore/The Drowned God]]
+- [[03_Mechanics/Dual World Mechanics]]
 
 ## 📝 DM Notes
 ```
@@ -177,4 +177,4 @@ Key Mechanics:
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Drowned God]]
+- [[02_Worldbuilding/Lore/The Drowned God]]

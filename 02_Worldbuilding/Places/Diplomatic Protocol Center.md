@@ -272,12 +272,12 @@ The complex's unique architecture adapts to serve both aquatic and aerial inhabi
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Cross-Dimensional Transit Authority]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Inter-Realm Council]]
+- [[02_Worldbuilding/Places/Cross-Dimensional Transit Authority]]
+- [[02_Worldbuilding/Lore/Inter-Realm Council]]
 - [[Cultural Exchange Programs]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/Cross-Realm Cooperation Authority]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Cross-Realm Cooperation Authority]]
 - [[Inter-Realm Trade Routes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Hybrid Communities Integration]]
+- [[02_Worldbuilding/Places/Hybrid Communities Integration]]
 
 ## Player-Facing Summary
 
@@ -289,6 +289,6 @@ Legends speak of Diplomatic Protocol Center as a nexus where past and present co
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Diplomatic Protocol Center]]
+- [[02_Worldbuilding/Places/Diplomatic Protocol Center]]
 
 <!-- enriched: true -->

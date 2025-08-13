@@ -120,7 +120,7 @@ This quest combines environmental urgency with political intrigue and dungeon ex
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Wandering Atoll]]
+- [[02_Worldbuilding/Places/The Wandering Atoll]]
 
 
 ## History
@@ -162,6 +162,6 @@ Legends speak of The Last Seeds as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Last Seeds]]
+- [[02_Worldbuilding/Places/The Last Seeds]]
 
 <!-- enriched: true -->

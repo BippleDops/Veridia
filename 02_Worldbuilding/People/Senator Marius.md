@@ -80,11 +80,11 @@ Born to House Tidespeaker, a minor noble family that lost their fortune defendin
 - Writing legislation to protect workers' rights and limit imperial overreach
 
 ## Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Cordelia Deepcurrent]]** - Political rival who respects his integrity despite disagreeing with his methods
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Complex relationship of loyal opposition
+- **[[02_Worldbuilding/People/Senator Cordelia Deepcurrent]]** - Political rival who respects his integrity despite disagreeing with his methods
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Complex relationship of loyal opposition
 - **The Common Citizens** - Strong popular support base among working people
 - **Conservative Senators** - Opposition faction that sees him as dangerous revolutionary
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Pearl Guard]]** - Tense relationship due to his criticism of imperial enforcement
+- **[[02_Worldbuilding/People/The Pearl Guard]]** - Tense relationship due to his criticism of imperial enforcement
 
 ## Services & Resources
 - **Political Advocacy** - Can champion causes in the Senate
@@ -106,7 +106,7 @@ Born to House Tidespeaker, a minor noble family that lost their fortune defendin
 - Secretly funded by a network of progressive merchants who believe reform will improve business
 - His family's disgrace came from refusing to support a corrupt imperial policy that would have enriched them
 - Maintains correspondence with democratic movements in other realms
-- Has discovered evidence of [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Parliament]] infiltration but lacks proof
+- Has discovered evidence of [[02_Worldbuilding/People/Shadow Parliament]] infiltration but lacks proof
 - Plans to run for higher office if democratic reforms succeed
 - Genuinely believes that Aquabyssos can become a model of enlightened governance
 
@@ -159,7 +159,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Marius]]
+- [[02_Worldbuilding/People/Senator Marius]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]

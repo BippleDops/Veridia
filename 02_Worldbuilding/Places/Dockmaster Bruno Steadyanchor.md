@@ -351,7 +351,7 @@ Steadyanchor Docks connects to numerous important elements throughout Aquabyssos
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/Places/The Phosphor Markets]]
 
 ## Player-Facing Summary
 
@@ -373,6 +373,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Dockmaster Bruno Steadyanchor]]
+- [[02_Worldbuilding/Places/Dockmaster Bruno Steadyanchor]]
 
 <!-- enriched: true -->

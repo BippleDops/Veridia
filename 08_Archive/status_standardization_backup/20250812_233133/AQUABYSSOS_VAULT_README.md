@@ -52,8 +52,7 @@ Primary repo: `origin` at `https://github.com/BippleDops/Veridia.git`
 Use rebase workflow: `git pull --rebase`, `git push`.
 
 ## Housekeeping
-- Archived: `08_Archive/` (reports/backups/data snapshots zipped)
-- Ignored: `scripts/`, `08_Archive/Reports/`, `backups/`, `data/`, `snapshots/`, `*.zip`
+- Archived: `08_Archive/` (reports/`, `08_Archive/Reports/`, `backups/`, `data/`, `snapshots/`, `*.zip`
 
 ## Notes
 This README is the stable entry point; update canvases and galleries as content grows.

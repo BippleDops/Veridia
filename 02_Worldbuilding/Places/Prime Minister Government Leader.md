@@ -58,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Prime Minister Government Leader]]
+- [[02_Worldbuilding/Places/Prime Minister Government Leader]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Palace]]
+- [[02_Worldbuilding/Places/Royal Palace]]

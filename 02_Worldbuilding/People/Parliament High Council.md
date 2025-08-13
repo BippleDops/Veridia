@@ -138,7 +138,7 @@ Legends speak of Parliament High Council as a nexus where past and present conve
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Parliament High Council]]
+- [[02_Worldbuilding/People/Parliament High Council]]
 
 <!-- enriched: true -->
 nriched: true -->

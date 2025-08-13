@@ -8,7 +8,7 @@ created_by: auto-stub
 danger_level: None
 faction: Independent
 influence: Low
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] Bell Tower'
+location: '[[02_Worldbuilding/Places/Port Meridian]] Bell Tower'
 obsidianUIMode: preview
 race: Human
 status: complete
@@ -49,7 +49,7 @@ world: Aquabyssos
 
 ## Overview
 
-**Thomas Bellwright**, known throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] as "Mad Bell-Ringer Thomas," serves as the community's unofficial oracle and warning system, maintaining the ancient bell tower that has guided ships and warned citizens of danger for over two centuries. What many dismiss as the ravings of an eccentric old man often prove to be surprisingly accurate predictions about weather, danger, and significant events affecting the community.
+**Thomas Bellwright**, known throughout [[02_Worldbuilding/Places/Port Meridian]] as "Mad Bell-Ringer Thomas," serves as the community's unofficial oracle and warning system, maintaining the ancient bell tower that has guided ships and warned citizens of danger for over two centuries. What many dismiss as the ravings of an eccentric old man often prove to be surprisingly accurate predictions about weather, danger, and significant events affecting the community.
 
 Once a respected lighthouse keeper and maritime weather expert, Thomas suffered a traumatic experience during the **Great Storm of Eighteen Years Past** when he was forced to watch helplessly as multiple ships were destroyed despite his efforts to warn them. The trauma awakened latent prophetic abilities but also left him with an obsessive need to constantly monitor for signs of danger and an eccentric communication style that many find difficult to understand.
 
@@ -82,7 +82,7 @@ His dedication to his self-appointed role as community guardian has made him bot
 
 **Eccentric Communication**: Has developed unique ways of expressing complex ideas through bell patterns, symbolic language, and cryptic warnings that require interpretation.
 
-**Protective Instinct**: Deeply cares about the safety and wellbeing of everyone in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]], viewing himself as their appointed guardian against unseen threats.
+**Protective Instinct**: Deeply cares about the safety and wellbeing of everyone in [[02_Worldbuilding/Places/Port Meridian]], viewing himself as their appointed guardian against unseen threats.
 
 ### Daily Routines and Rituals
 
@@ -225,7 +225,7 @@ A wealthy merchant offers Thomas substantial payment to predict the success of a
 - Economic and social consequences of prophetic warnings
 
 ### The Storm of Storms (Levels 3-5)
-Thomas predicts an unprecedented weather disaster that could destroy [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]], but his warnings are more cryptic than usual, speaking of "winds that carry more than water." The party must help him decode his own prophecy while preparing community defenses.
+Thomas predicts an unprecedented weather disaster that could destroy [[02_Worldbuilding/Places/Port Meridian]], but his warnings are more cryptic than usual, speaking of "winds that carry more than water." The party must help him decode his own prophecy while preparing community defenses.
 
 **Key Elements**:
 - Natural disaster preparation requiring community organization
@@ -251,7 +251,7 @@ Thomas's traumatic experience during the **Great Storm of Eighteen Years Past** 
 The tower has a long tradition of eccentric but effective guardians, each developing unique methods for community protection. Thomas represents the latest in this line, though his prophetic abilities surpass his predecessors.
 
 ### Community Integration
-Despite his eccentricities, Thomas has become an integral part of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]'s cultural identity, with his bell patterns serving as an unofficial community clock and his warnings providing psychological comfort even when not entirely understood.
+Despite his eccentricities, Thomas has become an integral part of [[02_Worldbuilding/Places/Port Meridian]]'s cultural identity, with his bell patterns serving as an unofficial community clock and his warnings providing psychological comfort even when not entirely understood.
 
 ### Official Recognition
 While never formally appointed, Thomas's effectiveness has earned implicit official recognition, with some government decisions quietly influenced by his predictions and warnings.
@@ -281,11 +281,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mad Bell-Ringer Thomas]]
+- [[02_Worldbuilding/Places/Mad Bell-Ringer Thomas]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/Port Meridian]]

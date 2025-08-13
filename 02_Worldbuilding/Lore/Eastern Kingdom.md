@@ -1,10 +1,10 @@
 ---
 connections:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Chamber]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Magic Items]]'
+- '[[02_Worldbuilding/Lore/Crystal Forest]]'
+- '[[02_Worldbuilding/Lore/Resonance Chamber]]'
+- '[[02_Worldbuilding/Places/Pressure Tubes]]'
+- '[[02_Worldbuilding/Lore/The Great Crystallization]]'
+- '[[02_Worldbuilding/Lore/Magic Items]]'
 created: '2025-08-08'
 created_by: lore-expansion
 economic_focus: Advanced Manufacturing
@@ -51,18 +51,18 @@ world: Aethermoor
 
 ## Overview
 
-The Eastern Kingdoms represent the technological and industrial heart of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], a confederation of city-states and specialized settlements united by their dedication to magical engineering, crystal technology, and advanced manufacturing. Following [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]], this region emerged as the primary center for understanding, processing, and applying crystalline technology that transformed civilization.
+The Eastern Kingdoms represent the technological and industrial heart of [[02_Worldbuilding/Places/Aethermoor]], a confederation of city-states and specialized settlements united by their dedication to magical engineering, crystal technology, and advanced manufacturing. Following [[02_Worldbuilding/Lore/The Great Crystallization]], this region emerged as the primary center for understanding, processing, and applying crystalline technology that transformed civilization.
 
-Unlike the political capitals or agricultural centers found elsewhere in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], the Eastern Kingdoms organize around principles of innovation, craftsmanship, and technological advancement. Their cities feature towering workshops, crystalline foundries, and research complexes where the most skilled engineers and artificers work to push the boundaries of what magical technology can achieve.
+Unlike the political capitals or agricultural centers found elsewhere in [[02_Worldbuilding/Places/Aethermoor]], the Eastern Kingdoms organize around principles of innovation, craftsmanship, and technological advancement. Their cities feature towering workshops, crystalline foundries, and research complexes where the most skilled engineers and artificers work to push the boundaries of what magical technology can achieve.
 
-The region's unique position near the Eastern Spire, one of the seven crystal eruption sites from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]], provides unparalleled access to blue crystals that enhance mental amplification and cognitive abilities. This proximity has shaped a culture that values intellectual achievement, technical mastery, and collaborative innovation above traditional forms of political or military power.
+The region's unique position near the Eastern Spire, one of the seven crystal eruption sites from [[02_Worldbuilding/Lore/The Great Crystallization]], provides unparalleled access to blue crystals that enhance mental amplification and cognitive abilities. This proximity has shaped a culture that values intellectual achievement, technical mastery, and collaborative innovation above traditional forms of political or military power.
 
 Modern Eastern Kingdoms function as a loose federation of specialized communities, each contributing unique expertise to the region's collective technological capabilities while maintaining their individual cultural identities and governance structures.
 
 ## Historical Development
 
 ### Pre-Crystallization Era
-Before [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]], the Eastern Kingdoms consisted of traditional agricultural communities and mining settlements that exploited the region's rich mineral deposits. These early settlements developed strong traditions of metalworking, gemcutting, and precision craftsmanship that would prove essential when crystal technology emerged.
+Before [[02_Worldbuilding/Lore/The Great Crystallization]], the Eastern Kingdoms consisted of traditional agricultural communities and mining settlements that exploited the region's rich mineral deposits. These early settlements developed strong traditions of metalworking, gemcutting, and precision craftsmanship that would prove essential when crystal technology emerged.
 
 The region's mountainous terrain and scattered communities created a culture of self-reliance and technical innovation, with each settlement developing specialized skills to survive and thrive in their particular environment. This foundation of distributed expertise became crucial when the kingdoms needed to rapidly adapt to the post-Crystallization world.
 
@@ -72,7 +72,7 @@ When the Eastern Spire erupted, local communities were among the first to recogn
 This practical approach led to breakthrough discoveries in crystal manipulation, resonance control, and magical enhancement that established the region as the foremost authority on crystalline technology. The communities that survived the initial catastrophe did so by quickly learning to harness crystal power for protection, healing, and resource production.
 
 ### The Innovation Age
-In the centuries following the Crystallization, the Eastern Kingdoms evolved into a technological powerhouse that supplied advanced equipment, crystal-enhanced tools, and engineering expertise to communities throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]. This period saw the establishment of the great workshop cities, research institutes, and guild networks that continue to drive innovation today.
+In the centuries following the Crystallization, the Eastern Kingdoms evolved into a technological powerhouse that supplied advanced equipment, crystal-enhanced tools, and engineering expertise to communities throughout [[02_Worldbuilding/Places/Aethermoor]]. This period saw the establishment of the great workshop cities, research institutes, and guild networks that continue to drive innovation today.
 
 The region's political structure also evolved to support technological advancement, with governance shifting from traditional feudal systems to guild-based federations where expertise and innovation carried more weight than birthright or military power.
 
@@ -80,7 +80,7 @@ The region's political structure also evolved to support technological advanceme
 
 ### The Great Workshops of Crystalhaven
 
-The crown jewel of Eastern Kingdom technology, [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] houses the largest and most sophisticated magical workshops in the known world. These facilities combine traditional craftsmanship with advanced crystal technology to produce everything from basic household items to artifact-level magical equipment.
+The crown jewel of Eastern Kingdom technology, [[02_Worldbuilding/Places/Crystalhaven]] houses the largest and most sophisticated magical workshops in the known world. These facilities combine traditional craftsmanship with advanced crystal technology to produce everything from basic household items to artifact-level magical equipment.
 
 **Master Workshops**: Each major craft discipline maintains specialized facilities equipped with the finest tools and most advanced techniques available. These workshops serve as centers of excellence where master craftsmen train apprentices while pushing the boundaries of their particular specializations.
 
@@ -89,13 +89,13 @@ The crown jewel of Eastern Kingdom technology, [[vault_backup_20250813_073007/02
 - **The Enhancement Laboratories**: Research facilities where existing items are modified with crystal enhancements, magical properties, and advanced capabilities
 - **The Quality Assurance Centers**: Testing facilities that verify item functionality, safety, and performance before release to ensure that Eastern Kingdom products maintain their reputation for excellence
 
-**Innovation Laboratories**: Cutting-edge research facilities where experimental techniques are developed and tested before being incorporated into production workshops. These laboratories attract the most brilliant minds from across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and maintain partnerships with research institutions throughout the known world.
+**Innovation Laboratories**: Cutting-edge research facilities where experimental techniques are developed and tested before being incorporated into production workshops. These laboratories attract the most brilliant minds from across [[02_Worldbuilding/Places/Aethermoor]] and maintain partnerships with research institutions throughout the known world.
 
 **Training Academies**: Educational facilities that combine theoretical instruction with hands-on experience to train the next generation of engineers, artificers, and specialized craftsmen. These academies maintain rigorous standards that ensure graduates possess both technical competence and creative problem-solving abilities.
 
 ### Crystal Processing and Enhancement Centers
 
-The Eastern Kingdoms maintain the most advanced crystal processing capabilities in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], with facilities designed to handle everything from basic crystal refinement to the creation of complex hybrid crystal matrices that enable advanced technological applications.
+The Eastern Kingdoms maintain the most advanced crystal processing capabilities in [[02_Worldbuilding/Places/Aethermoor]], with facilities designed to handle everything from basic crystal refinement to the creation of complex hybrid crystal matrices that enable advanced technological applications.
 
 **Primary Processing Facilities**: Industrial-scale operations that convert raw crystal materials into standardized components suitable for various technological applications. These facilities employ advanced techniques for crystal purification, size standardization, and quality control that ensure consistent performance in finished products.
 
@@ -105,13 +105,13 @@ The Eastern Kingdoms maintain the most advanced crystal processing capabilities 
 
 ### Transportation and Communication Networks
 
-**The Eastern Engineering Corps** maintains sophisticated transportation infrastructure that connects all major technological centers throughout the region while providing efficient connections to the rest of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]].
+**The Eastern Engineering Corps** maintains sophisticated transportation infrastructure that connects all major technological centers throughout the region while providing efficient connections to the rest of [[02_Worldbuilding/Places/Aethermoor]].
 
 **Crystal-Enhanced Roadways**: Advanced transportation routes that use embedded crystals to enhance vehicle performance, provide navigation assistance, and maintain road conditions despite weather and heavy use. These roads enable rapid movement of materials, finished goods, and personnel between manufacturing centers.
 
 **Communication Networks**: Comprehensive communication systems that use crystal-based technology to maintain real-time contact between research facilities, workshops, and administrative centers. These systems enable coordination of complex projects that span multiple locations while facilitating rapid response to technical problems or resource needs.
 
-**Cargo Distribution Systems**: Sophisticated logistics networks that handle the movement of raw materials into the region and finished products out to markets throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and beyond. These systems include specialized handling equipment for delicate technological products and secure transport for valuable or dangerous items.
+**Cargo Distribution Systems**: Sophisticated logistics networks that handle the movement of raw materials into the region and finished products out to markets throughout [[02_Worldbuilding/Places/Aethermoor]] and beyond. These systems include specialized handling equipment for delicate technological products and secure transport for valuable or dangerous items.
 
 ## Major Technological Centers
 
@@ -180,9 +180,9 @@ The most prestigious professional organization in the Eastern Kingdoms, represen
 
 A professional organization focused specifically on crystal technology, this alliance coordinates research into crystal properties, develops new applications for crystalline materials, and maintains safety standards for working with potentially dangerous crystal effects.
 
-**Crystal Cultivation Division**: Specialists who grow and shape crystals for specific applications, working closely with facilities like [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] to develop new varieties and improve existing growing techniques.
+**Crystal Cultivation Division**: Specialists who grow and shape crystals for specific applications, working closely with facilities like [[02_Worldbuilding/Lore/Crystal Forest]] to develop new varieties and improve existing growing techniques.
 
-**Resonance Engineering Section**: Experts in using crystal resonance effects for various applications including communication, energy storage, and mechanical enhancement. These engineers work closely with facilities like [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Chamber]] to develop new applications.
+**Resonance Engineering Section**: Experts in using crystal resonance effects for various applications including communication, energy storage, and mechanical enhancement. These engineers work closely with facilities like [[02_Worldbuilding/Lore/Resonance Chamber]] to develop new applications.
 
 **Safety and Containment Bureau**: Specialists who develop protocols for safe crystal handling, corruption prevention, and emergency response procedures when crystal technology fails or becomes dangerous.
 
@@ -204,7 +204,7 @@ The Eastern Kingdoms have developed the most sophisticated methods for enhancing
 
 **Hybrid Crystal Creation**: Techniques for combining different crystal types to create materials with multiple properties or enhanced capabilities. These hybrid crystals enable applications impossible with natural crystal varieties alone.
 
-**Controlled Corruption Resistance**: Methods for creating crystals that resist the effects of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Influence]] while maintaining their beneficial properties. This breakthrough enables the creation of equipment that remains functional in corrupted areas.
+**Controlled Corruption Resistance**: Methods for creating crystals that resist the effects of [[02_Worldbuilding/Lore/The Crystal Influence]] while maintaining their beneficial properties. This breakthrough enables the creation of equipment that remains functional in corrupted areas.
 
 **Resonance Tuning**: Precise adjustment of crystal resonance frequencies to optimize performance for specific applications. This technique allows the same basic crystal type to serve many different technological functions through careful calibration.
 
@@ -238,7 +238,7 @@ Pioneering work in combining traditional mechanical engineering with magical enh
 
 The Eastern Kingdoms operate on an economy based on innovation, expertise, and high-value manufacturing rather than traditional agriculture or resource extraction.
 
-**Export Economy**: The region exports advanced technological products throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and to other realms, trading sophisticated manufactured goods for raw materials, food, and basic supplies.
+**Export Economy**: The region exports advanced technological products throughout [[02_Worldbuilding/Places/Aethermoor]] and to other realms, trading sophisticated manufactured goods for raw materials, food, and basic supplies.
 
 **Knowledge Economy**: Expertise and technical knowledge represent valuable commodities that the region trades for resources and political influence. Technical consultants and specialized craftsmen from the Eastern Kingdoms are sought after throughout the civilized world.
 
@@ -248,11 +248,11 @@ The Eastern Kingdoms operate on an economy based on innovation, expertise, and h
 
 ### Trade Relationships
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] Partnership**: Close cooperation with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] provides access to specialized crystal varieties while the Eastern Kingdoms provide crystal processing expertise and finished technological products.
+**[[02_Worldbuilding/Lore/Crystal Forest]] Partnership**: Close cooperation with the [[02_Worldbuilding/Lore/Crystal Forest]] in [[02_Worldbuilding/Places/Aquabyssos]] provides access to specialized crystal varieties while the Eastern Kingdoms provide crystal processing expertise and finished technological products.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] Government Contracts**: The regional government depends on Eastern Kingdom products for infrastructure development, military equipment, and administrative technologies while providing political support and resource access.
+**[[02_Worldbuilding/Places/Aethermoor]] Government Contracts**: The regional government depends on Eastern Kingdom products for infrastructure development, military equipment, and administrative technologies while providing political support and resource access.
 
-**International Commerce**: Growing trade relationships with other realms provide access to exotic materials and new markets while spreading Eastern Kingdom technological influence beyond [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]].
+**International Commerce**: Growing trade relationships with other realms provide access to exotic materials and new markets while spreading Eastern Kingdom technological influence beyond [[02_Worldbuilding/Places/Aethermoor]].
 
 **Academic Exchanges**: Partnerships with educational institutions throughout the civilized world provide access to new research, alternative approaches to technical problems, and cultural perspectives that inspire innovation.
 
@@ -272,7 +272,7 @@ The Eastern Kingdoms operate on an economy based on innovation, expertise, and h
 
 **Enhanced Conventional Weapons**: Traditional weapons improved with crystal enhancements that increase damage, accuracy, and reliability while providing special capabilities against specific types of enemies.
 
-**Specialized Anti-Corruption Weapons**: Equipment designed specifically for fighting [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Influence]] and other corruption effects that threaten the realm.
+**Specialized Anti-Corruption Weapons**: Equipment designed specifically for fighting [[02_Worldbuilding/Lore/The Crystal Influence]] and other corruption effects that threaten the realm.
 
 **Siege Equipment**: Advanced artillery and siege devices that combine mechanical engineering with magical enhancement to provide unprecedented assault capabilities.
 
@@ -324,7 +324,7 @@ The Eastern Kingdoms operate on an economy based on innovation, expertise, and h
 
 ### Technological Challenges
 
-**Corruption Resistance**: Developing technologies that remain functional in areas affected by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Influence]] while providing protection against corruption effects that threaten both equipment and personnel.
+**Corruption Resistance**: Developing technologies that remain functional in areas affected by [[02_Worldbuilding/Lore/The Crystal Influence]] while providing protection against corruption effects that threaten both equipment and personnel.
 
 **Resource Limitations**: Managing the growing demand for rare materials and specialized components while maintaining production levels and exploring alternatives that might reduce dependency on limited resources.
 
@@ -344,11 +344,11 @@ The Eastern Kingdoms operate on an economy based on innovation, expertise, and h
 
 ### Strategic Opportunities
 
-**Cross-Realm Integration**: Developing stronger partnerships with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and other realms to share knowledge, coordinate research, and create technologies that benefit all allied civilizations.
+**Cross-Realm Integration**: Developing stronger partnerships with [[02_Worldbuilding/Places/Aquabyssos]] and other realms to share knowledge, coordinate research, and create technologies that benefit all allied civilizations.
 
 **Emerging Technologies**: Exploring new applications for existing technologies while investigating completely new approaches that might revolutionize current capabilities.
 
-**Infrastructure Development**: Expanding technological infrastructure throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] to improve communication, transportation, and quality of life while creating new markets for regional products.
+**Infrastructure Development**: Expanding technological infrastructure throughout [[02_Worldbuilding/Places/Aethermoor]] to improve communication, transportation, and quality of life while creating new markets for regional products.
 
 **Educational Expansion**: Developing new educational programs and partnerships that attract the most talented individuals from throughout the civilized world while spreading Eastern Kingdom expertise to allied regions.
 
@@ -360,7 +360,7 @@ The Eastern Kingdoms operate on an economy based on innovation, expertise, and h
 
 **Sabotage Incidents**: Mysterious failures in critical infrastructure suggest deliberate sabotage, requiring investigation into both the technical problems and the political motivations behind them.
 
-**Corruption Outbreaks**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Influence]] begins affecting technological facilities, requiring urgent response to contain the corruption while protecting essential equipment and personnel.
+**Corruption Outbreaks**: [[02_Worldbuilding/Lore/The Crystal Influence]] begins affecting technological facilities, requiring urgent response to contain the corruption while protecting essential equipment and personnel.
 
 **Quality Control Crisis**: Advanced technological products begin failing in dangerous ways, requiring investigation into whether this represents natural failure, manufacturing problems, or deliberate contamination.
 
@@ -396,21 +396,21 @@ The Eastern Kingdoms operate on an economy based on innovation, expertise, and h
 
 ## Connected Organizations and Locations
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] - Primary partner for crystal cultivation and processing
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Chamber]] - Collaborating research facility for resonance applications
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]] - Technology transfer and enhancement partnership
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]] - Historical event that created current technological opportunities
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Magic Items]] - Primary market for Eastern Kingdom technological products
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] - Political entity that Eastern Kingdoms belong to
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Master Artificers Guild]] - Key professional organization
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Technical University]] - Primary educational institution
+- [[02_Worldbuilding/Lore/Crystal Forest]] - Primary partner for crystal cultivation and processing
+- [[02_Worldbuilding/Lore/Resonance Chamber]] - Collaborating research facility for resonance applications
+- [[02_Worldbuilding/Places/Pressure Tubes]] - Technology transfer and enhancement partnership
+- [[02_Worldbuilding/Lore/The Great Crystallization]] - Historical event that created current technological opportunities
+- [[02_Worldbuilding/Lore/Magic Items]] - Primary market for Eastern Kingdom technological products
+- [[02_Worldbuilding/Places/Aethermoor]] - Political entity that Eastern Kingdoms belong to
+- [[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]] - Key professional organization
+- [[02_Worldbuilding/Lore/Eastern Technical University]] - Primary educational institution
 - [[Grand Engineer Prism Masterwork]] - Regional technological leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Engineers Alliance]] - Professional organization for crystal specialists
+- [[02_Worldbuilding/Lore/Crystal Engineers Alliance]] - Professional organization for crystal specialists
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
+- [[02_Worldbuilding/Groups/Guilds/Master Artificers Guild]]
 
 ## Player-Facing Summary
 

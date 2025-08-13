@@ -23,18 +23,18 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Court Herald Titus]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverted Ballroom Wing]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Terminal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temporal Navigation]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Market]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Eel Keepers]]
+- [[02_Worldbuilding/Places/Court Herald Titus]]
+- [[02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
+- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[02_Worldbuilding/Places/Pressure Terminal]]
+- [[02_Worldbuilding/Places/Temporal Navigation]]
+- [[02_Worldbuilding/Places/The Depth Market]]
+- [[02_Worldbuilding/Places/The Eel Keepers]]
 
 ## Player-Facing Summary
 

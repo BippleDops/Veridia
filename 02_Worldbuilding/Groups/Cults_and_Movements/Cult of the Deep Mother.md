@@ -339,14 +339,14 @@ Use the concentric circle structure to provide different levels of opposition an
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Lore]]
+- [[02_Worldbuilding/Lore/Deep Mother Lore]]
 - [[Complete Deep Mother Subsystem]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]]
+- [[02_Worldbuilding/Lore/Shadow Corruption]]
 - [[02_Worldbuilding/Groups/Order of the Silver Ancho|02 Worldbuilding/Groups/Order Of The Silver Ancho]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Scholars of Divine Lore]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple of the Sunken Cathedral]]
+- [[02_Worldbuilding/Groups/Scholars of Divine Lore]]
+- [[02_Worldbuilding/Places/Temple of the Sunken Cathedral]]
 - [[Void Shepherds]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Anchors]]
+- [[02_Worldbuilding/Lore/Reality Anchors]]
 - [[Avatar Manifestations]]
 
 ## Adventure Hooks

@@ -47,13 +47,13 @@ race: Tiefling
 class: Rogue/Warlock
 level: 12
 alignment: Neutral Evil
-location: "[[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]"
+location: "[[02_Worldbuilding/Places/Crystalhaven]]"
 faction: "[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]"
 status: Alive
 created: 2024-12-20
 image: "04_Resources/Assets/NPCs/vex_shadowthorn.jpg"
 ## 5e Integration
-base_5e_statblock: "[[vault_backup_20250813_073007/02_Worldbuilding/People/Assassin]]"
+base_5e_statblock: "[[02_Worldbuilding/People/Assassin]]"
 statblock_source: "MM"
 page_reference: "MM p.343"
 modifications: "Added Warlock pact magic, tiefling traits, crystal corruption abilities"
@@ -63,7 +63,7 @@ modifications: "Added Warlock pact magic, tiefling traits, crystal corruption ab
 *The Whisper in the Dark, Master of the Syndicate*
 
 ## Overview
-Vex Shadowthorn controls [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]], [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s most powerful criminal organization. Brilliant, ruthless, and utterly amoral, they profit from the crystal trade's dark side while gathering blackmail on everyone of importance. They know far more about the true nature of the crystals than they should, including [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption.
+Vex Shadowthorn controls [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]], [[02_Worldbuilding/Places/Aethermoor]]'s most powerful criminal organization. Brilliant, ruthless, and utterly amoral, they profit from the crystal trade's dark side while gathering blackmail on everyone of importance. They know far more about the true nature of the crystals than they should, including [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption.
 
 ## Appearance
 - **Race**: Tiefling with obsidian-black skin
@@ -78,7 +78,7 @@ Vex Shadowthorn controls [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worl
 - **Traits**: Calculating, charming, paranoid, ambitious
 - **Loves**: Power, secrets, causing chaos
 - **Hates**: Predictability, true believers, losing control
-- **Fears**: The truth about [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]], becoming corrupted
+- **Fears**: The truth about [[02_Worldbuilding/People/The Crimson Sage]], becoming corrupted
 - **Quirk**: Never sleeps in same place twice
 
 ## Deep Character Background & Nuance
@@ -215,14 +215,14 @@ Vex Shadowthorn controls [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worl
 ### Criminal Network
 - **[[Marcus "The Shade" Blackwood]]** - Top enforcer and field commander
 - **[[02_Worldbuilding/People/Jasper Three-Eyes Flint|02 Worldbuilding/People/Jasper Three Eyes Flint]]** - Information broker and intelligence chief
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Smuggling partner with access to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Smuggling partner with access to [[02_Worldbuilding/Places/Aquabyssos]]
 - **[[02_Worldbuilding/Groups/Vex Shadowthorn's Apprentices|02 Worldbuilding/Groups/Vex Shadowthorn's Apprentices]]** - Elite operatives trained personally
 - **Dozens of corrupted officials** - Judges, guards, merchants under their control
 
 ### Blackmail Victims & Targets
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Knows of her crystal corruption
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Financial crimes and secret activities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]** - Information about his ancestor being a Betrayer
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Knows of her crystal corruption
+- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Financial crimes and secret activities
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Information about his ancestor being a Betrayer
 - **Various nobles** - Compromising crystal addiction evidence
 - **Merchant Guild Leaders** - Proof of illegal crystal trade participation
 
@@ -239,18 +239,18 @@ Vex Shadowthorn controls [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worl
 - **Corrupt Officials** - Government contacts providing protection
 - **Underground Networks** - Connections to other criminal organizations
 - **Black Market Merchants** - Dealers in forbidden goods and services
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]] - Past indiscretions
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]] - Past indiscretions
 - Many nobles and merchants
 
 ### Enemies
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Seeks to destroy Syndicate
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] - Ideological opposition
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]] - Active investigation
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Seeks to destroy Syndicate
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Ideological opposition
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Active investigation
 
 ### Complicated
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Knows they're more than they seem
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]] - Potential alliance
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Mutual respect
+- [[02_Worldbuilding/People/The Crimson Sage]] - Knows they're more than they seem
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Potential alliance
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Mutual respect
 
 ## Secrets
 > [!warning] DM Only
@@ -263,10 +263,10 @@ Vex Shadowthorn controls [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worl
 
 ## Current Operations
 - Distributing corrupted crystals to create addicts
-- Blackmailing [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- Blackmailing [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
 - Searching for the Seventh Shard
 - Building private army of corrupted individuals
-- Infiltrating [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- Infiltrating [[02_Worldbuilding/People/Crystal Wardens]]
 
 ## Motivations
 1. **Primary**: Absolute control over crystal trade
@@ -300,7 +300,7 @@ Vex Shadowthorn controls [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worl
 ## Syndicate Operations
 
 ### Legal Fronts
-- **The Gilded Serpent**: Casino in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- **The Gilded Serpent**: Casino in [[02_Worldbuilding/Places/Port Meridian]]
 - **Shadowthorn Trading Company**: Import/export
 - **The Velvet Room**: High-end brothel
 
@@ -334,28 +334,28 @@ Vex Shadowthorn controls [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worl
 
 ## DM Notes
 - Major antagonist but could become ally
-- Knows more about crystals than anyone except [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]
+- Knows more about crystals than anyone except [[02_Worldbuilding/People/The Crimson Sage]]
 - Their downfall or redemption could be major plot point
 - Has contingency plans for their own death
 - More complex than pure evil—traumatized orphan at core
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Blackmail victim
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Blackmail victim
 - [[Marcus "The Shade" Blackwood]] - Enforcer
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Fears and respects
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Business partner
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]] - Potential ally
+- [[02_Worldbuilding/People/The Crimson Sage]] - Fears and respects
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Business partner
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Potential ally
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Base of operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Smuggling hub
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Warren]] - Syndicate territory
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Corroded Crown]] - Meeting place
+- [[02_Worldbuilding/Places/Crystalhaven]] - Base of operations
+- [[02_Worldbuilding/Places/Port Meridian]] - Smuggling hub
+- [[02_Worldbuilding/People/The Shadow Warren]] - Syndicate territory
+- [[02_Worldbuilding/People/The Corroded Crown]] - Meeting place
 
 ## Involved Quests
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Profiting from chaos
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - Syndicate Shadows]] - Main antagonist
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Blackmail Papers]] - Central figure
+- [[02_Worldbuilding/People/Quest - Syndicate Shadows]] - Main antagonist
+- [[02_Worldbuilding/People/Quest - The Blackmail Papers]] - Central figure
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Competing for it
 
 ## Player-Facing Summary
@@ -374,21 +374,21 @@ Legends speak of Vex Shadowthorn as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/01_Adventures/The_Sunken_Conspiracy/Introduction]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Assassin]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Warren]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Blackmail Papers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Thief]]
+- [[01_Adventures/The_Sunken_Conspiracy/Introduction]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Lore/The Crimson Hand]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]]
+- [[02_Worldbuilding/People/Assassin]]
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
+- [[02_Worldbuilding/People/The Shadow Warren]]
+- [[02_Worldbuilding/People/Quest - The Blackmail Papers]]
+- [[02_Worldbuilding/Places/The Memory Thief]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

@@ -9,11 +9,11 @@ participants:
 - Seven Trusted Advisors
 - Divine Court
 related_entities:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aetheron]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shattering of the Crown]]'
+- '[[02_Worldbuilding/Lore/The Great Crystallization]]'
+- '[[02_Worldbuilding/Lore/The Seven Shards]]'
+- '[[02_Worldbuilding/Lore/The Crown of Stars]]'
+- '[[02_Worldbuilding/Lore/Aetheron]]'
+- '[[02_Worldbuilding/Lore/The Shattering of the Crown]]'
 scale: Continental
 significance: World-Defining
 status: complete
@@ -47,7 +47,7 @@ world: Aethermoor
 
 ## Overview
 
-The Seven Betrayers were the most trusted advisors to **God-King Aetheron**, the divine ruler of pre-Crystallization [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]. Their coordinated act of treachery - the attempted theft of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] - directly caused [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]], fundamentally reshaping the world and dooming their descendants to bear the consequences of their ancestral greed. Each betrayer represented a different aspect of mortal ambition, and each became the progenitor of bloodlines that continue to influence Aethermoor politics to this day.
+The Seven Betrayers were the most trusted advisors to **God-King Aetheron**, the divine ruler of pre-Crystallization [[02_Worldbuilding/Places/Aethermoor]]. Their coordinated act of treachery - the attempted theft of [[02_Worldbuilding/Lore/The Crown of Stars]] - directly caused [[02_Worldbuilding/Lore/The Great Crystallization]], fundamentally reshaping the world and dooming their descendants to bear the consequences of their ancestral greed. Each betrayer represented a different aspect of mortal ambition, and each became the progenitor of bloodlines that continue to influence Aethermoor politics to this day.
 
 ## The Divine Court Before the Betrayal
 
@@ -57,7 +57,7 @@ The Seven Betrayers were the most trusted advisors to **God-King Aetheron**, the
 Aetheron ruled as both mortal king and divine entity, having achieved true godhood through a perfect balance of temporal power and spiritual transcendence. His reign, known as the **Age of Stellar Harmony**, represented the pinnacle of pre-Crystallization civilization:
 
 **Divine Authority:**
-- Wielded [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]], artifact of genuine divine power
+- Wielded [[02_Worldbuilding/Lore/The Crown of Stars]], artifact of genuine divine power
 - Commanded elements, weather, and natural forces directly
 - Possessed prophetic sight extending centuries into the future
 - Could grant limited divine power to worthy servants
@@ -157,7 +157,7 @@ Despite their different motivations, the seven advisors gradually discovered eac
 Despite their alliance, the betrayers faced significant obstacles:
 - Aetheron's prophetic abilities made secrecy nearly impossible
 - Divine blessing allowed him to sense deception from trusted servants
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] was protected by multiple layers of celestial security
+- [[02_Worldbuilding/Lore/The Crown of Stars]] was protected by multiple layers of celestial security
 - Failure would result in not just death, but eternal punishment across multiple planes
 - Success would require precise timing and flawless coordination
 
@@ -170,7 +170,7 @@ The betrayers chose the most sacred night of Aetheron's calendar - the annual ce
 
 **Traditional Elements:**
 - **The Gratitude Ritual**: Citizens offer thanks for divine protection
-- **The Crown Display**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] exhibited for public veneration
+- **The Crown Display**: [[02_Worldbuilding/Lore/The Crown of Stars]] exhibited for public veneration
 - **The Trust Ceremony**: Aetheron removes all magical protections as symbol of faith in his people
 - **The Advisor's Oath**: Annual renewal of loyalty vows by inner circle
 - **The Divine Blessing**: Distribution of enhanced power to worthy servants
@@ -202,7 +202,7 @@ But the betrayers had fundamentally misunderstood the nature of divine power.
 ### The Catastrophic Result
 
 **The Crown's Defense:**
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] was not merely a symbol of divine authority - it was a living conduit connected to the fundamental forces of reality. When the seven betrayers simultaneously attempted to claim it, the artifact's defense mechanisms activated catastrophically:
+[[02_Worldbuilding/Lore/The Crown of Stars]] was not merely a symbol of divine authority - it was a living conduit connected to the fundamental forces of reality. When the seven betrayers simultaneously attempted to claim it, the artifact's defense mechanisms activated catastrophically:
 
 1. **Temporal Fracture**: The crown existed across multiple timelines simultaneously, and the theft attempt created paradoxes
 2. **Dimensional Breach**: Divine power began leaking into parallel realities
@@ -211,10 +211,10 @@ But the betrayers had fundamentally misunderstood the nature of divine power.
 5. **Reality Rejection**: The universe itself began rejecting the theft attempt
 
 **The Shattering:**
-Rather than being stolen cleanly, [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] shattered into seven fragments, each one embedding itself in one of the betrayers before catapulting across Aethermoor to different locations. The divine power, no longer contained, exploded outward in the event known as [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]].
+Rather than being stolen cleanly, [[02_Worldbuilding/Lore/The Crown of Stars]] shattered into seven fragments, each one embedding itself in one of the betrayers before catapulting across Aethermoor to different locations. The divine power, no longer contained, exploded outward in the event known as [[02_Worldbuilding/Lore/The Great Crystallization]].
 
 **Aetheron's Fall:**
-The God-King survived the betrayal but was stripped of his divine nature. Wounded, mortal, and filled with rage at the cosmic injustice, he transformed into [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - a figure of terrible wisdom seeking either redemption or revenge.
+The God-King survived the betrayal but was stripped of his divine nature. Wounded, mortal, and filled with rage at the cosmic injustice, he transformed into [[02_Worldbuilding/People/The Crimson Sage]] - a figure of terrible wisdom seeking either redemption or revenge.
 
 ## The Seven Shards and Their Bearers
 
@@ -227,7 +227,7 @@ Each betrayer was transformed by their shard of the crown, but not in the way th
 - **Transformation**: Became living embodiment of absolute justice
 - **Power**: Could enforce perfect law and order within his domain
 - **Curse**: Lost all capacity for mercy, flexibility, or understanding
-- **Legacy**: Ancestor of [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] and the rigid law enforcement families
+- **Legacy**: Ancestor of [[02_Worldbuilding/People/High Inquisitor Maltheos]] and the rigid law enforcement families
 - **Modern Influence**: Authoritarian legal traditions and inflexible justice systems
 
 **Seraphina the Beautiful → The Shard of Eternal Youth**
@@ -235,7 +235,7 @@ Each betrayer was transformed by their shard of the crown, but not in the way th
 - **Transformation**: Achieved immortal beauty but lost capacity for genuine emotion
 - **Power**: Could inspire perfect artistic creation and maintain eternal youth
 - **Curse**: Became increasingly isolated from authentic human connection
-- **Legacy**: Ancestor of the Lumengarde royal line including [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- **Legacy**: Ancestor of the Lumengarde royal line including [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
 - **Modern Influence**: Obsession with beauty, artistic perfection, and social status
 
 **Goldwin the Merchant → The Shard of Infinite Wealth**
@@ -243,7 +243,7 @@ Each betrayer was transformed by their shard of the crown, but not in the way th
 - **Transformation**: Could create unlimited material wealth but lost ability to find satisfaction
 - **Power**: Control over all forms of currency, trade, and material prosperity
 - **Curse**: Eternal hunger for accumulation that could never be satisfied
-- **Legacy**: Ancestor of [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]] and the great merchant houses
+- **Legacy**: Ancestor of [[02_Worldbuilding/People/Lord Aurelius Goldwave]] and the great merchant houses
 - **Modern Influence**: Economic systems based on endless growth and accumulation
 
 **Shadowthorn the Assassin → The Shard of Ultimate Death**
@@ -283,7 +283,7 @@ Each betrayer was transformed by their shard of the crown, but not in the way th
 ### The Great Crystallization Begins
 **Day One: The Reality Storm**
 
-The shattering of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] created a cascade of supernatural events that would reshape the world:
+The shattering of [[02_Worldbuilding/Lore/The Crown of Stars]] created a cascade of supernatural events that would reshape the world:
 
 **Physical Changes:**
 - Seven massive crystal spires erupted from the earth at shard impact sites
@@ -431,7 +431,7 @@ Multiple sources suggest the betrayer legacy is approaching a climactic resoluti
 
 **The Shard Resonance**: All seven fragments have begun resonating in harmony
 **Bloodline Convergence**: Representatives of all seven lines are alive simultaneously
-**Aetheron's Return**: [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] shows signs of remembering his divine nature
+**Aetheron's Return**: [[02_Worldbuilding/People/The Crimson Sage]] shows signs of remembering his divine nature
 **Crystal Acceleration**: Crystallization process accelerating beyond historical patterns
 **Dimensional Instability**: Barriers between realities weakening near shard sites
 
@@ -447,7 +447,7 @@ Multiple sources suggest the betrayer legacy is approaching a climactic resoluti
 ### Mid-Campaign Developments
 **House Wars**: Open conflict between betrayer bloodline factions
 **Shard Awakening**: One of the seven shards begins actively influencing events
-**Divine Investigation**: [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] seeks to understand what his advisors became
+**Divine Investigation**: [[02_Worldbuilding/People/The Crimson Sage]] seeks to understand what his advisors became
 **Moral Reckoning**: Characters must judge whether the betrayers were heroes or villains
 **Power Inheritance**: PC becomes heir to one of the betrayer legacies
 
@@ -529,22 +529,22 @@ These questions have no easy answers, making the legacy of the Seven Betrayers a
 ---
 
 *"Seven hands reached for the stars, and seven stars fell to earth. In their falling, they lit the world on fire - but also illuminated the darkness in mortal hearts."*  
-*- Chronicle of the Shattering, [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Archives]]*
+*- Chronicle of the Shattering, [[02_Worldbuilding/Lore/Aethermoor Archives]]*
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temple of the First Tide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shattering of the Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Threshold]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[02_Worldbuilding/Lore/Temple of the First Tide]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
+- [[02_Worldbuilding/Lore/The Great Crystallization]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Shattering of the Crown]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[02_Worldbuilding/Lore/The Threshold]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -570,6 +570,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]
+- [[02_Worldbuilding/Lore/The Crown of Stars]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/The Crimson Sage]]

@@ -29,11 +29,11 @@ world: Both
 *Where Crystal Ships Meet Sky and Sea*
 
 > *"Every vessel that sails between sky and sea must pass through these docks. Here, where the crystal winds meet ocean currents, fortunes are made and empires rise or fall."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbormaster Erik Saltbeard]], Master of the Docks
+> — [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]], Master of the Docks
 
 ## Overview
 
-Saltbeard Harbor stands as the premier maritime gateway to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], a sprawling port complex where crystal-powered skyships and traditional sea vessels converge in a symphony of magical and mundane commerce. Built around a natural bay protected by towering crystal formations, the harbor serves as the crucial link between Aethermoor's floating cities and the broader world. Under the experienced leadership of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbormaster Erik Saltbeard]], the facility manages the complex logistics of vessels that sail both air and water, creating a unique maritime environment where sky-trader captains negotiate alongside traditional sea merchants.
+Saltbeard Harbor stands as the premier maritime gateway to [[02_Worldbuilding/Places/Aethermoor]], a sprawling port complex where crystal-powered skyships and traditional sea vessels converge in a symphony of magical and mundane commerce. Built around a natural bay protected by towering crystal formations, the harbor serves as the crucial link between Aethermoor's floating cities and the broader world. Under the experienced leadership of [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]], the facility manages the complex logistics of vessels that sail both air and water, creating a unique maritime environment where sky-trader captains negotiate alongside traditional sea merchants.
 
 ## History and Development
 
@@ -66,7 +66,7 @@ Saltbeard Harbor stands as the premier maritime gateway to [[vault_backup_202508
 **Mastery**: Harbor became world leader in crystal storm management
 
 ### Erik Saltbeard's Era
-**Leadership**: Past 25 years under [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]  
+**Leadership**: Past 25 years under [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]  
 **Modernization**: Integration of magical and mundane transportation systems  
 **Expansion**: Addition of specialized berths for largest crystal carriers  
 **Diplomacy**: Establishment of neutral trade policies welcoming all nations  
@@ -156,14 +156,14 @@ Saltbeard Harbor stands as the premier maritime gateway to [[vault_backup_202508
 **Height**: 400-foot crystal spire dominating harbor skyline  
 **Function**: Central command center for all harbor operations  
 **Technology**: Crystal-powered scrying arrays monitoring all traffic  
-**Office**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]'s command center  
+**Office**: [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]'s command center  
 **Symbol**: Visible landmark guiding vessels from great distances
 
 ### The Great Crystal Lighthouse
 **Purpose**: Navigation aid for both sea and sky vessels  
 **Range**: Beacon visible for 100+ miles in all directions  
 **Technology**: Massive focusing crystal amplifies magical light  
-**Keeper**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Luminous Crystalbeam]] and specialized staff  
+**Keeper**: [[02_Worldbuilding/Places/Keeper Luminous Crystalbeam]] and specialized staff  
 **History**: Operating continuously for 180 years without failure
 
 ### The Merchant's Exchange
@@ -191,21 +191,21 @@ Saltbeard Harbor stands as the premier maritime gateway to [[vault_backup_202508
 
 ### Harbor Authority Structure
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+#### [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
 **Background**: 30+ years maritime experience, expert in both sea and sky navigation  
 **Philosophy**: "Fair wind and crystal power to all who sail honest"  
 **Authority**: Ultimate decision-making power over all harbor operations  
 **Reputation**: Respected throughout maritime community for integrity and skill  
 **Innovation**: Pioneer in coordinating sea and sky traffic management
 
-#### Deputy Harbor Master [[vault_backup_20250813_073007/02_Worldbuilding/Places/Marina Stormwright]]
+#### Deputy Harbor Master [[02_Worldbuilding/Places/Marina Stormwright]]
 **Specialization**: Skyship operations and crystal storm management  
 **Experience**: Former skyship captain with intimate knowledge of aerial navigation  
 **Responsibility**: Day-to-day operations of elevated terminus  
 **Innovation**: Developer of current skyship traffic control systems  
 **Leadership**: Commands respect of both traditional sailors and sky crews
 
-#### Port Captain [[vault_backup_20250813_073007/02_Worldbuilding/Places/Thomas Deepanchor]]
+#### Port Captain [[02_Worldbuilding/Places/Thomas Deepanchor]]
 **Domain**: Traditional maritime operations and sea vessel management  
 **Background**: Third-generation harbor official, family legacy of service  
 **Expertise**: Master of traditional seamanship and cargo handling  
@@ -317,21 +317,21 @@ Saltbeard Harbor stands as the premier maritime gateway to [[vault_backup_202508
 
 ### Harbor Leadership
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+#### [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
 **Appearance**: Weathered veteran with distinctive salt-and-pepper beard  
 **Personality**: Gruff exterior hiding deep compassion for crews and travelers  
 **Expertise**: Unmatched knowledge of both sea and sky navigation  
 **Management Style**: Leads by example, earns respect through competence  
 **Network**: Personal relationships with captains throughout known world
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Master Prism Lightweaver]]
+#### [[02_Worldbuilding/Places/Crystal Master Prism Lightweaver]]
 **Role**: Chief of crystal operations and magical systems  
 **Background**: Former court mage who chose practical applications  
 **Innovation**: Pioneer in crystal-powered harbor technology  
 **Personality**: Brilliant but eccentric, obsessed with crystal harmonics  
 **Importance**: Harbor's magical systems depend on her expertise
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Pilot Captain Storm Skyreacher]]
+#### [[02_Worldbuilding/Places/Harbor Pilot Captain Storm Skyreacher]]
 **Specialization**: Premier skyship pilot, handles most difficult approaches  
 **Reputation**: Legendary skill in navigating crystal storms  
 **Experience**: 20+ years piloting vessels through dangerous conditions  
@@ -340,21 +340,21 @@ Saltbeard Harbor stands as the premier maritime gateway to [[vault_backup_202508
 
 ### Merchants and Traders
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Prince Goldwind Crysalborn]]
+#### [[02_Worldbuilding/Places/Merchant Prince Goldwind Crysalborn]]
 **Wealth**: Controls significant portion of harbor's crystal trade  
 **Influence**: Major voice in harbor policy through economic leverage  
 **Fleet**: Owns dozen of finest crystal-powered vessels  
 **Politics**: Advocates for policies favoring large trading companies  
 **Rivalry**: Ongoing competition with other major merchants
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Swift Cloudracer]]
+#### [[02_Worldbuilding/People/Captain Swift Cloudracer]]
 **Command**: Fastest skyship in regular harbor service  
 **Specialty**: Express cargo and passenger service  
 **Personality**: Daredevil pilot known for taking calculated risks  
 **Innovation**: Tests new flying techniques and vessel modifications  
 **Stories**: Source of endless adventure tales told in harbor taverns
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Trader Compass Rose]]
+#### [[02_Worldbuilding/Places/Trader Compass Rose]]
 **Expertise**: Navigator and trader specializing in exotic goods  
 **Network**: Connections with remote locations throughout world  
 **Knowledge**: Walking encyclopedia of trade routes and market conditions  
@@ -363,14 +363,14 @@ Saltbeard Harbor stands as the premier maritime gateway to [[vault_backup_202508
 
 ### Service Personnel
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Dock Master Anchor Holdfast]]
+#### [[02_Worldbuilding/Places/Dock Master Anchor Holdfast]]
 **Authority**: Oversees all traditional maritime docking operations  
 **Experience**: 35-year veteran of harbor operations  
 **Skill**: Can coordinate dozens of simultaneous vessel movements  
 **Respect**: Universally respected by dock workers and sea captains  
 **Tradition**: Maintains time-honored practices while embracing innovation
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Engineer Spark Gemwright]]
+#### [[02_Worldbuilding/Places/Crystal Engineer Spark Gemwright]]
 **Specialty**: Maintenance and repair of skyship crystal systems  
 **Innovation**: Develops improvements to crystal charging technology  
 **Problem-Solving**: Can diagnose and fix any crystal-powered system  
@@ -420,7 +420,7 @@ Saltbeard Harbor stands as the premier maritime gateway to [[vault_backup_202508
 
 #### The Crystal Blessing Ceremony
 **Occasion**: Blessing new vessels before maiden voyages  
-**Process**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Master Prism Lightweaver]] performs ritual enhancement  
+**Process**: [[02_Worldbuilding/Places/Crystal Master Prism Lightweaver]] performs ritual enhancement  
 **Belief**: Blessed vessels have better luck and safer voyages  
 **Community**: Celebration involving entire harbor community  
 **History**: Tradition dating back to harbor's early crystal-powered era
@@ -668,7 +668,7 @@ Saltbeard Harbor stands as the premier maritime gateway to [[vault_backup_202508
 
 #### The Duplicate Harbor Master
 **Level**: 9-13  
-**Mystery**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbormaster Erik Saltbeard]] appears to be in two places at once  
+**Mystery**: [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]] appears to be in two places at once  
 **Investigation**: Determining which is real and which is imposter  
 **Magic**: Sophisticated magical disguise or duplication  
 **Stakes**: Imposter could compromise harbor security and operations  
@@ -676,28 +676,28 @@ Saltbeard Harbor stands as the premier maritime gateway to [[vault_backup_202508
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor Capital]]
+### [[02_Worldbuilding/Places/Aethermoor Capital]]
 **Relationship**: Harbor serves as primary gateway to the kingdom  
 **Administration**: Harbor reports to royal government through appointed officials  
 **Defense**: Capital provides military support and strategic oversight  
 **Economics**: Harbor's prosperity contributes significantly to kingdom's wealth  
 **Culture**: Harbor's international character influences capital's cosmopolitan nature
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Mines]]
+### [[02_Worldbuilding/Places/Crystal Mines]]
 **Resources**: Primary source of crystals processed and shipped through harbor  
 **Transportation**: Regular supply runs between mines and harbor  
 **Economics**: Mine output directly affects harbor's crystal trade volume  
 **Security**: Shared concern about protecting valuable crystal shipments  
 **Innovation**: Collaboration on crystal processing and application technologies
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Floating Cities]]
+### [[02_Worldbuilding/Places/Floating Cities]]
 **Connection**: Harbor serves as primary link between floating cities and ground  
 **Supply**: Regular supply runs providing necessities to aerial cities  
 **Population**: Many harbor residents have family in floating cities  
 **Technology**: Shared advancement in crystal-powered flight technology  
 **Defense**: Coordinated defense against threats to aerial infrastructure
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/International Trade Routes]]
+### [[02_Worldbuilding/Places/International Trade Routes]]
 **Hub**: Central connection point for multiple international shipping lanes  
 **Diplomacy**: Harbor's neutrality facilitates international commerce  
 **Information**: Major source of international news and intelligence  
@@ -707,40 +707,40 @@ Saltbeard Harbor stands as the premier maritime gateway to [[vault_backup_202508
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Crystal Heart
-> Deep beneath the harbor lies the Crystal Heart, a massive natural crystal formation that powers all of the harbor's magical systems. This ancient crystal has been gradually growing more unstable, and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Master Prism Lightweaver]] has discovered that it may explode within the next decade, potentially destroying the entire harbor. She's been secretly working on solutions while trying to prevent panic, but may need to reveal the truth soon to get help from powerful adventurers or magical experts.
+> Deep beneath the harbor lies the Crystal Heart, a massive natural crystal formation that powers all of the harbor's magical systems. This ancient crystal has been gradually growing more unstable, and [[02_Worldbuilding/Places/Crystal Master Prism Lightweaver]] has discovered that it may explode within the next decade, potentially destroying the entire harbor. She's been secretly working on solutions while trying to prevent panic, but may need to reveal the truth soon to get help from powerful adventurers or magical experts.
 
 > [!secret] DM Secret - The Smuggler's Alliance
-> [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbormaster Erik Saltbeard]] is secretly aware of a sophisticated smuggling operation but allows it to continue because it provides intelligence about potential threats to the harbor. The smugglers deal in information and minor contraband rather than truly dangerous goods, and Saltbeard uses their network to monitor hostile foreign activities. However, some members of the Alliance are beginning to expand into more dangerous goods, forcing Saltbeard to consider whether to continue the arrangement.
+> [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]] is secretly aware of a sophisticated smuggling operation but allows it to continue because it provides intelligence about potential threats to the harbor. The smugglers deal in information and minor contraband rather than truly dangerous goods, and Saltbeard uses their network to monitor hostile foreign activities. However, some members of the Alliance are beginning to expand into more dangerous goods, forcing Saltbeard to consider whether to continue the arrangement.
 
 > [!secret] DM Secret - The Time-Lost Ship
-> Occasionally, a mysterious skyship appears in the harbor during severe crystal storms, crewed by sailors who claim to be from different time periods. The ship appears to be jumping randomly through time, and its crew is desperate to find a way home to their own era. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Pilot Captain Storm Skyreacher]] has encountered the ship multiple times and is beginning to piece together the pattern of its appearances, realizing that the ship may hold the key to understanding the true nature of crystal storms.
+> Occasionally, a mysterious skyship appears in the harbor during severe crystal storms, crewed by sailors who claim to be from different time periods. The ship appears to be jumping randomly through time, and its crew is desperate to find a way home to their own era. [[02_Worldbuilding/Places/Harbor Pilot Captain Storm Skyreacher]] has encountered the ship multiple times and is beginning to piece together the pattern of its appearances, realizing that the ship may hold the key to understanding the true nature of crystal storms.
 
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor Capital]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Mines]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Floating Cities]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Maritime Quarter]]
+- [[02_Worldbuilding/Places/Aethermoor Capital]]
+- [[02_Worldbuilding/Places/Crystal Mines]]
+- [[02_Worldbuilding/Places/Floating Cities]]
+- [[02_Worldbuilding/Places/The Maritime Quarter]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Master Prism Lightweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Pilot Captain Storm Skyreacher]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deputy Harbor Master Marina Stormwright]]
+- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[02_Worldbuilding/Places/Crystal Master Prism Lightweaver]]
+- [[02_Worldbuilding/Places/Harbor Pilot Captain Storm Skyreacher]]
+- [[02_Worldbuilding/Places/Deputy Harbor Master Marina Stormwright]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal-Powered Vessels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Storm Barriers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Defense Grid]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Skyship Technology]]
+- [[02_Worldbuilding/Places/Crystal-Powered Vessels]]
+- [[02_Worldbuilding/Places/Crystal Storm Barriers]]
+- [[02_Worldbuilding/Places/Harbor Defense Grid]]
+- [[02_Worldbuilding/Places/Skyship Technology]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian Harbor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/Harbor District]]
+- [[02_Worldbuilding/Places/Port Meridian Harbor]]
+- [[02_Worldbuilding/Places/Port Meridian]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -763,7 +763,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+- [[02_Worldbuilding/Places/Harbormaster Erik Saltbeard]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor]]

@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chef Gastropod]]
+- [[02_Worldbuilding/Places/Chef Gastropod]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chef Gastropod]]
+- [[02_Worldbuilding/Places/Chef Gastropod]]
 
 ## Player-Facing Summary
 

@@ -438,19 +438,19 @@ Magical researchers have detected "temporal echoes" of Tethyan Hegemony events r
 
 ## Connected References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tethys the Sea-Walker]] - Legendary founder and first emperor
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Palace Complex]] - Major archaeological site and imperial capital
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Council of Admiralties]] - Government structure model for modern Aquabyssos
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Seven Fleets System]] - Military organization influencing current naval structure
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Current Network]] - Ancient magical transportation system
+- [[02_Worldbuilding/Lore/Tethys the Sea-Walker]] - Legendary founder and first emperor
+- [[02_Worldbuilding/Places/Crystal Palace Complex]] - Major archaeological site and imperial capital
+- [[02_Worldbuilding/Lore/Council of Admiralties]] - Government structure model for modern Aquabyssos
+- [[02_Worldbuilding/Lore/Seven Fleets System]] - Military organization influencing current naval structure
+- [[02_Worldbuilding/Lore/Deep Current Network]] - Ancient magical transportation system
 - [[Imperial Chronicle of Deep History]] - Historical records and documentation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ocean Pantheon]] - Religious system with continuing influence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Great Preparation]] - Final period survival planning
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Abyssal the Deep-Sighted]] - Ruler who prepared for the Great Drowning
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Pelagic the Last]] - Final ruler of the Hegemony
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lost Fleet]] - Hidden naval forces potentially still existing
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Archives]] - Sealed repository of Hegemony knowledge
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Continuity Protocol]] - Secret plan for imperial restoration
+- [[02_Worldbuilding/Lore/Ocean Pantheon]] - Religious system with continuing influence
+- [[02_Worldbuilding/Lore/Great Preparation]] - Final period survival planning
+- [[02_Worldbuilding/People/Emperor Abyssal the Deep-Sighted]] - Ruler who prepared for the Great Drowning
+- [[02_Worldbuilding/People/Emperor Pelagic the Last]] - Final ruler of the Hegemony
+- [[02_Worldbuilding/Lore/Lost Fleet]] - Hidden naval forces potentially still existing
+- [[02_Worldbuilding/Lore/Deep Archives]] - Sealed repository of Hegemony knowledge
+- [[02_Worldbuilding/Lore/Continuity Protocol]] - Secret plan for imperial restoration
 - [[Imperial Museum of Deep History]] - Modern repository of Tethyan artifacts
 - [[Maritime Research Institute]] - Academic institution studying Hegemony legacy
 
@@ -473,7 +473,7 @@ The Hegemony's legacy ensures that the past remains a living force in Aquabyssos
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise]]
 
 ## Player-Facing Summary
 
@@ -491,4 +491,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise]]

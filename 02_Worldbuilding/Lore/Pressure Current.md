@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Pressure Conspiracy]]
+- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Pressure Conspiracy]]
+- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
 
 ## Player-Facing Summary
 

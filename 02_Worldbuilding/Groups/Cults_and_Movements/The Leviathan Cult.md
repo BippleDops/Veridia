@@ -28,12 +28,12 @@ world: Both
 *In the Deep We Trust, From the Deep We Rise*
 
 ## Overview
-The Leviathan Cult is a fanatical religious organization dedicated to awakening and serving the ancient sea monsters that slumber in the deepest ocean trenches. Led by **High Priest Dagon Deepcaller**, a half-human half-aboleth hybrid, they believe that the surface world must be cleansed and returned to the sea to appease their primordial masters. They operate from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Cathedral of Stars]], conducting dark rituals and breeding monstrous servants.
+The Leviathan Cult is a fanatical religious organization dedicated to awakening and serving the ancient sea monsters that slumber in the deepest ocean trenches. Led by **High Priest Dagon Deepcaller**, a half-human half-aboleth hybrid, they believe that the surface world must be cleansed and returned to the sea to appease their primordial masters. They operate from [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]], conducting dark rituals and breeding monstrous servants.
 
 ## Cult Hierarchy
 
 ### The Deep Speakers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priest Dagon Deepcaller]]** - Supreme leader and prophet
+- **[[02_Worldbuilding/People/High Priest Dagon Deepcaller]]** - Supreme leader and prophet
 - **[[02_Worldbuilding/People/Siren Maeve Echoborn|02 Worldbuilding/People/Siren Maeve Echoborn]]** - Voice of the Depths (recruitment)
 - **Archdeacon Tidal Maw** - Master of sacrificial rites
 - **Oracle of the Abyss** - Interpreter of leviathan dreams
@@ -75,7 +75,7 @@ The Leviathan Cult is a fanatical religious organization dedicated to awakening 
 ### Recruitment & Conversion
 - Target coastal communities with promises of safety from storms
 - Infiltrate fishing villages through [[02_Worldbuilding/People/Siren Maeve Echoborn|02 Worldbuilding/People/Siren Maeve Echoborn]]'s songs
-- Offer protection from [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]] in exchange for worship
+- Offer protection from [[02_Worldbuilding/Groups/The Crimson Fleet]] in exchange for worship
 - Convert prisoners through surgical implantation of sea creature parts
 
 ### Sacrificial Rituals
@@ -93,19 +93,19 @@ The Leviathan Cult is a fanatical religious organization dedicated to awakening 
 ## Regional Influence
 
 ### Controlled Territories
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Cathedral of Stars]]** - Primary base of operations
+- **[[02_Worldbuilding/Places/The Sunken Cathedral of Stars]]** - Primary base of operations
 - **Sorrow's Deep** - Underwater city of converted cultists
 - **The Bleeding Reefs** - Coral formations that attack ships
 - **Monster Breeding Grounds** - Hidden underwater facilities
 
 ### Infiltrated Locations
-- Fishing communities along [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Azure Coast]]
-- Docks and harbors in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- Naval personnel in [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]'s fleet
+- Fishing communities along [[02_Worldbuilding/Places/The Azure Coast]]
+- Docks and harbors in [[02_Worldbuilding/Places/Port Meridian]]
+- Naval personnel in [[02_Worldbuilding/People/Admiral Cassandra Stormwind]]'s fleet
 - Religious institutions preaching "ocean salvation"
 
 ### Economic Disruption
-- Attacks on shipping lanes to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+- Attacks on shipping lanes to [[02_Worldbuilding/Places/Crystalhaven]]
 - Poisoning of fishing waters around major ports
 - Sabotage of naval vessels and coastal defenses
 - Stealing supplies for underwater construction projects
@@ -113,27 +113,27 @@ The Leviathan Cult is a fanatical religious organization dedicated to awakening 
 ## Allied & Enemy Relationships
 
 ### Strategic Alliances
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]]** - Temporary cooperation against surface navies
+- **[[02_Worldbuilding/Groups/The Crimson Fleet]]** - Temporary cooperation against surface navies
 - **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]** - Ancient patron providing guidance
 - **Aboleth Collectives** - Telepathic coordination networks
 - **Sea Witch Covens** - Magical support and intelligence
 
 ### Neutral Parties
 - **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Occasional information trading
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]** inhabitants - Complex underwater politics
+- **[[02_Worldbuilding/Places/Abyssos Prime]]** inhabitants - Complex underwater politics
 - **Independent sea monster populations** - Potential recruitment targets
 - **Coastal smuggler networks** - Useful but unreliable
 
 ### Active Enemies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]** - Religious opposition to cult practices
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Naval forces actively hunting cult
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Leading religious counter-crusade
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]** - Losing profit from disrupted trade
+- **[[02_Worldbuilding/People/Crystal Wardens]]** - Religious opposition to cult practices
+- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Naval forces actively hunting cult
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Leading religious counter-crusade
+- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Losing profit from disrupted trade
 
 ### Complex Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]** - Secret sympathy for "ocean purity"
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]]** - Captured and slowly converting
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Tidecaller]]** - Rival ocean-based power
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Secret sympathy for "ocean purity"
+- **[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]** - Captured and slowly converting
+- **[[02_Worldbuilding/People/The Tidecaller]]** - Rival ocean-based power
 - **Surface merfolk communities** - Some join, others actively resist
 
 ## Cult Beliefs & Practices
@@ -225,23 +225,23 @@ The Leviathan Cult is a fanatical religious organization dedicated to awakening 
 - Providing underwater salvage services (after causing the wrecks)
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Cathedral of Stars]] - Primary headquarters
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Azure Coast]] - Main area of operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Major infiltration target
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] - Complex political relationships
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Kraken's Harbor]] - Potential alliance site
+- [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]] - Primary headquarters
+- [[02_Worldbuilding/Places/The Azure Coast]] - Main area of operations
+- [[02_Worldbuilding/Places/Port Meridian]] - Major infiltration target
+- [[02_Worldbuilding/Places/Abyssos Prime]] - Complex political relationships
+- [[02_Worldbuilding/Places/The Kraken's Harbor]] - Potential alliance site
 
 ## Connected NPCs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priest Dagon Deepcaller]]** - Supreme cult leader
+- **[[02_Worldbuilding/People/High Priest Dagon Deepcaller]]** - Supreme cult leader
 - **[[02_Worldbuilding/People/Siren Maeve Echoborn|02 Worldbuilding/People/Siren Maeve Echoborn]]** - Recruitment specialist
 - **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]** - Ancient patron entity
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Primary enemy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Religious opposition
+- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Primary enemy
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Religious opposition
 
 ## Connected Factions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]] - Temporary tactical alliance
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Ideological and military opposition
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] - Economic disruption targets
+- [[02_Worldbuilding/Groups/The Crimson Fleet]] - Temporary tactical alliance
+- [[02_Worldbuilding/People/Crystal Wardens]] - Ideological and military opposition
+- [[02_Worldbuilding/Groups/Merchant Princes]] - Economic disruption targets
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Occasional cooperation
 
 ## Immediate Threats
@@ -252,7 +252,7 @@ The Leviathan Cult is a fanatical religious organization dedicated to awakening 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
 
 ## Player-Facing Summary
 
@@ -271,5 +271,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priest Dagon Deepcaller]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/High Priest Dagon Deepcaller]]

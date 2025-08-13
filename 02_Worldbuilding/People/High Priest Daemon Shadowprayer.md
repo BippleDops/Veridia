@@ -60,12 +60,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priest Daemon Shadowprayer]]
+- [[02_Worldbuilding/People/High Priest Daemon Shadowprayer]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Blackmail Papers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[02_Worldbuilding/People/Quest - The Blackmail Papers]]
+- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]

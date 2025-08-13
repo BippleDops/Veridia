@@ -474,11 +474,11 @@ Legends speak of The Reflection Pools as a nexus where past and present converge
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Reflection Pools]]
+- [[02_Worldbuilding/Places/The Reflection Pools]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]

@@ -22,7 +22,7 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Port Sorrow Trading Company]]
+- [[02_Worldbuilding/Groups/Port Sorrow Trading Company]]
 
 ## Player-Facing Summary
 

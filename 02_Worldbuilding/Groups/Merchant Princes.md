@@ -28,16 +28,16 @@ world: Both
 *Gold Flows Like Water, Power Follows the Current*
 
 ## Overview
-The Merchant Princes control [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s economy through their domination of crystal trade and shipping routes. Based in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]], this council of the five wealthiest merchants effectively rules through economic pressure. They care little for ideology—only profit and the stability needed to ensure it.
+The Merchant Princes control [[02_Worldbuilding/Places/Aethermoor]]'s economy through their domination of crystal trade and shipping routes. Based in [[02_Worldbuilding/Places/Port Meridian]], this council of the five wealthiest merchants effectively rules through economic pressure. They care little for ideology—only profit and the stability needed to ensure it.
 
 ## The Council of Five
 
 ### Current Members
-1. **[[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Chairman, shipping magnate
-2. **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Lady Venetia Silkwind]]** - Textiles and luxury goods
-3. **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Master Chen Wei]]** - Exotic imports and information
-4. **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Captain Rodrigo Ironanchor]]** - Naval fleet owner
-5. **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Madame Rosalind Goldleaf]]** - Banking and finance
+1. **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Chairman, shipping magnate
+2. **[[02_Worldbuilding/Groups/Lady Venetia Silkwind]]** - Textiles and luxury goods
+3. **[[02_Worldbuilding/Groups/Master Chen Wei]]** - Exotic imports and information
+4. **[[02_Worldbuilding/Groups/Captain Rodrigo Ironanchor]]** - Naval fleet owner
+5. **[[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]** - Banking and finance
 
 ### Council Structure
 - Rotating chairmanship (yearly)
@@ -83,7 +83,7 @@ The Merchant Princes control [[vault_backup_20250813_073007/02_Worldbuilding/Pla
 > - Funding both sides of conflicts
 > - Crystal addiction for profit
 > - Collaborating with [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
-> - Hiding [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]'s embezzlement
+> - Hiding [[02_Worldbuilding/People/Lord Aurelius Goldwave]]'s embezzlement
 > - Planning economic coup
 
 ## Political Influence
@@ -105,20 +105,20 @@ The Merchant Princes control [[vault_backup_20250813_073007/02_Worldbuilding/Pla
 ## Relationships
 
 ### Allies
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]] - Mutual dependence
+- [[02_Worldbuilding/Groups/The Crystal Throne]] - Mutual dependence
 - International trade partners
 - Mercenary companies
 - Some noble houses
 
 ### Neutral
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Profitable but wary
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Verdant Accord]] - Trade for food
+- [[02_Worldbuilding/People/Crystal Wardens]] - Profitable but wary
+- [[02_Worldbuilding/People/The Verdant Accord]] - Trade for food
 - Foreign kingdoms - Business only
 
 ### Opponents
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] - Threatens profit
+- [[02_Worldbuilding/Groups/Purist Coalition]] - Threatens profit
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Competition/cooperation
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]] - Destabilizing influence
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Destabilizing influence
 - Pirates and raiders
 
 ## Current Schemes
@@ -149,9 +149,9 @@ Attempting to control all crystal trade:
 - **Shadow Traders**: Work with criminals
 
 ### Succession Issues
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]] aging
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Lady Venetia Silkwind]] ambitious
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Master Chen Wei]] has external backing
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] aging
+- [[02_Worldbuilding/Groups/Lady Venetia Silkwind]] ambitious
+- [[02_Worldbuilding/Groups/Master Chen Wei]] has external backing
 - Power struggle brewing
 
 ## Resources
@@ -222,17 +222,17 @@ Attempting to control all crystal trade:
 - No refunds or exceptions
 
 ## The Five Towers
-Merchant Prince headquarters in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]:
-- **Gold Tower**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- **Silk Tower**: [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Lady Venetia Silkwind]]
-- **Jade Tower**: [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Master Chen Wei]]
-- **Iron Tower**: [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Captain Rodrigo Ironanchor]]
-- **Rose Tower**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
+Merchant Prince headquarters in [[02_Worldbuilding/Places/Port Meridian]]:
+- **Gold Tower**: [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- **Silk Tower**: [[02_Worldbuilding/Groups/Lady Venetia Silkwind]]
+- **Jade Tower**: [[02_Worldbuilding/Groups/Master Chen Wei]]
+- **Iron Tower**: [[02_Worldbuilding/Groups/Captain Rodrigo Ironanchor]]
+- **Rose Tower**: [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
 
 ## Secret Agreements
 > [!warning] DM Only
-> - Deal with [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] for smuggling
-> - Funding [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]] (hedging bets)
+> - Deal with [[02_Worldbuilding/People/Vex Shadowthorn]] for smuggling
+> - Funding [[02_Worldbuilding/People/Prince Caspian Duskwater]] (hedging bets)
 > - Agreement with foreign invasion force
 > - Plan to establish merchant republic
 > - Control over Queen's personal finances
@@ -245,21 +245,21 @@ Merchant Prince headquarters in [[vault_backup_20250813_073007/02_Worldbuilding/
 - Their collapse would cause economic disaster
 
 ## Connected Factions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]] - Economic partnership
+- [[02_Worldbuilding/Groups/The Crystal Throne]] - Economic partnership
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Complex relationship
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Provide security
+- [[02_Worldbuilding/People/Crystal Wardens]] - Provide security
 - International trade guilds
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]] - Chairman
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Major client
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Secret deals
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Naval cooperation
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] - Chairman
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Major client
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Secret deals
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Naval cooperation
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Headquarters
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Major market
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Azure Coast]] - Shipping routes
+- [[02_Worldbuilding/Places/Port Meridian]] - Headquarters
+- [[02_Worldbuilding/Places/Crystalhaven]] - Major market
+- [[02_Worldbuilding/Places/The Azure Coast]] - Shipping routes
 - International ports
 
 ## Economic Impact
@@ -272,13 +272,13 @@ Merchant Prince headquarters in [[vault_backup_20250813_073007/02_Worldbuilding/
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum Ambassadors]]
+- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
+- [[02_Worldbuilding/People/Tenebrarum Ambassadors]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -300,11 +300,11 @@ Legends speak of Merchant Princes as a nexus where past and present converge. Lo
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Captain Rodrigo Ironanchor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Lady Venetia Silkwind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Master Chen Wei]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Azure Coast]]
+- [[02_Worldbuilding/Groups/Captain Rodrigo Ironanchor]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Lady Venetia Silkwind]]
+- [[02_Worldbuilding/Groups/Master Chen Wei]]
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/Places/Madame Rosalind Goldleaf]]
+- [[02_Worldbuilding/Places/The Azure Coast]]

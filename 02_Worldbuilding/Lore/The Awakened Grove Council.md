@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Verdant Shard]]
+- [[02_Worldbuilding/People/Verdant Shard]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Verdant Shard]]
+- [[02_Worldbuilding/People/Verdant Shard]]
 
 ## Player-Facing Summary
 

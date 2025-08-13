@@ -26,7 +26,7 @@ world: Aquabyssos
 
 ## Overview
 
-Life in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] flows with the natural rhythms of the ocean depths, shaped by pressure cycles, bioluminescent patterns, and the eternal dance of current and tide. The underwater realm's inhabitants have evolved complex daily routines that blend practicality with the unique challenges and opportunities of their aquatic existence.
+Life in [[02_Worldbuilding/Places/Aquabyssos]] flows with the natural rhythms of the ocean depths, shaped by pressure cycles, bioluminescent patterns, and the eternal dance of current and tide. The underwater realm's inhabitants have evolved complex daily routines that blend practicality with the unique challenges and opportunities of their aquatic existence.
 
 ## The Aquabyssos Day Cycle
 
@@ -553,12 +553,12 @@ From the early morning pressure adjustments to the evening social gatherings, ev
 ---
 
 **Related Topics**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Working Class Routines]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Noble Leisure Schedules]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Child Life in the Realms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Terminal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
+- [[02_Worldbuilding/Lore/Working Class Routines]]
+- [[02_Worldbuilding/Lore/Noble Leisure Schedules]]
+- [[02_Worldbuilding/Lore/Child Life in the Realms]]
+- [[02_Worldbuilding/Places/Pressure Terminal]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]
 - [[Aquabyssos Culture and Society]]
 
 ## Player-Facing Summary

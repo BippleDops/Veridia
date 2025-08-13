@@ -143,7 +143,7 @@ These settlements provide opportunities for political intrigue, moral choices ab
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
 
 
 ## History
@@ -179,6 +179,6 @@ Legends speak of Surface Sympathizer Settlements as a nexus where past and prese
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Sympathizer Settlements]]
+- [[02_Worldbuilding/Places/Surface Sympathizer Settlements]]
 
 <!-- enriched: true -->

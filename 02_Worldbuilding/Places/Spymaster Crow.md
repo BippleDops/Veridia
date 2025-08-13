@@ -299,10 +299,10 @@ The Crow's network connects to numerous other locations and organizations:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- [[02_Worldbuilding/Places/Pressure's End]]
 
 ## Player-Facing Summary
 
@@ -324,6 +324,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Spymaster Crow]]
+- [[02_Worldbuilding/Places/Spymaster Crow]]
 
 <!-- enriched: true -->

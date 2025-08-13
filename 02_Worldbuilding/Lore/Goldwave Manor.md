@@ -1,62 +1,58 @@
 ---
-access: By invitation only
-architecture: Crystal and Gold Fusion
+type: Location
+status: complete
+tags:
+- aethermoor
+- complete
+- cross-realm-trade
+- financial-power
+- goldwave-family
+- location
+- luxury
+- manor
+- merchant
+- noble-house
+world: Aethermoor
+location_name: Goldwave Manor
+location_type: Noble Estate and Financial Complex
+parent_location: '[[02_Worldbuilding/Places/Port Meridian - Market Square]]'
 connected_locations:
 - '[[02_Worldbuilding/Places/Port Meridian Harbor]]'
 - '[[02_Worldbuilding/Places/The Royal Palace]]'
 - '[[02_Worldbuilding/Lore/Silverscale Banking House]]'
 - '[[02_Worldbuilding/Places/The Shadow Markets]]'
-created: '2025-08-08'
-created_by: auto-stub
-current_state: Thriving financial hub
-danger_level: 1
-discovered: false
-location_name: Goldwave Manor
-location_type: Noble Estate and Financial Complex
-notable_residents:
-- '[[02_Worldbuilding/Lore/Aurelius Goldwave]]'
-- '[[Lady Serena Goldwave]]'
-- '[[Master Valet Sterling Currentborn]]'
-owner: '[[02_Worldbuilding/Lore/Aurelius Goldwave]]'
-parent_location: '[[02_Worldbuilding/Places/Port Meridian - Market Square]]'
-security_level: High
-services:
-- Private Banking
-- Investment Consultation
-- Cross-Realm Trade Facilitation
-- High-Society Entertainment
-- Diplomatic Hosting
-shadow_density: Low
-size: Large Estate
-status: complete
 sub_locations:
 - '[[Goldwave Private Offices]]'
 - '[[The Crystal Conservatory]]'
 - '[[Aurelius''s Private Study]]'
 - '[[The Vault of Currents]]'
 - '[[Goldwave Guest Quarters]]'
-tags:
-- aethermoor
-- complete
-- content/location
-- cross-realm-trade
-- financial-power
-- location
-- luxury
-- manor
-- merchant
-- noble-house
-- status/archived
-- status/complete
-- world/aethermoor
-temporal_stability: 95
-type: Location
-updated: '2025-08-13T12:34:29.458017+00:00'
-visited: false
+owner: '[[02_Worldbuilding/Lore/Aurelius Goldwave]]'
+architecture: Crystal and Gold Fusion
+size: Large Estate
+security_level: High
+access: By invitation only
 wealth_level: Extreme
-world: Aethermoor
+created_by: auto-stub
+created: '2025-08-08'
+updated: '2025-08-13T01:18:35.209288+00:00'
+services:
+- Private Banking
+- Investment Consultation
+- Cross-Realm Trade Facilitation
+- High-Society Entertainment
+- Diplomatic Hosting
+notable_residents:
+- '[[02_Worldbuilding/Lore/Aurelius Goldwave]]'
+- '[[Lady Serena Goldwave]]'
+- '[[Master Valet Sterling Currentborn]]'
+current_state: Thriving financial hub
+temporal_stability: 95
+shadow_density: Low
+danger_level: 1
+visited: false
+discovered: false
 ---
-
 
 
 
@@ -165,7 +161,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/Campaign Quick Reference Sheets]]
+- [[Campaign Quick Reference Sheets]]
 
 
 ## Connections

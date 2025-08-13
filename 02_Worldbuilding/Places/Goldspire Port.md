@@ -49,7 +49,7 @@ A growing district in Embassy Row where Aethermoor expatriates gather, bringing 
 Secret facility where confiscated crystal artifacts are studied and neutralized. Run by the Department of Existential Threats.
 
 ### The Market of Whispers
-Information brokerage where intelligence about Aethermoor is bought and sold. [[vault_backup_20250813_073007/02_Worldbuilding/People/Zephyr Goldwhisper]] maintains an office here.
+Information brokerage where intelligence about Aethermoor is bought and sold. [[02_Worldbuilding/People/Zephyr Goldwhisper]] maintains an office here.
 
 ## Important Figures
 - **Trade Prince Aurelius Gilt** - Rules the city, sees Aethermoor as an investment opportunity
@@ -58,11 +58,11 @@ Information brokerage where intelligence about Aethermoor is bought and sold. [[
 - **The Refugee Council** - Aethermoor expats planning their homeland's salvation
 
 ## Connections to Aethermoor
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]**: Regular trade routes, though increasingly restricted
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Zephyr Goldwhisper]]**: Main intelligence asset in Aethermoor
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Confederacy has offered her asylum (with conditions)
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]**: Confederate spies seek his true identity
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]**: Official diplomatic relations, unofficial subversion
+- **[[02_Worldbuilding/Places/Port Meridian]]**: Regular trade routes, though increasingly restricted
+- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Main intelligence asset in Aethermoor
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Confederacy has offered her asylum (with conditions)
+- **[[02_Worldbuilding/People/The Crimson Sage]]**: Confederate spies seek his true identity
+- **[[02_Worldbuilding/Places/Crystalhaven]]**: Official diplomatic relations, unofficial subversion
 
 ## Current Activities
 - Building a fleet of "humanitarian aid" ships (invasion ready)
@@ -109,7 +109,7 @@ Massive devices that create a field preventing crystal energy within the city. S
 - Uncover Confederate spies in Aethermoor
 
 ## Travel Options
-- **By Sea**: 2 weeks from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] (if permitted)
+- **By Sea**: 2 weeks from [[02_Worldbuilding/Places/Port Meridian]] (if permitted)
 - **By Crystal Gate**: Impossible (null field prevents it)
 - **By Air**: Confederate airships (restricted to diplomats)
 
@@ -117,7 +117,7 @@ Massive devices that create a field preventing crystal energy within the city. S
 ## Connections
 
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Traveling Merchant Finn]]
+- [[02_Worldbuilding/Quests/Traveling Merchant Finn]]
 
 
 ## History
@@ -169,6 +169,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Goldspire Port]]
+- [[02_Worldbuilding/Places/Goldspire Port]]
 
 <!-- enriched: true -->

@@ -52,8 +52,8 @@ Advance one tick when: major route disrupted, scandal revealed, shard power spik
 4) Offer one rumor tied to a route or shard event.
 
 ## Cross-References
-- [[09_Performance/Indexes/Item_Catalog_Complete.md|Item Catalog Complete]]
-- [[09_Performance/Indexes/Location_Network_Graph.md|Location Network]]
+- [[13_Performance/Indexes/Item_Catalog_Complete.md|Item Catalog Complete]]
+- [[13_Performance/Indexes/Location_Network_Graph.md|Location Network]]
 - [[01_Adventures/The_Seven_Shards_Campaign|Seven Shards Campaign]]
 
 ## Player-Facing Summary

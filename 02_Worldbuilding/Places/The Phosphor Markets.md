@@ -28,44 +28,44 @@ world: Both
 # The Phosphor Markets - The Glowing Bazaar
 
 ## Overview
-The Phosphor Markets are a massive floating collection of bioluminescent platforms, ships, and structures that drift through the Gloom Gardens, never staying in one location for more than a week. This mobile marketplace is the economic heart of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]], where all factions trade despite political tensions. The market's neutrality is enforced by the [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant's Covenant]], a powerful trading guild that predates the drowning.
+The Phosphor Markets are a massive floating collection of bioluminescent platforms, ships, and structures that drift through the Gloom Gardens, never staying in one location for more than a week. This mobile marketplace is the economic heart of [[02_Worldbuilding/Lore/Aquabyssos World Overview]], where all factions trade despite political tensions. The market's neutrality is enforced by the [[02_Worldbuilding/Groups/Merchant's Covenant]], a powerful trading guild that predates the drowning.
 
 ## Market Sections
 
 ### The Central Exchange
-Massive platform made from a hollowed-out whale corpse, preserved and reinforced with magic. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market Master Cornelius Driftwood]] oversees all major trades from his office in what was once the creature's heart.
+Massive platform made from a hollowed-out whale corpse, preserved and reinforced with magic. [[02_Worldbuilding/Places/Market Master Cornelius Driftwood]] oversees all major trades from his office in what was once the creature's heart.
 
 ### The Glow Gardens
-Living market stalls made from cultivated bioluminescent coral and kelp. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Delilah Currentrunner]] coordinates vendors selling biological goods from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]].
+Living market stalls made from cultivated bioluminescent coral and kelp. [[02_Worldbuilding/Places/Merchant Delilah Currentrunner]] coordinates vendors selling biological goods from [[02_Worldbuilding/Places/Lumengarde]].
 
 ### The Deep Bazaar
-Lower platforms dealing in goods from the dangerous depths. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Trader Grimm Voidheart]] specializes in items from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Cerulean Trench]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]].
+Lower platforms dealing in goods from the dangerous depths. [[02_Worldbuilding/Places/Trader Grimm Voidheart]] specializes in items from [[02_Worldbuilding/Places/The Cerulean Trench]] and [[02_Worldbuilding/Places/The Hadal Depths]].
 
 ### The Memory Lane
-Section dedicated to pre-drowning artifacts and memories. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Antiquarian Eliza Tidecaller]] authenticates items while [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]] trades in extracted memories.
+Section dedicated to pre-drowning artifacts and memories. [[02_Worldbuilding/Places/Antiquarian Eliza Tidecaller]] authenticates items while [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]] trades in extracted memories.
 
 ### The Black Current
-Unofficial section where illegal goods change hands. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Merchant Riptide]] operates here, selling everything from forbidden adaptations to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deepmind Conspiracy]] artifacts.
+Unofficial section where illegal goods change hands. [[02_Worldbuilding/Places/Shadow Merchant Riptide]] operates here, selling everything from forbidden adaptations to [[02_Worldbuilding/Places/Deepmind Conspiracy]] artifacts.
 
 ### The Neutral Docks
-Where trading vessels from all factions moor. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Dockmaster Bruno Steadyanchor]] maintains order and assigns berths based on elaborate bribes.
+Where trading vessels from all factions moor. [[02_Worldbuilding/Places/Dockmaster Bruno Steadyanchor]] maintains order and assigns berths based on elaborate bribes.
 
 ## Notable Establishments
 
 ### The Floating Fortune Casino
-Gambling house run by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lucky Finn Dicetide]], where fortunes are won and lost on games of chance and skill. Rumored to be rigged with divination magic.
+Gambling house run by [[02_Worldbuilding/Places/Lucky Finn Dicetide]], where fortunes are won and lost on games of chance and skill. Rumored to be rigged with divination magic.
 
 ### The Depth's End Tavern
-Neutral meeting ground managed by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Barkeep Salty Sarah]], serves drinks that work in both air and water. Information is the real commodity here.
+Neutral meeting ground managed by [[02_Worldbuilding/Places/Barkeep Salty Sarah]], serves drinks that work in both air and water. Information is the real commodity here.
 
 ### The Current Exchange Bank
-Financial institution managing the market's complex economy. [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]] handles currency exchange between different faction monies.
+Financial institution managing the market's complex economy. [[02_Worldbuilding/People/Banker Titus Goldcurrent]] handles currency exchange between different faction monies.
 
 ### The Adaptation Parlor
-[[vault_backup_20250813_073007/02_Worldbuilding/Places/Doctor Coral Shapeshift]] offers temporary and permanent biological modifications, from gills to pressure resistance. Not all procedures are legal or safe.
+[[02_Worldbuilding/Places/Doctor Coral Shapeshift]] offers temporary and permanent biological modifications, from gills to pressure resistance. Not all procedures are legal or safe.
 
 ### The Dreamhouse
-[[vault_backup_20250813_073007/02_Worldbuilding/Places/Madame Whisper]]'s establishment offers experiences from before the drowning, using memory magic and illusions. Highly addictive and expensive.
+[[02_Worldbuilding/Places/Madame Whisper]]'s establishment offers experiences from before the drowning, using memory magic and illusions. Highly addictive and expensive.
 
 ## Trade Goods
 
@@ -87,12 +87,12 @@ Financial institution managing the market's complex economy. [[vault_backup_2025
 ### Black Market Goods
 - Deepmind artifacts
 - Forbidden metamorphosis procedures
-- Weapons from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
+- Weapons from [[02_Worldbuilding/Places/Pressure's End]]
 - Stolen religious relics
 - Slaves (officially banned, still happens)
 
 ## Market Law
-- Enforced by the [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant's Covenant]] Guard
+- Enforced by the [[02_Worldbuilding/Groups/Merchant's Covenant]] Guard
 - No violence permitted during trading hours
 - All factions have equal trading rights
 - Disputes settled by market arbitration
@@ -100,10 +100,10 @@ Financial institution managing the market's complex economy. [[vault_backup_2025
 
 ## The Mobile Nature
 The market moves on a semi-predictable route:
-1. Near [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]] - Days 1-7
-2. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]] vicinity - Days 8-14
+1. Near [[02_Worldbuilding/Places/New Tethys]] - Days 1-7
+2. [[02_Worldbuilding/Places/Lumengarde]] vicinity - Days 8-14
 3. Open water trading - Days 15-21
-4. Near [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Wandering Atoll]] - Days 22-28
+4. Near [[02_Worldbuilding/Places/The Wandering Atoll]] - Days 22-28
 5. Deep water mysterious stop - Day 29-30
 
 ## Demographics
@@ -115,7 +115,7 @@ The market moves on a semi-predictable route:
 
 ## Current Events
 1. Rare depth crystals from the trench flooding the market
-2. [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]] planning major heist
+2. [[02_Worldbuilding/Places/The Free Current]] planning major heist
 3. Mysterious buyer purchasing all memory bubbles
 4. Faction tensions threatening market neutrality
 5. Guardian creatures acting strangely aggressive
@@ -150,15 +150,15 @@ The market moves on a semi-predictable route:
 12. Guardian creature demanding "toll"
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market Master Cornelius Driftwood]] - Overall leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Delilah Currentrunner]] - Major trader
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Trader Grimm Voidheart]] - Deep goods specialist
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Merchant Riptide]] - Black market boss
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lucky Finn Dicetide]] - Casino owner
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]] - Financial controller
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Doctor Coral Shapeshift]] - Adaptation specialist
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Madame Whisper]] - Dreamhouse proprietor
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Dockmaster Bruno Steadyanchor]] - Port authority
+- [[02_Worldbuilding/Places/Market Master Cornelius Driftwood]] - Overall leader
+- [[02_Worldbuilding/Places/Merchant Delilah Currentrunner]] - Major trader
+- [[02_Worldbuilding/Places/Trader Grimm Voidheart]] - Deep goods specialist
+- [[02_Worldbuilding/Places/Shadow Merchant Riptide]] - Black market boss
+- [[02_Worldbuilding/Places/Lucky Finn Dicetide]] - Casino owner
+- [[02_Worldbuilding/People/Banker Titus Goldcurrent]] - Financial controller
+- [[02_Worldbuilding/Places/Doctor Coral Shapeshift]] - Adaptation specialist
+- [[02_Worldbuilding/Places/Madame Whisper]] - Dreamhouse proprietor
+- [[02_Worldbuilding/Places/Dockmaster Bruno Steadyanchor]] - Port authority
 
 ## DM Guidance & Tips
 
@@ -197,10 +197,10 @@ The market moves on a semi-predictable route:
 **Epic Level (16-20)**: Handle reality-bending economics, divine intervention, and multidimensional commerce
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]] - Major trading partner
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]] - Biological goods source
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Wandering Atoll]] - Occasional meeting point
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Cerulean Trench]] - Source of rare goods
+- [[02_Worldbuilding/Places/New Tethys]] - Major trading partner
+- [[02_Worldbuilding/Places/Lumengarde]] - Biological goods source
+- [[02_Worldbuilding/Places/The Wandering Atoll]] - Occasional meeting point
+- [[02_Worldbuilding/Places/The Cerulean Trench]] - Source of rare goods
 
 ## Environmental Hazards & Challenges
 
@@ -253,9 +253,9 @@ Central administrative building carved from a fossilized whale skull:
 - **Emergency Assembly Bell**: Massive conch shell that can be heard throughout the market
 
 **NPCs Present**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Registrar Cornelius Scrollkeeper]] - Meticulous record-keeper with perfect memory
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Judge Tidal Fairweather]] - Impartial arbitrator respected by all factions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Chronicler Depth-Song]] - Mer-folk historian documenting market evolution
+- [[02_Worldbuilding/Places/Registrar Cornelius Scrollkeeper]] - Meticulous record-keeper with perfect memory
+- [[02_Worldbuilding/Places/Judge Tidal Fairweather]] - Impartial arbitrator respected by all factions
+- [[02_Worldbuilding/Lore/Chronicler Depth-Song]] - Mer-folk historian documenting market evolution
 
 #### The Adaptation Clinic
 Medical facility specializing in aquatic modifications:
@@ -266,9 +266,9 @@ Medical facility specializing in aquatic modifications:
 - Permanent aquatic adaptation surgery (2,000+ gp, requires 1 month recovery)
 
 **Staff**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surgeon Coral Seamender]] - Expert in bio-magical modifications
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Healer Tide-Touch]] - Specializes in pressure-related injuries
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Apprentice Bubbles]] - Young water elemental learning medical arts
+- [[02_Worldbuilding/Places/Surgeon Coral Seamender]] - Expert in bio-magical modifications
+- [[02_Worldbuilding/Places/Healer Tide-Touch]] - Specializes in pressure-related injuries
+- [[02_Worldbuilding/Places/Apprentice Bubbles]] - Young water elemental learning medical arts
 
 ### The Artisan Districts - Mid-Levels
 
@@ -281,9 +281,9 @@ Crafting spaces utilizing living organisms:
 - **Shell Smiths**: Fashion armor and tools from giant mollusk shells
 
 **Master Craftspeople**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Artisan Glow-Finger Nerida]] - Creates bioluminescent jewelry
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Shaper Polyp]] - Living coral being who grows architectural structures
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Pearl Empress Lustrous]] - Makes pearls that store magical energy
+- [[02_Worldbuilding/Places/Artisan Glow-Finger Nerida]] - Creates bioluminescent jewelry
+- [[02_Worldbuilding/Places/Coral Shaper Polyp]] - Living coral being who grows architectural structures
+- [[02_Worldbuilding/People/Pearl Empress Lustrous]] - Makes pearls that store magical energy
 
 #### The Memory Sculpture Garden
 Open area displaying crystallized memories as art:
@@ -293,7 +293,7 @@ Open area displaying crystallized memories as art:
 - **"The Ancient Songs"**: Whale songs from before civilization
 - **"Dreams of the Deep Mother"**: Controversial and restricted exhibition
 
-**Curator**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Artist Recall]] - Can extract and display memories as visual art
+**Curator**: [[02_Worldbuilding/Places/Memory Artist Recall]] - Can extract and display memories as visual art
 
 ### The Trading Floors - Central Levels
 
@@ -320,9 +320,9 @@ Sophisticated financial trading for future goods delivery:
 - **Weather Derivatives**: Betting on current patterns and seasonal changes
 
 **Key Traders**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Futures Master Economic-Sense]] - Predicts market trends with supernatural accuracy
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Risk Assessor Probability]] - Calculates odds for any venture
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commodity Queen Abundance]] - Controls significant portions of several markets
+- [[02_Worldbuilding/Places/Futures Master Economic-Sense]] - Predicts market trends with supernatural accuracy
+- [[02_Worldbuilding/Places/Risk Assessor Probability]] - Calculates odds for any venture
+- [[02_Worldbuilding/People/Commodity Queen Abundance]] - Controls significant portions of several markets
 
 ### The Deep Markets - Lower Levels
 
@@ -351,9 +351,9 @@ Secret level where illegal goods are processed and distributed:
 - Dangerous magical items banned by various governments
 
 **Key Figures**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Facilitator]] - Mysterious figure who arranges impossible trades
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Silence-Keeper Mute]] - Enforces secrecy through magical contracts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Cleaner]] - Eliminates evidence and witnesses when necessary
+- [[02_Worldbuilding/Places/The Facilitator]] - Mysterious figure who arranges impossible trades
+- [[02_Worldbuilding/Places/Silence-Keeper Mute]] - Enforces secrecy through magical contracts
+- [[02_Worldbuilding/Places/The Cleaner]] - Eliminates evidence and witnesses when necessary
 
 ## Market Economics & Currency
 
@@ -391,7 +391,7 @@ Secret level where illegal goods are processed and distributed:
 ### The Market Conspiracy (Levels 5-8)
 **Hook**: Strange price fluctuations suggest someone is manipulating the futures market
 **Investigation**: Multiple traders report impossible losses on "sure thing" investments
-**Discovery**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Facilitator]] is using time magic to peek at future market conditions
+**Discovery**: [[02_Worldbuilding/Places/The Facilitator]] is using time magic to peek at future market conditions
 **Climax**: Confrontation in the Temporal Market zones during a time storm
 **Rewards**: Insider trading information and future market predictions
 
@@ -427,17 +427,17 @@ Secret level where illegal goods are processed and distributed:
 **Resolution**: Negotiate with divine consciousness or seal the dimensional breach
 
 ## Quests Available
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market Heist]] - The Free Current needs help
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Thief]] - Investigate missing memories
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Trade War]] - Prevent faction conflict
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Lost Shipment]] - Recover stolen goods
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market Mystery]] - Why are the guardians aggressive?
+- [[02_Worldbuilding/Places/Market Heist]] - The Free Current needs help
+- [[02_Worldbuilding/Places/The Memory Thief]] - Investigate missing memories
+- [[02_Worldbuilding/Places/Trade War]] - Prevent faction conflict
+- [[02_Worldbuilding/Places/The Lost Shipment]] - Recover stolen goods
+- [[02_Worldbuilding/Places/Market Mystery]] - Why are the guardians aggressive?
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Amnesia Gallery]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
+- [[02_Worldbuilding/Places/Amnesia Gallery]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
@@ -460,21 +460,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/Places/The Phosphor Markets]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Antiquarian Eliza Tidecaller]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deepmind Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Dockmaster Bruno Steadyanchor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Doctor Coral Shapeshift]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Madame Whisper]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Maelstrom Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market Heist]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market Mystery]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Delilah Currentrunner]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Merchant Riptide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Thief]]
+- [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+- [[02_Worldbuilding/Places/Antiquarian Eliza Tidecaller]]
+- [[02_Worldbuilding/Places/Deepmind Conspiracy]]
+- [[02_Worldbuilding/Places/Dockmaster Bruno Steadyanchor]]
+- [[02_Worldbuilding/Places/Doctor Coral Shapeshift]]
+- [[02_Worldbuilding/Places/Madame Whisper]]
+- [[02_Worldbuilding/Places/Maelstrom Palace]]
+- [[02_Worldbuilding/Places/Market Heist]]
+- [[02_Worldbuilding/Places/Market Mystery]]
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- [[02_Worldbuilding/Places/Merchant Delilah Currentrunner]]
+- [[02_Worldbuilding/Places/Shadow Merchant Riptide]]
+- [[02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/Places/The Memory Thief]]

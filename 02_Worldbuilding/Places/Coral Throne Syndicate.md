@@ -30,19 +30,19 @@ world: Both
 
 ## Physical Description & Atmosphere
 
-The Coral Throne Syndicate operates from a sprawling underwater complex built within a massive natural coral formation in the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crimson Reef]]. The structure appears to be a legitimate coral research facility from the outside, complete with cultivation pools and marine biology equipment - the perfect front for their illegal operations.
+The Coral Throne Syndicate operates from a sprawling underwater complex built within a massive natural coral formation in the [[02_Worldbuilding/Places/Crimson Reef]]. The structure appears to be a legitimate coral research facility from the outside, complete with cultivation pools and marine biology equipment - the perfect front for their illegal operations.
 
-The true headquarters lies deeper within the reef, accessible only through hidden passages known to syndicate members. Bioluminescent coral provides ambient lighting while maintaining the facility's secretive atmosphere. The centerpiece is the titular Coral Throne - a magnificent seat carved from a single massive [[vault_backup_20250813_073007/02_Worldbuilding/Places/Blood Coral]] specimen, worth more than most kingdoms' treasuries.
+The true headquarters lies deeper within the reef, accessible only through hidden passages known to syndicate members. Bioluminescent coral provides ambient lighting while maintaining the facility's secretive atmosphere. The centerpiece is the titular Coral Throne - a magnificent seat carved from a single massive [[02_Worldbuilding/Places/Blood Coral]] specimen, worth more than most kingdoms' treasuries.
 
 Armed guards patrol the facility's corridors, all bearing the syndicate's mark: a stylized coral crown tattoo visible only under specific magical light frequencies. The atmosphere is one of barely contained violence masked by the veneer of legitimate business.
 
 ## History & Significance
 
-Founded thirty years ago by the enigmatic [[vault_backup_20250813_073007/02_Worldbuilding/People/Coral Empress Scarletina]], the syndicate began as a small-time smuggling operation moving rare coral specimens to collectors in the surface world. As demand grew, so did their ambition and brutality.
+Founded thirty years ago by the enigmatic [[02_Worldbuilding/People/Coral Empress Scarletina]], the syndicate began as a small-time smuggling operation moving rare coral specimens to collectors in the surface world. As demand grew, so did their ambition and brutality.
 
-The organization gained true power during the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Plague Crisis]] when they cornered the market on healing coral and other medicinal sea plants. Their willingness to exploit desperate communities during the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Plague]] outbreaks cemented their reputation as utterly ruthless.
+The organization gained true power during the [[02_Worldbuilding/Places/Plague Crisis]] when they cornered the market on healing coral and other medicinal sea plants. Their willingness to exploit desperate communities during the [[02_Worldbuilding/Places/Depth Plague]] outbreaks cemented their reputation as utterly ruthless.
 
-The syndicate's influence now extends throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], with operations in every major settlement. They maintain uneasy truces with legitimate authorities through a combination of bribery, blackmail, and strategic elimination of threats.
+The syndicate's influence now extends throughout [[02_Worldbuilding/Places/Aquabyssos]], with operations in every major settlement. They maintain uneasy truces with legitimate authorities through a combination of bribery, blackmail, and strategic elimination of threats.
 
 ## Current Leadership & Operations
 
@@ -92,19 +92,19 @@ The syndicate's influence now extends throughout [[vault_backup_20250813_073007/
 #### "Bloodcoral" Vex Tidebreaker
 *Medium humanoid (half-orc), chaotic evil*
 - **Role:** Enforcement and Collection Operations
-- **Base:** [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crimson Docks]] smuggling operation
+- **Base:** [[02_Worldbuilding/Places/The Crimson Docks]] smuggling operation
 - **Specialty:** Intimidation and violent debt collection
 
 #### Navigator Slyph Currentwhisper  
 *Medium humanoid (water genasi), neutral evil*
 - **Role:** Smuggling Route Coordination
 - **Base:** Mobile command aboard the submarine *Depth's Fortune*
-- **Specialty:** Evading [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Riders Guild]] patrols
+- **Specialty:** Evading [[02_Worldbuilding/Places/Current Riders Guild]] patrols
 
 #### "The Harvester" Keth Reefrender
 *Medium humanoid (triton), lawful evil*
 - **Role:** Illegal Coral Operations
-- **Base:** Hidden facility in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Living Reef]]
+- **Base:** Hidden facility in [[02_Worldbuilding/Places/Living Reef]]
 - **Specialty:** Coral cultivation and processing
 
 ## Notable Operations & Services
@@ -118,14 +118,14 @@ The syndicate's influence now extends throughout [[vault_backup_20250813_073007/
 
 ### Protection Rackets
 The syndicate operates protection schemes throughout:
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Abyssos]]** merchant district
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Pearl Markets]]** vendor stalls
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Twilight Gardens]]** pleasure establishments
+- **[[02_Worldbuilding/Places/Port Abyssos]]** merchant district
+- **[[02_Worldbuilding/Places/The Pearl Markets]]** vendor stalls
+- **[[02_Worldbuilding/Places/The Twilight Gardens]]** pleasure establishments
 
 ### Smuggling Networks
 Primary routes include:
-- Surface world luxury goods via [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shipwreck Cove]]
-- Magical components through [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Caverns]]
+- Surface world luxury goods via [[02_Worldbuilding/Places/Shipwreck Cove]]
+- Magical components through [[02_Worldbuilding/Places/The Crystal Caverns]]
 - Weapons shipments to various conflict zones
 
 ## Criminal Operations & Territories
@@ -137,18 +137,18 @@ A legitimate-appearing shipping facility that serves as the syndicate's primary 
 Secret cultivation sites where the syndicate grows rare and dangerous coral species. These operations cause significant environmental damage to natural reef systems.
 
 ### The Sunken Vault
-An underwater treasury hidden in the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssal Territories]] where the syndicate stores their most valuable acquisitions and keeps prisoners for ransom.
+An underwater treasury hidden in the [[02_Worldbuilding/Places/Abyssal Territories]] where the syndicate stores their most valuable acquisitions and keeps prisoners for ransom.
 
 ## Adventure Hooks & Encounters
 
 ### The Missing Shipment (Level 4-6)
-A [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Riders Guild]] courier carrying vital medicine for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Plague]] victims has vanished. Investigation reveals syndicate involvement - they're hoarding medical supplies to drive up prices. The party must infiltrate a syndicate warehouse to recover the stolen goods.
+A [[02_Worldbuilding/Places/Current Riders Guild]] courier carrying vital medicine for [[02_Worldbuilding/Places/Depth Plague]] victims has vanished. Investigation reveals syndicate involvement - they're hoarding medical supplies to drive up prices. The party must infiltrate a syndicate warehouse to recover the stolen goods.
 
 ### The Coral War (Level 7-10)
-Environmental activists from the [[Order of the Deep Current]] clash with syndicate harvesting operations. Both sides seek the party's aid in a conflict that threatens to escalate into open warfare, potentially devastating the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Living Reef]] ecosystem.
+Environmental activists from the [[Order of the Deep Current]] clash with syndicate harvesting operations. Both sides seek the party's aid in a conflict that threatens to escalate into open warfare, potentially devastating the [[02_Worldbuilding/Places/Living Reef]] ecosystem.
 
 ### The Empress's Gambit (Level 11-15)
-Coral Empress Scarletina plans to corner the market on [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pristine Pearl]] essence needed to cure [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Plague]]. The party must navigate syndicate politics, avoid assassination attempts, and ultimately confront Scarletina in her coral throne room before she can implement her scheme.
+Coral Empress Scarletina plans to corner the market on [[02_Worldbuilding/Places/Pristine Pearl]] essence needed to cure [[02_Worldbuilding/Places/The Depth Plague]]. The party must navigate syndicate politics, avoid assassination attempts, and ultimately confront Scarletina in her coral throne room before she can implement her scheme.
 
 ## D&D 5e Mechanics & Features
 
@@ -203,28 +203,28 @@ Extended contact with illegal coral specimens:
 ## Law Enforcement & Enemies
 
 ### The Deep Watch
-An elite unit within the [[Order of the Deep Current]] specifically tasked with combating syndicate operations. Led by Captain [[vault_backup_20250813_073007/02_Worldbuilding/Places/Theron Justcurrent]], they maintain detailed files on all known syndicate members.
+An elite unit within the [[Order of the Deep Current]] specifically tasked with combating syndicate operations. Led by Captain [[02_Worldbuilding/Places/Theron Justcurrent]], they maintain detailed files on all known syndicate members.
 
 ### Rival Organizations
-- **The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssal Cartel]]** - Competing smuggling operation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Contacts]]** - Land-based criminal networks
+- **The [[02_Worldbuilding/Places/Abyssal Cartel]]** - Competing smuggling operation
+- **[[02_Worldbuilding/Places/Surface Contacts]]** - Land-based criminal networks
 - **Independent Pirates** - Freelance criminals who sometimes clash with syndicate operations
 
 ## Connected Plots
-The Coral Throne Syndicate's operations intersect with major campaign elements including the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Plague]] cure shortage, artifacts from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Senate]], conflicts with the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Riders Guild]], and the broader political tensions throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+The Coral Throne Syndicate's operations intersect with major campaign elements including the [[02_Worldbuilding/Places/Depth Plague]] cure shortage, artifacts from [[02_Worldbuilding/Places/The Sunken Senate]], conflicts with the [[02_Worldbuilding/Places/Current Riders Guild]], and the broader political tensions throughout [[02_Worldbuilding/Places/Aquabyssos]].
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Riders Guild]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memoriam]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Plague]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Ground]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vault Breach]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[02_Worldbuilding/Places/Memoriam]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/The Depth Plague]]
+- [[02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/The Neutral Ground]]
+- [[02_Worldbuilding/Places/Vault Breach]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
 
@@ -246,6 +246,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
 
 <!-- enriched: true -->

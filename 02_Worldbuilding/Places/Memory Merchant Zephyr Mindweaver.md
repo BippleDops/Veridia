@@ -94,7 +94,7 @@ world: Aquabyssos
 
 Zephyr Mindweaver appears as an ethereally beautiful sea elf with silver-blue skin that shimmers like moonlight on water. Her long, flowing hair seems to move as if underwater even in open air, and her eyes are pools of swirling mist that occasionally flash with fragments of memories - not her own, but those she has collected. Intricate tattoos of runic patterns cover her arms, each one a mnemonic device for organizing her vast collection of memories.
 
-She dresses in robes woven from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Kelp]], adorned with crystalline memory orbs that hang like jewelry around her neck and wrists. These orbs glow softly with different colors, each hue representing different types of memories - golden for joy, blue for sorrow, silver for knowledge, and crimson for passion.
+She dresses in robes woven from [[02_Worldbuilding/Lore/Abyssal Kelp]], adorned with crystalline memory orbs that hang like jewelry around her neck and wrists. These orbs glow softly with different colors, each hue representing different types of memories - golden for joy, blue for sorrow, silver for knowledge, and crimson for passion.
 
 ## Personality
 
@@ -104,14 +104,14 @@ She has a peculiar habit of pausing mid-conversation to "taste" a memory, her ey
 
 ## Backstory
 
-Once a court wizard in the [[vault_backup_20250813_073007/02_Worldbuilding/People/Sunken Kingdom of Nereon]], Zephyr discovered her unique gift for memory manipulation during a catastrophic magical accident that claimed the lives of her research partner and closest friend. In her grief, she attempted to preserve their memories, accidentally absorbing not just their final moments but their entire life experiences.
+Once a court wizard in the [[02_Worldbuilding/People/Sunken Kingdom of Nereon]], Zephyr discovered her unique gift for memory manipulation during a catastrophic magical accident that claimed the lives of her research partner and closest friend. In her grief, she attempted to preserve their memories, accidentally absorbing not just their final moments but their entire life experiences.
 
-This traumatic event awakened her to the fragile nature of memory and experience. She left the court to become a wandering collector, believing that by preserving memories, she could prevent the true death that comes when one is forgotten entirely. Over centuries, she has built the largest collection of memories in the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Depths]], ranging from the mundane daily experiences of common folk to the profound revelations of ancient [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Seekers]].
+This traumatic event awakened her to the fragile nature of memory and experience. She left the court to become a wandering collector, believing that by preserving memories, she could prevent the true death that comes when one is forgotten entirely. Over centuries, she has built the largest collection of memories in the [[02_Worldbuilding/Lore/Abyssal Depths]], ranging from the mundane daily experiences of common folk to the profound revelations of ancient [[02_Worldbuilding/Lore/Depth Seekers]].
 
 ## Current Motivations
 
 - **Preserve Lost Histories:** Collecting memories of extinct civilizations and vanished cultures
-- **Understand the Memory Plague:** Investigating reports of a strange affliction causing mass amnesia in the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Coral Gardens]]
+- **Understand the Memory Plague:** Investigating reports of a strange affliction causing mass amnesia in the [[02_Worldbuilding/Lore/The Coral Gardens]]
 - **Find Her Friend's Soul:** Seeking a way to restore her lost research partner using their preserved memories
 - **Protect Memory Sanctity:** Opposing those who would use memory magic for evil purposes
 
@@ -131,25 +131,25 @@ This traumatic event awakened her to the fragile nature of memory and experience
 
 ## Relationships
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sage Pelagic]]** - Intellectual rival and occasional research partner. They compete to collect the rarest historical memories but respect each other's expertise.
+**[[02_Worldbuilding/Lore/Sage Pelagic]]** - Intellectual rival and occasional research partner. They compete to collect the rarest historical memories but respect each other's expertise.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Doctor Coral Shapeshift]]** - Professional relationship. Zephyr provides memory-based trauma treatment for Coral's patients, while Coral helps Zephyr understand the medical aspects of memory disorders.
+**[[02_Worldbuilding/Places/Doctor Coral Shapeshift]]** - Professional relationship. Zephyr provides memory-based trauma treatment for Coral's patients, while Coral helps Zephyr understand the medical aspects of memory disorders.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgotten Court]]** - Maintains careful neutrality with this faction of exiled nobles, though she possesses memories that could restore or damn many of them.
+**[[02_Worldbuilding/Lore/The Forgotten Court]]** - Maintains careful neutrality with this faction of exiled nobles, though she possesses memories that could restore or damn many of them.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Hadal Drake]]** - Trades information with this deep-sea explorer, exchanging navigation memories for funding and protection during her travels.
+**[[02_Worldbuilding/People/Captain Hadal Drake]]** - Trades information with this deep-sea explorer, exchanging navigation memories for funding and protection during her travels.
 
 **[[02_Worldbuilding/Groups/Memory Thieves Guild|02 Worldbuilding/Groups/Memory Thieves Guild]]** - Actively opposes this criminal organization that steals and sells memories without consent.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]** - Complicated relationship. Marcus seeks to retrieve memories stolen from his temple, while Zephyr claims they came to her legitimately.
+**[[02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]** - Complicated relationship. Marcus seeks to retrieve memories stolen from his temple, while Zephyr claims they came to her legitimately.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Spymaster Crow]]** - Mutually beneficial arrangement where they trade information, though neither fully trusts the other.
+**[[02_Worldbuilding/Places/Spymaster Crow]]** - Mutually beneficial arrangement where they trade information, though neither fully trusts the other.
 
 ## Current Location & Activities
 
-Zephyr operates from the **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Bazaar]]**, a pocket dimension accessible through mirrors in the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Depths]]. Her shop, "Mindful Acquisitions," is a crystalline cave filled with thousands of memory orbs organized by type, age, and emotional resonance.
+Zephyr operates from the **[[02_Worldbuilding/Lore/Memory Bazaar]]**, a pocket dimension accessible through mirrors in the [[02_Worldbuilding/Lore/Abyssal Depths]]. Her shop, "Mindful Acquisitions," is a crystalline cave filled with thousands of memory orbs organized by type, age, and emotional resonance.
 
-Currently, she is investigating strange reports of memories being "eaten" by something in the deep trenches. Several of her regular clients have come to her with gaps in their recollections that even her magic cannot restore. She suspects this is connected to an ancient entity stirring in the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Hadal Zone]].
+Currently, she is investigating strange reports of memories being "eaten" by something in the deep trenches. Several of her regular clients have come to her with gaps in their recollections that even her magic cannot restore. She suspects this is connected to an ancient entity stirring in the [[02_Worldbuilding/Lore/Hadal Zone]].
 
 ### Daily Activities
 - **Dawn:** Meditation and memory organization
@@ -162,7 +162,7 @@ Currently, she is investigating strange reports of memories being "eaten" by som
 
 1. **The Lost Memory:** A powerful noble's memories of a hidden treasure vault have been stolen, and they hire the party to retrieve them from Zephyr's collection.
 
-2. **Memory Plague Investigation:** Strange amnesia is spreading through the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Coral Gardens]]. Zephyr needs the party's help to investigate its source in dangerous deep-sea locations.
+2. **Memory Plague Investigation:** Strange amnesia is spreading through the [[02_Worldbuilding/Lore/The Coral Gardens]]. Zephyr needs the party's help to investigate its source in dangerous deep-sea locations.
 
 3. **The Perfect Crime:** Someone is using stolen memories to frame innocents for crimes they never committed. The party must help Zephyr track down the memory thief.
 
@@ -188,17 +188,17 @@ Her vast collection makes her one of the most knowledgeable NPCs in the campaign
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Hidden Smuggler's Cove]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Siren's Rest Tavern]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Vault Breach]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/Places/The Siren's Rest Tavern]]
+- [[02_Worldbuilding/Places/Vault Breach]]
+- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/Quests/The Crown's Burden]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
@@ -221,9 +221,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Doctor Coral Shapeshift]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Spymaster Crow]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]
+- [[02_Worldbuilding/Places/Doctor Coral Shapeshift]]
+- [[02_Worldbuilding/Places/Spymaster Crow]]
+- [[02_Worldbuilding/Places/Temple Guardian Marcus the Drowned]]

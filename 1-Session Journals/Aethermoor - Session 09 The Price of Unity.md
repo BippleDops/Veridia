@@ -7,16 +7,16 @@ estimated_time: 3-4 hours
 level: 5
 location: New Meridian - The Merged City
 npcs_featured:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Ambassadors]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Transformed Citizens]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
+- '[[02_Worldbuilding/Lore/Aquabyssos Ambassadors]]'
+- '[[02_Worldbuilding/Lore/The Transformed Citizens]]'
 obsidianUIMode: preview
 quests_advanced:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish the New Order]]'
+- '[[02_Worldbuilding/Groups/Orders/Establish the New Order]]'
 - '[[The Crown''s Burden]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Healing Two Worlds]]'
+- '[[02_Worldbuilding/Lore/Healing Two Worlds]]'
 session_number: 9
 status: complete
 tags:
@@ -55,12 +55,12 @@ Dawn approaches. The merged city is in chaos - some citizens exist in both forms
 ### Scene 1: The Citizens' Choice
 - **Location**: Various districts of merged Meridian
 - **Situation**: Help confused citizens choose their form
-- **Conflict**: [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] attempts violent separation
+- **Conflict**: [[02_Worldbuilding/Groups/Purist Coalition]] attempts violent separation
 - **Discovery**: Some citizens thrive in dual form
 
 ### Scene 2: The Ambassador's Arrival
 - **Location**: New harbor where water meets air
-- **Situation**: First contact with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] leadership
+- **Situation**: First contact with [[02_Worldbuilding/Places/Aquabyssos]] leadership
 - **Conflict**: Cultural misunderstandings escalate quickly
 - **Discovery**: Ancient treaties still technically valid
 
@@ -82,11 +82,11 @@ Dawn approaches. The merged city is in chaos - some citizens exist in both forms
 2. Some transformed citizens prefer their new forms
 3. Aquabyssos technology could revolutionize Aethermoor
 4. The Entity left seeds of itself in some citizens
-5. [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'s bloodline can speak for Aquabyssos
-6. The Queen and [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]] share a soul-bond
+5. [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'s bloodline can speak for Aquabyssos
+6. The Queen and [[02_Worldbuilding/People/Captain Lyanna Brightshield]] share a soul-bond
 7. Time moves differently in merged zones
 8. Children adapt to the merge most easily
-9. [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] left one final message
+9. [[02_Worldbuilding/People/The Crimson Sage]] left one final message
 10. Perfect unity is impossible but harmony is achievable
 
 ## 👥 NPCs
@@ -140,14 +140,14 @@ Dawn approaches. The merged city is in chaos - some citizens exist in both forms
 
 ## 🎭 Cliffhanger Ending
 
-As the stabilization completes, the bloodline carrier makes their choice about the crown. Suddenly, a message arrives from the Eastern Kingdoms - they've detected the reality shift and are sending a fleet to "quarantine the anomaly." Worse, deep beneath [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], something ancient stirs - something the Drowned God was keeping asleep. [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]'s final message plays: "The seven shards were not the first prison. They will not be the last. When the Deep Mother wakes, both worlds must stand as one." The ocean beneath the floating city begins to boil.
+As the stabilization completes, the bloodline carrier makes their choice about the crown. Suddenly, a message arrives from the Eastern Kingdoms - they've detected the reality shift and are sending a fleet to "quarantine the anomaly." Worse, deep beneath [[02_Worldbuilding/Places/Aquabyssos]], something ancient stirs - something the Drowned God was keeping asleep. [[02_Worldbuilding/People/The Crimson Sage]]'s final message plays: "The seven shards were not the first prison. They will not be the last. When the Deep Mother wakes, both worlds must stand as one." The ocean beneath the floating city begins to boil.
 
 ## 🔗 Connected Notes
 - New Meridian Districts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdoms]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
+- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/Eastern Kingdoms]]
 
 ## 📝 DM Notes
 ```
@@ -172,4 +172,4 @@ Political Balance:
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]

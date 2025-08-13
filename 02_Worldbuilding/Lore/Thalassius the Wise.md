@@ -1,26 +1,23 @@
 ---
-created: '2025-08-11'
+type: Lore
+status: complete
 date_created: '2025-08-11'
 date_modified: '2025-08-11'
-status: complete
 tags:
+- ancient
+- aquabyssos
 - both
 - complete
-- content/lore
-- content/npc
 - lore
+- npc
 - scholar
-- status/complete
 - thalassius
 - wise
-- world/aquabyssos
-- world/both
 - worldbuilding
-type: Lore
-updated: '2025-08-13T12:34:28.877055+00:00'
 world: Both
+updated: '2025-08-11T00:00:00+00:00'
+created: '2025-08-11'
 ---
-
 
 
 > [!figure] Portrait
@@ -46,14 +43,14 @@ Born during the early expansion period of Aquabyssos, Thalassius demonstrated ex
 Thalassius's transformation from promising student to legendary scholar began with his discovery of ancient texts in the deep archives, documents that revealed sophisticated magical and philosophical traditions from pre-unification underwater civilizations. His translations and interpretations of these works established his reputation and laid the foundation for his later contributions.
 
 ### Development
-As [[02_Worldbuilding/Places/Aquabyssos]] evolved from experimental settlement to major underwater metropolis, Thalassius adapted his scholarship to address the practical challenges facing the growing city, including understanding the effects of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]. His research into pressure dynamics, current management, and inter-species psychology proved crucial during the Great Unification negotiations and the establishment of the modern city structure.
+As [[02_Worldbuilding/Places/Aquabyssos]] evolved from experimental settlement to major underwater metropolis, Thalassius adapted his scholarship to address the practical challenges facing the growing city, including understanding the effects of [[Timeline of the Drowning]] and [[The Great Crystallization]]. His research into pressure dynamics, current management, and inter-species psychology proved crucial during the Great Unification negotiations and the establishment of the modern city structure.
 
 Thalassius's development of the "Current Theory of Magic" revolutionized underwater spellcasting and led to numerous practical innovations in magical engineering and architectural design. His work bridging ancient wisdom with contemporary needs earned him recognition as the city's foremost intellectual authority.
 
 ### Current Era
 Modern Thalassius continues his research while serving as elder advisor to city leadership and mentor to new generations of scholars. His recent work focuses on understanding the implications of Surface contact, the nature of inter-realm magical interactions, and the growing concerns about deep-ocean phenomena that threaten both civilizations.
 
-His current projects include comprehensive analysis of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]] effects, compilation of comparative cultural studies between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] societies, investigation of ancient prophecies that may relate to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]], and research into [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s growing influence.
+His current projects include comprehensive analysis of [[02_Worldbuilding/Lore/Shadow Corruption]] effects, compilation of comparative cultural studies between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] societies, investigation of ancient prophecies that may relate to [[The Convergence Point]], and research into [[The Deep Mother]]'s growing influence.
 
 ## Cultural Significance
 ### In Aquabyssos
@@ -99,13 +96,13 @@ His breakthrough understanding of magical current flows revolutionized underwate
 Thalassius's conversations with Surface scholars established the intellectual foundation for peaceful inter-realm relations.
 
 ## Key Figures
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Student Prime Coral]]**: Thalassius's most accomplished current student and potential successor
+- **[[02_Worldbuilding/Lore/Student Prime Coral]]**: Thalassius's most accomplished current student and potential successor
 - **[[02_Worldbuilding/Places/Archivist Vera Glowmind]]**: Collaborator in maintaining and expanding the great library
 - **[[02_Worldbuilding/Lore/The Circle of Depths]]**: Group of senior scholars who work with Thalassius on major research projects
 - **[[02_Worldbuilding/Lore/Ambassador Current]]**: Diplomatic official who regularly consults Thalassius on inter-realm matters
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ancient Translator Resonance]]**: Specialist who assists with the most challenging historical texts
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: Colleague in [[02_Worldbuilding/Places/Aethermoor]] specializing in cross-realm knowledge
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Recursion Oracle]]**: Mysterious figure he consults about temporal patterns
+- **[[02_Worldbuilding/Lore/Ancient Translator Resonance]]**: Specialist who assists with the most challenging historical texts
+- **[[02_Worldbuilding/Places/Aquabyssos]]**: Colleague in [[02_Worldbuilding/Places/Aethermoor]] specializing in cross-realm knowledge
+- **[[02_Worldbuilding/Lore/The Recursion Oracle]]**: Mysterious figure he consults about temporal patterns
 
 ## Current Developments
 Thalassius's recent research has uncovered disturbing patterns in ancient texts that seem to predict current inter-realm tensions and the emergence of corruption phenomena. His analysis suggests that contemporary events may be following ancient cycles that could lead to catastrophic outcomes unless properly understood and addressed.
@@ -146,21 +143,21 @@ His deepest knowledge and hidden secrets prove essential to resolving campaign-e
 
 ### Academic Network and Colleagues
 - [[02_Worldbuilding/Places/Archivist Vera Glowmind]] - Library collaborator
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Cross-realm correspondent
+- [[02_Worldbuilding/Places/Aquabyssos]] - Cross-realm correspondent
 - [[02_Worldbuilding/Lore/Professor Euclid Mindmaze]] - [[02_Worldbuilding/Places/Aethermoor]] research partner
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Student Prime Coral]] - Primary apprentice
+- [[02_Worldbuilding/Lore/Student Prime Coral]] - Primary apprentice
 - [[02_Worldbuilding/Lore/The Circle of Depths]] - Senior scholar group
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Recursion Oracle]] - Temporal pattern specialist
+- [[02_Worldbuilding/Lore/The Recursion Oracle]] - Temporal pattern specialist
 
 ### Research Subjects and Phenomena
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] - Ongoing investigation into ancient influence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]] - Historical analysis project
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]] - Comparative event study
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]] - Current analysis of spreading effects
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]] - Prophetic research and implications
+- [[The Deep Mother]] - Ongoing investigation into ancient influence
+- [[Timeline of the Drowning]] - Historical analysis project
+- [[The Great Crystallization]] - Comparative event study
+- [[02_Worldbuilding/Lore/Shadow Corruption]] - Current analysis of spreading effects
+- [[The Convergence Point]] - Prophetic research and implications
 - [[02_Worldbuilding/Lore/Memory Alteration Consequences]] - Societal impact studies
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] - Ancient artifact research
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Echo of the Mother]] - Deep ocean phenomena investigation
+- [[The Seven Shards]] - Ancient artifact research
+- [[02_Worldbuilding/Lore/Echo of the Mother]] - Deep ocean phenomena investigation
 
 ### Locations and Archives
 - [[02_Worldbuilding/Lore/The Forgotten Archive]] - Related research facility
@@ -168,13 +165,13 @@ His deepest knowledge and hidden secrets prove essential to resolving campaign-e
 - [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]] - Research site
 - [[02_Worldbuilding/Lore/Pre-Submersion Ruins]] - Archaeological study locations
 - [[02_Worldbuilding/Lore/Temple of the First Tide]] - Ancient text repositories
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Leviathan Graveyard]] - Field research site
+- [[Leviathan Graveyard]] - Field research site
 
 ### Organizations and Relationships
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Order of the Sunken Crown]] - Historical research subjects
+- [[Order of the Sunken Crown]] - Historical research subjects
 - [[02_Worldbuilding/Lore/The Tethyan Hegemony]] - Ancient political analysis
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]] - Methodological framework
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]] - Advisory relationships
+- [[Investigation Procedures]] - Methodological framework
+- [[United Councils of Both Worlds]] - Advisory relationships
 - [[02_Worldbuilding/Places/Parliament of Echoes]] - Institutional connections
 
 ## DM Guidance
@@ -195,10 +192,10 @@ Adjust Thalassius's accessibility and knowledge level based on campaign needs - 
 ## Connections
 
 - [[02_Worldbuilding/Lore/Kraken Territories]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Leviathan Graveyard]]
+- [[Leviathan Graveyard]]
 - [[02_Worldbuilding/Lore/Silver Mask]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spell Components]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/Spell Components]]
+- [[The Deep Mother]]
 
 ## Player-Facing Summary
 
@@ -216,18 +213,18 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Echo of the Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]]
+- [[02_Worldbuilding/Lore/Echo of the Mother]]
+- [[Investigation Procedures]]
 - [[02_Worldbuilding/Lore/Memory Alteration Consequences]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Order of the Sunken Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Recursion Oracle]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[Order of the Sunken Crown]]
+- [[The Convergence Point]]
+- [[The Great Crystallization]]
+- [[02_Worldbuilding/Lore/The Recursion Oracle]]
+- [[The Seven Shards]]
 - [[02_Worldbuilding/Lore/The Tethyan Hegemony]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]]
+- [[Timeline of the Drowning]]
+- [[United Councils of Both Worlds]]
 - [[02_Worldbuilding/Places/Aethermoor]]
 - [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
 - [[02_Worldbuilding/Places/Archivist Vera Glowmind]]

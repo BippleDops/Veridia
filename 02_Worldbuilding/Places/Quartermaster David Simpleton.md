@@ -62,11 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quartermaster David Simpleton]]
+- [[02_Worldbuilding/Places/Quartermaster David Simpleton]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition Thugs]]
+- [[02_Worldbuilding/Groups/Purist Coalition Thugs]]

@@ -23,20 +23,20 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/Lore/Investigation Procedures]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Current PC Lead]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/Current PC Lead]]
+- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
 - [[Envoy Blackwater Jr.]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Mayor Thompson]]
+- [[02_Worldbuilding/People/Mayor Thompson]]
 - [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Marius]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]]
+- [[02_Worldbuilding/People/Senator Marius]]
+- [[02_Worldbuilding/People/The Current Merchants]]
 
 ## Player-Facing Summary
 

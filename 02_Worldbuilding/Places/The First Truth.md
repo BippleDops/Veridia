@@ -180,7 +180,7 @@ The First Truth serves as both a philosophical framework and a plot device. Use 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Places/The Primordial Vaults]]
 
 ## Player-Facing Summary
 
@@ -192,6 +192,6 @@ Legends speak of The First Truth as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The First Truth]]
+- [[02_Worldbuilding/Places/The First Truth]]
 
 <!-- enriched: true -->

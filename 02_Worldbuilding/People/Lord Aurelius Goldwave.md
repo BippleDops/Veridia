@@ -5,8 +5,8 @@ MyContainer: None
 class: Enchantment Wizard/College of Eloquence Bard
 created: '2025-08-09'
 created_by: Claude
-faction: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]]'
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]'
+faction: '[[02_Worldbuilding/Places/The Order of the Shattered Crown]]'
+location: '[[02_Worldbuilding/Places/Port Meridian]]'
 obsidianUIMode: preview
 status: complete
 tags:
@@ -39,7 +39,7 @@ world: Aethermoor
 > *"My ancestors made a choice that damned us all. I intend to make a choice that redeems us. The price of redemption, you ask? Everything I have built, everything I am, everything I could become. But some debts can only be paid in full."*
 
 ## Overview
-Lord Aurelius Goldwave is the wealthiest and most influential merchant-noble in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]], descended from Aurelius the Goldweaver - one of the Seven Betrayers who shattered [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] 500 years ago. Though he presents himself as a successful trader and benevolent patron of the arts, he secretly leads [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]], dedicated to gathering the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] to undo his ancestor's great sin. His vast fortune, built through crystal trade and careful political manipulation, serves a single purpose: atonement for the betrayal that doomed Aethermoor to centuries of crystal corruption.
+Lord Aurelius Goldwave is the wealthiest and most influential merchant-noble in [[02_Worldbuilding/Places/Port Meridian]], descended from Aurelius the Goldweaver - one of the Seven Betrayers who shattered [[02_Worldbuilding/Lore/The Crown of Stars]] 500 years ago. Though he presents himself as a successful trader and benevolent patron of the arts, he secretly leads [[02_Worldbuilding/Places/The Order of the Shattered Crown]], dedicated to gathering the [[02_Worldbuilding/Lore/The Seven Shards]] to undo his ancestor's great sin. His vast fortune, built through crystal trade and careful political manipulation, serves a single purpose: atonement for the betrayal that doomed Aethermoor to centuries of crystal corruption.
 
 ## Appearance
 - **Age**: 48, though appears younger due to careful use of crystal magic
@@ -235,23 +235,23 @@ Lord Goldwave's speech reflects his bardic training and aristocratic upbringing:
 ## Background & History
 
 ### The Goldwave Legacy
-The Goldwave family descended from Aurelius the Goldweaver, the most powerful enchanter among [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]]. His ancestor's specialty was financial manipulation and mass persuasion - abilities he used to convince the other six to betray [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]. When the Crown shattered, the Goldweaver was consumed by the Golden Shard's power, leaving behind only his techniques and a massive fortune built on betrayal.
+The Goldwave family descended from Aurelius the Goldweaver, the most powerful enchanter among [[02_Worldbuilding/Lore/The Seven Betrayers]]. His ancestor's specialty was financial manipulation and mass persuasion - abilities he used to convince the other six to betray [[02_Worldbuilding/People/The Crimson Sage]]. When the Crown shattered, the Goldweaver was consumed by the Golden Shard's power, leaving behind only his techniques and a massive fortune built on betrayal.
 
 ### The Burden of Knowledge
 Unlike most descendants of the Betrayers, the Goldwave family maintained detailed records of their ancestor's actions. Aurelius learned the full truth at age 16 when he inherited the family's secret archives. The revelation shattered his worldview and set him on his current path of redemption.
 
 ### Building an Empire
-Over thirty years, Aurelius transformed the family's inherited wealth into the largest trading empire in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]. He:
+Over thirty years, Aurelius transformed the family's inherited wealth into the largest trading empire in [[02_Worldbuilding/Places/Port Meridian]]. He:
 - Monopolized the safe transport of crystal goods
 - Established the Goldwave Academy for Crystal Studies
 - Created a network of agents throughout Aethermoor
-- Secretly founded and funded [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- Secretly founded and funded [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
 
 ### The Order of the Shattered Crown
 This secretive organization, led by Aurelius, seeks to:
-- Locate and gather all [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- Locate and gather all [[02_Worldbuilding/Lore/The Seven Shards]]
 - Undo the betrayal by reforging the Crown of Stars
-- Restore [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] to proper godhood
+- Restore [[02_Worldbuilding/People/The Crimson Sage]] to proper godhood
 - End crystal corruption permanently
 
 The Order operates through legitimate businesses, scholarly research, and careful political influence rather than force or theft.
@@ -276,26 +276,26 @@ Lord Goldwave's business interests include:
 ## Relationships & Political Connections
 
 ### Publicly Allied With:
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]**: Leading member and voice of moderation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] Nobility**: Major financial supporter of the Crystal Throne
+- **[[02_Worldbuilding/Groups/Merchant Princes]]**: Leading member and voice of moderation
+- **[[02_Worldbuilding/Places/Crystalhaven]] Nobility**: Major financial supporter of the Crystal Throne
 - **Crystal Researchers**: Funds legitimate academic study of crystal properties
 - **Port Meridian City Council**: His taxes and trade keep the city prosperous
 
 ### Secretly Allied With:
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]]**: Founder and secret leader
-- **Certain members of [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]**: Shares goal of ending corruption
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]]**: Fellow descendant of a Betrayer seeking redemption
+- **[[02_Worldbuilding/Places/The Order of the Shattered Crown]]**: Founder and secret leader
+- **Certain members of [[02_Worldbuilding/Groups/Purist Coalition]]**: Shares goal of ending corruption
+- **[[02_Worldbuilding/People/Archdruid Thornweaver]]**: Fellow descendant of a Betrayer seeking redemption
 - **Independent Crystal Researchers**: Funds those seeking to understand the Shards
 
 ### Opposed By:
 - **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]**: His legitimate trade hurts their smuggling operations
 - **Corrupt Crystal Dealers**: His safety standards reduce their profits
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]**: Competing visions for the Shards' use
+- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Competing visions for the Shards' use
 - **Orthodox Crystal Throne Supporters**: His questions about current policy threaten the status quo
 
 ### Complex Political Relationships:
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - The Corrupted Crown**
+#### **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - The Corrupted Crown**
 
 **Historical Development**:
 - **The Coronation Investment (12 years ago)**: Aurelius saw Seraphina's coronation as an opportunity for redemption through service, presenting the legendary Goldweaver Chandelier (a family heirloom worth 50,000 gold) as a coronation gift to signal his commitment to her reign
@@ -324,7 +324,7 @@ Lord Goldwave's business interests include:
 - **The Succession Contingency**: If Seraphina's corruption becomes public, Aurelius will use his wealth and influence to support her daughter Aria's claim to the throne
 - **The Final Bargain**: If Aurelius succeeds in his temporal redemption plan, he will ensure Seraphina is cured in the new timeline; if she finds a cure first, she will help him complete his redemption quest
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] - The Righteous Opposition**
+#### **[[02_Worldbuilding/People/High Inquisitor Maltheos]] - The Righteous Opposition**
 
 **Historical Development**:
 - **Early Respect**: Initially admired Maltheos's anti-corruption stance, seeing him as someone fighting the same evil that drove his redemption quest
@@ -336,7 +336,7 @@ Lord Goldwave's business interests include:
 - **The Queen Problem**: Maltheos would execute Seraphina for corruption; Aurelius seeks to cure her
 - **Political Maneuvering**: Aurelius uses his wealth and influence to quietly counter Maltheos's more extreme initiatives
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - The Target of Redemption**
+#### **[[02_Worldbuilding/People/The Crimson Sage]] - The Target of Redemption**
 
 **The Ultimate Relationship**:
 - **Ancestral Debt**: The Crimson Sage (Aetheron) is the primary victim of Aurelius's ancestor's betrayal, making their relationship the cornerstone of his entire life's work
@@ -347,7 +347,7 @@ Lord Goldwave's business interests include:
 ## Secrets & Hidden Agendas
 
 > [!warning] DM Only - The True Plan
-> Lord Goldwave doesn't just want to gather the Seven Shards - he plans to use them to travel back in time and prevent the original betrayal. He's discovered that the Golden Shard, currently within [[vault_backup_20250813_073007/02_Worldbuilding/People/Aria Lumengarde]], can theoretically power such a spell. His real goal is to sacrifice himself to undo the timeline where his ancestor betrayed Aetheron, accepting that this would erase his own existence.
+> Lord Goldwave doesn't just want to gather the Seven Shards - he plans to use them to travel back in time and prevent the original betrayal. He's discovered that the Golden Shard, currently within [[02_Worldbuilding/People/Aria Lumengarde]], can theoretically power such a spell. His real goal is to sacrifice himself to undo the timeline where his ancestor betrayed Aetheron, accepting that this would erase his own existence.
 
 ### Hidden Resources:
 1. **The Temporal Calculations**: Mathematical formulas for time magic using Shard energy
@@ -358,14 +358,14 @@ Lord Goldwave's business interests include:
 ### Secret Knowledge:
 - Knows the exact identity and location of most Shard holders
 - Has mapped the crystal corruption patterns to predict future spread
-- Understands the true nature of [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] as the diminished Aetheron
+- Understands the true nature of [[02_Worldbuilding/People/The Crimson Sage]] as the diminished Aetheron
 - Possesses fragments of pre-Shattering divine magic
 - Has been in secret communication with other Betrayer descendants
 
 ### The Goldwave Guilt Complex
 Aurelius suffers from what he calls "inherited sin" - the belief that his bloodline carries the cosmic debt of his ancestor's betrayal. This drives him toward increasingly desperate measures, including:
 - Considering mass memory modification to ease corruption suffering
-- Planning to manipulate [[vault_backup_20250813_073007/02_Worldbuilding/People/Aria Lumengarde]] to access the Golden Shard
+- Planning to manipulate [[02_Worldbuilding/People/Aria Lumengarde]] to access the Golden Shard
 - Preparing to betray current allies if necessary for the greater good
 - Accepting that his redemption plan will likely destroy him and everyone he cares about
 
@@ -427,11 +427,11 @@ Lord Goldwave's wealth stems from:
 - Manages political influence through careful campaign contributions and gifts
 
 ## Connected NPCs & Plots
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]** - Ultimate target of his redemption quest
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Aria Lumengarde]]** - Key to accessing the Golden Shard's power
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]]** - Fellow Betrayer descendant seeking atonement
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Complex political relationship involving the Shards
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]** - Potential ally or enemy depending on methods
+- **[[02_Worldbuilding/People/The Crimson Sage]]** - Ultimate target of his redemption quest
+- **[[02_Worldbuilding/People/Aria Lumengarde]]** - Key to accessing the Golden Shard's power
+- **[[02_Worldbuilding/People/Archdruid Thornweaver]]** - Fellow Betrayer descendant seeking atonement
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Complex political relationship involving the Shards
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Potential ally or enemy depending on methods
 - **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Economic and ideological opposition
 
 ## DM's Toolkit
@@ -460,21 +460,21 @@ Use his various businesses and contacts to:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bone Colosseum]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Stock Exchange]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
+- [[02_Worldbuilding/Groups/Merchant Princes]]
+- [[02_Worldbuilding/Groups/The Crystal Throne]]
+- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[02_Worldbuilding/Lore/The Great Crystallization]]
+- [[02_Worldbuilding/Lore/The Seven Betrayers]]
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
+- [[02_Worldbuilding/People/The Crimson Sage]]
+- [[02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/The Bone Colosseum]]
+- [[02_Worldbuilding/Places/The Crystal Stock Exchange]]
+- [[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
+- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 03 Council of Shadows]]
+- [[1-Session Journals/Aethermoor - Session 03 Council of Shadows]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -497,8 +497,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- [[02_Worldbuilding/Lore/The Crown of Stars]]
+- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]

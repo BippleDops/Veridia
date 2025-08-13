@@ -41,7 +41,7 @@ world: Aquabyssos
 
 ## Overview
 
-Depth Warden Patrols are the mobile enforcement units that maintain law and order throughout the vast expanses of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Unlike stationary guard posts or fortress garrisons, these patrols move constantly through the underwater realm, following established routes and responding to calls for assistance across multiple depth zones. They serve as the visible presence of Aquabyssos law enforcement, representing both protection for law-abiding citizens and a deterrent to those who would disturb the peace.
+Depth Warden Patrols are the mobile enforcement units that maintain law and order throughout the vast expanses of [[02_Worldbuilding/Places/Aquabyssos]]. Unlike stationary guard posts or fortress garrisons, these patrols move constantly through the underwater realm, following established routes and responding to calls for assistance across multiple depth zones. They serve as the visible presence of Aquabyssos law enforcement, representing both protection for law-abiding citizens and a deterrent to those who would disturb the peace.
 
 Each patrol consists of 4-8 trained Depth Wardens led by a Patrol Sergeant, equipped with specialized gear for operating at various depths and pressure levels. They travel in formation through designated patrol corridors, investigating disturbances, conducting routine inspections, assisting travelers in distress, and maintaining the security of trade routes and civilian areas.
 
@@ -118,19 +118,19 @@ Rapid-deployment units that respond to crisis situations, natural disasters, maj
 **The Primary Circuits** (Major Population Centers):
 Well-established routes connecting the largest settlements and most important facilities in Aquabyssos, providing regular security coverage for high-traffic areas.
 
-**Circuit Alpha** ([[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]):
+**Circuit Alpha** ([[02_Worldbuilding/Places/Abyssos Prime]] to [[02_Worldbuilding/Places/Port Meridian]]):
 - **Distance**: 200 nautical miles of patrol coverage
 - **Frequency**: 6 patrols daily, staggered at 4-hour intervals
 - **Special Features**: Government facility checks, diplomatic escort capabilities
 - **Typical Issues**: Political security, high-value cargo protection, VIP transport
 
-**Circuit Beta** ([[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]):
+**Circuit Beta** ([[02_Worldbuilding/Places/Port Meridian]] to [[02_Worldbuilding/Places/Crystal Gardens]]):
 - **Distance**: 150 nautical miles through varied depth zones
 - **Frequency**: 4 patrols daily, coordinated with trade schedules
 - **Special Features**: Market security, trade dispute resolution, merchant assistance
 - **Typical Issues**: Commercial disputes, smuggling detection, trade route maintenance
 
-**Circuit Gamma** ([[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]] to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deep Patrol]]):
+**Circuit Gamma** ([[02_Worldbuilding/Places/Crystal Gardens]] to [[02_Worldbuilding/Places/The Deep Patrol]]):
 - **Distance**: 300 nautical miles through challenging terrain
 - **Frequency**: 2 patrols daily, heavily equipped for deep conditions
 - **Special Features**: Environmental hazard monitoring, deep settlement support
@@ -432,34 +432,34 @@ Patrols serve as excellent sources of information about local conditions, crimin
 
 ### Law Enforcement Network
 - **[[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]]**: Parent organization providing training, equipment, and command structure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Courts]]**: Judicial system where patrol arrests and investigations lead
+- **[[02_Worldbuilding/Places/Coral Courts]]**: Judicial system where patrol arrests and investigations lead
 - **[[02_Worldbuilding/People/Commander Drake Pressureborn|02 Worldbuilding/People/Commander Drake Pressureborn]]**: Senior leadership overseeing patrol operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Palace]]**: Ultimate government authority for patrol mission and policy
+- **[[02_Worldbuilding/Places/Royal Palace]]**: Ultimate government authority for patrol mission and policy
 
 ### Community and Economic Connections
 - **[[02_Worldbuilding/Groups/Merchants Guild|02 Worldbuilding/Groups/Merchants Guild]]**: Major civilian organization requiring patrol protection and regulation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]**: Key patrol hub and coordination center for trade route security
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]**: Important patrol destination requiring specialized environmental knowledge
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]**: Legislative body establishing laws that patrols enforce
+- **[[02_Worldbuilding/Places/Port Meridian]]**: Key patrol hub and coordination center for trade route security
+- **[[02_Worldbuilding/Places/Crystal Gardens]]**: Important patrol destination requiring specialized environmental knowledge
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Legislative body establishing laws that patrols enforce
 
 ### Specialized Support Systems
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]]**: Essential for patrol operations across different depth zones
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Environmental Hazards]]**: Challenges that patrols must recognize and respond to
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random Encounters]]**: Framework for generating patrol encounter situations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]]**: Protocols and methods used by patrol investigations
+- **[[02_Worldbuilding/Lore/Pressure Adaptation System]]**: Essential for patrol operations across different depth zones
+- **[[02_Worldbuilding/Lore/Environmental Hazards]]**: Challenges that patrols must recognize and respond to
+- **[[02_Worldbuilding/Lore/Random Encounters]]**: Framework for generating patrol encounter situations
+- **[[02_Worldbuilding/Lore/Investigation Procedures]]**: Protocols and methods used by patrol investigations
 
 ### Emergency and Crisis Response
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Vault]]**: Secure facility that patrols may need to protect or investigate
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alterations]]**: Crimes and evidence types that patrols encounter in investigations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]**: Environmental threats that patrols monitor and respond to
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Wells]]**: Dangerous locations requiring specialized patrol attention
+- **[[02_Worldbuilding/Places/Royal Vault]]**: Secure facility that patrols may need to protect or investigate
+- **[[02_Worldbuilding/Lore/Memory Alterations]]**: Crimes and evidence types that patrols encounter in investigations
+- **[[02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet]]**: Environmental threats that patrols monitor and respond to
+- **[[02_Worldbuilding/Places/Shadow Wells]]**: Dangerous locations requiring specialized patrol attention
 
 Depth Warden Patrols represent the mobile face of law and order in Aquabyssos, serving as both protectors of the innocent and enforcers of justice while navigating the complex social, political, and environmental challenges of maintaining security in a vast underwater realm.
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
 
 ## Player-Facing Summary
 
@@ -481,7 +481,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Warden Patrol]]
+- [[02_Worldbuilding/Places/Depth Warden Patrol]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/Port Meridian]]

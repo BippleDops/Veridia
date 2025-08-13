@@ -5,9 +5,9 @@ alignment: Lawful Neutral (leaning Evil)
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Economic Power
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silver Tower of Commerce]]'
+headquarters: '[[02_Worldbuilding/Lore/The Silver Tower of Commerce]]'
 influence: Continental
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Zephyr Goldwhisper]]'
+leader: '[[02_Worldbuilding/People/Zephyr Goldwhisper]]'
 members: ~50,000 employees, contractors, agents
 obsidianUIMode: preview
 status: complete
@@ -39,13 +39,13 @@ world: Aethermoor
 *Masters of the Crystal Market, The Invisible Crown, Merchants of Tomorrow*
 
 ## Overview
-The Silverscale Consortium is the most powerful economic entity in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], controlling the majority of crystal trade, banking, and increasingly, political power through debt manipulation. Founded 200 years ago by dragon-blooded merchants, the Consortium has evolved from a trading guild into a shadow government that rivals [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crown]]'s authority. Their motto, "Silver flows where crowns fall," reflects their belief that economic power supersedes political authority.
+The Silverscale Consortium is the most powerful economic entity in [[02_Worldbuilding/Places/Aethermoor]], controlling the majority of crystal trade, banking, and increasingly, political power through debt manipulation. Founded 200 years ago by dragon-blooded merchants, the Consortium has evolved from a trading guild into a shadow government that rivals [[02_Worldbuilding/Groups/The Crown]]'s authority. Their motto, "Silver flows where crowns fall," reflects their belief that economic power supersedes political authority.
 
 ## History
 
 ### Foundation Era (200-150 Years Ago)
 **The Dragon's Deal**
-- Founded by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Argyros the Silver]], an ancient silver dragon in human form
+- Founded by [[02_Worldbuilding/Lore/Argyros the Silver]], an ancient silver dragon in human form
 - Initial capital from dragon's hoard
 - Established crystal commodity trading
 - Created first standardized currency backed by crystals
@@ -71,13 +71,13 @@ The Silverscale Consortium is the most powerful economic entity in [[vault_backu
 
 ### The Board of Scales
 **Executive Leadership**
-- **Chairman**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Zephyr Goldwhisper]] - Visionary strategist
-- **Vice-Chair**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Countess Argentum Vaultkeeper]] - Banking division
-- **Scale of Trade**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marcus Ledgerborn]] - Commerce operations
-- **Scale of Acquisition**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Lady Jade Clawgrip]] - Hostile takeovers
-- **Scale of Information**: [[vault_backup_20250813_073007/02_Worldbuilding/People/The Nameless Auditor]] - Intelligence network
-- **Scale of Enforcement**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Commander Ironprice]] - Private military
-- **Scale of Innovation**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - R&D
+- **Chairman**: [[02_Worldbuilding/People/Zephyr Goldwhisper]] - Visionary strategist
+- **Vice-Chair**: [[02_Worldbuilding/Places/Countess Argentum Vaultkeeper]] - Banking division
+- **Scale of Trade**: [[02_Worldbuilding/Lore/Marcus Ledgerborn]] - Commerce operations
+- **Scale of Acquisition**: [[02_Worldbuilding/People/Lady Jade Clawgrip]] - Hostile takeovers
+- **Scale of Information**: [[02_Worldbuilding/People/The Nameless Auditor]] - Intelligence network
+- **Scale of Enforcement**: [[02_Worldbuilding/Lore/Commander Ironprice]] - Private military
+- **Scale of Innovation**: [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - R&D
 
 ### Operational Divisions
 
@@ -136,7 +136,7 @@ The Silverscale Consortium is the most powerful economic entity in [[vault_backu
 - **Trade Routes**: Control of 15 major paths
 
 ### Physical Infrastructure
-- **Headquarters**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silver Tower of Commerce]] - 80-story crystal spire
+- **Headquarters**: [[02_Worldbuilding/Lore/The Silver Tower of Commerce]] - 80-story crystal spire
 - **Vaults**: 50 locations, magically secured
 - **Warehouses**: 500+ storage facilities
 - **Ships**: 200 merchant vessels
@@ -178,7 +178,7 @@ The Silverscale Consortium is the most powerful economic entity in [[vault_backu
 
 #### The Debt Crown Initiative
 - Accumulate royal debt
-- Force [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] to default
+- Force [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] to default
 - Claim kingdom as collateral
 - Install corporate government
 - Eliminate monarchy peacefully
@@ -191,7 +191,7 @@ The Silverscale Consortium is the most powerful economic entity in [[vault_backu
 - Rule through absolute control
 
 #### Shadow Market Expansion
-- Establish [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] trade
+- Establish [[02_Worldbuilding/Places/Aquabyssos]] trade
 - Import shadow technology
 - Create hybrid economy
 - Control interdimensional commerce
@@ -207,24 +207,24 @@ The Silverscale Consortium is the most powerful economic entity in [[vault_backu
 - **Corrupt Officials**: Purchased loyalty
 
 ### Rivals
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crown]]**: Power struggle
+- **[[02_Worldbuilding/Groups/The Crown]]**: Power struggle
 - **Independent Traders**: Crush or absorb
 - **Workers Unions**: Suppress organization
 - **Religious Orders**: Ideological conflict
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The People's Movement]]**: Revolutionary threat
+- **[[02_Worldbuilding/Lore/The People's Movement]]**: Revolutionary threat
 
 ### Enemies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sees through plans
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Free Traders Alliance]]**: Resistance movement
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]**: Knows true nature
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Liberation Front]]**: Disrupts expansion
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sees through plans
+- **[[02_Worldbuilding/Lore/The Free Traders Alliance]]**: Resistance movement
+- **[[02_Worldbuilding/People/The Crimson Sage]]**: Knows true nature
+- **[[02_Worldbuilding/Lore/Shadow Liberation Front]]**: Disrupts expansion
 - **Dragon Descendants**: Blood vendetta
 
 ### Complicated
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]**: Moral opposition vs bribes
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]]**: Needs supplies, hates methods
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]**: Potential heir, potential threat
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: Profit vs danger
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Moral opposition vs bribes
+- **[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]**: Needs supplies, hates methods
+- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Potential heir, potential threat
+- **[[02_Worldbuilding/Places/Aquabyssos]]**: Profit vs danger
 - **Common People**: Customers and victims
 
 ## Corporate Culture
@@ -276,41 +276,41 @@ The Silverscale Consortium is the most powerful economic entity in [[vault_backu
 ## Notable Members
 
 ### Leadership
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Zephyr Goldwhisper]] - Chairman, master manipulator
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Countess Argentum Vaultkeeper]] - Banking genius
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marcus Ledgerborn]] - Trade logistics mastermind
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lady Jade Clawgrip]] - Corporate raider
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Commander Ironprice]] - Military enforcement
+- [[02_Worldbuilding/People/Zephyr Goldwhisper]] - Chairman, master manipulator
+- [[02_Worldbuilding/Places/Countess Argentum Vaultkeeper]] - Banking genius
+- [[02_Worldbuilding/Lore/Marcus Ledgerborn]] - Trade logistics mastermind
+- [[02_Worldbuilding/People/Lady Jade Clawgrip]] - Corporate raider
+- [[02_Worldbuilding/Lore/Commander Ironprice]] - Military enforcement
 
 ### Key Operatives
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silk the Whisper]] - Master spy
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Calculator Magnus]] - Financial weapon
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Foreclosure Squad]] - Debt collectors
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Merchant Mnemonic]] - Aquabyssos liaison
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Witch Prisma]] - R&D head
+- [[02_Worldbuilding/Lore/Silk the Whisper]] - Master spy
+- [[02_Worldbuilding/Lore/Calculator Magnus]] - Financial weapon
+- [[02_Worldbuilding/Lore/The Foreclosure Squad]] - Debt collectors
+- [[02_Worldbuilding/Lore/Memory Merchant Mnemonic]] - Aquabyssos liaison
+- [[02_Worldbuilding/Lore/Crystal Witch Prisma]] - R&D head
 
 ### Secret Assets
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Platinum Circle]] - Assassin network
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Market Prophets]] - Future traders
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Vault Keepers]] - Guard impossible wealth
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Traders]] - Interdimensional dealers
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Adjusters]] - Problem solvers
+- [[02_Worldbuilding/Lore/The Platinum Circle]] - Assassin network
+- [[02_Worldbuilding/Lore/Market Prophets]] - Future traders
+- [[02_Worldbuilding/Places/The Vault Keepers]] - Guard impossible wealth
+- [[02_Worldbuilding/Lore/Shadow Traders]] - Interdimensional dealers
+- [[02_Worldbuilding/Lore/The Adjusters]] - Problem solvers
 
 ## Headquarters & Holdings
 
 ### Primary Locations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silver Tower of Commerce]]**: 80-story headquarters
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Exchange Plaza]]**: Market center
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Vault of Scales]]**: Central treasury
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Goldwhisper Manor]]**: Chairman's estate
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Counting House]]**: Data processing
+- **[[02_Worldbuilding/Lore/The Silver Tower of Commerce]]**: 80-story headquarters
+- **[[02_Worldbuilding/Lore/Crystal Exchange Plaza]]**: Market center
+- **[[02_Worldbuilding/Lore/The Vault of Scales]]**: Central treasury
+- **[[02_Worldbuilding/Lore/Goldwhisper Manor]]**: Chairman's estate
+- **[[02_Worldbuilding/Lore/The Counting House]]**: Data processing
 
 ### Secret Facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Project Seven Laboratory]]**: Shard research
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Black Ledger]]**: Blackmail archive
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dissolution Chambers]]**: Problem elimination
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Future Market]]**: Prophecy trading floor
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Portal Nexus]]**: Interdimensional hub
+- **[[02_Worldbuilding/Lore/Project Seven Laboratory]]**: Shard research
+- **[[02_Worldbuilding/Lore/The Black Ledger]]**: Blackmail archive
+- **[[02_Worldbuilding/Lore/Dissolution Chambers]]**: Problem elimination
+- **[[02_Worldbuilding/Lore/The Future Market]]**: Prophecy trading floor
+- **[[02_Worldbuilding/Places/Shadow Portal Nexus]]**: Interdimensional hub
 
 ## Weaknesses & Vulnerabilities
 
@@ -384,32 +384,32 @@ The Silverscale Consortium is the most powerful economic entity in [[vault_backu
 ## Connected Elements
 
 ### Key NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Zephyr Goldwhisper]] - Leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Primary opponent
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Knows secrets
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - R&D
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] - Moral opposition
+- [[02_Worldbuilding/People/Zephyr Goldwhisper]] - Leader
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Primary opponent
+- [[02_Worldbuilding/People/The Crimson Sage]] - Knows secrets
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - R&D
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Moral opposition
 
 ### Related Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silver Tower of Commerce]] - Headquarters
+- [[02_Worldbuilding/Lore/The Silver Tower of Commerce]] - Headquarters
 - [[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The Crystal Palace]] - Target
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]] - Resource source
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Exchange Plaza]] - Market control
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Expansion frontier
+- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Resource source
+- [[02_Worldbuilding/Lore/Crystal Exchange Plaza]] - Market control
+- [[02_Worldbuilding/Places/Aquabyssos]] - Expansion frontier
 
 ### Associated Quests
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Crystal Festival]] - Economic plot
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Debt Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Market Monopoly]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Silver Revolution]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - Breaking the Scales]]
+- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]] - Economic plot
+- [[02_Worldbuilding/Lore/Quest - The Debt Crown]]
+- [[02_Worldbuilding/Lore/Quest - Market Monopoly]]
+- [[02_Worldbuilding/Lore/Quest - The Silver Revolution]]
+- [[02_Worldbuilding/People/Quest - Breaking the Scales]]
 
 ### Important Items
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Black Ledger]] - Blackmail records
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Futures Contracts]] - Market weapons
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Debt Bonds]] - Control documents
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silver Seal]] - Corporate authority
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Consortium Credit]] - Alternative currency
+- [[02_Worldbuilding/Lore/The Black Ledger]] - Blackmail records
+- [[02_Worldbuilding/Lore/Crystal Futures Contracts]] - Market weapons
+- [[02_Worldbuilding/Lore/Debt Bonds]] - Control documents
+- [[02_Worldbuilding/Lore/The Silver Seal]] - Corporate authority
+- [[02_Worldbuilding/Lore/Consortium Credit]] - Alternative currency
 
 ---
 
@@ -418,14 +418,14 @@ The Silverscale Consortium is the most powerful economic entity in [[vault_backu
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Lady Venetia Silkwind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Lord Vexton Shadowmere]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Thrace Ironwood]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lady Jade Clawgrip]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Prince Akula]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Viktor Geargrind]]
+- [[02_Worldbuilding/Groups/Lady Venetia Silkwind]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Lord Vexton Shadowmere]]
+- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
+- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[02_Worldbuilding/Places/Merchant Prince Akula]]
+- [[02_Worldbuilding/Places/Merchant Viktor Geargrind]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -441,4 +441,4 @@ Legends speak of Silverscale Consortium as a nexus where past and present conver
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Nameless Auditor]]
+- [[02_Worldbuilding/People/The Nameless Auditor]]

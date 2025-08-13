@@ -39,60 +39,60 @@ world: Both
 # New Tethys - The Glass City
 
 ## Overview
-Built within and around the drowned spires of the ancient surface capital, New Tethys stands as the largest and most politically important city in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]. Enormous glass domes connected by covered tunnels preserve pockets of air, while the flooded districts between them teem with adapted inhabitants. The city exists in the Twilight Reaches, where dying sunlight still filters through the waters, creating an eternal golden-green dusk.
+Built within and around the drowned spires of the ancient surface capital, New Tethys stands as the largest and most politically important city in [[02_Worldbuilding/Lore/Aquabyssos World Overview]]. Enormous glass domes connected by covered tunnels preserve pockets of air, while the flooded districts between them teem with adapted inhabitants. The city exists in the Twilight Reaches, where dying sunlight still filters through the waters, creating an eternal golden-green dusk.
 
 ## Districts
 
 ### The Crown Dome
-The largest air-filled dome, housing the [[vault_backup_20250813_073007/02_Worldbuilding/People/Archon Meredith Saltweaver]] palace and the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]] government buildings. The original throne room sits preserved here, though flooded and converted to a monument.
+The largest air-filled dome, housing the [[02_Worldbuilding/People/Archon Meredith Saltweaver]] palace and the [[02_Worldbuilding/Places/Tethyan Hegemony]] government buildings. The original throne room sits preserved here, though flooded and converted to a monument.
 
 ### The Merchant Depths
-Flooded commercial district where [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Garrett Stormcutter]] maintains his trading post. Connected to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]] via guarded trade currents. Most shops are adapted for both air-breathing and water-breathing customers.
+Flooded commercial district where [[02_Worldbuilding/People/Captain Garrett Stormcutter]] maintains his trading post. Connected to [[02_Worldbuilding/Places/The Phosphor Markets]] via guarded trade currents. Most shops are adapted for both air-breathing and water-breathing customers.
 
 ### Scholar's Spiral
-A partially flooded tower complex housing the local branch of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Academy]]. [[vault_backup_20250813_073007/02_Worldbuilding/People/Sage Lysander Deepthought]] maintains his laboratory in the deepest accessible level.
+A partially flooded tower complex housing the local branch of the [[02_Worldbuilding/Lore/Abyssal Academy]]. [[02_Worldbuilding/People/Sage Lysander Deepthought]] maintains his laboratory in the deepest accessible level.
 
 ### The Reef Gardens
-Living coral shaped into residential structures, primarily housing the adapted population. [[vault_backup_20250813_073007/02_Worldbuilding/People/Duke Cyrus Reefheart]] maintains a manor here as the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Courts]] embassy.
+Living coral shaped into residential structures, primarily housing the adapted population. [[02_Worldbuilding/People/Duke Cyrus Reefheart]] maintains a manor here as the [[02_Worldbuilding/Places/Coral Courts]] embassy.
 
 ### The Pressure Slums
-Deepest inhabited section where [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]] operates in shadows. Those who can't afford pressure protection magic cluster here, often showing signs of depth-related mutations.
+Deepest inhabited section where [[02_Worldbuilding/Places/The Free Current]] operates in shadows. Those who can't afford pressure protection magic cluster here, often showing signs of depth-related mutations.
 
 ## Notable Locations
 
 ### The Conservatory of Memory
-A museum preserving artifacts and memories from before [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]]. Managed by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Mindwell]], who guards dangerous pre-flood knowledge.
+A museum preserving artifacts and memories from before [[02_Worldbuilding/Places/The Great Drowning]]. Managed by [[02_Worldbuilding/Places/Keeper Elara Mindwell]], who guards dangerous pre-flood knowledge.
 
 ### The Tide Gates
-Massive magical barriers controlling water flow between districts. Controlled by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Gatekeeper Iron-Lung Boris]], a former surface dweller who refused adaptation.
+Massive magical barriers controlling water flow between districts. Controlled by [[02_Worldbuilding/Places/Gatekeeper Iron-Lung Boris]], a former surface dweller who refused adaptation.
 
 ### The Floating Market
-A weekly market that occurs when merchants gather their buoyant stalls. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Delilah Currentrunner]] coordinates vendors and manages disputes.
+A weekly market that occurs when merchants gather their buoyant stalls. [[02_Worldbuilding/Places/Merchant Delilah Currentrunner]] coordinates vendors and manages disputes.
 
 ### Temple of Dual Breath
-The main temple of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Church of the Tidal Throne]], where [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]] delivers sermons about divine judgment and redemption through drowning.
+The main temple of the [[02_Worldbuilding/Places/Church of the Tidal Throne]], where [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] delivers sermons about divine judgment and redemption through drowning.
 
 ### The Pressure Academy
-Training ground for the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]], where [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]] recruits and trains elite underwater soldiers.
+Training ground for the [[02_Worldbuilding/Places/Depth Wardens]], where [[02_Worldbuilding/People/Admiral Thorne Blackwater]] recruits and trains elite underwater soldiers.
 
 ## Services & Shops
 
 ### The Gill & Gill Tavern
-Run by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tavern Keeper Finn Splitlung]], serves both air and water in separated sections. Known for information trading and neutral ground meetings.
+Run by [[02_Worldbuilding/Places/Tavern Keeper Finn Splitlung]], serves both air and water in separated sections. Known for information trading and neutral ground meetings.
 
 ### Deepcraft Armory
-[[vault_backup_20250813_073007/02_Worldbuilding/Places/Forge Master Petra Hammerdeep]] creates pearlsteel weapons and armor resistant to pressure and corrosion. Secretly supplies [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]].
+[[02_Worldbuilding/Places/Forge Master Petra Hammerdeep]] creates pearlsteel weapons and armor resistant to pressure and corrosion. Secretly supplies [[02_Worldbuilding/Places/The Free Current]].
 
 ### Current's End Inn
-Managed by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]], offers rooms for all adaptation levels. Rumors say she's connected to [[vault_backup_20250813_073007/02_Worldbuilding/People/The Deepmind Conspiracy]].
+Managed by [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]], offers rooms for all adaptation levels. Rumors say she's connected to [[02_Worldbuilding/People/The Deepmind Conspiracy]].
 
 ### The Bubble Boutique
-[[vault_backup_20250813_073007/02_Worldbuilding/Places/Seamstress Coral Silkweaver]] creates magical clothing that functions both in air and water. Hides encoded messages in her designs.
+[[02_Worldbuilding/Places/Seamstress Coral Silkweaver]] creates magical clothing that functions both in air and water. Hides encoded messages in her designs.
 
 ## Government & Law
-- Ruled by the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]] through Archon Meredith Saltweaver
+- Ruled by the [[02_Worldbuilding/Places/Tethyan Hegemony]] through Archon Meredith Saltweaver
 - Laws favor trade and taxation over personal freedom
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]] leads the city watch
+- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]] leads the city watch
 - Crime is punished by depth exposure or pressure chamber torture
 
 ## Demographics
@@ -111,25 +111,25 @@ Managed by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Innkeeper Mari
 - Main exports: Preserved surface artifacts, translation services, magical adaptations
 - Main imports: Depth crystals, glowkelp, pearlsteel
 - Currency: Tethyan Drops (magical water pearls)
-- Major trade partner with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
+- Major trade partner with [[02_Worldbuilding/Places/Lumengarde]] and [[02_Worldbuilding/Places/Pressure's End]]
 
 ## Current Events
 1. Archon Saltweaver has announced new taxation on depth travelers
-2. Mysterious murders in the Reef Gardens bearing signs of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Plague]]
-3. [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Crown Cipher]] was supposedly spotted in the Merchant Depths
+2. Mysterious murders in the Reef Gardens bearing signs of [[02_Worldbuilding/Places/The Depth Plague]]
+3. [[02_Worldbuilding/Places/The Sunken Crown Cipher]] was supposedly spotted in the Merchant Depths
 4. Protests against forced adaptation policies
 5. Discovery of intact pre-flood vault beneath the Crown Dome
 
 ## Secrets
 > [!warning] DM Only
-> - The Crown Dome's air is slowly being poisoned by [[vault_backup_20250813_073007/02_Worldbuilding/People/The Cerulean Breath]]
+> - The Crown Dome's air is slowly being poisoned by [[02_Worldbuilding/People/The Cerulean Breath]]
 > - Archon Saltweaver is already under the influence of the Deepmind
 > - The Conservatory of Memory contains the true history of the intentional drowning
-> - Several key merchants are actually [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]] operatives
-> - The original throne contains a key to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Pressure Crown]]
+> - Several key merchants are actually [[02_Worldbuilding/Places/Free Current]] operatives
+> - The original throne contains a key to [[02_Worldbuilding/Places/The Pressure Crown]]
 
 ## Random Encounters (d10)
-1. Street prophet warning about [[vault_backup_20250813_073007/02_Worldbuilding/People/The Emergence]]
+1. Street prophet warning about [[02_Worldbuilding/People/The Emergence]]
 2. Depth Warden recruitment patrol
 3. Escaped pressure prisoner begging for help
 4. Merchant arguing about counterfeit Drops
@@ -141,30 +141,30 @@ Managed by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Innkeeper Mari
 10. Messenger with urgent summons from the Archon
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archon Meredith Saltweaver]] - Ruler
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Garrett Stormcutter]] - Major merchant
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sage Lysander Deepthought]] - Academy representative
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Religious leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Duke Cyrus Reefheart]] - Coral Courts ambassador
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Mindwell]] - Memory conservator
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]] - Law enforcement
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tavern Keeper Finn Splitlung]] - Information broker
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Forge Master Petra Hammerdeep]] - Armorer
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Delilah Currentrunner]] - Market coordinator
+- [[02_Worldbuilding/People/Archon Meredith Saltweaver]] - Ruler
+- [[02_Worldbuilding/People/Captain Garrett Stormcutter]] - Major merchant
+- [[02_Worldbuilding/People/Sage Lysander Deepthought]] - Academy representative
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Religious leader
+- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Coral Courts ambassador
+- [[02_Worldbuilding/Places/Keeper Elara Mindwell]] - Memory conservator
+- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]] - Law enforcement
+- [[02_Worldbuilding/Places/Tavern Keeper Finn Splitlung]] - Information broker
+- [[02_Worldbuilding/Places/Forge Master Petra Hammerdeep]] - Armorer
+- [[02_Worldbuilding/Places/Merchant Delilah Currentrunner]] - Market coordinator
 
 ## Quests Available
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Vanishing Depths]] - Investigate disappearances
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crown Dome Conspiracy]] - Uncover assassination plot
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Thief]] - Retrieve stolen artifacts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Plague]] - Find the source of infection
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Politics]] - Navigate trade negotiations
+- [[02_Worldbuilding/Places/The Vanishing Depths]] - Investigate disappearances
+- [[02_Worldbuilding/People/Crown Dome Conspiracy]] - Uncover assassination plot
+- [[02_Worldbuilding/Places/Memory Thief]] - Retrieve stolen artifacts
+- [[02_Worldbuilding/Places/The Depth Plague]] - Find the source of infection
+- [[02_Worldbuilding/Places/Pressure Politics]] - Navigate trade negotiations
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corallion]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Angels and Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[02_Worldbuilding/Lore/Corallion]]
+- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[02_Worldbuilding/Places/Tethyan Hegemony]]
 
 
 ## History
@@ -216,20 +216,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/Places/New Tethys]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Academy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Cerulean Breath]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Deepmind Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Emergence]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Mindwell]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Thief]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Delilah Currentrunner]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Plague]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Vanishing Depths]]
+- [[02_Worldbuilding/Lore/Abyssal Academy]]
+- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]]
+- [[02_Worldbuilding/People/The Cerulean Breath]]
+- [[02_Worldbuilding/People/The Deepmind Conspiracy]]
+- [[02_Worldbuilding/People/The Emergence]]
+- [[02_Worldbuilding/Places/Depth Wardens]]
+- [[02_Worldbuilding/Places/Free Current]]
+- [[02_Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+- [[02_Worldbuilding/Places/Keeper Elara Mindwell]]
+- [[02_Worldbuilding/Places/Memory Thief]]
+- [[02_Worldbuilding/Places/Merchant Delilah Currentrunner]]
+- [[02_Worldbuilding/Places/The Depth Plague]]
+- [[02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/The Vanishing Depths]]

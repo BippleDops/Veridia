@@ -21,14 +21,14 @@ world: Aquabyssos
 
 # Weapons of the Split Realms: Steel, Crystal, and Corruption
 
-The art of weaponcraft has evolved dramatically since the sundering of the realms. In [[02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], weapons are not merely tools of war—they are expressions of the fundamental forces that shape reality itself. Each realm's unique environment and the ever-present influence of the [[02_Worldbuilding/Entities/Deep Mother|02 Worldbuilding/Entities/Deep Mother]] have given rise to entirely new categories of arms.
+The art of weaponcraft has evolved dramatically since the sundering of the realms. In [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], weapons are not merely tools of war—they are expressions of the fundamental forces that shape reality itself. Each realm's unique environment and the ever-present influence of the [[02_Worldbuilding/Entities/Deep Mother|02 Worldbuilding/Entities/Deep Mother]] have given rise to entirely new categories of arms.
 
 ## Regional Weapon Traditions
 
 ### Aethermoor: Resonance Weapons
 In the sky realm, weaponsmiths work with crystalline materials that naturally harmonize with the [[02_Worldbuilding/Places/Seven Shards]]. The [[02_Worldbuilding/Factions/The Crystal Forge Guild|02 Worldbuilding/Factions/The Crystal Forge Guild]] has mastered the art of "Harmonic Smithing," creating weapons that channel sonic frequencies to devastating effect.
 
-**Resonance Blades** vibrate at specific frequencies that can shatter armor, disrupt magical shields, or even cause internal organs to rupture. The most skilled [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Storm Riders]] carry "Windcutters"—swords that slice through air resistance itself, allowing for impossible aerial maneuvers.
+**Resonance Blades** vibrate at specific frequencies that can shatter armor, disrupt magical shields, or even cause internal organs to rupture. The most skilled [[02_Worldbuilding/Lore/The Storm Riders]] carry "Windcutters"—swords that slice through air resistance itself, allowing for impossible aerial maneuvers.
 
 The [[02_Worldbuilding/Locations/Floating Arsenal|02 Worldbuilding/Locations/Floating Arsenal]] houses the legendary **Chorus of a Thousand Cuts**, a set of crystalline daggers that sing in perfect harmony when drawn together, their combined resonance capable of leveling entire buildings.
 
@@ -93,7 +93,7 @@ Every weapon forged in either realm must undergo the Ritual of First Strike, whe
 Weapons crafted in Aethermoor are tested for their ability to harmonize with the [[02_Worldbuilding/Places/Seven Shards]]. Those that show natural resonance are marked with the [[02_Worldbuilding/Organizations/The Chroniclers|02 Worldbuilding/Organizations/The Chroniclers]]' seal and their origins carefully recorded.
 
 ### Corruption Resistance Protocols
-All weapons made in Aquabyssos undergo testing to ensure they won't be turned against their wielders by the Deep Mother's influence. The [[vault_backup_20250813_073007/02_Worldbuilding/People/The Depth Wardens]] maintain strict standards for this process, as corrupted weapons have been responsible for numerous tragedies.
+All weapons made in Aquabyssos undergo testing to ensure they won't be turned against their wielders by the Deep Mother's influence. The [[02_Worldbuilding/People/The Depth Wardens]] maintain strict standards for this process, as corrupted weapons have been responsible for numerous tragedies.
 
 ## Magical Enhancement
 

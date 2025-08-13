@@ -29,11 +29,11 @@ world: Both
 *Gateway of Law and Commerce*
 
 > *"Every crate tells a story, every manifest holds secrets, and every trader carries hopes across the waters. Here, we ensure that what enters our realm serves the crown and the people alike."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chief Inspector Magnus Ledgerkeep]], Director of Customs Operations
+> — [[02_Worldbuilding/Places/Chief Inspector Magnus Ledgerkeep]], Director of Customs Operations
 
 ## Overview
 
-The Harbor District Customs House stands as the imposing gatekeeping fortress of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]'s maritime commerce, a massive stone and crystal structure where all legal trade must pass through the watchful eyes of the Crown's customs authority. More than just a tax collection point, the Customs House serves as the intersection of international diplomacy, economic policy, and national security. Its offices and warehouses process thousands of shipments daily, while its investigators pursue smugglers, its diplomats negotiate trade agreements, and its clerks maintain the detailed records that keep [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s economy flowing smoothly.
+The Harbor District Customs House stands as the imposing gatekeeping fortress of [[02_Worldbuilding/Places/Port Meridian]]'s maritime commerce, a massive stone and crystal structure where all legal trade must pass through the watchful eyes of the Crown's customs authority. More than just a tax collection point, the Customs House serves as the intersection of international diplomacy, economic policy, and national security. Its offices and warehouses process thousands of shipments daily, while its investigators pursue smugglers, its diplomats negotiate trade agreements, and its clerks maintain the detailed records that keep [[02_Worldbuilding/Places/Aethermoor]]'s economy flowing smoothly.
 
 ## History and Foundation
 
@@ -239,21 +239,21 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 
 ### Leadership and Administration
 
-#### Chief Inspector [[vault_backup_20250813_073007/02_Worldbuilding/Places/Magnus Ledgerkeep]]
+#### Chief Inspector [[02_Worldbuilding/Places/Magnus Ledgerkeep]]
 **Position**: Director of all customs operations  
 **Experience**: 25 years of customs service with expertise in trade law and administration  
 **Reputation**: Known for absolute integrity, efficiency, and diplomatic skill  
 **Challenge**: Balancing competing demands while maintaining operational excellence  
 **Innovation**: Implementing modernization while preserving effective traditional methods
 
-#### Deputy Inspector [[vault_backup_20250813_073007/02_Worldbuilding/Places/Clara Truthscale]]
+#### Deputy Inspector [[02_Worldbuilding/Places/Clara Truthscale]]
 **Role**: Operations coordinator and second-in-command  
 **Specialization**: Expert in cargo inspection and contraband detection  
 **Leadership**: Exceptional leadership skills with strong staff loyalty  
 **Investigation**: Personal involvement in major investigation cases  
 **Future**: Likely successor to Chief Inspector position
 
-#### Administrative Chief [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quill Precisequote]]
+#### Administrative Chief [[02_Worldbuilding/Places/Quill Precisequote]]
 **Function**: Head of all administrative and clerical operations  
 **Expertise**: Unparalleled knowledge of customs regulations and procedures  
 **Efficiency**: Responsible for the smooth operation of all bureaucratic processes  
@@ -262,21 +262,21 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 
 ### Specialized Departments
 
-#### Senior Investigator [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Trackhound]]
+#### Senior Investigator [[02_Worldbuilding/Places/Shadow Trackhound]]
 **Role**: Head of anti-smuggling and criminal investigation operations  
 **Skills**: Expert investigator with extensive knowledge of criminal networks  
 **Network**: Extensive network of informants and intelligence sources  
 **Success**: Responsible for numerous successful major smuggling prosecutions  
 **Discretion**: Operates with high levels of discretion and security clearance
 
-#### Trade Diplomat [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Silk Bridgewater]]
+#### Trade Diplomat [[02_Worldbuilding/Places/Ambassador Silk Bridgewater]]
 **Position**: Chief diplomatic officer for trade relations  
 **Background**: Career diplomat with expertise in commercial negotiations  
 **Languages**: Fluent in multiple languages and familiar with various cultural customs  
 **Success**: Responsible for numerous successful trade agreements and partnerships  
 **Relations**: Maintains excellent relationships with foreign trade delegations
 
-#### Master Appraiser [[vault_backup_20250813_073007/02_Worldbuilding/Places/Gem Trueeye]]
+#### Master Appraiser [[02_Worldbuilding/Places/Gem Trueeye]]
 **Expertise**: Expert assessor specializing in luxury goods and rare materials  
 **Knowledge**: Encyclopedic knowledge of goods values and market conditions  
 **Accuracy**: Legendary accuracy in appraisals and tax assessments  
@@ -554,28 +554,28 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian Harbor District]]
+### [[02_Worldbuilding/Places/Port Meridian Harbor District]]
 **Integration**: Central part of harbor district operations and economy  
 **Coordination**: Close coordination with harbor authorities and shipping companies  
 **Traffic**: Major influence on harbor traffic and commercial activity  
 **Development**: Influence over harbor development and expansion plans  
 **Community**: Important part of harbor district community and culture
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+### [[02_Worldbuilding/Places/Crystalhaven]]
 **Authority**: Operating under royal authority and government oversight  
 **Revenue**: Major source of government revenue through customs collections  
 **Policy**: Implementation of royal trade policies and international agreements  
 **Communication**: Regular communication with royal government and advisors  
 **Reporting**: Regular reporting on trade conditions and international developments
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Academies/The Crystal Academy]]
+### [[02_Worldbuilding/Groups/Academies/The Crystal Academy]]
 **Expertise**: Collaboration with academy experts on technical and magical matters  
 **Research**: Support for academy research through specimen and data sharing  
 **Training**: Academy involvement in specialized training for customs officers  
 **Innovation**: Joint development of new techniques and technologies  
 **Knowledge**: Access to academy knowledge and research resources
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/pat]]
+### [[02_Worldbuilding/Lore/pat]]
 **Competition**: Commercial competition affecting customs revenues and procedures  
 **Coordination**: Some coordination on trade routes and commercial standards  
 **Information**: Information sharing on market conditions and trading patterns  
@@ -585,38 +585,38 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Royal Exemption
-> [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chief Inspector Magnus Ledgerkeep]] has been secretly allowing certain royal shipments to pass through customs without proper inspection, on direct orders from [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]. These shipments contain dangerous crystal corruption research materials that would be illegal for anyone else to import. Magnus is torn between his duty to the law and his loyalty to the crown, and is keeping detailed secret records of all exempted shipments in case he needs to protect himself politically.
+> [[02_Worldbuilding/Places/Chief Inspector Magnus Ledgerkeep]] has been secretly allowing certain royal shipments to pass through customs without proper inspection, on direct orders from [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]. These shipments contain dangerous crystal corruption research materials that would be illegal for anyone else to import. Magnus is torn between his duty to the law and his loyalty to the crown, and is keeping detailed secret records of all exempted shipments in case he needs to protect himself politically.
 
 > [!secret] DM Secret - The Double Agent
-> [[vault_backup_20250813_073007/02_Worldbuilding/Places/Senior Investigator Shadow Trackhound]] is actually a double agent working for a foreign intelligence service while maintaining his position in customs. He feeds information about Aethermoor's trade relationships and security procedures to his handlers while conducting legitimate anti-smuggling work to maintain his cover. His foreign contacts provide him with intelligence that makes him extremely effective at his job, creating a complex moral situation.
+> [[02_Worldbuilding/Places/Senior Investigator Shadow Trackhound]] is actually a double agent working for a foreign intelligence service while maintaining his position in customs. He feeds information about Aethermoor's trade relationships and security procedures to his handlers while conducting legitimate anti-smuggling work to maintain his cover. His foreign contacts provide him with intelligence that makes him extremely effective at his job, creating a complex moral situation.
 
 > [!secret] DM Secret - The Crystal Communication Network
-> The customs house's crystal communication system has been compromised by [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]], who have found a way to intercept and decode official communications. They use this intelligence for their criminal operations while being careful not to reveal their access. The syndicate has learned about several major customs operations in advance and has been selling this information to smugglers and other criminal organizations.
+> The customs house's crystal communication system has been compromised by [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]], who have found a way to intercept and decode official communications. They use this intelligence for their criminal operations while being careful not to reveal their access. The syndicate has learned about several major customs operations in advance and has been selling this information to smugglers and other criminal organizations.
 
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian Harbor District]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Academies/The Crystal Academy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/pat]]
+- [[02_Worldbuilding/Places/Port Meridian Harbor District]]
+- [[02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/Groups/Academies/The Crystal Academy]]
+- [[02_Worldbuilding/Lore/pat]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chief Inspector Magnus Ledgerkeep]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Clara Truthscale]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Trackhound]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Silk Bridgewater]]
+- [[02_Worldbuilding/Places/Chief Inspector Magnus Ledgerkeep]]
+- [[02_Worldbuilding/Places/Clara Truthscale]]
+- [[02_Worldbuilding/Places/Shadow Trackhound]]
+- [[02_Worldbuilding/Places/Ambassador Silk Bridgewater]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Trade Regulations]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/Customs Authority]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Anti-Smuggling Operations]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/International Trade Agreements]]
+- [[02_Worldbuilding/Places/Trade Regulations]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Customs Authority]]
+- [[02_Worldbuilding/Places/Anti-Smuggling Operations]]
+- [[02_Worldbuilding/Places/International Trade Agreements]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
+- [[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
 
 ## Player-Facing Summary
 
@@ -638,11 +638,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District Customs House]]
+- [[02_Worldbuilding/Places/Harbor District Customs House]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Floating Market]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/The Floating Market]]

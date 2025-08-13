@@ -29,7 +29,7 @@ world: Both
 > *"For the Table: Captain Blackwater works best as a tragic mirror to heroic ideals - a warning of what happens when noble intentions meet corrupting power. Use him to challenge players' assumptions about salvation versus corruption."*
 
 ## Overview
-Captain Marcus "Black Mark" Blackwater is the younger brother of the famous explorer [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]]. Once a respected naval officer in his own right, Marcus became obsessed with finding his missing brother and launched his own expedition into [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]]. What he found there changed him forever. Now partially transformed by crystal corruption, he serves as an unwitting herald for the awakening power of the [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], leading a crew of similarly corrupted souls through the dangerous borderlands between the crystal wastes and the civilized world.
+Captain Marcus "Black Mark" Blackwater is the younger brother of the famous explorer [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]. Once a respected naval officer in his own right, Marcus became obsessed with finding his missing brother and launched his own expedition into [[02_Worldbuilding/Places/The Crystalline Wastes]]. What he found there changed him forever. Now partially transformed by crystal corruption, he serves as an unwitting herald for the awakening power of the [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], leading a crew of similarly corrupted souls through the dangerous borderlands between the crystal wastes and the civilized world.
 
 ## Appearance
 - **Age**: 42 (appears older due to corruption)
@@ -48,9 +48,9 @@ Captain Marcus "Black Mark" Blackwater is the younger brother of the famous expl
 - **Flaws**: Increasingly unable to distinguish between salvation and corruption, hears crystal "songs" that drive his actions
 
 ## Background
-- Younger brother of [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]], always in his shadow
+- Younger brother of [[02_Worldbuilding/People/Captain Thaddeus Blackwater]], always in his shadow
 - Distinguished naval career, though never achieving Thaddeus's fame
-- Married with two children (currently under [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s protection)
+- Married with two children (currently under [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s protection)
 - When Thaddeus disappeared, launched unauthorized rescue mission
 - Found evidence of his brother's expedition but was caught in crystal storm
 - Transformation began slowly, crew loyalty keeping them together as they changed
@@ -60,7 +60,7 @@ Captain Marcus "Black Mark" Blackwater is the younger brother of the famous expl
 > - **If players fail to stop his recruitment:** He gains 2d6 new corrupted followers but leaves clear trail
 > - **If combat goes badly:** Crystal harmony teleports him away, but party gains crystal compass
 > - **If negotiation fails:** He offers corrupted "gift" that provides clue but requires CON save
-> - **If party kills him:** His death triggers crystal resonance alerting [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]]
+> - **If party kills him:** His death triggers crystal resonance alerting [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]
 
 ## The Ship: *Crystal Harmony*
 
@@ -159,17 +159,17 @@ Captain Marcus "Black Mark" Blackwater is the younger brother of the famous expl
 ## Relationships
 
 ### Family Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]]**: Missing brother, primary obsession
+- **[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]**: Missing brother, primary obsession
 - **Lady Eleanor Blackwater**: His wife, currently under royal protection
 - **Thomas and Sarah Blackwater**: His children (ages 12 and 9), hidden from him
 - **Admiral Byron Blackwater**: Estranged father who disowned both sons
 
 ### Major Factions
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crown]]**: Former allegiance, now considered rogue
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Complex relationship - she protects his family while hunting him
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Elder Matthias Stoneward]]**: Views him as either salvation or damnation for the wastes
+- **[[02_Worldbuilding/Groups/The Crown]]**: Former allegiance, now considered rogue
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Complex relationship - she protects his family while hunting him
+- **[[02_Worldbuilding/Places/Elder Matthias Stoneward]]**: Views him as either salvation or damnation for the wastes
 - **The Crystal Corrupted**: Unofficial leader of growing community of transformed individuals
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]**: Mysterious connection through the Seventh Shard's influence
+- **[[02_Worldbuilding/People/The Crimson Sage]]**: Mysterious connection through the Seventh Shard's influence
 
 ### Personal Connections
 - **Dr. Victoria Shardhart**: Crystal researcher who studies his condition, conflicted about helping him
@@ -200,7 +200,7 @@ Captain Marcus "Black Mark" Blackwater is the younger brother of the famous expl
 
 ### The Brother's Burden
 **Level**: 9-13  
-The party encounters Marcus during one of his "rescue" operations. They must decide whether to help him search for Thaddeus, try to cure his corruption, or stop him from corrupting others. The truth about both brothers' fates lies somewhere in the deepest parts of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]].
+The party encounters Marcus during one of his "rescue" operations. They must decide whether to help him search for Thaddeus, try to cure his corruption, or stop him from corrupting others. The truth about both brothers' fates lies somewhere in the deepest parts of [[02_Worldbuilding/Places/The Crystalline Wastes]].
 
 ### The Crystal Refugees
 **Level**: 7-11  
@@ -212,7 +212,7 @@ Marcus's ship has been spotted near major shipping lanes, and its crystal song i
 
 ### The Family Reunion
 **Level**: 12-16  
-Word reaches Marcus that his children are asking about their father. Against all advice, he begins moving toward [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]] to see them. The party must either help facilitate a safe meeting or prevent a tragedy when the crystal corruption meets royal security.
+Word reaches Marcus that his children are asking about their father. Against all advice, he begins moving toward [[02_Worldbuilding/Places/Lumengarde]] to see them. The party must either help facilitate a safe meeting or prevent a tragedy when the crystal corruption meets royal security.
 
 ### The Seventh Song
 **Level**: 15-18  
@@ -237,7 +237,7 @@ Marcus has discovered the location of the Seventh Shard and believes he can use 
 ### What He Doesn't Know
 - The Seventh Shard is using him as a herald
 - His wife has remarried and his children barely remember him
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] orchestrated both brothers' expeditions
+- [[02_Worldbuilding/People/The Crimson Sage]] orchestrated both brothers' expeditions
 - There is a cure for crystal corruption, but it requires sacrifice
 - His father is funding expeditions to "put him out of his misery"
 
@@ -276,25 +276,25 @@ If the party helps Marcus confront the truth about his corruption and finds a wa
 If Marcus continues down his current path, he becomes the unwitting catalyst for a massive crystal transformation event, potentially corrupting entire cities while believing he's saving them.
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Missing brother
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Protects his family
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Hidden manipulator
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Elder Matthias Stoneward]] - Wasteland contact
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Scale-Walker]] - Potential ally in sea operations
+- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Missing brother
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Protects his family
+- [[02_Worldbuilding/People/The Crimson Sage]] - Hidden manipulator
+- [[02_Worldbuilding/Places/Elder Matthias Stoneward]] - Wasteland contact
+- [[02_Worldbuilding/People/Captain Scale-Walker]] - Potential ally in sea operations
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]] - Current territory
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]] - Where his family lives
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shattered Sanctum]] - Where the Seventh Shard waits
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - His former home port
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Staging point for crystal expeditions
+- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Current territory
+- [[02_Worldbuilding/Places/Lumengarde]] - Where his family lives
+- [[02_Worldbuilding/Places/The Shattered Sanctum]] - Where the Seventh Shard waits
+- [[02_Worldbuilding/Places/Port Meridian]] - His former home port
+- [[02_Worldbuilding/Places/Crystalhaven]] - Staging point for crystal expeditions
 
 ## Related Quests
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Central to his corruption
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Brother's Burden]] - Finding Thaddeus
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Crystal Refugees]] - Moral complexity of corruption
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Quest - The Family Reunion]] - Personal stakes
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Seventh Song]] - Climactic confrontation
+- [[02_Worldbuilding/People/Quest - The Brother's Burden]] - Finding Thaddeus
+- [[02_Worldbuilding/People/Quest - The Crystal Refugees]] - Moral complexity of corruption
+- [[02_Worldbuilding/Groups/Quest - The Family Reunion]] - Personal stakes
+- [[02_Worldbuilding/People/Quest - The Seventh Song]] - Climactic confrontation
 
 ## Player-Facing Summary
 
@@ -316,11 +316,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Blackwater]]
+- [[02_Worldbuilding/People/Captain Blackwater]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Elder Matthias Stoneward]]
+- [[02_Worldbuilding/Places/Elder Matthias Stoneward]]

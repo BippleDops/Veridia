@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Frozen Throne]]
+- [[02_Worldbuilding/Places/The Frozen Throne]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Frozen Throne]]
+- [[02_Worldbuilding/Places/The Frozen Throne]]
 
 ## Player-Facing Summary
 

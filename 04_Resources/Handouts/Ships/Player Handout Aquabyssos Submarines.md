@@ -29,8 +29,8 @@ updated: 2025-08-13T07:59:50.467169
 - Lantern Warden: Lantern fields along flanks; soft teal glow.
 - Maelstrom Rider: Vortex thrusters, spiral fins, trailing turbulence.
 
-Choosing a ship affects your story: see [[vault_backup_20250813_073007/03_Mechanics/Vehicles - Vehicle Core Rules]] for piloting, sanity, and upgrade paths.
+Choosing a ship affects your story: see [[03_Mechanics/Vehicles - Vehicle Core Rules]] for piloting, sanity, and upgrade paths.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/06_GM_Resources/Session_Packets/Aquabyssos Session 01]]
+- [[06_GM_Resources/Session_Packets/Aquabyssos Session 01]]

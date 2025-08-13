@@ -19,16 +19,16 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Ambush Point]]
+- [[02_Worldbuilding/Quests/Ambush Point]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Shard Guardian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Ambush Point]]
+- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/The Crimson Shard Guardian]]
+- [[02_Worldbuilding/Quests/Ambush Point]]
 
 ## Player-Facing Summary
 

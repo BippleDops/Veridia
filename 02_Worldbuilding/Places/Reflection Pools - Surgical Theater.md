@@ -44,7 +44,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Surgical Theater within [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Reflection Pools]] represents the pinnacle of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s medical advancement - a revolutionary facility where traditional surgery merges with consciousness manipulation and memory-based healing techniques. This extraordinary medical complex utilizes the unique properties of the Reflection Pools' memory-infused waters to perform procedures that would be impossible in conventional settings.
+The Surgical Theater within [[02_Worldbuilding/Places/The Reflection Pools]] represents the pinnacle of [[02_Worldbuilding/Places/Aquabyssos]]'s medical advancement - a revolutionary facility where traditional surgery merges with consciousness manipulation and memory-based healing techniques. This extraordinary medical complex utilizes the unique properties of the Reflection Pools' memory-infused waters to perform procedures that would be impossible in conventional settings.
 
 Unlike surface-world medicine that focuses purely on physical intervention, the Surgical Theater operates on the principle that consciousness and memory directly affect physical healing. Here, surgeons work not only with scalpels and sutures, but with extracted memories, consciousness-altering environments, and the mystical properties of reflection-enhanced healing chambers. Patients may undergo procedures that heal both their bodies and their minds simultaneously, emerging not only physically restored but with enhanced mental clarity, resolved trauma, or improved cognitive function.
 
@@ -348,28 +348,28 @@ Advanced techniques for rebuilding damaged consciousness structures:
 
 ## Connections and Relationships
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Reflection Pools]] - Parent Complex
+### [[02_Worldbuilding/Places/The Reflection Pools]] - Parent Complex
 - **Integration**: Surgical Theater uses same memory-infused waters as rest of complex
 - **Resource Sharing**: Common memory archives and consciousness research facilities
 - **Patient Flow**: Patients often receive multiple treatments throughout the complex
 - **Staff Exchange**: Medical personnel work across different areas of the complex
 - **Research Coordination**: Joint research projects with other Reflection Pool facilities
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]] - Underground Connections
+### [[02_Worldbuilding/Places/The Shadow Markets]] - Underground Connections
 - **Illegal Services**: Black market consciousness modification and memory trading
 - **Ethics Violations**: Some rejected procedures available through criminal networks
 - **Patient Referrals**: Desperate patients sometimes seek illegal alternatives
 - **Information Security**: Protecting patient data from criminal intelligence gathering
 - **Enforcement Cooperation**: Working with authorities to stop illegal consciousness procedures
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Academies/Imperial Academy]] - Educational Partnership
+### [[02_Worldbuilding/Groups/Academies/Imperial Academy]] - Educational Partnership
 - **Medical Training**: Advanced students receive training in consciousness surgery
 - **Research Collaboration**: Joint projects advancing consciousness medicine
 - **Ethics Education**: Training future surgeons in consciousness procedure ethics
 - **Innovation Development**: Academic research contributing to surgical advancement
 - **International Exchange**: Foreign medical students learning Aquabyssos techniques
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] - Regulatory Oversight
+### [[02_Worldbuilding/Places/Parliament of Echoes]] - Regulatory Oversight
 - **Legislative Framework**: Laws governing consciousness surgery and patient rights
 - **Funding Authorization**: Parliamentary approval for research and facility expansion
 - **Ethics Standards**: Political oversight ensuring ethical medical practices
@@ -470,8 +470,8 @@ The facility's most closely guarded secret is a device preventing reality distor
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Market Canals]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[02_Worldbuilding/Places/Shadow Market Canals]]
+- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
 - [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
@@ -495,7 +495,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
+- [[02_Worldbuilding/Places/Reflection Pools - Surgical Theater]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]

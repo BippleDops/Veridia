@@ -20,7 +20,7 @@ world: Both
 
 # Phase Omega Enhanced Index
 
-Master index for VAULT PERFECTION PROTOCOL. All subsystems integrate with: [[vault_backup_20250813_073007/03_Mechanics/Complete Pressure Adaptation System]], [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]], [[vault_backup_20250813_073007/03_Mechanics/Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]].
+Master index for VAULT PERFECTION PROTOCOL. All subsystems integrate with: [[03_Mechanics/Complete Pressure Adaptation System]], [[03_Mechanics/Complete Reality Merger System]], [[03_Mechanics/Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], and [[02_Worldbuilding/Lore/Deep Mother]].
 
 ## Living World Systems
 - [[Complete_Temporal_Mechanics_System|Temporal Mechanics Engine]]

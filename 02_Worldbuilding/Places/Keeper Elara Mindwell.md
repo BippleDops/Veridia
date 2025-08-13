@@ -50,7 +50,7 @@ world: Aquabyssos
 
 ## Overview
 
-Keeper Elara Mindwell serves as one of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most respected cultural advisors and knowledge guardians, maintaining the realm's extensive archives of historical, cultural, and magical knowledge while providing crucial guidance to political and academic leaders. Her expertise in cultural analysis, historical patterns, and psychological insights makes her an invaluable resource for understanding complex social and political dynamics.
+Keeper Elara Mindwell serves as one of [[02_Worldbuilding/Places/Aquabyssos]]'s most respected cultural advisors and knowledge guardians, maintaining the realm's extensive archives of historical, cultural, and magical knowledge while providing crucial guidance to political and academic leaders. Her expertise in cultural analysis, historical patterns, and psychological insights makes her an invaluable resource for understanding complex social and political dynamics.
 
 As Senior Cultural Advisor to diplomatic missions, Keeper Mindwell specializes in analyzing the cultural, historical, and psychological factors that influence political decisions and social movements. Her ability to identify underlying patterns and predict potential cultural conflicts has prevented numerous diplomatic incidents and helped shape successful negotiation strategies.
 
@@ -102,7 +102,7 @@ As Senior Cultural Advisor to diplomatic missions, Keeper Mindwell specializes i
 
 Born into a family of scholars and archivists, Elara Mindwell showed exceptional intellectual gifts from an early age, demonstrating not just remarkable memory but also the rare ability to synthesize information from multiple sources to identify previously unrecognized patterns and connections.
 
-Her formal education at the [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Academies/Aquabyssos Academy]] was marked by groundbreaking research into the intersection of cultural practices and magical phenomena, leading to new understanding of how social structures influence magical development and expression.
+Her formal education at the [[02_Worldbuilding/Groups/Academies/Aquabyssos Academy]] was marked by groundbreaking research into the intersection of cultural practices and magical phenomena, leading to new understanding of how social structures influence magical development and expression.
 
 Early in her career, Keeper Mindwell developed innovative methods for preserving and organizing cultural knowledge, creating archival systems that make vast amounts of historical and cultural information accessible for practical application in contemporary situations.
 
@@ -110,7 +110,7 @@ Early in her career, Keeper Mindwell developed innovative methods for preserving
 
 Keeper Mindwell's reputation was established during the Cultural Crisis of fifteen years ago, when her analysis of historical patterns helped predict and prevent a series of inter-community conflicts that could have destabilized regional social structures.
 
-Her work in developing cultural sensitivity protocols for diplomatic missions has become the standard throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and has been adopted by allied organizations, significantly improving the success rate of cross-cultural negotiations.
+Her work in developing cultural sensitivity protocols for diplomatic missions has become the standard throughout [[02_Worldbuilding/Places/Aquabyssos]] and has been adopted by allied organizations, significantly improving the success rate of cross-cultural negotiations.
 
 Subsequent achievements include major contributions to understanding the psychological and cultural factors affecting magical corruption, leading to more effective treatment and prevention protocols.
 
@@ -118,7 +118,7 @@ Subsequent achievements include major contributions to understanding the psychol
 
 As Senior Cultural Advisor, Keeper Mindwell provides analysis and guidance for diplomatic missions, political decisions, and social policies. Her insights help leaders understand the broader implications of their decisions and avoid unintended cultural conflicts.
 
-She also maintains [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s cultural archives, ensuring that knowledge about various communities, traditions, and historical events remains accessible and relevant for contemporary needs.
+She also maintains [[02_Worldbuilding/Places/Aquabyssos]]'s cultural archives, ensuring that knowledge about various communities, traditions, and historical events remains accessible and relevant for contemporary needs.
 
 Keeper Mindwell serves as a mentor and trainer for younger scholars and diplomats, sharing her methods for cultural analysis and helping develop the next generation of cultural experts.
 
@@ -134,7 +134,7 @@ Keeper Mindwell's intellectual approach is balanced by emotional intelligence an
 
 ### Commitment to Service
 
-Despite her academic background, Keeper Mindwell is deeply committed to practical application of her knowledge for the benefit of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and its allies. She views scholarship as a form of public service rather than purely intellectual pursuit.
+Despite her academic background, Keeper Mindwell is deeply committed to practical application of her knowledge for the benefit of [[02_Worldbuilding/Places/Aquabyssos]] and its allies. She views scholarship as a form of public service rather than purely intellectual pursuit.
 
 Her work is motivated by belief that knowledge should serve to improve understanding and reduce conflict between different groups, making her particularly dedicated to diplomatic and peacekeeping applications of her expertise.
 
@@ -180,25 +180,25 @@ This project represents her most ambitious intellectual undertaking but also her
 
 **[[Envoy Blackwater Jr.]]** - Primary advisee and close professional collaborator, whose diplomatic missions benefit from her cultural analysis and psychological insights. Their working relationship has developed into genuine friendship based on shared commitment to peaceful conflict resolution.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Archivist Vera Glowmind]]** - Fellow scholar specializing in magical archives, with whom Keeper Mindwell collaborates on research involving the intersection of cultural practices and magical phenomena.
+**[[02_Worldbuilding/Places/Archivist Vera Glowmind]]** - Fellow scholar specializing in magical archives, with whom Keeper Mindwell collaborates on research involving the intersection of cultural practices and magical phenomena.
 
 **Professor [[Cultural Historian Deepcurrent]]** - Academic colleague and occasional research partner, whose expertise in historical analysis complements her cultural focus and provides broader context for understanding social patterns.
 
 ### Institutional Relationships
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Academies/Aquabyssos Academy]] Leadership** - Maintains strong relationships with academic leadership, providing cultural expertise for institutional policies while advocating for academic freedom and research independence.
+**[[02_Worldbuilding/Groups/Academies/Aquabyssos Academy]] Leadership** - Maintains strong relationships with academic leadership, providing cultural expertise for institutional policies while advocating for academic freedom and research independence.
 
 **[[02_Worldbuilding/Groups/Cultural Preservation Societ|02 Worldbuilding/Groups/Cultural Preservation Societ]]** - Active member and occasional leader of organization dedicated to protecting and preserving cultural knowledge, working to ensure traditional practices are documented and respected.
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Diplomatic Training Institute]]** - Regular instructor and curriculum consultant, helping train future diplomats in cultural sensitivity and cross-cultural communication techniques.
+**[[02_Worldbuilding/Lore/Diplomatic Training Institute]]** - Regular instructor and curriculum consultant, helping train future diplomats in cultural sensitivity and cross-cultural communication techniques.
 
 ### Personal Connections
 
-**Sister [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marina Mindwell]]** - Younger sister serving as healer in distant community, whose letters provide Keeper Mindwell with ongoing insights into local cultural practices and social changes.
+**Sister [[02_Worldbuilding/Lore/Marina Mindwell]]** - Younger sister serving as healer in distant community, whose letters provide Keeper Mindwell with ongoing insights into local cultural practices and social changes.
 
 **Mentor [[Elder Scholar Profundus]]** - Retired academic who guided her early development and continues to provide advice on complex ethical questions involving knowledge preservation and application.
 
-**Apprentice [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Student Researcher Brightwater]]** - Promising young scholar whom Keeper Mindwell is training in cultural analysis methods, representing her investment in developing future experts.
+**Apprentice [[02_Worldbuilding/Lore/Student Researcher Brightwater]]** - Promising young scholar whom Keeper Mindwell is training in cultural analysis methods, representing her investment in developing future experts.
 
 ## Quest Hooks and Adventure Opportunities
 
@@ -297,10 +297,10 @@ DMs can use her character to explore questions about cultural relativism, the re
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archon Meredith Saltweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Amnesia Gallery]]
+- [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
+- [[02_Worldbuilding/Places/Amnesia Gallery]]
 - [[Envoy Blackwater Jr.]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/Places/New Tethys]]
 
 ## Player-Facing Summary
 
@@ -322,7 +322,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Mindwell]]
+- [[02_Worldbuilding/Places/Keeper Elara Mindwell]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Archivist Vera Glowmind]]
+- [[02_Worldbuilding/Places/Archivist Vera Glowmind]]

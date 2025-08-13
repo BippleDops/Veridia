@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
 
 ## Player-Facing Summary
 

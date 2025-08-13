@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
+- [[02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
+- [[02_Worldbuilding/Places/Gravity Anomaly Mechanics]]
 
 ## Player-Facing Summary
 

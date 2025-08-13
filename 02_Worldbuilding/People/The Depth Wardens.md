@@ -301,18 +301,18 @@ The Depth Wardens represent the theme that some knowledge and some duties are to
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Deepwatch Guard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/The Pressure Maelstroms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Typhoon Blackheart]]
+- [[02_Worldbuilding/Groups/The Deepwatch Guard]]
+- [[02_Worldbuilding/The Pressure Maelstroms]]
+- [[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]
+- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
 - [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Oracle Nerida the Tidereader]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Gilded Shard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadowmire Tavern]]
+- [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
+- [[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]
+- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+- [[02_Worldbuilding/Places/Lumengarde]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/The Gilded Shard]]
+- [[02_Worldbuilding/Places/The Shadowmire Tavern]]
 
 ## Player-Facing Summary
 
@@ -328,8 +328,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Depth Wardens]]
+- [[02_Worldbuilding/People/The Depth Wardens]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Fortress of the Deeps]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]]
+- [[02_Worldbuilding/Lore/Fortress of the Deeps]]
+- [[02_Worldbuilding/Lore/Queen Seraphina]]

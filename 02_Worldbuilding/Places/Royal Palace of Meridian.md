@@ -143,7 +143,7 @@ The Royal Palace serves as center for political adventures, diplomatic missions,
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Royal Palace]]
+- [[02_Worldbuilding/Places/The Royal Palace]]
 
 
 ## History
@@ -185,6 +185,6 @@ Legends speak of Royal Palace of Meridian as a nexus where past and present conv
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Palace of Meridian]]
+- [[02_Worldbuilding/Places/Royal Palace of Meridian]]
 
 <!-- enriched: true -->

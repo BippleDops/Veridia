@@ -43,7 +43,7 @@ world: Universal
 - Quarantine provides time to roleplay bonds; offer side-objectives inside.
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Verdant Accord]]
+- [[02_Worldbuilding/People/The Verdant Accord]]
 - [[02_Worldbuilding/Places/Pressure Gate.md|Pressure Gates]]
 
 ## Player-Facing Summary

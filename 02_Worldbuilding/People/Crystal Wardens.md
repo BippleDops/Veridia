@@ -70,7 +70,7 @@ Luminara's combination of tactical brilliance, magical talent, and absolute dedi
 Her innovations included the "Crystal Web" early warning system, which used the natural resonance between crystal formations to detect intrusions across vast areas, and the "Harmonic Shield" technique that turned defensive crystals into acoustic weapons capable of stunning attackers without damaging nearby crystal formations.
 
 ### The Great Transformation (50-25 years ago)
-When the previous High Warden died defending the Heart Crystal from a coordinated attack by [[vault_backup_20250813_073007/02_Worldbuilding/People/The Biomancers]] and crystal smugglers, the Order faced its greatest crisis in centuries. Multiple crystal sites had been compromised, the Warden forces were demoralized, and rumors suggested corruption within the organization itself.
+When the previous High Warden died defending the Heart Crystal from a coordinated attack by [[02_Worldbuilding/People/The Biomancers]] and crystal smugglers, the Order faced its greatest crisis in centuries. Multiple crystal sites had been compromised, the Warden forces were demoralized, and rumors suggested corruption within the organization itself.
 
 Luminara voluntarily underwent the forbidden Crystal Bonding ritual, allowing the Heart Crystal to partially merge with her life essence. The process should have killed her, but her exceptional compatibility with crystal magic allowed her to survive the transformation, emerging as the first crystal-touched being in generations.
 
@@ -122,7 +122,7 @@ Luminara commands an organization of 800 active Wardens plus 2,000 auxiliary mem
 - **Archive Crystals**: Storage system preserving knowledge, maps, and tactical information
 
 ### Political Influence
-- **Royal Counselor**: Direct advisor to [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] on crystal-related policy
+- **Royal Counselor**: Direct advisor to [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] on crystal-related policy
 - **Diplomatic Corps**: Representatives in courts throughout the realm and neighboring kingdoms
 - **Trade Authority**: Significant influence over crystal commerce and magical item crafting
 - **Academic Partnership**: Close ties with magical schools and research institutions
@@ -137,20 +137,20 @@ Luminara commands an organization of 800 active Wardens plus 2,000 auxiliary mem
 - **Artificer Lyanna Gemheart** - Master crystal-crafter who maintains the Warden's equipment and artifacts
 
 ### Strategic Allies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Mutual respect and shared commitment to Aethermoor's protection
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Spiritual ally who provides divine support for crystal purification
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Technical collaborator on crystal-powered inventions
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]** - Diplomatic partner for inter-realm crystal trade regulation
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Mutual respect and shared commitment to Aethermoor's protection
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Spiritual ally who provides divine support for crystal purification
+- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Technical collaborator on crystal-powered inventions
+- **[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]** - Diplomatic partner for inter-realm crystal trade regulation
 
 ### Complicated Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Purist Coalition]]** - Shares anti-corruption goals but disagrees with their extreme methods
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silverscale Consortium]]** - Necessary business relationships complicated by profit-driven crystal exploitation
+- **[[02_Worldbuilding/Lore/The Purist Coalition]]** - Shares anti-corruption goals but disagrees with their extreme methods
+- **[[02_Worldbuilding/Lore/The Silverscale Consortium]]** - Necessary business relationships complicated by profit-driven crystal exploitation
 - **Traditional Elven Houses** - View her transformation as abandonment of elven nature
 - **Crystal Miners and Merchants** - Protective regulations often conflict with commercial interests
 
 ### Active Enemies
 - **Crystal Thieves and Smugglers** - Criminal organizations that profit from stolen magical materials
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Biomancers]]** - Philosophical opposition to their corruption of natural magical processes
+- **[[02_Worldbuilding/People/The Biomancers]]** - Philosophical opposition to their corruption of natural magical processes
 - **Shadow Cultists** - Groups seeking to corrupt crystal formations for dark magical purposes
 - **Rogue Mages** - Practitioners who use dangerous or forbidden crystal magic techniques
 
@@ -319,75 +319,75 @@ Legends speak of Crystal Wardens as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Consortium Security Constructs]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Carrion Court]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/The Leviathan Cult]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/The Resonance Forge Hammer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aetheron]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archbishop Mordecai Stormwright]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priest Dagon Deepcaller]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- [[02_Worldbuilding/Groups/Consortium Security Constructs]]
+- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
+- [[02_Worldbuilding/Groups/Merchant Princes]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Purist Coalition]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters]]
+- [[02_Worldbuilding/Groups/The Carrion Court]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Crown Authority]]
+- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/The Leviathan Cult]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/Groups/Guilds/The Seekers' Guild]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
+- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[02_Worldbuilding/Items/The Resonance Forge Hammer]]
+- [[02_Worldbuilding/Lore/Aetheron]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
+- [[02_Worldbuilding/People/Archbishop Mordecai Stormwright]]
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/High Priest Dagon Deepcaller]]
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
 - [[Patriarch Valdris Lightbringer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Shard Guardian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Hidden Smuggler's Cove]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Wells]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bone Colosseum]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bone Palace of Sorrows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crimson Foundries]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Stock Exchange]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Iron Pits of Malachar]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Kraken's Harbor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Screaming Battleground]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Siren's Rest Tavern]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Slave Markets of Tethys]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Cathedral of Stars]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Temple of Eternal Tides]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Temporal Convergence Storms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Void Tears]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Ambush Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Nature's Balance]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/The Crimson Shard Guardian]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/Shadow Wells]]
+- [[02_Worldbuilding/Places/The Bone Colosseum]]
+- [[02_Worldbuilding/Places/The Bone Palace of Sorrows]]
+- [[02_Worldbuilding/Places/The Crimson Foundries]]
+- [[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]
+- [[02_Worldbuilding/Places/The Crystal Stock Exchange]]
+- [[02_Worldbuilding/Places/The Crystalline Foundry]]
+- [[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
+- [[02_Worldbuilding/Places/The Iron Pits of Malachar]]
+- [[02_Worldbuilding/Places/The Kraken's Harbor]]
+- [[02_Worldbuilding/Places/The Screaming Battleground]]
+- [[02_Worldbuilding/Places/The Siren's Rest Tavern]]
+- [[02_Worldbuilding/Places/The Slave Markets of Tethys]]
+- [[02_Worldbuilding/Places/The Sundered Peaks]]
+- [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]]
+- [[02_Worldbuilding/Places/The Temple of Eternal Tides]]
+- [[02_Worldbuilding/Places/The Temporal Convergence Storms]]
+- [[02_Worldbuilding/Places/The Void Tears]]
+- [[02_Worldbuilding/Quests/Ambush Point]]
+- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]]
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[02_Worldbuilding/Quests/Quest - The Pretender's Crown]]
+- [[02_Worldbuilding/Quests/The Crown's Burden]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]

@@ -28,20 +28,20 @@ world: Both
 
 ## Organization Overview
 
-The Order of the Drowned Star is a monastic military organization unique to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]], dedicated to maintaining the connection between the drowned world below and the celestial realm above. Founded three centuries ago by the transformed astronomer **Sister Astara the Ever-Watching**, the Order believes that the stars hold the key to reversing the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]] - not through undoing it, but by completing a greater cosmic alignment.
+The Order of the Drowned Star is a monastic military organization unique to [[02_Worldbuilding/Lore/Aquabyssos World Overview]], dedicated to maintaining the connection between the drowned world below and the celestial realm above. Founded three centuries ago by the transformed astronomer **Sister Astara the Ever-Watching**, the Order believes that the stars hold the key to reversing the [[02_Worldbuilding/Lore/Aquabyssos World Overview]] - not through undoing it, but by completing a greater cosmic alignment.
 
 The Order represents a middle path between surface nostalgia and depth acceptance, arguing that Aquabyssos was meant to serve as a bridge between the earthbound and the celestial. Their monasteries, built around drowned observatories and star-gazing towers, serve as both spiritual centers and military fortifications protecting key navigation routes between the depths.
 
 ## History and Foundation
 
 ### The Founding Vision (527 years post-Drowning)
-Sister Astara, a former court astronomer of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]], experienced prophetic visions while studying star patterns from beneath the waves. She claimed the stars spoke to her through the water itself, revealing that the Great Drowning was the first stage of a cosmic realignment that would elevate humanity to a higher plane of existence.
+Sister Astara, a former court astronomer of [[02_Worldbuilding/Lore/Aquabyssos World Overview]], experienced prophetic visions while studying star patterns from beneath the waves. She claimed the stars spoke to her through the water itself, revealing that the Great Drowning was the first stage of a cosmic realignment that would elevate humanity to a higher plane of existence.
 
 ### The First Observatory (530 years post-Drowning)
 Using salvaged astronomical equipment from the drowned capital, Sister Astara established the first underwater observatory in what is now called the **Sunken Constellation** - a cluster of drowned towers that once housed the Royal Academy of Celestial Sciences. The Order's unique water-lens technology allowed them to observe stars from significant depths.
 
 ### The Depth Wars Participation (480-460 years post-Drowning)
-The Order played a crucial role in the civil wars that established the current [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]], serving as neutral mediators and providing strategic intelligence through their superior navigation abilities. Their star-charts became essential for deep-water travel and establishing trade routes.
+The Order played a crucial role in the civil wars that established the current [[02_Worldbuilding/Lore/Aquabyssos World Overview]], serving as neutral mediators and providing strategic intelligence through their superior navigation abilities. Their star-charts became essential for deep-water travel and establishing trade routes.
 
 ## Leadership Structure
 
@@ -51,13 +51,13 @@ The Order played a crucial role in the civil wars that established the current [
 ### The Seven Star-Bearers
 Each Star-Bearer oversees a different aspect of the Order and is identified by a unique bioluminescent pattern:
 
-1. **Navigator-Star [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Thalassa the Pathfinder]]**: Routes and exploration
+1. **Navigator-Star [[02_Worldbuilding/Groups/Thalassa the Pathfinder]]**: Routes and exploration
 2. **War-Star [[Brother Pelagios Irondeep]]**: Military training and strategy  
-3. **Keeper-Star [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Sister Benthos Scrollheart]]**: Knowledge and archives
+3. **Keeper-Star [[02_Worldbuilding/Groups/Sister Benthos Scrollheart]]**: Knowledge and archives
 4. **Builder-Star [[Master Craftsman Hydros]]**: Observatories and equipment
-5. **Depth-Star [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Chaplain Abyssos the Deepseeke]]**: Spiritual guidance and rituals
-6. **Surface-Star [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Ambassador Marina Tidecaller]]**: Relations with other factions
-7. **Void-Star [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Unnamed Watcher]]**: Hadean Depth missions and secrets
+5. **Depth-Star [[02_Worldbuilding/Groups/Chaplain Abyssos the Deepseeke]]**: Spiritual guidance and rituals
+6. **Surface-Star [[02_Worldbuilding/Groups/Ambassador Marina Tidecaller]]**: Relations with other factions
+7. **Void-Star [[02_Worldbuilding/Groups/The Unnamed Watcher]]**: Hadean Depth missions and secrets
 
 ### The Circle of Lights
 144 full knights who have mastered both combat and celestial navigation, organized into twelve "Constellation Companies" of twelve knights each. Each company specializes in a different stellar formation and combat doctrine.
@@ -81,7 +81,7 @@ Each Star-Bearer oversees a different aspect of the Order and is identified by a
 - **Dozens of Scout Vessels**: For mapping and patrol duties
 
 #### Observatory Network
-- **Primary Observatory**: The Sunken Observatory in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- **Primary Observatory**: The Sunken Observatory in [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
 - **Seven Regional Stations**: Monitoring different stellar quadrants
 - **Deep Listening Posts**: Hadean Depth installations for cosmic observation
 - **Surface Beacons**: Hidden installations for navigation aid
@@ -121,11 +121,11 @@ Serving as neutral mediators between factions, using their strategic value to ma
 
 ### Allied Organizations
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
 **Relationship**: Close Military Alliance
 The Order provides navigation and strategic intelligence to the Preservation Current's fleet, while receiving political protection and funding. Many Order knights serve as officers in Preservation Current vessels.
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Korvin Blacktide]]
+#### [[02_Worldbuilding/People/Ambassador Korvin Blacktide]]
 **Relationship**: Diplomatic Cooperation  
 The Order's navigation expertise is crucial for maintaining contact with the surface world. In exchange, they receive updates on surface astronomical observations and star-charts.
 
@@ -135,21 +135,21 @@ The Order ensures safe passage through dangerous deep-water routes in exchange f
 
 ### Rival Organizations
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
 **Relationship**: Ideological Opposition
 The Deep Dreamers view the Order's focus on stars and surface as a rejection of true transformation. They consider the Great Alignment to be a dangerous delusion that prevents proper evolution into Hadean forms.
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
 **Relationship**: Tactical Rivalry
 While both groups are militaristic, the Resurgent Tide sees the Order's desire to return to the surface as treasonous to the depths. Their aggressive expansion often conflicts with Order territory.
 
 ### Complex Relationships
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
 **Relationship**: Cautious Cooperation
 The Order requires Void Touched expertise for their deepest observations, but fears their influence. Some joint expeditions have been successful, but trust remains limited.
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
+#### [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
 **Relationship**: Selective Loyalty  
 The Order serves the legitimate government but maintains independence through their strategic value. Some Council members seek to control them, others prefer their neutrality.
 
@@ -183,7 +183,7 @@ Secret installations throughout Aquabyssos that serve as safe houses, supply cac
 ## Quest Hooks and Adventure Seeds
 
 ### For Allied Parties
-1. **The Missing Star-Chart**: A crucial navigation chart has been stolen by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]. The Order needs discrete agents to retrieve it from a Hadean Depth temple.
+1. **The Missing Star-Chart**: A crucial navigation chart has been stolen by [[02_Worldbuilding/Lore/Aquabyssos World Overview]]. The Order needs discrete agents to retrieve it from a Hadean Depth temple.
 
 2. **The Stellar Confluence**: Help the Order investigate strange stellar readings that suggest the Great Alignment is approaching faster than expected - and something is trying to prevent it.
 
@@ -206,32 +206,32 @@ Secret installations throughout Aquabyssos that serve as safe houses, supply cac
 ## Internal Wiki-Style Links
 
 **Related Organizations**: 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Korvin Blacktide]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[02_Worldbuilding/People/Ambassador Korvin Blacktide]]
 
 **Key Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Sunken Observatory]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[02_Worldbuilding/Groups/The Sunken Observatory]]
 - [[The Navigation Posts]]
 
 **Historical Events**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Depth Wars]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Stellar Confluence]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[02_Worldbuilding/Groups/The Depth Wars]]
+- [[02_Worldbuilding/Groups/The Stellar Confluence]]
 
 **Notable NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Stellar Commander Nereus Voidcaller]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Sister Astara the Ever-Watching]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Thalassa the Pathfinder]]
+- [[02_Worldbuilding/Groups/Stellar Commander Nereus Voidcaller]]
+- [[02_Worldbuilding/Groups/Sister Astara the Ever-Watching]]
+- [[02_Worldbuilding/Groups/Thalassa the Pathfinder]]
 - [[Brother Pelagios Irondeep]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corallion]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Find the Grief Bomb]]
+- [[02_Worldbuilding/Lore/Corallion]]
+- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
 
 ## Player-Facing Summary
 

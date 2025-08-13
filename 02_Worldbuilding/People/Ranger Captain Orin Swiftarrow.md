@@ -64,11 +64,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Ranger Captain Orin Swiftarrow]]
+- [[02_Worldbuilding/People/Ranger Captain Orin Swiftarrow]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Root Network]]
+- [[02_Worldbuilding/People/Quest - The Root Network]]

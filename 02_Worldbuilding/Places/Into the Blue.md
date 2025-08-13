@@ -138,7 +138,7 @@ This quest emphasizes exploration and discovery over combat. Focus on the sense 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/Places/The Cerulean Trench]]
 
 
 ## History
@@ -180,6 +180,6 @@ Legends speak of Into the Blue as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Into the Blue]]
+- [[02_Worldbuilding/Places/Into the Blue]]
 
 <!-- enriched: true -->

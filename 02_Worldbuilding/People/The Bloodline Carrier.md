@@ -111,20 +111,20 @@ He maintains the Bloodline Sanctum, a crystal cathedral where the spirits of his
 ## Relationships
 
 **Allies:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Order of the Shattered Crown]]** - His primary faction dedicated to restoring royal bloodlines
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Distant cousin through ancient royal connections
+- **[[02_Worldbuilding/People/Order of the Shattered Crown]]** - His primary faction dedicated to restoring royal bloodlines
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Distant cousin through ancient royal connections
 - **The Genealogy Guild** - Scholars who research and verify bloodline claims
 - **Crystal-Touched Nobility** - Other families with similar magical heritage
 
 **Enemies:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]]** - They view bloodline purity as an obstacle to unity
+- **[[02_Worldbuilding/Groups/The Convergence Seekers]]** - They view bloodline purity as an obstacle to unity
 - **Bloodline Thieves** - Criminals who steal or corrupt magical heritage
 - **The Common Revolutionary** - Radicals who oppose hereditary privilege
 - **Shadow Corruptors** - Entities that seek to taint pure bloodlines
 
 **Complicated:**
 - **[[Keeper of the Shattered Crown, Marcus Crystalvein]]** - Rival claimant to certain royal bloodlines
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Collaborates on magical research but disagrees on bloodline ethics
+- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Collaborates on magical research but disagrees on bloodline ethics
 - **The Bastard Branch** - Illegitimate relatives who challenge his inheritance claims
 
 ## Quest Hooks
@@ -176,7 +176,7 @@ He maintains the Bloodline Sanctum, a crystal cathedral where the spirits of his
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
 
 ## Player-Facing Summary
 
@@ -198,10 +198,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Bloodline Carrier]]
+- [[02_Worldbuilding/People/The Bloodline Carrier]]
 
 <!-- enriched: true -->
 - [[Keeper of the Shattered Crown, Marcus Crystalvein]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Order of the Shattered Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/Order of the Shattered Crown]]
+- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]

@@ -47,10 +47,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deserter's Tale]]
+- [[02_Worldbuilding/Lore/The Deserter's Tale]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deserter's Tale]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tide Turner's Trident]]
+- [[02_Worldbuilding/Lore/The Deserter's Tale]]
+- [[02_Worldbuilding/Lore/Tide Turner's Trident]]

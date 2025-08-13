@@ -446,16 +446,16 @@ Physical changes should reflect psychological evolution:
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
 - [[Complete Deep Mother Subsystem]]
-- [[vault_backup_20250813_073007/03_Mechanics/Deep Mother Sanity System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple of the Sunken Cathedral]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Prophecies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reality Breach Locations]]
+- [[03_Mechanics/Deep Mother Sanity System]]
+- [[02_Worldbuilding/Places/Temple of the Sunken Cathedral]]
+- [[02_Worldbuilding/Lore/The Deep Prophecies]]
+- [[02_Worldbuilding/Places/Reality Breach Locations]]
 - [[Transformation Mechanics]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/High Oracle Serenity Deepcall]]
+- [[02_Worldbuilding/Groups/High Oracle Serenity Deepcall]]
 - [[Commandant Void Tactician]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Doctor Harmony Whisperfall]]
+- [[02_Worldbuilding/Groups/Doctor Harmony Whisperfall]]
 
 ## Player-Facing Summary
 

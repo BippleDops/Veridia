@@ -23,7 +23,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Crystal Plague Wards represent the medical system's response to the ongoing crystallization epidemic. These specialized facilities, primarily located in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]'s Harbor District, serve as both treatment centers and containment facilities for those afflicted with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Plague Progression System]].
+The Crystal Plague Wards represent the medical system's response to the ongoing crystallization epidemic. These specialized facilities, primarily located in [[02_Worldbuilding/Places/Port Meridian]]'s Harbor District, serve as both treatment centers and containment facilities for those afflicted with the [[02_Worldbuilding/Lore/Crystal Plague Progression System]].
 
 ## Saint Thalassa Memorial Hospital - Ward 7
 
@@ -62,7 +62,7 @@ The primary plague ward occupies an entire wing of the city's largest hospital. 
 
 **Fourth Floor - Administrative & Research**
 - Doctor quarters and meeting rooms
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Medical Research Facilities]]
+- [[02_Worldbuilding/Places/Medical Research Facilities]]
 - Records vault (crystal-proofed)
 - Emergency command center
 
@@ -343,12 +343,12 @@ A wealthy merchant family is hiding a Stage 4 member in their private mansion, u
 - Researchers: Scientific progress vs. ethical constraints
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Plague Progression System]] - Disease mechanics and stages
+- [[02_Worldbuilding/Lore/Crystal Plague Progression System]] - Disease mechanics and stages
 - [[Brother Marcus]] - Primary healer and religious figure
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Medical Research Facilities]] - Cure development efforts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Primary outbreak location
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quarantine Enforcement]] - Government response procedures
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] - Religious interpretations of the plague
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Black Market Crystal Trade]] - Economic aspects of the crisis
+- [[02_Worldbuilding/Places/Medical Research Facilities]] - Cure development efforts
+- [[02_Worldbuilding/Places/Port Meridian]] - Primary outbreak location
+- [[02_Worldbuilding/Lore/Quarantine Enforcement]] - Government response procedures
+- [[02_Worldbuilding/Places/Crystal Cult Temples]] - Religious interpretations of the plague
+- [[02_Worldbuilding/Lore/Black Market Crystal Trade]] - Economic aspects of the crisis
 
 <!-- enriched: true -->

@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Queen]]
+- [[02_Worldbuilding/Lore/The Queen]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Queen]]
+- [[02_Worldbuilding/Lore/The Queen]]
 
 ## Player-Facing Summary
 

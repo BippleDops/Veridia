@@ -35,32 +35,32 @@ world: Aquabyssos
 
 ## Overview
 
-The **Pressure Conspiracy** is not a single location but a network of hidden chambers, secret meeting places, and concealed facilities throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], all connected by a web of political intrigue that threatens to destabilize the entire [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]]. What began as whispered dissent among minor nobles has evolved into a sophisticated shadow organization with tentacles reaching into every level of deep sea society.
+The **Pressure Conspiracy** is not a single location but a network of hidden chambers, secret meeting places, and concealed facilities throughout [[02_Worldbuilding/Places/Aquabyssos]], all connected by a web of political intrigue that threatens to destabilize the entire [[02_Worldbuilding/Lore/The Abyssal Court]]. What began as whispered dissent among minor nobles has evolved into a sophisticated shadow organization with tentacles reaching into every level of deep sea society.
 
-The Conspiracy operates under the guise of legitimate political discourse, using the immense pressure of the deep ocean as both metaphor and operational advantage. Their secret communications travel through [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Currents]], their meetings occur in spaces where the crushing depths naturally muffle sound, and their membership includes those who have learned to thrive under the most extreme conditions.
+The Conspiracy operates under the guise of legitimate political discourse, using the immense pressure of the deep ocean as both metaphor and operational advantage. Their secret communications travel through [[02_Worldbuilding/Lore/Pressure Currents]], their meetings occur in spaces where the crushing depths naturally muffle sound, and their membership includes those who have learned to thrive under the most extreme conditions.
 
 ## The Network Structure
 
 ### The Crush Chamber
 
-Hidden within a massive underwater mountain range known as the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Benthic Spires]], the **Crush Chamber** serves as the primary meeting location for the Conspiracy's leadership. The chamber exists at a depth where the pressure is so intense that only the most powerful creatures can survive, ensuring absolute privacy.
+Hidden within a massive underwater mountain range known as the [[02_Worldbuilding/Lore/Benthic Spires]], the **Crush Chamber** serves as the primary meeting location for the Conspiracy's leadership. The chamber exists at a depth where the pressure is so intense that only the most powerful creatures can survive, ensuring absolute privacy.
 
-The chamber is a natural cavity that has been artificially expanded through [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Sculpting]], a technique that uses controlled pressure waves to carve stone. The walls are lined with **pressure crystals** that absorb and redirect sound waves, making surveillance impossible even for creatures with supernatural hearing.
+The chamber is a natural cavity that has been artificially expanded through [[02_Worldbuilding/Lore/Pressure Sculpting]], a technique that uses controlled pressure waves to carve stone. The walls are lined with **pressure crystals** that absorb and redirect sound waves, making surveillance impossible even for creatures with supernatural hearing.
 
 **Environmental Challenges:**
 - **Extreme Pressure**: DC 20 Constitution save every hour or gain one level of exhaustion
-- **Pressure Lock Security**: Only those with special [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Tolerance]] tokens can safely enter
+- **Pressure Lock Security**: Only those with special [[02_Worldbuilding/Lore/Pressure Tolerance]] tokens can safely enter
 - **Psionic Dampening**: The pressure crystals prevent telepathic communication
 - **Temporal Distortion**: Time moves 10% slower inside the chamber due to gravitational effects
 
 ### The Whisper Networks
 
-Throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], the Conspiracy maintains a communication system using **Pressure Tubes** - natural and artificial channels that carry coded messages via carefully modulated pressure waves. Key network nodes include:
+Throughout [[02_Worldbuilding/Places/Aquabyssos]], the Conspiracy maintains a communication system using **Pressure Tubes** - natural and artificial channels that carry coded messages via carefully modulated pressure waves. Key network nodes include:
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Market]]**: Where economic intelligence is gathered and disseminated
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thermal Vent Communities]]**: Remote outposts where dissidents can hide
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sunken Cities]]**: Ancient ruins that provide cover for clandestine meetings
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Current Junction Points]]**: Where multiple ocean streams meet, enabling message distribution
+- **[[02_Worldbuilding/Lore/The Deep Market]]**: Where economic intelligence is gathered and disseminated
+- **[[02_Worldbuilding/Lore/Thermal Vent Communities]]**: Remote outposts where dissidents can hide
+- **[[02_Worldbuilding/Lore/The Sunken Cities]]**: Ancient ruins that provide cover for clandestine meetings
+- **[[02_Worldbuilding/Lore/Current Junction Points]]**: Where multiple ocean streams meet, enabling message distribution
 - **[[Diplomatic Quarters]]**: The embassy districts where foreign intelligence is collected
 
 ### Safe Houses and Hidden Sanctuaries
@@ -77,8 +77,8 @@ A seemingly abandoned research station that was officially closed after a "catas
 
 #### The Crush Vault
 
-Hidden beneath the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Coral Gardens]], this vault contains:
-- Evidence of corruption within the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]]
+Hidden beneath the [[02_Worldbuilding/Lore/The Coral Gardens]], this vault contains:
+- Evidence of corruption within the [[02_Worldbuilding/Lore/The Abyssal Court]]
 - Plans for various political scenarios
 - Weapons designed to exploit pressure vulnerabilities
 - Emergency supplies and escape routes
@@ -98,7 +98,7 @@ Located in an underwater cavern system that connects to multiple pressure territ
 At the heart of the Conspiracy lies the **Inner Circle**, seven individuals known only by pressure-related code names:
 
 #### The Deepest Current
-The primary leader, believed to be a high-ranking member of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]] who has grown disillusioned with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Sovereign]]'s rule. Their identity is so well-protected that some members question whether they actually exist.
+The primary leader, believed to be a high-ranking member of the [[02_Worldbuilding/Lore/The Abyssal Court]] who has grown disillusioned with [[02_Worldbuilding/Lore/The Deep Sovereign]]'s rule. Their identity is so well-protected that some members question whether they actually exist.
 
 **The Deepest Current (CR 15)**
 *Medium humanoid (any race), chaotic neutral*
@@ -120,7 +120,7 @@ The primary leader, believed to be a high-ranking member of the [[vault_backup_2
 - **Network Command**: Can communicate with any Conspiracy member within 10 miles
 
 #### The Abyssal Tide
-The Conspiracy's military strategist, responsible for planning operations and managing the network of safe houses. Known for their ability to appear anywhere in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] within hours.
+The Conspiracy's military strategist, responsible for planning operations and managing the network of safe houses. Known for their ability to appear anywhere in [[02_Worldbuilding/Places/Aquabyssos]] within hours.
 
 #### The Crushing Depths
 The intelligence chief who oversees information gathering and analysis. They have successfully infiltrated multiple levels of government and maintain agents throughout the pressure territories.
@@ -132,10 +132,10 @@ The Conspiracy's diplomat, who maintains relationships with surface world contac
 The organization's enforcer and assassin, feared even by other members. They specialize in elimination techniques that appear to be accidental deaths caused by pressure-related incidents.
 
 #### The Deep Echo
-The master of communications, responsible for maintaining the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Networks]] and ensuring secure information flow between cells.
+The master of communications, responsible for maintaining the [[02_Worldbuilding/Lore/Pressure Networks]] and ensuring secure information flow between cells.
 
 #### The Final Depth
-The Conspiracy's philosopher and ideologist, who provides intellectual justification for their activities and long-term vision for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s future.
+The Conspiracy's philosopher and ideologist, who provides intellectual justification for their activities and long-term vision for [[02_Worldbuilding/Places/Aquabyssos]]'s future.
 
 ### Cell Structure
 
@@ -143,7 +143,7 @@ Below the Inner Circle, the Conspiracy operates through independent cells of 3-7
 
 - **Pressure Depth**: Surface infiltration, mid-water operations, deep sea activities
 - **Function**: Intelligence, operations, support, recruitment
-- **Territory**: Geographic regions within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- **Territory**: Geographic regions within [[02_Worldbuilding/Places/Aquabyssos]]
 - **Specialization**: Political, military, economic, or magical focus
 
 Notable cells include:
@@ -152,7 +152,7 @@ Notable cells include:
 Focused on infiltrating surface world governments and establishing contacts with surface-dwelling allies who oppose the current political order.
 
 #### The Depth Charges
-A militant cell that conducts sabotage operations against [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]] facilities and eliminates threats to the Conspiracy.
+A militant cell that conducts sabotage operations against [[02_Worldbuilding/Lore/The Abyssal Court]] facilities and eliminates threats to the Conspiracy.
 
 #### The Pressure Traders
 Economic specialists who manipulate deep sea trade routes and gather intelligence through commercial networks.
@@ -161,23 +161,23 @@ Economic specialists who manipulate deep sea trade routes and gather intelligenc
 
 ### The Great Reformation
 
-The Conspiracy's ultimate goal is the **Great Reformation** - a complete restructuring of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] society that would:
+The Conspiracy's ultimate goal is the **Great Reformation** - a complete restructuring of [[02_Worldbuilding/Places/Aquabyssos]] society that would:
 
 - Replace the absolute monarchy with a council-based government
 - Establish representation for all pressure territories
 - Create transparency in government operations
 - End the isolation from surface world politics
-- Reform the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]]'s judicial system
-- Redistribute power from the [[vault_backup_20250813_073007/02_Worldbuilding/People/Pressure Lords]] to regional representatives
+- Reform the [[02_Worldbuilding/Lore/The Abyssal Court]]'s judicial system
+- Redistribute power from the [[02_Worldbuilding/People/Pressure Lords]] to regional representatives
 
 ### Immediate Objectives
 
 In the short term, the Conspiracy focuses on:
 
 #### Information Warfare
-- Exposing corruption within the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]]
+- Exposing corruption within the [[02_Worldbuilding/Lore/The Abyssal Court]]
 - Documenting human rights abuses in the pressure territories
-- Revealing the true costs of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Sovereign]]'s policies
+- Revealing the true costs of the [[02_Worldbuilding/Lore/The Deep Sovereign]]'s policies
 - Countering official propaganda with factual intelligence
 
 #### Economic Disruption
@@ -211,14 +211,14 @@ Argue that the current system cannot be reformed and must be completely overthro
 - Alliance with any group opposing the current regime
 
 #### The Federalists
-Seek to transform [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] into a federation of autonomous pressure territories. They want:
+Seek to transform [[02_Worldbuilding/Places/Aquabyssos]] into a federation of autonomous pressure territories. They want:
 - Regional self-governance
 - Limited central authority
 - Cultural preservation for different depth communities
 - Economic independence for local areas
 
 #### The Integrationists
-Believe [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] should end its isolation and integrate with the broader multiverse. They advocate for:
+Believe [[02_Worldbuilding/Places/Aquabyssos]] should end its isolation and integrate with the broader multiverse. They advocate for:
 - Open diplomatic relations with surface worlds
 - Economic integration with other realms
 - Cultural exchange programs
@@ -231,13 +231,13 @@ Believe [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] shou
 The Conspiracy maintains extensive intelligence operations targeting:
 
 #### Court Activities
-- Monitoring [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]] sessions
+- Monitoring [[02_Worldbuilding/Lore/The Abyssal Court]] sessions
 - Tracking noble movements and communications
 - Identifying corruption and abuse of power
 - Predicting policy changes and their impacts
 
 #### Military Intelligence
-- Assessing the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Guard]]'s capabilities and loyalty
+- Assessing the [[02_Worldbuilding/Lore/Deep Guard]]'s capabilities and loyalty
 - Monitoring troop movements and exercises
 - Identifying potential defectors within the military
 - Tracking weapons development and deployment
@@ -253,7 +253,7 @@ The Conspiracy maintains extensive intelligence operations targeting:
 The Conspiracy recruits from various sources:
 
 #### Disillusioned Nobles
-Members of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]] who have become disgusted with the current system's excesses and inefficiencies.
+Members of the [[02_Worldbuilding/Lore/The Abyssal Court]] who have become disgusted with the current system's excesses and inefficiencies.
 
 #### Pressure Territory Representatives
 Local leaders who feel their communities are being exploited by the central government.
@@ -267,7 +267,7 @@ Young creatures inspired by visions of a more just and equitable society.
 Training programs include:
 - **Pressure Tolerance**: Learning to survive in extreme pressure environments
 - **Covert Operations**: Stealth, infiltration, and espionage techniques
-- **Communication**: Using the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Networks]] and maintaining security
+- **Communication**: Using the [[02_Worldbuilding/Lore/Pressure Networks]] and maintaining security
 - **Political Theory**: Understanding the Conspiracy's goals and methods
 
 ### Sabotage and Disruption
@@ -275,7 +275,7 @@ Training programs include:
 The Conspiracy conducts various operations to undermine the current regime:
 
 #### Infrastructure Sabotage
-- Disrupting [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Current]] transportation systems
+- Disrupting [[02_Worldbuilding/Lore/Pressure Current]] transportation systems
 - Damaging communication networks
 - Interfering with resource extraction operations
 - Blocking trade routes at crucial junctions
@@ -296,7 +296,7 @@ The Conspiracy conducts various operations to undermine the current regime:
 
 ### Pressure-Based Defenses
 
-The Conspiracy uses the extreme environment of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] as a natural defense system:
+The Conspiracy uses the extreme environment of [[02_Worldbuilding/Places/Aquabyssos]] as a natural defense system:
 
 **Pressure Barriers** (Environmental Hazard)
 - Artificially created zones of extreme pressure
@@ -314,7 +314,7 @@ The Conspiracy uses the extreme environment of [[vault_backup_20250813_073007/02
 
 **Pressure Code** (Unique Language)
 - Complex system using pressure variations to convey information
-- Requires proficiency in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Linguistics]] to understand
+- Requires proficiency in [[02_Worldbuilding/Lore/Pressure Linguistics]] to understand
 - Cannot be intercepted by conventional magical means
 - Takes 10 minutes to decode simple messages, 1 hour for complex ones
 
@@ -338,7 +338,7 @@ Regular procedures to identify potential informants or double agents within thei
 
 ### The Double Agent
 
-A high-ranking member of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]] approaches the party claiming to be part of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Conspiracy]] and seeking their help with a critical mission. However:
+A high-ranking member of the [[02_Worldbuilding/Lore/The Abyssal Court]] approaches the party claiming to be part of the [[02_Worldbuilding/Lore/Pressure Conspiracy]] and seeking their help with a critical mission. However:
 
 - Their true loyalty remains unclear
 - The mission could be a trap set by the government
@@ -355,7 +355,7 @@ The party discovers evidence of the Conspiracy's existence and must decide wheth
 - Both sides offer compelling arguments for their positions
 - The evidence reveals corruption on both sides of the conflict
 - Exposure of the Conspiracy would also reveal government crimes
-- The party's decision will affect the future of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- The party's decision will affect the future of [[02_Worldbuilding/Places/Aquabyssos]]
 
 *Level Range: 8-14*
 *Themes: Investigation, moral choice, political consequences*
@@ -374,7 +374,7 @@ The party is recruited (knowingly or unknowingly) to infiltrate either the Consp
 
 ### The Pressure War
 
-Open conflict has erupted between the Conspiracy and the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]], threatening to tear [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] apart. The party must:
+Open conflict has erupted between the Conspiracy and the [[02_Worldbuilding/Lore/The Abyssal Court]], threatening to tear [[02_Worldbuilding/Places/Aquabyssos]] apart. The party must:
 
 - Navigate a civil war environment where allegiances are unclear
 - Protect innocent civilians caught in the crossfire
@@ -386,7 +386,7 @@ Open conflict has erupted between the Conspiracy and the [[vault_backup_20250813
 
 ### The Secret Alliance
 
-The party discovers that the Conspiracy has formed an alliance with surface world revolutionaries or foreign powers planning to invade [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. They must:
+The party discovers that the Conspiracy has formed an alliance with surface world revolutionaries or foreign powers planning to invade [[02_Worldbuilding/Places/Aquabyssos]]. They must:
 
 - Investigate the true nature and extent of this alliance
 - Determine whether the external involvement is beneficial or harmful
@@ -398,23 +398,23 @@ The party discovers that the Conspiracy has formed an alliance with surface worl
 
 ## Connections to Other Locations
 
-The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Conspiracy]] maintains hidden connections throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and beyond:
+The [[02_Worldbuilding/Lore/Pressure Conspiracy]] maintains hidden connections throughout [[02_Worldbuilding/Places/Aquabyssos]] and beyond:
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Market]]**: Economic intelligence and recruitment ground
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thermal Vent Communities]]**: Remote safe houses and training facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]]**: Target of infiltration and surveillance efforts
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Territories]]**: Source of popular support and local cells
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sunken Cities]]**: Historical justification and hidden meeting places
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Current Networks]]**: Communication and transportation systems
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Surface Breach Points]]**: Contact with surface world allies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crushing Depths]]**: Extreme environment providing natural security
+- **[[02_Worldbuilding/Lore/The Deep Market]]**: Economic intelligence and recruitment ground
+- **[[02_Worldbuilding/Lore/Thermal Vent Communities]]**: Remote safe houses and training facilities
+- **[[02_Worldbuilding/Lore/The Abyssal Court]]**: Target of infiltration and surveillance efforts
+- **[[02_Worldbuilding/Lore/Pressure Territories]]**: Source of popular support and local cells
+- **[[02_Worldbuilding/Lore/The Sunken Cities]]**: Historical justification and hidden meeting places
+- **[[02_Worldbuilding/Lore/Deep Current Networks]]**: Communication and transportation systems
+- **[[02_Worldbuilding/Lore/Surface Breach Points]]**: Contact with surface world allies
+- **[[02_Worldbuilding/Lore/Crushing Depths]]**: Extreme environment providing natural security
 - **[[Diplomatic Quarters]]**: Foreign intelligence operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Coral Gardens]]**: Cover for clandestine activities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ancient Ruins]]**: Hidden weapon caches and secret facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Pressure Storm Region]]**: Natural camouflage for operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underground River Systems]]**: Alternative transportation routes
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Archives]]**: Target for intelligence gathering
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Political Prison Complexes]]**: Sites for prisoner liberation operations
+- **[[02_Worldbuilding/Lore/The Coral Gardens]]**: Cover for clandestine activities
+- **[[02_Worldbuilding/Lore/Ancient Ruins]]**: Hidden weapon caches and secret facilities
+- **[[02_Worldbuilding/Lore/The Pressure Storm Region]]**: Natural camouflage for operations
+- **[[02_Worldbuilding/Lore/Underground River Systems]]**: Alternative transportation routes
+- **[[02_Worldbuilding/Lore/Deep Archives]]**: Target for intelligence gathering
+- **[[02_Worldbuilding/Lore/Political Prison Complexes]]**: Sites for prisoner liberation operations
 
 ## Equipment and Resources
 
@@ -423,7 +423,7 @@ The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Conspiracy]] m
 #### Pressure Suits
 *Rare magic items*
 - Provide immunity to pressure damage up to crushing depths
-- Include built-in communication systems using [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Codes]]
+- Include built-in communication systems using [[02_Worldbuilding/Lore/Pressure Codes]]
 - Feature compartments for concealed weapons and documents
 - Self-destruct mechanisms to prevent capture of sensitive equipment
 
@@ -432,7 +432,7 @@ The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Conspiracy]] m
 - Allow secure communication through pressure wave manipulation
 - Range of 50 miles in deep water environments
 - Cannot be intercepted by conventional magical means
-- Require attunement and knowledge of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Linguistics]]
+- Require attunement and knowledge of [[02_Worldbuilding/Lore/Pressure Linguistics]]
 
 #### Dissolution Charges
 *Uncommon explosive devices*
@@ -461,15 +461,15 @@ Devices that create localized areas of extreme low pressure, causing explosive d
 #### Current Riders
 Specialized underwater vehicles designed for rapid, stealthy transportation through ocean currents and pressure zones.
 
-The **Pressure Conspiracy** represents a complex web of political intrigue and revolutionary fervor that threatens to reshape the entire political landscape of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], where the crushing weight of the depths serves as both obstacle and opportunity for those who dare to challenge the established order.
+The **Pressure Conspiracy** represents a complex web of political intrigue and revolutionary fervor that threatens to reshape the entire political landscape of [[02_Worldbuilding/Places/Aquabyssos]], where the crushing weight of the depths serves as both obstacle and opportunity for those who dare to challenge the established order.
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temporal Navigation]]
+- [[02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Places/Temporal Navigation]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[02_Worldbuilding/Quests/The Whispering Expanse]]
 
 ## Player-Facing Summary
 
@@ -485,6 +485,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Pressure Conspiracy]]
+- [[02_Worldbuilding/Places/The Pressure Conspiracy]]
 
 <!-- enriched: true -->

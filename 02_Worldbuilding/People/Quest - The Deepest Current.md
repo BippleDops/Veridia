@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Scale-Walker]]
+- [[02_Worldbuilding/People/Captain Scale-Walker]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Scale-Walker]]
+- [[02_Worldbuilding/People/Captain Scale-Walker]]
 
 ## Player-Facing Summary
 

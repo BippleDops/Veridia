@@ -64,12 +64,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchants]]
+- [[02_Worldbuilding/People/Memory Merchants]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Find the Grief Bomb]]
+- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[02_Worldbuilding/Quests/Find the Grief Bomb]]

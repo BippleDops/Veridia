@@ -1,32 +1,28 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
 type: Lore
-updated: '2025-08-13T12:34:29.295484+00:00'
+status: complete
+created: '2025-08-11'
+updated: '2025-08-13T01:18:35.094096+00:00'
 world: Both
+tags:
+- active
+- both
+- lore
 ---
-
 
 
 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[Deep Mother]]
+- [[The Convergence Point]]
+- [[Timeline of the Drowning]]
 - [[02_Worldbuilding/People/High Priestess Scylla Deepdream]]
 - [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
 - [[02_Worldbuilding/Places/The Hadal Depths]]

@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reputation System]]
+- [[02_Worldbuilding/Lore/Reputation System]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reputation System]]
+- [[02_Worldbuilding/Lore/Reputation System]]
 
 ## Player-Facing Summary
 

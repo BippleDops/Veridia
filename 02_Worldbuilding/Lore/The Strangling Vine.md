@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quest - The Root Network]]
+- [[02_Worldbuilding/Places/Quest - The Root Network]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Root Network]]
+- [[02_Worldbuilding/People/Quest - The Root Network]]
 
 ## Player-Facing Summary
 

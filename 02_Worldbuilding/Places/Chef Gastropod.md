@@ -29,11 +29,11 @@ world: Both
 *Premier Culinary Destination of the Deep Realm*
 
 > *"Where the flavors of the abyss dance with the artistry of true masters, where every meal is a journey through the depths of both ocean and imagination, where Chef Gastropod transforms the bounty of the sea into symphonies of taste that would make even the kraken weep with joy."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Culinary Critic Marina Tastebud]], *The Deep Dining Guide*
+> — [[02_Worldbuilding/Places/Culinary Critic Marina Tastebud]], *The Deep Dining Guide*
 
 ## Overview
 
-The Gastropod's Kitchen stands as the undisputed crown jewel of underwater cuisine in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], a magnificent restaurant establishment that has elevated deep-sea dining to an art form. Located in the prestigious [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District]], this renowned culinary destination occupies a converted coral mansion that has been transformed into a temple of gastronomic excellence. For over three decades, the restaurant has been helmed by the legendary Chef Gastropod, whose innovative techniques and passionate dedication to underwater cuisine have earned him recognition throughout the kingdom and beyond. The establishment serves not merely as a place to dine, but as a cultural institution where food becomes art, where social connections are forged over exquisite meals, and where the very essence of Aquabyssos culture is distilled into unforgettable culinary experiences.
+The Gastropod's Kitchen stands as the undisputed crown jewel of underwater cuisine in [[02_Worldbuilding/Places/Aquabyssos]], a magnificent restaurant establishment that has elevated deep-sea dining to an art form. Located in the prestigious [[02_Worldbuilding/Places/Harbor District]], this renowned culinary destination occupies a converted coral mansion that has been transformed into a temple of gastronomic excellence. For over three decades, the restaurant has been helmed by the legendary Chef Gastropod, whose innovative techniques and passionate dedication to underwater cuisine have earned him recognition throughout the kingdom and beyond. The establishment serves not merely as a place to dine, but as a cultural institution where food becomes art, where social connections are forged over exquisite meals, and where the very essence of Aquabyssos culture is distilled into unforgettable culinary experiences.
 
 ## Atmospheric Description
 
@@ -86,15 +86,15 @@ The Gastropod's Kitchen stands as the undisputed crown jewel of underwater cuisi
 
 **Personality**: Passionate and perfectionist, Chef Gastropod combines artistic temperament with rigorous technical precision. He speaks softly but intensely about food, often becoming so absorbed in describing a dish or technique that he forgets his audience. Despite his fame, he remains humble about his achievements while being uncompromising about quality standards. He has an encyclopedic knowledge of underwater ingredients and their properties, often sharing fascinating details about sourcing and preparation.
 
-**Background**: Originally trained in the royal kitchens of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]], Chef Gastropod left palace service to pursue his artistic vision of elevated underwater cuisine. His unique physiology allows him to taste ingredients in ways impossible for other species, contributing to his legendary ability to create perfect flavor combinations. Over the years, he has mentored dozens of young chefs who have gone on to establish their own successful restaurants throughout the kingdom.
+**Background**: Originally trained in the royal kitchens of [[02_Worldbuilding/Places/Abyssos Prime]], Chef Gastropod left palace service to pursue his artistic vision of elevated underwater cuisine. His unique physiology allows him to taste ingredients in ways impossible for other species, contributing to his legendary ability to create perfect flavor combinations. Over the years, he has mentored dozens of young chefs who have gone on to establish their own successful restaurants throughout the kingdom.
 
 ### Maître d' Pelagia Smoothcurrent - Front of House Manager
 **Role**: The elegant and unflappable front of house manager who orchestrates every aspect of the dining experience with balletic precision. She knows the preferences, allergies, and social connections of hundreds of regular patrons, allowing her to create seating arrangements that facilitate business deals, romantic encounters, or diplomatic negotiations as appropriate.
 
-**Skills**: Possesses an almost supernatural ability to predict and prevent problems before they occur, from managing reservation conflicts to discretely handling intoxicated nobles. Her extensive network of contacts throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] society makes her an informal information broker, though she maintains strict confidentiality about her patrons' affairs.
+**Skills**: Possesses an almost supernatural ability to predict and prevent problems before they occur, from managing reservation conflicts to discretely handling intoxicated nobles. Her extensive network of contacts throughout [[02_Worldbuilding/Places/Aquabyssos]] society makes her an informal information broker, though she maintains strict confidentiality about her patrons' affairs.
 
 ### Sommelier Bacchus Deepbottle - Wine Master
-**Expertise**: The restaurant's wine master possesses an extensive knowledge of underwater viticulture and fermentation techniques, maintaining the finest collection of rare wines and spirits in the kingdom. His recommendations are sought by connoisseurs throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], and his private wine dinners are legendary among the city's elite.
+**Expertise**: The restaurant's wine master possesses an extensive knowledge of underwater viticulture and fermentation techniques, maintaining the finest collection of rare wines and spirits in the kingdom. His recommendations are sought by connoisseurs throughout [[02_Worldbuilding/Places/Aquabyssos]], and his private wine dinners are legendary among the city's elite.
 
 **Character**: Jovial and sociable, Bacchus enjoys sharing stories about rare vintages and exotic brewing techniques. He often organizes wine-pairing dinners that become social events for the city's cultural and business leaders, fostering relationships that extend far beyond the restaurant's walls.
 
@@ -114,7 +114,7 @@ The Gastropod's Kitchen stands as the undisputed crown jewel of underwater cuisi
 **Level**: 5-8  
 **Situation**: Chef Gastropod's most famous recipe, the legendary "Symphony of the Abyss," has been stolen from the restaurant's secure recipe vault. This signature dish has been scheduled for a crucial diplomatic dinner honoring visiting surface ambassadors, and its absence could create a significant cultural incident. The theft appears to be an inside job, but determining the culprit requires discretion and finesse to avoid damaging the restaurant's reputation.
 
-**Investigation**: Characters must interview staff members, examine physical evidence, and navigate the complex relationships and rivalries within the restaurant's hierarchy. Clues lead through the competitive culinary world of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], involving rival restaurants, dissatisfied former employees, and potentially espionage by foreign culinary interests.
+**Investigation**: Characters must interview staff members, examine physical evidence, and navigate the complex relationships and rivalries within the restaurant's hierarchy. Clues lead through the competitive culinary world of [[02_Worldbuilding/Places/Aquabyssos]], involving rival restaurants, dissatisfied former employees, and potentially espionage by foreign culinary interests.
 
 **Complications**: The investigation must be conducted without disrupting normal restaurant operations or alerting the press to the crisis. Multiple suspects have plausible motives, and the true culprit may have planted evidence to implicate others. Time pressure increases as the diplomatic dinner approaches.
 
@@ -122,7 +122,7 @@ The Gastropod's Kitchen stands as the undisputed crown jewel of underwater cuisi
 
 ### The Poisoning Plot
 **Level**: 7-12  
-**Situation**: Several prominent nobles have fallen seriously ill after dining at the restaurant, with symptoms suggesting deliberate poisoning. Chef Gastropod's reputation and livelihood hang in the balance as accusations fly and the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] considers launching a formal investigation. The characters must uncover the truth behind the poisonings while protecting innocent lives and preserving the restaurant's standing.
+**Situation**: Several prominent nobles have fallen seriously ill after dining at the restaurant, with symptoms suggesting deliberate poisoning. Chef Gastropod's reputation and livelihood hang in the balance as accusations fly and the [[02_Worldbuilding/Places/Parliament of Echoes]] considers launching a formal investigation. The characters must uncover the truth behind the poisonings while protecting innocent lives and preserving the restaurant's standing.
 
 **Complexity**: The investigation reveals a complex conspiracy involving political rivals, business competition, and international intrigue. The poisoning method is sophisticated and untraceable, suggesting the involvement of skilled alchemists or assassins. Multiple parties have motives for framing the restaurant or harming the specific victims.
 
@@ -132,17 +132,17 @@ The Gastropod's Kitchen stands as the undisputed crown jewel of underwater cuisi
 
 ### The Culinary Competition Championship
 **Level**: 6-10  
-**Situation**: The kingdom's first official culinary championship has been organized, with Chef Gastropod representing [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] against celebrated chefs from other underwater civilizations. However, sabotage attempts, stolen ingredients, and mysterious accidents threaten to derail the competition and embarrass the kingdom on the international stage.
+**Situation**: The kingdom's first official culinary championship has been organized, with Chef Gastropod representing [[02_Worldbuilding/Places/Aquabyssos]] against celebrated chefs from other underwater civilizations. However, sabotage attempts, stolen ingredients, and mysterious accidents threaten to derail the competition and embarrass the kingdom on the international stage.
 
 **Adventure**: Characters serve as Chef Gastropod's support team, responsible for sourcing rare ingredients, protecting against sabotage, and ensuring fair competition. This requires travel to dangerous locations, negotiations with exotic suppliers, and counter-intelligence operations against rival teams.
 
 **Competition**: Each round of the competition presents unique challenges requiring different types of support from the characters. They might need to dive to crushing depths to harvest rare specimens, negotiate with territorial sea creatures, or protect the chef during high-pressure cooking challenges.
 
-**Victory**: Success brings international recognition to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] cuisine and establishes new trade relationships with other civilizations. The adventure provides opportunities for cultural exchange, diplomatic intrigue, and showcasing the unique aspects of underwater civilization.
+**Victory**: Success brings international recognition to [[02_Worldbuilding/Places/Aquabyssos]] cuisine and establishes new trade relationships with other civilizations. The adventure provides opportunities for cultural exchange, diplomatic intrigue, and showcasing the unique aspects of underwater civilization.
 
 ### The Celebrity Chef Crisis
 **Level**: 4-9  
-**Situation**: A famous surface chef has arrived in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] claiming that underwater cuisine is primitive compared to surface cooking. This visiting chef has challenged Chef Gastropod to a public cook-off, with the reputation of Aquabyssos culinary arts at stake. However, the visiting chef may not be what they seem, and their true motives could threaten more than just culinary pride.
+**Situation**: A famous surface chef has arrived in [[02_Worldbuilding/Places/Aquabyssos]] claiming that underwater cuisine is primitive compared to surface cooking. This visiting chef has challenged Chef Gastropod to a public cook-off, with the reputation of Aquabyssos culinary arts at stake. However, the visiting chef may not be what they seem, and their true motives could threaten more than just culinary pride.
 
 **Preparation**: Characters help Chef Gastropod prepare for the competition while investigating the mysterious visiting chef's background and true intentions. This involves researching surface cooking techniques, gathering intelligence on the challenger, and ensuring the competition remains fair and safe.
 
@@ -168,7 +168,7 @@ The Gastropod's Kitchen stands as the undisputed crown jewel of underwater cuisi
 **Hidden Recipes**: Among the standard recipes are hidden formulations for foods with powerful effects, including truth serums, love potions, and enhancement elixirs. Chef Gastropod rarely uses these recipes and never without careful consideration of the ethical implications, but their existence makes the vault a target for those seeking magical advantages.
 
 ### The Staff's Secret Society
-**Hidden Organization**: The restaurant's staff belongs to an informal secret society dedicated to preserving and advancing underwater culinary arts. Members share techniques, ingredients, and opportunities across multiple restaurants and noble households throughout the kingdom. This society serves as both professional network and mutual aid organization, but also maintains its own agenda regarding the development of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] culture.
+**Hidden Organization**: The restaurant's staff belongs to an informal secret society dedicated to preserving and advancing underwater culinary arts. Members share techniques, ingredients, and opportunities across multiple restaurants and noble households throughout the kingdom. This society serves as both professional network and mutual aid organization, but also maintains its own agenda regarding the development of [[02_Worldbuilding/Places/Aquabyssos]] culture.
 
 **Influence**: Through their positions in various establishments, society members have subtle but significant influence over social trends, political opinions, and cultural developments throughout the kingdom. They use this influence carefully to promote their vision of underwater civilization while maintaining their professional neutrality.
 
@@ -211,7 +211,7 @@ The Gastropod's Kitchen stands as the undisputed crown jewel of underwater cuisi
 **Application**: Learned recipes can be used to create temporary magical effects, impress NPCs, generate income through catering services, or support other adventures requiring specialized knowledge of food and cooking. Some recipes may have applications beyond cooking, such as creating perfumes, medicines, or even alchemical components.
 
 ### Professional Connections
-**Network**: Regular patronage of the restaurant provides access to Chef Gastropod's extensive network of suppliers, other chefs, noble patrons, and diplomatic contacts. These relationships can provide information, services, equipment, or support for various character activities throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and beyond.
+**Network**: Regular patronage of the restaurant provides access to Chef Gastropod's extensive network of suppliers, other chefs, noble patrons, and diplomatic contacts. These relationships can provide information, services, equipment, or support for various character activities throughout [[02_Worldbuilding/Places/Aquabyssos]] and beyond.
 
 **Opportunities**: The restaurant's role as an informal diplomatic venue means that characters who are known and trusted by the staff may be offered opportunities to participate in significant political or cultural events. These opportunities can lead to advancement, rewards, or involvement in major campaign storylines.
 
@@ -249,27 +249,27 @@ The Gastropod's Kitchen stands as the undisputed crown jewel of underwater cuisi
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Courts]]
+- [[02_Worldbuilding/Places/Harbor District]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/Coral Courts]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chef Gastropod]]
+- [[02_Worldbuilding/Places/Chef Gastropod]]
 - [[Maître d' Pelagia Smoothcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sommelier Bacchus Deepbottle]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Culinary Critic Marina Tastebud]]
+- [[02_Worldbuilding/Places/Sommelier Bacchus Deepbottle]]
+- [[02_Worldbuilding/Places/Culinary Critic Marina Tastebud]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Symphony of the Abyss Recipe]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Underwater Cuisine Techniques]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Diplomatic Dining Protocol]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Rare Ingredient Network]]
+- [[02_Worldbuilding/Places/Symphony of the Abyss Recipe]]
+- [[02_Worldbuilding/Places/Underwater Cuisine Techniques]]
+- [[02_Worldbuilding/Places/Diplomatic Dining Protocol]]
+- [[02_Worldbuilding/Places/Rare Ingredient Network]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
 
 ## Player-Facing Summary
 
@@ -291,7 +291,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chef Gastropod]]
+- [[02_Worldbuilding/Places/Chef Gastropod]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]

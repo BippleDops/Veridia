@@ -28,11 +28,11 @@ world: Both
 *Where Two Worlds Reluctantly Meet*
 
 > *"Here, where the water kisses the sky and ancient grudges refuse to drown, every handshake carries the weight of history, every trade deal echoes with the memory of war, and every sunrise brings new reasons to hope or despair."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Marina Bridgewater]], Chief Diplomatic Liaison
+> — [[02_Worldbuilding/Places/Ambassador Marina Bridgewater]], Chief Diplomatic Liaison
 
 ## Overview
 
-Surface Tensions exists as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most politically charged and diplomatically complex location, a unique interface zone where the underwater realm meets the surface world in an uneasy balance of cooperation and conflict. Built around a series of artificial islands and floating platforms connected by underwater passages, this settlement serves as the primary point of contact between the ocean depths and the lands above. Here, diplomats from both worlds attempt to navigate centuries of mistrust, traders seek profit despite political barriers, and refugees from both realms find themselves caught between two worlds that neither fully accepts them.
+Surface Tensions exists as [[02_Worldbuilding/Places/Aquabyssos]]'s most politically charged and diplomatically complex location, a unique interface zone where the underwater realm meets the surface world in an uneasy balance of cooperation and conflict. Built around a series of artificial islands and floating platforms connected by underwater passages, this settlement serves as the primary point of contact between the ocean depths and the lands above. Here, diplomats from both worlds attempt to navigate centuries of mistrust, traders seek profit despite political barriers, and refugees from both realms find themselves caught between two worlds that neither fully accepts them.
 
 ## History and Foundation
 
@@ -304,21 +304,21 @@ Surface Tensions exists as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 
 ### Diplomatic Leadership
 
-#### Ambassador [[vault_backup_20250813_073007/02_Worldbuilding/Places/Marina Bridgewater]]
+#### Ambassador [[02_Worldbuilding/Places/Marina Bridgewater]]
 **Position**: Chief Diplomatic Liaison coordinating all inter-realm diplomatic activities  
 **Background**: Career diplomat with extensive experience in both surface and underwater relations  
 **Reputation**: Respected by all sides for fairness, competence, and commitment to peace  
 **Challenge**: Balancing competing demands while maintaining progress toward reconciliation  
 **Vision**: Long-term vision of complete normalization of surface-underwater relations
 
-#### Surface Envoy [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Sky Horizon]]
+#### Surface Envoy [[02_Worldbuilding/People/Captain Sky Horizon]]
 **Role**: Senior diplomatic representative of the Surface Coalition  
 **Experience**: Former military officer bringing security perspective to diplomatic work  
 **Approach**: Pragmatic approach focusing on concrete progress rather than idealistic goals  
 **Relationships**: Strong relationships with surface military and political leadership  
 **Concern**: Primary concern with protecting surface interests while maintaining peace
 
-#### Deep Ambassador [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Deepvoice]]
+#### Deep Ambassador [[02_Worldbuilding/Places/Current Deepvoice]]
 **Authority**: Senior underwater diplomatic representative with extensive authority  
 **Background**: Elder statesman with decades of experience in underwater politics  
 **Wisdom**: Renowned for wisdom and understanding of complex political dynamics  
@@ -327,14 +327,14 @@ Surface Tensions exists as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 
 ### Commercial Leaders
 
-#### Trade Master [[vault_backup_20250813_073007/02_Worldbuilding/Places/Profit Crosscurrent]]
+#### Trade Master [[02_Worldbuilding/Places/Profit Crosscurrent]]
 **Business**: Successful merchant specializing in high-value inter-realm trade  
 **Innovation**: Pioneer in developing new products and services for mixed markets  
 **Network**: Extensive commercial network spanning both surface and underwater markets  
 **Influence**: Significant influence over commercial policies and trade regulations  
 **Philosophy**: Belief that commercial integration will eventually lead to political reconciliation
 
-#### Market Coordinator [[vault_backup_20250813_073007/02_Worldbuilding/Places/Exchange Fairflow]]
+#### Market Coordinator [[02_Worldbuilding/Places/Exchange Fairflow]]
 **Role**: Administrator overseeing daily operations of the exchange markets  
 **Skills**: Expert in managing complex multi-cultural commercial operations  
 **Reputation**: Trusted by all sides for fairness and competence  
@@ -343,14 +343,14 @@ Surface Tensions exists as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 
 ### Community Leaders
 
-#### Integration Advocate [[vault_backup_20250813_073007/02_Worldbuilding/Places/Unity Hopecurrent]]
+#### Integration Advocate [[02_Worldbuilding/Places/Unity Hopecurrent]]
 **Mission**: Community leader promoting successful integration of mixed populations  
 **Background**: Mixed heritage individual with personal experience of cultural challenges  
 **Programs**: Developer of successful integration programs and cultural exchange initiatives  
 **Support**: Strong support among mixed communities and moderate elements from both realms  
 **Opposition**: Opposition from extremist elements who see integration as cultural betrayal
 
-#### Refugee Coordinator [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sanctuary Safeharbor]]
+#### Refugee Coordinator [[02_Worldbuilding/Places/Sanctuary Safeharbor]]
 **Service**: Administrator of refugee services and resettlement programs  
 **Experience**: Extensive experience in humanitarian work and crisis management  
 **Compassion**: Known for compassion and dedication to helping displaced populations  
@@ -359,14 +359,14 @@ Surface Tensions exists as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 
 ### Security Personnel
 
-#### Security Chief [[vault_backup_20250813_073007/02_Worldbuilding/Places/Guardian Neutralwatch]]
+#### Security Chief [[02_Worldbuilding/Places/Guardian Neutralwatch]]
 **Responsibility**: Overall security for the entire Surface Tensions complex  
 **Background**: Joint training in both surface and underwater security techniques  
 **Coordination**: Expert at coordinating security operations between different agencies  
 **Intelligence**: Access to intelligence networks from both realms  
 **Balance**: Balancing security needs with diplomatic and commercial requirements
 
-#### Border Captain [[vault_backup_20250813_073007/02_Worldbuilding/Places/Patrol Boundaryrider]]
+#### Border Captain [[02_Worldbuilding/Places/Patrol Boundaryrider]]
 **Command**: Military commander of joint border patrol operations  
 **Training**: Specialized training in multi-realm military cooperation  
 **Diplomacy**: Combining military expertise with diplomatic sensitivity  
@@ -606,28 +606,28 @@ Surface Tensions exists as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+### [[02_Worldbuilding/Places/Abyssos Prime]]
 **Politics**: Major underwater political power with significant influence over relations  
 **Diplomacy**: Diplomatic relations channeled through Surface Tensions  
 **Trade**: Growing trade relationships despite political tensions  
 **Intelligence**: Intelligence sharing on mutual threats  
 **Future**: Key player in determining future of surface-underwater relations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+### [[02_Worldbuilding/Places/Parliament of Echoes]]
 **Representation**: Political representation for underwater communities in surface relations  
 **Policy**: Influence over policies affecting surface-underwater relations  
 **Debate**: Forum for debating issues related to surface contact  
 **Decisions**: Decision-making authority over major policy changes  
 **Democracy**: Democratic input into diplomatic and trade policies
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
+### [[02_Worldbuilding/Places/The Free Current]]
 **Independence**: Independent trading community with minimal political interference  
 **Commerce**: Commercial relationships less affected by political tensions  
 **Innovation**: Innovation in inter-realm trading techniques  
 **Neutrality**: Maintained neutrality beneficial for diplomatic mediation  
 **Example**: Example of successful cooperation despite political differences
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+### [[02_Worldbuilding/Places/Port Meridian]]
 **Gateway**: Primary surface gateway for surface-underwater trade  
 **Facilities**: Specialized facilities for handling inter-realm commerce  
 **Security**: Security cooperation managing threats to trade  
@@ -637,7 +637,7 @@ Surface Tensions exists as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Secret Alliance
-> [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Marina Bridgewater]] is secretly part of a covert alliance of moderate leaders from both surface and underwater communities working to gradually move both sides toward full integration. They communicate through hidden channels and coordinate policies to create favorable conditions for peace, but they must be extremely careful not to be discovered by extremist factions or their own governments. The alliance includes high-ranking officials from multiple nations who are risking their careers and lives for the cause of peace.
+> [[02_Worldbuilding/Places/Ambassador Marina Bridgewater]] is secretly part of a covert alliance of moderate leaders from both surface and underwater communities working to gradually move both sides toward full integration. They communicate through hidden channels and coordinate policies to create favorable conditions for peace, but they must be extremely careful not to be discovered by extremist factions or their own governments. The alliance includes high-ranking officials from multiple nations who are risking their careers and lives for the cause of peace.
 
 > [!secret] DM Secret - The Ancient Artifact
 > Buried beneath the main diplomatic pavilion is an ancient artifact from before the great separation, a crystal that amplifies emotional connections and promotes understanding between different species. The artifact's influence is subtle but real, contributing to the success of diplomatic negotiations. Only a few of the oldest residents know of its existence, and they've been secretly maintaining it while keeping its location hidden. If the artifact were destroyed or removed, diplomatic relations would become much more difficult.
@@ -648,27 +648,27 @@ Surface Tensions exists as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/Port Meridian]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Marina Bridgewater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Sky Horizon]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Deepvoice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Profit Crosscurrent]]
+- [[02_Worldbuilding/Places/Ambassador Marina Bridgewater]]
+- [[02_Worldbuilding/People/Captain Sky Horizon]]
+- [[02_Worldbuilding/Places/Current Deepvoice]]
+- [[02_Worldbuilding/Places/Profit Crosscurrent]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Boundary Accords]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inter-Realm Diplomacy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface-Underwater Trade]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cultural_Organizations/Cultural Integration]]
+- [[02_Worldbuilding/Places/The Boundary Accords]]
+- [[02_Worldbuilding/Places/Inter-Realm Diplomacy]]
+- [[02_Worldbuilding/Places/Surface-Underwater Trade]]
+- [[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Integration]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
 
 ## Player-Facing Summary
 
@@ -690,6 +690,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Tensions]]
+- [[02_Worldbuilding/Places/Surface Tensions]]
 
 <!-- enriched: true -->

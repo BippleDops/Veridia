@@ -23,7 +23,7 @@ world: Both
 
 # Vehicle Systems Index
 
-Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and Aethermoor. Every system below integrates with: [[vault_backup_20250813_073007/03_Mechanics/Complete Pressure Adaptation System]], [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]], [[vault_backup_20250813_073007/03_Mechanics/Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]].
+Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and Aethermoor. Every system below integrates with: [[03_Mechanics/Complete Pressure Adaptation System]], [[03_Mechanics/Complete Reality Merger System]], [[03_Mechanics/Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], and [[02_Worldbuilding/Lore/Deep Mother]].
 
 ## Core Vehicle Rules
 - [[Vehicle_Core_Rules|Vehicle Core Rules]] — Universal stats, piloting, pressure/altitude, sanity, memory engines, reality stability, crew roles, 3D movement, and combat phases.
@@ -56,7 +56,7 @@ Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and
 - [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_A|Mixed Events Pack A]] — 50 cross-world encounters
 - [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_B|Mixed Events Pack B]] — 50 more cross-world encounters
  - [[06_GM_Resources/Travel/Events/Depth_Events_Pack_C|Depth Events Pack C]] — 50 depth encounters
- - [[vault_backup_20250813_073007/06_GM_Resources/Travel/Events/Sky_Events_Pack_C]] — 50 sky encounters
+ - [[06_GM_Resources/Travel/Events/Sky_Events_Pack_C]] — 50 sky encounters
  - [[06_GM_Resources/Travel/Events/Merger_Events_Pack_C|Merger Events Pack C]] — 50 breach encounters
  - [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_C|Mixed Events Pack C]] — 50 cross-world encounters
  - [[06_GM_Resources/Travel/Events/Depth_Events_Pack_D|Depth Events Pack D — Faction Spotlight]]
@@ -108,12 +108,12 @@ SORT file.name ASC
 ```
 
 ## Integration Map
-- Pressure/Altitude: [[vault_backup_20250813_073007/03_Mechanics/Complete Pressure Adaptation System]] • [[vault_backup_20250813_073007/03_Mechanics/Depth Survival Mechanics]]
-- Reality Stability & Anchors: [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]]
-- Warfare & Fleets: [[vault_backup_20250813_073007/03_Mechanics/Complete Faction Warfare System]]
+- Pressure/Altitude: [[03_Mechanics/Complete Pressure Adaptation System]] • [[03_Mechanics/Depth Survival Mechanics]]
+- Reality Stability & Anchors: [[03_Mechanics/Complete Reality Merger System]]
+- Warfare & Fleets: [[03_Mechanics/Complete Faction Warfare System]]
 - Sanity & Horror: [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - Memory Engines/Charts: [[Memory Trading Economy System|Memory Trading Economy]]
-- Eldritch Influence: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
+- Eldritch Influence: [[02_Worldbuilding/Lore/Deep Mother]]
 
 ## Player-Facing Summary
 

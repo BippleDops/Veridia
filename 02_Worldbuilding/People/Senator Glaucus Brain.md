@@ -31,8 +31,8 @@ world: Both
 ### Quick Reference
 - **Name**: Senator Glaucus
 - **Role**: Senior Senator, Shadow Containment Committee Chair
-- **Faction**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- **Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- **Faction**: [[02_Worldbuilding/Places/Parliament of Echoes]]
+- **Location**: [[02_Worldbuilding/Places/Parliament of Echoes]]
 - **Status**: Alive (Shadow-compromised)
 - **Threat**: 3/10
 
@@ -80,23 +80,23 @@ An elderly statesman whose body shows decades of depth adaptation - slightly tra
 
 | Name | Relationship | Trust Level |
 |------|--------------|-------------|
-| [[vault_backup_20250813_073007/02_Worldbuilding/People/Archon Meredith Saltweaver]] | Political ally, suspicious lately | 🟢🟢🟢⚪⚪ |
-| [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Garrett Stormcutter]] | Former student, loyal supporter | 🟢🟢🟢🟢⚪ |
-| [[vault_backup_20250813_073007/02_Worldbuilding/People/The Party]] | Useful investigators | 🟢🟢🟢⚪⚪ |
+| [[02_Worldbuilding/People/Archon Meredith Saltweaver]] | Political ally, suspicious lately | 🟢🟢🟢⚪⚪ |
+| [[02_Worldbuilding/People/Captain Garrett Stormcutter]] | Former student, loyal supporter | 🟢🟢🟢🟢⚪ |
+| [[02_Worldbuilding/People/The Party]] | Useful investigators | 🟢🟢🟢⚪⚪ |
 
 ### 🔴 Enemies & Rivals
-- **Primary Rival**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]
+- **Primary Rival**: [[02_Worldbuilding/People/Shadow Duchess Nyx]]
   - **Conflict**: She represents everything he fears about shadow independence
 - **Secondary Enemies**: 
-  - [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] - Blames Glaucus for not reuniting his fragments
+  - [[02_Worldbuilding/People/The Scattered Emperor]] - Blames Glaucus for not reuniting his fragments
 
 ### 🟡 Neutral/Complex
-- **Complicated**: [[vault_backup_20250813_073007/02_Worldbuilding/People/His Own Shadow]]
+- **Complicated**: [[02_Worldbuilding/People/His Own Shadow]]
   - **Dynamic**: They want different things but are bound together
 
 ### 📊 Faction Standing
 Current Reputation: **Respected but Declining**
-- Superior: [[vault_backup_20250813_073007/02_Worldbuilding/People/Parliament High Council]]
+- Superior: [[02_Worldbuilding/People/Parliament High Council]]
 - Peers: Other Senior Senators (growing suspicious)
 - Subordinates: Junior senators, investigation committee
 
@@ -261,20 +261,20 @@ Current Reputation: **Respected but Declining**
 ## 🔗 Connections
 
 ### Related NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archon Meredith Saltweaver]] - Political ally (actually traitor)
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]] - Primary opposition
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] - Hidden threat
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Marius]] - Dissolved predecessor (cautionary tale)
+- [[02_Worldbuilding/People/Archon Meredith Saltweaver]] - Political ally (actually traitor)
+- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Primary opposition
+- [[02_Worldbuilding/People/The Scattered Emperor]] - Hidden threat
+- [[02_Worldbuilding/People/Senator Marius]] - Dissolved predecessor (cautionary tale)
 
 ### Associated Locations
-- Primary: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- Secondary: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Senator's Private Chambers]]
-- Hidden: [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Binding Sanctum]]
+- Primary: [[02_Worldbuilding/Places/Parliament of Echoes]]
+- Secondary: [[02_Worldbuilding/Places/Senator's Private Chambers]]
+- Hidden: [[02_Worldbuilding/People/Shadow Binding Sanctum]]
 
 ### Connected Quests
 - Main: [[01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy|01 Campaigns/Aquabyssos/ Investigations/The Shadow Parliament Conspiracy]]
-- Side: [[vault_backup_20250813_073007/02_Worldbuilding/People/Find the Shadow Cure]]
-- Personal: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Senator's Last Stand]]
+- Side: [[02_Worldbuilding/People/Find the Shadow Cure]]
+- Personal: [[02_Worldbuilding/Lore/The Senator's Last Stand]]
 
 ---
 **NPC Brain Active** | *Last Updated: Session 10*
@@ -307,8 +307,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Find the Shadow Cure]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/His Own Shadow]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Parliament High Council]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Marius]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Binding Sanctum]]
+- [[02_Worldbuilding/People/Find the Shadow Cure]]
+- [[02_Worldbuilding/People/His Own Shadow]]
+- [[02_Worldbuilding/People/Parliament High Council]]
+- [[02_Worldbuilding/People/Senator Marius]]
+- [[02_Worldbuilding/People/Shadow Binding Sanctum]]

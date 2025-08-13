@@ -183,10 +183,10 @@ The pressure-influenced speech patterns and linguistic variations found througho
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Wind Song Linguistic Guide]]
-- [[vault_backup_20250813_073007/03_Mechanics/Aquabyssos Languages]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Common Idioms and Sayings]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professional Terminology]]
+- [[02_Worldbuilding/Lore/Wind Song Linguistic Guide]]
+- [[03_Mechanics/Aquabyssos Languages]]
+- [[02_Worldbuilding/Lore/Common Idioms and Sayings]]
+- [[02_Worldbuilding/Lore/Professional Terminology]]
 
 ## Player-Facing Summary
 

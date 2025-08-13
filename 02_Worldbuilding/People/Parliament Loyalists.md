@@ -23,13 +23,13 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator]]
+- [[02_Worldbuilding/People/Senator]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Assassin]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator]]
+- [[02_Worldbuilding/People/Assassin]]
+- [[02_Worldbuilding/People/Senator]]
 
 ## Player-Facing Summary
 

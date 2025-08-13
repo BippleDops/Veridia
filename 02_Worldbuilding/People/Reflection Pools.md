@@ -91,8 +91,8 @@ Use the Reflection Pools as plot devices to provide information, foreshadow even
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Original Glaucus]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]
+- [[02_Worldbuilding/People/Original Glaucus]]
+- [[02_Worldbuilding/People/Senator Glaucus]]
 
 
 ## Appearance
@@ -134,6 +134,6 @@ Legends speak of Reflection Pools as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Reflection Pools]]
+- [[02_Worldbuilding/People/Reflection Pools]]
 
 <!-- enriched: true -->

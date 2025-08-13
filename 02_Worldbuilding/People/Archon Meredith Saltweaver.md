@@ -27,12 +27,12 @@ world: Both
 # Archon Meredith Saltweaver
 
 ## Overview
-Archon Meredith Saltweaver rules [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]] and the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]] with an iron fist wrapped in silk. A master politician and powerful hydromancer, she maintains her position through careful manipulation, strategic alliances, and rumored dark pacts. She appears as a regal woman in her 50s, though magic keeps her looking younger. Her skin has a blue-green tint from partial adaptation, and her eyes glow with an unsettling cerulean light.
+Archon Meredith Saltweaver rules [[02_Worldbuilding/Places/New Tethys]] and the [[02_Worldbuilding/Places/Tethyan Hegemony]] with an iron fist wrapped in silk. A master politician and powerful hydromancer, she maintains her position through careful manipulation, strategic alliances, and rumored dark pacts. She appears as a regal woman in her 50s, though magic keeps her looking younger. Her skin has a blue-green tint from partial adaptation, and her eyes glow with an unsettling cerulean light.
 
 ## Personality
 - **Public Face**: Charismatic, reasonable, concerned for citizens' welfare
 - **True Nature**: Ruthlessly pragmatic, paranoid, increasingly influenced by whispers
-- **Motivations**: Maintain power, prepare for [[vault_backup_20250813_073007/02_Worldbuilding/People/The Emergence]], serve hidden masters
+- **Motivations**: Maintain power, prepare for [[02_Worldbuilding/People/The Emergence]], serve hidden masters
 - **Fears**: Loss of control, full transformation, the truth being revealed
 
 ## Abilities
@@ -45,35 +45,35 @@ Archon Meredith Saltweaver rules [[vault_backup_20250813_073007/02_Worldbuilding
 ## Relationships
 
 ### Allies
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]] - Controls her financial networks
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]] - Her loyal enforcer
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]] - Her voice in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Mindwell]] - Provides information from the Conservatory
+- [[02_Worldbuilding/People/Banker Titus Goldcurrent]] - Controls her financial networks
+- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]] - Her loyal enforcer
+- [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]] - Her voice in [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/Keeper Elara Mindwell]] - Provides information from the Conservatory
 
 ### Rivals
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]] - Contests her authority
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Duke Cyrus Reefheart]] - Ideological opponent
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Religious influence threatens her
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Contests her authority
+- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Ideological opponent
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Religious influence threatens her
 
 ### Secret Connections
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Deepmind Conspiracy]] - Unknowingly serves its will
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Broker Mist]] - Secretly funding the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]] as insurance
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Doctor Silas Voidtouch]] - Supplies her with adaptation suppressants
+- [[02_Worldbuilding/People/The Deepmind Conspiracy]] - Unknowingly serves its will
+- [[02_Worldbuilding/People/Shadow Broker Mist]] - Secretly funding the [[02_Worldbuilding/Places/Free Current]] as insurance
+- [[02_Worldbuilding/Places/Doctor Silas Voidtouch]] - Supplies her with adaptation suppressants
 
 ## History
-Born to merchant family before the drowning's completion, Meredith witnessed the final transformations of the surface world. She maneuvered through the chaos to seize power, supposedly making a deal with something in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Cerulean Trench]] for the strength to rule. Has ruled New Tethys for 47 years.
+Born to merchant family before the drowning's completion, Meredith witnessed the final transformations of the surface world. She maneuvered through the chaos to seize power, supposedly making a deal with something in [[02_Worldbuilding/Places/The Cerulean Trench]] for the strength to rule. Has ruled New Tethys for 47 years.
 
 ## Current Activities
 1. Implementing new taxation on depth travelers
 2. Secretly building shelters for "The Emergence"
-3. Investigating the [[vault_backup_20250813_073007/02_Worldbuilding/People/Crown Dome Conspiracy]]
-4. Negotiating with [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]] for greater authority
+3. Investigating the [[02_Worldbuilding/People/Crown Dome Conspiracy]]
+4. Negotiating with [[02_Worldbuilding/Places/The Bathyal Palace]] for greater authority
 5. Experiencing increasingly vivid dreams of the depths
 
 ## Secrets
 > [!warning] DM Only
 > - Already under full control of the Deepmind entity
-> - Has a twin sister hidden in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Primordial Vaults]]
+> - Has a twin sister hidden in [[02_Worldbuilding/Places/The Primordial Vaults]]
 > - Knows the true cause of the drowning
 > - Planning to sacrifice New Tethys to prevent something worse
 > - Her glowing eyes allow the entity to see through her
@@ -86,7 +86,7 @@ Born to merchant family before the drowning's completion, Meredith witnessed the
 
 ## Plot Hooks
 - Hiring adventurers to investigate threats to her rule
-- Seeking artifacts from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Primordial Vaults]]
+- Seeking artifacts from [[02_Worldbuilding/Places/The Primordial Vaults]]
 - Needs deniable assets for operations against rivals
 - Strange behavior suggesting internal struggle
 
@@ -106,8 +106,8 @@ Born to merchant family before the drowning's completion, Meredith witnessed the
 - **Memory Bottle** - Contains her last human memories
 
 ## Locations
-- Primary: [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]] - Crown Dome
-- Secondary: [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]] - During summits
+- Primary: [[02_Worldbuilding/Places/New Tethys]] - Crown Dome
+- Secondary: [[02_Worldbuilding/Places/The Bathyal Palace]] - During summits
 - Secret: Hidden sanctum in the Merchant Depths
 
 
@@ -148,19 +148,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archon Meredith Saltweaver]]
+- [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Broker Mist]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Deepmind Conspiracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Emergence]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Mindwell]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]]
+- [[02_Worldbuilding/People/Shadow Broker Mist]]
+- [[02_Worldbuilding/People/The Deepmind Conspiracy]]
+- [[02_Worldbuilding/People/The Emergence]]
+- [[02_Worldbuilding/Places/Ambassador Lysandra Silvertonge]]
+- [[02_Worldbuilding/Places/Free Current]]
+- [[02_Worldbuilding/Places/Keeper Elara Mindwell]]
+- [[02_Worldbuilding/Places/Tethyan Hegemony]]

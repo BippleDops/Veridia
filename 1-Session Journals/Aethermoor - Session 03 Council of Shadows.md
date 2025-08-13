@@ -5,19 +5,19 @@ created: '2025-08-11'
 date_played: null
 estimated_time: 3-4 hours
 level: 3
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+location: '[[02_Worldbuilding/Places/Port Meridian]]
   - Noble Quarter'
 npcs_featured:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silver Mask]]'
+- '[[02_Worldbuilding/People/Lord Aurelius Goldwave]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Brother Marcus Steelbane]]'
+- '[[02_Worldbuilding/Lore/Silver Mask]]'
 obsidianUIMode: preview
 quests_advanced:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Political Intrigue of Meridian]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Seven Shards Mystery]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Investigate the Crystal Plague]]'
+- '[[02_Worldbuilding/Places/Political Intrigue of Meridian]]'
+- '[[02_Worldbuilding/Places/The Seven Shards Mystery]]'
+- '[[02_Worldbuilding/People/Investigate the Crystal Plague]]'
 session_number: 3
 status: draft
 tags:
@@ -48,12 +48,12 @@ world: Aethermoor
 > *"In politics, the deadliest shadows are cast by those claiming to bring light."*
 
 ## 🎭 Strong Start
-The party is summoned to an emergency council, but arrives to find [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]] murdered in his study, his body partially crystallized. A Purist Coalition pin is clutched in his dead hand, but the crystal pattern suggests magical assassination. City guards are already trying to arrest a Crimson Hand suspect.
+The party is summoned to an emergency council, but arrives to find [[02_Worldbuilding/People/Lord Aurelius Goldwave]] murdered in his study, his body partially crystallized. A Purist Coalition pin is clutched in his dead hand, but the crystal pattern suggests magical assassination. City guards are already trying to arrest a Crimson Hand suspect.
 
 ## 🔍 Scenes
 
 ### Scene 1: The Murder Scene
-**Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Goldwave Manor]] study
+**Location**: [[02_Worldbuilding/Lore/Goldwave Manor]] study
 **Situation**: Investigating the lord's death before guards contaminate evidence
 **Conflict**: Political pressure from multiple factions
 
@@ -62,7 +62,7 @@ The party is summoned to an emergency council, but arrives to find [[vault_backu
 - Purist pin was placed post-mortem (no grip marks)
 - Hidden safe contains documents about plague origin
 - Window lock broken from inside, not outside
-- Traces of rare arcane component (only sold at [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Bazaar]])
+- Traces of rare arcane component (only sold at [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Bazaar]])
 
 **Skill Challenges**:
 - Investigation DC 14: Find hidden safe
@@ -73,8 +73,8 @@ The party is summoned to an emergency council, but arrives to find [[vault_backu
 **Discovery**: Lord Goldwave was about to reveal evidence about the plague's origin
 
 ### Scene 2: The Secret Council
-**Location**: Hidden chamber beneath [[vault_backup_20250813_073007/02_Worldbuilding/Places/Cathedral of Light]]
-**Situation**: [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] chairs emergency faction meeting
+**Location**: Hidden chamber beneath [[02_Worldbuilding/Places/Cathedral of Light]]
+**Situation**: [[02_Worldbuilding/People/High Inquisitor Maltheos]] chairs emergency faction meeting
 **Conflict**: Accusations fly between all factions
 
 #### Faction Representatives
@@ -92,7 +92,7 @@ The party is summoned to an emergency council, but arrives to find [[vault_backu
 **Discovery**: Each faction has lost members to mysterious disappearances
 
 ### Scene 3: The Queen's Representative
-**Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Embassy]]
+**Location**: [[02_Worldbuilding/Lore/Royal Embassy]]
 **Situation**: Anonymous royal agent "Silver Mask" provides classified information
 **Conflict**: Information comes with dangerous conditions
 
@@ -110,7 +110,7 @@ The Price:
 **Discovery**: Queen Seraphina hasn't been seen publicly in two weeks
 
 ### Scene 4: The Midnight Market
-**Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Bazaar]] (illegal magical market)
+**Location**: [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Bazaar]] (illegal magical market)
 **Situation**: Following leads to crystal plague cure sellers
 **Conflict**: Ambush by corrupted city watch
 
@@ -212,13 +212,13 @@ The Price:
 - Purist Coalition offers alliance
 
 ## 🎬 Cliffhanger Ending
-During the midnight market raid, [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]] arrives frantically. He's made a breakthrough—the plague isn't a disease, it's a transformation preparing hosts for something. As he explains, crystalline veins suddenly spread across his face. He gasps: "The Queen... at the Crystal Festival... seven shards unite... the Drowned God..." before collapsing into crystal stasis. The Festival is in one week.
+During the midnight market raid, [[02_Worldbuilding/People/Brother Marcus Steelbane]] arrives frantically. He's made a breakthrough—the plague isn't a disease, it's a transformation preparing hosts for something. As he explains, crystalline veins suddenly spread across his face. He gasps: "The Queen... at the Crystal Festival... seven shards unite... the Drowned God..." before collapsing into crystal stasis. The Festival is in one week.
 
 ## 🔗 Connections
-- **Previous**: [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]
-- **Next**: [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
-- **NPCs Introduced**: [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silver Mask]]
-- **Locations Visited**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Goldwave Manor]], [[vault_backup_20250813_073007/02_Worldbuilding/Places/Cathedral of Light]], [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Bazaar]]
+- **Previous**: [[1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]
+- **Next**: [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
+- **NPCs Introduced**: [[02_Worldbuilding/People/High Inquisitor Maltheos]], [[02_Worldbuilding/Lore/Silver Mask]]
+- **Locations Visited**: [[02_Worldbuilding/Lore/Goldwave Manor]], [[02_Worldbuilding/Places/Cathedral of Light]], [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Bazaar]]
 - **Items Gained**: Royal seal, Crystal fragment
 - **Factions**: Relations shifted based on party actions
 
@@ -247,13 +247,13 @@ During the midnight market raid, [[vault_backup_20250813_073007/02_Worldbuilding
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Embassy]]
+- [[02_Worldbuilding/Lore/Royal Embassy]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Embassy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silver Mask]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Cathedral of Light]]
+- [[02_Worldbuilding/Lore/Royal Embassy]]
+- [[02_Worldbuilding/Lore/Silver Mask]]
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
+- [[02_Worldbuilding/Places/Cathedral of Light]]

@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Biomancer Corvus Intestinal]]
+- [[02_Worldbuilding/Lore/Biomancer Corvus Intestinal]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Biomancer Corvus Intestinal]]
+- [[02_Worldbuilding/Lore/Biomancer Corvus Intestinal]]
 
 ## Player-Facing Summary
 

@@ -173,7 +173,7 @@ Use the Black Market Deal structure to:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
 
 ## Player-Facing Summary
 
@@ -185,6 +185,6 @@ Legends speak of Black Market Deal as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Black Market Deal]]
+- [[02_Worldbuilding/Places/Black Market Deal]]
 
 <!-- enriched: true -->

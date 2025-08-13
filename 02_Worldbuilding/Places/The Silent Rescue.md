@@ -159,7 +159,7 @@ This mission emphasizes planning, stealth, and non-violent solutions over direct
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Whispering Depths]]
+- [[02_Worldbuilding/Places/The Whispering Depths]]
 
 ## Player-Facing Summary
 
@@ -171,6 +171,6 @@ Legends speak of The Silent Rescue as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Silent Rescue]]
+- [[02_Worldbuilding/Places/The Silent Rescue]]
 
 <!-- enriched: true -->

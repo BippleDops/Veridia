@@ -23,23 +23,23 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]]
+- [[02_Worldbuilding/Places/Free Current]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Typhoon Blackheart]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Compass Quest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Engineer Brass Gearspin]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
+- [[02_Worldbuilding/Places/Compass Quest]]
+- [[02_Worldbuilding/Places/Depth Wardens]]
+- [[02_Worldbuilding/Places/Engineer Brass Gearspin]]
+- [[02_Worldbuilding/Places/Free Current]]
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
 - [[Keeper of the Past, Elderly Morgan]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Navigator Sage Driftwood]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Spy Games]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Last Seeds]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sinking Atoll]]
+- [[02_Worldbuilding/Places/Navigator Sage Driftwood]]
+- [[02_Worldbuilding/Places/Spy Games]]
+- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
+- [[02_Worldbuilding/Places/The Last Seeds]]
+- [[02_Worldbuilding/Places/The Sinking Atoll]]
 
 ## Player-Facing Summary
 

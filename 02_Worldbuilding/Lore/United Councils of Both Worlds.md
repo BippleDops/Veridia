@@ -1,31 +1,29 @@
 ---
-authority: Diplomatic/Advisory
-created: '2025-08-08'
-created_by: auto-stub
-current_status: Active
-leadership: Joint Council
-organization_type: International Alliance
-scope: Both Worlds
+type: Lore
 status: complete
 tags:
+- aethermoor
 - alliance
+- aquabyssos
 - both worlds
+- both-worlds
 - complete
-- content/faction
-- content/lore
 - cooperation
+- diplomacy
+- government
 - joint-council
 - lore
-- mechanics/social
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
-updated: '2025-08-13T12:34:28.577652+00:00'
+- organization
 world: Both Worlds
+created_by: auto-stub
+created: '2025-08-08'
+updated: '2025-08-13T01:18:34.510517+00:00'
+organization_type: International Alliance
+scope: Both Worlds
+authority: Diplomatic/Advisory
+current_status: Active
+leadership: Joint Council
 ---
-
 
 
 
@@ -42,7 +40,7 @@ world: Both Worlds
 
 The United Councils of Both Worlds represents the formal diplomatic and cooperative alliance between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]], established to coordinate responses to mutual threats, facilitate trade and cultural exchange, and provide a framework for joint decision-making on issues affecting both realms. This unprecedented alliance bridges the gap between underwater and surface civilizations, creating a model for cooperation that transcends environmental and cultural boundaries.
 
-Formed during the crisis periods when both worlds faced existential threats - [[02_Worldbuilding/Places/Aethermoor]] from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Influence]] and [[02_Worldbuilding/Places/Aquabyssos]] from void corruption and cosmic forces - the United Councils emerged from the recognition that survival required cooperation between previously separate civilizations. The alliance provides mechanisms for resource sharing, coordinated defense, and joint problem-solving that neither world could achieve independently.
+Formed during the crisis periods when both worlds faced existential threats - [[02_Worldbuilding/Places/Aethermoor]] from [[The Crystal Influence]] and [[02_Worldbuilding/Places/Aquabyssos]] from void corruption and cosmic forces - the United Councils emerged from the recognition that survival required cooperation between previously separate civilizations. The alliance provides mechanisms for resource sharing, coordinated defense, and joint problem-solving that neither world could achieve independently.
 
 The organization operates through a complex system of joint committees, shared representatives, and rotating leadership that ensures both worlds have equal voice in decisions affecting their mutual interests. The councils maintain permanent diplomatic missions in both realms and coordinate regular summits where leaders from both worlds can meet to address pressing issues and plan long-term strategies.
 
@@ -62,7 +60,7 @@ The lack of ongoing diplomatic relations meant that each world faced its respect
 
 ### Crisis Catalyst
 
-The formation of the United Councils was precipitated by simultaneous crises threatening both worlds, creating circumstances where cooperation became essential for survival rather than merely beneficial. [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Influence]]'s spread through [[02_Worldbuilding/Places/Aethermoor]] occurred during the same period as increased void corruption pressure on [[02_Worldbuilding/Places/Aquabyssos]], creating parallel emergencies.
+The formation of the United Councils was precipitated by simultaneous crises threatening both worlds, creating circumstances where cooperation became essential for survival rather than merely beneficial. [[The Crystal Influence]]'s spread through [[02_Worldbuilding/Places/Aethermoor]] occurred during the same period as increased void corruption pressure on [[02_Worldbuilding/Places/Aquabyssos]], creating parallel emergencies.
 
 Initial contact between the crisis-affected worlds came through refugee movements, as survivors from corrupted areas of [[02_Worldbuilding/Places/Aethermoor]] sought safety in coastal regions while [[02_Worldbuilding/Places/Aquabyssos]] citizens ventured closer to the surface to escape deep-ocean threats. These population movements created opportunities for meaningful cultural exchange and mutual assistance.
 
@@ -331,7 +329,7 @@ External threats to the alliance from groups opposing cooperation provide antago
 Information gathering and intelligence operations related to threats against the alliance create espionage-style adventures that combine investigation, infiltration, and analysis while serving important strategic objectives.
 
 ## Connected Locations and Organizations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Primary underwater member of the alliance
+- [[02_Worldbuilding/Places/Aquabyssos]] - Primary underwater member of the alliance
 - [[02_Worldbuilding/Places/Aethermoor]] - Primary surface member of the alliance  
 - [[02_Worldbuilding/Places/Parliament of Echoes]] - Aquabyssos governing body participating in the alliance
 - [[02_Worldbuilding/Lore/Hidden Sanctuary]] - Aethermoor resistance organization with alliance connections
@@ -341,20 +339,20 @@ Information gathering and intelligence operations related to threats against the
 ## Connections
 
 - [[02_Worldbuilding/Lore/Campaign Epilogues]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign World]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Citizens of Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crimson Hand Strike Team]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdom Fleet]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lamplight Alley]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Magic Items]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Chamber]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Save Both Civilizations]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shattered Isles]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Surface Dweller Adaptation]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Possessed Queen]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Envoy Blackwater Jr]]
+- [[02_Worldbuilding/Lore/Campaign World]]
+- [[02_Worldbuilding/Lore/Citizens of Meridian]]
+- [[02_Worldbuilding/Lore/Crimson Hand Strike Team]]
+- [[Crystal Festival]]
+- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet]]
+- [[02_Worldbuilding/Lore/Lamplight Alley]]
+- [[02_Worldbuilding/Lore/Magic Items]]
+- [[Resonance Chamber]]
+- [[02_Worldbuilding/Lore/Save Both Civilizations]]
+- [[02_Worldbuilding/Lore/Shattered Isles]]
+- [[02_Worldbuilding/Lore/Surface Dweller Adaptation]]
+- [[Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/The Possessed Queen]]
+- [[02_Worldbuilding/People/Envoy Blackwater Jr]]
 - [[02_Worldbuilding/Places/Treaty of the Depths]]
 
 ## Player-Facing Summary

@@ -1,5 +1,5 @@
 ---
-affiliation: Independent Merchants (Loosely [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]] influenced)
+affiliation: Independent Merchants (Loosely [[02_Worldbuilding/Groups/The Liminal Trading Company]] influenced)
 created: '2025-08-09'
 created_by: Claude
 danger_level: 2
@@ -85,7 +85,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 ### The Primary Trading Rings
 #### The Deep Current Exchange (High Tide Only)
 - **Primary Goods**: Bulk commodities, raw materials, industrial supplies
-- **Major Players**: [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]] and other large trading houses
+- **Major Players**: [[02_Worldbuilding/Groups/The Liminal Trading Company]] and other large trading houses
 - **Infrastructure**: Massive cranes, cargo handling, warehouse complexes
 - **Security**: Professional guards and merchant guild enforcement
 - **Specialization**: International trade and large-scale commercial transactions
@@ -114,13 +114,13 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 ### Specialized Market Areas
 #### The Memory Exchange
 - **Services**: Legal memory trading, experience sharing, therapeutic recall
-- **Practitioners**: Reformed [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]] operating ethical businesses
+- **Practitioners**: Reformed [[02_Worldbuilding/Places/Memory Farmers]] operating ethical businesses
 - **Regulations**: Strict oversight ensuring consensual transactions
 - **Medical Support**: Qualified healers managing memory-related health issues
 - **Cultural Programs**: Educational experiences and historical preservation
 
 #### The Crystal Workshop District
-- **Focus**: Items incorporating [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] energy or crystal technology
+- **Focus**: Items incorporating [[02_Worldbuilding/Lore/The Seven Shards]] energy or crystal technology
 - **Craftsmen**: Specialists in crystal manipulation and enhancement
 - **Raw Materials**: Fragments and components for magical item creation
 - **Research Services**: Analysis and identification of unknown magical items
@@ -188,14 +188,14 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 ## Notable Establishments
 ### Anchor Stores & Major Merchants
 #### Deepcurrent Trading Post
-- **Owner**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marina Goldtide]], veteran merchant with 30 years experience
+- **Owner**: [[02_Worldbuilding/Lore/Marina Goldtide]], veteran merchant with 30 years experience
 - **Specialization**: High-quality goods from across Aquabyssos
 - **Reputation**: Known for honest dealing and authentic products
 - **Services**: Custom orders, bulk purchases, international shipping
 - **Location**: Prime spot on main mid-tide platform
 
 #### The Salvage Crown
-- **Owner**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Rex Ironhaul]], former deep-sea explorer
+- **Owner**: [[02_Worldbuilding/People/Captain Rex Ironhaul]], former deep-sea explorer
 - **Specialization**: Rare items recovered from dangerous locations
 - **Inventory**: Constantly changing collection of unique finds
 - **Stories**: Every item comes with tale of its discovery
@@ -209,7 +209,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 - **Location**: Artisan quarter with workshop and retail space
 
 #### The Memory Well
-- **Proprietor**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sage Finn Remembrance]], ethical memory specialist
+- **Proprietor**: [[02_Worldbuilding/Lore/Sage Finn Remembrance]], ethical memory specialist
 - **Services**: Legal memory trading, therapeutic recall, cultural preservation
 - **Ethics**: Strict standards ensuring consensual and beneficial transactions
 - **Education**: Classes on memory magic and its responsible use
@@ -304,7 +304,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 
 #### The Tide Prophecy
 **Level**: 10-15  
-**Hook**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Oracle Nerida the Tidereader]] predicts disaster befalling markets  
+**Hook**: [[02_Worldbuilding/People/Oracle Nerida the Tidereader]] predicts disaster befalling markets  
 **Urgency**: Limited time to prevent economic catastrophe affecting entire realm  
 **Complexity**: Multiple possible interpretations of prophetic warnings  
 **Investigation**: Determine which threat is real and how to prevent it  
@@ -349,7 +349,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 - **Protection**: Community commitment to preserving natural environment
 
 #### Crystal Formations
-- **Natural Crystals**: Small [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] fragments in tidepool rock formations
+- **Natural Crystals**: Small [[02_Worldbuilding/Lore/The Seven Shards]] fragments in tidepool rock formations
 - **Enhancement**: Crystals naturally improve preservation of goods and materials
 - **Navigation**: Glowing crystals provide navigation aids during low light
 - **Research**: Scientists study connection between crystals and tidal patterns
@@ -393,11 +393,11 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 - **Stability**: Provides continuity during political transitions and conflicts
 
 ## Connected Elements
-- Central hub for [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]] operations
+- Central hub for [[02_Worldbuilding/Groups/The Liminal Trading Company]] operations
 - Connected to all major settlements and factions through trade relationships
-- Links to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] through crystal formations and crystal-based commerce
-- Associated with reformed [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]] through ethical memory trading
-- Connected to [[vault_backup_20250813_073007/02_Worldbuilding/People/Oracle Nerida the Tidereader]] through tidal prediction needs
+- Links to [[02_Worldbuilding/Lore/The Seven Shards]] through crystal formations and crystal-based commerce
+- Associated with reformed [[02_Worldbuilding/Places/Memory Farmers]] through ethical memory trading
+- Connected to [[02_Worldbuilding/People/Oracle Nerida the Tidereader]] through tidal prediction needs
 - Links to international trade and cross-realm commerce
 - Associated with maritime industries and deep-sea resource exploitation
 - Connected to cultural and educational institutions through diverse merchant knowledge
@@ -426,7 +426,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Old Sally Seasprayer]]
+- [[02_Worldbuilding/Places/Old Sally Seasprayer]]
 
 ## Player-Facing Summary
 
@@ -444,9 +444,9 @@ Legends speak of The Tidepool Markets as a nexus where past and present converge
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Tidepool Markets]]
+- [[02_Worldbuilding/Places/The Tidepool Markets]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Oracle Nerida the Tidereader]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
+- [[02_Worldbuilding/Places/Memory Farmers]]

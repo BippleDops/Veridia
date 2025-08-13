@@ -148,7 +148,7 @@ Legends speak of The Pearl Heist as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Pearl Heist]]
+- [[02_Worldbuilding/People/The Pearl Heist]]
 
 <!-- enriched: true -->
 iched: true -->

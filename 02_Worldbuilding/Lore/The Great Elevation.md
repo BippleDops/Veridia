@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]
+- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]
+- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]
 
 ## Player-Facing Summary
 

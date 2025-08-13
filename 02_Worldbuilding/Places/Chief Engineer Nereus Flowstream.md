@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]]
+- [[02_Worldbuilding/Places/Pressure Tubes]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]]
+- [[02_Worldbuilding/Places/Pressure Tubes]]
 
 ## Player-Facing Summary
 

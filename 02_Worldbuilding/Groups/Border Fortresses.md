@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Foreign Interests]]
+- [[02_Worldbuilding/Quests/Quest - Foreign Interests]]
 
 ## Player-Facing Summary
 

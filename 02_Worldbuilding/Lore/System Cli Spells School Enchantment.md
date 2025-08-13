@@ -19,7 +19,7 @@ world: Aquabyssos
 
 # The Enchantment School: Threads of Will and Influence
 
-The school of **Enchantment** represents the weaving of magical influence over minds and emotions, a practice that manifests differently across the realms of [[02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. This ancient art draws upon the fundamental forces that bind consciousness to reality, manipulating the threads of thought and desire.
+The school of **Enchantment** represents the weaving of magical influence over minds and emotions, a practice that manifests differently across the realms of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. This ancient art draws upon the fundamental forces that bind consciousness to reality, manipulating the threads of thought and desire.
 
 ## Regional Manifestations
 
@@ -59,7 +59,7 @@ Legend speaks of the **Shard of Dominion**, a theoretical eighth shard that woul
 ## Legendary Enchantments and Artifacts
 
 ### The Crown of Whispered Truths
-Hidden somewhere in the [[02_Worldbuilding/Locations/Sunken Palace|02 Worldbuilding/Locations/Sunken Palace]], this artifact can compel absolute honesty from anyone within its presence. The [[vault_backup_20250813_073007/02_Worldbuilding/People/The Depth Wardens]] have sought it for centuries, believing it could force the Deep Mother to reveal her true nature.
+Hidden somewhere in the [[02_Worldbuilding/Locations/Sunken Palace|02 Worldbuilding/Locations/Sunken Palace]], this artifact can compel absolute honesty from anyone within its presence. The [[02_Worldbuilding/People/The Depth Wardens]] have sought it for centuries, believing it could force the Deep Mother to reveal her true nature.
 
 ### The Lullaby of Eternal Rest
 A spell-song created by ancient Aethermoor enchanters, said to be able to put the Deep Mother herself to sleep. The complete melody is scattered across multiple [[02_Worldbuilding/Organizations/The Chroniclers|02 Worldbuilding/Organizations/The Chroniclers]]' records, requiring cooperation between realms to reconstruct.
@@ -100,4 +100,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/System Cli Spells School Necromancy]]
+- [[02_Worldbuilding/Lore/System Cli Spells School Necromancy]]

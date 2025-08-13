@@ -165,7 +165,7 @@ This crisis provides opportunities for rescue missions, investigation adventures
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
 
 ## Player-Facing Summary
 
@@ -183,6 +183,6 @@ Legends speak of Pressure Suit Malfunction as a nexus where past and present con
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Suit Malfunction]]
+- [[02_Worldbuilding/Places/Pressure Suit Malfunction]]
 
 <!-- enriched: true -->

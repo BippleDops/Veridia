@@ -39,7 +39,7 @@ The Screaming Gardens sprawl across three square miles of Abyssos Prime's easter
 During the Cataclysm of Tides, thousands of children were at the Meridian Youth Academy when the waters rose. Their screams crystallized in the magical catastrophe, growing into the first trees. Over centuries, more screaming trees have been "planted" as executions, murders, and suicides add to the grove.
 
 ### The Conductor's Arrival
-Fifty years ago, a musician named Orpheus Deepnote went mad trying to compose a symphony from the screams. He transformed himself into living sound, becoming [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Conductor]], and now orchestrates the gardens' cacophony into prophetic warnings.
+Fifty years ago, a musician named Orpheus Deepnote went mad trying to compose a symphony from the screams. He transformed himself into living sound, becoming [[02_Worldbuilding/Places/The Conductor]], and now orchestrates the gardens' cacophony into prophetic warnings.
 
 ## Geography
 
@@ -196,7 +196,7 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 ## Connections
 
 ### To Aethermoor
-The gardens exist partially in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]], where sensitive individuals hear children singing/screaming near the old academy ruins. During crystal plague outbreaks, new trees appear in both locations simultaneously.
+The gardens exist partially in [[02_Worldbuilding/Places/Port Meridian]], where sensitive individuals hear children singing/screaming near the old academy ruins. During crystal plague outbreaks, new trees appear in both locations simultaneously.
 
 ### To Other Districts
 - **Parliament of Echoes**: Executions performed here end in the gardens
@@ -229,20 +229,20 @@ The gardens exist partially in [[vault_backup_20250813_073007/02_Worldbuilding/P
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Gallery of Frozen Waves]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Gallery of Frozen Waves]]
+- [[02_Worldbuilding/Places/The Memory Meadows]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Conductor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
+- [[02_Worldbuilding/Places/The Conductor]]
+- [[02_Worldbuilding/People/The Scattered Emperor]]
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
 
 **Related Mechanics**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Scream Saturation Rules]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Parasite Infection]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallization Process]]
+- [[02_Worldbuilding/Places/Scream Saturation Rules]]
+- [[02_Worldbuilding/Places/Memory Parasite Infection]]
+- [[02_Worldbuilding/Places/Crystallization Process]]
 
 ## Player-Facing Summary
 
@@ -260,6 +260,6 @@ Legends speak of Screaming Gardens as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Screaming Gardens]]
+- [[02_Worldbuilding/Places/Screaming Gardens]]
 
 <!-- enriched: true -->

@@ -4,12 +4,12 @@ created: '2025-08-09'
 danger_level: Moderate
 founded: Time Immemorial
 government: Circle of Elders
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]]'
+leader: '[[02_Worldbuilding/People/Archdruid Thornweaver]]'
 population: 180000
 related_entities:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Continental War]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]]'
+- '[[02_Worldbuilding/Places/The Verdant Reach]]'
+- '[[02_Worldbuilding/Lore/Continental War]]'
+- '[[02_Worldbuilding/Lore/The Restoration Movement]]'
 specialties:
 - Natural Magic
 - Environmental Harmony
@@ -47,9 +47,9 @@ world: Aethermoor
 
 ## Overview
 
-Sylvanheart represents the pinnacle of harmonious coexistence between civilization and the natural world, a living city grown rather than built within the ancient forests of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]]. This unique settlement demonstrates that progress and environmental preservation are not mutually exclusive, offering an alternative model of development that has attracted attention from across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and beyond.
+Sylvanheart represents the pinnacle of harmonious coexistence between civilization and the natural world, a living city grown rather than built within the ancient forests of [[02_Worldbuilding/Places/The Verdant Reach]]. This unique settlement demonstrates that progress and environmental preservation are not mutually exclusive, offering an alternative model of development that has attracted attention from across [[02_Worldbuilding/Places/Aethermoor]] and beyond.
 
-The city exists as a partnership between multiple species - elves, humans, halflings, and others - all united under the guidance of the Circle of Elders and the leadership of [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]]. Rather than imposing structures upon the landscape, Sylvanheart's inhabitants have persuaded the forest itself to provide shelter, transportation, and infrastructure through careful cultivation and respectful cooperation.
+The city exists as a partnership between multiple species - elves, humans, halflings, and others - all united under the guidance of the Circle of Elders and the leadership of [[02_Worldbuilding/People/Archdruid Thornweaver]]. Rather than imposing structures upon the landscape, Sylvanheart's inhabitants have persuaded the forest itself to provide shelter, transportation, and infrastructure through careful cultivation and respectful cooperation.
 
 ### Sensory Immersion: The Living City
 
@@ -141,9 +141,9 @@ Life in Sylvanheart follows natural cycles:
 **Consulting Services**: Expertise in sustainable development and environmental restoration
 
 ### Trade Relationships
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]**: Exchange of natural materials for magical knowledge
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Ironhold]]**: Forest products for metal tools and equipment
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]**: Herbal goods and consulting for international trade
+**[[02_Worldbuilding/Places/Crystalhaven]]**: Exchange of natural materials for magical knowledge
+**[[02_Worldbuilding/Places/Ironhold]]**: Forest products for metal tools and equipment
+**[[02_Worldbuilding/Places/Port Meridian]]**: Herbal goods and consulting for international trade
 **Rural Communities**: Support for sustainable agricultural development
 
 ### Resource Management
@@ -187,7 +187,7 @@ Life in Sylvanheart follows natural cycles:
 **Environmental Weapons**: Ability to use forest itself as weapon against invaders
 
 ### Historical Military Role
-During [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Continental War]]:
+During [[02_Worldbuilding/Lore/Continental War]]:
 - Initially maintained neutrality
 - Eventually mediated peace negotiations
 - Provided humanitarian aid to all sides
@@ -341,9 +341,9 @@ Characters spending time in Sylvanheart gain:
 
 **Forest Assembly Days**: Weekly community gatherings bring together all districts for collective decision-making and celebration of community achievements. These assemblies include representation from forest spirits, animal communities, and visiting diplomats. Decisions reached during these gatherings coordinate community-wide activities while maintaining ecological balance.
 
-**Cultural Exchange Programs**: Regular educational visits from other settlements allow knowledge sharing about sustainable living techniques while providing Sylvanheart citizens with perspectives on alternative approaches to civilization. These exchanges follow protocols from the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]] adapted for forest diplomacy.
+**Cultural Exchange Programs**: Regular educational visits from other settlements allow knowledge sharing about sustainable living techniques while providing Sylvanheart citizens with perspectives on alternative approaches to civilization. These exchanges follow protocols from the [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]] adapted for forest diplomacy.
 
-**Guild Coordination Meetings**: Professional organizations coordinate their activities through weekly assemblies that follow traditions from the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Guild Traditions Compendium]] modified for sustainable practices. These meetings ensure that all professional activities support rather than damage environmental health while maintaining high standards.
+**Guild Coordination Meetings**: Professional organizations coordinate their activities through weekly assemblies that follow traditions from the [[02_Worldbuilding/Lore/Guild Traditions Compendium]] modified for sustainable practices. These meetings ensure that all professional activities support rather than damage environmental health while maintaining high standards.
 
 **Seasonal Forest Adaptations**:
 - **Spring**: Planting season requires city-wide coordination of agricultural activities, building new living architecture as trees grow, and welcoming new animal families that join the community. Citizens participate in forest renewal activities that strengthen human-nature partnerships.
@@ -351,7 +351,7 @@ Characters spending time in Sylvanheart gain:
 - **Autumn**: Harvest season involves community-wide coordination of food preservation, preparation for winter resource needs, and completion of construction projects before weather changes. Citizens participate in thanksgiving ceremonies that honor forest partners for their continued cooperation.
 - **Winter**: Contemplative season when community activities focus on education, cultural preservation, and planning for spring activities. Reduced outdoor activity allows forest partners to rest while humans concentrate on intellectual and spiritual development.
 
-**Festival Celebrations**: Annual observances from the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Festival Calendar Complete]] include the Spring Awakening celebrating renewal, the Summer Harmony honoring partnership balance, the Harvest Gratitude recognizing mutual benefits, and the Winter Reflection encouraging contemplation. These celebrations strengthen community identity while honoring environmental relationships.
+**Festival Celebrations**: Annual observances from the [[02_Worldbuilding/Lore/Festival Calendar Complete]] include the Spring Awakening celebrating renewal, the Summer Harmony honoring partnership balance, the Harvest Gratitude recognizing mutual benefits, and the Winter Reflection encouraging contemplation. These celebrations strengthen community identity while honoring environmental relationships.
 
 **Environmental Monitoring Cycles**: Regular assessment of forest health, water quality, and ecological balance involves citizen participation in scientific observation and documentation. These activities maintain environmental protection while providing educational opportunities and ensuring early detection of potential problems.
 
@@ -369,10 +369,10 @@ Sylvanheart serves as:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Cathedral of Light]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[02_Worldbuilding/Places/The Verdant Reach]]
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
@@ -396,6 +396,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sylvanheart]]
+- [[02_Worldbuilding/Places/Sylvanheart]]
 
 <!-- enriched: true -->

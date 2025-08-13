@@ -1,10 +1,10 @@
 ---
-affiliation: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] (Claimed)'
+affiliation: '[[02_Worldbuilding/Lore/The Deep Mother]] (Claimed)'
 created: '2025-08-08'
 created_by: auto-stub
 danger_level: Extreme
 influence: Growing
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Symbiotic Sanctuaries]] - Hidden throughout Aquabyssos'
+location: '[[02_Worldbuilding/Lore/The Symbiotic Sanctuaries]] - Hidden throughout Aquabyssos'
 role: Symbiotic Cult
 secrecy_level: High
 size: Unknown (Estimated 200-500 Members)
@@ -40,12 +40,12 @@ world: Aquabyssos
 # The Parasite Priests
 *The Communion of Perfect Unity*
 
-> *"We are not infected. We are evolved. The parasites do not control us - they complete us. Through symbiosis, we become more than the sum of our parts, closer to the divine unity that [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] intended."*
+> *"We are not infected. We are evolved. The parasites do not control us - they complete us. Through symbiosis, we become more than the sum of our parts, closer to the divine unity that [[02_Worldbuilding/Lore/The Deep Mother]] intended."*
 > — High Symbiont Threnus Coralborn, moments before his transformation became irreversible
 
 ## Overview
 
-The Parasite Priests represent one of the most disturbing and misunderstood cults operating in the depths of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. They believe that humanity's next evolutionary step requires symbiotic fusion with parasitic organisms, creating hybrid beings that they claim are closer to divinity. What makes them particularly dangerous is not just their willingness to infect themselves and others, but their sophisticated understanding of biology, their growing political influence, and their genuine belief that they are saving humanity from extinction.
+The Parasite Priests represent one of the most disturbing and misunderstood cults operating in the depths of [[02_Worldbuilding/Places/Aquabyssos]]. They believe that humanity's next evolutionary step requires symbiotic fusion with parasitic organisms, creating hybrid beings that they claim are closer to divinity. What makes them particularly dangerous is not just their willingness to infect themselves and others, but their sophisticated understanding of biology, their growing political influence, and their genuine belief that they are saving humanity from extinction.
 
 Unlike simple disease cults that worship plague and decay, the Parasite Priests pursue what they call "directed evolution" - the conscious partnership between human consciousness and parasitic organisms to create new forms of life. They view traditional humanity as incomplete, flawed, and doomed to failure without the guidance and enhancement that parasitic symbiosis provides. Their ultimate goal is the transformation of all intelligent life into symbiotic hybrid forms that they believe will be capable of surviving the cosmic threats that threaten reality itself.
 
@@ -58,10 +58,10 @@ Recent events have driven the Parasite Priests to become more active and aggress
 ### Core Doctrines
 
 **The Incompleteness of Singular Life:**
-The Parasite Priests teach that individual organisms - whether human, animal, or plant - are fundamentally incomplete. They argue that [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] intended life to exist in constant symbiosis, with different organisms sharing resources, capabilities, and consciousness. Traditional biology, they claim, is an aberration caused by fear and misunderstanding of parasitic relationships.
+The Parasite Priests teach that individual organisms - whether human, animal, or plant - are fundamentally incomplete. They argue that [[02_Worldbuilding/Lore/The Deep Mother]] intended life to exist in constant symbiosis, with different organisms sharing resources, capabilities, and consciousness. Traditional biology, they claim, is an aberration caused by fear and misunderstanding of parasitic relationships.
 
 **The Divine Parasite:**
-Central to their theology is the belief that [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] herself is a form of cosmic parasite - not in the sense of exploitation, but in the sense of beneficial symbiosis. They claim she "infects" reality with life and consciousness, and that by embracing parasitic symbiosis, they become more like her. This interpretation allows them to frame their activities as religious devotion rather than biological corruption.
+Central to their theology is the belief that [[02_Worldbuilding/Lore/The Deep Mother]] herself is a form of cosmic parasite - not in the sense of exploitation, but in the sense of beneficial symbiosis. They claim she "infects" reality with life and consciousness, and that by embracing parasitic symbiosis, they become more like her. This interpretation allows them to frame their activities as religious devotion rather than biological corruption.
 
 **Evolution Through Partnership:**
 The cult rejects the concept of natural selection based on competition, instead promoting "conscious evolution" through cooperative symbiosis. They believe that humans can direct their own evolutionary development by carefully choosing parasitic partners that provide specific enhancements - improved physical capabilities, extended lifespans, enhanced mental abilities, or supernatural powers.
@@ -78,7 +78,7 @@ The cult's primary religious text, written by their founder [[High Symbiont Mala
 Cult prophecy speaks of a coming age when the barriers between separate organisms will dissolve, creating a unified biological network spanning all of Aquabyssos. They believe this "Great Symbiosis" will occur when enough individuals have undergone successful parasitic bonding, creating a critical mass that will trigger spontaneous symbiosis throughout the population.
 
 **The Deep Mother's Design:**
-Parasite Priests claim to have received visions showing that [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] originally intended all life to exist in symbiotic relationships. They interpret various cosmic threats and reality instabilities as punishment for humanity's rejection of their symbiotic destiny. Only by embracing parasitic partnership can intelligent life survive the coming cosmic convergences.
+Parasite Priests claim to have received visions showing that [[02_Worldbuilding/Lore/The Deep Mother]] originally intended all life to exist in symbiotic relationships. They interpret various cosmic threats and reality instabilities as punishment for humanity's rejection of their symbiotic destiny. Only by embracing parasitic partnership can intelligent life survive the coming cosmic convergences.
 
 ## Organizational Structure
 
@@ -87,7 +87,7 @@ Parasite Priests claim to have received visions showing that [[vault_backup_2025
 The cult is led by the High Symbiosis, a council of the most successfully transformed members whose symbiotic relationships have reached perfect balance. These individuals are no longer entirely human but have retained enough humanity to serve as bridges between normal people and the fully transformed.
 
 **High Symbiont Threnus Coralborn** - Current Supreme Leader
-Bonded with a rare coral parasite that has replaced portions of his skeletal system with living coral. He can regenerate from almost any injury and claims to receive direct communication from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] through his coral symbiont. His transformation has been progressing for over two decades.
+Bonded with a rare coral parasite that has replaced portions of his skeletal system with living coral. He can regenerate from almost any injury and claims to receive direct communication from [[02_Worldbuilding/Lore/The Deep Mother]] through his coral symbiont. His transformation has been progressing for over two decades.
 
 **Symbiont Nerissa Wormheart** - Research Director
 Her symbiotic relationship involves multiple species of intestinal parasites that have enhanced her digestive system to process almost any organic material. She leads the cult's biological research programs and maintains extensive knowledge of parasitic organisms throughout Aquabyssos.
@@ -155,7 +155,7 @@ Rare organisms that interact with magical energies:
 Candidates undergo medical treatment to optimize their bodies for parasitic bonding. This includes dietary changes, magical treatments to enhance immune system compatibility, and psychological preparation for the consciousness changes that accompany symbiosis.
 
 **Bonding Ceremony (12-24 hours):**
-The actual symbiosis occurs during an elaborate ritual that combines medical procedures with religious ceremony. Candidates consume or are injected with specially prepared parasitic organisms while cult priests perform invocations to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] requesting successful integration.
+The actual symbiosis occurs during an elaborate ritual that combines medical procedures with religious ceremony. Candidates consume or are injected with specially prepared parasitic organisms while cult priests perform invocations to [[02_Worldbuilding/Lore/The Deep Mother]] requesting successful integration.
 
 **Integration Period (1-6 months):**
 The most dangerous phase, during which the host's body and the parasite negotiate their symbiotic relationship. Approximately 20% of candidates die during this period, while another 30% experience severe complications requiring additional treatment. Successful integration results in permanent bonding that cannot be reversed without killing both host and parasite.
@@ -170,7 +170,7 @@ The symbiotic relationship gradually stabilizes and reaches full effectiveness. 
 **High Symbiont Threnus Coralborn** - Supreme Leader
 *Coral Parasite Integration - 20+ years*
 
-Threnus represents the cult's vision of perfect symbiosis. His coral parasite has replaced portions of his skeletal system, creating living bone that continuously grows and adapts. He claims to experience direct communication with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] and serves as the cult's primary theological authority. His transformation has been so successful that he's lived far beyond normal human lifespan.
+Threnus represents the cult's vision of perfect symbiosis. His coral parasite has replaced portions of his skeletal system, creating living bone that continuously grows and adapts. He claims to experience direct communication with [[02_Worldbuilding/Lore/The Deep Mother]] and serves as the cult's primary theological authority. His transformation has been so successful that he's lived far beyond normal human lifespan.
 
 **Abilities**: Regeneration, enhanced strength, coral armor, marine empathy, prophetic visions
 **Personality**: Charismatic but increasingly alien in thought patterns
@@ -384,40 +384,40 @@ Disagreements about forced versus voluntary transformation, the pace of the Grea
 ## Connected Organizations and Locations
 
 ### Primary Connections
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] - Claimed divine patron
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Symbiotic Sanctuaries]] - Hidden cult facilities
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Primary area of operations
+- [[02_Worldbuilding/Lore/The Deep Mother]] - Claimed divine patron
+- [[02_Worldbuilding/Lore/The Symbiotic Sanctuaries]] - Hidden cult facilities
+- [[02_Worldbuilding/Places/Aquabyssos]] - Primary area of operations
 - [[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]] - Law enforcement opposition
 
 ### Secondary Connections
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Scylla Deepdream]] - Theological rival
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Doctor Helena Voidwalker]] - Medical community connection
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] - Political infiltration target
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] - Ideological opponents
+- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]] - Theological rival
+- [[02_Worldbuilding/People/Doctor Helena Voidwalker]] - Medical community connection
+- [[02_Worldbuilding/Places/Parliament of Echoes]] - Political infiltration target
+- [[02_Worldbuilding/Groups/Purist Coalition]] - Ideological opponents
 
 ### Professional Networks & Infiltration
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Views cult's memory extraction techniques as exploitative and dangerous
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Cult seeks access to memories related to parasitic evolution and divine symbiosis
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Military intelligence monitoring cult activities and recruitment patterns
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Cult studies his divine transformation as model for their own symbiotic evolution
+- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Views cult's memory extraction techniques as exploitative and dangerous
+- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Cult seeks access to memories related to parasitic evolution and divine symbiosis
+- **[[02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Military intelligence monitoring cult activities and recruitment patterns
+- **[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Cult studies his divine transformation as model for their own symbiotic evolution
 - **Medical Research Community**: Infiltrated academic institutions studying biological enhancement and parasitic relationships
 
 ### Underground & Shadow Networks
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Conspiracy]]**: Potential information trading partners about government infiltration
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Broker Mist]]**: Competing information broker with knowledge of cult activities
+- **[[02_Worldbuilding/People/Shadow Conspiracy]]**: Potential information trading partners about government infiltration
+- **[[02_Worldbuilding/People/Shadow Broker Mist]]**: Competing information broker with knowledge of cult activities
 - **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]**: Transportation and supply network for cult materials and operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets]]**: Recruitment venue and resource acquisition center
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum Ambassadors]]**: Diplomatic interest in cult's shadow-touched research and abilities
+- **[[02_Worldbuilding/Places/The Shadow Markets]]**: Recruitment venue and resource acquisition center
+- **[[02_Worldbuilding/People/Tenebrarum Ambassadors]]**: Diplomatic interest in cult's shadow-touched research and abilities
 
 ### Political & Religious Opposition
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Throne of Bubbles]]**: Royal authority viewing cult as threat to citizen welfare and political stability
+- **[[02_Worldbuilding/People/Throne of Bubbles]]**: Royal authority viewing cult as threat to citizen welfare and political stability
 - **Religious Orthodox Communities**: Mainstream faiths condemning cult theology as heretical corruption
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Crystal Wardens]]**: Military forces investigating cult's potential threat to realm security
+- **[[02_Worldbuilding/Groups/Crystal Wardens]]**: Military forces investigating cult's potential threat to realm security
 - **Government Health Agencies**: Medical authorities treating cult activities as biological terrorism threat
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Sorrowmaster]]
+- [[02_Worldbuilding/People/The Sorrowmaster]]
 
 ## Player-Facing Summary
 
@@ -439,7 +439,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Parasite Priests]]
+- [[02_Worldbuilding/People/The Parasite Priests]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Throne of Bubbles]]
+- [[02_Worldbuilding/People/Throne of Bubbles]]

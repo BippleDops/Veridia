@@ -410,7 +410,7 @@ Choose your relationship with major factions:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/07_Player_Resources/Quick Start Guide]]
+- [[07_Player_Resources/Quick Start Guide]]
 
 ## Player-Facing Summary
 

@@ -35,7 +35,7 @@ world: Aethermoor
 
 **Winds of Rebellion** is a six-session political intrigue adventure set in the floating sky cities of Aethermoor, where ancient wind rider traditions clash with modern political machinations. The player characters become embroiled in a complex web of court politics, factional warfare, and aerial combat as they navigate the treacherous currents of rebellion brewing in the highest echelons of society.
 
-The adventure begins with the characters receiving a summons to court, ostensibly for a routine diplomatic mission. However, they soon discover that [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] faces a sophisticated conspiracy that threatens not only her rule but the very stability of Aethermoor's aerial civilization. As secret alliances form and ancient grudges surface, the PCs must use both social cunning and martial prowess to navigate a political landscape more dangerous than any storm.
+The adventure begins with the characters receiving a summons to court, ostensibly for a routine diplomatic mission. However, they soon discover that [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] faces a sophisticated conspiracy that threatens not only her rule but the very stability of Aethermoor's aerial civilization. As secret alliances form and ancient grudges surface, the PCs must use both social cunning and martial prowess to navigate a political landscape more dangerous than any storm.
 
 ### Background: The Gathering Storm
 
@@ -113,7 +113,7 @@ The political landscape is defined by shifting alliances and temporary convenien
 
 ### The Conspiracy Unveiled
 
-The adventure's central mystery revolves around discovering that what appears to be separate factional conflicts actually represents a coordinated conspiracy orchestrated by [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]], the enigmatic spymaster who has been playing all sides against each other.
+The adventure's central mystery revolves around discovering that what appears to be separate factional conflicts actually represents a coordinated conspiracy orchestrated by [[02_Worldbuilding/People/Vex Shadowthorn]], the enigmatic spymaster who has been playing all sides against each other.
 
 Shadowthorn's master plan involves:
 

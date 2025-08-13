@@ -112,7 +112,7 @@ The Leviathan Prophets work well as mysterious quest givers whose cryptic guidan
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Oracle]]
+- [[02_Worldbuilding/People/Oracle]]
 
 
 ## Appearance
@@ -154,6 +154,6 @@ Legends speak of The Leviathan Prophets as a nexus where past and present conver
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Leviathan Prophets]]
+- [[02_Worldbuilding/People/The Leviathan Prophets]]
 
 <!-- enriched: true -->

@@ -5,9 +5,9 @@ alignment: Lawful Neutral
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Municipal Government
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bexley City Hall]]'
+headquarters: '[[02_Worldbuilding/Lore/Bexley City Hall]]'
 influence: Municipal (Bexley city limits)
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Mayor Cornelius Tidecrest]]'
+leader: '[[02_Worldbuilding/Lore/Mayor Cornelius Tidecrest]]'
 members: ~5,000 city employees and officials
 obsidianUIMode: preview
 status: complete
@@ -39,7 +39,7 @@ world: Aquabyssos
 *The Port City Administration, Gateway to the Depths, The Merchant's Harbor*
 
 ## Overview
-Bexley serves as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most important port city and represents a model of municipal government that balances traditional civic administration with the unique challenges of shadow-touched governance. As both a major commercial hub and entry point for interdimensional trade, Bexley's government manages complex relationships between conventional citizens, shadow-touched residents, and various factions while maintaining the delicate infrastructure that keeps the city prosperous and stable.
+Bexley serves as [[02_Worldbuilding/Places/Aquabyssos]]'s most important port city and represents a model of municipal government that balances traditional civic administration with the unique challenges of shadow-touched governance. As both a major commercial hub and entry point for interdimensional trade, Bexley's government manages complex relationships between conventional citizens, shadow-touched residents, and various factions while maintaining the delicate infrastructure that keeps the city prosperous and stable.
 
 ## History
 
@@ -53,11 +53,11 @@ Bexley serves as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyss
 
 ### Growth Period (200-100 Years Ago)
 **Commercial Expansion**
-- Rapid growth as major trading hub for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- Rapid growth as major trading hub for [[02_Worldbuilding/Places/Aquabyssos]]
 - Development of extensive port facilities and commercial districts
 - Incorporation as official city with formal municipal government
 - Creation of city departments and professional administration
-- Establishment of trade relationships with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- Establishment of trade relationships with [[02_Worldbuilding/Places/Aethermoor]]
 
 ### The Shadow Integration (100-50 Years Ago)
 **Dimensional Commerce Era**
@@ -79,12 +79,12 @@ Bexley serves as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyss
 
 ### Executive Administration
 **Municipal Leadership**
-- **Mayor**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Mayor Cornelius Tidecrest]] - Elected chief executive and city representative
-- **Deputy Mayor**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Victoria Harbormane]] - Administrative coordination and mayoral succession
+- **Mayor**: [[02_Worldbuilding/Lore/Mayor Cornelius Tidecrest]] - Elected chief executive and city representative
+- **Deputy Mayor**: [[02_Worldbuilding/Places/Victoria Harbormane]] - Administrative coordination and mayoral succession
 - **City Manager**: [[Administrator Marcus Protocols]] - Day-to-day operations and department coordination
-- **Chief Financial Officer**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Treasurer Elena Goldflow]] - Municipal budget and financial management
-- **City Attorney**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Legal Counsel Derek Lawkeeper]] - Legal affairs and municipal legislation
-- **Communications Director**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Public Relations Sarah Spokesperson]] - Media and citizen communication
+- **Chief Financial Officer**: [[02_Worldbuilding/Lore/Treasurer Elena Goldflow]] - Municipal budget and financial management
+- **City Attorney**: [[02_Worldbuilding/Places/Legal Counsel Derek Lawkeeper]] - Legal affairs and municipal legislation
+- **Communications Director**: [[02_Worldbuilding/Lore/Public Relations Sarah Spokesperson]] - Media and citizen communication
 
 ### Municipal Departments
 
@@ -190,7 +190,7 @@ Bexley serves as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyss
 ## Resources & Assets
 
 ### Municipal Infrastructure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bexley City Hall]]**: Government center and administrative headquarters
+- **[[02_Worldbuilding/Lore/Bexley City Hall]]**: Government center and administrative headquarters
 - **Port Facilities**: Extensive harbor and shipping infrastructure
 - **Public Works Complex**: Maintenance yards and equipment storage
 - **Municipal Buildings**: Libraries, recreation centers, and community facilities
@@ -263,14 +263,14 @@ Bexley serves as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyss
 ## Relationships & Politics
 
 ### Regional Government
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] Central Government**: Cooperative relationship with regional authority
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Respectful but independent municipal governance
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]**: Lobbying for municipal interests and local representation
+- **[[02_Worldbuilding/Places/Aquabyssos]] Central Government**: Cooperative relationship with regional authority
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Respectful but independent municipal governance
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Lobbying for municipal interests and local representation
 - **Regional Planning Authority**: Coordination on transportation and development
 - **Provincial Government**: Partnership on shared services and regional issues
 
 ### Business and Commerce
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Authority]]**: Partnership on harbor operations and development
+- **[[02_Worldbuilding/Places/Port Authority]]**: Partnership on harbor operations and development
 - **Local Business Community**: Support for economic development and regulation
 - **Tourism Industry**: Cooperation on visitor attraction and hospitality
 - **[[02_Worldbuilding/Groups/Shadow Bazaar|02 Worldbuilding/Groups/Shadow Bazaar]]**: Regulated partnership on interdimensional commerce
@@ -316,34 +316,34 @@ Bexley serves as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyss
 ## Notable Members
 
 ### Executive Leadership
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Mayor Cornelius Tidecrest]]** - Elected chief executive and city representative
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Victoria Harbormane]]** - Deputy mayor and administrative coordinator
+- **[[02_Worldbuilding/Lore/Mayor Cornelius Tidecrest]]** - Elected chief executive and city representative
+- **[[02_Worldbuilding/Places/Victoria Harbormane]]** - Deputy mayor and administrative coordinator
 - **[[Administrator Marcus Protocols]]** - City manager and operations director
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Treasurer Elena Goldflow]]** - Chief financial officer and budget manager
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Legal Counsel Derek Lawkeeper]]** - City attorney and legal advisor
+- **[[02_Worldbuilding/Lore/Treasurer Elena Goldflow]]** - Chief financial officer and budget manager
+- **[[02_Worldbuilding/Places/Legal Counsel Derek Lawkeeper]]** - City attorney and legal advisor
 
 ### Department Heads
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Public Works Director Boris Bridgewright]]** - Infrastructure and maintenance
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Police Chief Sarah Lawkeeper]]** - Public safety and law enforcement
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Fire Chief Michael Rescuer]]** - Emergency services and fire protection
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Economic Development Director Carmen Commerc]]** - Business attraction and growth
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Services Director Helen Helpinghand]]** - Social programs and citizen support
+- **[[02_Worldbuilding/Lore/Public Works Director Boris Bridgewright]]** - Infrastructure and maintenance
+- **[[02_Worldbuilding/Places/Police Chief Sarah Lawkeeper]]** - Public safety and law enforcement
+- **[[02_Worldbuilding/Lore/Fire Chief Michael Rescuer]]** - Emergency services and fire protection
+- **[[02_Worldbuilding/Lore/Economic Development Director Carmen Commerc]]** - Business attraction and growth
+- **[[02_Worldbuilding/Lore/Community Services Director Helen Helpinghand]]** - Social programs and citizen support
 
 ### Council Leaders
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Council President Diana Democratic]]** - Legislative leadership and policy development
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Integration Coordinator Luna Bridgebuilder]]** - Specialized community services
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Master Captain Dockwise]]** - Port operations and maritime coordination
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Planning Director Victor Visionkeeper]]** - Urban planning and development
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Communications Manager Jessica Spokesperson]]** - Public relations and media
+- **[[02_Worldbuilding/Lore/Council President Diana Democratic]]** - Legislative leadership and policy development
+- **[[02_Worldbuilding/Lore/Shadow Integration Coordinator Luna Bridgebuilder]]** - Specialized community services
+- **[[02_Worldbuilding/Places/Harbor Master Captain Dockwise]]** - Port operations and maritime coordination
+- **[[02_Worldbuilding/Places/Planning Director Victor Visionkeeper]]** - Urban planning and development
+- **[[02_Worldbuilding/Lore/Communications Manager Jessica Spokesperson]]** - Public relations and media
 
 ## Headquarters & Holdings
 
 ### Primary Facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bexley City Hall]]**: Main government building and administrative center
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Municipal Services Complex]]**: Citizen service centers and permit offices
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Public Works Yard]]**: Equipment storage and maintenance facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Public Safety Complex]]**: Police, fire, and emergency services headquarters
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Center Network]]**: Recreation and social service facilities
+- **[[02_Worldbuilding/Lore/Bexley City Hall]]**: Main government building and administrative center
+- **[[02_Worldbuilding/Lore/Municipal Services Complex]]**: Citizen service centers and permit offices
+- **[[02_Worldbuilding/Lore/Public Works Yard]]**: Equipment storage and maintenance facilities
+- **[[02_Worldbuilding/Lore/Public Safety Complex]]**: Police, fire, and emergency services headquarters
+- **[[02_Worldbuilding/Lore/Community Center Network]]**: Recreation and social service facilities
 
 ### Public Infrastructure
 - **Harbor Facilities**: Docks, warehouses, and maritime infrastructure
@@ -440,32 +440,32 @@ Bexley serves as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyss
 ## Connected Elements
 
 ### Key NPCs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Mayor Cornelius Tidecrest]]** - Municipal chief executive and political leader
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Victoria Harbormane]]** - Deputy mayor and administrative specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]** - Regional authority relationship
+- **[[02_Worldbuilding/Lore/Mayor Cornelius Tidecrest]]** - Municipal chief executive and political leader
+- **[[02_Worldbuilding/Places/Victoria Harbormane]]** - Deputy mayor and administrative specialist
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]** - Regional authority relationship
 - **[[Administrator Marcus Protocols]]** - City manager and operations expert
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Treasurer Elena Goldflow]]** - Financial management and budget specialist
+- **[[02_Worldbuilding/Lore/Treasurer Elena Goldflow]]** - Financial management and budget specialist
 
 ### Related Locations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bexley City Hall]]** - Government center and civic headquarters
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]** - Regional context and higher government
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Municipal Services Complex]]** - Citizen service facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Facilities]]** - Port infrastructure and maritime operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Center Network]]** - Public facilities and services
+- **[[02_Worldbuilding/Lore/Bexley City Hall]]** - Government center and civic headquarters
+- **[[02_Worldbuilding/Places/Aquabyssos]]** - Regional context and higher government
+- **[[02_Worldbuilding/Lore/Municipal Services Complex]]** - Citizen service facilities
+- **[[02_Worldbuilding/Places/Harbor Facilities]]** - Port infrastructure and maritime operations
+- **[[02_Worldbuilding/Lore/Community Center Network]]** - Public facilities and services
 
 ### Associated Quests
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Municipal Election]]** - Campaign participation and electoral politics
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Quest - Harbor Expansion]]** - Economic development and community impact
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Shadow Integration]]** - Community relations and service development
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Budget Crisis]]** - Municipal finance and resource allocation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Civic Engagement]]** - Citizen participation and democratic involvement
+- **[[02_Worldbuilding/Lore/Quest - Municipal Election]]** - Campaign participation and electoral politics
+- **[[02_Worldbuilding/Places/Quest - Harbor Expansion]]** - Economic development and community impact
+- **[[02_Worldbuilding/Lore/Quest - Shadow Integration]]** - Community relations and service development
+- **[[02_Worldbuilding/Lore/Quest - Budget Crisis]]** - Municipal finance and resource allocation
+- **[[02_Worldbuilding/Lore/Quest - Civic Engagement]]** - Citizen participation and democratic involvement
 
 ### Important Items
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Municipal Charter]]** - Legal foundation of city government authority
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Annual Budget]]** - Financial plan and resource allocation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/City Development Plan]]** - Long-term growth and planning strategy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Integration Policy]]** - Guidelines for community services
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor Master's License]]** - Authorization for port operations
+- **[[02_Worldbuilding/Lore/Municipal Charter]]** - Legal foundation of city government authority
+- **[[02_Worldbuilding/Lore/Annual Budget]]** - Financial plan and resource allocation
+- **[[02_Worldbuilding/Lore/City Development Plan]]** - Long-term growth and planning strategy
+- **[[02_Worldbuilding/Lore/Shadow Integration Policy]]** - Guidelines for community services
+- **[[02_Worldbuilding/Places/Harbor Master's License]]** - Authorization for port operations
 
 ---
 
@@ -474,7 +474,7 @@ Bexley serves as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyss
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/Bexley Port Authority]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Bexley Port Authority]]
 
 ## Player-Facing Summary
 

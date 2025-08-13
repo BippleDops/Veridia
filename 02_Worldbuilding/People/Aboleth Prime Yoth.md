@@ -7,7 +7,7 @@ created: '2025-08-08'
 created_by: auto-stub
 faction: '[[02_Worldbuilding/Groups/The Parliament of Echoes|02 Worldbuilding/Groups/The
   Parliament Of Echoes]]'
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deepmind]]'
+location: '[[02_Worldbuilding/Places/The Deepmind]]'
 obsidianUIMode: preview
 race: Aboleth (Ancient)
 role: Shadow Prime Minister
@@ -42,7 +42,7 @@ world: Aquabyssos
 *The Eternal Memory, First Among Shadows, The Depth's Ancient Will*
 
 ## Overview
-Aboleth Prime Yoth is the most ancient and powerful aboleth in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], having ruled from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deepmind]] for over twelve millennia. As the true power behind the [[02_Worldbuilding/Groups/The Parliament of Echoes|02 Worldbuilding/Groups/The Parliament Of Echoes]], Yoth orchestrates the shadow corruption spreading through the underwater realm. They possess perfect racial memory stretching back to before the gods walked the realms, making them one of the few beings who remembers the time before [[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]'s awakening.
+Aboleth Prime Yoth is the most ancient and powerful aboleth in [[02_Worldbuilding/Places/Aquabyssos]], having ruled from [[02_Worldbuilding/Places/The Deepmind]] for over twelve millennia. As the true power behind the [[02_Worldbuilding/Groups/The Parliament of Echoes|02 Worldbuilding/Groups/The Parliament Of Echoes]], Yoth orchestrates the shadow corruption spreading through the underwater realm. They possess perfect racial memory stretching back to before the gods walked the realms, making them one of the few beings who remembers the time before [[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]'s awakening.
 
 ## Appearance
 - **Size**: Gargantuan (80 feet long, 20 feet wide)
@@ -64,7 +64,7 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[vault_backup_20
 1. **Complete the Shadow Convergence**: Transform all of Aquabyssos into a shadow-realm
 2. **Absorb All Memories**: Create a singular consciousness containing all knowledge
 3. **Transcend Physical Form**: Become a being of pure thought and shadow
-4. **Destroy the Surface**: Views [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] as an aberration
+4. **Destroy the Surface**: Views [[02_Worldbuilding/Places/Aethermoor]] as an aberration
 5. **Awaken the Deep Mother**: Believes shadows are her dreams manifesting
 
 ## Abilities & Powers
@@ -85,7 +85,7 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[vault_backup_20
 - **Shadow Portal**: Create portals between any two shadows in lair
 
 ### The Deepmind Connection
-- Direct neural link to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deepmind]] structure
+- Direct neural link to [[02_Worldbuilding/Places/The Deepmind]] structure
 - Can perceive through any water in Aquabyssos
 - Controls pressure and currents throughout the realm
 - Maintains psychic network with all lesser aboleths
@@ -93,22 +93,22 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[vault_backup_20
 ## Relationships & Connections
 
 ### Allies & Servants
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]**: Primary puppet in Parliament
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]**: Created from stolen noble's shadow
+- **[[02_Worldbuilding/People/Senator Glaucus]]**: Primary puppet in Parliament
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Created from stolen noble's shadow
 - **[[02_Worldbuilding/Groups/The Drowned Prophets|02 Worldbuilding/Groups/The Drowned Prophets]]**: Cult that worships Yoth
 - **Lesser Aboleths**: Twelve spawn that serve as extensions of will
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Collectors]]**: Specialized servants who harvest memories
+- **[[02_Worldbuilding/Lore/Memory Collectors]]**: Specialized servants who harvest memories
 
 ### Enemies & Rivals
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]**: Only being who remembers Yoth's origins
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]**: Resists mental domination
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Guard]]**: Secretly work against shadow spread
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]]**: Sees through Yoth's deceptions
+- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Only being who remembers Yoth's origins
+- **[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]**: Resists mental domination
+- **[[02_Worldbuilding/Lore/Depth Guard]]**: Secretly work against shadow spread
+- **[[02_Worldbuilding/People/Prophet Nerida Voidgazer]]**: Sees through Yoth's deceptions
 - **Surface Dwellers**: All who breathe air are anathema
 
 ### Complicated Relationships
 - **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]**: Worships yet seeks to control
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crown]]**: Manipulates while despising their existence
+- **[[02_Worldbuilding/Groups/The Crown]]**: Manipulates while despising their existence
 - **Shadows**: Views as children and tools simultaneously
 
 ## Lair: The Deepmind
@@ -143,8 +143,8 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[vault_backup_20
 - Created the first underwater civilizations through enslavement
 
 ### Recent Schemes
-- Orchestrated the [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/Parliament Dissolution Crisis]]
-- Corrupted the [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- Orchestrated the [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament Dissolution Crisis]]
+- Corrupted the [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
 - Initiated shadow transformation plague
 - Manipulated trade routes to weaken surface
 
@@ -179,16 +179,16 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[vault_backup_20
 ### What Yoth Knows
 - Location of [[02_Worldbuilding/Places/The Deep Mother|02 Worldbuilding/Places/The Deep Mother]]'s physical form
 - True nature of the shadow corruption
-- Secret entrances to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- Secret entrances to [[02_Worldbuilding/Places/Aethermoor]]
 - Every enslaved creature's deepest secrets
-- The coming [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Convergence]] prophecy
+- The coming [[02_Worldbuilding/Lore/Depth Convergence]] prophecy
 
 ### What Yoth Fears
-- The [[vault_backup_20250813_073007/02_Worldbuilding/People/Seventh Shard]] of Aethermoor
+- The [[02_Worldbuilding/People/Seventh Shard]] of Aethermoor
 - Complete memory death (forgetting)
 - The surface sun's touch
 - Unity between Aquabyssos and Aethermoor
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]'s true identity
+- [[02_Worldbuilding/People/The Crimson Sage]]'s true identity
 
 ## Quest Hooks & Encounters
 
@@ -244,32 +244,32 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[vault_backup_20
 ## Connected Elements
 
 ### NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]] - Primary puppet
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] - Eternal enemy
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]] - Greatest creation
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Resistant anomaly
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Sees the truth
+- [[02_Worldbuilding/People/Senator Glaucus]] - Primary puppet
+- [[02_Worldbuilding/People/The Scattered Emperor]] - Eternal enemy
+- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Greatest creation
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Resistant anomaly
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Sees the truth
 
 ### Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deepmind]] - Lair and body
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] - Political tool
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]] - Spawning grounds
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] - Territory
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Markets]] - Information network
+- [[02_Worldbuilding/Places/The Deepmind]] - Lair and body
+- [[02_Worldbuilding/Places/Parliament of Echoes]] - Political tool
+- [[02_Worldbuilding/Places/The Hadal Depths]] - Spawning grounds
+- [[02_Worldbuilding/Places/Abyssos Prime]] - Territory
+- [[02_Worldbuilding/Lore/Shadow Markets]] - Information network
 
 ### Quests
 - [[02_Worldbuilding/Quests/Quest - The Shadow Conspiracy|02 Worldbuilding/Quests/Quest The Shadow Conspiracy]]
 - [[02_Worldbuilding/Quests/Quest - The Deep Mother Rises|02 Worldbuilding/Quests/Quest The Deep Mother Rises]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Memory Thieves]]
+- [[02_Worldbuilding/Lore/Quest - The Memory Thieves]]
 - [[Quest - Parliament Corruption]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Depth War]]
+- [[02_Worldbuilding/Lore/Quest - The Depth War]]
 
 ### Items & Artifacts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crown of Enslaved Minds]] - Created from victims
+- [[02_Worldbuilding/Lore/Crown of Enslaved Minds]] - Created from victims
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Severed but living weapon
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Crystals]] - Solidified stolen thoughts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Mucus Vial]] - Alchemical component
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Depth Compass]] - Points to The Deepmind
+- [[02_Worldbuilding/Lore/Memory Crystals]] - Solidified stolen thoughts
+- [[02_Worldbuilding/Lore/Shadow Mucus Vial]] - Alchemical component
+- [[02_Worldbuilding/Lore/The Depth Compass]] - Points to The Deepmind
 
 ---
 
@@ -279,12 +279,12 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[vault_backup_20
 ## Connections
 
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bathyal Succession]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Real Marina]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/The Bathyal Succession]]
+- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
+- [[02_Worldbuilding/Lore/The Real Marina]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
 - [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
 - [[Pressure Angel Benthia]]
 - [[The_Crimson_Pearl|The Crimson Pearl]]
@@ -330,6 +330,6 @@ Legends speak of Aboleth Prime Yoth as a nexus where past and present converge. 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
 
 <!-- enriched: true -->

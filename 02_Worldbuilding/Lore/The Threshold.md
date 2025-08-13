@@ -41,11 +41,11 @@ world: Both Worlds
 *The Wound in Reality Where Worlds Meet and Part*
 
 > *"Stand at the Threshold and you stand at the heart of the catastrophe itself. Here, the very fabric of existence bears the scars of ultimate betrayal, where seven ambitions shattered the crown of a god and rent the boundaries between all things. The air itself remembers screaming. The ground recalls the taste of falling stars. And somewhere, in the space between what is and what could be, the echoes of that terrible night continue to reverberate through the foundations of reality."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dimensional Scholar Arcturus Voidwalker]], "Chronicles of the Great Sundering"
+> — [[02_Worldbuilding/Lore/Dimensional Scholar Arcturus Voidwalker]], "Chronicles of the Great Sundering"
 
 ## Overview
 
-The Threshold stands as the most dangerous and significant location in both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - the exact site where [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]] performed their reality-shattering ritual and where [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] was torn asunder. This dimensional nexus exists simultaneously in both worlds, creating a unique zone where the barriers between surface and underwater realms remain permanently weakened and unstable.
+The Threshold stands as the most dangerous and significant location in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] - the exact site where [[02_Worldbuilding/Lore/The Seven Betrayers]] performed their reality-shattering ritual and where [[02_Worldbuilding/Lore/The Crown of Stars]] was torn asunder. This dimensional nexus exists simultaneously in both worlds, creating a unique zone where the barriers between surface and underwater realms remain permanently weakened and unstable.
 
 The Threshold is not merely a location but a living wound in the fabric of existence itself. The catastrophic energies unleashed during the betrayal have never fully dissipated, instead creating a self-perpetuating cycle of dimensional instability that grows stronger over time. The site serves as a constant reminder of what unchecked ambition can accomplish, while simultaneously threatening to complete the destruction that the Seven Betrayers began.
 
@@ -57,12 +57,12 @@ The Threshold attracts dangerous individuals and entities from across dimensions
 
 ### The Dual Manifestation
 
-The Threshold exists simultaneously in both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], creating one of the few locations where inhabitants of both worlds can potentially encounter each other directly. However, the nature of this dual existence is far from straightforward.
+The Threshold exists simultaneously in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], creating one of the few locations where inhabitants of both worlds can potentially encounter each other directly. However, the nature of this dual existence is far from straightforward.
 
 **Surface Manifestation (Aethermoor)**:
 On the surface world, the Threshold appears as a massive crater approximately two miles in diameter, filled with crystalline formations that seem to shift between different states of matter. The crystals range from translucent to opaque, from solid to liquid, and occasionally exist in states that defy normal physical laws entirely.
 
-- **The Crater Rim**: Formed from fused stone and metal created by the initial explosion, the rim contains fragments of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] embedded in its structure
+- **The Crater Rim**: Formed from fused stone and metal created by the initial explosion, the rim contains fragments of [[02_Worldbuilding/Lore/The Crown of Stars]] embedded in its structure
 - **Crystal Gardens**: Geometric formations that grow and shift according to dimensional fluctuations
 - **Reality Pools**: Areas where different versions of events play out simultaneously
 - **The Center Point**: A sphere of pure dimensional energy that hovers exactly where the crown was shattered
@@ -102,7 +102,7 @@ The Threshold presents numerous dangers to anyone who approaches without proper 
 
 ### The Crown Fragment Resonance
 
-Scattered throughout the Threshold zone are microscopic fragments of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]], each one containing traces of the original divine power. These fragments create resonance fields that affect both the environment and visitors:
+Scattered throughout the Threshold zone are microscopic fragments of [[02_Worldbuilding/Lore/The Crown of Stars]], each one containing traces of the original divine power. These fragments create resonance fields that affect both the environment and visitors:
 
 **Fragment Effects**:
 - Spontaneous manifestation of divine abilities in visitors
@@ -122,7 +122,7 @@ Scattered throughout the Threshold zone are microscopic fragments of [[vault_bac
 
 ### Dimensional Entrapment
 
-One of the most closely guarded secrets about the Threshold is that it serves as an eternal prison for [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]] themselves. Though their physical bodies were destroyed in the Catastrophe, their consciousness became trapped within the dimensional distortions they created.
+One of the most closely guarded secrets about the Threshold is that it serves as an eternal prison for [[02_Worldbuilding/Lore/The Seven Betrayers]] themselves. Though their physical bodies were destroyed in the Catastrophe, their consciousness became trapped within the dimensional distortions they created.
 
 **The Nature of Their Imprisonment**:
 - Each betrayer exists in a separate dimensional pocket within the Threshold
@@ -150,7 +150,7 @@ Periodically, one or more of the betrayers manage to briefly manifest within the
 
 ## Research and Exploration
 
-Despite the dangers, both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] maintain research stations around the Threshold to monitor its activity and study its properties. The **International Threshold Consortium** coordinates these efforts, ensuring that knowledge gained benefits both worlds while maintaining safety protocols.
+Despite the dangers, both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] maintain research stations around the Threshold to monitor its activity and study its properties. The **International Threshold Consortium** coordinates these efforts, ensuring that knowledge gained benefits both worlds while maintaining safety protocols.
 
 **Current Research Focus**:
 - Dimensional stability monitoring and prediction systems
@@ -210,9 +210,9 @@ Despite the dangers, both [[vault_backup_20250813_073007/02_Worldbuilding/Places
 
 **Key Missing Personnel**:
 - [[Dr. Marina Deepcurrent]] - dimensional resonance specialist
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professor Thane Voidwalker]] - reality distortion expert
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Research Assistant Kell Memory]] - betrayer influence researcher
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Security Officer Guard Stormwind]] - expedition protection specialist
+- [[02_Worldbuilding/Lore/Professor Thane Voidwalker]] - reality distortion expert
+- [[02_Worldbuilding/Lore/Research Assistant Kell Memory]] - betrayer influence researcher
+- [[02_Worldbuilding/Lore/Security Officer Guard Stormwind]] - expedition protection specialist
 
 ## Investigation Opportunities
 
@@ -245,7 +245,7 @@ Despite the dangers, both [[vault_backup_20250813_073007/02_Worldbuilding/Places
 **Investigation Methods**:
 1. Interview affected individuals for common experiences
 2. Use detection methods for memory alteration evidence
-3. Research connection to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Malachar the Mindweaver]]
+3. Research connection to [[02_Worldbuilding/Lore/Malachar the Mindweaver]]
 4. Develop protective countermeasures
 5. Attempt recovery of stolen memories
 
@@ -273,7 +273,7 @@ Despite the dangers, both [[vault_backup_20250813_073007/02_Worldbuilding/Places
 
 **The Betrayer's Bargain**: One betrayer offers knowledge in exchange for freedom assistance
 
-**The Divine Restoration**: Using collected fragments to potentially restore [[vault_backup_20250813_073007/02_Worldbuilding/People/God-King Aetheron]]
+**The Divine Restoration**: Using collected fragments to potentially restore [[02_Worldbuilding/People/God-King Aetheron]]
 
 ### Epic Level Campaigns
 
@@ -292,13 +292,13 @@ Dimensional convergence is natural healing, not disaster. It will create stable 
 The Seven Betrayers achieved their goal - transcendence beyond normal reality. Their "suffering" is the price of cosmic awareness.
 
 ### Aetheron's Design
-The betrayal was engineered by [[vault_backup_20250813_073007/02_Worldbuilding/People/God-King Aetheron]] to force evolution beyond divine dependence. He can still intervene when necessary.
+The betrayal was engineered by [[02_Worldbuilding/People/God-King Aetheron]] to force evolution beyond divine dependence. He can still intervene when necessary.
 
 ### The Research Manipulation
 High-ranking consortium members secretly work to trigger convergence, believing it represents necessary evolution.
 
 ### The Fragment Network
-Crown fragments are rebuilding [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] in new form compatible with post-convergence reality.
+Crown fragments are rebuilding [[02_Worldbuilding/Lore/The Crown of Stars]] in new form compatible with post-convergence reality.
 
 ## Adventure Integration
 
@@ -325,22 +325,22 @@ Crown fragments are rebuilding [[vault_backup_20250813_073007/02_Worldbuilding/L
 
 ## Connected Topics and References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]] - Conspirators who created the dimensional breach
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] - Shattered divine artifact at Threshold's heart
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/God-King Aetheron]] - Betrayed ruler whose power was scattered
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Sealing]] - Potential future resolution of instability
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alterations]] - Betrayer influence effects beyond Threshold
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]] - Other dimensionally damaged locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Distortion Zones]] - Areas where time flow is disrupted
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Singer Beyond]] - Cosmic entity attracted by dimensional breach
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Face the Ancient Threat]] - Prophecies about Threshold-centered events
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/INV-002]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/INV-003]], [[vault_backup_20250813_073007/02_Worldbuilding/Lore/INV-006]] - Official Threshold investigations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgotten Archive]] - Hidden repository of Threshold research
+- [[02_Worldbuilding/Lore/The Seven Betrayers]] - Conspirators who created the dimensional breach
+- [[02_Worldbuilding/Lore/The Crown of Stars]] - Shattered divine artifact at Threshold's heart
+- [[02_Worldbuilding/People/God-King Aetheron]] - Betrayed ruler whose power was scattered
+- [[02_Worldbuilding/Lore/The Final Sealing]] - Potential future resolution of instability
+- [[02_Worldbuilding/Lore/Memory Alterations]] - Betrayer influence effects beyond Threshold
+- [[02_Worldbuilding/Lore/Reality Merge Zones]] - Other dimensionally damaged locations
+- [[02_Worldbuilding/Lore/Temporal Distortion Zones]] - Areas where time flow is disrupted
+- [[02_Worldbuilding/Lore/The Singer Beyond]] - Cosmic entity attracted by dimensional breach
+- [[02_Worldbuilding/Lore/Face the Ancient Threat]] - Prophecies about Threshold-centered events
+- [[02_Worldbuilding/Lore/INV-002]], [[02_Worldbuilding/Lore/INV-003]], [[02_Worldbuilding/Lore/INV-006]] - Official Threshold investigations
+- [[02_Worldbuilding/Lore/The Forgotten Archive]] - Hidden repository of Threshold research
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Effect Quick Reference]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Environmental Hazards]]
+- [[02_Worldbuilding/Lore/Depth Effect Quick Reference]]
+- [[02_Worldbuilding/Lore/Environmental Hazards]]
 
 ## Player-Facing Summary
 
@@ -364,9 +364,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Distortion Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Lore/Location Index]]
+- [[02_Worldbuilding/Lore/Reality Merge Zones]]
+- [[02_Worldbuilding/Lore/Temporal Distortion Zones]]
+- [[02_Worldbuilding/Lore/The Crown of Stars]]
+- [[02_Worldbuilding/Lore/The Seven Betrayers]]
+- [[02_Worldbuilding/Places/Aethermoor]]

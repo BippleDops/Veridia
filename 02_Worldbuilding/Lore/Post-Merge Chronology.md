@@ -518,16 +518,16 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 ## Cross-References
 
 - [[The Catastrophe: Hour by Hour]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pre-Drowning Civilization Archives]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Conspiracy Timeline]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Economic History of the Realms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Plague Origins]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Parliamentary Founding]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reality Anchor Network]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Great Drowning]] (enhanced)
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- [[02_Worldbuilding/Lore/Pre-Drowning Civilization Archives]]
+- [[02_Worldbuilding/Lore/Shadow Conspiracy Timeline]]
+- [[02_Worldbuilding/Lore/Economic History of the Realms]]
+- [[02_Worldbuilding/Lore/Crystal Plague Origins]]
+- [[02_Worldbuilding/Lore/Parliamentary Founding]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Places/Reality Anchor Network]]
+- [[02_Worldbuilding/Lore/Great Drowning]] (enhanced)
+- [[02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/Places/Port Meridian]]
 - [[Deep Parliament Chambers]]
 
 ## Player-Facing Summary

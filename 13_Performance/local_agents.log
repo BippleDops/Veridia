@@ -1,0 +1,1384 @@
+date: invalid argument 's' for -I
+[] starting local agents
+[] starting local agents
+ollama:ok
+scripts/local_agents.sh: line 20: D: command not found
+date: invalid argument 's' for -I
+[] local agents launched
+[] local agents launched
+5: -c: line 2: unexpected EOF while looking for matching `"'
+5: -c: line 3: syntax error: unexpected end of file
+date: invalid argument 's' for -I
+[] starting local agents
+[] starting local agents
+ollama:ok
+scripts/local_agents.sh: line 20: D: command not found
+date: invalid argument 's' for -I
+[] local agents launched
+[] local agents launched
+5: -c: line 2: unexpected EOF while looking for matching `"'
+5: -c: line 3: syntax error: unexpected end of file
+date: invalid argument 's' for -I
+[] starting local agents
+[] starting local agents
+ollama:ok
+date: invalid argument 's' for -I
+[] local agents launched
+[] local agents launched
+bash: line 2: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+[2025-08-13T15:25:42Z] starting local agents
+[2025-08-13T15:25:42Z] starting local agents
+ollama:ok
+[2025-08-13T15:25:42Z] local agents launched
+[2025-08-13T15:25:42Z] local agents launched
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+[2025-08-13T16:12:12Z] starting local agents
+[2025-08-13T16:12:12Z] starting local agents
+ollama:ok
+[2025-08-13T16:12:12Z] local agents launched
+[2025-08-13T16:12:12Z] local agents launched
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+ollama 404: {"error":"model 'llama3.1' not found"}
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 50: 09_Performance/local_agents_img_2.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: 09_Performance/local_agents_img.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 21: 09_Performance/local_agents.log: No such file or directory
+scripts/local_agents.sh: line 39: 09_Performance/local_agents_img.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: 09_Performance/local_agents_img_2.log: No such file or directory
+bash: line 2: append_prompts: command not found
+bash: line 3: append_prompts: command not found
+bash: line 4: append_prompts: command not found
+bash: line 5: append_prompts: command not found
+bash: line 6: 09_Performance/local_agents_img.log: No such file or directory

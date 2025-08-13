@@ -35,7 +35,7 @@ Bio-mechanical trees, memory-forged items, reality-bending artifacts, living wea
 ## Risks
 - Miscraft: Gain curses, sentience, or paradox flaws
 
-Integrates: [[Memory Trading Economy System|Memory Economy]], [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]], [[Vehicle_Customization_Progression|Vehicle Customization Progression]].
+Integrates: [[Memory Trading Economy System|Memory Economy]], [[03_Mechanics/Complete Reality Merger System]], [[Vehicle_Customization_Progression|Vehicle Customization Progression]].
 
 ## Player-Facing Summary
 

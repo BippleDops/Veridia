@@ -23,22 +23,22 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]]
+- [[02_Worldbuilding/Lore/Queen Seraphina]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Queen Seraphina]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Duke Cyrus Reefheart]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Angels and Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chef Gastropod]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian Harbor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Mothercoral Crisis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Royal Palace]]
+- [[02_Worldbuilding/Lore/Queen Seraphina]]
+- [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
+- [[02_Worldbuilding/Places/Angels and Depths]]
+- [[02_Worldbuilding/Places/Chef Gastropod]]
+- [[02_Worldbuilding/Places/Lumengarde]]
+- [[02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/Places/Port Meridian Harbor]]
+- [[02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Mothercoral Crisis]]
+- [[02_Worldbuilding/Places/The Royal Palace]]
 
 ## Player-Facing Summary
 

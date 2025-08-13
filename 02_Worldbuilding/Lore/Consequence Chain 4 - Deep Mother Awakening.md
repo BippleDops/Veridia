@@ -43,10 +43,10 @@ world: Both Worlds
 
 **Who was directly affected:**
 - **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]**: Experienced consciousness, emotion, and empathy for the first time
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]**: Revealed to be partially merged with cosmic awareness
+- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Revealed to be partially merged with cosmic awareness
 - **Party members**: Permanently altered by psychic contact with primordial consciousness
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]**: Either transformed into living thought or granted cosmic protection
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]] cults**: Religious worldview validated but fundamentally changed
+- **[[02_Worldbuilding/Places/Aquabyssos]]**: Either transformed into living thought or granted cosmic protection
+- **[[02_Worldbuilding/Lore/Deep Mother]] cults**: Religious worldview validated but fundamentally changed
 - **Reality itself**: Cosmic awareness now includes understanding of mortal experience
 
 **Immediate visible results:**
@@ -189,7 +189,7 @@ world: Both Worlds
 
 ### Links to Other Major Events
 - **[[Consequence Chain 3 - Reality Merger Diplomatic Crisis]]**: Cosmic awareness facilitated successful merger
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Consequence Chain 1 - Shadow Conspiracy Exposure]]**: Enhanced empathy resolved shadow-original conflicts
+- **[[02_Worldbuilding/Lore/Consequence Chain 1 - Shadow Conspiracy Exposure]]**: Enhanced empathy resolved shadow-original conflicts
 - **[[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's bloodline enabled cosmic communication
 - **Future cosmic encounters**: Other primordial entities drawn to empathic awareness
 
@@ -221,11 +221,11 @@ world: Both Worlds
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Consequence Tracking Framework]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 10 - The Shadow Finale]]
+- [[02_Worldbuilding/Lore/Campaign Consequence Tracking Framework]]
+- [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
+- [[1-Session Journals/Aquabyssos - Session 10 - The Shadow Finale]]
 - [[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]
 - [[03_Mechanics/Deep_Mother_Subsystem|03 Mechanics/Deep Mother Subsystem]]
 - [[Cosmic Consciousness Ethics]]
 - [[Reality Stability Protocols]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Political Intrigue Master Index]]
+- [[02_Worldbuilding/Lore/Political Intrigue Master Index]]

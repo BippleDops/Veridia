@@ -127,7 +127,7 @@ Initially viewed with suspicion by some citizens who associated darkness with ma
 ## Connections
 
 The Garden connects to Aquabyssos's main thoroughfares through a series of gradually darkening passages that allow visitors to adapt to the lightless environment. Secret passages link it to other mystical sites in the city, while its philosophical network extends to similar institutions in other underwater realms and even some surface locations dedicated to the study of darkness and shadow.
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]]
+- [[02_Worldbuilding/Places/Lumengarde]]
 
 
 ## Layout
@@ -167,6 +167,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Garden of Shadows]]
+- [[02_Worldbuilding/Places/Garden of Shadows]]
 
 <!-- enriched: true -->

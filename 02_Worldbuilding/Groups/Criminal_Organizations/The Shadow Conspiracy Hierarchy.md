@@ -2,7 +2,7 @@
 alignment: Neutral Evil
 created: '2025-08-12'
 faction_type: Secret Organization
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Umbral Nexus]]'
+headquarters: '[[02_Worldbuilding/Places/The Umbral Nexus]]'
 influence: Continental
 leader: '[[The Umbral Council]]'
 members: ~12,000 operatives across all levels
@@ -81,7 +81,7 @@ The hierarchy serves three primary functions: operational command for complex mu
 **Resources**: 2,800 operatives, 15 major facilities, extensive political network
 
 **Key Operations**:
-- Parliamentary infiltration through [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Parliamentary Infiltration Methods]]
+- Parliamentary infiltration through [[02_Worldbuilding/Lore/Parliamentary Infiltration Methods]]
 - Economic manipulation via shadow-controlled merchant houses
 - Cultural influence through educational institution control
 - Military intelligence gathering and sabotage coordination
@@ -105,7 +105,7 @@ The hierarchy serves three primary functions: operational command for complex mu
 **Resources**: 2,100 operatives, 18 major facilities, advanced research capabilities
 
 **Key Operations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Consciousness Manipulation Technology]] development and refinement
+- [[02_Worldbuilding/Lore/Consciousness Manipulation Technology]] development and refinement
 - Industrial sabotage and production manipulation
 - Scientific research infiltration and technological advancement
 - Manufacturing facility control for equipment production
@@ -126,7 +126,7 @@ The hierarchy serves three primary functions: operational command for complex mu
 
 ##### The Surgical Regent
 **Current Holder**: [[Archshadow Mortis Voidcut]]  
-**Department**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Surgery Network]] operations  
+**Department**: [[02_Worldbuilding/Places/Shadow Surgery Network]] operations  
 **Specialization**: Consciousness transfer and identity replacement procedures  
 **Authority**: All surgical facilities, medical personnel, replacement operations
 
@@ -203,7 +203,7 @@ Each Departmental Regent oversees multiple specialized commanders:
 #### Facility Captains
 Direct commanders of major shadow conspiracy installations:
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Surgery Network]] Examples**:
+**[[02_Worldbuilding/Places/Shadow Surgery Network]] Examples**:
 - **Captain Scalpel Voidhand**: The Deep Ward primary facility commander
 - **Captain Healing Shadowtouch**: The Restoration Chambers mobile operations
 - **Captain Memory Darkblade**: The Garden of Whispers pediatric operations

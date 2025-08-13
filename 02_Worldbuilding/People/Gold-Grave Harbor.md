@@ -22,7 +22,7 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Duchess Marina Ever-Drowning]]
+- [[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]
 
 ## Player-Facing Summary
 

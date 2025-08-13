@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Garden]]
+- [[02_Worldbuilding/Lore/Crystal Garden]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Garden]]
+- [[02_Worldbuilding/Lore/Crystal Garden]]
 
 ## Player-Facing Summary
 

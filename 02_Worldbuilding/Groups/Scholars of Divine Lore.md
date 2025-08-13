@@ -442,15 +442,15 @@ Official agencies see the Scholars as:
 ## Cross-References
 
 - [[Complete Deep Mother Subsystem]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Lore]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Forbidden Tomes of Deep Mother]]
-- [[vault_backup_20250813_073007/03_Mechanics/Deep Mother Sanity System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reality Breach Locations]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Order of the Silver Anchor]]
+- [[02_Worldbuilding/Lore/Deep Mother Lore]]
+- [[02_Worldbuilding/Items/Forbidden Tomes of Deep Mother]]
+- [[03_Mechanics/Deep Mother Sanity System]]
+- [[02_Worldbuilding/Places/Reality Breach Locations]]
+- [[02_Worldbuilding/Groups/Orders/Order of the Silver Anchor]]
 - [[Academy of Deep Understanding]]
 - [[Crystal Guardian Orders]]
 - [[Chief Scholar Meridian Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Anchors]]
+- [[02_Worldbuilding/Lore/Reality Anchors]]
 
 ## Player-Facing Summary
 

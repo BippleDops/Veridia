@@ -52,9 +52,9 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 
 ### Key Lieutenants
 - **Whisper Jack** - Smuggling operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Barnacle]]** - Fencing and money laundering
+- **[[02_Worldbuilding/People/The Barnacle]]** - Fencing and money laundering
 - **[[01_Campaigns/Aquabyssos/NPCs/Captain Marlowe Tidecrest|Captain 'Red Tide' Morgan]]** - Piracy fleet
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Schooling]]** - Spy network of orphans
+- **[[02_Worldbuilding/People/The Schooling]]** - Spy network of orphans
 
 ## The Vampire Problem
 
@@ -87,7 +87,7 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 
 ## Relationships
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Quests/High Tidecaller Nerissa]]
+### [[02_Worldbuilding/Quests/High Tidecaller Nerissa]]
 "We dance because neither can afford to stop the music."
 - Mutual hostage situation
 - Each has dirt on the other
@@ -101,7 +101,7 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 - Both know it's dirty but need each other
 - Connected through [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]
+### [[02_Worldbuilding/People/Aboleth Prime Yoth]]
 "Even I have things I won't deal with. Usually."
 - Occasional trades for forbidden knowledge
 - Mutual wariness and respect
@@ -154,11 +154,11 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 
 ## Quest Hooks
 
-1. **[[vault_backup_20250813_073007/02_Worldbuilding/People/Blood in the Water]]** - She needs special blood from a surface noble
-2. **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Pearl Heist]]** - Steal from her or for her
-3. **[[vault_backup_20250813_073007/02_Worldbuilding/People/Syndicate War]]** - Internal power struggle
-4. **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Cure]]** - Help her find vampire cure (or ensure she doesn't)
-5. **[[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Syndicate]]** - Establish criminal network above
+1. **[[02_Worldbuilding/People/Blood in the Water]]** - She needs special blood from a surface noble
+2. **[[02_Worldbuilding/People/The Pearl Heist]]** - Steal from her or for her
+3. **[[02_Worldbuilding/People/Syndicate War]]** - Internal power struggle
+4. **[[02_Worldbuilding/People/The Cure]]** - Help her find vampire cure (or ensure she doesn't)
+5. **[[02_Worldbuilding/People/Surface Syndicate]]** - Establish criminal network above
 
 ## Interaction Guide
 
@@ -271,9 +271,9 @@ Legends speak of The Crimson Pearl as a nexus where past and present converge. L
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Blood in the Water]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Syndicate]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Barnacle]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Pearl Heist]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/High Tidecaller Nerissa]]
+- [[02_Worldbuilding/People/Aboleth Prime Yoth]]
+- [[02_Worldbuilding/People/Blood in the Water]]
+- [[02_Worldbuilding/People/Surface Syndicate]]
+- [[02_Worldbuilding/People/The Barnacle]]
+- [[02_Worldbuilding/People/The Pearl Heist]]
+- [[02_Worldbuilding/Quests/High Tidecaller Nerissa]]

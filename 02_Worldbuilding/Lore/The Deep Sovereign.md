@@ -1,19 +1,15 @@
 ---
-created: '2025-08-11'
+type: Lore
 status: complete
 tags:
+- active
 - aquabyssos
-- complete
-- content/adventure
-- content/lore
 - lore
-- status/in-progress
-- world/aquabyssos
-type: Lore
-updated: '2025-08-13T12:34:29.195354+00:00'
+- quest
 world: Aquabyssos
+created: '2025-08-11'
+updated: '2025-08-13T01:18:35.012712+00:00'
 ---
-
 
 
 

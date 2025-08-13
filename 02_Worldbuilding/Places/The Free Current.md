@@ -29,23 +29,23 @@ world: Both
 *Where the Waters Flow Unbound*
 
 > *"Here in the Current, no lord claims dominion over the tide. Every soul swims free, every trade finds its level, and every dream has space to grow. This is what freedom looks like when it moves with the water."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Torrent Freewater]], Founder and First Speaker of the Free Current
+> — [[02_Worldbuilding/People/Captain Torrent Freewater]], Founder and First Speaker of the Free Current
 
 ## Overview
 
-The Free Current stands as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most radical experiment in individual liberty and economic freedom. This sprawling district operates under minimal government, where trade flows as freely as the waters themselves and personal liberty is considered the highest virtue. Founded by refugees from authoritarian regimes and entrepreneurial spirits seeking opportunity, the Free Current has evolved into a bustling center of commerce, innovation, and controlled chaos where anything can be bought, sold, or traded as long as it doesn't harm others.
+The Free Current stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most radical experiment in individual liberty and economic freedom. This sprawling district operates under minimal government, where trade flows as freely as the waters themselves and personal liberty is considered the highest virtue. Founded by refugees from authoritarian regimes and entrepreneurial spirits seeking opportunity, the Free Current has evolved into a bustling center of commerce, innovation, and controlled chaos where anything can be bought, sold, or traded as long as it doesn't harm others.
 
 ## History and Foundation
 
 ### The Great Exodus
-**Period**: 250 years ago, mass flight from the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Throne Syndicate]]'s oppressive rule  
+**Period**: 250 years ago, mass flight from the [[02_Worldbuilding/Places/Coral Throne Syndicate]]'s oppressive rule  
 **Catalyst**: New taxation laws and trading restrictions imposed by authoritarian regimes  
-**Leaders**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Torrent Freewater]] and the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Liberty Coalition]]  
+**Leaders**: [[02_Worldbuilding/People/Captain Torrent Freewater]] and the [[02_Worldbuilding/Places/Liberty Coalition]]  
 **Numbers**: Over 3,000 initial refugees seeking economic and personal freedom  
 **Challenge**: Finding territory not claimed by any existing power
 
 ### The Founding Compact
-**Document**: The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current Charter]], establishing principles of minimal government  
+**Document**: The [[02_Worldbuilding/Places/Free Current Charter]], establishing principles of minimal government  
 **Principles**: Individual liberty, free trade, voluntary association, mutual defense  
 **Structure**: Council of elected representatives with strictly limited powers  
 **Rights**: Guaranteed freedom of speech, trade, movement, and personal choice  
@@ -53,7 +53,7 @@ The Free Current stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 
 ### Early Struggles
 **Challenges**: Lack of infrastructure, hostile neighbors, internal disagreements  
-**Pirates**: Regular attacks from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Raider]] gangs seeking easy prey  
+**Pirates**: Regular attacks from [[02_Worldbuilding/Places/Depth Raider]] gangs seeking easy prey  
 **Diplomacy**: Establishing trade relationships while maintaining independence  
 **Internal Conflict**: Debates between pure libertarians and practical governance advocates  
 **Survival**: Learning to balance freedom with the cooperation needed for underwater life
@@ -161,11 +161,11 @@ The Free Current stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 **Accountability**: Regular public meetings and easy recall procedures
 
 #### Current Council Members
-**First Speaker**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Marina Clearwater]] - Mediator and Council coordinator  
-**Trade Representative**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Finn Deepmarket]] - Oversees commercial regulations  
-**Security Coordinator**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Storm Tideguard]] - Manages community defense  
-**Infrastructure Manager**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Builder Coral Architect]] - Handles public works  
-**Justice Mediator**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Wise Tide Truthseeker]] - Arbitrates major disputes
+**First Speaker**: [[02_Worldbuilding/Places/Marina Clearwater]] - Mediator and Council coordinator  
+**Trade Representative**: [[02_Worldbuilding/Places/Finn Deepmarket]] - Oversees commercial regulations  
+**Security Coordinator**: [[02_Worldbuilding/People/Captain Storm Tideguard]] - Manages community defense  
+**Infrastructure Manager**: [[02_Worldbuilding/Places/Builder Coral Architect]] - Handles public works  
+**Justice Mediator**: [[02_Worldbuilding/Places/Wise Tide Truthseeker]] - Arbitrates major disputes
 
 ### Legal System
 
@@ -248,10 +248,10 @@ The Free Current stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 ### Trade Networks
 
 #### Regional Connections
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]**: Major trading partner despite political differences  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]**: Military goods and security services  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/pat]]**: Competing but complementary trading hub  
-**Surface Realms**: Growing trade with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and other surface communities  
+**[[02_Worldbuilding/Places/Abyssos Prime]]**: Major trading partner despite political differences  
+**[[02_Worldbuilding/Places/Azure Citadel]]**: Military goods and security services  
+**[[02_Worldbuilding/Lore/pat]]**: Competing but complementary trading hub  
+**Surface Realms**: Growing trade with [[02_Worldbuilding/Places/Aethermoor]] and other surface communities  
 **Independent Communities**: Strong relationships with other free communities
 
 #### International Commerce
@@ -306,21 +306,21 @@ The Free Current stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 
 ### Community Leaders
 
-#### First Speaker [[vault_backup_20250813_073007/02_Worldbuilding/Places/Marina Clearwater]]
+#### First Speaker [[02_Worldbuilding/Places/Marina Clearwater]]
 **Role**: Elected coordinator of the Merchant Council and community spokesman  
-**Background**: Former refugee from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Throne Syndicate]] oppression  
+**Background**: Former refugee from [[02_Worldbuilding/Places/Coral Throne Syndicate]] oppression  
 **Philosophy**: Strong libertarian principles with practical governance experience  
 **Leadership**: Skilled at building consensus while respecting individual rights  
 **Challenge**: Balancing growth pressures with founding principles of minimal government
 
-#### Trade Representative [[vault_backup_20250813_073007/02_Worldbuilding/Places/Finn Deepmarket]]
+#### Trade Representative [[02_Worldbuilding/Places/Finn Deepmarket]]
 **Position**: Council member overseeing commercial policy and trade relations  
 **Expertise**: International trade networks and market analysis  
 **Innovation**: Developer of new trading instruments and commercial practices  
 **Relationships**: Extensive contacts throughout Aquabyssos trading community  
 **Vision**: Expanding Free Current's role as regional trading hub
 
-#### Security Coordinator [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Storm Tideguard]]
+#### Security Coordinator [[02_Worldbuilding/People/Captain Storm Tideguard]]
 **Role**: Leader of community defense forces and security policy  
 **Background**: Former military officer who became convinced of libertarian principles  
 **Approach**: Minimal but effective security based on community involvement  
@@ -329,21 +329,21 @@ The Free Current stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 
 ### Prominent Merchants
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Vortextrader]]
+#### [[02_Worldbuilding/Places/Coral Vortextrader]]
 **Business**: Large trading company specializing in luxury goods  
 **Success**: Built business from small start-up to major regional player  
 **Innovation**: Pioneer in developing new trade routes and products  
 **Philosophy**: Believes free markets benefit everyone through mutual exchange  
 **Influence**: Major supporter of Free Current political and economic principles
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tide Risktaker]]
+#### [[02_Worldbuilding/Places/Tide Risktaker]]
 **Specialty**: High-risk, high-reward trading ventures  
 **Reputation**: Known for successful investments in dangerous but profitable opportunities  
 **Network**: Contacts with traders in most dangerous and lucrative markets  
 **Philosophy**: Freedom includes the right to take risks with your own resources  
 **Mentor**: Helps train new traders in risk assessment and management
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Innovator]]
+#### [[02_Worldbuilding/Places/Current Innovator]]
 **Focus**: Developing and marketing new technologies and services  
 **Success**: Multiple successful businesses creating previously unknown products  
 **Vision**: Technology and innovation as keys to prosperity and freedom  
@@ -352,14 +352,14 @@ The Free Current stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 
 ### Cultural Figures
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sage Freedom Philosopher]]
+#### [[02_Worldbuilding/Places/Sage Freedom Philosopher]]
 **Role**: Intellectual leader developing and teaching libertarian philosophy  
 **Writing**: Author of influential works on individual liberty and voluntary society  
 **Teaching**: Runs private school teaching principles of free society  
 **Influence**: Ideas influential throughout Free Current and beyond  
 **Debate**: Regular public discussions and debates on political and social issues
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Artist Wave Creator]]
+#### [[02_Worldbuilding/Places/Artist Wave Creator]]
 **Medium**: Creates art celebrating individual freedom and human diversity  
 **Style**: Unique artistic style combining multiple cultural traditions  
 **Community**: Organizes cultural events and artistic exchanges  
@@ -442,7 +442,7 @@ The Free Current stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 **Justice**: Emphasis on restitution and community involvement
 
 #### External Threats
-**Piracy**: Attacks by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Raiders]] and other criminal organizations  
+**Piracy**: Attacks by [[02_Worldbuilding/Places/Depth Raiders]] and other criminal organizations  
 **Defense**: Community militia and private security forces  
 **Intelligence**: Information networks monitoring threats  
 **Diplomacy**: Peaceful resolution of conflicts when possible  
@@ -598,35 +598,35 @@ The Free Current stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+### [[02_Worldbuilding/Places/Parliament of Echoes]]
 **Relationship**: Tense relationship over taxation and regulation issues  
 **Trade**: Significant commercial exchange despite political differences  
 **Influence**: Free Current ideas gradually influencing parliamentary debates  
 **Conflict**: Occasional disputes over jurisdiction and legal authority  
 **Cooperation**: Limited cooperation on issues of mutual interest
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+### [[02_Worldbuilding/Places/Abyssos Prime]]
 **Commerce**: Major trading partner and source of customers  
 **Politics**: Political differences but strong economic relationships  
 **Migration**: Many Free Current residents originally from the capital  
 **Influence**: Free Current serving as example of alternative governance  
 **Tension**: Government officials concerned about Free Current's growing influence
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/pat]]
+### [[02_Worldbuilding/Lore/pat]]
 **Competition**: Competing trading hubs with different approaches  
 **Cooperation**: Some cooperation on trade routes and market development  
 **Innovation**: Different models driving innovation in both communities  
 **Specialization**: Each market developing different specialties and advantages  
 **Exchange**: Regular exchange of ideas and business practices
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
+### [[02_Worldbuilding/Places/Azure Citadel]]
 **Security**: Sometimes cooperation on security and defense issues  
 **Trade**: Commercial relationships despite different political systems  
 **Recruitment**: Some Free Current residents serve in military forces  
 **Tension**: Different approaches to individual rights and military discipline  
 **Respect**: Military respect for Free Current's effective community defense
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+### [[02_Worldbuilding/Places/Memory Farmers]]
 **Services**: Using memory services for business and legal purposes  
 **Innovation**: Developing new applications for memory technology  
 **Ethics**: Ongoing debates about memory privacy and commercial use  
@@ -647,37 +647,37 @@ The Free Current stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/pat]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Lore/pat]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Torrent Freewater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Marina Clearwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Finn Deepmarket]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Storm Tideguard]]
+- [[02_Worldbuilding/People/Captain Torrent Freewater]]
+- [[02_Worldbuilding/Places/Marina Clearwater]]
+- [[02_Worldbuilding/Places/Finn Deepmarket]]
+- [[02_Worldbuilding/People/Captain Storm Tideguard]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Free Current Charter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Liberty Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Private Arbitration]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Voluntary Taxation]]
+- [[02_Worldbuilding/Places/Free Current Charter]]
+- [[02_Worldbuilding/Places/Liberty Coalition]]
+- [[02_Worldbuilding/Places/Private Arbitration]]
+- [[02_Worldbuilding/Places/Voluntary Taxation]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime Docks]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Blood Current Express]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chef Gastropod]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Tensions]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Cerulean Trench]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Market]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Void Touched Depths]]
+- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
+- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
+- [[02_Worldbuilding/Places/Blood Current Express]]
+- [[02_Worldbuilding/Places/Chef Gastropod]]
+- [[02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/Places/Royal Palace]]
+- [[02_Worldbuilding/Places/Surface Tensions]]
+- [[02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/Places/The Depth Market]]
+- [[02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/Places/The Void Touched Depths]]
 
 ## Player-Facing Summary
 
@@ -699,10 +699,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/The Free Current]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Floating Market]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/The Floating Market]]

@@ -69,10 +69,10 @@ SORT file.name ASC
 - Doctrine Quick Reference: [[04_Resources/Handouts/Doctrines/Doctrine Quick Reference]]
 
 ## Quick References
-- [[vault_backup_20250813_073007/07_Player_Resources/Handouts/Sanity Quick Reference]] — Mental health mechanics
-- [[vault_backup_20250813_073007/07_Player_Resources/Handouts/Welcome to Aquabyssos]] — World primer
-- [[vault_backup_20250813_073007/07_Player_Resources/Character Creation Extended]] — Build options
-- [[vault_backup_20250813_073007/07_Player_Resources/Faction Guide]] — Political landscape
+- [[07_Player_Resources/Handouts/Sanity Quick Reference]] — Mental health mechanics
+- [[07_Player_Resources/Handouts/Welcome to Aquabyssos]] — World primer
+- [[07_Player_Resources/Character Creation Extended]] — Build options
+- [[07_Player_Resources/Faction Guide]] — Political landscape
 
 ---
 Last updated: {{date:YYYY-MM-DD}}

@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ritual Redirection Options]]
+- [[02_Worldbuilding/Lore/Ritual Redirection Options]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ritual Redirection Options]]
+- [[02_Worldbuilding/Lore/Ritual Redirection Options]]
 
 ## Player-Facing Summary
 

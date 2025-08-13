@@ -47,7 +47,7 @@ Practical, table-ready rules for Shadow Separation Mechanics across Aquabyssos a
 - Offer informed choices and reminders of Lines & Veils.
 
 ## Cross-References
-- [[09_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
+- [[13_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
 - [[06_GM_Resources/Ultimate_GM_Screen.md|Ultimate GM Screen]]
 
 ## Player-Facing Summary
@@ -73,5 +73,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]

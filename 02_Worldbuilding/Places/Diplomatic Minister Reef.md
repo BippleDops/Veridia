@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quest - The Missing Fleet]]
+- [[02_Worldbuilding/Places/Quest - The Missing Fleet]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quest - The Missing Fleet]]
+- [[02_Worldbuilding/Places/Quest - The Missing Fleet]]
 
 ## Player-Facing Summary
 

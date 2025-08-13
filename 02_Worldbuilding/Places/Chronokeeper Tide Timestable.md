@@ -63,11 +63,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chronokeeper Tide Timestable]]
+- [[02_Worldbuilding/Places/Chronokeeper Tide Timestable]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Navigation Hazards]]
+- [[02_Worldbuilding/Lore/Temporal Navigation Hazards]]

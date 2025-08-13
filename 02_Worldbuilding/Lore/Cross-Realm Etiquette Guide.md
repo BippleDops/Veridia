@@ -27,7 +27,7 @@ world: Both
 
 ## Overview
 
-The Cross-Realm Etiquette Guide serves as the definitive resource for navigating the complex cultural interactions between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]. As contact between these realms increases through trade, diplomacy, and the reality convergence phenomenon, understanding how to respectfully bridge vastly different cultural traditions becomes essential for successful inter-realm relations. This guide provides practical protocols, cultural translation methods, and diplomatic strategies for individuals who must operate across both domains.
+The Cross-Realm Etiquette Guide serves as the definitive resource for navigating the complex cultural interactions between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. As contact between these realms increases through trade, diplomacy, and the reality convergence phenomenon, understanding how to respectfully bridge vastly different cultural traditions becomes essential for successful inter-realm relations. This guide provides practical protocols, cultural translation methods, and diplomatic strategies for individuals who must operate across both domains.
 
 ## Chapter I: Fundamental Cultural Translation Principles
 
@@ -457,12 +457,12 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 ## Connected NPCs
 - [[02_Worldbuilding/People/Ambassador Marina Tidecaller|02 Worldbuilding/People/Ambassador Marina Tidecaller]] - Expert in Aquabyssos-Aethermoor cultural translation
 - [[02_Worldbuilding/People/Cultural Sage Deep-Memory|02 Worldbuilding/People/Cultural Sage Deep Memory]] - Aquabyssos cultural authority and advisor
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Master Wind Rider Zephyr Stormcaller]] - Aethermoor cultural expert and diplomatic liaison
+- [[02_Worldbuilding/Lore/Master Wind Rider Zephyr Stormcaller]] - Aethermoor cultural expert and diplomatic liaison
 - [[Cross-Cultural Mediator Balance Wright]] - Specialist in inter-realm conflict resolution
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Primary location for cross-cultural interaction
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Diplomatic Quarter]] - Specially designed neutral zone for inter-realm meetings
+- [[02_Worldbuilding/Places/Port Meridian]] - Primary location for cross-cultural interaction
+- [[02_Worldbuilding/Places/The Diplomatic Quarter]] - Specially designed neutral zone for inter-realm meetings
 - [[The Cultural Exchange Center]] - Educational facility for cross-cultural learning
 - [[The Neutral Embassy]] - Diplomatic facility serving both realms equally
 
@@ -472,10 +472,10 @@ The Cross-Realm Etiquette Guide serves as the definitive resource for navigating
 - [[The Diplomatic Protocol Commission]] - Official body establishing diplomatic procedures
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Cultural Codex]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Social Customs]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Festival Calendar Complete]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Economic Systems and Currency]]
+- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]]
+- [[02_Worldbuilding/Lore/Aethermoor Social Customs]]
+- [[02_Worldbuilding/Lore/Festival Calendar Complete]]
+- [[02_Worldbuilding/Lore/Economic Systems and Currency]]
 
 ## Player-Facing Summary
 

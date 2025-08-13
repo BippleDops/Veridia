@@ -160,7 +160,7 @@ This outbreak provides opportunities for medical mysteries, social drama, and mo
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Screaming Gardens]]
+- [[02_Worldbuilding/Places/Screaming Gardens]]
 
 ## Player-Facing Summary
 
@@ -172,6 +172,6 @@ Legends speak of Memory Parasite Infection as a nexus where past and present con
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Parasite Infection]]
+- [[02_Worldbuilding/Places/Memory Parasite Infection]]
 
 <!-- enriched: true -->

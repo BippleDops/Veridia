@@ -130,10 +130,10 @@ Delilah serves as both a transportation resource and a source of information abo
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Garrett Stormcutter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
+- [[02_Worldbuilding/Places/Lumengarde]]
+- [[02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/Places/The Phosphor Markets]]
 
 
 ## History
@@ -181,6 +181,6 @@ Legends speak of Merchant Delilah Currentrunner as a nexus where past and presen
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Merchant Delilah Currentrunner]]
+- [[02_Worldbuilding/Places/Merchant Delilah Currentrunner]]
 
 <!-- enriched: true -->

@@ -28,7 +28,7 @@ world: Both
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/Cult of Screams]]
+- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of Screams]]
 
 ## Player-Facing Summary
 

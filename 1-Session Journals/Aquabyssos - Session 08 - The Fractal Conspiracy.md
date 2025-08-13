@@ -52,12 +52,12 @@ world: Aquabyssos
 > *"In the fractals, every choice you didn't make is waiting for you."*
 
 ## 🎬 Strong Start
-The party enters the Fractal Forests to find themselves in multiple realities simultaneously. In one, they're victorious heroes. In another, they're shadow-possessed villains. In a third, they never existed at all. [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Flux the Inconsistent]] greets them—all of them—at once: "Welcome to every possibility. The Singers Beyond can't find what exists everywhere and nowhere. But first, you must choose which reality you want to save."
+The party enters the Fractal Forests to find themselves in multiple realities simultaneously. In one, they're victorious heroes. In another, they're shadow-possessed villains. In a third, they never existed at all. [[02_Worldbuilding/People/Lord Flux the Inconsistent]] greets them—all of them—at once: "Welcome to every possibility. The Singers Beyond can't find what exists everywhere and nowhere. But first, you must choose which reality you want to save."
 
 ## 🎭 Scenes
 
 ### Scene 1: The Probability Prison
-**Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vorthak]] Fragment in Crystallium  
+**Location**: [[02_Worldbuilding/Lore/Vorthak]] Fragment in Crystallium  
 **Situation**: Navigate contradicting realities  
 **Conflict**: Each party member in different probability  
 **Discoveries**:
@@ -75,7 +75,7 @@ The party enters the Fractal Forests to find themselves in multiple realities si
 - 20: Observer mode (see all timelines)
 
 ### Scene 2: The Parliament of Nobody
-**Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memoriam]] Recursion Layer  
+**Location**: [[02_Worldbuilding/Places/Memoriam]] Recursion Layer  
 **Situation**: Meet the forgotten government  
 **Conflict**: They don't exist but make decisions  
 **Discoveries**:
@@ -107,7 +107,7 @@ The party enters the Fractal Forests to find themselves in multiple realities si
 - Right choice requires sacrifice from all
 
 ### Scene 4: The Sorrowmaster's Depths
-**Location**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Mourning Depths]] - All recursions  
+**Location**: [[02_Worldbuilding/Places/The Mourning Depths]] - All recursions  
 **Situation**: Retrieve the Grief Bomb  
 **Conflict**: Must generate enough sorrow to power it  
 **Discoveries**:
@@ -175,7 +175,7 @@ The party enters the Fractal Forests to find themselves in multiple realities si
 ## 💰 Treasure & Rewards
 - Grief Bomb Components
 - Probability Map (navigate timelines)
-- 2,000 [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sorrow Pearls]] (crystallized tears)
+- 2,000 [[02_Worldbuilding/Lore/Sorrow Pearls]] (crystallized tears)
 - Marina's Complete Memory Set
 - Flux Stabilizer (lock into one reality)
 - Echo Chamber Key (access all recursions)
@@ -231,18 +231,18 @@ Marina's echo speaks one last time: "The Mourning Depths knows the way. The Sorr
 - Set up for penultimate session
 
 ## 📅 Next Session Prep
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 09 - The Mourning Strategy]]
+- [[1-Session Journals/Aquabyssos - Session 09 - The Mourning Strategy]]
 - Design Singer consciousness infiltration
 - Prepare emotional climax mechanics
 - Plan for character sacrifices
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sorrow Pearls]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vorthak]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memoriam]]
+- [[02_Worldbuilding/Lore/Sorrow Pearls]]
+- [[02_Worldbuilding/Lore/Vorthak]]
+- [[02_Worldbuilding/Places/Memoriam]]

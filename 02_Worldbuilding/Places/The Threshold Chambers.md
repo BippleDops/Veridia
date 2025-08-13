@@ -1,5 +1,5 @@
 ---
-affiliation: '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]]'
+affiliation: '[[02_Worldbuilding/Groups/The Convergence Seekers]]'
 created: '2025-08-09'
 created_by: auto-stub
 danger_level: Moderate
@@ -38,7 +38,7 @@ world: Dimensional Threshold (Both Realms)
 *Where Two Worlds Become One*
 
 ## Overview
-The Threshold Chambers serve as the secret headquarters of [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]], existing in a carefully constructed dimensional space that partially overlaps both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. This unique facility allows researchers to study the boundary between worlds while working toward their ultimate goal of reunifying the separated realms. The Chambers represent the most advanced convergence technology in existence, serving as both laboratory and proof of concept for world-merging capabilities.
+The Threshold Chambers serve as the secret headquarters of [[02_Worldbuilding/Groups/The Convergence Seekers]], existing in a carefully constructed dimensional space that partially overlaps both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. This unique facility allows researchers to study the boundary between worlds while working toward their ultimate goal of reunifying the separated realms. The Chambers represent the most advanced convergence technology in existence, serving as both laboratory and proof of concept for world-merging capabilities.
 
 ## Dimensional Architecture
 ### The Threshold Principle
@@ -51,14 +51,14 @@ The Threshold Chambers serve as the secret headquarters of [[vault_backup_202508
 ### Structural Layout
 #### The Central Nexus
 - **The Convergence Core**: Primary chamber where both worlds' energies merge
-- **The Mediator's Sanctum**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Mediator]]'s private quarters and planning center
+- **The Mediator's Sanctum**: [[02_Worldbuilding/Lore/The Mediator]]'s private quarters and planning center
 - **The Unity Council Chamber**: Meeting room for Convergence Seekers leadership
 - **The Threshold Map Room**: Displays showing weak points between dimensions
 - **The Memory Well**: Pool containing combined experiences from both realms
 
 #### Research Wings
 ##### Aethermoor Section
-- **Crystal Resonance Labs**: Studying how [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] respond to convergence
+- **Crystal Resonance Labs**: Studying how [[02_Worldbuilding/Lore/The Seven Shards]] respond to convergence
 - **Technology Integration Centers**: Adapting Aethermoor devices for dual-realm operation
 - **Cultural Archive**: Preserving Aethermoor traditions and knowledge
 - **Surface Simulation Chambers**: Environments replicating dry-land conditions
@@ -66,7 +66,7 @@ The Threshold Chambers serve as the secret headquarters of [[vault_backup_202508
 
 ##### Aquabyssos Section
 - **Shadow Manipulation Labs**: Harnessing shadow energy for convergence purposes
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] Monitoring Station**: Observing the cosmic entity's responses to convergence
+- **[[02_Worldbuilding/Lore/The Deep Mother]] Monitoring Station**: Observing the cosmic entity's responses to convergence
 - **Memory Integration Centers**: Combining consciousness techniques with convergence theory
 - **Pressure Adaptation Chambers**: Studying how convergence affects depth tolerance
 - **Dream Research Division**: Exploring shared consciousness between realms
@@ -111,11 +111,11 @@ The Threshold Chambers serve as the secret headquarters of [[vault_backup_202508
 
 ## The Convergence Seekers' Organization
 ### Leadership Hierarchy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Mediator]]**: Supreme leader whose identity remains mysterious
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sage of Two Worlds]]**: Chief theorist developing convergence philosophy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bridge Walker]]**: Master of inter-realm travel and communication
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Between]]**: Military coordinator and security chief
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Weaver]]**: Historian and cultural integration specialist
+- **[[02_Worldbuilding/Lore/The Mediator]]**: Supreme leader whose identity remains mysterious
+- **[[02_Worldbuilding/Lore/Sage of Two Worlds]]**: Chief theorist developing convergence philosophy
+- **[[02_Worldbuilding/Lore/The Bridge Walker]]**: Master of inter-realm travel and communication
+- **[[02_Worldbuilding/People/Captain Between]]**: Military coordinator and security chief
+- **[[02_Worldbuilding/Lore/The Memory Weaver]]**: Historian and cultural integration specialist
 
 ### Research Staff
 #### Senior Researchers
@@ -172,22 +172,22 @@ The Threshold Chambers serve as the secret headquarters of [[vault_backup_202508
 
 ## Faction Relations
 ### Allied Organizations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]**: Provides funding and cross-realm resources
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]**: Shares research on combining realm energies
+- **[[02_Worldbuilding/Groups/The Liminal Trading Company]]**: Provides funding and cross-realm resources
+- **[[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]**: Shares research on combining realm energies
 - **Independent Researchers**: Scholars sympathetic to convergence goals
 - **Cross-Realm Refugees**: People who've experienced life in both worlds
 - **Progressive Elements**: Forward-thinking individuals from both realms
 
 ### Opposition Forces
 #### Active Enemies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Void Watchers]]**: View convergence as threat to reality stability
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]**: Oppose any form of cross-realm contamination
+- **[[02_Worldbuilding/Groups/The Void Watchers]]**: View convergence as threat to reality stability
+- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Oppose any form of cross-realm contamination
 - **Reality Fundamentalists**: Groups believing worlds should remain separate
 - **Government Authorities**: Officials from both realms opposing convergence
 - **Traditional Powers**: Established interests threatened by unified world
 
 #### Neutral Parties
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]**: Interested in convergence profit potential
+- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Interested in convergence profit potential
 - **Academic Institutions**: Scholars studying convergence without supporting it
 - **Religious Organizations**: Faiths with varying views on realm unity
 - **Common Citizens**: Population unaware of convergence possibilities
@@ -284,8 +284,8 @@ The Threshold Chambers serve as the secret headquarters of [[vault_backup_202508
 - **Convergence Information**: Intelligence on cross-realm activities and opportunities
 
 ## Connected Elements
-- Headquarters of [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]], central organization for realm unity
-- Location where convergence between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] is actively studied
+- Headquarters of [[02_Worldbuilding/Groups/The Convergence Seekers]], central organization for realm unity
+- Location where convergence between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] is actively studied
 - Repository of pre-separation knowledge and unified world planning
 - Source of advanced dimensional technology and cross-realm capabilities
 - Setting for adventures involving reality manipulation, faction conflict, and world-changing decisions
@@ -307,10 +307,10 @@ The Threshold Chambers serve as the secret headquarters of [[vault_backup_202508
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Nature's Balance]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
@@ -329,9 +329,9 @@ Legends speak of The Threshold Chambers as a nexus where past and present conver
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Threshold Chambers]]
+- [[02_Worldbuilding/Places/The Threshold Chambers]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Void Watchers]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
+- [[02_Worldbuilding/Groups/The Void Watchers]]

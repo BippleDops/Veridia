@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Alternative-Path-Fled-City]]
+- [[02_Worldbuilding/Places/Alternative-Path-Fled-City]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Alternative-Path-Fled-City]]
+- [[02_Worldbuilding/Places/Alternative-Path-Fled-City]]
 
 ## Player-Facing Summary
 

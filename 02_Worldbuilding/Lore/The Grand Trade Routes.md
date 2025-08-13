@@ -25,15 +25,15 @@ world: Both
 # The Grand Trade Routes
 *The Golden Arteries of Two Realms*
 
-> *"Gold flows like water through these channels, and where it pools, power grows. Control the routes, control the realms."* - [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]]
+> *"Gold flows like water through these channels, and where it pools, power grows. Control the routes, control the realms."* - [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
 
 ## Overview
-The Grand Trade Routes represent the most lucrative and dangerous commercial pathways connecting [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], spanning both surface waters and the deepest oceanic trenches. These routes carry everything from essential crystals and pressure-forged goods to exotic luxuries and forbidden knowledge. Control over these arteries of commerce determines the rise and fall of merchant empires, kingdoms, and criminal syndicates.
+The Grand Trade Routes represent the most lucrative and dangerous commercial pathways connecting [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], spanning both surface waters and the deepest oceanic trenches. These routes carry everything from essential crystals and pressure-forged goods to exotic luxuries and forbidden knowledge. Control over these arteries of commerce determines the rise and fall of merchant empires, kingdoms, and criminal syndicates.
 
 ## Major Route Classifications
 
 ### The Golden Circuit
-**Primary Route**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] → [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] → [[The Azure Ports]] → [[Deep Current Trading Posts]] → [[02_Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
+**Primary Route**: [[02_Worldbuilding/Places/Port Meridian]] → [[02_Worldbuilding/Places/Crystalhaven]] → [[The Azure Ports]] → [[Deep Current Trading Posts]] → [[02_Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
 
 **Journey Time**: 3-4 weeks complete circuit
 **Cargo Volume**: 50,000+ tons annually
@@ -44,7 +44,7 @@ The Grand Trade Routes represent the most lucrative and dangerous commercial pat
 - **Surface to Deep**: Crystal refinements, surface grains, textiles, metals, preserved foods
 - **Deep to Surface**: Memory pearls, pressure-forged items, bio-luminescent materials, deep-sea delicacies, ancient artifacts
 
-**Control**: Jointly managed by [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] and [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]]
+**Control**: Jointly managed by [[02_Worldbuilding/Groups/Merchant Princes]] and [[02_Worldbuilding/People/The Current Merchants]]
 
 ### The Shadow Current
 **Primary Route**: Hidden smuggling network connecting criminal ports and black market hubs
@@ -64,7 +64,7 @@ The Grand Trade Routes represent the most lucrative and dangerous commercial pat
 **Key Features**: 
 - Requires specialized pressure vessels and magical protection
 - Access to [[Deep Ancient Ruins]] and their technological treasures
-- Controlled by select members of [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]]' inner circle
+- Controlled by select members of [[02_Worldbuilding/People/The Current Merchants]]' inner circle
 
 ### The Surface Wind Ways
 **Primary Route**: Traditional surface sailing routes enhanced with crystal technology
@@ -73,7 +73,7 @@ The Grand Trade Routes represent the most lucrative and dangerous commercial pat
 **Profit Margins**: 150-250% typical
 
 **Specializes In**: Bulk goods, passenger transport, diplomatic communications
-**Controlled By**: Various surface kingdoms with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] holding significant influence
+**Controlled By**: Various surface kingdoms with [[02_Worldbuilding/Groups/Merchant Princes]] holding significant influence
 
 ## Route Mechanics
 
@@ -145,13 +145,13 @@ Each route segment has risk factors rated 1-10:
 
 ### Major Players
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]
+#### [[02_Worldbuilding/Groups/Merchant Princes]]
 - **Control**: 60% of legal surface trade
 - **Advantages**: Political connections, naval protection, insurance access
 - **Weaknesses**: Bound by laws and treaties, high operational costs
 - **Strategy**: Dominate high-volume, low-risk commodity trade
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]] (Nereon Swiftcurrent)
+#### [[02_Worldbuilding/People/The Current Merchants]] (Nereon Swiftcurrent)
 - **Control**: 40% of underwater trade, 100% of deep abyss routes
 - **Advantages**: Unmatched navigation, current manipulation, exclusive access to deep routes
 - **Weaknesses**: Limited surface presence, environmental concerns
@@ -189,14 +189,14 @@ Each route segment has risk factors rated 1-10:
 
 ### Major Trading Hubs
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - The Crown Jewel
+#### [[02_Worldbuilding/Places/Port Meridian]] - The Crown Jewel
 **Population**: 500,000+
 **Harbor Capacity**: 200+ large vessels simultaneously
 **Storage**: 2 million cubic feet of warehouse space
 **Services**: Full repair facilities, magical enhancement, crystal refinement, banking
 **Notable Features**: 
 - [[The Meridian Exchange]] - Primary crystal trading floor
-- [[The Five Towers]] - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] headquarters
+- [[The Five Towers]] - [[02_Worldbuilding/Groups/Merchant Princes]] headquarters
 - [[Goldwave Academy]] - Premier navigation and trade school
 
 #### [[The Deep Markets]] - Aquabyssos Commercial Center
@@ -206,20 +206,20 @@ Each route segment has risk factors rated 1-10:
 **Services**: Current-riding dock systems, bio-luminescent cargo tracking
 **Notable Features**:
 - [[The Flowing Market]] - Nereon Swiftcurrent's trading post network
-- [[Deep Vault Banking Consortium]] - [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]]'s headquarters
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Pressure Forges]] - Exclusive deep-sea manufacturing
+- [[Deep Vault Banking Consortium]] - [[02_Worldbuilding/People/Banker Titus Goldcurrent]]'s headquarters
+- [[02_Worldbuilding/Places/The Pressure Forges]] - Exclusive deep-sea manufacturing
 
 ### Secondary Trading Posts
 
 #### Crystal Point Station
 **Function**: Crystal refinement and quality control hub
 **Specialization**: Processing raw crystals into tradeable grades
-**Control**: Joint [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] and [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] operation
+**Control**: Joint [[02_Worldbuilding/Groups/Merchant Princes]] and [[02_Worldbuilding/People/Crystal Wardens]] operation
 
 #### Deepwatch Outpost  
 **Function**: Deep-route navigation and emergency services
 **Specialization**: Rescue operations, route intelligence, pressure equipment
-**Control**: [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]] subsidiary
+**Control**: [[02_Worldbuilding/People/The Current Merchants]] subsidiary
 
 #### Shadow Harbor (Location Secret)
 **Function**: Black market trading hub
@@ -248,7 +248,7 @@ Each route segment has risk factors rated 1-10:
 **Location**: Mid-depth oceanic channels  
 **Hazard**: Constantly shifting underwater currents that trap vessels
 **Frequency**: Seasonal variations
-**Mitigation**: Current-sight navigation, [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]] guides
+**Mitigation**: Current-sight navigation, [[02_Worldbuilding/People/The Current Merchants]] guides
 **Economic Impact**: Weeks of delays, potential cargo spoilage
 
 ### Criminal Threats
@@ -419,17 +419,17 @@ Each route segment has risk factors rated 1-10:
 20: Law enforcement raid or criminal war
 
 ## Connected NPCs and Organizations
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Aurelius Goldwave]] - Primary architect of legitimate trade networks
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Current Merchants]] - Deep-sea route specialists  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] - Surface trade consortium
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Banker Titus Goldcurrent]] - Financial infrastructure controller
+- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] - Primary architect of legitimate trade networks
+- [[02_Worldbuilding/People/The Current Merchants]] - Deep-sea route specialists  
+- [[02_Worldbuilding/Groups/Merchant Princes]] - Surface trade consortium
+- [[02_Worldbuilding/People/Banker Titus Goldcurrent]] - Financial infrastructure controller
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Black market trade dominators
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Criminal route coordinator
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Criminal route coordinator
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Economic Systems and Currency]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Major Trading Companies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Commercial Hubs and Markets]]
+- [[02_Worldbuilding/Lore/Economic Systems and Currency]]
+- [[02_Worldbuilding/Groups/Major Trading Companies]]
+- [[02_Worldbuilding/Places/Commercial Hubs and Markets]]
 - [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]]
 - [[03_Mechanics/Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]]
 

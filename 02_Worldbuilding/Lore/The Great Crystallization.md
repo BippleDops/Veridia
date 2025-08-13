@@ -1,23 +1,20 @@
 ---
-created: '2024-12-20'
-image: 04_Resources/Assets/Lore/great_crystallization.jpg
-importance: World-Defining
-period: 500 years ago
+type: Lore
 status: complete
 tags:
+- active
 - both
 - catastrophe
-- complete
-- content/lore
 - event
+- history
 - lore
-- status/in-progress
-- world/both
-type: Lore
-updated: '2025-08-13T12:34:28.657196+00:00'
+period: 500 years ago
+importance: World-Defining
+created: '2024-12-20'
+image: 04_Resources/Assets/Lore/great_crystallization.jpg
 world: Both
+updated: '2025-08-13T01:18:34.562222+00:00'
 ---
-
 
 
 
@@ -54,7 +51,7 @@ On the 17th day of Highsummer, exactly 500 years ago, the world of [[02_Worldbui
 3. **The Southern Spire** - Deep in [[02_Worldbuilding/Places/The Verdant Reach]]
 4. **The Western Spire** - Beneath the waves of [[02_Worldbuilding/Places/The Azure Coast]]
 5. **The Central Spire** - Where [[02_Worldbuilding/Places/Crystalhaven]] was built
-6. **The Desert Spire** - Center of [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]]
+6. **The Desert Spire** - Center of [[The Whispering Expanse]]
 7. **The Shadow Spire** - Lost in [[02_Worldbuilding/Places/The Shadowmere]]
 
 ### The Crystal Types
@@ -166,7 +163,7 @@ Was the Crystallization:
 - Deliberate transformation?
 
 ## Connection to Current Events
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] may be sign of change
+- [[02_Worldbuilding/Places/Aquabyssos]] may be sign of change
 - [[02_Worldbuilding/People/The Crimson Sage]] investigations intensifying
 - [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption accelerating
 - The Seven Shards becoming active
@@ -177,7 +174,7 @@ The Great Crystallization is the defining event of the campaign world. Its true 
 
 ## Related Topics
 - [[02_Worldbuilding/Lore/The Shattering of the Crown]] - The moment itself
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] - Fragments of divine power
+- [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] - Fragments of divine power
 - [[02_Worldbuilding/Lore/The Crown of Stars]] - The original artifact
 - [[02_Worldbuilding/Lore/Aetheron]] - The fallen god-king
 - [[02_Worldbuilding/Lore/The Seven Betrayers]] - Those who caused it
@@ -188,21 +185,21 @@ The Great Crystallization is the defining event of the campaign world. Its true 
 - [[02_Worldbuilding/Lore/Crystal Corruption Taboos]]
 - [[Eastern Kingdoms 2]]
 - [[02_Worldbuilding/Lore/Eastern Kingdoms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
 - [[02_Worldbuilding/Lore/Fear Farms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Healing Two Worlds]]
+- [[Healing Two Worlds]]
 - [[02_Worldbuilding/Lore/Kraken Territories]]
 - [[02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Queen]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Real Marina]]
+- [[Thalassius the Wise]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Final Choice]]
+- [[The Queen]]
+- [[The Real Marina]]
 - [[02_Worldbuilding/Lore/The Seven Betrayers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[The Seven Shards]]
 - [[02_Worldbuilding/Lore/The Shattering of the Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[Timeline of the Drowning]]
 - [[02_Worldbuilding/Places/Cathedral of Light]]
 - [[02_Worldbuilding/People/Quest - The Root Network]]
 
@@ -228,10 +225,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[02_Worldbuilding/Quests/The Whispering Expanse|02 Worldbuilding/Quests/The Whispering Expanse]]
 - [[02_Worldbuilding/Lore/Aetheron]]
 - [[02_Worldbuilding/Lore/Eastern Kingdom]]
 - [[02_Worldbuilding/Lore/The Crown of Stars]]
 - [[02_Worldbuilding/People/Lord Aurelius Goldwave]]
 - [[02_Worldbuilding/Places/The Azure Coast]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[The Whispering Expanse]]

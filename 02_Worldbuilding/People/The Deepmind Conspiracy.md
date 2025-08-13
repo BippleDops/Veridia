@@ -103,9 +103,9 @@ The Deepmind Conspiracy works whether true or false. If real, it provides shadow
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archon Meredith Saltweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[02_Worldbuilding/Places/New Tethys]]
 
 
 ## Appearance
@@ -147,6 +147,6 @@ Legends speak of The Deepmind Conspiracy as a nexus where past and present conve
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Deepmind Conspiracy]]
+- [[02_Worldbuilding/People/The Deepmind Conspiracy]]
 
 <!-- enriched: true -->

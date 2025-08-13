@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marriage Between Worlds]]
+- [[02_Worldbuilding/Lore/Marriage Between Worlds]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marriage Between Worlds]]
+- [[02_Worldbuilding/Lore/Marriage Between Worlds]]
 
 ## Player-Facing Summary
 

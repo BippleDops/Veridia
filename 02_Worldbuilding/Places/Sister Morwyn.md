@@ -9,20 +9,20 @@ discovered: true
 factions:
 - '[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order
   Of The Drowned Star]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Keepers of Memory]]'
+- '[[02_Worldbuilding/Places/Keepers of Memory]]'
 - '[[The Forgiveness Seekers]]'
 government: Sacred Trust
 location_name: Sister Morwyn's Memorial Sanctuary
 location_type: Sacred Memorial Site
 notable_npcs:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Brother Thaddeus the Rememberer]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Echo-Keeper Selin]]'
+- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+- '[[02_Worldbuilding/Places/Brother Thaddeus the Rememberer]]'
+- '[[02_Worldbuilding/Places/Echo-Keeper Selin]]'
 obsidianUIMode: preview
-parent_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]'
+parent_location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
 population: 50
 pressure_effects: Moderate
-ruler: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+ruler: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
 services:
 - Death Rites
 - Memory Preservation
@@ -32,8 +32,8 @@ services:
 shadow_density: Low
 status: complete
 sub_locations:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Vaults]]'
+- '[[02_Worldbuilding/Places/The Archive of Unremembered Things]]'
+- '[[02_Worldbuilding/Lore/The Memory Vaults]]'
 - '[[Garden of Whispered Names]]'
 - '[[Hall of Final Echoes]]'
 tags:
@@ -70,7 +70,7 @@ world: Both
 
 ## Overview
 
-Sister Morwyn's Memorial Sanctuary stands as a beacon of remembrance in the shadow-haunted depths of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]. This sacred complex, carved into the living coral walls of a vast underwater cavern, serves as both cemetery and archive for the countless souls lost to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] and the ongoing tragedies of the deep world. Unlike other locations in Aquabyssos where memory is currency to be traded, here it is treated as sacred trust.
+Sister Morwyn's Memorial Sanctuary stands as a beacon of remembrance in the shadow-haunted depths of [[02_Worldbuilding/Places/Abyssos Prime]]. This sacred complex, carved into the living coral walls of a vast underwater cavern, serves as both cemetery and archive for the countless souls lost to [[02_Worldbuilding/Places/The Great Drowning]] and the ongoing tragedies of the deep world. Unlike other locations in Aquabyssos where memory is currency to be traded, here it is treated as sacred trust.
 
 The sanctuary exists in perpetual twilight, illuminated by thousands of bioluminescent memorial plaques that pulse in gentle rhythms—each one representing a life remembered. The water here carries whispers of the dead, not as haunting presence but as gentle comfort, creating an atmosphere of profound peace despite the surrounding darkness.
 
@@ -84,11 +84,11 @@ The sanctuary exists in perpetual twilight, illuminated by thousands of biolumin
 ## Architecture & Layout
 
 ### The Memorial Walls
-The sanctuary's most striking feature consists of thousands of coral formations shaped by [[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'s divine magic into memorial walls. Each formation contains a bioluminescent plaque inscribed with the name, dates, and a brief remembrance of the deceased. The walls spiral upward through the cavern in a double helix pattern, creating natural walking paths that allow visitors to contemplate the vast scope of loss.
+The sanctuary's most striking feature consists of thousands of coral formations shaped by [[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'s divine magic into memorial walls. Each formation contains a bioluminescent plaque inscribed with the name, dates, and a brief remembrance of the deceased. The walls spiral upward through the cavern in a double helix pattern, creating natural walking paths that allow visitors to contemplate the vast scope of loss.
 
 ### The Archive of Unremembered Things
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Archive of Unremembered Things]]**
-A climate-controlled section where [[vault_backup_20250813_073007/02_Worldbuilding/Items/Memory Pearls]] containing the final thoughts, hopes, and fears of the dying are carefully preserved. These are not traded but maintained as sacred artifacts, available only to family members or for specific religious ceremonies.
+**[[02_Worldbuilding/Places/The Archive of Unremembered Things]]**
+A climate-controlled section where [[02_Worldbuilding/Items/Memory Pearls]] containing the final thoughts, hopes, and fears of the dying are carefully preserved. These are not traded but maintained as sacred artifacts, available only to family members or for specific religious ceremonies.
 
 **Key Features:**
 - Temperature-regulated memory storage
@@ -97,7 +97,7 @@ A climate-controlled section where [[vault_backup_20250813_073007/02_Worldbuildi
 - Restricted access to traumatic memories
 
 ### Memory Vaults
-Deep beneath the main sanctuary lie the Memory Vaults, where the most precious memories of the deceased are stored in crystalline formations that grow from processed [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sorrow Pearls]]. Each vault is keyed to specific families or tragic events, allowing organized remembrance without overwhelming visitors.
+Deep beneath the main sanctuary lie the Memory Vaults, where the most precious memories of the deceased are stored in crystalline formations that grow from processed [[02_Worldbuilding/Lore/Sorrow Pearls]]. Each vault is keyed to specific families or tragic events, allowing organized remembrance without overwhelming visitors.
 
 ### Garden of Whispered Names
 A living garden where kelp has been trained to grow in patterns that spell out names of the dead. As currents flow through the garden, the kelp moves in ways that seem to whisper the names, creating a constant, gentle murmur of remembrance.
@@ -107,7 +107,7 @@ A natural amphitheater where Sister Morwyn conducts memorial services. The acous
 
 ## Sister Morwyn Veilkeeper
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Morwyn Veilkeeper]]**
+**[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]**
 
 The sanctuary's founder and spiritual guardian, Sister Morwyn is a human cleric who survived The Great Drowning and dedicated her transformed life to ensuring no death goes unremembered. Her body shows the classic signs of deep adaptation—gills, pale luminescent skin, and enlarged eyes—but she has retained her humanity and compassion in ways that inspire even the most hardened deep dwellers.
 
@@ -159,15 +159,15 @@ Recent excavation for new memorial space uncovered what appears to be a pre-drow
 ## Connected Locations
 
 ### Transportation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]]:** Direct line to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memorial Current]]:** Natural flow that carries mourners safely
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Current Tavern]]:** Nearby refuge for grieving visitors
+- **[[02_Worldbuilding/Places/Pressure Tubes]]:** Direct line to [[02_Worldbuilding/Places/Parliament of Echoes]]
+- **[[02_Worldbuilding/Places/Memorial Current]]:** Natural flow that carries mourners safely
+- **[[02_Worldbuilding/Places/The Neutral Current Tavern]]:** Nearby refuge for grieving visitors
 - **[[02_Worldbuilding/Places/Reflection Pools|02 Worldbuilding/Places/Reflection Pools]]:** Connected by the River of Sorrows
 
 ### Allied Sites
 - **[[02_Worldbuilding/Places/Temple of Divine Order|02 Worldbuilding/Places/Temple Of Divine Order]]:** Shares religious resources
 - **[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]:** Provides protection
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Harmony Collective]]:** Philosophical alignment
+- **[[02_Worldbuilding/People/The Harmony Collective]]:** Philosophical alignment
 
 ### Antagonistic Forces
 - **[[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]:** View sanctuary as wasteful hoarding
@@ -177,41 +177,41 @@ Recent excavation for new memorial space uncovered what appears to be a pre-drow
 ## Inhabitants & Notable NPCs
 
 ### Permanent Residents
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Morwyn Veilkeeper]]** - Founder and head cleric
+**[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]** - Founder and head cleric
 - Devoted to preserving dignity in death
 - Possesses rare resistance to memory corruption
 - Can commune with peaceful spirits
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Brother Thaddeus the Rememberer]]** - Chief archivist
+**[[02_Worldbuilding/Places/Brother Thaddeus the Rememberer]]** - Chief archivist
 - Maintains the memorial records
 - Has perfect memory of every person memorialized
 - Speaks in whispers to preserve sacred silence
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Echo-Keeper Selin]]** - Spiritual medium
+**[[02_Worldbuilding/Places/Echo-Keeper Selin]]** - Spiritual medium
 - Channels final messages from the dying
 - Maintains the Garden of Whispered Names
 - Shows signs of prophetic ability
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Mourning Mother Cordelia]]** - Grief counselor
+**[[02_Worldbuilding/Places/Mourning Mother Cordelia]]** - Grief counselor
 - Lost three children in The Great Drowning
 - Specializes in helping parents cope with loss
 - Leads group therapy sessions
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memorial Mason Kane]]** - Coral sculptor
+**[[02_Worldbuilding/Places/Memorial Mason Kane]]** - Coral sculptor
 - Creates the memorial plaques and structures
 - Works with Sister Morwyn to shape living coral
 - Secret romantic interest in visiting artist
 
 ### Frequent Visitors
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Forgotten Mourner]]** - Mysterious regular visitor
+**[[02_Worldbuilding/Places/The Forgotten Mourner]]** - Mysterious regular visitor
 - Visits daily but cannot remember why
 - May be searching for own memorial
 - Appears to age backward during visits
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Senator's Widow Marcella]]** - Political mourner
+**[[02_Worldbuilding/Places/Senator's Widow Marcella]]** - Political mourner
 - Grieves husband lost to shadow replacement
 - Secretly funding sanctuary expansion
-- Provides intelligence on [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] activities
+- Provides intelligence on [[02_Worldbuilding/Places/Parliament of Echoes]] activities
 
 ## Environmental Features
 
@@ -240,7 +240,7 @@ One section of memorial wall is actually composed of living coral that has absor
 The preserved memories aren't just sentimental keepsakes—they're components of a weapon designed to restore the surface world by overwhelming the deep corruption with pure human memory.
 
 ### Sister Morwyn's Identity
-Sister Morwyn may actually be the daughter of [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]], thought dead in the drowning. Her divine powers come from her royal bloodline's connection to the [[vault_backup_20250813_073007/02_Worldbuilding/Items/Crown of Tidal Sovereignty]].
+Sister Morwyn may actually be the daughter of [[02_Worldbuilding/People/Emperor Thalassius the Wise]], thought dead in the drowning. Her divine powers come from her royal bloodline's connection to the [[02_Worldbuilding/Items/Crown of Tidal Sovereignty]].
 
 ### The Prophecy Chamber
 Hidden beneath the Memory Vaults is a chamber where the collective whispers of the dead have formed prophetic visions of possible futures—most of them apocalyptic.
@@ -248,7 +248,7 @@ Hidden beneath the Memory Vaults is a chamber where the collective whispers of t
 ## Adventure Hooks
 
 ### Investigation
-1. **The Memory Thief:** Someone is stealing memories from the memorial plaques. Players must investigate who and why, leading to a conspiracy involving [[02_Worldbuilding/Groups/Shadow Surgeons Collective|Shadow Surgeons]] and corrupt [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] members.
+1. **The Memory Thief:** Someone is stealing memories from the memorial plaques. Players must investigate who and why, leading to a conspiracy involving [[02_Worldbuilding/Groups/Shadow Surgeons Collective|Shadow Surgeons]] and corrupt [[02_Worldbuilding/Places/Parliament of Echoes]] members.
 
 2. **The False Memorials:** New memorial plaques keep appearing for people who are still alive. Investigation reveals a shadow replacement conspiracy, with the plaques marking successful replacements.
 
@@ -359,7 +359,7 @@ The sanctuary works best as:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
 
 ## Player-Facing Summary
 
@@ -375,12 +375,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sister Morwyn]]
+- [[02_Worldbuilding/Places/Sister Morwyn]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Crown of Tidal Sovereignty]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Memory Pearls]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sorrow Pearls]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Harmony Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Items/Crown of Tidal Sovereignty]]
+- [[02_Worldbuilding/Items/Memory Pearls]]
+- [[02_Worldbuilding/Lore/Sorrow Pearls]]
+- [[02_Worldbuilding/People/The Harmony Collective]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]

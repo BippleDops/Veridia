@@ -22,7 +22,7 @@ world: Both
 
 # Fleet Dynamics Generator
 
-Procedures to build faction fleets and AI opponent behavior. Interfaces with [[vault_backup_20250813_073007/03_Mechanics/Complete Faction Warfare System]] and vehicle subsystems.
+Procedures to build faction fleets and AI opponent behavior. Interfaces with [[03_Mechanics/Complete Faction Warfare System]] and vehicle subsystems.
 
 ## Faction Naval Doctrines (d12)
 1 Stealth & Ambush • 2 Anchor Fortress • 3 Parasite Swarm • 4 Crystal Artillery • 5 Carrier Strike • 6 Trade Escort • 7 Guerrilla Currents • 8 Zealot Crusade • 9 Memory Warfare • 10 Reality Control • 11 Humanitarian Relief • 12 Pirate Confederacy
@@ -39,7 +39,7 @@ Procedures to build faction fleets and AI opponent behavior. Interfaces with [[v
 ## Supply Lines & Naval Bases
 - Supply Nodes: Fuel (POU crystals/memories), ammo, sanity medicine
 - Naval Bases: Anchor arrays, repair yards, shrines, black markets
-- Raid/Sabotage: Effects ripple through [[vault_backup_20250813_073007/03_Mechanics/Complete Faction Warfare System]]
+- Raid/Sabotage: Effects ripple through [[03_Mechanics/Complete Faction Warfare System]]
 
 ## Quick Build Procedure
 1 Pick Doctrine → 2 Assign Fleet Points → 3 Choose Admirals → 4 Place Bases → 5 Define Objectives

@@ -29,7 +29,7 @@ world: Both
 *The Last Green Heart of Aethermoor*
 
 ## Overview
-The Verdant Reach encompasses the vast southern forests of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], the largest remaining area untouched by crystal corruption. Protected by [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]] and the [[vault_backup_20250813_073007/02_Worldbuilding/People/The Verdant Accord]], these ancient woods represent the world as it was before [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]. However, the crystals creep closer each year, and the forest's time may be running out.
+The Verdant Reach encompasses the vast southern forests of [[02_Worldbuilding/Places/Aethermoor]], the largest remaining area untouched by crystal corruption. Protected by [[02_Worldbuilding/People/Archdruid Thornweaver]] and the [[02_Worldbuilding/People/The Verdant Accord]], these ancient woods represent the world as it was before [[02_Worldbuilding/Lore/The Great Crystallization]]. However, the crystals creep closer each year, and the forest's time may be running out.
 
 ### Sensory Immersion: The Last Green Sanctuary
 
@@ -51,14 +51,14 @@ The Verdant Reach encompasses the vast southern forests of [[vault_backup_202508
 - **The Darkwood**: Dense canopy, dangerous, full of secrets
 
 ### Sacred Sites
-- **The Heart Grove**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]]'s seat of power
+- **The Heart Grove**: [[02_Worldbuilding/People/Archdruid Thornweaver]]'s seat of power
 - **The Moonwell**: Pool of pure, uncorrupted water
 - **The Standing Stones**: Pre-Shattering druid circle
 - **The World-Tree**: Hidden, connects to all forests
 - **The Green Spire**: Southern crystal formation (contained)
 
 ### Settlements
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Sylvanheart]]**: Elven tree-city, population 8,000
+- **[[02_Worldbuilding/Places/Sylvanheart]]**: Elven tree-city, population 8,000
 - **Oakhollow**: Human/halfling trade town, population 3,000
 - **Riverside**: Fishing and logging community, population 1,500
 - **Druid Enclaves**: Hidden throughout forest
@@ -80,13 +80,13 @@ The Verdant Reach encompasses the vast southern forests of [[vault_backup_202508
 ## Inhabitants
 
 ### The Verdant Accord
-- **Leader**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]]
+- **Leader**: [[02_Worldbuilding/People/Archdruid Thornweaver]]
 - **Druids**: 500 various circles
 - **Rangers**: 2,000 forest protectors
 - **Allies**: Treants, dryads, forest spirits
 
 ### Native Peoples
-- **Wood Elves**: 15,000 in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sylvanheart]] and scattered
+- **Wood Elves**: 15,000 in [[02_Worldbuilding/Places/Sylvanheart]] and scattered
 - **Forest Gnomes**: 5,000 in hidden villages
 - **Human Settlements**: 20,000 in various communities
 - **Halfling Clans**: 8,000 in riverside communities
@@ -109,7 +109,7 @@ The Verdant Reach encompasses the vast southern forests of [[vault_backup_202508
 - Controlled burns to create firebreaks
 - Druid rituals to strengthen remaining forest
 - Ranger patrols eliminating corrupted creatures
-- Diplomatic attempts with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]
+- Diplomatic attempts with [[02_Worldbuilding/Groups/The Crystal Throne]]
 
 ## Resources
 
@@ -142,13 +142,13 @@ The Verdant Reach encompasses the vast southern forests of [[vault_backup_202508
 ## Current Crisis
 
 ### The Dying Season
-Unprecedented forest die-off in eastern reaches. Trees withering overnight, animals found crystallized. [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]] grows desperate.
+Unprecedented forest die-off in eastern reaches. Trees withering overnight, animals found crystallized. [[02_Worldbuilding/People/Archdruid Thornweaver]] grows desperate.
 
 ### The Refugee Problem
 Thousands fleeing crystal expansion overwhelm forest resources. Tension between preservation and compassion.
 
 ### The Alliance Question
-Pressure to ally with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] against crystals, but their extremism troubles many druids.
+Pressure to ally with [[02_Worldbuilding/Groups/Purist Coalition]] against crystals, but their extremism troubles many druids.
 
 ## Key Locations
 
@@ -156,12 +156,12 @@ Pressure to ally with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Pur
 - **Population**: 8,000 elves
 - **Leader**: Elder Moonwhisper
 - **Features**: Tree-houses, living bridges, harmony with nature
-- **Secret**: Hiding [[vault_backup_20250813_073007/02_Worldbuilding/People/Aria Lumengarde]], the Queen's daughter
+- **Secret**: Hiding [[02_Worldbuilding/People/Aria Lumengarde]], the Queen's daughter
 
 ### The Heart Grove
 - Center of druidic power
 - The Heart Tree (500+ years old)
-- Where [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]] communes with forest
+- Where [[02_Worldbuilding/People/Archdruid Thornweaver]] communes with forest
 - Hidden entrance to World-Root tunnels
 
 ### The Moonwell
@@ -195,9 +195,9 @@ Pressure to ally with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Pur
 ## Secrets
 > [!warning] DM Only
 > - The Green Shard is hidden in the Heart Tree
-> - [[vault_backup_20250813_073007/02_Worldbuilding/People/Aria Lumengarde]] lives in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sylvanheart]]
+> - [[02_Worldbuilding/People/Aria Lumengarde]] lives in [[02_Worldbuilding/Places/Sylvanheart]]
 > - The World-Tree is becoming sentient
-> - [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]] plans the Great Withering
+> - [[02_Worldbuilding/People/Archdruid Thornweaver]] plans the Great Withering
 > - Ancient evil sleeps beneath the Darkwood
 > - The forest contains a portal to the Feywild
 
@@ -218,27 +218,27 @@ Pressure to ally with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Pur
 - **Extremists**: Support Great Withering
 
 ### External Relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]**: Tense negotiations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]**: Natural alliance
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]**: Trade for necessities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Verdant Accord]]**: Governing body
+- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Tense negotiations
+- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Natural alliance
+- **[[02_Worldbuilding/Groups/Merchant Princes]]**: Trade for necessities
+- **[[02_Worldbuilding/People/The Verdant Accord]]**: Governing body
 
 ## NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]] - Supreme leader
-- Elder Moonwhisper - [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sylvanheart]] leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Aria Lumengarde]] - Hidden princess
+- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Supreme leader
+- Elder Moonwhisper - [[02_Worldbuilding/Places/Sylvanheart]] leader
+- [[02_Worldbuilding/People/Aria Lumengarde]] - Hidden princess
 - Various druids and rangers
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] - Part of continent
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Opposed expansion
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]] - Encroaching threat
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sylvanheart]] - Major settlement
+- [[02_Worldbuilding/Places/Aethermoor]] - Part of continent
+- [[02_Worldbuilding/Places/Crystalhaven]] - Opposed expansion
+- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Encroaching threat
+- [[02_Worldbuilding/Places/Sylvanheart]] - Major settlement
 
 ## Related Quests
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Dying Forest]] - Save the woods
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Nature's Balance]] - Restore harmony
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Root Network]] - Explore tunnels
+- [[02_Worldbuilding/People/Quest - The Dying Forest]] - Save the woods
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance]] - Restore harmony
+- [[02_Worldbuilding/People/Quest - The Root Network]] - Explore tunnels
 
 ## DM Notes
 - Last bastion of old world
@@ -250,9 +250,9 @@ Pressure to ally with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Pur
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Thrace Ironwood]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Root Network]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[02_Worldbuilding/People/Quest - The Root Network]]
 
 ## Player-Facing Summary
 
@@ -264,9 +264,9 @@ Legends speak of The Verdant Reach as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]]
+- [[02_Worldbuilding/Places/The Verdant Reach]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Dying Forest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sylvanheart]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[02_Worldbuilding/People/Quest - The Dying Forest]]
+- [[02_Worldbuilding/Places/Sylvanheart]]
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]

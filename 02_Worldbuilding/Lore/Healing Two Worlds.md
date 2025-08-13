@@ -1,25 +1,21 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
 type: Lore
-updated: '2025-08-13T12:34:29.046338+00:00'
+status: complete
+created: '2025-08-11'
+updated: '2025-08-13T01:18:34.873147+00:00'
 world: Both
+tags:
+- active
+- both
+- lore
 ---
-
 
 
 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]
+- [[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]
 
 
 ## Connections
@@ -27,10 +23,10 @@ world: Both
 - [[02_Worldbuilding/Lore/Deep Mother Influence]]
 - [[02_Worldbuilding/Lore/Desperate Plague Victim]]
 - [[02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Great Crystallization]]
+- [[Timeline of the Drowning]]
 
 ## Player-Facing Summary
 

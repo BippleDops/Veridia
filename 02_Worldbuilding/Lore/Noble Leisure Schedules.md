@@ -28,7 +28,7 @@ world: Both
 
 ## Overview
 
-The nobility and upper classes of both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] have developed elaborate daily routines that reflect their privileged positions, cultural responsibilities, and sophisticated tastes. Far from lives of idle luxury, these individuals balance political obligations, cultural patronage, business management, and social leadership while maintaining the refined standards expected of their elevated status.
+The nobility and upper classes of both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] have developed elaborate daily routines that reflect their privileged positions, cultural responsibilities, and sophisticated tastes. Far from lives of idle luxury, these individuals balance political obligations, cultural patronage, business management, and social leadership while maintaining the refined standards expected of their elevated status.
 
 ## Philosophy of Noble Leisure
 
@@ -462,10 +462,10 @@ Understanding noble leisure schedules provides insight into the values, prioriti
 ---
 
 **Related Topics**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/A Day in Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Working Class Routines]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Child Life in the Realms]]
+- [[02_Worldbuilding/Lore/A Day in Aquabyssos]]
+- [[02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
+- [[02_Worldbuilding/Lore/Working Class Routines]]
+- [[02_Worldbuilding/Lore/Child Life in the Realms]]
 - [[Noble Culture and Etiquette]]
 - [[Political Systems and Governance]]
 - [[Cultural Arts and Patronage]]

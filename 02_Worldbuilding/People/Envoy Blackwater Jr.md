@@ -116,25 +116,25 @@ During his first major diplomatic mission at age 22—negotiating with hostile d
 ## Relationships
 
 ### Family Legacy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]** - His famous father, presumed dead but possibly shadow-corrupted
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - His famous father, presumed dead but possibly shadow-corrupted
 - **Ambassador Cassius Blackwater Sr.** - His deceased grandfather, diplomatic legend
 - **Lady Nerissa Blackwater** - His younger sister, a naval officer he's trying to protect from his dark path
 - **The Blackwater Estate** - Ancestral home filled with diplomatic treasures and family secrets
 
 ### Political Allies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Rival diplomat who doesn't know about Cassius's shadow connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Cordelia Deepcurrent]]** - Useful political contact who trusts the Blackwater family name
+- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Rival diplomat who doesn't know about Cassius's shadow connections
+- **[[02_Worldbuilding/People/Senator Cordelia Deepcurrent]]** - Useful political contact who trusts the Blackwater family name
 - **Councilor Reef Goldcurrent** - Young nobleman Cassius is slowly corrupting
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Shadow Parliament]]** - His secret masters, though he believes he's using them
+- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Shadow Parliament]]** - His secret masters, though he believes he's using them
 
 ### Enemies & Threats
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Pearl Guard]]** - Imperial investigators suspicious of the Blackwater family's recent activities
+- **[[02_Worldbuilding/People/The Pearl Guard]]** - Imperial investigators suspicious of the Blackwater family's recent activities
 - **High Inquisitor Marcus Lightbringer** - Paladin dedicated to rooting out shadow corruption
 - **Lady Coral Truthseeker** - Court diviner who senses his shadow taint
 - **The Shadow Debt Collectors** - Entities coming to claim what he owes
 
 ### Complicated Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]** - Fellow noble possibly touched by shadow, potential ally or rival
+- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Fellow noble possibly touched by shadow, potential ally or rival
 - **Master Diplomat Tidal Grace** - His mentor, who trained him but now suspects his corruption
 - **The Blackwater Servants** - Family retainers torn between loyalty and growing fear
 - **His Shadow Patron** - The entity that granted his power but increasingly controls his actions
@@ -257,16 +257,16 @@ Cassius's supernatural abilities come at the cost of his soul, measured as perce
 - **100% Debt**: Complete soul consumption and transformation into shadow entity
 
 ## Connected NPCs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Corrupted father and tragic example of shadow's price
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Rival diplomat and potential ally
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Cordelia Deepcurrent]]** - Political ally who trusts his family name
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Shadow Parliament]]** - Secret masters he believes he can manipulate
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Corrupted father and tragic example of shadow's price
+- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Rival diplomat and potential ally
+- **[[02_Worldbuilding/People/Senator Cordelia Deepcurrent]]** - Political ally who trusts his family name
+- **[[02_Worldbuilding/Groups/Government_and_Parliament/The Shadow Parliament]]** - Secret masters he believes he can manipulate
 
 ## Connected Locations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Blackwater Estate]]** - Ancestral home filled with diplomatic secrets
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Diplomatic Quarter]]** - Center of Aquabyssos's international relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Embassy]]** - Secret meeting place for supernatural negotiations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Soul Market]]** - Hidden realm where supernatural debts are traded
+- **[[02_Worldbuilding/People/Blackwater Estate]]** - Ancestral home filled with diplomatic secrets
+- **[[02_Worldbuilding/Places/The Diplomatic Quarter]]** - Center of Aquabyssos's international relations
+- **[[02_Worldbuilding/People/Shadow Embassy]]** - Secret meeting place for supernatural negotiations
+- **[[02_Worldbuilding/People/The Soul Market]]** - Hidden realm where supernatural debts are traded
 
 ## Plot Threads
 Envoy Blackwater Jr. serves as a perfect example of corruption disguised as patriotism and can be involved in numerous plot threads:
@@ -300,10 +300,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdom Fleet]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper Elara Mindwell]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Treaty of the Depths]]
+- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet]]
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Keeper Elara Mindwell]]
+- [[02_Worldbuilding/Places/Treaty of the Depths]]

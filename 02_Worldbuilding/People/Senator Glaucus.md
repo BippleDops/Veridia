@@ -8,14 +8,14 @@ depth_adapted: 4
 description: Tall, thin figure with translucent skin showing dark veins beneath. Laughs
   at inappropriate times.
 disposition: -2
-faction: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]'
+faction: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
 faction_rank: 3
 first_name: Glaucus
 influence: 6
-last_encounter: '[[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]'
+last_encounter: '[[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]'
 last_name: Tidecaller
 level: 7
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Abyssos Prime - Parliament of Echoes]]'
+location: '[[02_Worldbuilding/People/Abyssos Prime - Parliament of Echoes]]'
 max_hp: 52
 notes: Has been shadow-replaced for three weeks. Original imprisoned in Memory Meadows.
 obsidianUIMode: preview
@@ -24,15 +24,15 @@ original_race: Human
 portrait: ''
 race: Human (Shadow)
 related_quests:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Investigate Shadow Conspiracy]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Citizenship Act]]'
+- '[[02_Worldbuilding/People/Investigate Shadow Conspiracy]]'
+- '[[02_Worldbuilding/People/Shadow Citizenship Act]]'
 relationship_type: political
 relationships:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Original Glaucus]] (imprisoned)'
-secondary_faction: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Conspiracy]]'
+- '[[02_Worldbuilding/People/The Scattered Emperor]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]'
+- '[[02_Worldbuilding/People/Original Glaucus]] (imprisoned)'
+secondary_faction: '[[02_Worldbuilding/People/Shadow Conspiracy]]'
 secrets:
 - Is actually the shadow of the original Senator
 - Reports directly to Shadow Duchess Nyx
@@ -95,35 +95,35 @@ Senator Glaucus appears as a tall, unnaturally thin figure whose translucent ski
 The original Glaucus was a respected senator, advocate for surface-depth trade relations, and opponent of isolation policies. He investigated shadow anomalies three weeks ago and disappeared for two days.
 
 ### The Replacement
-Three weeks ago, Glaucus was ambushed at the [[vault_backup_20250813_073007/02_Worldbuilding/People/Reflection Pools]] and underwent forced shadow separation. His shadow gained independence and replaced him, while the original was imprisoned in the [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]]. The shadow retained all of Glaucus's memories but none of his morality.
+Three weeks ago, Glaucus was ambushed at the [[02_Worldbuilding/People/Reflection Pools]] and underwent forced shadow separation. His shadow gained independence and replaced him, while the original was imprisoned in the [[02_Worldbuilding/Places/The Memory Meadows]]. The shadow retained all of Glaucus's memories but none of his morality.
 
 ### Current Activities
-- Pushing for the [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Citizenship Act]]
+- Pushing for the [[02_Worldbuilding/People/Shadow Citizenship Act]]
 - Identifying targets for shadow replacement
-- Maintaining cover while serving [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]
+- Maintaining cover while serving [[02_Worldbuilding/People/Shadow Duchess Nyx]]
 - Sabotaging investigations into shadow conspiracy
 
 ## Relationships
 
 ### Allies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]** - Direct superior in shadow hierarchy from [[02_Worldbuilding/Places/Tenebrarum|02 Worldbuilding/Places/Tenebrarum]]
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Direct superior in shadow hierarchy from [[02_Worldbuilding/Places/Tenebrarum|02 Worldbuilding/Places/Tenebrarum]]
 - **[[02_Worldbuilding/Groups/Shadow Parliament|02 Worldbuilding/Groups/Shadow Parliament]]** - Secret organization of replaced officials
 - **[[02_Worldbuilding/Groups/Tenebrarum Ambassadors|02 Worldbuilding/Groups/Tenebrarum Ambassadors]]** - Fellow shadows working the political system
 - **[[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]** - Collaborates in harvesting original memories
 
 ### Rivals
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]** - Knows something is wrong but too paranoid to act
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Original Glaucus]]** - Imprisoned but still fighting mentally
+- **[[02_Worldbuilding/People/The Scattered Emperor]]** - Knows something is wrong but too paranoid to act
+- **[[02_Worldbuilding/People/Original Glaucus]]** - Imprisoned but still fighting mentally
 
 ### Unknowing Associates
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Suspects something but unsure of the truth
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Suspects something but unsure of the truth
 - **[[02_Worldbuilding/Groups/Parliament Loyalists|02 Worldbuilding/Groups/Parliament Loyalists]]** - Still believe he's the original Senator
-- **Other Parliament Members** - Unaware colleagues in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- **Other Parliament Members** - Unaware colleagues in [[02_Worldbuilding/Places/Parliament of Echoes]]
 
 ## Associates & Shadow Network
 
 ### Shadow Hierarchy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]** - Primary superior and coordinator
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Primary superior and coordinator
 - **Other Replaced Senators** - Fellow shadows infiltrating the Parliament
 - **Shadow Operatives** - Field agents carrying out replacement operations
 - **[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]** - The broader organization he serves
@@ -131,7 +131,7 @@ Three weeks ago, Glaucus was ambushed at the [[vault_backup_20250813_073007/02_W
 ### Political Connections (Maintained for Cover)
 - **Parliamentary Committees** - Various legislative bodies he serves on
 - **Trade Relations Council** - His original area of expertise
-- **Surface-Depth Diplomatic Corps** - Connections to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] relations
+- **Surface-Depth Diplomatic Corps** - Connections to [[02_Worldbuilding/Places/Aethermoor]] relations
 
 ## Shadow Abilities
 
@@ -157,7 +157,7 @@ Three weeks ago, Glaucus was ambushed at the [[vault_backup_20250813_073007/02_W
 ### Long-term Plans
 - Complete shadow replacement of Parliament
 - Establish shadow supremacy legally
-- Open permanent portal to [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]]
+- Open permanent portal to [[02_Worldbuilding/People/Tenebrarum]]
 - Begin "The Harvest" - mass replacement event
 
 ## Hooks & Quests
@@ -274,9 +274,9 @@ Three weeks ago, Glaucus was ambushed at the [[vault_backup_20250813_073007/02_W
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/People/Senator]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -299,10 +299,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]
+- [[02_Worldbuilding/People/Senator Glaucus]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Original Glaucus]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Reflection Pools]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Citizenship Act]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]]
+- [[02_Worldbuilding/People/Original Glaucus]]
+- [[02_Worldbuilding/People/Reflection Pools]]
+- [[02_Worldbuilding/People/Shadow Citizenship Act]]
+- [[02_Worldbuilding/People/Tenebrarum]]

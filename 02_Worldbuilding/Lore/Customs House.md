@@ -1,30 +1,26 @@
 ---
-category: Border Facility
-created: '2025-08-08'
-created_by: auto-stub
-significance: Major Location
+type: Lore
 status: complete
 tags:
+- aethermoor
+- aquabyssos
 - border-control
 - both
 - commerce
 - complete
-- content/lore
 - customs-house
 - dimensional-gateway
 - interdimensional-trade
 - lore
 - merged-reality
 - smuggling
-- status/complete
-- world/aethermoor
-- world/aquabyssos
-- world/both
-type: Lore
-updated: '2025-08-13T12:34:28.668306+00:00'
 world: Both
+category: Border Facility
+significance: Major Location
+created_by: auto-stub
+created: '2025-08-08'
+updated: '2025-08-11T00:00:00+00:00'
 ---
-
 
 
 > [!figure] View
@@ -40,7 +36,7 @@ world: Both
 
 The Customs House stands as one of the most unusual and important buildings in either world—a facility that exists simultaneously in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], serving as the primary checkpoint for the growing trade between realities. Located at a stable [[02_Worldbuilding/Lore/Merged Reality Zones]], this imposing structure facilitates legal commerce while serving as the front line against interdimensional smuggling, illegal immigration, and the spread of dangerous artifacts.
 
-Originally built as separate facilities on both sides of a dimensional weak point, the buildings gradually merged as reality barriers weakened, creating a unique architectural marvel where crystal spires extend underwater while coral formations grow in open air. The Customs House has become a symbol of cooperation between worlds, even as political tensions rise and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]] approaches.
+Originally built as separate facilities on both sides of a dimensional weak point, the buildings gradually merged as reality barriers weakened, creating a unique architectural marvel where crystal spires extend underwater while coral formations grow in open air. The Customs House has become a symbol of cooperation between worlds, even as political tensions rise and [[The Convergence Point]] approaches.
 
 ## Physical Description
 
@@ -103,8 +99,8 @@ The Customs House manages the growing trade between worlds:
 The facility serves as the primary defense against interdimensional threats:
 
 **Contraband Detection:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] Fragments**: Scanning for divine artifact pieces
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]] Materials**: Detection of corrupted substances and objects
+- **[[The Seven Shards]] Fragments**: Scanning for divine artifact pieces
+- **[[02_Worldbuilding/Lore/Shadow Corruption]] Materials**: Detection of corrupted substances and objects
 - **Weapons Smuggling**: Prevention of arms trafficking between worlds
 - **Dangerous Magic**: Screening for reality-threatening magical items
 - **Biological Hazards**: Quarantine of species that might become invasive
@@ -129,7 +125,7 @@ The Customs House serves as an intelligence hub:
 
 ### Administrative Leadership
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Chief Inspector Dual-Current Thane]]** (Joint Administrator)
+**[[02_Worldbuilding/Lore/Chief Inspector Dual-Current Thane]]** (Joint Administrator)
 - Unique individual with natural ability to exist in both realities
 - Appointed jointly by both world governments
 - Has authority to make binding decisions for both customs services
@@ -143,7 +139,7 @@ The Customs House serves as an intelligence hub:
 - Maintains direct communication with [[02_Worldbuilding/Places/Crystalhaven]] government
 - Increasingly concerned about political use of customs data
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deputy Inspector Pressure-Tide Jonas]]** (Aquabyssos Representative)
+**[[02_Worldbuilding/Lore/Deputy Inspector Pressure-Tide Jonas]]** (Aquabyssos Representative)
 - Veteran enforcement officer with enhanced pressure adaptation
 - Specialist in memory-based contraband detection techniques
 - Coordinates with Aquabyssos maritime patrol units
@@ -171,7 +167,7 @@ The Customs House serves as an intelligence hub:
 - Specialists in interdimensional crime and artifact trafficking
 - Enhanced with abilities from both worlds for maximum effectiveness
 - Authority to pursue investigations across dimensional boundaries
-- Regular coordination with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]] and other intelligence agencies
+- Regular coordination with [[The Crimson Hand]] and other intelligence agencies
 
 ### Support Staff
 
@@ -235,8 +231,8 @@ The Customs House serves as an intelligence hub:
 ### Common Contraband
 
 **Dangerous Artifacts:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] Fragments**: Pieces of divine artifacts
-- **Corruption Samples**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]] for research or weaponization
+- **[[The Seven Shards]] Fragments**: Pieces of divine artifacts
+- **Corruption Samples**: [[02_Worldbuilding/Lore/Shadow Corruption]] for research or weaponization
 - **Reality Bombs**: Devices capable of destabilizing dimensional barriers
 - **Memory Weapons**: Consciousness-altering devices banned in both worlds
 - **Possession Crystals**: Stones containing dangerous consciousness fragments
@@ -308,22 +304,22 @@ The Customs House serves as an intelligence hub:
 ### Security Concerns
 
 **Infiltration Risks:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]**: Using trade routes for personnel movement
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Possessed Noble Coterie]]**: Attempting to control trade for possession agenda
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] Influence**: Spreading through commercial contacts
+- **[[The Crimson Hand]]**: Using trade routes for personnel movement
+- **[[Possessed Noble Coterie]]**: Attempting to control trade for possession agenda
+- **[[The Deep Mother]] Influence**: Spreading through commercial contacts
 - **Foreign Agents**: Third-party nations using facility for espionage
 - **Resistance Groups**: Both worlds' opposition movements using trade for communication
 
 **Facility Vulnerabilities:**
 - **Reality Instability**: Dimensional fluctuations threatening building integrity
-- **Corruption Spread**: Risk of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]] infection
+- **Corruption Spread**: Risk of [[02_Worldbuilding/Lore/Shadow Corruption]] infection
 - **Personnel Loyalty**: Staff divided by increasing political tensions
 - **Information Security**: Difficulty protecting sensitive data in mixed environment
 - **Physical Security**: Challenge of defending facility existing in multiple realities
 
 ## Connection to Campaign Elements
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
+### [[The Convergence Point]]
 The Customs House serves as early warning system for convergence:
 - **Reality Monitoring**: Detecting dimensional stability changes
 - **Information Hub**: Gathering intelligence on convergence preparations
@@ -331,7 +327,7 @@ The Customs House serves as early warning system for convergence:
 - **Diplomatic Center**: Neutral ground for convergence negotiations
 - **Resource Coordination**: Managing trade in preparation for reality merger
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+### [[The Seven Shards]]
 The facility is crucial for preventing Shard trafficking:
 - **Detection Systems**: Scanning technology specifically designed for divine artifacts
 - **Intelligence Operations**: Tracking Shard movements and locations
@@ -339,7 +335,7 @@ The facility is crucial for preventing Shard trafficking:
 - **Diplomatic Tool**: Using trade leverage to pressure Shard holders
 - **Information Exchange**: Sharing Shard-related intelligence between worlds
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Real Marina]]
+### [[The Real Marina]]
 Marina's identity crisis reflects challenges faced by regular interdimensional travelers:
 - **Documentation Problems**: Difficulty proving identity across realities
 - **Adaptation Services**: Helping individuals manage multidimensional existence
@@ -347,7 +343,7 @@ Marina's identity crisis reflects challenges faced by regular interdimensional t
 - **Counseling Services**: Supporting those with identity confusion
 - **Research Opportunities**: Studying Marina's condition to help others
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Corruption]]
+### [[02_Worldbuilding/Lore/Shadow Corruption]]
 The Customs House serves as primary defense against corruption spread:
 - **Screening Procedures**: Detecting corrupted individuals and materials
 - **Quarantine Facilities**: Isolating potentially dangerous corruption sources
@@ -412,8 +408,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
 - [[02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Seven Shards]]

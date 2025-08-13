@@ -1,9 +1,9 @@
 ---
-affiliation: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]] & The Deep Mother''s Service'
+affiliation: '[[02_Worldbuilding/Places/Memory Farmers]] & The Deep Mother''s Service'
 age: '42'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Meadows]] - The Harvesting Fields'
+location: '[[02_Worldbuilding/Lore/Memory Meadows]] - The Harvesting Fields'
 race: Human (Shadow-Touched)
 role: Memory Harvester
 status: complete
@@ -35,7 +35,7 @@ world: Aquabyssos
 *Tender of the Mother's Dreams, Shepherd of Forgotten Thoughts*
 
 ## Overview
-Kythara tends the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Meadows]] where the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s pleasant dreams manifest as harvestable memories. Unlike the crude [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]] who exploit memories for profit, she serves a sacred purpose—collecting and preserving the Deep Mother's dreams to feed back to her sleeping consciousness, maintaining the cycle that keeps Aquabyssos stable. Her shadow-touched nature allows her to navigate the boundary between dream and reality.
+Kythara tends the [[02_Worldbuilding/Lore/Memory Meadows]] where the [[02_Worldbuilding/Lore/The Deep Mother]]'s pleasant dreams manifest as harvestable memories. Unlike the crude [[02_Worldbuilding/Places/Memory Farmers]] who exploit memories for profit, she serves a sacred purpose—collecting and preserving the Deep Mother's dreams to feed back to her sleeping consciousness, maintaining the cycle that keeps Aquabyssos stable. Her shadow-touched nature allows her to navigate the boundary between dream and reality.
 
 ## Description
 - **Appearance**: Tall, willowy woman with silver-streaked black hair that seems to move in non-existent currents
@@ -46,7 +46,7 @@ Kythara tends the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Me
 
 ## Background
 ### The Calling to Service
-- Born in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] to middle-class family
+- Born in [[02_Worldbuilding/Places/Abyssos Prime]] to middle-class family
 - Experienced shared dreams with unknown entities from young age
 - At 25, discovered ability to see and touch memories as physical objects
 - Drawn to Memory Meadows by visions of the Deep Mother
@@ -106,22 +106,22 @@ Kythara tends the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Me
 
 ## Relationships
 ### Allies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Shares devotion to Deep Mother
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Elder Whisper-In-The-Dark]]**: Fellow guardian of dream-realms
+- **[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Shares devotion to Deep Mother
+- **[[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]**: Fellow guardian of dream-realms
 - **The Dream Shepherds**: Network of those who protect sleeping minds
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Trader Kellian]]**: Ethical memory merchant who respects boundaries
+- **[[02_Worldbuilding/Lore/Memory Trader Kellian]]**: Ethical memory merchant who respects boundaries
 - **Sacred Site Guardians**: Protectors of other Deep Mother locations
 
 ### Rivals & Enemies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmer Thane]]**: Exploitative harvester who corrupts dreams
+- **[[02_Worldbuilding/Places/Memory Farmer Thane]]**: Exploitative harvester who corrupts dreams
 - **Commercial Memory Syndicates**: Industrial-scale dream exploitation
 - **Shadow Merchants**: Trade in corrupted or stolen memories
 - **The Forgetting Cult**: Seeks to erase all memories to "free" minds
 - **Memory Addicts**: Those who consume dreams compulsively
 
 ### Complex Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]**: Knows his lost memories are in her care
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]**: Competing claims to serve Deep Mother
+- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Knows his lost memories are in her care
+- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Competing claims to serve Deep Mother
 - **Parliament Memory Regulators**: Trying to tax or control her work
 - **Shadow-Touched Community**: Some see her as saint, others as threat
 - **Therapy Seekers**: People who need memory healing she can provide
@@ -171,7 +171,7 @@ Kythara tends the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Me
 - Protected by Deep Mother's divine intervention
 
 ## Connected Elements
-- Central to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Meadows]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] storylines
+- Central to [[02_Worldbuilding/Lore/Memory Meadows]] and [[02_Worldbuilding/Lore/The Deep Mother]] storylines
 - Links memory mechanics to religious/cosmic themes
 - Represents intersection of individual psychology and divine will
 - Bridge between commercial memory trade and sacred purposes
@@ -383,13 +383,13 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 ## Extended Professional Network
 
 ### Sacred Memory Workers Alliance
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Trader Kellian]]**: Ethical merchant maintaining commercial memory trade standards  
+**[[02_Worldbuilding/Lore/Memory Trader Kellian]]**: Ethical merchant maintaining commercial memory trade standards  
 - Collaborative oversight of memory commerce ensuring no exploitation of sacred sites
 - Joint certification program for ethical memory handlers
 - Shared resources for protecting individual memory rights
 - Cooperative response to memory-related crimes and abuses
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Academic collaboration on memory preservation
+**[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Academic collaboration on memory preservation
 - Exchange program sharing expertise in memory storage and retrieval
 - Joint research into memory degradation and preservation techniques
 - Collaborative effort documenting cultural memories of extinct civilizations
@@ -402,26 +402,26 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Collaborative response to dream-based magical threats
 
 ### Religious & Spiritual Connections
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Shared devotion to Deep Mother with different interpretations
+**[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Shared devotion to Deep Mother with different interpretations
 - Regular theological discussions about divine will and proper worship methods
 - Collaboration on protecting sacred sites from commercial exploitation
 - Disagreement over awakening timeline and preparation strategies
 - Mutual respect despite differences in approach to Divine service
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Scylla Deepdream]]**: Orthodox religious authority providing institutional support
+**[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]**: Orthodox religious authority providing institutional support
 - Official religious recognition for Kythara's work within established church structure
 - Resources and protection for Memory Meadows through church political influence
 - Theological consultation on proper interpretation of divine memory-feeding requirements
 - Institutional legitimacy helping protect sacred sites from government interference
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple of Sacred Dreams]]**: Religious institution supporting dream-based spiritual practices
+**[[02_Worldbuilding/Places/Temple of Sacred Dreams]]**: Religious institution supporting dream-based spiritual practices
 - Collaborative programs helping people understand divine communication through dreams
 - Joint ceremonies honoring Deep Mother through memory and dream offerings
 - Shared resources for training priests in safe dream-walking techniques
 - Mutual support during religious holidays and cosmic spiritual events
 
 ### Opposition & Complex Relationships  
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmer Thane]]**: Primary commercial adversary threatening Memory Meadows
+**[[02_Worldbuilding/Places/Memory Farmer Thane]]**: Primary commercial adversary threatening Memory Meadows
 - Direct conflict over exploitation vs. preservation of sacred memory sites
 - Legal battles over memory harvesting rights and environmental protection
 - Ongoing efforts to document and prosecute his unethical business practices
@@ -433,7 +433,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Legal challenges to religious protections for Memory Meadows
 - Economic warfare through dumping artificially created memories to depress market
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cults_and_Movements/The Forgetting Cult]]**: Philosophical enemies seeking universal amnesia
+**[[02_Worldbuilding/Groups/Cults_and_Movements/The Forgetting Cult]]**: Philosophical enemies seeking universal amnesia
 - Fundamental opposition to memory preservation as obstacle to enlightenment
 - Attempts to corrupt or destroy sacred memory collections
 - Recruitment efforts targeting traumatized individuals seeking relief through forgetting
@@ -446,7 +446,7 @@ When encountered in the Memory Meadows, Kythara can take lair actions on initiat
 - Political protection from commercial interests seeking to exploit Memory Meadows
 - Legislative framework ensuring individual rights over personal memories
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]**: Institutional relationship with governing body
+**[[02_Worldbuilding/Places/Parliament of Echoes]]**: Institutional relationship with governing body
 - Regular testimony about memory-related legislation and policy impacts
 - Expert consultation on psychological and spiritual effects of memory commerce
 - Advisory role in developing ethical standards for memory trade regulation
@@ -600,7 +600,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 
 ## Cross-Campaign Integration & Cosmic Connections
 
-### Links to [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+### Links to [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
 **Memory-Reality Stability**: Connection between collective memory and dimensional fabric
 - Stored memories provide anchor points preventing reality fragmentation
 - Divine memories serve as cosmic reference points maintaining dimensional stability
@@ -613,7 +613,7 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - Development of techniques for distinguishing local from trans-dimensional memories
 - Prevention of reality confusion caused by conflicting memory-sets
 
-### Integration with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]]
+### Integration with [[02_Worldbuilding/Groups/The Convergence Seekers]]
 **Memory as Dimensional Anchor**: Understanding role of consciousness in maintaining reality stability
 - Shared research into connections between memory, consciousness, and dimensional structure
 - Collaborative development of techniques for reinforcing reality through memory preservation
@@ -746,17 +746,17 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Abyssal Cathedral]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[02_Worldbuilding/People/Abyssal Cathedral]]
+- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
 - [[Pressure Angel Benthia]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Barnacle]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Singer Naia]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]
+- [[02_Worldbuilding/People/The Barnacle]]
+- [[02_Worldbuilding/People/The Shadow Singer Naia]]
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Crown's Burden]]
+- [[02_Worldbuilding/Quests/The Crown's Burden]]
 
 ## Player-Facing Summary
 
@@ -768,7 +768,7 @@ Legends speak of Memory Harvester Kythara as a nexus where past and present conv
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]
+- [[02_Worldbuilding/People/Memory Harvester Kythara]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Memory Farmers]]

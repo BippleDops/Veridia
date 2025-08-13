@@ -79,7 +79,7 @@ As more families discovered evidence of shadow replacement operations, the Socie
 ### The Resistance Transformation (4 Years Ago - Present)
 **From Documentation to Active Opposition**
 
-Discovery of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Surgery Network]] operations transformed the Society from passive observers into active resistance movement.
+Discovery of [[02_Worldbuilding/Places/Shadow Surgery Network]] operations transformed the Society from passive observers into active resistance movement.
 
 **Operational Evolution**:
 - **Rescue Operations**: Extraction of individuals scheduled for shadow replacement procedures

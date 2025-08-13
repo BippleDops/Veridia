@@ -118,7 +118,7 @@ Use the Deep Fugitive as a recurring character who appears when least expected. 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
 
 
 ## History
@@ -160,6 +160,6 @@ Legends speak of The Deep Fugitive as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deep Fugitive]]
+- [[02_Worldbuilding/Places/The Deep Fugitive]]
 
 <!-- enriched: true -->

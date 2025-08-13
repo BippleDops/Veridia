@@ -37,15 +37,15 @@ world: Aquabyssos
 
 ## Overview
 
-**Temporal Navigation** refers both to the ancient art of moving through time using [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s unique temporal properties and the hidden network of locations throughout the depths where time itself becomes navigable. Unlike surface world magic that treats time as a rigid construct, the crushing pressures and eldritch influences of the deep ocean create natural **chronological currents** that can be ridden by those who understand their patterns.
+**Temporal Navigation** refers both to the ancient art of moving through time using [[02_Worldbuilding/Places/Aquabyssos]]'s unique temporal properties and the hidden network of locations throughout the depths where time itself becomes navigable. Unlike surface world magic that treats time as a rigid construct, the crushing pressures and eldritch influences of the deep ocean create natural **chronological currents** that can be ridden by those who understand their patterns.
 
-The practice originated with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Elder Deep]] entities who first discovered that the immense pressure of the ocean depths created gravitational distortions strong enough to bend spacetime. Over millennia, this knowledge has been refined by the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deepcaster]] mages and the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Guardians]], creating a sophisticated system of time travel that functions more like ocean navigation than traditional chronology magic.
+The practice originated with the [[02_Worldbuilding/Lore/Elder Deep]] entities who first discovered that the immense pressure of the ocean depths created gravitational distortions strong enough to bend spacetime. Over millennia, this knowledge has been refined by the [[02_Worldbuilding/Lore/Deepcaster]] mages and the [[02_Worldbuilding/Lore/Temporal Guardians]], creating a sophisticated system of time travel that functions more like ocean navigation than traditional chronology magic.
 
 ## The Temporal Currents
 
 ### Primary Chronostreams
 
-Throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], massive **temporal currents** flow like underwater rivers, carrying time energy from past to future and occasionally creating loops, eddies, and backflows. The major currents include:
+Throughout [[02_Worldbuilding/Places/Aquabyssos]], massive **temporal currents** flow like underwater rivers, carrying time energy from past to future and occasionally creating loops, eddies, and backflows. The major currents include:
 
 #### The Prime Current
 The strongest and most stable temporal flow, moving from the distant past toward the far future. This current carries the "main timeline" and is used for long-distance temporal travel. It flows at a consistent rate of 1 year per mile traveled.
@@ -69,7 +69,7 @@ Areas where temporal flow has stopped entirely, creating pockets of frozen time.
 - Time inside moves at 1% normal speed
 - Travelers can become permanently trapped
 - Objects and creatures from different eras may be preserved here
-- Entry requires specialized [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Diving Equipment]]
+- Entry requires specialized [[02_Worldbuilding/Lore/Temporal Diving Equipment]]
 
 ### Minor Temporal Features
 
@@ -77,33 +77,33 @@ Areas where temporal flow has stopped entirely, creating pockets of frozen time.
 Small circular currents that can carry travelers backward in time for short periods (hours to days). Often used for reconnaissance or to correct recent mistakes.
 
 #### Temporal Rifts
-Cracks in spacetime that provide direct access to specific historical moments. Highly unstable and often guarded by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Sentinels]].
+Cracks in spacetime that provide direct access to specific historical moments. Highly unstable and often guarded by [[02_Worldbuilding/Lore/Temporal Sentinels]].
 
 #### Time Bubbles
-Isolated pockets where time flows at different rates. Some accelerate aging and healing, others slow it dramatically. Used by the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Sovereign]] for extended contemplation.
+Isolated pockets where time flows at different rates. Some accelerate aging and healing, others slow it dramatically. Used by the [[02_Worldbuilding/Lore/The Deep Sovereign]] for extended contemplation.
 
 ## Navigation Techniques and Technology
 
 ### Traditional Methods
 
 #### Pressure Chronometry
-The original technique developed by the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Elder Deep]], using the relationship between water pressure and gravitational time dilation to measure temporal flow. Practitioners learn to:
+The original technique developed by the [[02_Worldbuilding/Lore/Elder Deep]], using the relationship between water pressure and gravitational time dilation to measure temporal flow. Practitioners learn to:
 - Feel time distortions through pressure changes
 - Predict temporal weather patterns
 - Navigate by "temporal pressure gradients"
 - Sense paradoxes and timeline instabilities
 
 **Pressure Chronometry** (Skill)
-- Requires proficiency in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Arcana]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Sciences]]
+- Requires proficiency in [[02_Worldbuilding/Lore/Arcana]] and [[02_Worldbuilding/Lore/Temporal Sciences]]
 - DC varies based on complexity: 15 for basic navigation, 25 for paradox detection
 - Failure can result in temporal displacement or time sickness
 
 #### Current Reading
 Similar to reading ocean currents for navigation, temporal current reading involves:
 - Observing the flow of temporal energy through specialized senses
-- Using [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Chronological Compass]] devices to detect direction
+- Using [[02_Worldbuilding/Lore/Chronological Compass]] devices to detect direction
 - Following "temporal landmarks" - events that create permanent distortions
-- Avoiding dangerous areas like [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Paradox Storms]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline Fractures]]
+- Avoiding dangerous areas like [[02_Worldbuilding/Lore/Paradox Storms]] and [[02_Worldbuilding/Lore/Timeline Fractures]]
 
 ### Advanced Technology
 
@@ -122,7 +122,7 @@ Pressurized vessels that allow groups to travel through time while maintaining e
 - **Special**: Immunity to temporal effects, can carry non-temporal creatures safely
 
 #### Chronocompass Arrays
-Sophisticated devices that can detect and map temporal currents across vast areas. The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverse Palace]] maintains the most advanced array, capable of:
+Sophisticated devices that can detect and map temporal currents across vast areas. The [[02_Worldbuilding/Places/Inverse Palace]] maintains the most advanced array, capable of:
 - Predicting temporal weather up to 1000 years in advance
 - Detecting timeline alterations and paradoxes
 - Tracking temporal travelers across multiple timelines
@@ -145,18 +145,18 @@ Fixed installations that serve as reference points in the timestream. These stat
 
 ### Organization and Purpose
 
-The **Temporal Guardians** are an ancient order dedicated to protecting the integrity of the timestream and regulating temporal navigation. Founded during the [[Great Temporal War]], they serve as both guides and police for time travelers throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+The **Temporal Guardians** are an ancient order dedicated to protecting the integrity of the timestream and regulating temporal navigation. Founded during the [[Great Temporal War]], they serve as both guides and police for time travelers throughout [[02_Worldbuilding/Places/Aquabyssos]].
 
 #### The Guardian Council
 Led by the **Chronarch Supreme**, a being whose existence spans multiple timelines simultaneously. The council includes:
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Chronarch Supreme]]**: The ultimate authority on temporal matters
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Time Keeper]]**: Maintains the official timeline records
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Paradox Hunter]]**: Investigates and resolves temporal anomalies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Current Master]]**: Expert navigator of the temporal streams
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Past Warden]]**: Protects historical events from alteration
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Future Seer]]**: Monitors potential timelines for threats
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Loop Breaker]]**: Specializes in resolving temporal loops
+- **[[02_Worldbuilding/Lore/Chronarch Supreme]]**: The ultimate authority on temporal matters
+- **[[02_Worldbuilding/Places/The Time Keeper]]**: Maintains the official timeline records
+- **[[02_Worldbuilding/Lore/The Paradox Hunter]]**: Investigates and resolves temporal anomalies
+- **[[02_Worldbuilding/Lore/The Current Master]]**: Expert navigator of the temporal streams
+- **[[02_Worldbuilding/Lore/The Past Warden]]**: Protects historical events from alteration
+- **[[02_Worldbuilding/Lore/The Future Seer]]**: Monitors potential timelines for threats
+- **[[02_Worldbuilding/Lore/The Loop Breaker]]**: Specializes in resolving temporal loops
 
 #### Guardian Ranks and Roles
 
@@ -203,7 +203,7 @@ Led by the **Chronarch Supreme**, a being whose existence spans multiple timelin
 ### Guardian Facilities
 
 #### The Temporal Observatory
-A massive facility built into the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Trenches]] that monitors temporal activity across all of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Features include:
+A massive facility built into the [[02_Worldbuilding/Lore/The Abyssal Trenches]] that monitors temporal activity across all of [[02_Worldbuilding/Places/Aquabyssos]]. Features include:
 - **Chronoscope Arrays**: Devices that can observe any point in time
 - **Timeline Maps**: Physical representations of temporal flow patterns
 - **Paradox Detection Grid**: Early warning system for temporal anomalies
@@ -245,7 +245,7 @@ Areas where conflicting timelines overlap, creating dangerous logical contradict
 - DC 20 Perception to detect temporal distortions
 - Creatures within 100 feet: DC 18 Strength save or be pulled toward center
 - Center of vortex: Trapped in temporal loop, experiencing same 10 minutes repeatedly
-- Escape: DC 22 Arcana check using temporal magic or [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Paradox Theory]]
+- Escape: DC 22 Arcana check using temporal magic or [[02_Worldbuilding/Lore/Paradox Theory]]
 - Each failed escape attempt increases loop duration by 10 minutes
 
 ### Temporal Aging Zones
@@ -255,21 +255,21 @@ Areas where conflicting timelines overlap, creating dangerous logical contradict
 - Creatures age 10 days for each day spent in the field
 - Healing and rest effects accelerated accordingly
 - Long-term exposure can cause rapid death from aging
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Protection]] spells provide immunity
+- [[02_Worldbuilding/Lore/Temporal Protection]] spells provide immunity
 
 ## Notable Temporal Locations
 
 ### The Time Lock Vaults
 
-Hidden throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], these vaults exist outside normal time and contain:
+Hidden throughout [[02_Worldbuilding/Places/Aquabyssos]], these vaults exist outside normal time and contain:
 - **Historical Artifacts**: Items from significant past events
 - **Future Technology**: Advanced equipment from potential timelines
 - **Temporal Weapons**: Devices that can alter time locally
 - **Paradox Seeds**: Dangerous items that could destabilize reality
 
 Access requires:
-- Authorization from the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Guardians]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Key]] artifacts attuned to specific vaults
+- Authorization from the [[02_Worldbuilding/Lore/Temporal Guardians]]
+- [[02_Worldbuilding/Lore/Temporal Key]] artifacts attuned to specific vaults
 - Solving complex chronological puzzles
 - Surviving guardian constructs that exist in multiple time periods
 
@@ -289,7 +289,7 @@ A repository of knowledge that exists across all time periods simultaneously. Sc
 
 ### The Probability Gardens
 
-Locations where potential futures grow like plants, tended by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Future Gardeners]] who cultivate likely timelines and prune dangerous possibilities. Visitors can:
+Locations where potential futures grow like plants, tended by [[02_Worldbuilding/Lore/Future Gardeners]] who cultivate likely timelines and prune dangerous possibilities. Visitors can:
 - Observe potential outcomes of current events
 - Plant "seeds" that encourage favorable futures
 - Harvest probability fruits that provide glimpses of what might come
@@ -299,7 +299,7 @@ Locations where potential futures grow like plants, tended by [[vault_backup_202
 
 ### The Chronological Code
 
-Established by the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Guardians]], this comprehensive legal framework governs time travel:
+Established by the [[02_Worldbuilding/Lore/Temporal Guardians]], this comprehensive legal framework governs time travel:
 
 #### Prohibited Activities
 - **Grandfather Paradox**: Preventing one's own existence
@@ -325,17 +325,17 @@ Established by the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal
 ### Navigation Guidelines
 
 #### Safe Travel Procedures
-1. **File Flight Plan**: Register intended destination and duration with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Control]]
-2. **Equipment Check**: Verify [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Protection]] and emergency beacons
+1. **File Flight Plan**: Register intended destination and duration with [[02_Worldbuilding/Lore/Temporal Control]]
+2. **Equipment Check**: Verify [[02_Worldbuilding/Lore/Temporal Protection]] and emergency beacons
 3. **Current Assessment**: Check temporal weather and hazard reports
 4. **Paradox Briefing**: Review potential causality risks
 5. **Emergency Protocols**: Establish rescue procedures and contingency plans
 
 #### Emergency Procedures
 - **Temporal Displacement**: Contact nearest [[Temporal Anchor Station]]
-- **Paradox Exposure**: Seek immediate medical attention from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Healers]]
+- **Paradox Exposure**: Seek immediate medical attention from [[02_Worldbuilding/Lore/Temporal Healers]]
 - **Equipment Failure**: Activate emergency temporal beacon
-- **Timeline Contamination**: Report to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Guardians]] immediately
+- **Timeline Contamination**: Report to [[02_Worldbuilding/Lore/Temporal Guardians]] immediately
 - **Causal Loop**: Do not attempt self-rescue; wait for professional help
 
 ## Adventure Hooks
@@ -354,7 +354,7 @@ A notorious smuggler is using the temporal currents to transport illegal goods a
 
 ### The Lost Navigator
 
-A master [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Navigator]] has disappeared during a routine mapping expedition to unexplored time currents. The party is hired to:
+A master [[02_Worldbuilding/Lore/Temporal Navigator]] has disappeared during a routine mapping expedition to unexplored time currents. The party is hired to:
 
 - Follow their trail through increasingly dangerous temporal regions
 - Survive environmental hazards unique to time travel
@@ -366,7 +366,7 @@ A master [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Navigator
 
 ### The Paradox Plague
 
-A spreading temporal anomaly is causing paradoxes throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], threatening the stability of the entire timeline. The party must:
+A spreading temporal anomaly is causing paradoxes throughout [[02_Worldbuilding/Places/Aquabyssos]], threatening the stability of the entire timeline. The party must:
 
 - Investigate the source of the temporal infection
 - Navigate chaotic regions where cause and effect break down
@@ -390,7 +390,7 @@ Ancient warriors from the [[Great Temporal War]] have been awakened from tempora
 
 ### The Temporal Inheritance
 
-A PC inherits a mysterious device that allows manipulation of local time, but using it attracts the attention of both [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Guardians]] and temporal criminals. The party must:
+A PC inherits a mysterious device that allows manipulation of local time, but using it attracts the attention of both [[02_Worldbuilding/Lore/Temporal Guardians]] and temporal criminals. The party must:
 
 - Learn to use the device safely
 - Avoid temporal law enforcement and criminals
@@ -404,21 +404,21 @@ A PC inherits a mysterious device that allows manipulation of local time, but us
 
 **Temporal Navigation** connects to numerous locations across time and space:
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]]**: Houses the most advanced temporal detection equipment
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crushing Depths]]**: Where the strongest temporal currents originate
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Elder Deep]]**: Source of original temporal navigation knowledge
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ancient Ruins]]**: Historical sites accessible through time travel
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Pressure Conspiracy]]**: Uses temporal intelligence for political advantage
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Current Networks]]**: Physical currents that parallel temporal ones
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Court]]**: Regulates temporal navigation through official channels
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sunken Cities]]**: Historical destinations for temporal researchers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Temporal War Battlefields]]**: Sites of ancient conflicts preserved in time
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Future Aquabyssos]]**: Potential destinations in various timeline branches
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Paradox Gardens]]**: Where timeline anomalies are contained
+- **[[02_Worldbuilding/Places/The Inverse Palace]]**: Houses the most advanced temporal detection equipment
+- **[[02_Worldbuilding/Lore/Crushing Depths]]**: Where the strongest temporal currents originate
+- **[[02_Worldbuilding/Lore/Elder Deep]]**: Source of original temporal navigation knowledge
+- **[[02_Worldbuilding/Lore/Ancient Ruins]]**: Historical sites accessible through time travel
+- **[[02_Worldbuilding/Places/The Pressure Conspiracy]]**: Uses temporal intelligence for political advantage
+- **[[02_Worldbuilding/Lore/Deep Current Networks]]**: Physical currents that parallel temporal ones
+- **[[02_Worldbuilding/Lore/The Abyssal Court]]**: Regulates temporal navigation through official channels
+- **[[02_Worldbuilding/Lore/The Sunken Cities]]**: Historical destinations for temporal researchers
+- **[[02_Worldbuilding/Lore/The Temporal War Battlefields]]**: Sites of ancient conflicts preserved in time
+- **[[02_Worldbuilding/Lore/Future Aquabyssos]]**: Potential destinations in various timeline branches
+- **[[02_Worldbuilding/Lore/The Paradox Gardens]]**: Where timeline anomalies are contained
 - **[[Temporal Anchor Points]]**: Navigation waypoints throughout the timestream
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Chronicle Depths]]**: Where temporal records are maintained
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Time Storm Shelters]]**: Emergency refuges during temporal weather
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Probability Courts]]**: Where disputes about potential futures are resolved
+- **[[02_Worldbuilding/Lore/The Chronicle Depths]]**: Where temporal records are maintained
+- **[[02_Worldbuilding/Lore/Time Storm Shelters]]**: Emergency refuges during temporal weather
+- **[[02_Worldbuilding/Lore/The Probability Courts]]**: Where disputes about potential futures are resolved
 
 ## Temporal Navigation Equipment
 
@@ -461,17 +461,17 @@ A PC inherits a mysterious device that allows manipulation of local time, but us
 - Can establish permanent temporal waypoints
 - Requires attunement by creature with temporal navigation skills
 
-**Temporal Navigation** represents one of the most sophisticated and dangerous aspects of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] culture, where the crushing depths of the ocean create the perfect conditions for bending the very fabric of time itself, allowing those brave or foolish enough to navigate the currents of past and future.
+**Temporal Navigation** represents one of the most sophisticated and dangerous aspects of [[02_Worldbuilding/Places/Aquabyssos]] culture, where the crushing depths of the ocean create the perfect conditions for bending the very fabric of time itself, allowing those brave or foolish enough to navigate the currents of past and future.
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/Places/The Inverse Palace]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Find the Grief Bomb]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
+- [[02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[02_Worldbuilding/Quests/The Whispering Expanse]]
 
 ## Player-Facing Summary
 
@@ -487,7 +487,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temporal Navigation]]
+- [[02_Worldbuilding/Places/Temporal Navigation]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Pressure Conspiracy]]
+- [[02_Worldbuilding/Places/The Pressure Conspiracy]]

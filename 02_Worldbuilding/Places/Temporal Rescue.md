@@ -165,7 +165,7 @@ This quest emphasizes urgency and ethical decision-making. Time travel should fe
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Primordial Vaults]]
+- [[02_Worldbuilding/Places/The Primordial Vaults]]
 
 ## Player-Facing Summary
 
@@ -177,6 +177,6 @@ Legends speak of Temporal Rescue as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temporal Rescue]]
+- [[02_Worldbuilding/Places/Temporal Rescue]]
 
 <!-- enriched: true -->

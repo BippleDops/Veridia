@@ -193,21 +193,21 @@ Rumors suggest that the Breathing Stone has been spotted in the hands of **Surfa
 
 ## Connected References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassa the Life-Weaver]] - Original creator
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Archkeeper Nereon]] - Last known bearer
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] - Event where stone was lost
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Expeditions]] - Historical exploration missions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Guard]] - Military unit seeking the stone
+- [[02_Worldbuilding/Lore/Thalassa the Life-Weaver]] - Original creator
+- [[02_Worldbuilding/Places/Archkeeper Nereon]] - Last known bearer
+- [[02_Worldbuilding/Places/The Great Drowning]] - Event where stone was lost
+- [[02_Worldbuilding/Lore/Deep Expeditions]] - Historical exploration missions
+- [[02_Worldbuilding/Lore/Pressure Guard]] - Military unit seeking the stone
 - [[Institute of Applied Respiration]] - Academic researchers
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Breathing Stones]] - Related artifacts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Primordial Lung]] - Cosmic source of stone's power
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Methane Forests]] - Dangerous breathing zones
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Depth Speaker]] - Mysterious current figure
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/False Breathers]] - Replica stones
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Surface Raiders]] - Possible current location
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marianas Abyss]] - Deepest exploration point
+- [[02_Worldbuilding/Lore/The Seven Breathing Stones]] - Related artifacts
+- [[02_Worldbuilding/Lore/Primordial Lung]] - Cosmic source of stone's power
+- [[02_Worldbuilding/Lore/Methane Forests]] - Dangerous breathing zones
+- [[02_Worldbuilding/Lore/The Depth Speaker]] - Mysterious current figure
+- [[02_Worldbuilding/Lore/False Breathers]] - Replica stones
+- [[02_Worldbuilding/Lore/Surface Raiders]] - Possible current location
+- [[02_Worldbuilding/Lore/Marianas Abyss]] - Deepest exploration point
 - [[Gill-Men]] - Transformation risk
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Gasp]] - Breathing plague
+- [[02_Worldbuilding/Lore/The Final Gasp]] - Breathing plague
 
 The Breathing Stone represents more than mere magical convenience - it embodies the fundamental struggle for survival in Aquabyssos, where the simple act of drawing breath cannot be taken for granted. Whether as quest objective, character motivation, or world-shaping artifact, it provides countless opportunities for adventure while highlighting the unique challenges of life in the drowned world.
 
@@ -227,4 +227,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Expeditions]]
+- [[02_Worldbuilding/Lore/Deep Expeditions]]

@@ -25,7 +25,7 @@ Roll 1d6 twice: Source and Subject.
 Truth: 50% baseline; adjust ±20% by source reliability.
 
 ## Spread Mechanics
-- Each scene, pick one rumor to propagate one step along connected locations in the [[09_Performance/Indexes/Location_Network_Graph.md|Network]].
+- Each scene, pick one rumor to propagate one step along connected locations in the [[13_Performance/Indexes/Location_Network_Graph.md|Network]].
 - If players amplify, add +1 step and +10% truth if they verify.
 
 ## Faction Propaganda
@@ -37,7 +37,7 @@ Truth: 50% baseline; adjust ±20% by source reliability.
 
 ## Cross-References
 - [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]]
-- [[09_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
+- [[13_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
 
 ## Player-Facing Summary
 

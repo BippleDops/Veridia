@@ -23,17 +23,17 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Location Index]]
+- [[02_Worldbuilding/Lore/Location Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Sorrowmaster]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 08 - The Fractal Conspiracy]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 09 - The Mourning Strategy]]
+- [[02_Worldbuilding/People/The Sorrowmaster]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[1-Session Journals/Aquabyssos - Session 08 - The Fractal Conspiracy]]
+- [[1-Session Journals/Aquabyssos - Session 09 - The Mourning Strategy]]
 
 ## Player-Facing Summary
 

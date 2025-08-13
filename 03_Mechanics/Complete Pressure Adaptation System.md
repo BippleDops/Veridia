@@ -1113,11 +1113,11 @@ Next Goals:
 ## Integration with Other Systems
 
 This system connects with:
-- [[vault_backup_20250813_073007/03_Mechanics/Depth Survival Mechanics]] - Environmental interactions
-- [[vault_backup_20250813_073007/03_Mechanics/Faction Standing System]] - Social implications
-- [[vault_backup_20250813_073007/03_Mechanics/Memory Trading Economy]] - Adaptation memories as currency
-- [[vault_backup_20250813_073007/03_Mechanics/Sanity Horror Framework]] - Mental strain of transformation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merger Mechanics]] - Cross-dimensional adaptations
+- [[03_Mechanics/Depth Survival Mechanics]] - Environmental interactions
+- [[03_Mechanics/Faction Standing System]] - Social implications
+- [[03_Mechanics/Memory Trading Economy]] - Adaptation memories as currency
+- [[03_Mechanics/Sanity Horror Framework]] - Mental strain of transformation
+- [[02_Worldbuilding/Lore/Reality Merger Mechanics]] - Cross-dimensional adaptations
 
 ---
 
@@ -1145,9 +1145,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/03_Mechanics/Depth Survival Mechanics]]
+- [[03_Mechanics/Depth Survival Mechanics]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/03_Mechanics/Depth Survival Mechanics]]
+- [[03_Mechanics/Depth Survival Mechanics]]

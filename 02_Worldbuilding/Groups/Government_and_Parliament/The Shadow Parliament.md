@@ -19,15 +19,15 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
 
 
 ## Connections
 
 - [[Envoy Blackwater Jr.]]
 - [[Jasper Three-Eyes Flint]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Senator]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[02_Worldbuilding/People/The Senator]]
+- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
 
 ## Player-Facing Summary
 

@@ -30,19 +30,19 @@ world: Both
 
 ## Physical Description & Atmosphere
 
-The Depth Plague manifests as both a location and a condition, creating quarantined zones throughout the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssal Territories]]. Infected areas are immediately recognizable by their sickly bioluminescent glow - a nauseating mix of purple and green that pulses like a diseased heartbeat.
+The Depth Plague manifests as both a location and a condition, creating quarantined zones throughout the [[02_Worldbuilding/Places/Abyssal Territories]]. Infected areas are immediately recognizable by their sickly bioluminescent glow - a nauseating mix of purple and green that pulses like a diseased heartbeat.
 
 The water itself becomes thick and viscous, taking on an oily consistency that clings to anything passing through. Strange coral growths spiral in impossible geometries, defying natural law with their twisted forms. The normally melodic sounds of the deep ocean are replaced by an unsettling harmony of whispers in languages that predate civilization.
 
-Quarantine buoys marked with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Triton]] warning glyphs float at the boundaries of infected zones, their magical barriers crackling with protective energy. The [[Order of the Deep Current]] maintains constant patrols to prevent the plague's spread.
+Quarantine buoys marked with [[02_Worldbuilding/Places/Triton]] warning glyphs float at the boundaries of infected zones, their magical barriers crackling with protective energy. The [[Order of the Deep Current]] maintains constant patrols to prevent the plague's spread.
 
 ## History & Significance
 
-The Depth Plague first emerged following the disastrous [[vault_backup_20250813_073007/02_Worldbuilding/Places/Expedition to the Sunless Depths]] forty years ago. The research team, led by the ambitious arcanist [[vault_backup_20250813_073007/02_Worldbuilding/Places/Scholar Thalosseus]], sought to study the ancient ruins in the deepest ocean trenches. They returned... changed.
+The Depth Plague first emerged following the disastrous [[02_Worldbuilding/Places/Expedition to the Sunless Depths]] forty years ago. The research team, led by the ambitious arcanist [[02_Worldbuilding/Places/Scholar Thalosseus]], sought to study the ancient ruins in the deepest ocean trenches. They returned... changed.
 
 Initial symptoms appeared as enhanced darkvision and resistance to pressure, leading some to view it as an evolutionary advantage. However, as the plague progressed, victims developed horrifying mutations and an insatiable hunger for the life essence of healthy creatures.
 
-The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Council of Currents]] declared a state of emergency when the plague began spreading through major population centers. Entire settlements in the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Midnight Reaches]] were abandoned, their inhabitants either fled or transformed into something unrecognizable.
+The [[02_Worldbuilding/Places/Council of Currents]] declared a state of emergency when the plague began spreading through major population centers. Entire settlements in the [[02_Worldbuilding/Places/Midnight Reaches]] were abandoned, their inhabitants either fled or transformed into something unrecognizable.
 
 ## Current Situation & Inhabitants
 
@@ -118,7 +118,7 @@ A creature exposed to the Depth Plague must make a DC 15 Constitution saving thr
 ### Quarantine Zones
 
 #### The Writhing Gardens
-Former [[vault_backup_20250813_073007/02_Worldbuilding/Places/Kelp Forest]] now transformed into a nightmarish maze of mutated vegetation. DC 18 Perception checks reveal safe paths through the corrupted growth.
+Former [[02_Worldbuilding/Places/Kelp Forest]] now transformed into a nightmarish maze of mutated vegetation. DC 18 Perception checks reveal safe paths through the corrupted growth.
 
 #### The Screaming Depths  
 A deep trench where the plague originated. Strange sounds emerge from its depths - DC 16 Wisdom saving throws or be frightened for 1 minute.
@@ -129,13 +129,13 @@ A plateau of calcified remains from plague victims. Undead creatures spawn here 
 ## Adventure Hooks & Encounters
 
 ### The Cure Expedition (Level 8-11)
-[[vault_backup_20250813_073007/02_Worldbuilding/Places/Sage Nereon]] of the [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Academies/Academy of Depths]] believes she has discovered a potential cure using rare [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pristine Pearl]] essence from the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Caverns]]. The party must escort her research team through quarantined zones to test the treatment on willing subjects.
+[[02_Worldbuilding/Places/Sage Nereon]] of the [[02_Worldbuilding/Groups/Academies/Academy of Depths]] believes she has discovered a potential cure using rare [[02_Worldbuilding/Places/Pristine Pearl]] essence from the [[02_Worldbuilding/Places/Crystal Caverns]]. The party must escort her research team through quarantined zones to test the treatment on willing subjects.
 
 ### The Lost Colony (Level 6-9)
-Communication has been lost with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Haven Reef]], a remote settlement. Investigation reveals they've been overrun by the plague, but survivors may be hiding in the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sacred Grottos]]. The party must navigate through infected territory to mount a rescue mission.
+Communication has been lost with [[02_Worldbuilding/Places/Haven Reef]], a remote settlement. Investigation reveals they've been overrun by the plague, but survivors may be hiding in the [[02_Worldbuilding/Places/Sacred Grottos]]. The party must navigate through infected territory to mount a rescue mission.
 
 ### The Spreading Corruption (Level 10-14)
-Plague outbreaks are reported simultaneously in three major cities: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Abyssos]], [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Twilight Gardens]], and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Fort Nautilus]]. Evidence suggests deliberate sabotage by plague cultists serving [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deep Ones]]. A race against time to prevent total contamination of Aquabyssos.
+Plague outbreaks are reported simultaneously in three major cities: [[02_Worldbuilding/Places/Port Abyssos]], [[02_Worldbuilding/Places/The Twilight Gardens]], and [[02_Worldbuilding/Places/Fort Nautilus]]. Evidence suggests deliberate sabotage by plague cultists serving [[02_Worldbuilding/Places/Deep Ones]]. A race against time to prevent total contamination of Aquabyssos.
 
 ## Environmental Challenges
 
@@ -158,21 +158,21 @@ Plague outbreaks are reported simultaneously in three major cities: [[vault_back
 ## Research & Treatment Facilities
 
 ### The Sanctuary of Deep Healing
-Located in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Abyssos]], this temple to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Poseidon]] serves as the primary treatment center. High Priestess [[vault_backup_20250813_073007/02_Worldbuilding/Places/Thalassa Lightbringer]] leads research efforts.
+Located in [[02_Worldbuilding/Places/Port Abyssos]], this temple to [[02_Worldbuilding/Places/Poseidon]] serves as the primary treatment center. High Priestess [[02_Worldbuilding/Places/Thalassa Lightbringer]] leads research efforts.
 
 ### Quarantine Station Beta
-A military outpost on the edge of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Midnight Reaches]], staffed by the [[Order of the Deep Current]]. Houses both medical facilities and containment cells.
+A military outpost on the edge of the [[02_Worldbuilding/Places/Midnight Reaches]], staffed by the [[Order of the Deep Current]]. Houses both medical facilities and containment cells.
 
 ## Connected Threats
-The Depth Plague shows connections to other supernatural threats including the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Throne Syndicate]]'s smuggling operations, strange artifacts recovered from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Senate]], and the increasing activity of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deep Ones]] in the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssal Territories]].
+The Depth Plague shows connections to other supernatural threats including the [[02_Worldbuilding/Places/Coral Throne Syndicate]]'s smuggling operations, strange artifacts recovered from [[02_Worldbuilding/Places/The Sunken Senate]], and the increasing activity of [[02_Worldbuilding/Places/Deep Ones]] in the [[02_Worldbuilding/Places/Abyssal Territories]].
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Riders Guild]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memoriam]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/New Tethys]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[02_Worldbuilding/Places/Memoriam]]
+- [[02_Worldbuilding/Places/New Tethys]]
 
 ## Player-Facing Summary
 
@@ -194,6 +194,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Plague]]
+- [[02_Worldbuilding/Places/The Depth Plague]]
 
 <!-- enriched: true -->

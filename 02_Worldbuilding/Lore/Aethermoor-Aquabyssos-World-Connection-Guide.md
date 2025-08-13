@@ -44,9 +44,9 @@ world_type: Parallel Realms
 - **Timeline**: Post-Crystal Festival events
 - **Barrier**: Weakening, selective breaches
 - **Merged Zones**: 
-  - [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] ↔ [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
-  - [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lighthouse of Storms]] ↔ [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]]
-  - [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]] ↔ [[vault_backup_20250813_073007/02_Worldbuilding/Places/Screaming Gardens]]
+  - [[02_Worldbuilding/Places/Port Meridian]] ↔ [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
+  - [[02_Worldbuilding/Lore/Lighthouse of Storms]] ↔ [[02_Worldbuilding/Places/The Inverse Palace]]
+  - [[02_Worldbuilding/Places/Crystal Gardens]] ↔ [[02_Worldbuilding/Places/Screaming Gardens]]
 - **Mechanics**: Reality shifts every 12 hours
 
 #### State 3: Full Convergence (Possible Future)
@@ -65,20 +65,20 @@ Each Aquabyssos continent has an Aethermoor counterpart:
 
 | Aquabyssos | Aethermoor | Connection Type | Merger Effect |
 |------------|------------|----------------|---------------|
-| [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] | [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] | Political Centers | Shared Parliament |
-| [[vault_backup_20250813_073007/02_Worldbuilding/Places/Nereidios]] | [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Arcanum Heights]] | Knowledge Hubs | Merged Libraries |
-| [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corallion]] | [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] | Living Systems | Symbiotic Growth |
-| [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vorthak]] | [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shattered Isles]] | Fragmented Realms | Reality Chaos |
-| [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]] | [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]] | Darkness Domains | Shadow Overlap |
-| [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]] | [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Peaks]] | Harmonic Centers | Frequency Sync |
-| [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mourning Depths]] | Sorrow's End (to be detailed) | Emotional Extremes | Grief Manifest |
-| [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memoriam]] | [Forgotten] | Lost to Both | Unknown State |
+| [[02_Worldbuilding/Places/Abyssos Prime]] | [[02_Worldbuilding/Places/Port Meridian]] | Political Centers | Shared Parliament |
+| [[02_Worldbuilding/Places/Nereidios]] | [[02_Worldbuilding/Lore/Arcanum Heights]] | Knowledge Hubs | Merged Libraries |
+| [[02_Worldbuilding/Lore/Corallion]] | [[02_Worldbuilding/Lore/Crystal Forest]] | Living Systems | Symbiotic Growth |
+| [[02_Worldbuilding/Lore/Vorthak]] | [[02_Worldbuilding/Lore/Shattered Isles]] | Fragmented Realms | Reality Chaos |
+| [[02_Worldbuilding/People/Tenebrarum]] | [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]] | Darkness Domains | Shadow Overlap |
+| [[02_Worldbuilding/Places/Crystallium]] | [[02_Worldbuilding/Lore/Resonance Peaks]] | Harmonic Centers | Frequency Sync |
+| [[02_Worldbuilding/Places/Mourning Depths]] | Sorrow's End (to be detailed) | Emotional Extremes | Grief Manifest |
+| [[02_Worldbuilding/Places/Memoriam]] | [Forgotten] | Lost to Both | Unknown State |
 
 ### Transit Systems Between Worlds
 
 #### Active Conduits
 1. **Lighthouse Network**
-   - [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lighthouse of Storms]] - Primary portal
+   - [[02_Worldbuilding/Lore/Lighthouse of Storms]] - Primary portal
    - Seven lesser lighthouses - Dormant but activatable
    - Navigation: Crystal resonance keys
    - Risk: Temporal displacement
@@ -90,14 +90,14 @@ Each Aquabyssos continent has an Aethermoor counterpart:
    - Danger: Void current exposure
 
 3. **Memory Streams**
-   - Flow between [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Memory Meadows]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Archives]]
+   - Flow between [[02_Worldbuilding/Places/The Memory Meadows]] and [[02_Worldbuilding/Lore/Aethermoor Archives]]
    - Travel: Consciousness only, body remains
    - Duration: 1d4 hours maximum
    - Cost: Temporary memory loss
 
 4. **Shadow Passages**
    - Created by shadow separation events
-   - Connect: Any shadow to [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]]
+   - Connect: Any shadow to [[02_Worldbuilding/People/Tenebrarum]]
    - Requirement: Shadow independence
    - Warning: One-way without shadow mastery
 
@@ -321,11 +321,11 @@ graph TD
 ## 🔗 Related Documents
 - [[08_Archive/2025-08-09/Campaign_Docs/Aethermoor/Aethermoor Campaign Overview|08 Archive/2025 08 09/Campaign Docs/Aethermoor/Aethermoor Campaign Overview]]
 - [[08_Archive/2025-08-09/Campaign_Docs/Aquabyssos/Aquabyssos Campaign Overview|08 Archive/2025 08 09/Campaign Docs/Aquabyssos/Aquabyssos Campaign Overview]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Seven Shards Mystery]]
-- [[vault_backup_20250813_073007/03_Mechanics/Depth Adaptation System]]
-- [[vault_backup_20250813_073007/03_Mechanics/Crystal Plague Mechanics]]
+- [[02_Worldbuilding/Places/The Seven Shards Mystery]]
+- [[03_Mechanics/Depth Adaptation System]]
+- [[03_Mechanics/Crystal Plague Mechanics]]
 - [[NPC Cross-World Connections]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merged Zone Navigation]]
+- [[02_Worldbuilding/Lore/Merged Zone Navigation]]
 
 ## 📝 DM Guidelines
 
@@ -406,21 +406,21 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shattered Isles]]
+- [[02_Worldbuilding/Lore/Shattered Isles]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Arcanum Heights]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corallion]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Peaks]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shattered Isles]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Vorthak]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tenebrarum]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memoriam]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mourning Depths]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Vale]]
+- [[02_Worldbuilding/Lore/Arcanum Heights]]
+- [[02_Worldbuilding/Lore/Corallion]]
+- [[02_Worldbuilding/Lore/Crystal Forest]]
+- [[02_Worldbuilding/Lore/Resonance Peaks]]
+- [[02_Worldbuilding/Lore/Shattered Isles]]
+- [[02_Worldbuilding/Lore/Vorthak]]
+- [[02_Worldbuilding/People/Tenebrarum]]
+- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]]
+- [[02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Memoriam]]
+- [[02_Worldbuilding/Places/Mourning Depths]]

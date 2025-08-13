@@ -69,11 +69,11 @@ Once a surface world oracle who foresaw the Great Drowning, Scylla chose to drow
 
 ## Relationships
 - **Thal'mexis:** His most devoted priestess, hears his dreams
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]:** Considers her a naive child
+- **[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]:** Considers her a naive child
 - **That-Which-Swims-Between:** Uneasy alliance of convenience
 - **Morpheus Tidecaller:** Eternal ideological enemy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]:** Knows his true identity, prophesied his fall
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Morwyn Veilkeeper]]:** Exchanges prophecies across realms
+- **[[02_Worldbuilding/People/The Crimson Sage]]:** Knows his true identity, prophesied his fall
+- **[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]:** Exchanges prophecies across realms
 
 ## Current Activities
 - Orchestrating ritual to wake Thal'mexis
@@ -96,7 +96,7 @@ Her seat of power:
 > - Knows the exact moment and method of her own ending
 > - Has already drowned several timeline versions of the party
 > - The crown she wears contains fragment of original Crown of Stars
-> - Secretly mother to [[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
+> - Secretly mother to [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]
 > - Has been gradually drowning the moon's reflection
 > - Can kill someone by drowning their future self
 > - Maintains secret correspondence with surface doomsday cults
@@ -138,10 +138,10 @@ Scylla represents the alien horror of Aquabyssos—someone who chose transformat
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Drowning Welcome]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Oracle]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Sorrowmaster]]
+- [[02_Worldbuilding/Lore/The Drowning Welcome]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/People/Oracle]]
+- [[02_Worldbuilding/People/The Sorrowmaster]]
 
 ## Player-Facing Summary
 
@@ -159,6 +159,6 @@ Legends speak of High Priestess Scylla Deepdream as a nexus where past and prese
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Scylla Deepdream]]
+- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]]
 
 <!-- enriched: true -->

@@ -41,7 +41,7 @@ world: Universal
 - Reconstructed scripts demand multi-skill checks (History + Arcana).
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
 - [[03_Mechanics/Weather_And_Seasons.md|Weather & Seasons]]
 
 ## Player-Facing Summary

@@ -9,7 +9,7 @@ date: null
 depth: 1500
 duration_hours: 4
 encounters:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]'
+- '[[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]'
 gold_gained: 200
 items_gained:
 - Senator's Emergency Beacon
@@ -17,15 +17,15 @@ items_gained:
 - Encrypted Shadow Market invitation
 - Palace safe zones map
 locations_visited:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Throne of Bubbles]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverted Ballroom Wing]]'
+- '[[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]'
+- '[[02_Worldbuilding/People/Throne of Bubbles]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+- '[[02_Worldbuilding/Places/Inverted Ballroom Wing]]'
 npcs_met:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Tube Operator Krill]]'
+- '[[02_Worldbuilding/People/Senator Glaucus]]'
+- '[[02_Worldbuilding/People/The Scattered Emperor]]'
+- '[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]'
+- '[[02_Worldbuilding/Lore/Pressure Tube Operator Krill]]'
 obsidianUIMode: preview
 players: []
 plot_threads:
@@ -33,12 +33,12 @@ plot_threads:
 - Senator dissolution incident
 - Shadow Duchess arriving
 - Parliament voting on Shadow Citizenship Act
-primary_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]'
+primary_location: '[[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]'
 quests_completed: []
 quests_progressed: []
 quests_started:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Investigate Shadow Conspiracy]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Discover Shadow Market Location]]'
+- '[[02_Worldbuilding/People/Investigate Shadow Conspiracy]]'
+- '[[02_Worldbuilding/Places/Discover Shadow Market Location]]'
 session: Session 01 Aquabyssos
 session_number: 1
 shadow_level_change: 0
@@ -81,21 +81,21 @@ The party arrives in Aquabyssos via Pressure Tube, experiencing molecular liquif
 - Marina reveals adaptation changes
 
 ### Prepared Encounters
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]] (CR 3)
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]] (CR 3)
 - Environmental pressure checks
 - Social encounter with Emperor's eels
 - Investigation of quarters
 
 ### NPCs to Include
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]] - Shadow-replaced host
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] - Paranoid warning
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]] - Adapted guide
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Tube Operator Krill]] - First contact
+- [[02_Worldbuilding/People/Senator Glaucus]] - Shadow-replaced host
+- [[02_Worldbuilding/People/The Scattered Emperor]] - Paranoid warning
+- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]] - Adapted guide
+- [[02_Worldbuilding/Lore/Pressure Tube Operator Krill]] - First contact
 
 ## Session Timeline
 
 ### Opening Scene
-**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
+**Location:** [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
 **Time:** Midday (though sunlight doesn't reach here)
 **Description:** 
 The party materializes from liquid form in the Pressure Terminal's reconstitution chambers. One member's shadow reforms a second late, moving independently for just a moment. Terminal guards check "molecular integrity" while making notes about shadow irregularities. Graffiti in Aquabyssos script on the walls reads: "The Harvest Comes."
@@ -105,8 +105,8 @@ The party materializes from liquid form in the Pressure Terminal's reconstitutio
 ### Key Events
 
 #### Event 1: The Emperor's Court
-**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/People/Throne of Bubbles]]
-**NPCs:** [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]], [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
+**Location:** [[02_Worldbuilding/People/Throne of Bubbles]]
+**NPCs:** [[02_Worldbuilding/People/The Scattered Emperor]], [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
 **Pressure Check:** DC 12 CON save or gain 1 exhaustion
 **Outcome:** 
 - Emperor speaks through electric eel collective
@@ -124,8 +124,8 @@ The party materializes from liquid form in the Pressure Terminal's reconstitutio
 - Eel 6: "—shadows."
 
 #### Event 2: The Dissolution
-**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
-**NPCs:** [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]], dissolving Senator Hadrian
+**Location:** [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+**NPCs:** [[02_Worldbuilding/People/Senator Glaucus]], dissolving Senator Hadrian
 **Witness Horror:** DC 13 WIS save or frightened for 1 minute
 **Outcome:**
 - Senator Hadrian screams and melts into living shadow
@@ -141,7 +141,7 @@ The party materializes from liquid form in the Pressure Terminal's reconstitutio
 - Guards at Shadow Checkpoint were absent
 
 #### Event 3: Quarters Assignment
-**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverted Ballroom Wing]]
+**Location:** [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
 **Investigation DC:** 15 to find previous ambassador's journal
 **Shadow Check:** DC 10 WIS to notice shadow irregularities
 **Outcome:**
@@ -152,7 +152,7 @@ The party materializes from liquid form in the Pressure Terminal's reconstitutio
 - Waterfalls flow upward into ceiling pools
 
 ### Closing Scene
-**Location:** [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverted Ballroom Wing - Party Quarters]]
+**Location:** [[02_Worldbuilding/Places/Inverted Ballroom Wing - Party Quarters]]
 **Time:** Night cycle (artificial darkness)
 **Cliffhanger:** 
 Party members wake to find their shadows standing at the foot of their beds, perfectly still, watching them. One shadow holds a knife. Marina bursts in: "Don't move. Don't even breathe. If you acknowledge them, they become real." Through the window, dozens of shadows dance in the Inverted Ballroom without their owners.
@@ -184,8 +184,8 @@ Party members wake to find their shadows standing at the foot of their beds, per
 ## Quest Progress
 
 ### Started
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Investigate Shadow Conspiracy]] - Parliament members being replaced by shadows
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Discover Shadow Market Location]] - Encrypted invitation needs decoding
+- [[02_Worldbuilding/People/Investigate Shadow Conspiracy]] - Parliament members being replaced by shadows
+- [[02_Worldbuilding/Places/Discover Shadow Market Location]] - Encrypted invitation needs decoding
 
 ### Hooks Discovered
 - Shadow Duchess arriving tomorrow
@@ -228,9 +228,9 @@ Each character gains:
 - Who wants to investigate vs. escape?
 
 ### Relationship Changes
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]] - Suspicious (disposition: -2)
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] - Paranoid but helpful (disposition: +1)
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]] - Protective guide (disposition: +3)
+- [[02_Worldbuilding/People/Senator Glaucus]] - Suspicious (disposition: -2)
+- [[02_Worldbuilding/People/The Scattered Emperor]] - Paranoid but helpful (disposition: +1)
+- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]] - Protective guide (disposition: +3)
 
 ## World Changes
 - Party's arrival noted by shadow conspiracy
@@ -343,17 +343,17 @@ Each character gains:
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Tube Operator Krill]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Throne of Bubbles]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Discover Shadow Market Location]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverted Ballroom Wing - Party Quarters]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Inverted Ballroom Wing]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]
+- [[02_Worldbuilding/Lore/Pressure Tube Operator Krill]]
+- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
+- [[02_Worldbuilding/People/Throne of Bubbles]]
+- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
+- [[02_Worldbuilding/Places/Discover Shadow Market Location]]
+- [[02_Worldbuilding/Places/Inverted Ballroom Wing - Party Quarters]]
+- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
+- [[02_Worldbuilding/Places/Parliament of Echoes - Public Gallery]]

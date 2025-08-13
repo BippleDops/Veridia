@@ -28,11 +28,11 @@ world: Both
 *Where the Abyss Yields Its Treasures*
 
 > *"Down here, in the crushing dark where pressure makes diamonds and cold preserves wonders, you can find anything - if you're willing to pay the price. Just remember: in the depths, everything costs more than money."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Trader Abyss Currentbinder]], Chief of the Depth Merchant's Consortium
+> — [[02_Worldbuilding/Places/Master Trader Abyss Currentbinder]], Chief of the Depth Merchant's Consortium
 
 ## Overview
 
-The Depth Market stands as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most dangerous and exotic trading hub, a massive complex of interconnected chambers and tunnels carved into the walls of an abyssal trench where the deepest currents meet the ocean floor. Here, in the crushing depths where few dare to venture, merchants trade in the rarest and most valuable goods the deep ocean has to offer: abyssal crystals that glow with their own light, preserved specimens from creatures that have never seen sunlight, and artifacts recovered from ruins so ancient their builders are forgotten by history. The market operates under its own laws, independent of surface authority, where survival depends as much on cunning and courage as on coin.
+The Depth Market stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most dangerous and exotic trading hub, a massive complex of interconnected chambers and tunnels carved into the walls of an abyssal trench where the deepest currents meet the ocean floor. Here, in the crushing depths where few dare to venture, merchants trade in the rarest and most valuable goods the deep ocean has to offer: abyssal crystals that glow with their own light, preserved specimens from creatures that have never seen sunlight, and artifacts recovered from ruins so ancient their builders are forgotten by history. The market operates under its own laws, independent of surface authority, where survival depends as much on cunning and courage as on coin.
 
 ## History and Foundation
 
@@ -46,7 +46,7 @@ The Depth Market stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 ### The Consortium Formation
 **Timeline**: 300-280 years ago, organization of independent traders  
 **Need**: Coordination required for survival and mutual protection  
-**Leadership**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Trader Abyss Currentbinder]] and founding merchants  
+**Leadership**: [[02_Worldbuilding/Places/Master Trader Abyss Currentbinder]] and founding merchants  
 **Governance**: Development of basic trading laws and mutual defense agreements  
 **Growth**: Expansion from temporary camps to permanent installations
 
@@ -279,21 +279,21 @@ The Depth Market stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 
 ### The Depth Merchant's Consortium
 
-#### Master Trader [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyss Currentbinder]]
+#### Master Trader [[02_Worldbuilding/Places/Abyss Currentbinder]]
 **Leadership**: Founding leader and current head of the merchant consortium  
 **Experience**: 40 years of deep-sea trading and exploration  
 **Reputation**: Legendary for successful expeditions to the deepest known areas  
 **Vision**: Architect of the market's growth from small outpost to major trading hub  
 **Network**: Extensive contacts throughout the deep-sea trading world
 
-#### Trade Coordinator [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deep Current Flowmaster]]
+#### Trade Coordinator [[02_Worldbuilding/Places/Deep Current Flowmaster]]
 **Role**: Day-to-day operational management of market activities  
 **Skills**: Expert logistics coordinator and negotiator  
 **Efficiency**: Responsible for the complex scheduling that keeps the market running  
 **Diplomacy**: Key diplomatic contact with various trading factions  
 **Innovation**: Developer of improved trading procedures and safety protocols
 
-#### Security Chief [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Guard Steelwall]]
+#### Security Chief [[02_Worldbuilding/Places/Pressure Guard Steelwall]]
 **Background**: Former military specialist in deep-sea operations  
 **Responsibility**: Overall security and emergency response for the market  
 **Expertise**: Combat tactics adapted to deep-sea environments  
@@ -303,21 +303,21 @@ The Depth Market stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 ### Specialist Trader Guilds
 
 #### The Crystal Seekers Guild
-**Leader**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Gem Deepseeker]], master crystal identifier  
+**Leader**: [[02_Worldbuilding/Places/Gem Deepseeker]], master crystal identifier  
 **Specialization**: Deep-sea crystal mining, processing, and trading  
 **Membership**: Elite crystal specialists with advanced technical knowledge  
 **Resources**: Advanced crystal detection and processing equipment  
 **Reputation**: Most trusted source for authenticated deep-sea crystals
 
 #### The Artifact Hunters Society
-**Leadership**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Echo Truthfinder]], archaeological trading expert  
+**Leadership**: [[02_Worldbuilding/Places/Ancient Echo Truthfinder]], archaeological trading expert  
 **Focus**: Recovery and trading of ancient artifacts and archaeological materials  
 **Exploration**: Organizes expeditions to newly discovered ruins  
 **Scholarship**: Combines trading expertise with serious archaeological research  
 **Ethics**: Maintains ethical standards for archaeological recovery and trading
 
 #### The Specimen Exchange
-**Director**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Specimen Careful Lifeguard]], biological trading specialist  
+**Director**: [[02_Worldbuilding/Places/Specimen Careful Lifeguard]], biological trading specialist  
 **Mission**: Ethical trading in biological specimens and live creatures  
 **Conservation**: Strong commitment to conservation and sustainable harvesting  
 **Research**: Collaboration with surface researchers and institutions  
@@ -574,28 +574,28 @@ The Depth Market stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+### [[02_Worldbuilding/Places/Abyssos Prime]]
 **Trade**: Major supplier of exotic goods to the capital city  
 **Independence**: Maintains independence while respecting royal authority  
 **Intelligence**: Exchange of information about deep-sea threats and opportunities  
 **Support**: Informal support arrangements during major crises  
 **Taxation**: Negotiations over taxation of deep-sea trade
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
+### [[02_Worldbuilding/Places/The Free Current]]
 **Philosophy**: Shared commitment to free trade and minimal government interference  
 **Cooperation**: Cooperation on trade routes and mutual defense  
 **Exchange**: Exchange of trading techniques and market intelligence  
 **Competition**: Some competition for independent trading opportunities  
 **Alliances**: Natural allies in maintaining trading independence
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+### [[02_Worldbuilding/Places/Parliament of Echoes]]
 **Politics**: Complex political relationship with parliamentary authority  
 **Regulation**: Resistance to regulatory oversight of deep-sea trading  
 **Representation**: Questions about political representation and voting rights  
 **Taxation**: Disputes over taxation and fees on deep-sea trade  
 **Autonomy**: Desire to maintain autonomy while participating in broader economy
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
+### [[02_Worldbuilding/Places/Azure Citadel]]
 **Security**: Cooperation on security threats affecting all of Aquabyssos  
 **Intelligence**: Limited sharing of intelligence about deep-sea threats  
 **Protection**: Emergency protection arrangements during existential threats  
@@ -605,7 +605,7 @@ The Depth Market stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Deep Pact
-> The market's survival depends on a secret agreement with an ancient and powerful deep-sea entity known as the Depth Sovereign. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Trader Abyss Currentbinder]] personally negotiates this pact, which requires regular tribute of rare artifacts and magical items. The entity provides protection from the most dangerous abyssal creatures and favorable currents for trade routes, but the demands are becoming increasingly costly and dangerous. Breaking the pact would result in the market being destroyed by creatures and natural disasters.
+> The market's survival depends on a secret agreement with an ancient and powerful deep-sea entity known as the Depth Sovereign. [[02_Worldbuilding/Places/Master Trader Abyss Currentbinder]] personally negotiates this pact, which requires regular tribute of rare artifacts and magical items. The entity provides protection from the most dangerous abyssal creatures and favorable currents for trade routes, but the demands are becoming increasingly costly and dangerous. Breaking the pact would result in the market being destroyed by creatures and natural disasters.
 
 > [!secret] DM Secret - The Living Market
 > The market complex itself is partially alive, grown rather than built using ancient biotechnology discovered in the ruins. The "walls" are actually a massive, slow-growing organism that responds to the needs of the inhabitants by creating new chambers and passages. Only a few of the oldest traders know this secret, and they've been carefully nurturing the growth while keeping it hidden. The organism requires specific nutrients and conditions to remain healthy, and its death would cause the entire market to collapse.
@@ -616,31 +616,31 @@ The Depth Market stands as [[vault_backup_20250813_073007/02_Worldbuilding/Place
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Free Current]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/The Free Current]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Trader Abyss Currentbinder]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Deep Current Flowmaster]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Guard Steelwall]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Gem Deepseeker]]
+- [[02_Worldbuilding/Places/Master Trader Abyss Currentbinder]]
+- [[02_Worldbuilding/Places/Deep Current Flowmaster]]
+- [[02_Worldbuilding/Places/Pressure Guard Steelwall]]
+- [[02_Worldbuilding/Places/Gem Deepseeker]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssal Crystals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep-Sea Artifacts]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Technology]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Depth Merchant's Consortium]]
+- [[02_Worldbuilding/Places/Abyssal Crystals]]
+- [[02_Worldbuilding/Lore/Deep-Sea Artifacts]]
+- [[02_Worldbuilding/Places/Pressure Technology]]
+- [[02_Worldbuilding/Places/Depth Merchant's Consortium]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Frozen Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sinking Atoll]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Void Currents]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/Places/The Frozen Throne]]
+- [[02_Worldbuilding/Places/The Inverse Palace]]
+- [[02_Worldbuilding/Places/The Sinking Atoll]]
+- [[02_Worldbuilding/Places/Void Currents]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
 
@@ -662,6 +662,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Market]]
+- [[02_Worldbuilding/Places/The Depth Market]]
 
 <!-- enriched: true -->

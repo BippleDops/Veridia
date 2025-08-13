@@ -27,14 +27,14 @@ tags:
 *"Nature doesn't need saving - it needs revenge. The crystals are a cancer, and I am the cure, no matter how much cutting is required."*
 
 ## Overview
-Once a member of [[vault_backup_20250813_073007/02_Worldbuilding/People/The Verdant Accord]], Sorrow-Root Nightbloom now leads the Withered Court, a radical splinter faction that believes the only way to save nature is to weaponize it against civilization. They've begun experimenting with controlled corruption to create "crystal-eating" plants.
+Once a member of [[02_Worldbuilding/People/The Verdant Accord]], Sorrow-Root Nightbloom now leads the Withered Court, a radical splinter faction that believes the only way to save nature is to weaponize it against civilization. They've begun experimenting with controlled corruption to create "crystal-eating" plants.
 
 ## Appearance
 - Bark-like skin with crystalline veins spreading like a disease
 - Hair made of withered vines with occasional crystal flowers
 - One eye natural green, the other a swirling crystal purple
 - Wrapped in robes made from crystal-corrupted plant matter
-- Carries a staff grown from a tree that absorbed an [[vault_backup_20250813_073007/02_Worldbuilding/People/Aether Crystal]]
+- Carries a staff grown from a tree that absorbed an [[02_Worldbuilding/People/Aether Crystal]]
 
 ## Personality
 - Speaks in whispers that carry impossible distances
@@ -43,23 +43,23 @@ Once a member of [[vault_backup_20250813_073007/02_Worldbuilding/People/The Verd
 - Maintains an unsettling calm even when committing atrocities
 
 ## Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]]**: Former mentor, now bitter enemy - Thornweaver considers them an abomination
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]**: Unlikely temporary alliances when their anti-crystal goals align
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Has sent assassin vines after her multiple times
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Korvin Blacktide]]**: Fascinated by their corruption experiments, secretly funds their research
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Zephyr Goldwhisper]]**: Their terrorist attacks affect trade routes, making them bad for business
+- **[[02_Worldbuilding/People/Archdruid Thornweaver]]**: Former mentor, now bitter enemy - Thornweaver considers them an abomination
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Unlikely temporary alliances when their anti-crystal goals align
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Has sent assassin vines after her multiple times
+- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]**: Fascinated by their corruption experiments, secretly funds their research
+- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Their terrorist attacks affect trade routes, making them bad for business
 
 ## Current Activities
 - Creating hybrid crystal-plant organisms as weapons
 - Poisoning water supplies near crystal mining operations
-- Building an army of corrupted treants in the deep [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]]
-- Seeking the [[vault_backup_20250813_073007/02_Worldbuilding/People/Verdant Shard]] to corrupt it into a weapon of mass devastation
+- Building an army of corrupted treants in the deep [[02_Worldbuilding/Places/The Verdant Reach]]
+- Seeking the [[02_Worldbuilding/People/Verdant Shard]] to corrupt it into a weapon of mass devastation
 
 ## The Withered Court
 A growing faction of druids, rangers, and fey who believe that:
 - Civilization must fall for nature to survive
 - Crystal corruption can be turned against itself
-- The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] should be destroyed or corrupted beyond use
+- The [[02_Worldbuilding/Lore/The Seven Shards]] should be destroyed or corrupted beyond use
 - Anyone who uses crystals deserves death
 
 ## DM Secrets
@@ -92,7 +92,7 @@ A growing faction of druids, rangers, and fey who believe that:
 - **Thorn Wolves:** Animals transformed into plant-crystal hybrids
 
 ## Plot Hooks
-- The party must stop them from corrupting the [[vault_backup_20250813_073007/02_Worldbuilding/People/Verdant Shard]]
+- The party must stop them from corrupting the [[02_Worldbuilding/People/Verdant Shard]]
 - Negotiate a temporary alliance against a greater threat
 - Investigate disappearing druid circles being forcibly recruited
 - Race to find the components for the Green Death before they do
@@ -100,8 +100,8 @@ A growing faction of druids, rangers, and fey who believe that:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Root Network]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Find the Grief Bomb]]
+- [[02_Worldbuilding/People/Quest - The Root Network]]
+- [[02_Worldbuilding/Quests/Find the Grief Bomb]]
 
 
 ## Goals
@@ -135,7 +135,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sorrow-Root Nightbloom]]
+- [[02_Worldbuilding/People/Sorrow-Root Nightbloom]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Verdant Shard]]
+- [[02_Worldbuilding/People/Verdant Shard]]

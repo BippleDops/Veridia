@@ -116,7 +116,7 @@ The Shadow Citizenship Act provides excellent framework for exploring themes of 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]
+- [[02_Worldbuilding/People/Senator Glaucus]]
 
 
 ## Appearance
@@ -158,7 +158,7 @@ Legends speak of Shadow Citizenship Act as a nexus where past and present conver
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Citizenship Act]]
+- [[02_Worldbuilding/People/Shadow Citizenship Act]]
 
 <!-- enriched: true -->
 iched: true -->

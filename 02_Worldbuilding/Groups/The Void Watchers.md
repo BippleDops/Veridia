@@ -3,9 +3,9 @@ alignment: Lawful Neutral (Cosmic Perspective)
 created: '2025-08-09'
 created_by: auto-stub
 faction_type: Reality Guardian Order
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Observatory Between]] (outside normal reality)'
+headquarters: '[[02_Worldbuilding/Places/The Observatory Between]] (outside normal reality)'
 influence: Hidden but Critical
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The First Watcher]] (ancient entity)'
+leader: '[[02_Worldbuilding/Lore/The First Watcher]] (ancient entity)'
 members: ~200 across both realms and beyond
 purpose: Prevent reality collapse and dimensional instability
 status: complete
@@ -40,7 +40,7 @@ world: Both Aethermoor & Aquabyssos
 *Guardians of Reality's Edge, Sentinels Against the Unmaking*
 
 ## Overview
-The Void Watchers are an ancient order dedicated to preventing the collapse of reality itself. Founded eons ago when the first rifts appeared between dimensions, they monitor the boundaries between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], and the spaces beyond existence. They understand that both worlds' current crises—crystal corruption and shadow spreading—are symptoms of fundamental reality instability that could unmake everything if left unchecked.
+The Void Watchers are an ancient order dedicated to preventing the collapse of reality itself. Founded eons ago when the first rifts appeared between dimensions, they monitor the boundaries between [[02_Worldbuilding/Places/Aethermoor]], [[02_Worldbuilding/Places/Aquabyssos]], and the spaces beyond existence. They understand that both worlds' current crises—crystal corruption and shadow spreading—are symptoms of fundamental reality instability that could unmake everything if left unchecked.
 
 ## Core Mission
 ### Reality Preservation
@@ -53,18 +53,18 @@ The Void Watchers are an ancient order dedicated to preventing the collapse of r
 ### The Greater Perspective
 - View events in both worlds through lens of cosmic stability
 - Understand that some conflicts must be allowed to prevent greater disasters
-- See [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] as part of larger cosmic equation
+- See [[02_Worldbuilding/Lore/The Seven Shards]] and [[02_Worldbuilding/Lore/The Deep Mother]] as part of larger cosmic equation
 - Recognize that total peace or total chaos could both destroy reality
 - Balance intervention with allowing natural cosmic cycles
 
 ## Organization Structure
 ### The Circle of Watchers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The First Watcher]]**: Original founder, exists partially outside time
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Eye]]**: Monitors Aethermoor dimensional stability
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Sentinel]]**: Watches Aquabyssos for reality distortions
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Void Speaker]]**: Communicates with entities beyond existence
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Balance Keeper]]**: Maintains equilibrium between opposing forces
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Last Guardian]]**: Prepared to act if reality collapse becomes inevitable
+- **[[02_Worldbuilding/Lore/The First Watcher]]**: Original founder, exists partially outside time
+- **[[02_Worldbuilding/Lore/The Crystal Eye]]**: Monitors Aethermoor dimensional stability
+- **[[02_Worldbuilding/Lore/The Deep Sentinel]]**: Watches Aquabyssos for reality distortions
+- **[[02_Worldbuilding/Lore/The Void Speaker]]**: Communicates with entities beyond existence
+- **[[02_Worldbuilding/Places/The Balance Keeper]]**: Maintains equilibrium between opposing forces
+- **[[02_Worldbuilding/Lore/The Last Guardian]]**: Prepared to act if reality collapse becomes inevitable
 
 ### Field Operatives
 #### Reality Monitors
@@ -97,9 +97,9 @@ The Void Watchers are an ancient order dedicated to preventing the collapse of r
 - **Cascade Potential**: Multiple crisis points approaching simultaneously
 
 ### Critical Monitoring Points
-- Locations where [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] create reality distortions
-- Sites where [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s dreams leak into physical world
-- Areas where [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]] attempt dimensional manipulation
+- Locations where [[02_Worldbuilding/Lore/The Seven Shards]] create reality distortions
+- Sites where [[02_Worldbuilding/Lore/The Deep Mother]]'s dreams leak into physical world
+- Areas where [[02_Worldbuilding/Groups/The Convergence Seekers]] attempt dimensional manipulation
 - Zones where shadow and crystal energies interact unpredictably
 - Ancient seals and barriers showing signs of weakening
 
@@ -108,14 +108,14 @@ The Void Watchers are an ancient order dedicated to preventing the collapse of r
 - Monitor Shard activities and their reality impact
 - Infiltrate major factions to guide them away from dangerous actions
 - Maintain hidden observatories at critical crystal sites
-- Sometimes work with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] when their goals align
-- Track [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]'s activities as potential reality threat
+- Sometimes work with [[02_Worldbuilding/Groups/Purist Coalition]] when their goals align
+- Track [[02_Worldbuilding/People/The Crimson Sage]]'s activities as potential reality threat
 
 ### Aquabyssos Presence
 - Watch for signs of Deep Mother's awakening affecting dimensional stability
 - Monitor shadow corruption for signs of extra-dimensional contamination
 - Track memory market to prevent reality-affecting memories from spreading
-- Maintain uneasy relationship with [[vault_backup_20250813_073007/02_Worldbuilding/People/Aboleth Prime Yoth]]
+- Maintain uneasy relationship with [[02_Worldbuilding/People/Aboleth Prime Yoth]]
 - Study Parliament activities for policies that might destabilize existence
 
 ## Unique Capabilities
@@ -150,8 +150,8 @@ The Void Watchers are an ancient order dedicated to preventing the collapse of r
 
 ## Relationships & Alliances
 ### Reluctant Cooperation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]**: Their dimensional travel requires monitoring
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]]**: Potentially catastrophic but might be necessary
+- **[[02_Worldbuilding/Groups/The Liminal Trading Company]]**: Their dimensional travel requires monitoring
+- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Potentially catastrophic but might be necessary
 - **Major Factions**: Sometimes provide subtle guidance to prevent disasters
 - **Ancient Entities**: Uneasy truces with beings older than current reality
 - **Cosmic Forces**: Balance relationships with abstract concepts like Time and Space
@@ -243,7 +243,7 @@ The Void Watchers are an ancient order dedicated to preventing the collapse of r
 - **Resource Support**: Funding from governments who benefit from [[02_Worldbuilding/Services/Reality Protection|02 Worldbuilding/Services/Reality Protection]]
 - **Material Supplies**: Rare substances for maintaining [[02_Worldbuilding/Equipment/Dimensional Monitoring Devices|02 Worldbuilding/Equipment/Dimensional Monitoring Devices]]
 - **Operational Freedom**: Permission to act without explaining cosmic implications
-- **Sanctuary Rights**: Safe bases in both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- **Sanctuary Rights**: Safe bases in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]
 
 ## The Observatory Between
 
@@ -286,7 +286,7 @@ The Observatory exists outside normal space-time, accessible only through hidden
 - Oath of eternal service to reality preservation
 
 #### Phase 6: The First Awakening
-- Reserved for potential successors to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The First Watcher]]
+- Reserved for potential successors to [[02_Worldbuilding/Lore/The First Watcher]]
 - Exposure to pre-reality memories and experiences
 - Understanding the cyclical nature of existence
 - Learning emergency protocols for universe recreation
@@ -354,7 +354,7 @@ The Observatory exists outside normal space-time, accessible only through hidden
 - **[[02_Worldbuilding/Organizations/The Eternal Sentinels|02 Worldbuilding/Organizations/The Eternal Sentinels]]**: Guards against temporal paradoxes
 - **[[02_Worldbuilding/Organizations/Probability Shepherds|02 Worldbuilding/Organizations/Probability Shepherds]]**: Maintain quantum stability across dimensions
 - **[[02_Worldbuilding/Organizations/The Life Eternal|02 Worldbuilding/Organizations/The Life Eternal]]**: Protect biological existence from cosmic entropy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Keepers of Memory]]**: Preserve essential information across reality cycles
+- **[[02_Worldbuilding/Places/Keepers of Memory]]**: Preserve essential information across reality cycles
 - **[[02_Worldbuilding/Organizations/The Void Seals|02 Worldbuilding/Organizations/The Void Seals]]**: Ancient entities dedicated to keeping hostile forces outside reality
 
 #### Mortal World Contacts
@@ -367,13 +367,13 @@ The Observatory exists outside normal space-time, accessible only through hidden
 ## Hidden Agenda & Internal Conflicts
 
 ### The Cycle Secret
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The First Watcher]] knows that reality undergoes regular cycles of destruction and recreation, and that the current universe is actually the seventh iteration. Only Circle members know this truth, creating tension with lower-ranked Watchers who don't understand why some threats are allowed to develop.
+[[02_Worldbuilding/Lore/The First Watcher]] knows that reality undergoes regular cycles of destruction and recreation, and that the current universe is actually the seventh iteration. Only Circle members know this truth, creating tension with lower-ranked Watchers who don't understand why some threats are allowed to develop.
 
 ### The Intervention Paradox
 Some Watchers believe their protective actions actually weaken reality by preventing natural evolutionary pressures that would strengthen existence. This philosophical divide creates operational conflicts and undermines unity.
 
 ### The Successor Crisis
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The First Watcher]] is beginning to fade from existence due to their extreme age and cosmic exposure. The Circle is secretly competing to replace them, with each member believing their approach to reality protection is superior.
+[[02_Worldbuilding/Lore/The First Watcher]] is beginning to fade from existence due to their extreme age and cosmic exposure. The Circle is secretly competing to replace them, with each member believing their approach to reality protection is superior.
 
 ### The Void Corruption
 Unknown to most Watchers, prolonged exposure to void entities is slowly transforming the organization. Some senior members are becoming more like the threats they fight, raising questions about whether they're still protecting reality or controlling it.
@@ -386,21 +386,21 @@ Training new Watchers requires exposing them to cosmic horrors that fundamentall
 ### The Preservationists
 - Believe current reality is optimal and must be maintained exactly as is
 - Oppose any changes, even beneficial ones, as potential destabilization
-- Led by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Eye]] and conservative Circle members
+- Led by [[02_Worldbuilding/Lore/The Crystal Eye]] and conservative Circle members
 - Sometimes conflict with those who see need for adaptation
 - View mortal choices suspiciously as potential chaos sources
 
 ### The Evolutionists
 - Think reality must grow and change to remain healthy
 - Support controlled development and careful innovation
-- Led by [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Balance Keeper]] and moderate Watchers
+- Led by [[02_Worldbuilding/Places/The Balance Keeper]] and moderate Watchers
 - Believe stagnation leads to vulnerability
 - Work to guide rather than prevent change
 
 ### The Cyclicalists
 - Know about reality cycles and prepare for next recreation
 - Focus on preserving essential elements for future iterations
-- Led by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The First Watcher]] and inner Circle
+- Led by [[02_Worldbuilding/Lore/The First Watcher]] and inner Circle
 - Make decisions based on multi-universal timescales
 - Sometimes sacrifice current reality elements for long-term stability
 
@@ -408,7 +408,7 @@ Training new Watchers requires exposing them to cosmic horrors that fundamentall
 - Believe Watchers should take active role in improving reality
 - Support direct action to solve problems rather than just monitoring
 - Popular among field operatives frustrated with observation-only policies
-- Led by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Void Speaker]] and younger Watchers
+- Led by [[02_Worldbuilding/Lore/The Void Speaker]] and younger Watchers
 - Risk creating problems through excessive interference
 
 ## Advanced Services & Consultations
@@ -460,15 +460,15 @@ Training new Watchers requires exposing them to cosmic horrors that fundamentall
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Threshold Chambers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Goldspire Confederacy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
+- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
+- [[02_Worldbuilding/Places/The Threshold Chambers]]
+- [[02_Worldbuilding/Places/Goldspire Confederacy]]
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
@@ -485,4 +485,4 @@ Legends speak of The Void Watchers as a nexus where past and present converge. L
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]

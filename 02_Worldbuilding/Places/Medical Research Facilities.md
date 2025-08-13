@@ -148,7 +148,7 @@ Dr. Harmonybane's research combines magic and science in unprecedented ways. Her
 
 *Breakthrough Discovery:* Certain combinations of bardic magic and mechanical resonance can cause Stage 1-2 crystals to dissolve. Side effects include severe migraine headaches and temporary loss of magical ability.
 
-*Personal Note:* She composes healing songs during off-hours, some of which have shown remarkable success in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Plague Wards]] patient comfort care.
+*Personal Note:* She composes healing songs during off-hours, some of which have shown remarkable success in [[02_Worldbuilding/Places/Crystal Plague Wards]] patient comfort care.
 
 ### Research Ethics Board
 
@@ -164,7 +164,7 @@ Dr. Harmonybane's research combines magic and science in unprecedented ways. Her
 - Dr. Voidwise's self-infection experiment approval
 - Resource allocation debates
 - Volunteer patient compensation policies
-- Information sharing with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] researchers
+- Information sharing with [[02_Worldbuilding/Places/Crystal Cult Temples]] researchers
 
 #### Recent Decisions
 
@@ -221,7 +221,7 @@ This underwater facility studies how ocean depth, pressure, and magical currents
 
 **Discovery:** Patients exposed to extreme ocean pressure show 30% slower plague progression  
 **Mechanism:** Pressure appears to compress crystal formations, limiting their growth  
-**Applications:** Pressure chamber therapy now available at [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Plague Wards]]  
+**Applications:** Pressure chamber therapy now available at [[02_Worldbuilding/Places/Crystal Plague Wards]]  
 **Limitations:** Treatment requires daily sessions, only effective on Stages 1-3
 
 *Patient Testimony - Captain Sarah Stormwind (Stage 2):*
@@ -237,7 +237,7 @@ This underwater facility studies how ocean depth, pressure, and magical currents
 *Production Notes:*
 - One dose requires 50 pounds of rare kelp
 - Harvest operations risk diver contamination
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] have begun targeting kelp forests
+- [[02_Worldbuilding/Places/Crystal Cult Temples]] have begun targeting kelp forests
 - Alternative cultivation methods under development
 
 ### Daily Operations
@@ -268,7 +268,7 @@ Night shift maintains minimal staffing. Emergency response teams on standby for 
 - Meridian Institute for Crystalline Pathology
 - Deepwater Research Station  
 - Royal Academy Medical School
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] (limited participation)
+- [[02_Worldbuilding/Places/Crystal Cult Temples]] (limited participation)
 - Foreign research delegations from allied nations
 
 **Coordination Center:** Neutral ground facility in Port Meridian's Government District  
@@ -331,7 +331,7 @@ Competition for limited research funds has created tension between institutions:
 - Advocates complete transparency between all research institutions
 - Believes collaboration will accelerate cure discovery
 - Opposes military classification of research data
-- Supports including [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] researchers
+- Supports including [[02_Worldbuilding/Places/Crystal Cult Temples]] researchers
 
 **Security Faction**  
 *Leader: Royal Medical Advisor Dr. Victoria Crownwright*  
@@ -354,7 +354,7 @@ Competition for limited research funds has created tension between institutions:
 **Formation:** Frustrated researchers who left official institutions  
 **Leader:** Dr. Marcus Shadowmend (expelled from Royal Academy)  
 **Membership:** 12 known researchers, unknown number of supporters  
-**Funding:** [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Black Market Crystal Trade]] sales of experimental treatments  
+**Funding:** [[02_Worldbuilding/Lore/Black Market Crystal Trade]] sales of experimental treatments  
 **Ethics:** Willing to use methods official institutions consider unacceptable
 
 #### Hidden Laboratory - "The Deep Lab"
@@ -367,7 +367,7 @@ Competition for limited research funds has created tension between institutions:
 The Rogue Scientists conduct research banned by official ethics boards:
 - Terminal experimentation on willing Stage 5 patients
 - Untested treatments on desperate families
-- Reverse-engineering [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] transformation rituals
+- Reverse-engineering [[02_Worldbuilding/Places/Crystal Cult Temples]] transformation rituals
 - Developing enhancement procedures that embrace rather than cure crystallization
 
 *Dr. Shadowmend's Philosophy:* "Official channels move too slowly while people die. Sometimes healing requires breaking a few rules."
@@ -381,11 +381,11 @@ Attempting to reverse Stage 5 transformation through combination of divine magic
 Investigating controlled crystallization that preserves human consciousness while gaining crystal abilities. Three volunteers currently participating in extended trials.
 
 **Project Viral Warfare**
-Developing ways to weaponize plague research against [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] and foreign enemies. Strictly compartmentalized due to extreme danger.
+Developing ways to weaponize plague research against [[02_Worldbuilding/Places/Crystal Cult Temples]] and foreign enemies. Strictly compartmentalized due to extreme danger.
 
 ### The Cult Infiltrators
 
-**Network:** [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] members working within official research institutions  
+**Network:** [[02_Worldbuilding/Places/Crystal Cult Temples]] members working within official research institutions  
 **Goal:** Sabotage cure development while stealing research for cult purposes  
 **Methods:** Data theft, experiment contamination, researcher recruitment  
 **Detection:** Ongoing counter-intelligence operations
@@ -421,7 +421,7 @@ Complete patient records were stolen from the Central Library, presumably to ide
 **Staffing Challenges**
 - Hazard pay for researchers working with dangerous specimens
 - High turnover due to infection risk and stress
-- Competition with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Black Market Crystal Trade]] organizations offering higher salaries
+- Competition with [[02_Worldbuilding/Lore/Black Market Crystal Trade]] organizations offering higher salaries
 - Training costs for new researchers in specialized plague protocols
 
 **Facility Maintenance**
@@ -444,7 +444,7 @@ Wealthy plague victims from other regions travel to access cutting-edge treatmen
 ## Adventure Hooks
 
 ### The Sabotaged Experiment
-A crucial experiment that could lead to a cure has been sabotaged, setting back research by months. Investigation reveals a complex web of competing interests - [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] infiltrators, foreign spies, and rival research institutions all had motives.
+A crucial experiment that could lead to a cure has been sabotaged, setting back research by months. Investigation reveals a complex web of competing interests - [[02_Worldbuilding/Places/Crystal Cult Temples]] infiltrators, foreign spies, and rival research institutions all had motives.
 
 ### The Ethical Dilemma
 A researcher has discovered a potential cure, but testing it requires sacrificing a group of Stage 4 patients. The ethics board is deadlocked, and desperate families are demanding action while patient advocates protest the exploitation.
@@ -479,12 +479,12 @@ A young researcher has made a revolutionary discovery but refuses to share it wi
 - Use research ethics as vehicle for character development
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Plague Progression System]] - Disease mechanics and stages
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Plague Wards]] - Patient care and hospital facilities  
+- [[02_Worldbuilding/Lore/Crystal Plague Progression System]] - Disease mechanics and stages
+- [[02_Worldbuilding/Places/Crystal Plague Wards]] - Patient care and hospital facilities  
 - [[Brother Marcus]] - Traditional healing approaches
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Cult Temples]] - Religious perspectives on the plague
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Black Market Crystal Trade]] - Economic and criminal aspects
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underground Smuggling Networks]] - Alternative distribution systems
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quarantine Enforcement]] - Government response and control measures
+- [[02_Worldbuilding/Places/Crystal Cult Temples]] - Religious perspectives on the plague
+- [[02_Worldbuilding/Lore/Black Market Crystal Trade]] - Economic and criminal aspects
+- [[02_Worldbuilding/Lore/Underground Smuggling Networks]] - Alternative distribution systems
+- [[02_Worldbuilding/Lore/Quarantine Enforcement]] - Government response and control measures
 
 <!-- enriched: true -->

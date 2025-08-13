@@ -5,9 +5,6 @@
 ## gareth-default
 ![](04_Resources/Assets/Portraits/gareth-default.png)
 
-## portrait-comfy-latest
-![](04_Resources/Assets/Portraits/portrait-comfy-latest.png)
-
 ## portrait-npc-aboleth-prime-yoth-aboleth-prime-yoth
 ![](04_Resources/Assets/Portraits/portrait-npc-aboleth-prime-yoth-aboleth-prime-yoth.svg)
 

@@ -28,21 +28,21 @@ world: Both
 *Where Secrets Dock and Silence Rules*
 
 ## Overview
-The Hidden Cove of Whispers serves as the secret headquarters for [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Brotherhood of the Black Anchor]], featuring concealed docks, underwater storage facilities, and sophisticated communication networks that enable the Brotherhood's sophisticated smuggling and intelligence operations.
+The Hidden Cove of Whispers serves as the secret headquarters for [[02_Worldbuilding/Groups/The Brotherhood of the Black Anchor]], featuring concealed docks, underwater storage facilities, and sophisticated communication networks that enable the Brotherhood's sophisticated smuggling and intelligence operations.
 
 ## Key Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Brotherhood of the Black Anchor]]** - Primary headquarters and operations base
+- **[[02_Worldbuilding/Groups/The Brotherhood of the Black Anchor]]** - Primary headquarters and operations base
 - **[[02_Worldbuilding/Groups/Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Coordination hub and safe harbor
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Shadow Markets New]]** - Distribution network for stolen goods
+- **[[02_Worldbuilding/Places/The Shadow Markets New]]** - Distribution network for stolen goods
 - **[[02_Worldbuilding/People/Jasper "Three-Eyes" Flint|02 Worldbuilding/People/Jasper "Three Eyes" Flint]]** - Information broker and intelligence coordinator
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]]** - Rival criminal organization and territorial competitor
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Primary naval threat requiring concealment
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]** - Major operations target and infiltration site
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Tidecaller]]** - Mysterious patron providing protection
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Floating Markets of Nereidios]]** - Regular infiltration target
+- **[[02_Worldbuilding/Groups/The Crimson Fleet]]** - Rival criminal organization and territorial competitor
+- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Primary naval threat requiring concealment
+- **[[02_Worldbuilding/Places/Port Meridian]]** - Major operations target and infiltration site
+- **[[02_Worldbuilding/People/The Tidecaller]]** - Mysterious patron providing protection
+- **[[02_Worldbuilding/Places/The Floating Markets of Nereidios]]** - Regular infiltration target
 - **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Occasional cooperation and competition
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]** - Active investigator seeking cove location
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Slave Markets of Tethys]]** - Competing criminal operation
+- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]** - Active investigator seeking cove location
+- **[[02_Worldbuilding/Places/The Slave Markets of Tethys]]** - Competing criminal operation
 
 ## History
 
@@ -93,6 +93,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hidden Cove of Whispers]]
+- [[02_Worldbuilding/Places/The Hidden Cove of Whispers]]
 
 <!-- enriched: true -->

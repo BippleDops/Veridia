@@ -1,18 +1,14 @@
 ---
-created: '2025-08-11'
-status: complete
-tags:
-- both
-- complete
-- content/lore
-- lore
-- status/in-progress
-- world/both
 type: Lore
-updated: '2025-08-13T12:34:29.066766+00:00'
+status: complete
 world: Both
+updated: '2025-08-13T01:18:34.888858+00:00'
+created: '2025-08-11'
+tags:
+- active
+- both
+- lore
 ---
-
 
 
 
@@ -27,7 +23,7 @@ world: Both
 
 Vorthak is an ancient kraken of immense size and terrible intelligence that has dwelled in the deepest trenches of [[02_Worldbuilding/Places/Aquabyssos]] since before [[02_Worldbuilding/Places/The Great Drowning]]. Far more than a mere sea monster, Vorthak is a primordial entity whose dreams shape reality across the depths, whose memories stretch back to the world's creation, and whose prophecies have guided the course of underwater civilizations for millennia.
 
-The entity exists in a state of eternal dreaming, its consciousness expanded across multiple layers of reality simultaneously. When Vorthak stirs, the very ocean trembles, and when it dreams deeply, visions cascade through the minds of seers and mystics throughout [[02_Worldbuilding/Places/Aquabyssos]]. Those brave or foolish enough to seek it out in the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Hadal Depths]] speak of a creature so vast that its body forms underwater mountain ranges, and whose eyes contain the wisdom and madness of eons.
+The entity exists in a state of eternal dreaming, its consciousness expanded across multiple layers of reality simultaneously. When Vorthak stirs, the very ocean trembles, and when it dreams deeply, visions cascade through the minds of seers and mystics throughout [[02_Worldbuilding/Places/Aquabyssos]]. Those brave or foolish enough to seek it out in the [[Hadal Depths]] speak of a creature so vast that its body forms underwater mountain ranges, and whose eyes contain the wisdom and madness of eons.
 
 ## Nature and Manifestation
 
@@ -67,7 +63,7 @@ Since the Drowning, Vorthak has existed in its current dreaming state—neither 
 ### The Deep Prophets
 Throughout [[02_Worldbuilding/Places/Aquabyssos]]'s history, certain individuals have received visions from Vorthak. These **Deep Prophets** become conduits for the entity's knowledge and guidance, though the experience often drives them to madness or transforms them into something no longer entirely human. Current Deep Prophets include:
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pythia Deepgazer]]**: The most famous oracle in [[02_Worldbuilding/Places/Aquabyssos]], who regularly receives visions from Vorthak
+- **[[02_Worldbuilding/Lore/Pythia Deepgazer]]**: The most famous oracle in [[02_Worldbuilding/Places/Aquabyssos]], who regularly receives visions from Vorthak
 - **The Trench Speakers**: A secretive order of mystics who have established a shrine in the depths near Vorthak's resting place
 - **Dream Touched**: Individuals throughout [[02_Worldbuilding/Places/Aquabyssos]] who spontaneously receive Vorthak's visions during sleep
 
@@ -79,7 +75,7 @@ While Vorthak takes no direct role in governance, its prophecies have influenced
 - Predictions that have shaped trade relationships and diplomatic policies
 
 ### The Deep Pilgrimage
-Some seekers of knowledge undertake the dangerous **Deep Pilgrimage** to Vorthak's resting place in the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Hadal Depths]]. This journey is considered one of the most dangerous undertakings in [[02_Worldbuilding/Places/Aquabyssos]], requiring months of preparation and the ability to survive in the deepest, most hostile parts of the ocean. Most pilgrims never return, and those who do are forever changed by the experience.
+Some seekers of knowledge undertake the dangerous **Deep Pilgrimage** to Vorthak's resting place in the [[Hadal Depths]]. This journey is considered one of the most dangerous undertakings in [[02_Worldbuilding/Places/Aquabyssos]], requiring months of preparation and the ability to survive in the deepest, most hostile parts of the ocean. Most pilgrims never return, and those who do are forever changed by the experience.
 
 ## Powers and Abilities
 
@@ -117,7 +113,7 @@ The entity's mental powers include:
 Vorthak's primary resting place is an underwater canyon system so deep that light has never touched it. The entity's body has become part of the geological structure, with coral and deep-sea life growing across its ancient shell and tentacles. The area around Vorthak pulses with bioluminescent organisms that seem to respond to the entity's dream cycles.
 
 ### Environmental Effects
-Vorthak's presence creates several unique phenomena in the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Hadal Depths]]:
+Vorthak's presence creates several unique phenomena in the [[Hadal Depths]]:
 - **Dream Currents**: Water currents that carry prophetic visions to distant locations
 - **Memory Crystals**: Mineral formations that store and replay historical events
 - **Temporal Pools**: Areas where time flows differently, allowing glimpses of past and future
@@ -168,7 +164,7 @@ Different factions in [[02_Worldbuilding/Places/Aquabyssos]] interpret Vorthak's
 
 ### The Silent Prophet
 **Level**: 11-15  
-Vorthak has stopped sending visions, and the Deep Prophets throughout [[02_Worldbuilding/Places/Aquabyssos]] have fallen into mysterious comas. The party must venture to the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Hadal Depths]] to discover what has happened to the ancient oracle.
+Vorthak has stopped sending visions, and the Deep Prophets throughout [[02_Worldbuilding/Places/Aquabyssos]] have fallen into mysterious comas. The party must venture to the [[Hadal Depths]] to discover what has happened to the ancient oracle.
 
 ### The Paradox Prophecy
 **Level**: 9-13  
@@ -180,7 +176,7 @@ Someone is stealing memories from Vorthak's vast consciousness, potentially dama
 
 ### The Deep Pilgrimage
 **Level**: 8-14  
-The party must escort an important political figure on a pilgrimage to seek Vorthak's guidance on a critical decision affecting both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. The journey through the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Hadal Depths]] reveals ancient secrets and terrible dangers.
+The party must escort an important political figure on a pilgrimage to seek Vorthak's guidance on a critical decision affecting both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. The journey through the [[Hadal Depths]] reveals ancient secrets and terrible dangers.
 
 ### The Awakening Signs
 **Level**: 15-18  
@@ -208,24 +204,24 @@ Vorthak shows signs of fully awakening, which could either save [[02_Worldbuildi
 **Related Concepts**:
 - [[02_Worldbuilding/Lore/Deep Prophecy]]
 - [[02_Worldbuilding/Lore/The Seven Deep Truths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Touching Madness]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Primordial Memory]]
+- [[02_Worldbuilding/Lore/Deep Touching Madness]]
+- [[02_Worldbuilding/Lore/Primordial Memory]]
 
 **Related Locations**:
 - [[02_Worldbuilding/Places/The Hadal Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Sanctum]]
+- [[02_Worldbuilding/Lore/The Abyssal Sanctum]]
 - [[02_Worldbuilding/Places/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Pilgrimage Route]]
+- [[02_Worldbuilding/Lore/The Deep Pilgrimage Route]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pythia Deepgazer]]
+- [[02_Worldbuilding/Lore/Pythia Deepgazer]]
 - [[02_Worldbuilding/Lore/The Deep Prophets]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Trench Speakers]]
+- [[02_Worldbuilding/Lore/The Trench Speakers]]
 - [[02_Worldbuilding/Lore/Memory Whales]]
 
 **Associated Phenomena**:
 - [[02_Worldbuilding/Lore/Prophetic Visions]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Dream Currents]]
+- [[02_Worldbuilding/Lore/Dream Currents]]
 - [[02_Worldbuilding/Lore/Temporal Pools]]
 - [[02_Worldbuilding/Lore/The Deep Awakening]]
 
@@ -235,7 +231,7 @@ Vorthak shows signs of fully awakening, which could either save [[02_Worldbuildi
 ## Connections
 
 - [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Continental Connections & Story Weave]]
+- [[Continental Connections & Story Weave]]
 - [[02_Worldbuilding/Places/Nereidios]]
 - [[1-Session Journals/Aquabyssos - Session 08 - The Fractal Conspiracy]]
 
@@ -261,5 +257,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Primordial Memory]]
+- [[02_Worldbuilding/Lore/Primordial Memory]]
 - [[02_Worldbuilding/Places/Aethermoor]]

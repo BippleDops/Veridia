@@ -126,7 +126,7 @@ This quest explores themes of scientific ethics, unintended consequences, and th
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
 
 
 ## Overview
@@ -180,6 +180,6 @@ Legends speak of Quest   The Perfect Purifier as a nexus where past and present 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Perfect Purifier]]
+- [[02_Worldbuilding/People/Quest - The Perfect Purifier]]
 
 <!-- enriched: true -->

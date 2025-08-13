@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bloodline Awakening Powers]]
+- [[02_Worldbuilding/Lore/Bloodline Awakening Powers]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bloodline Awakening Powers]]
+- [[02_Worldbuilding/Lore/Bloodline Awakening Powers]]
 
 ## Player-Facing Summary
 

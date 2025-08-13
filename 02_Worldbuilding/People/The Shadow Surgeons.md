@@ -139,9 +139,9 @@ The Shadow Surgeons provide excellent opportunities for moral dilemmas and despe
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Fear Farms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Rescue Senator Glaucus]]
+- [[02_Worldbuilding/Lore/Fear Farms]]
+- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Quests/Rescue Senator Glaucus]]
 
 
 ## Appearance
@@ -177,7 +177,7 @@ Legends speak of The Shadow Surgeons as a nexus where past and present converge.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Surgeons]]
+- [[02_Worldbuilding/People/The Shadow Surgeons]]
 
 <!-- enriched: true -->
 nriched: true -->

@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Riders Guild]]
+- [[02_Worldbuilding/Places/Current Riders Guild]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Riders Guild]]
+- [[02_Worldbuilding/Places/Current Riders Guild]]
 
 ## Player-Facing Summary
 

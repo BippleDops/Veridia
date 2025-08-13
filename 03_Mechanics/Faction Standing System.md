@@ -47,7 +47,7 @@ Practical, table-ready rules for Faction Standing System across Aquabyssos and A
 - Offer informed choices and reminders of Lines & Veils.
 
 ## Cross-References
-- [[09_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
+- [[13_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
 - [[06_GM_Resources/Ultimate_GM_Screen.md|Ultimate GM Screen]]
 
 ## Player-Facing Summary
@@ -74,4 +74,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Complete_Pressure_Adaptation_System|Complete Pressure Adaptation System]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
+- [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]

@@ -62,11 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Twin Prophets]]
+- [[02_Worldbuilding/Places/The Twin Prophets]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Smuggler's Cove]]
+- [[02_Worldbuilding/Places/Smuggler's Cove]]

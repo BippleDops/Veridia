@@ -64,11 +64,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Voice Beneath]]
+- [[02_Worldbuilding/People/Quest - The Voice Beneath]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
+- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]

@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Harvest]]
+- [[02_Worldbuilding/Lore/The Deep Harvest]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Harvest]]
+- [[02_Worldbuilding/Lore/The Deep Harvest]]
 
 ## Player-Facing Summary
 

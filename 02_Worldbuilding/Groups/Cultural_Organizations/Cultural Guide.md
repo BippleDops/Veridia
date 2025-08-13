@@ -59,9 +59,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pip Goldleaf]]
+- [[02_Worldbuilding/Places/Pip Goldleaf]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pip Goldleaf]]
+- [[02_Worldbuilding/Places/Pip Goldleaf]]

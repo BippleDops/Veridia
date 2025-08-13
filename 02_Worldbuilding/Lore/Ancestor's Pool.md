@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Memory Ceremonies]]
+- [[02_Worldbuilding/Lore/Tidal Memory Ceremonies]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Memory Ceremonies]]
+- [[02_Worldbuilding/Lore/Tidal Memory Ceremonies]]
 
 ## Player-Facing Summary
 

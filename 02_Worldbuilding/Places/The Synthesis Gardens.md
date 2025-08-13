@@ -27,7 +27,7 @@ tags:
 *Where nature and crystal become one abomination*
 
 ## Overview
-Hidden deep within [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]], the Synthesis Gardens represent [[vault_backup_20250813_073007/02_Worldbuilding/People/Sorrow-Root Nightbloom]]'s primary laboratory - a corrupted grove where plant and crystal merge in horrifying ways. This living dungeon grows and changes, making each visit unique and increasingly dangerous.
+Hidden deep within [[02_Worldbuilding/Places/The Verdant Reach]], the Synthesis Gardens represent [[02_Worldbuilding/People/Sorrow-Root Nightbloom]]'s primary laboratory - a corrupted grove where plant and crystal merge in horrifying ways. This living dungeon grows and changes, making each visit unique and increasingly dangerous.
 
 ## Description
 The Gardens exist in a two-mile radius of corrupted forest where the boundaries between plant, crystal, and flesh blur. Trees with crystalline bark pulse with internal light, while crystal formations sprout leaves and bleed sap. The air itself shimmers with pollen that carries corruption, and the ground shifts between soil, crystal, and something disturbingly in-between.
@@ -51,20 +51,20 @@ A massive glass and crystal structure spiraling into the earth, each level more 
 Mass graves of failed experiments that have merged into shambling mounds of crystal, plant, and bone. They hunger for fresh material to add to their mass.
 
 ### The Canopy Network
-Corrupted trees whose branches have fused into bridges and platforms. The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Withered Court]] uses these as highways, while crystal fruit hanging from branches grants temporary abilities at the cost of corruption.
+Corrupted trees whose branches have fused into bridges and platforms. The [[02_Worldbuilding/Places/Withered Court]] uses these as highways, while crystal fruit hanging from branches grants temporary abilities at the cost of corruption.
 
 ## Inhabitants
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Sorrow-Root Nightbloom]]** - Master of the Gardens
+- **[[02_Worldbuilding/People/Sorrow-Root Nightbloom]]** - Master of the Gardens
 - **Withered Court Druids** - 20-30 corrupted nature worshippers
 - **Thornlings** - Humanoid plant-crystal hybrids (former druids)
 - **The Gardeners** - Shambling mounds that tend the experiments
 - **Crystal Dryads** - Once-beautiful fey now made of living crystal
 
 ## Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]]**: Hidden in the deepest, most corrupted section
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]]**: Constantly sends scouts to monitor the Gardens
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Drowned Embassy]]**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Korvin Blacktide]] secretly funds experiments
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]**: Source of unwilling test subjects via [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
+- **[[02_Worldbuilding/Places/The Verdant Reach]]**: Hidden in the deepest, most corrupted section
+- **[[02_Worldbuilding/People/Archdruid Thornweaver]]**: Constantly sends scouts to monitor the Gardens
+- **[[02_Worldbuilding/Places/The Drowned Embassy]]**: [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] secretly funds experiments
+- **[[02_Worldbuilding/Places/Port Meridian]]**: Source of unwilling test subjects via [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]
 
 ## Environmental Hazards
 
@@ -94,7 +94,7 @@ Corrupted trees whose branches have fused into bridges and platforms. The [[vaul
 > The Gardens are becoming sentient. Each experiment adds to a collective consciousness that's beginning to act independently of Sorrow-Root. It may soon decide it doesn't need any master.
 
 > [!danger] The Root Network
-> The Gardens' root system extends for miles underground, slowly corrupting [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]] from below. These roots are approaching [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ironhold]] and could destabilize the dwarven city's foundations.
+> The Gardens' root system extends for miles underground, slowly corrupting [[02_Worldbuilding/Places/The Verdant Reach]] from below. These roots are approaching [[02_Worldbuilding/Places/Ironhold]] and could destabilize the dwarven city's foundations.
 
 > [!info] Hidden Cure
 > Ironically, one of Sorrow-Root's failed experiments (Batch 7-Alpha) actually reverses crystal corruption. They destroyed most samples, but one grows in the deepest chamber, guarded by their most trusted lieutenants.
@@ -133,10 +133,10 @@ An underground chamber with artificial moonlight that accelerates growth. One ho
 - Rescue captured druids before transformation
 - Steal or destroy the Green Death before deployment
 - Find the hidden corruption cure
-- Stop the root network from reaching [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ironhold]]
+- Stop the root network from reaching [[02_Worldbuilding/Places/Ironhold]]
 - Infiltrate a Withered Court gathering
-- Prevent alliance between Sorrow-Root and [[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Korvin Blacktide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Root Network]]
+- Prevent alliance between Sorrow-Root and [[02_Worldbuilding/People/Ambassador Korvin Blacktide]]
+- [[02_Worldbuilding/People/Quest - The Root Network]]
 
 
 ## History
@@ -188,8 +188,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Synthesis Gardens]]
+- [[02_Worldbuilding/Places/The Synthesis Gardens]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ironhold]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Withered Court]]
+- [[02_Worldbuilding/Places/Ironhold]]
+- [[02_Worldbuilding/Places/Withered Court]]

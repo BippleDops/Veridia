@@ -5,9 +5,9 @@ alignment: Neutral Good
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Community Organization
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Umbral Community Center]]'
+headquarters: '[[02_Worldbuilding/Lore/The Umbral Community Center]]'
 influence: Local district (Shadow Vale neighborhood)
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Elder Mistweave]]'
+leader: '[[02_Worldbuilding/Lore/Community Elder Mistweave]]'
 members: ~3,500 residents and 200 community organizers
 obsidianUIMode: preview
 status: complete
@@ -40,7 +40,7 @@ world: Aquabyssos
 *The Twilight Commune, Haven of the Shadow-Touched, The Community of Faded Light*
 
 ## Overview
-Shadow Vale represents [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s largest and most organized community of shadow-touched individuals, functioning as both residential neighborhood and mutual aid organization. Unlike other shadow organizations focused on power or profit, Shadow Vale prioritizes community support, integration, and the preservation of identity despite shadow corruption. They've created a functioning society where those transformed by shadow can live with dignity, maintaining their humanity while embracing their changed nature.
+Shadow Vale represents [[02_Worldbuilding/Places/Aquabyssos]]'s largest and most organized community of shadow-touched individuals, functioning as both residential neighborhood and mutual aid organization. Unlike other shadow organizations focused on power or profit, Shadow Vale prioritizes community support, integration, and the preservation of identity despite shadow corruption. They've created a functioning society where those transformed by shadow can live with dignity, maintaining their humanity while embracing their changed nature.
 
 ## History
 
@@ -50,11 +50,11 @@ Shadow Vale represents [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aq
 - Established in abandoned district affected by dimensional rift
 - Created as safe haven for those rejected by conventional society
 - Developed initial community governance and mutual support systems
-- Established the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Integration]]
+- Established the [[02_Worldbuilding/Lore/The Shadow Integration]]
 
 ### Growth Period (30-20 Years Ago)
 **Community Development**
-- Attracted shadow-touched individuals from across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- Attracted shadow-touched individuals from across [[02_Worldbuilding/Places/Aquabyssos]]
 - Built essential community infrastructure and services
 - Developed unique shadow-adapted architecture and urban planning
 - Created community institutions including schools and medical facilities
@@ -80,12 +80,12 @@ Shadow Vale represents [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aq
 
 ### Community Government
 **Democratic Leadership**
-- **Community Elder**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Elder Mistweave]] - Elected leader and representative
-- **Residential Coordinator**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Neighbor Advocate Penumbra]] - Housing and district management
-- **Social Services Director**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Care Coordinator Nightlight]] - Community support and welfare
-- **Education Coordinator**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Teacher-Administrator Shadowlearn]] - Schools and knowledge preservation
-- **Economic Development Chief**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Enterprise Director Duskwork]] - Employment and business development
-- **Cultural Preservation Officer**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Heritage Keeper Memoryshade]] - Identity and tradition maintenance
+- **Community Elder**: [[02_Worldbuilding/Lore/Community Elder Mistweave]] - Elected leader and representative
+- **Residential Coordinator**: [[02_Worldbuilding/Lore/Neighbor Advocate Penumbra]] - Housing and district management
+- **Social Services Director**: [[02_Worldbuilding/Lore/Care Coordinator Nightlight]] - Community support and welfare
+- **Education Coordinator**: [[02_Worldbuilding/Lore/Teacher-Administrator Shadowlearn]] - Schools and knowledge preservation
+- **Economic Development Chief**: [[02_Worldbuilding/Lore/Enterprise Director Duskwork]] - Employment and business development
+- **Cultural Preservation Officer**: [[02_Worldbuilding/Places/Heritage Keeper Memoryshade]] - Identity and tradition maintenance
 
 ### Community Services
 
@@ -167,7 +167,7 @@ Shadow Vale represents [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aq
 
 ### Community Infrastructure
 - **1,200 Housing Units**: Residential accommodations for shadow-touched families
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Umbral Community Center]]**: Central meeting and administrative facility
+- **[[02_Worldbuilding/Lore/The Umbral Community Center]]**: Central meeting and administrative facility
 - **Shadow Vale Community School**: Educational facility for 300+ students
 - **Community Health Clinic**: Medical services adapted for shadow-touched needs
 - **Cooperative Market**: Community-owned business serving neighborhood needs
@@ -239,8 +239,8 @@ Shadow Vale represents [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aq
 ## Relationships & Politics
 
 ### Government Relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]**: Mixed reception, some support from progressive members
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Neutral stance, focuses on stability
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Mixed reception, some support from progressive members
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Neutral stance, focuses on stability
 - **Local Government**: Complex relationship of cooperation and tension
 - **Social Services**: Partnership for essential community support
 - **Law Enforcement**: Gradual improvement from initial hostility to cautious cooperation
@@ -248,7 +248,7 @@ Shadow Vale represents [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aq
 ### Shadow Organizations
 - **[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]**: Ideological opposition, recruitment pressure
 - **[[02_Worldbuilding/Groups/Shadow Surgery Centers|02 Worldbuilding/Groups/Shadow Surgery Centers]]**: Cautious cooperation for medical services
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]**: Complex relationship of protection and independence
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Complex relationship of protection and independence
 - **Shadow Trade Networks**: Limited economic cooperation
 - **Memory Farmers**: Opposition to exploitation of shadow-touched individuals
 
@@ -292,34 +292,34 @@ Shadow Vale represents [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aq
 ## Notable Members
 
 ### Leadership
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Elder Mistweave]]** - Elected community leader and external representative
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Neighbor Advocate Penumbra]]** - Housing coordinator and residential services
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Care Coordinator Nightlight]]** - Social services director and community support
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Teacher-Administrator Shadowlearn]]** - Education coordinator and school administrator
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Enterprise Director Duskwork]]** - Economic development and business cooperation
+- **[[02_Worldbuilding/Lore/Community Elder Mistweave]]** - Elected community leader and external representative
+- **[[02_Worldbuilding/Lore/Neighbor Advocate Penumbra]]** - Housing coordinator and residential services
+- **[[02_Worldbuilding/Lore/Care Coordinator Nightlight]]** - Social services director and community support
+- **[[02_Worldbuilding/Lore/Teacher-Administrator Shadowlearn]]** - Education coordinator and school administrator
+- **[[02_Worldbuilding/Lore/Enterprise Director Duskwork]]** - Economic development and business cooperation
 
 ### Community Champions
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Healer Dawnshade]]** - Community health clinic director and medical advocate
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Artist Voidbrush]]** - Cultural coordinator and creative community leader
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Engineer Shadowbuild]]** - Infrastructure development and maintenance specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Counselor Mindbridge]]** - Mental health support and integration therapy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Advocate Lightfight]]** - Civil rights organizer and legal support coordinator
+- **[[02_Worldbuilding/Lore/Healer Dawnshade]]** - Community health clinic director and medical advocate
+- **[[02_Worldbuilding/Lore/Artist Voidbrush]]** - Cultural coordinator and creative community leader
+- **[[02_Worldbuilding/Lore/Engineer Shadowbuild]]** - Infrastructure development and maintenance specialist
+- **[[02_Worldbuilding/Lore/Counselor Mindbridge]]** - Mental health support and integration therapy
+- **[[02_Worldbuilding/Lore/Advocate Lightfight]]** - Civil rights organizer and legal support coordinator
 
 ### Community Elders
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Storyteller Memorykeeper]]** - Oral historian and cultural preservation expert
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Grandmother Nightcomfort]]** - Elder care coordinator and community wisdom keeper
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Craftmaster Shadowwork]]** - Traditional skills teacher and community mentor
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Garden Keeper Earthshade]]** - Food security coordinator and agricultural expert
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Security Chief Watchshadow]]** - Community safety and neighborhood protection
+- **[[02_Worldbuilding/Places/Storyteller Memorykeeper]]** - Oral historian and cultural preservation expert
+- **[[02_Worldbuilding/Lore/Grandmother Nightcomfort]]** - Elder care coordinator and community wisdom keeper
+- **[[02_Worldbuilding/Lore/Craftmaster Shadowwork]]** - Traditional skills teacher and community mentor
+- **[[02_Worldbuilding/Places/Garden Keeper Earthshade]]** - Food security coordinator and agricultural expert
+- **[[02_Worldbuilding/Lore/Security Chief Watchshadow]]** - Community safety and neighborhood protection
 
 ## Headquarters & Holdings
 
 ### Primary Facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Umbral Community Center]]**: Central meeting and administrative complex
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Vale Community School]]**: Educational facility for children and adults
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Health Clinic]]**: Medical services adapted for shadow-touched needs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cultural_Organizations/Cultural Heritage Center]]**: Arts, history, and celebration facility
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Cooperative Market Complex]]**: Community-owned businesses and services
+- **[[02_Worldbuilding/Lore/The Umbral Community Center]]**: Central meeting and administrative complex
+- **[[02_Worldbuilding/Lore/Shadow Vale Community School]]**: Educational facility for children and adults
+- **[[02_Worldbuilding/Lore/Community Health Clinic]]**: Medical services adapted for shadow-touched needs
+- **[[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Heritage Center]]**: Arts, history, and celebration facility
+- **[[02_Worldbuilding/Lore/Cooperative Market Complex]]**: Community-owned businesses and services
 
 ### Residential Areas
 - **Mistweave Gardens**: Family housing with community green spaces
@@ -416,32 +416,32 @@ Shadow Vale represents [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aq
 ## Connected Elements
 
 ### Key NPCs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Elder Mistweave]]** - Community leader and democratic representative
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]** - Complex protector relationship
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Care Coordinator Nightlight]]** - Social services and community support
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]** - Government relationship
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Teacher-Administrator Shadowlearn]]** - Education and cultural preservation
+- **[[02_Worldbuilding/Lore/Community Elder Mistweave]]** - Community leader and democratic representative
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Complex protector relationship
+- **[[02_Worldbuilding/Lore/Care Coordinator Nightlight]]** - Social services and community support
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]** - Government relationship
+- **[[02_Worldbuilding/Lore/Teacher-Administrator Shadowlearn]]** - Education and cultural preservation
 
 ### Related Locations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Umbral Community Center]]** - Community headquarters and meeting space
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Vale Community School]]** - Educational facility
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]** - Host city and political environment
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Health Clinic]]** - Medical services facility
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Cultural_Organizations/Cultural Heritage Center]]** - Arts and cultural preservation
+- **[[02_Worldbuilding/Lore/The Umbral Community Center]]** - Community headquarters and meeting space
+- **[[02_Worldbuilding/Lore/Shadow Vale Community School]]** - Educational facility
+- **[[02_Worldbuilding/Places/Aquabyssos]]** - Host city and political environment
+- **[[02_Worldbuilding/Lore/Community Health Clinic]]** - Medical services facility
+- **[[02_Worldbuilding/Groups/Cultural_Organizations/Cultural Heritage Center]]** - Arts and cultural preservation
 
 ### Associated Quests
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Community Integration]]** - Help shadow-touched individuals find acceptance
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Civil Rights Campaign]]** - Support legal recognition efforts
+- **[[02_Worldbuilding/Lore/Quest - Community Integration]]** - Help shadow-touched individuals find acceptance
+- **[[02_Worldbuilding/Lore/Quest - Civil Rights Campaign]]** - Support legal recognition efforts
 - **[[Quest - Cultural Preservation]]** - Document and protect shadow-touched heritage
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Community Defense]]** - Protect Shadow Vale from external threats
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Economic Development]]** - Support community business and sustainability
+- **[[02_Worldbuilding/Lore/Quest - Community Defense]]** - Protect Shadow Vale from external threats
+- **[[02_Worldbuilding/Lore/Quest - Economic Development]]** - Support community business and sustainability
 
 ### Important Items
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Charter]]** - Foundational document of community governance
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Integration Protocols]]** - Procedures for helping shadow-touched newcomers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Heritage Archive]]** - Collection of shadow-touched history and culture
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Investment Fund]]** - Collective resources for development
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Civil Rights Petition]]** - Legal documents seeking official recognition
+- **[[02_Worldbuilding/Lore/Community Charter]]** - Foundational document of community governance
+- **[[02_Worldbuilding/Lore/Integration Protocols]]** - Procedures for helping shadow-touched newcomers
+- **[[02_Worldbuilding/Lore/Heritage Archive]]** - Collection of shadow-touched history and culture
+- **[[02_Worldbuilding/Lore/Community Investment Fund]]** - Collective resources for development
+- **[[02_Worldbuilding/Lore/Civil Rights Petition]]** - Legal documents seeking official recognition
 
 ---
 
@@ -450,9 +450,9 @@ Shadow Vale represents [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aq
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
 
 ## Player-Facing Summary
 
@@ -466,4 +466,4 @@ Legends speak of Shadow Vale as a nexus where past and present converge. Locals 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]

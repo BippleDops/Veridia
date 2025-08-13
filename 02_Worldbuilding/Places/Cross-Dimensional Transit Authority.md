@@ -288,11 +288,11 @@ Built at a naturally occurring convergence point where the realms' boundaries th
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Point Settlement]]
+- [[02_Worldbuilding/Places/Pressure Point Settlement]]
 - [[Inter-Realm Diplomatic Corps]]
 - [[Guild of Cross-Realm Navigators]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Reality Anchor Network]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Cross-Realm Conspiracy Networks]]
+- [[02_Worldbuilding/Places/Reality Anchor Network]]
+- [[02_Worldbuilding/Lore/Cross-Realm Conspiracy Networks]]
 - [[Inter-Realm Trade Routes]]
 
 ## Player-Facing Summary
@@ -305,6 +305,6 @@ Legends speak of Cross Dimensional Transit Authority as a nexus where past and p
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Cross-Dimensional Transit Authority]]
+- [[02_Worldbuilding/Places/Cross-Dimensional Transit Authority]]
 
 <!-- enriched: true -->

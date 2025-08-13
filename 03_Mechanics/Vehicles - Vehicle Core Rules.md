@@ -22,7 +22,7 @@ world: Both
 
 # Vehicle Core Rules
 
-These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (airships), and Merger Zones (impossible vessels), integrating with [[vault_backup_20250813_073007/03_Mechanics/Complete Pressure Adaptation System]], [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[vault_backup_20250813_073007/03_Mechanics/Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]].
+These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (airships), and Merger Zones (impossible vessels), integrating with [[03_Mechanics/Complete Pressure Adaptation System]], [[03_Mechanics/Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[03_Mechanics/Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], and [[02_Worldbuilding/Lore/Deep Mother]].
 
 ## 1) Vehicle Stat Block
 - Class: Scout, Frigate, Cruiser, Carrier, Leviathan
@@ -36,7 +36,7 @@ These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (air
 - Sanity Threshold: Ship consciousness tolerance (merger-capable or living ships)
 - Reality Stability Bonus (RSB): How much it resists merger effects
 - Sensor Suite: Sonar/Lidar/Aetheric/Memory-Echo
-- Anchor Capacity: Number of [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]] mount points
+- Anchor Capacity: Number of [[03_Mechanics/Complete Reality Merger System]] mount points
 - Upgrade Slots: Bio, Crystal, Pressure, Memory, Anchor, Shrine
 - Special: Signature abilities
 
@@ -60,7 +60,7 @@ These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (air
 ## 4) 3D Movement & Positioning
 - Grid Units: 10 ft cubes; vehicles occupy volumes by Scale
 - Facing: Bow determines forward; turns consume Maneuver
-- Depth/Altitude Change: Each step may trigger [[vault_backup_20250813_073007/03_Mechanics/Depth Survival Mechanics]] checks for exposed crew
+- Depth/Altitude Change: Each step may trigger [[03_Mechanics/Depth Survival Mechanics]] checks for exposed crew
 
 ## 5) Environmental Pressures
 - Pressure/Altitude Saves: Constitution (crew) and Structure (ship)
@@ -74,7 +74,7 @@ These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (air
 - Effects on Failure:
   - Short-term: Random course correction, hostile subsystem, lock doorways
   - Long-term: Personality drift, crew favoritism, refusal of orders
-  - Indefinite: Obsessive route, hunger for memories, devotion to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]
+  - Indefinite: Obsessive route, hunger for memories, devotion to [[02_Worldbuilding/Lore/Deep Mother]]
 - Recovery: Anchor rituals, memory purges (lose stored charts), crew lullaby (Performance check)
 
 ## 7) Memory Engines & Navigation Charts
@@ -83,7 +83,7 @@ These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (air
 - Overwrite Risk: On critical failure, pilot loses a personal memory (DM determines)
 
 ## 8) Reality Stability & Anchors
-- Local Integrity from [[vault_backup_20250813_073007/03_Mechanics/Complete Reality Merger System]] modifies checks
+- Local Integrity from [[03_Mechanics/Complete Reality Merger System]] modifies checks
 - Anchors: Mounted devices increase RSB; each anchor reduces merger event severity by 1 step within range
 
 ## 9) Faction Doctrines & Mod Slots
@@ -107,7 +107,7 @@ These rules standardize vehicles across Aquabyssos (submarines), Aethermoor (air
 
 ## 12) Parasite Boarding & Biohazards
 - Grapple Test: Opposed Maneuver; on success, boarding tunnel attaches
-- Infection Saves: Crew make Con saves vs. parasite traits; failures can seed transformations (see [[vault_backup_20250813_073007/03_Mechanics/Depth Adaptation System]])
+- Infection Saves: Crew make Con saves vs. parasite traits; failures can seed transformations (see [[03_Mechanics/Depth Adaptation System]])
 
 ## 13) Integration Checklists
 - Pressure: Use AP gates and Structure saves

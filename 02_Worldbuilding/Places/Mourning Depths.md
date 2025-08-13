@@ -28,11 +28,11 @@ world: Both
 *Where Memory Becomes Monument*
 
 > *"In the deepest waters, where pressure crushes all but the strongest truths, we lay our beloved to rest in the eternal embrace of the sea. Here, sorrow becomes sacred, memory becomes monument, and the departed find peace in the endless current that carries all souls home."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper of Sorrows Tidal Memento]], High Mourner of the Depths
+> — [[02_Worldbuilding/Places/Keeper of Sorrows Tidal Memento]], High Mourner of the Depths
 
 ## Overview
 
-The Mourning Depths serves as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most sacred and solemn location, a vast memorial complex built into the walls of a deep oceanic trench where the souls of the departed are honored and remembered. More than a simple cemetery, this hallowed place functions as a spiritual sanctuary where grief is transformed into reverence, where memory is preserved in living stone and flowing water, and where the living come to find comfort in their connection to those who have joined the eternal current. The complex encompasses burial chambers, memorial gardens, meditation pools, and sacred spaces where the rituals of death and remembrance maintain their ancient power.
+The Mourning Depths serves as [[02_Worldbuilding/Places/Aquabyssos]]'s most sacred and solemn location, a vast memorial complex built into the walls of a deep oceanic trench where the souls of the departed are honored and remembered. More than a simple cemetery, this hallowed place functions as a spiritual sanctuary where grief is transformed into reverence, where memory is preserved in living stone and flowing water, and where the living come to find comfort in their connection to those who have joined the eternal current. The complex encompasses burial chambers, memorial gardens, meditation pools, and sacred spaces where the rituals of death and remembrance maintain their ancient power.
 
 ## History and Foundation
 
@@ -48,7 +48,7 @@ The Mourning Depths serves as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 **Leadership**: Spiritual leaders dedicating their lives to tending the sacred site  
 **Purpose**: Preserving burial traditions and providing comfort to the grieving  
 **Expansion**: Gradual expansion of facilities and services  
-**Recognition**: Official recognition by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] authorities as sacred ground
+**Recognition**: Official recognition by [[02_Worldbuilding/Places/Aquabyssos]] authorities as sacred ground
 
 ### The Great Mourning
 **Era**: 600-550 years ago, period of massive casualties requiring expansion  
@@ -62,7 +62,7 @@ The Mourning Depths serves as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 **Growth**: Expansion beyond simple burial services to comprehensive spiritual care  
 **Wisdom**: Development of sophisticated theological and philosophical traditions  
 **Arts**: Creation of memorial arts and commemorative crafts  
-**Influence**: Growing influence over [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] spiritual and cultural life
+**Influence**: Growing influence over [[02_Worldbuilding/Places/Aquabyssos]] spiritual and cultural life
 
 ### The Living Memorial Era
 **Timeline**: 300-250 years ago, innovation in memorial preservation  
@@ -74,7 +74,7 @@ The Mourning Depths serves as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 ### The Modern Sanctuary
 **Current**: Contemporary balance of tradition and innovation  
 **Services**: Comprehensive services for death, grief, and spiritual guidance  
-**Community**: Central role in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] community life and culture  
+**Community**: Central role in [[02_Worldbuilding/Places/Aquabyssos]] community life and culture  
 **Challenges**: Adapting ancient traditions to modern needs and changes  
 **Future**: Planning for continued service to growing and changing population
 
@@ -108,7 +108,7 @@ The Mourning Depths serves as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 #### The Ancient Crypts
 **History**: Original burial chambers dating to the site's founding  
 **Architecture**: Traditional stone construction with intricate memorial carvings  
-**Occupants**: Final resting places of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most revered historical figures  
+**Occupants**: Final resting places of [[02_Worldbuilding/Places/Aquabyssos]]'s most revered historical figures  
 **Preservation**: Carefully maintained as historical and spiritual landmarks  
 **Pilgrimage**: Pilgrimage destinations for those seeking connection to history
 
@@ -137,7 +137,7 @@ The Mourning Depths serves as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 
 #### The Temple of Tides
 **Worship**: Primary worship space for religious ceremonies and spiritual practice  
-**Tradition**: Honoring various spiritual traditions practiced in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]  
+**Tradition**: Honoring various spiritual traditions practiced in [[02_Worldbuilding/Places/Aquabyssos]]  
 **Clergy**: Home to spiritual leaders from different religious backgrounds  
 **Ceremonies**: Daily ceremonies for the departed and comfort for the living  
 **Art**: Magnificent spiritual art and symbolic decorations
@@ -245,7 +245,7 @@ The Mourning Depths serves as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 
 ### Leadership and Organization
 
-#### Keeper of Sorrows [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tidal Memento]]
+#### Keeper of Sorrows [[02_Worldbuilding/Places/Tidal Memento]]
 **Position**: High spiritual leader of the Order and chief administrator of Mourning Depths  
 **Experience**: Decades of experience in spiritual counseling and memorial administration  
 **Wisdom**: Renowned for wisdom in matters of death, grief, and spiritual healing  
@@ -259,7 +259,7 @@ The Mourning Depths serves as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 **Experience**: Extensive experience in all aspects of memorial and spiritual care  
 **Commitment**: Deep commitment to serving grieving community
 
-#### Archive Keeper [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Eternal Keeper]]
+#### Archive Keeper [[02_Worldbuilding/Places/Memory Eternal Keeper]]
 **Responsibility**: Maintaining comprehensive records and historical archives  
 **Knowledge**: Encyclopedic knowledge of site history and memorial traditions  
 **Research**: Supporting research and genealogical investigation  
@@ -653,28 +653,28 @@ The Mourning Depths serves as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+### [[02_Worldbuilding/Places/Abyssos Prime]]
 **Service**: Providing memorial and burial services for the capital city  
 **Recognition**: Official recognition and support from royal government  
 **Integration**: Integration with capital city spiritual and social life  
 **Resources**: Access to resources and support from wealthy capital  
 **Influence**: Influence over capital city spiritual and cultural practices
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+### [[02_Worldbuilding/Places/Parliament of Echoes]]
 **Policy**: Influence over policies affecting death, burial, and memorial practices  
 **Representation**: Representation of memorial and spiritual community interests  
 **Law**: Input on laws affecting religious freedom and memorial rights  
 **Support**: Government support for memorial services and facilities  
 **Cooperation**: Cooperation on public health and community welfare issues
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Current Tavern]]
+### [[02_Worldbuilding/Places/The Neutral Current Tavern]]
 **Referral**: Referral of grief-stricken travelers needing spiritual support  
 **Community**: Shared community members needing both social and spiritual support  
 **Services**: Complementary services supporting different aspects of community life  
 **Information**: Exchange of information about community members and their needs  
 **Cooperation**: Cooperation in supporting travelers and community members
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple of Echoing Tides]]
+### [[02_Worldbuilding/Places/Temple of Echoing Tides]]
 **Theology**: Theological cooperation and shared spiritual traditions  
 **Services**: Complementary spiritual services for community members  
 **Training**: Joint training programs for spiritual leaders and counselors  
@@ -684,7 +684,7 @@ The Mourning Depths serves as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 ## Secrets and Hidden Aspects
 
 > [!secret] DM Secret - The Soul Anchor
-> Deep beneath the memorial complex lies an ancient artifact called the Soul Anchor, which actually prevents the souls of the dead from moving on to their final rest. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper of Sorrows Tidal Memento]] discovered this centuries ago and has been maintaining the artifact because it allows limited communication with the dead and provides comfort to the grieving. However, the growing number of trapped souls is beginning to cause supernatural instabilities, and some souls are becoming restless and potentially dangerous. The Keeper is torn between revealing the truth and losing the comfort the artifact provides to the community.
+> Deep beneath the memorial complex lies an ancient artifact called the Soul Anchor, which actually prevents the souls of the dead from moving on to their final rest. [[02_Worldbuilding/Places/Keeper of Sorrows Tidal Memento]] discovered this centuries ago and has been maintaining the artifact because it allows limited communication with the dead and provides comfort to the grieving. However, the growing number of trapped souls is beginning to cause supernatural instabilities, and some souls are becoming restless and potentially dangerous. The Keeper is torn between revealing the truth and losing the comfort the artifact provides to the community.
 
 > [!secret] DM Secret - The Living Memorial
 > Some of the memorial coral reefs have developed a form of collective consciousness that retains memories and personalities from those buried within them. These "Living Memorials" can communicate with sensitive individuals and provide wisdom from the dead, but they're also developing their own agenda and desires. They want to expand beyond their current boundaries and are subtly influencing marine life and even some Order members to help them grow. They see themselves as the next evolution of life and death, but their expansion could threaten the natural marine ecosystem.
@@ -695,29 +695,29 @@ The Mourning Depths serves as [[vault_backup_20250813_073007/02_Worldbuilding/Pl
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Neutral Current Tavern]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Temple of Echoing Tides]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/Places/The Neutral Current Tavern]]
+- [[02_Worldbuilding/Places/Temple of Echoing Tides]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper of Sorrows Tidal Memento]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Eternal Keeper]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Circle of Mourners]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memorial Artists]]
+- [[02_Worldbuilding/Places/Keeper of Sorrows Tidal Memento]]
+- [[02_Worldbuilding/Places/Memory Eternal Keeper]]
+- [[02_Worldbuilding/Places/Circle of Mourners]]
+- [[02_Worldbuilding/Places/Memorial Artists]]
 
 **Related Items and Concepts**:
 - [[Order of Eternal Tides]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memorial Traditions]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Grief Counseling]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spiritual Healing]]
+- [[02_Worldbuilding/Lore/Memorial Traditions]]
+- [[02_Worldbuilding/Places/Grief Counseling]]
+- [[02_Worldbuilding/Lore/Spiritual Healing]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
 - [[Ω_System-CLI-spells-school-conjuration|Ω System CLI Spells School Conjuration]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 07 - The Resonance Revelation]]
+- [[1-Session Journals/Aquabyssos - Session 07 - The Resonance Revelation]]
 
 ## Player-Facing Summary
 
@@ -739,6 +739,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mourning Depths]]
+- [[02_Worldbuilding/Places/Mourning Depths]]
 
 <!-- enriched: true -->

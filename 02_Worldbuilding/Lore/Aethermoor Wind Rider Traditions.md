@@ -362,21 +362,21 @@ The Wind Rider Traditions represent the heart and soul of Aethermoor's aerial cu
 8. **The Wind Whisperer's Test**: Prove worthiness to learn advanced weather magic
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Religious leader adapting traditions for inter-realm cooperation
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Royal dealing with cultural integration challenges
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Craftsman creating hybrid technologies
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Master Wind Rider Zephyr Stormcaller]] - Elite Sky Knight and cultural ambassador
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Religious leader adapting traditions for inter-realm cooperation
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Royal dealing with cultural integration challenges
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Craftsman creating hybrid technologies
+- [[02_Worldbuilding/Lore/Master Wind Rider Zephyr Stormcaller]] - Elite Sky Knight and cultural ambassador
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] - Primary homeland of wind rider culture
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Joint settlement showcasing cultural integration
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Wind Shrine Archipelago]] - Sacred sites scattered across aerial territories
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Storm's End Citadel]] - Military fortress and Sky Knight training center
+- [[02_Worldbuilding/Places/Aethermoor]] - Primary homeland of wind rider culture
+- [[02_Worldbuilding/Places/Crystalhaven]] - Joint settlement showcasing cultural integration
+- [[02_Worldbuilding/Lore/The Wind Shrine Archipelago]] - Sacred sites scattered across aerial territories
+- [[02_Worldbuilding/Lore/Storm's End Citadel]] - Military fortress and Sky Knight training center
 
 ## Connected Organizations
 - [[02_Worldbuilding/Groups/The Cloud Shepherd Guild|02 Worldbuilding/Groups/The Cloud Shepherd Guild]] - Professional organization maintaining aerial traditions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/The Sky Knight Orders]] - Military and aristocratic societies preserving combat traditions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Weather Wardens Council]] - Governmental organization managing atmospheric safety
+- [[02_Worldbuilding/Groups/Orders/The Sky Knight Orders]] - Military and aristocratic societies preserving combat traditions
+- [[02_Worldbuilding/Lore/The Weather Wardens Council]] - Governmental organization managing atmospheric safety
 
 The Aethermoor Wind Rider Traditions represent a culture intimately connected with the natural world, where mastery of aerial environments shapes every aspect of social, spiritual, and practical life, creating a society that values freedom, skill, and harmony with atmospheric forces.
 
@@ -402,4 +402,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Wind Shrine Archipelago]]
+- [[02_Worldbuilding/Lore/The Wind Shrine Archipelago]]

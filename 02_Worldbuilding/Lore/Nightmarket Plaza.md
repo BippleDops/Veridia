@@ -24,7 +24,7 @@ world: Both
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
 
 ## Player-Facing Summary
 

@@ -33,7 +33,7 @@ world: Both
 
 ## Overview
 
-The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s capital district, representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[02_Worldbuilding/Groups/Crystal Cultivators Guild|02 Worldbuilding/Groups/Crystal Cultivators Guild]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]] for the realm's magical infrastructure.
+The Crystal Gardens sprawl across twelve acres in the heart of [[02_Worldbuilding/Places/Aethermoor]]'s capital district, representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[02_Worldbuilding/Groups/Crystal Cultivators Guild|02 Worldbuilding/Groups/Crystal Cultivators Guild]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[02_Worldbuilding/Items/Aether Crystals]] for the realm's magical infrastructure.
 
 ### Entry Sensory Experience: The Gateway of Wonder
 
@@ -52,21 +52,21 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20
 ## History and Origins
 
 ### The First Bloom
-**Founded**: 200 years ago by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sage Prism Lightweaver]]  
+**Founded**: 200 years ago by [[02_Worldbuilding/Places/Sage Prism Lightweaver]]  
 **Original Purpose**: Experimental facility for crystal-plant hybrid cultivation  
-**The Discovery**: First successful growth of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Resonance Roses]] - crystals that bloom like flowers  
-**Royal Patronage**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s ancestors made it a crown preserve
+**The Discovery**: First successful growth of [[02_Worldbuilding/Places/Resonance Roses]] - crystals that bloom like flowers  
+**Royal Patronage**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s ancestors made it a crown preserve
 
 ### The Great Crystallization
 **Event**: 50 years ago, wild magic surge caused mass crystal growth  
 **Result**: Gardens tripled in size overnight  
 **Consequence**: Some gardeners became partially crystallized but gained plant-speech abilities  
-**Mystery**: The surge's origin remains unknown, but some suspect [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] involvement
+**Mystery**: The surge's origin remains unknown, but some suspect [[02_Worldbuilding/Lore/The Seven Shards]] involvement
 
 ### Modern Era
 **Current Status**: Premier magical research facility and public wonder  
 **Expansion**: Underground crystal caverns discovered beneath original gardens  
-**Integration**: Now connected to the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]] via crystal bridges
+**Integration**: Now connected to the [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]] via crystal bridges
 
 ## Geography and Layout
 
@@ -95,7 +95,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20
 
 #### The Singing Stone Circle
 **Description**: Ring of crystal monoliths that hum in harmony with Aethermoor's magical field  
-**Purpose**: Meditation space for [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] and spellcasters  
+**Purpose**: Meditation space for [[02_Worldbuilding/People/Crystal Wardens]] and spellcasters  
 **Effect**: Long rest here grants temporary spell slot (up to 3rd level)  
 **Legend**: Said to predict magical storms through changes in their song
 
@@ -103,7 +103,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20
 **Description**: Living crystal hedges that grow and shift, creating an ever-changing labyrinth  
 **Challenge**: Navigate to center for rare crystal specimens  
 **Hazard**: Getting lost leads to temporal displacement (1d4 hours lost)  
-**Reward**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Maze Heart Crystal]] - allows casting of *misty step* 3/day
+**Reward**: [[02_Worldbuilding/Places/Maze Heart Crystal]] - allows casting of *misty step* 3/day
 
 ### The Lower Gardens (Underground Caverns)
 
@@ -120,9 +120,9 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20
 **Secret**: Contains memories of events that haven't happened yet
 
 #### The Dark Gardens
-**Description**: Section where [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Crystals]] grow, requiring special handling  
+**Description**: Section where [[02_Worldbuilding/Places/Shadow Crystals]] grow, requiring special handling  
 **Purpose**: Research into combining light and shadow magic  
-**Guardians**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Sentinels]] programmed to prevent unauthorized access  
+**Guardians**: [[02_Worldbuilding/Places/Crystal Sentinels]] programmed to prevent unauthorized access  
 **Products**: Components for spells that manipulate light/darkness boundaries
 
 ## Notable Flora and Crystal Formations
@@ -155,7 +155,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20
 **Purpose**: Garden security system - alerts cultivators to intruders or problems  
 **Behavior**: Can entangle unauthorized visitors, but won't seriously harm  
 **Intelligence**: Limited but growing - some vines have developed personalities  
-**Communication**: Respond to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Speak]] and gentle magical persuasion
+**Communication**: Respond to [[02_Worldbuilding/Places/Crystal Speak]] and gentle magical persuasion
 
 ### Hybrid Creations
 
@@ -177,21 +177,21 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20
 
 ### The Crystal Cultivators Guild
 
-#### Master Gardener [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sage Iris Crystalbloom]]
+#### Master Gardener [[02_Worldbuilding/Places/Sage Iris Crystalbloom]]
 **Role**: Chief curator and head of research  
 **Specialty**: Creating new hybrid crystal-plant species  
 **Personality**: Obsessively dedicated, speaks more to plants than people  
 **Secret**: Has been partially crystallized for 30 years but hides it from public  
 **Knowledge**: Can identify any crystal by touch, knows location of every specimen
 
-#### Journeyman [[vault_backup_20250813_073007/02_Worldbuilding/Places/Basil Prismtender]]
+#### Journeyman [[02_Worldbuilding/Places/Basil Prismtender]]
 **Role**: Day-to-day operations manager  
 **Specialty**: Crystal propagation and maintenance  
 **Personality**: Practical, efficient, secretly romantic about the Garden's beauty  
 **Background**: Former merchant who found calling in crystal cultivation  
 **Skills**: Excellent at training new cultivators and explaining processes to visitors
 
-#### Apprentice [[vault_backup_20250813_073007/02_Worldbuilding/Places/Luna Shimmerleaf]]
+#### Apprentice [[02_Worldbuilding/Places/Luna Shimmerleaf]]
 **Role**: Student cultivator and public guide  
 **Age**: 19, extremely enthusiastic about crystal botany  
 **Specialty**: Memory moss cultivation and magical detection  
@@ -200,14 +200,14 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20
 
 ### The Garden Guards
 
-#### Crystal Warden [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Sterling Lightshield]]
+#### Crystal Warden [[02_Worldbuilding/People/Captain Sterling Lightshield]]
 **Role**: Head of Garden security  
-**Equipment**: Crystal plate armor, [[vault_backup_20250813_073007/02_Worldbuilding/Places/Prism Sword]] that channels multiple damage types  
+**Equipment**: Crystal plate armor, [[02_Worldbuilding/Places/Prism Sword]] that channels multiple damage types  
 **Responsibility**: Protecting rare specimens and preventing magical accidents  
 **Challenge**: Balancing security needs with public access and research freedom  
 **Connection**: Secretly in love with Master Gardener Iris but too shy to admit it
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sentinel Constructs]]
+#### [[02_Worldbuilding/Places/Sentinel Constructs]]
 **Description**: Crystalline guardians infused with garden-awareness  
 **Function**: Patrol gardens 24/7, respond to threats automatically  
 **Personality**: Each has developed unique quirks after years of observation  
@@ -223,7 +223,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20
 **Discovery**: Some crystals show learning, memory, and possibly emotion  
 **Controversy**: Her theories challenge traditional understanding of life and magic
 
-#### Alchemical Consultant [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Finn Liquidlight]]
+#### Alchemical Consultant [[02_Worldbuilding/Places/Master Finn Liquidlight]]
 **Role**: Processes crystal harvests into useful magical components  
 **Laboratory**: Hidden workshop beneath the Memory Pool  
 **Specialty**: Creating liquid crystal potions and experimental magical substances  
@@ -267,7 +267,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20
 **Cause**: Multiple crystal species resonating together  
 **Effect**: Wild magic surges, spell effects amplified or changed  
 **Detection**: Trained cultivators can predict and usually prevent  
-**Emergency**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Dampening Stones]] placed throughout gardens  
+**Emergency**: [[02_Worldbuilding/Places/Crystal Dampening Stones]] placed throughout gardens  
 **Opportunity**: Sometimes produces beneficial magical effects
 
 ### Sentience Emergence
@@ -357,7 +357,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20
 - Navigation checks (Survival DC 15) every 10 minutes
 - Failed checks trigger encounters or hazards
 - Three failures = temporal displacement (lose 1d4 hours)
-- Success grants access to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Maze Heart Crystal]]
+- Success grants access to [[02_Worldbuilding/Places/Maze Heart Crystal]]
 
 ### Skill Challenge: Cultivating New Crystal Species
 **Complexity**: 3 (8 successes before 3 failures)  
@@ -371,7 +371,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20
 ### The Wilting Crisis
 **Level**: 5-8  
 **Problem**: Crystal formations throughout Gardens are mysteriously dying  
-**Investigation**: Reveals sabotage by [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] extremists  
+**Investigation**: Reveals sabotage by [[02_Worldbuilding/Groups/Purist Coalition]] extremists  
 **Complications**: Some crystals are becoming hostile before dying  
 **Resolution**: Stop sabotage, find cure, potentially face crystalline undead
 
@@ -405,22 +405,22 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
+### [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
 **Link**: Crystal bridges connect the two locations  
 **Function**: Royal family has private access to rarest specimens  
 **Politics**: Sometimes tensions arise over resource allocation
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]
+### [[02_Worldbuilding/Places/The Crystalline Foundry]]
 **Relationship**: Gardens provide raw materials for Foundry's work  
 **Trade**: Regular exchange of specimens for processed magical items  
 **Cooperation**: Joint research projects on industrial crystal applications
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+### [[02_Worldbuilding/Places/Crystalhaven]]
 **Connection**: Gardens established original crystal cultivation techniques  
 **Rivalry**: Friendly competition over who grows the most impressive specimens  
 **Exchange**: Student cultivators often train at both locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+### [[02_Worldbuilding/Lore/The Seven Shards]]
 **Mystery**: Gardens show unusual activity when Shards are nearby  
 **Theory**: Original Garden Heart might be fragment of pre-Drowning crystal  
 **Investigation**: Ongoing research into historical connections
@@ -456,35 +456,35 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[vault_backup_20
 ---
 
 **Related Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
+- [[02_Worldbuilding/Places/The Crystalline Foundry]]  
+- [[02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/Places/Aethermoor]]
 
 **Related NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sage Iris Crystalbloom]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Places/Sage Iris Crystalbloom]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
 - [[02_Worldbuilding/Groups/Crystal Cultivators Guil|02 Worldbuilding/Groups/Crystal Cultivators Guil]]
 
 **Related Items and Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Aether Crystals]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Resonance Roses]]  
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Speak]]
+- [[02_Worldbuilding/Items/Aether Crystals]]
+- [[02_Worldbuilding/Places/Resonance Roses]]  
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Places/Crystal Speak]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aetheron]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Merged Reality Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Queen]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Old Sally Seasprayer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Foundry]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[02_Worldbuilding/Groups/The Crown]]
+- [[02_Worldbuilding/Lore/Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[02_Worldbuilding/Lore/Aetheron]]
+- [[02_Worldbuilding/Lore/Comprehensive-World-Connection-Guide]]
+- [[02_Worldbuilding/Lore/Merged Reality Zones]]
+- [[02_Worldbuilding/Lore/The Queen]]
+- [[02_Worldbuilding/Places/Old Sally Seasprayer]]
+- [[02_Worldbuilding/Places/The Crystalline Foundry]]
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -507,7 +507,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/Places/Crystal Gardens]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]
+- [[02_Worldbuilding/Groups/Purist Coalition]]

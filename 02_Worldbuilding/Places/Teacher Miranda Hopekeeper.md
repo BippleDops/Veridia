@@ -38,7 +38,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Hopekeeper Academy stands as a beacon of learning and resistance in the depths of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Founded by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Miranda Hopekeeper]], this institution secretly trains young minds to resist the spreading corruption while maintaining the facade of a traditional underwater academy. Built within a series of interconnected kelp forests and coral chambers, the school serves both surface and aquatic students seeking to understand the true nature of the shadow magic plaguing their world.
+The Hopekeeper Academy stands as a beacon of learning and resistance in the depths of [[02_Worldbuilding/Places/Aquabyssos]]. Founded by [[02_Worldbuilding/Places/Miranda Hopekeeper]], this institution secretly trains young minds to resist the spreading corruption while maintaining the facade of a traditional underwater academy. Built within a series of interconnected kelp forests and coral chambers, the school serves both surface and aquatic students seeking to understand the true nature of the shadow magic plaguing their world.
 
 ## Physical Description
 
@@ -58,7 +58,7 @@ The academy is ingeniously constructed within a living kelp forest, with buildin
 
 ## Key NPCs
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Miranda Hopekeeper]] (Headmistress)
+### [[02_Worldbuilding/Places/Miranda Hopekeeper]] (Headmistress)
 *Medium humanoid (half-elf), lawful good*
 **AS** 15 (Robes of the Archmagi) **HP** 165 **Speed** 30 ft., swim 30 ft.
 **STR** 10 **DEX** 14 **CON** 14 **INT** 20 **WIS** 18 **CHA** 16
@@ -71,18 +71,18 @@ A distinguished half-elf with silver hair that seems to shimmer with its own lig
 - **Inspiring Presence**: Allies within 30 feet have advantage on saves against fear and corruption
 - **Master Educator**: Can cast any divination spell of 3rd level or lower at will
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professor Kaine Tidereader]] (Librarian)
+### [[02_Worldbuilding/Lore/Professor Kaine Tidereader]] (Librarian)
 *Medium humanoid (triton), neutral good*
 An elderly triton who has memorized the contents of every book in the academy. His skin bears intricate tattoos that glow when he accesses different memories.
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Coral]] (Groundskeeper)
+### [[02_Worldbuilding/Lore/Coral]] (Groundskeeper)
 *Large plant, neutral*
 A sentient coral entity that maintains the living buildings. Can communicate through color changes and water vibrations. Highly protective of students.
 
 ### Students of Note
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Finn Brightwater]]**: A young human prodigy studying anti-corruption magic
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Nerissa Depthsong]]**: A merfolk student researching the connection between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tobias Currentrider]]**: A sea elf who discovered a new form of underwater spellcasting
+- **[[02_Worldbuilding/Lore/Finn Brightwater]]**: A young human prodigy studying anti-corruption magic
+- **[[02_Worldbuilding/Lore/Nerissa Depthsong]]**: A merfolk student researching the connection between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]
+- **[[02_Worldbuilding/Lore/Tobias Currentrider]]**: A sea elf who discovered a new form of underwater spellcasting
 
 ## Environmental Features
 
@@ -98,7 +98,7 @@ A sentient coral entity that maintains the living buildings. Can communicate thr
 
 ### The Purification Chambers
 - **Cleansing Pools**: Remove corruption effects (functions as Greater Restoration)
-- **Crystal Filters**: Use crystals from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] to purify water and air
+- **Crystal Filters**: Use crystals from [[02_Worldbuilding/Places/Aethermoor]] to purify water and air
 - **Emergency Lockdown**: Can seal entire academy if corruption breach occurs
 
 ## Environmental Hazards
@@ -118,7 +118,7 @@ Student experiments sometimes create hazardous areas:
 ## Treasure and Resources
 
 ### The Headmistress's Office
-[[vault_backup_20250813_073007/02_Worldbuilding/Places/Miranda Hopekeeper]]'s private chambers contain:
+[[02_Worldbuilding/Places/Miranda Hopekeeper]]'s private chambers contain:
 - **Staff of the Deep** (+2 quarterstaff, water breathing for wielder and 5 others)
 - **Scrolls of Mass Cure Wounds** (x3)
 - **Ring of Corruption Ward** (immunity to corruption effects for 1 hour/day)
@@ -128,7 +128,7 @@ Student experiments sometimes create hazardous areas:
 Hidden beneath the academy:
 - **Tome of Anti-Corruption Rituals**: Contains 3 unique spells (8th level)
 - **Crystal of Pure Memory**: Stores perfect recollections of pre-corruption times
-- **Map of Shadow Sources**: Reveals all corruption nexuses in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- **Map of Shadow Sources**: Reveals all corruption nexuses in [[02_Worldbuilding/Places/Aquabyssos]]
 - **Aethermoor Communication Device**: Allows contact with surface world
 
 ### Student Projects
@@ -141,7 +141,7 @@ Various magical items created by students:
 ## Academic Programs
 
 ### Standard Curriculum
-- **Aquatic History**: Study of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] before corruption
+- **Aquatic History**: Study of [[02_Worldbuilding/Places/Aquabyssos]] before corruption
 - **Marine Biology**: Understanding sea creatures and their corruption
 - **Elemental Magic**: Focus on water, ice, and earth magic
 - **Navigation**: Underwater and surface world travel
@@ -149,25 +149,25 @@ Various magical items created by students:
 ### Secret Courses
 - **Corruption Theory**: Understanding shadow magic's nature and weaknesses
 - **Resistance Tactics**: Combat techniques against corrupted beings
-- **Surface Contact**: Communication with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- **Surface Contact**: Communication with [[02_Worldbuilding/Places/Aethermoor]]
 - **Purification Rituals**: Advanced anti-corruption magic
 
 ## Quest Hooks
 
 ### The Missing Student
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Nerissa Depthsong]] disappeared while researching in the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Trenches]]. Her last message mentioned discovering something about the corruption's origin. [[vault_backup_20250813_073007/02_Worldbuilding/Places/Miranda Hopekeeper]] needs discrete help finding her.
+[[02_Worldbuilding/Lore/Nerissa Depthsong]] disappeared while researching in the [[02_Worldbuilding/Lore/Deep Trenches]]. Her last message mentioned discovering something about the corruption's origin. [[02_Worldbuilding/Places/Miranda Hopekeeper]] needs discrete help finding her.
 **Reward**: 750 gp + access to restricted library section
 
 ### The Infiltrator
-A new student seems to be asking too many questions about the academy's defenses. [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professor Kaine Tidereader]] suspects they're a spy for [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Corrupted Admiralty]]. The party must investigate without alerting the suspect.
+A new student seems to be asking too many questions about the academy's defenses. [[02_Worldbuilding/Lore/Professor Kaine Tidereader]] suspects they're a spy for [[02_Worldbuilding/Lore/The Corrupted Admiralty]]. The party must investigate without alerting the suspect.
 **Reward**: 400 gp + magical research assistance
 
 ### The Fading Knowledge
-Books in the library are mysteriously losing their text. The corruption appears to be targeting knowledge itself. The party must travel to the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Coral Reefs]] to restore the lost information.
+Books in the library are mysteriously losing their text. The corruption appears to be targeting knowledge itself. The party must travel to the [[02_Worldbuilding/Places/Memory Coral Reefs]] to restore the lost information.
 **Reward**: 600 gp + choice of any spell scroll from the library
 
 ### The Surface Contact
-A message arrives from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] requesting immediate assistance. The surface world's crystals are failing, and they need the academy's research on corruption resistance. The party must escort [[vault_backup_20250813_073007/02_Worldbuilding/Places/Miranda Hopekeeper]] on a dangerous journey to the surface.
+A message arrives from [[02_Worldbuilding/Places/Aethermoor]] requesting immediate assistance. The surface world's crystals are failing, and they need the academy's research on corruption resistance. The party must escort [[02_Worldbuilding/Places/Miranda Hopekeeper]] on a dangerous journey to the surface.
 **Reward**: 1,000 gp + magical items from both worlds
 
 ### The Graduation Crisis
@@ -176,20 +176,20 @@ Final exams are approaching, but the testing chambers have been corrupted. Stude
 
 ## Connected Locations
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Ironlung Tavern]]**: Safe meeting place for academy contacts
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Caves of Aethermoor]]**: Source of purification crystals
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Coral Reefs]]**: Natural repository of pre-corruption knowledge  
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Trenches]]**: Dangerous research location
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Corrupted Admiralty]]**: Primary opposition to academy's mission
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Shadowmere]]**: Where academy alumni often work undercover
+- **[[02_Worldbuilding/Lore/The Ironlung Tavern]]**: Safe meeting place for academy contacts
+- **[[02_Worldbuilding/Lore/Crystal Caves of Aethermoor]]**: Source of purification crystals
+- **[[02_Worldbuilding/Places/Memory Coral Reefs]]**: Natural repository of pre-corruption knowledge  
+- **[[02_Worldbuilding/Lore/Deep Trenches]]**: Dangerous research location
+- **[[02_Worldbuilding/Lore/The Corrupted Admiralty]]**: Primary opposition to academy's mission
+- **[[02_Worldbuilding/Places/Port Shadowmere]]**: Where academy alumni often work undercover
 
 ## Lore and Secrets
 
 - The academy is built on the site of an ancient temple to a forgotten sea goddess who opposed corruption
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Miranda Hopekeeper]] is actually over 200 years old, sustained by the goddess's blessing
-- Several prominent figures in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Corrupted Admiralty]] are former students who were turned
-- The academy has a secret tunnel network connecting to resistance safe houses throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Coral]], the groundskeeper, is the reincarnated spirit of the temple's high priestess
+- [[02_Worldbuilding/Places/Miranda Hopekeeper]] is actually over 200 years old, sustained by the goddess's blessing
+- Several prominent figures in [[02_Worldbuilding/Lore/The Corrupted Admiralty]] are former students who were turned
+- The academy has a secret tunnel network connecting to resistance safe houses throughout [[02_Worldbuilding/Places/Aquabyssos]]
+- [[02_Worldbuilding/Lore/Coral]], the groundskeeper, is the reincarnated spirit of the temple's high priestess
 - The academy's research has discovered that the corruption originates from a breach between dimensions
 
 ## Academic Calendar
@@ -201,7 +201,7 @@ Final exams are approaching, but the testing chambers have been corrupted. Stude
 - **Crystal Season** (months 10-12): Examinations and thesis presentations
 
 ### Special Events
-- **Founder's Day**: Celebration of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Miranda Hopekeeper]]'s founding of the academy
+- **Founder's Day**: Celebration of [[02_Worldbuilding/Places/Miranda Hopekeeper]]'s founding of the academy
 - **Purification Ceremony**: Monthly cleansing of academy grounds
 - **Knowledge Festival**: Students present research to the community
 - **Memorial Vigil**: Honoring those lost to corruption
@@ -209,7 +209,7 @@ Final exams are approaching, but the testing chambers have been corrupted. Stude
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Wandering Atoll]]
+- [[02_Worldbuilding/Places/The Wandering Atoll]]
 
 ## Player-Facing Summary
 
@@ -231,7 +231,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
+- [[02_Worldbuilding/Places/Teacher Miranda Hopekeeper]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor]]

@@ -62,11 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Weapon Master Dain Sharpedge]]
+- [[02_Worldbuilding/Places/Weapon Master Dain Sharpedge]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Forge of War]]
+- [[02_Worldbuilding/Places/Forge of War]]

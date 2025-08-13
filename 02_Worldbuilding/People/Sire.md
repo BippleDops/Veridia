@@ -45,7 +45,7 @@ TODO
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of the Drowning]]
+- [[02_Worldbuilding/Lore/Timeline of the Drowning]]
 
 ## Player-Facing Summary
 

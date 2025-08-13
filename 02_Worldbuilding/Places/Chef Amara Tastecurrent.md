@@ -121,7 +121,7 @@ Amara works well as a sophisticated contact who can provide both services and in
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Bathyal Palace]]
+- [[02_Worldbuilding/Places/The Bathyal Palace]]
 
 
 ## History
@@ -169,6 +169,6 @@ Legends speak of Chef Amara Tastecurrent as a nexus where past and present conve
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Chef Amara Tastecurrent]]
+- [[02_Worldbuilding/Places/Chef Amara Tastecurrent]]
 
 <!-- enriched: true -->

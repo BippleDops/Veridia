@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Bexley]]
+- [[02_Worldbuilding/Groups/Bexley]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Bexley]]
+- [[02_Worldbuilding/Groups/Bexley]]
 
 ## Player-Facing Summary
 

@@ -128,7 +128,7 @@ This investigation should feel urgent and personal. Give players multiple invest
 
 ## Connections
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
+- [[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]
 
 
 ## History
@@ -170,6 +170,6 @@ Legends speak of Missing Persons of Port Meridian as a nexus where past and pres
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Missing Persons of Port Meridian]]
+- [[02_Worldbuilding/Places/Missing Persons of Port Meridian]]
 
 <!-- enriched: true -->

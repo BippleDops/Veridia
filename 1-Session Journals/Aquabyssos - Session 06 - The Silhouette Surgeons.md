@@ -77,7 +77,7 @@ The party infiltrates the Surgical Sanctum to find hundreds of bodies suspended 
 **Situation**: Witness mass shadow transplant surgery  
 **Conflict**: Interrupt procedure without killing patients  
 **Discoveries**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Silhouette Surgeon Prime]] is actually multiple shadows in one body
+- [[02_Worldbuilding/People/The Silhouette Surgeon Prime]] is actually multiple shadows in one body
 - Surgeries are creating agents for continental infiltration
 - [[Jasper "Three-Eyes" Flint]] is here—as a willing surgeon
 - The procedures are reversible for exactly 3 hours
@@ -158,10 +158,10 @@ Special mechanics for Marina confrontation:
 
 ## 💰 Treasure & Rewards
 - Surgical Codex (shadow separation techniques)
-- 1,200 [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sorrow Pearls]]
+- 1,200 [[02_Worldbuilding/Lore/Sorrow Pearls]]
 - Shadow Fusion Elixir (3 doses)
 - Identity Anchor (prevents shadow swap)
-- Map to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]] resonance facility
+- Map to [[02_Worldbuilding/Places/Crystallium]] resonance facility
 - Surgeon's Master Key (access all Tenebrarum facilities)
 
 ## 🔍 Secrets & Clues
@@ -170,8 +170,8 @@ Special mechanics for Marina confrontation:
 3. Every major NPC has a prototype prepared
 4. The surgical facilities extend across all continents
 5. Shadow evolution is inevitable, not stoppable
-6. The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]] approved the surgeries
-7. [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] has a prototype in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+6. The [[02_Worldbuilding/Places/Parliament of Echoes]] approved the surgeries
+7. [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] has a prototype in [[02_Worldbuilding/Places/Aethermoor]]
 8. The Memory Tides are carrying surgical instructions
 9. Children adapt to shadow fusion better than adults
 10. The real threat isn't shadows—it's what they're fleeing from
@@ -188,7 +188,7 @@ Special mechanics for Marina confrontation:
 - Real Marina becomes antagonist
 - Shadow Marina provides inside information
 - Access to shadow resistance network
-- Changes in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] connections
+- Changes in [[02_Worldbuilding/Places/Aethermoor]] connections
 
 ### If Facility is Destroyed
 - Thousands die (alignment shift)
@@ -197,9 +197,9 @@ Special mechanics for Marina confrontation:
 - Purist factions support party
 
 ## 🎪 Cliffhanger Ending
-Regardless of choices made, as the party escapes the facility, every shadow in Tenebrarum suddenly points toward [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]]. The Surgeon Prime's head (or remains) speaks: "You fools. The resonance has already begun. In three hours, every shadow in Aquabyssos will hear the call. You can't stop the harvest—you can only choose whether to guide it or be consumed by it."
+Regardless of choices made, as the party escapes the facility, every shadow in Tenebrarum suddenly points toward [[02_Worldbuilding/Places/Crystallium]]. The Surgeon Prime's head (or remains) speaks: "You fools. The resonance has already begun. In three hours, every shadow in Aquabyssos will hear the call. You can't stop the harvest—you can only choose whether to guide it or be consumed by it."
 
-Marina (whichever one remains) reveals a final secret: "There's something you need to know about [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]]. The entire continent is a transmission tower. And it's not calling to our shadows—it's calling to something else's. We're not the harvest. We're the bait."
+Marina (whichever one remains) reveals a final secret: "There's something you need to know about [[02_Worldbuilding/Places/Crystallium]]. The entire continent is a transmission tower. And it's not calling to our shadows—it's calling to something else's. We're not the harvest. We're the bait."
 
 Through the window, the party sees the ocean literally cracking like glass, revealing something massive moving beneath reality itself.
 
@@ -213,17 +213,17 @@ Through the window, the party sees the ocean literally cracking like glass, reve
 - Consider permanent changes from this session
 
 ## 📅 Next Session Prep
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 07 - The Resonance Revelation]]
+- [[1-Session Journals/Aquabyssos - Session 07 - The Resonance Revelation]]
 - Prepare Crystallium's alien architecture
 - Design resonance combat mechanics
 - Plan first contact with what shadows fear
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sorrow Pearls]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Lore/Sorrow Pearls]]
+- [[02_Worldbuilding/Places/Crystallium]]

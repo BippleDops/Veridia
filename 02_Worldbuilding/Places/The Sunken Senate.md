@@ -23,14 +23,14 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Throne Syndicate]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Riders Guild]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Depth Plague]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate]]
+- [[02_Worldbuilding/Places/Current Riders Guild]]
+- [[02_Worldbuilding/Places/The Depth Plague]]
 
 ## Player-Facing Summary
 

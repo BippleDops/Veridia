@@ -100,9 +100,9 @@ Krell should be portrayed as intelligent but completely amoral. His facilities a
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Cerulean Trench]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Places/The Cerulean Trench]]
 
 
 ## History
@@ -150,6 +150,6 @@ Legends speak of Beast Master Krell Chainbreaker as a nexus where past and prese
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Beast Master Krell Chainbreaker]]
+- [[02_Worldbuilding/Places/Beast Master Krell Chainbreaker]]
 
 <!-- enriched: true -->

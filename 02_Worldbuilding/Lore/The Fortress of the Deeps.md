@@ -45,10 +45,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Typhoon Blackheart]]
+- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Items/Crown of Tidal Sovereignty]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Typhoon Blackheart]]
+- [[02_Worldbuilding/Items/Crown of Tidal Sovereignty]]
+- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]

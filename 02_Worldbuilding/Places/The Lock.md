@@ -1,7 +1,7 @@
 ---
 MyCategory: Unknown
 MyContainer: None
-commander: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]'
+commander: '[[02_Worldbuilding/People/Admiral Thorne Blackwater]]'
 created: '2025-08-12'
 danger_level: 9
 depth: 15,000 feet below surface
@@ -9,7 +9,7 @@ government: '[[Deep Watch Command]]'
 obsidianUIMode: preview
 population: 800
 purpose: Seal against The Hadal Depths
-region: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]] Border'
+region: '[[02_Worldbuilding/Places/The Hadal Depths]] Border'
 status: draft
 tags:
 - aquabyssos
@@ -43,25 +43,25 @@ world: Aquabyssos
 
 ## Overview
 
-The Lock stands as [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most critical defensive structure, a massive magical barrier and fortress complex that seals the boundary between the inhabited depths and [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]] - the realm of cosmic horrors that lies beyond comprehension. Built at crushing depth where reality itself grows thin, The Lock is both humanity's greatest achievement and its most desperate gamble.
+The Lock stands as [[02_Worldbuilding/Places/Aquabyssos]]'s most critical defensive structure, a massive magical barrier and fortress complex that seals the boundary between the inhabited depths and [[02_Worldbuilding/Places/The Hadal Depths]] - the realm of cosmic horrors that lies beyond comprehension. Built at crushing depth where reality itself grows thin, The Lock is both humanity's greatest achievement and its most desperate gamble.
 
-At 15,000 feet below the surface, The Lock exists at the absolute limit of where adapted human consciousness can function. Here, [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]] and his 800-person garrison maintain an eternal vigil against entities that predate civilization itself.
+At 15,000 feet below the surface, The Lock exists at the absolute limit of where adapted human consciousness can function. Here, [[02_Worldbuilding/People/Admiral Thorne Blackwater]] and his 800-person garrison maintain an eternal vigil against entities that predate civilization itself.
 
 ## The Barrier System
 
 ### The Great Seal
 A colossal magical construct spanning three miles in diameter, the Great Seal appears as a translucent dome of shifting, opalescent energy. The barrier consists of seven interlocked magical matrices, each powered by a different source:
 
-1. **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown Matrix]]** - Powered by fragments of the shattered [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crown of Stars]] from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-2. **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Depth Crystal Core]]** - Uses compressed reality crystals from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-3. **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Anchor]]** - Sustained by the collective memories of all who died during [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]]
-4. **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Will Ward]]** - Maintained by the focused determination of The Lock's garrison
-5. **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Paradox Engine]]** - Runs on temporal contradictions and impossibilities
-6. **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Soul Forge]]** - Powered by willing sacrifice of volunteer [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Wardens]]
-7. **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silence Generator]]** - Creates zones of absolute nothingness to confuse entities
+1. **[[02_Worldbuilding/Lore/The Crown Matrix]]** - Powered by fragments of the shattered [[02_Worldbuilding/Lore/Crown of Stars]] from [[02_Worldbuilding/Places/Aethermoor]]
+2. **[[02_Worldbuilding/Lore/The Depth Crystal Core]]** - Uses compressed reality crystals from [[02_Worldbuilding/Places/Abyssos Prime]]
+3. **[[02_Worldbuilding/Lore/The Memory Anchor]]** - Sustained by the collective memories of all who died during [[02_Worldbuilding/Places/The Great Drowning]]
+4. **[[02_Worldbuilding/Lore/The Will Ward]]** - Maintained by the focused determination of The Lock's garrison
+5. **[[02_Worldbuilding/Lore/The Paradox Engine]]** - Runs on temporal contradictions and impossibilities
+6. **[[02_Worldbuilding/Lore/The Soul Forge]]** - Powered by willing sacrifice of volunteer [[02_Worldbuilding/Lore/Deep Wardens]]
+7. **[[02_Worldbuilding/Lore/The Silence Generator]]** - Creates zones of absolute nothingness to confuse entities
 
 ### Barrier Effects
-- **Absolute Seal**: Nothing from [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]] can physically cross the barrier
+- **Absolute Seal**: Nothing from [[02_Worldbuilding/Places/The Hadal Depths]] can physically cross the barrier
 - **Reality Reinforcement**: Strengthens the fundamental laws of physics in the area
 - **Entity Confusion**: Causes incomprehensible beings to lose interest or become disoriented
 - **Pressure Regulation**: Maintains survivable conditions within the fortress
@@ -70,55 +70,55 @@ A colossal magical construct spanning three miles in diameter, the Great Seal ap
 ## The Fortress Complex
 
 ### The Central Hub
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Watchtower Prime]]**
-- Command center with panoramic view of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]'s personal command post
+**[[02_Worldbuilding/Lore/Watchtower Prime]]**
+- Command center with panoramic view of [[02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]'s personal command post
 - Primary monitoring systems for all seven matrices
 - Emergency override systems for barrier control
-- Direct communication link to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+- Direct communication link to [[02_Worldbuilding/Places/Abyssos Prime]]
 
 ### The Seven Towers
 Each tower corresponds to one matrix of the Great Seal:
 
 **Crown Tower**
-- Houses fragments of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crown of Stars]]
-- Operated by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper of Crowns Lydia Starfall]]
-- Contains [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] embassy chambers
+- Houses fragments of the [[02_Worldbuilding/Lore/Crown of Stars]]
+- Operated by [[02_Worldbuilding/Places/Keeper of Crowns Lydia Starfall]]
+- Contains [[02_Worldbuilding/Places/Aethermoor]] embassy chambers
 - Requires constant magical maintenance
 
 **Crystal Tower** 
-- Central repository for [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Crystals]]
+- Central repository for [[02_Worldbuilding/Lore/Depth Crystals]]
 - Managed by [[Master Crystallographer Orion Deepmine]]
 - Crystal gardens that grow reality-stabilizing formations
 - Protected by automated crystal guardians
 
 **Memory Tower**
-- Archive of [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Great Drowning]] experiences
-- Maintained by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memoriam Keeper Marcus Remembrance]]
+- Archive of [[02_Worldbuilding/Places/The Great Drowning]] experiences
+- Maintained by [[02_Worldbuilding/Places/Memoriam Keeper Marcus Remembrance]]
 - Contains preserved souls of drowning victims
 - Visitors report intense emotional experiences
 
 **Will Tower**
 - Meditation chambers for garrison mental discipline
-- Led by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Mental Fortitude Master Vera Ironmind]]
+- Led by [[02_Worldbuilding/Lore/Mental Fortitude Master Vera Ironmind]]
 - Training facilities for psychological resistance
-- Houses the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Determination Engine]]
+- Houses the [[02_Worldbuilding/Lore/Determination Engine]]
 
 **Paradox Tower**
 - Laboratory for impossible experiments
-- Overseen by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Paradox Engineer Tesla Impossibility]]
+- Overseen by [[02_Worldbuilding/Lore/Paradox Engineer Tesla Impossibility]]
 - Contains rooms where physics works differently
 - Storage for temporal anomalies and contradictions
 
 **Soul Tower**
 - Sacred site of willing sacrifice
-- Guided by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Soul Shepherd Brother Marcus the Willing]]
-- Ceremony chambers for the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Final Offering]]
+- Guided by [[02_Worldbuilding/Lore/Soul Shepherd Brother Marcus the Willing]]
+- Ceremony chambers for the [[02_Worldbuilding/Lore/Final Offering]]
 - Memorial halls honoring the departed
 
 **Silence Tower**
 - Centers of absolute void and emptiness
-- Maintained by [[vault_backup_20250813_073007/02_Worldbuilding/Places/Void Keeper Sister Nyx Nullspace]]
+- Maintained by [[02_Worldbuilding/Places/Void Keeper Sister Nyx Nullspace]]
 - Chambers where sound, light, and thought cannot exist
 - Training for operating in impossible conditions
 
@@ -127,26 +127,26 @@ Each tower corresponds to one matrix of the Great Seal:
 **The Deep Barracks**
 Living quarters designed for extreme psychological pressure:
 - Individual isolation chambers for mental health breaks
-- Communal areas with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Gardens]] showing surface world
+- Communal areas with [[02_Worldbuilding/Lore/Memory Gardens]] showing surface world
 - Medical facilities specialized in deep-pressure trauma
 - Recreation halls with simulated sunlight and weather
 
 **The Fortress Kitchens**
-- Hydroponic gardens growing [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Kelp]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Moss]]
-- Preservation chambers for supplies from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- Specialized brewing area for [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Courage Ale]] (+2 to Wisdom saves against fear)
+- Hydroponic gardens growing [[02_Worldbuilding/Lore/Pressure Kelp]] and [[02_Worldbuilding/Lore/Depth Moss]]
+- Preservation chambers for supplies from [[02_Worldbuilding/Places/Abyssos Prime]]
+- Specialized brewing area for [[02_Worldbuilding/Lore/Courage Ale]] (+2 to Wisdom saves against fear)
 - Emergency rations that can sustain the garrison for one year
 
 **The Workshop Levels**
 - Maintenance facilities for the seven matrices
-- Forges for creating [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Hadal-Resistant Equipment]]
+- Forges for creating [[02_Worldbuilding/Lore/Hadal-Resistant Equipment]]
 - Laboratories for studying phenomena from beyond the barrier
 - Storage for replacement parts and emergency materials
 
 ## The Deep Watch
 
 ### Command Structure
-**Supreme Commander**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]] - Overall strategic command
+**Supreme Commander**: [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Overall strategic command
 **Matrix Keepers**: Seven specialists maintaining each barrier component
 **Deep Watch Officers**: Elite veterans who can operate at maximum depth
 **Garrison Forces**: Volunteers who have accepted they may never return to surface
@@ -154,7 +154,7 @@ Living quarters designed for extreme psychological pressure:
 ### The Deep Watch Oath
 *"We stand at the edge of everything. We guard the last light against the infinite dark. We are the Lock, and we shall not break."*
 
-Every member undergoes [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Binding]], a ritual that:
+Every member undergoes [[02_Worldbuilding/Lore/The Deep Binding]], a ritual that:
 - Provides immunity to deep-pressure psychological effects
 - Creates mental shields against entity influence  
 - Links consciousness partially to the barrier itself
@@ -163,21 +163,21 @@ Every member undergoes [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The 
 
 ### Elite Units
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Void Walkers]]**
+**[[02_Worldbuilding/Lore/The Void Walkers]]**
 Specialists who can operate in the space between reality:
 - 50 individuals trained to function in impossible environments
 - Equipment that exists in multiple states simultaneously
 - Ability to perceive and combat entities normal humans cannot see
-- Led by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Commander Eclipse Nethermore]]
+- Led by [[02_Worldbuilding/Lore/Commander Eclipse Nethermore]]
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Reality Guards]]**
+**[[02_Worldbuilding/Lore/The Reality Guards]]**
 Defenders against conceptual attacks:
 - 100 warriors trained to fight ideas and abstractions
 - Weapons that can harm non-physical entities
 - Armor that protects against mental dissolution
 - Mental conditioning against existential terror
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silence Patrol]]**
+**[[02_Worldbuilding/Lore/The Silence Patrol]]**
 Scouts who venture to the barrier's edge:
 - 30 individuals capable of existing in absolute nothingness
 - Communication through non-verbal, non-mental means
@@ -210,42 +210,42 @@ Despite the barrier, subtle effects leak through:
 ## Key NPCs
 
 ### Command Staff
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Veteran commander slowly being consumed by deep-sight
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/First Officer Marina Depthcurrent]]** - Deputy commander, potential successor
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Chief Engineer Brass Voidwright]]** - Maintains the impossible machinery
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Veteran commander slowly being consumed by deep-sight
+- **[[02_Worldbuilding/Lore/First Officer Marina Depthcurrent]]** - Deputy commander, potential successor
+- **[[02_Worldbuilding/Lore/Chief Engineer Brass Voidwright]]** - Maintains the impossible machinery
 - **[[Dr. Coral Mindmend]]** - Chief medical officer specializing in deep trauma
 
 ### Matrix Keepers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Keeper of Crowns Lydia Starfall]]** - Maintains connection to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- **[[02_Worldbuilding/Places/Keeper of Crowns Lydia Starfall]]** - Maintains connection to [[02_Worldbuilding/Places/Aethermoor]]
 - **[[Master Crystallographer Orion Deepmine]]** - Crystal matrix specialist
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memoriam Keeper Marcus Remembrance]]** - Guardian of drowning memories
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Mental Fortitude Master Vera Ironmind]]** - Will matrix coordinator
+- **[[02_Worldbuilding/Places/Memoriam Keeper Marcus Remembrance]]** - Guardian of drowning memories
+- **[[02_Worldbuilding/Lore/Mental Fortitude Master Vera Ironmind]]** - Will matrix coordinator
 
 ### Specialized Personnel  
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Commander Eclipse Nethermore]]** - Leader of the Void Walkers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Soul Shepherd Brother Marcus the Willing]]** - Guides voluntary sacrifices
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Void Keeper Sister Nyx Nullspace]]** - Maintains silence chambers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Paradox Engineer Tesla Impossibility]]** - Studies impossible phenomena
+- **[[02_Worldbuilding/Lore/Commander Eclipse Nethermore]]** - Leader of the Void Walkers
+- **[[02_Worldbuilding/Lore/Soul Shepherd Brother Marcus the Willing]]** - Guides voluntary sacrifices
+- **[[02_Worldbuilding/Places/Void Keeper Sister Nyx Nullspace]]** - Maintains silence chambers
+- **[[02_Worldbuilding/Lore/Paradox Engineer Tesla Impossibility]]** - Studies impossible phenomena
 
 ### Support Staff
 - **[[Master Chef Umami Deepfeast]]** - Provides morale through extraordinary cooking
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Quartermaster Judith Steadyhold]]** - Manages supplies and equipment
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Communications Officer Echo Farspeak]]** - Maintains contact with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Chaplain Father Blessing Hopekeeper]]** - Spiritual guidance for the garrison
+- **[[02_Worldbuilding/Places/Quartermaster Judith Steadyhold]]** - Manages supplies and equipment
+- **[[02_Worldbuilding/Lore/Communications Officer Echo Farspeak]]** - Maintains contact with [[02_Worldbuilding/Places/Abyssos Prime]]
+- **[[02_Worldbuilding/Places/Chaplain Father Blessing Hopekeeper]]** - Spiritual guidance for the garrison
 
 ## Secrets & Mysteries
 
 ### The Breach Protocol
 Secret emergency plan in case the barrier fails:
-- **Stage 1**: Evacuate [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] and all surface settlements
-- **Stage 2**: Activate [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Soul Forge]] at maximum power
+- **Stage 1**: Evacuate [[02_Worldbuilding/Places/Abyssos Prime]] and all surface settlements
+- **Stage 2**: Activate [[02_Worldbuilding/Lore/The Soul Forge]] at maximum power
 - **Stage 3**: Sacrifice the entire garrison to reinforce the barrier
-- **Stage 4**: If still failing, detonate [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Paradox Engine]] to erase local reality
-- Only [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]] and [[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]] know the full protocol
+- **Stage 4**: If still failing, detonate [[02_Worldbuilding/Lore/The Paradox Engine]] to erase local reality
+- Only [[02_Worldbuilding/People/Admiral Thorne Blackwater]] and [[02_Worldbuilding/People/The Scattered Emperor]] know the full protocol
 
 ### The Admiral's Condition
-[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]] has been at The Lock too long:
-- Slowly developing the ability to perceive [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]] directly
+[[02_Worldbuilding/People/Admiral Thorne Blackwater]] has been at The Lock too long:
+- Slowly developing the ability to perceive [[02_Worldbuilding/Places/The Hadal Depths]] directly
 - Increasingly speaks in languages that don't exist
 - Makes strategic decisions based on information from "impossible sources"
 - His condition may be the key to understanding the true threat
@@ -253,7 +253,7 @@ Secret emergency plan in case the barrier fails:
 
 ### The Thirteenth Hour
 Once per year, for exactly one hour, the barrier becomes completely transparent:
-- Garrison members can see directly into [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- Garrison members can see directly into [[02_Worldbuilding/Places/The Hadal Depths]]
 - Entities beyond become fully aware of The Lock's existence
 - Brief communication is possible between dimensions
 - These exchanges provide crucial intelligence about emerging threats
@@ -271,7 +271,7 @@ Evidence suggests The Lock is not unique:
 ### Immediate Dangers
 - **Matrix Fluctuation**: Crown Matrix showing 12% power decline
 - **Garrison Morale**: Isolation wearing on personnel psychological stability
-- **Supply Delays**: Last supply run from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] overdue by 3 weeks
+- **Supply Delays**: Last supply run from [[02_Worldbuilding/Places/Abyssos Prime]] overdue by 3 weeks
 - **Entity Activity**: Increased movement beyond the barrier, purpose unknown
 
 ### Active Investigations
@@ -381,25 +381,25 @@ Evidence suggests The Lock is not unique:
 
 ## Connections to Other Locations
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
+### [[02_Worldbuilding/Places/Abyssos Prime]]
 - Primary supply and communication link
 - Source of replacement personnel and equipment
 - Political oversight and strategic direction
 - Evacuation destination in case of barrier failure
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
+### [[02_Worldbuilding/Places/Azure Citadel]]
 - Military command and coordination center
 - Strategic planning for deep operations
 - Training facility for Deep Watch candidates
 - Intelligence analysis and threat assessment
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+### [[02_Worldbuilding/Places/The Hadal Depths]]
 - Primary threat and reason for The Lock's existence
 - Source of entities and phenomena requiring containment
 - Unknown geography and physics beyond the barrier
 - Potential source of ultimate solutions or destruction
 
-### [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] Connection
+### [[02_Worldbuilding/Places/Aethermoor]] Connection
 - Crown Matrix powered by shattered Crown of Stars
 - Exchange of magical knowledge and techniques
 - Potential refuge if Aquabyssos becomes uninhabitable
@@ -438,14 +438,14 @@ Evidence suggests The Lock is not unique:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Thorne Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Azure Citadel]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallium]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Crystalline Depths]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Smuggler]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Lock Saboteur]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Maw of Darkness]]
+- [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- [[02_Worldbuilding/Places/Azure Citadel]]
+- [[02_Worldbuilding/Places/Crystallium]]
+- [[02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Quests/Crystalline Depths]]
+- [[02_Worldbuilding/Quests/Smuggler]]
+- [[02_Worldbuilding/Quests/The Lock Saboteur]]
+- [[02_Worldbuilding/Quests/The Maw of Darkness]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
@@ -468,8 +468,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Lock]]
+- [[02_Worldbuilding/Places/The Lock]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]

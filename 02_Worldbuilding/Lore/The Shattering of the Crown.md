@@ -11,11 +11,11 @@ participants:
 - The Crown of Stars
 - Reality Itself
 related_entities:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aetheron]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]'
+- '[[02_Worldbuilding/Lore/The Seven Betrayers]]'
+- '[[02_Worldbuilding/Lore/The Crown of Stars]]'
+- '[[02_Worldbuilding/Lore/The Great Crystallization]]'
+- '[[02_Worldbuilding/Lore/Aetheron]]'
+- '[[02_Worldbuilding/Lore/The Seven Shards]]'
 scale: Multidimensional
 significance: Reality-Altering
 status: complete
@@ -49,14 +49,14 @@ world: Aethermoor
 
 ## Overview
 
-The Shattering of the Crown represents the single most catastrophic moment in recorded history - the instant when [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]], the ultimate divine artifact, was broken by the coordinated betrayal of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]]. This was not merely the destruction of a magical item, but the fracturing of divine authority itself, causing reality to hemorrhage power across multiple dimensions and triggering [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]. The event lasted only seconds in linear time but created aftershocks that continue to reverberate through reality 500 years later.
+The Shattering of the Crown represents the single most catastrophic moment in recorded history - the instant when [[02_Worldbuilding/Lore/The Crown of Stars]], the ultimate divine artifact, was broken by the coordinated betrayal of [[02_Worldbuilding/Lore/The Seven Betrayers]]. This was not merely the destruction of a magical item, but the fracturing of divine authority itself, causing reality to hemorrhage power across multiple dimensions and triggering [[02_Worldbuilding/Lore/The Great Crystallization]]. The event lasted only seconds in linear time but created aftershocks that continue to reverberate through reality 500 years later.
 
 ## The Crown of Stars: Divine Architecture
 
 ### The Artifact's True Nature
 **Beyond Mortal Understanding**
 
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] was not simply a symbol of **God-King Aetheron's** authority - it was a living conduit that connected the material world to the fundamental forces of creation. Forged at the dawn of time from crystallized starlight and divine will, the crown served as reality's governor, maintaining the delicate balance between order and chaos, mortal and divine, possible and impossible.
+[[02_Worldbuilding/Lore/The Crown of Stars]] was not simply a symbol of **God-King Aetheron's** authority - it was a living conduit that connected the material world to the fundamental forces of creation. Forged at the dawn of time from crystallized starlight and divine will, the crown served as reality's governor, maintaining the delicate balance between order and chaos, mortal and divine, possible and impossible.
 
 **Physical Properties:**
 - **Material**: Seven points of crystallized starlight bound by rings of solidified time
@@ -77,49 +77,49 @@ The Shattering of the Crown represents the single most catastrophic moment in re
 ### The Seven Points of Power
 **Constellation of Command**
 
-The crown's seven star-points each governed different aspects of divine authority, corresponding to the seven spheres of mortal ambition that would ultimately corrupt [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]]:
+The crown's seven star-points each governed different aspects of divine authority, corresponding to the seven spheres of mortal ambition that would ultimately corrupt [[02_Worldbuilding/Lore/The Seven Betrayers]]:
 
 **Stellar Iustitia (The Justice Star)**:
 - **Domain**: Law, order, moral authority, divine judgment
 - **Power**: Could rewrite reality to conform to perfect justice
 - **Corruption Vulnerability**: Absolute law without mercy or flexibility
-- **Betrayer Connection**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Marcus the Just]] - obsessed with perfect order
+- **Betrayer Connection**: [[02_Worldbuilding/Lore/Marcus the Just]] - obsessed with perfect order
 
 **Stellar Pulchra (The Beauty Star)**:
 - **Domain**: Art, culture, aesthetic perfection, eternal youth
 - **Power**: Could create beauty so perfect it transcended mortality
 - **Corruption Vulnerability**: Obsession with appearance over substance
-- **Betrayer Connection**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Seraphina the Beautiful]] - feared losing relevance
+- **Betrayer Connection**: [[02_Worldbuilding/Lore/Seraphina the Beautiful]] - feared losing relevance
 
 **Stellar Thesaurus (The Wealth Star)**:
 - **Domain**: Prosperity, abundance, material success, economic control
 - **Power**: Could manifest infinite resources and control all wealth
 - **Corruption Vulnerability**: Greed that could never be satisfied
-- **Betrayer Connection**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Goldwin the Merchant]] - craved unlimited prosperity
+- **Betrayer Connection**: [[02_Worldbuilding/Lore/Goldwin the Merchant]] - craved unlimited prosperity
 
 **Stellar Mortis (The Death Star)**:
 - **Domain**: Endings, assassination, elimination, final judgment
 - **Power**: Could end anything - life, ideas, relationships, even abstractions
 - **Corruption Vulnerability**: Destroying rather than creating
-- **Betrayer Connection**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadowthorn the Assassin]] - sought power over death itself
+- **Betrayer Connection**: [[02_Worldbuilding/Lore/Shadowthorn the Assassin]] - sought power over death itself
 
 **Stellar Natura (The Nature Star)**:
 - **Domain**: Natural harmony, environmental balance, life essence
 - **Power**: Could speak for nature itself and control all living things
 - **Corruption Vulnerability**: Losing individual identity to collective consciousness
-- **Betrayer Connection**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thornweaver the Druid]] - wanted to merge with planetary awareness
+- **Betrayer Connection**: [[02_Worldbuilding/Lore/Thornweaver the Druid]] - wanted to merge with planetary awareness
 
 **Stellar Tempest (The Storm Star)**:
 - **Domain**: Elements, weather, planar travel, exploration
 - **Power**: Could command all forces of nature and traverse dimensions
 - **Corruption Vulnerability**: Internal chaos matching external storm mastery
-- **Betrayer Connection**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Stormwind the Navigator]] - craved elemental dominion
+- **Betrayer Connection**: [[02_Worldbuilding/Lore/Stormwind the Navigator]] - craved elemental dominion
 
 **Stellar Scientia (The Knowledge Star)**:
 - **Domain**: Information, understanding, forbidden truths, ultimate wisdom
 - **Power**: Could know everything that was, is, or could be
 - **Corruption Vulnerability**: Paralysis from understanding all consequences
-- **Betrayer Connection**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Nameless Scholar]] - pursued absolute knowledge
+- **Betrayer Connection**: [[02_Worldbuilding/Lore/The Nameless Scholar]] - pursued absolute knowledge
 
 ### Divine Security Systems
 **Protections Beyond Mortal Comprehension**
@@ -142,7 +142,7 @@ The crown was protected by multiple layers of divine security, each designed to 
 **11:47 PM - The Trust Ceremony Begins**
 - Aetheron removes all magical protections as traditional gesture of faith
 - Ten thousand citizens gather in the **Celestial Plaza** for annual celebration
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]] take their ceremonial positions around the throne
+- [[02_Worldbuilding/Lore/The Seven Betrayers]] take their ceremonial positions around the throne
 - The crown floats freely above Aetheron's head, unsecured by divine will
 - Reality holds its breath as the most sacred moment of the year approaches
 
@@ -176,7 +176,7 @@ The crown was protected by multiple layers of divine security, each designed to 
 ### The Shattering Instant
 **11:53:47 PM - Reality Breaks**
 
-In a moment that lasted both an instant and eternity, [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] made the ultimate sacrifice. Rather than allow its power to be corrupted or concentrated, the artifact chose to shatter itself, distributing its divine authority in the only way that could prevent cosmic catastrophe:
+In a moment that lasted both an instant and eternity, [[02_Worldbuilding/Lore/The Crown of Stars]] made the ultimate sacrifice. Rather than allow its power to be corrupted or concentrated, the artifact chose to shatter itself, distributing its divine authority in the only way that could prevent cosmic catastrophe:
 
 **The Seven-Fold Break**:
 Each stellar point separated from the crown's central matrix, seeking the betrayer whose ambition most closely matched its domain:
@@ -224,14 +224,14 @@ The shattering of his crown did not kill Aetheron, but it stripped away his divi
 - Purpose shifted from universal balance to personal vindication
 
 **The Birth of the Crimson Sage**:
-In his pain and rage, Aetheron transformed into [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - a figure of terrible wisdom seeking either redemption or revenge against those who had betrayed divine trust. No longer a god but not quite mortal, he began wandering the crystallized world, gathering knowledge and power for purposes known only to himself.
+In his pain and rage, Aetheron transformed into [[02_Worldbuilding/People/The Crimson Sage]] - a figure of terrible wisdom seeking either redemption or revenge against those who had betrayed divine trust. No longer a god but not quite mortal, he began wandering the crystallized world, gathering knowledge and power for purposes known only to himself.
 
 ## Immediate Physical Consequences
 
 ### The Reality Cascade
 **Seconds After the Shattering**
 
-The destruction of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] created a cascade of physical changes that swept across the world in expanding waves:
+The destruction of [[02_Worldbuilding/Lore/The Crown of Stars]] created a cascade of physical changes that swept across the world in expanding waves:
 
 **Wave One: The Crystal Genesis (0-10 seconds)**
 - Seven massive crystal spires erupted from the earth where each shard landed
@@ -432,7 +432,7 @@ Several aspects of the crown's destruction remain unexplained:
 
 **Aetheron's Divine Essence**:
 - Only part of the god-king's divine nature was lost in the shattering
-- The remaining divine essence seems to be slowly regenerating within [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]
+- The remaining divine essence seems to be slowly regenerating within [[02_Worldbuilding/People/The Crimson Sage]]
 - Unclear whether full restoration is possible or if the essence is fundamentally changed
 - Some believe the essence is seeking reunion with the scattered crown fragments
 
@@ -460,7 +460,7 @@ Five hundred years after the shattering, new phenomena suggest the event's conse
 - Prophetic abilities increasing among those with strong crystal affinity
 
 **Bloodline Manifestations**:
-- Descendants of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]] showing enhanced abilities
+- Descendants of [[02_Worldbuilding/Lore/The Seven Betrayers]] showing enhanced abilities
 - New generations born with natural crystal manipulation powers
 - Increasing frequency of individuals claiming direct spiritual contact with betrayer ancestors
 - Political movements organized around betrayer bloodline identity
@@ -469,13 +469,13 @@ Five hundred years after the shattering, new phenomena suggest the event's conse
 **Scholarly Debates About Divine Nature**
 
 **The Restoration Question**:
-- Can [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]] be reassembled and divine order restored?
+- Can [[02_Worldbuilding/Lore/The Crown of Stars]] be reassembled and divine order restored?
 - Would restoration return Aetheron to godhood or create something new?
 - Are the scattered shards evolving into independent divine entities?
 - What would happen if all seven shards were brought together?
 
 **The Betrayal Interpretation**:
-- Were [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]] corrupted by power or driven by legitimate grievances?
+- Were [[02_Worldbuilding/Lore/The Seven Betrayers]] corrupted by power or driven by legitimate grievances?
 - Did the crown's defensive systems contribute to the catastrophic outcome?
 - Could the shattering have been prevented or was it cosmically inevitable?
 - What does the event reveal about the nature of divine authority and mortal ambition?
@@ -502,7 +502,7 @@ Five hundred years after the shattering, new phenomena suggest the event's conse
 
 **The Restoration Conspiracy**: A secret organization seeks to gather all seven shards to restore the crown, but their methods threaten to recreate the original catastrophe.
 
-**Bloodline Wars**: Descendants of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]] are manipulating current politics to position themselves for when the shards next activate.
+**Bloodline Wars**: Descendants of [[02_Worldbuilding/Lore/The Seven Betrayers]] are manipulating current politics to position themselves for when the shards next activate.
 
 **The Divine Pretender**: Someone claiming to be the reborn Aetheron appears, but characters must determine if this is genuine divine restoration or elaborate fraud.
 
@@ -533,7 +533,7 @@ Each of the seven major shards broke into smaller fragments that retain echoes o
 ### Divine Restoration Mechanics
 **Ultimate Campaign Goals**
 
-**Path of Reforging**: Collect all seven major shards and attempt to recreate [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]]
+**Path of Reforging**: Collect all seven major shards and attempt to recreate [[02_Worldbuilding/Lore/The Crown of Stars]]
 **Path of Redemption**: Help the betrayer bloodlines atone for ancestral sins
 **Path of Transformation**: Use the scattered divine power to create new forms of divine authority
 **Path of Acceptance**: Learn to live with the consequences rather than trying to undo them
@@ -570,10 +570,10 @@ These questions continue to resonate through Aethermoor culture, politics, and i
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdoms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/Eastern Kingdoms]]
+- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
+- [[02_Worldbuilding/Lore/The Great Crystallization]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -599,6 +599,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crown of Stars]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Betrayers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]
+- [[02_Worldbuilding/Lore/The Crown of Stars]]
+- [[02_Worldbuilding/Lore/The Seven Betrayers]]
+- [[02_Worldbuilding/People/The Crimson Sage]]

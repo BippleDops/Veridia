@@ -62,7 +62,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Economic Planning]]
+- [[02_Worldbuilding/Places/Economic Planning]]
 
 <!-- enriched: true -->
 
@@ -70,4 +70,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Connections
 
 - [[Keeper of the Past, Elderly Morgan]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Mad Oracle Thessaly]]
+- [[02_Worldbuilding/Places/Mad Oracle Thessaly]]

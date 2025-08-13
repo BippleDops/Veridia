@@ -28,7 +28,7 @@ world: Both
 *In Shadows We Trust, In Secrets We Trade*
 
 ## Overview
-The Whisper Syndicate is [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s most powerful criminal organization, dealing in corrupted crystals, blackmail, and forbidden knowledge. Under [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]'s leadership, they've evolved from common criminals into a shadow government that knows everyone's secrets and profits from the kingdom's corruption.
+The Whisper Syndicate is [[02_Worldbuilding/Places/Aethermoor]]'s most powerful criminal organization, dealing in corrupted crystals, blackmail, and forbidden knowledge. Under [[02_Worldbuilding/People/Vex Shadowthorn]]'s leadership, they've evolved from common criminals into a shadow government that knows everyone's secrets and profits from the kingdom's corruption.
 
 ## Criminal Empire
 
@@ -40,7 +40,7 @@ The Whisper Syndicate is [[vault_backup_20250813_073007/02_Worldbuilding/Places/
 - **Corruption**: Bribe officials at every level
 
 ### Legal Fronts
-- **The Gilded Serpent**: Casino in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- **The Gilded Serpent**: Casino in [[02_Worldbuilding/Places/Port Meridian]]
 - **Shadowthorn Trading**: Import/export company
 - **The Velvet Room**: High-end entertainment
 - **Crystal Remedies**: "Medical" crystal supplies
@@ -49,15 +49,15 @@ The Whisper Syndicate is [[vault_backup_20250813_073007/02_Worldbuilding/Places/
 ## Organization Structure
 
 ### Leadership
-- **The Whisper**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Absolute leader
+- **The Whisper**: [[02_Worldbuilding/People/Vex Shadowthorn]] - Absolute leader
 - **The Five Shadows**: Regional commanders
 - **Shadow Captains**: City operations leaders
 - **Whisper Agents**: Elite operatives
 - **Street Shadows**: Common criminals
 
 ### The Five Shadows
-1. **[[Marcus "The Shade" Blackwood]]** - [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] operations
-2. **[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]** - Maritime smuggling
+1. **[[Marcus "The Shade" Blackwood]]** - [[02_Worldbuilding/Places/Crystalhaven]] operations
+2. **[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]** - Maritime smuggling
 3. **Silas the Silent** - Information networks
 4. **Crimson Widow** - Assassination guild
 5. **The Accountant** - Financial crimes
@@ -108,11 +108,11 @@ The Whisper Syndicate is [[vault_backup_20250813_073007/02_Worldbuilding/Places/
 > - Searching for Seven Shards
 > - Planning Crystal Festival heist
 > - Building corrupted army
-> - Infiltrating [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+> - Infiltrating [[02_Worldbuilding/People/Crystal Wardens]]
 
 ### Territory Control
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]**: Shadow Warren district
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]**: Dock operations
+- **[[02_Worldbuilding/Places/Crystalhaven]]**: Shadow Warren district
+- **[[02_Worldbuilding/Places/Port Meridian]]**: Dock operations
 - **Every Major City**: Cells operating
 - **Trade Routes**: "Protection" rackets
 - **Crystal Mines**: Illegal operations
@@ -120,21 +120,21 @@ The Whisper Syndicate is [[vault_backup_20250813_073007/02_Worldbuilding/Places/
 ## Relationships
 
 ### Enemies
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Active opposition
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Sworn enemy
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]] - Investigating
+- [[02_Worldbuilding/People/Crystal Wardens]] - Active opposition
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Sworn enemy
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Investigating
 - Honest merchants - Competition
 
 ### Clients
 - Corrupt nobles needing services
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Blackmail victim
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Blackmail victim
 - Foreign spies
 - Anyone desperate enough
 
 ### Complicated
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] - Sometimes hire them
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]] - Potential alliance
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Mutual awareness
+- [[02_Worldbuilding/Groups/Purist Coalition]] - Sometimes hire them
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Potential alliance
+- [[02_Worldbuilding/People/The Crimson Sage]] - Mutual awareness
 - Other criminal groups - Competition/cooperation
 
 ## The Shadow Code
@@ -161,7 +161,7 @@ The Whisper Syndicate is [[vault_backup_20250813_073007/02_Worldbuilding/Places/
 
 ### The Shard Hunt
 > [!warning] DM Only
-> [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] knows about Seven Shards, actively seeking them. Has detailed intelligence network focused on finding them.
+> [[02_Worldbuilding/People/Vex Shadowthorn]] knows about Seven Shards, actively seeking them. Has detailed intelligence network focused on finding them.
 
 ### Royal Blackmail
 > [!warning] DM Only
@@ -186,14 +186,14 @@ The Whisper Syndicate is [[vault_backup_20250813_073007/02_Worldbuilding/Places/
 ## Safe Houses & Hideouts
 
 ### The Corroded Crown (Tavern)
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] headquarters
+- [[02_Worldbuilding/Places/Crystalhaven]] headquarters
 - Secret underground complex
 - Meeting rooms
 - Escape tunnels
 - Torture chambers
 
 ### The Gilded Serpent (Casino)
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] base
+- [[02_Worldbuilding/Places/Port Meridian]] base
 - Money laundering
 - High-stakes games
 - Blackmail operations
@@ -232,21 +232,21 @@ The Whisper Syndicate is [[vault_backup_20250813_073007/02_Worldbuilding/Places/
 - Vex's death wouldn't destroy organization
 
 ## Connected Factions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]] - Undermining
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Active conflict
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] - Extortion/cooperation
+- [[02_Worldbuilding/Groups/The Crystal Throne]] - Undermining
+- [[02_Worldbuilding/People/Crystal Wardens]] - Active conflict
+- [[02_Worldbuilding/Groups/Merchant Princes]] - Extortion/cooperation
 - Foreign criminal organizations
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] - Leader
+- [[02_Worldbuilding/People/Vex Shadowthorn]] - Leader
 - [[Marcus "The Shade" Blackwood]] - Commander
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Smuggling
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Smuggling
 - [[Jasper "Three-Eyes" Flint]] - Information
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Main base
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Smuggling hub
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Warren]] - Territory
+- [[02_Worldbuilding/Places/Crystalhaven]] - Main base
+- [[02_Worldbuilding/Places/Port Meridian]] - Smuggling hub
+- [[02_Worldbuilding/People/The Shadow Warren]] - Territory
 - Every major city - Operations
 
 ## Syndicate Services (For Party)
@@ -268,15 +268,15 @@ The Whisper Syndicate is [[vault_backup_20250813_073007/02_Worldbuilding/Places/
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow War Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harbor District Customs House]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Merchant Riptide]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Surgeons Collective]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow War Coalition]]
+- [[02_Worldbuilding/Places/Harbor District Customs House]]
+- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+- [[02_Worldbuilding/Places/Shadow Merchant Riptide]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -298,5 +298,5 @@ Legends speak of The Whisper Syndicate as a nexus where past and present converg
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Shadow Warren]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/The Shadow Warren]]

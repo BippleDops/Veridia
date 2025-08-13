@@ -19,20 +19,20 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Rewriting the Ritual]]
+- [[02_Worldbuilding/Lore/Rewriting the Ritual]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Adaptation Points]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Echo of the Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Madness Effects]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Sorrow Pearls]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spell Components]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
+- [[02_Worldbuilding/Lore/Depth Adaptation Points]]
+- [[02_Worldbuilding/Lore/Echo of the Mother]]
+- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/Lore/Madness Effects]]
+- [[02_Worldbuilding/Lore/Sorrow Pearls]]
+- [[02_Worldbuilding/Lore/Spell Components]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Port Meridian]]
+- [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
 
 ## Player-Facing Summary
 

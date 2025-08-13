@@ -35,15 +35,15 @@ world: Both Worlds
 *The Art of Death, Undeath, and Life Force*
 
 > *"In the crushing depths where preservation becomes an act of defiance against entropy itself, necromancy evolves beyond mere death magic. We become the guardians of continuity, ensuring that consciousness and identity persist even when flesh fails and time seeks to erase all traces of existence."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Death Speaker Marina Depthkeeper]], High Preserver of the [[Halls of Eternal Memory]]
+> — [[02_Worldbuilding/Places/Death Speaker Marina Depthkeeper]], High Preserver of the [[Halls of Eternal Memory]]
 
 ## Overview
 
-Necromancy represents one of the most complex and morally ambiguous schools of magic across both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], encompassing the manipulation of life force, death energy, and the boundary between existence and void. In the vast underwater realm where traditional burial is impossible and the pressure of cosmic forces constantly threatens consciousness, necromancy has evolved into sophisticated systems of preservation, memory maintenance, and identity protection that serve essential functions for civilized survival.
+Necromancy represents one of the most complex and morally ambiguous schools of magic across both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], encompassing the manipulation of life force, death energy, and the boundary between existence and void. In the vast underwater realm where traditional burial is impossible and the pressure of cosmic forces constantly threatens consciousness, necromancy has evolved into sophisticated systems of preservation, memory maintenance, and identity protection that serve essential functions for civilized survival.
 
 The school's principles center on the manipulation of vital energies - the forces that distinguish living beings from inert matter and conscious entities from void emptiness. Necromancy operates through the fundamental understanding that life and death are not absolute states but rather positions on a spectrum of existence that can be influenced, redirected, and preserved through magical intervention.
 
-In [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], necromancy has developed unique characteristics due to the environment's preservation properties and the proximity to cosmic forces that exist outside normal life-death cycles. Practitioners have mastered techniques for maintaining consciousness beyond physical death, preserving memories in crystalline matrices, and protecting individual identity against the dissolving influence of void forces.
+In [[02_Worldbuilding/Places/Aquabyssos]], necromancy has developed unique characteristics due to the environment's preservation properties and the proximity to cosmic forces that exist outside normal life-death cycles. Practitioners have mastered techniques for maintaining consciousness beyond physical death, preserving memories in crystalline matrices, and protecting individual identity against the dissolving influence of void forces.
 
 The school serves multiple crucial functions in underwater society: preserving the knowledge and consciousness of important individuals, protecting citizens from void-induced identity dissolution, maintaining communication with deceased advisors, and ensuring that cultural memory persists across generations despite the challenges of underwater existence.
 
@@ -65,7 +65,7 @@ Necromancy operates on the fundamental principle that consciousness and identity
 
 ### Underwater Adaptations
 
-**Pressure Preservation**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] necromancy incorporates ocean pressure as a natural preservation mechanism, using the crushing environment to maintain physical forms and consciousness patterns that would otherwise decay. Deep-sea preservation techniques can maintain beings in perfect stasis for millennia.
+**Pressure Preservation**: [[02_Worldbuilding/Places/Aquabyssos]] necromancy incorporates ocean pressure as a natural preservation mechanism, using the crushing environment to maintain physical forms and consciousness patterns that would otherwise decay. Deep-sea preservation techniques can maintain beings in perfect stasis for millennia.
 
 **Crystal Memory Storage**: The extensive crystalline formations throughout the underwater realm provide natural matrices for storing consciousness patterns and memories. Advanced practitioners can transfer complete identities into crystal networks for permanent preservation.
 
@@ -184,11 +184,11 @@ Necromancy operates on the fundamental principle that consciousness and identity
 ## Notable Practitioners and Academies
 
 ### The Halls of Eternal Memory
-Repository and academy dedicated to preserving the consciousness and knowledge of important individuals throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] history. Their necromancers specialize in consciousness preservation and memory transfer techniques.
+Repository and academy dedicated to preserving the consciousness and knowledge of important individuals throughout [[02_Worldbuilding/Places/Aquabyssos]] history. Their necromancers specialize in consciousness preservation and memory transfer techniques.
 
 **Death Speaker Marina Depthkeeper**: High Preserver whose innovations in crystal consciousness storage have revolutionized knowledge preservation. Her techniques allow perfect maintenance of individual identity within crystalline matrices for indefinite periods.
 
-**Archivist Eternal Remembrance**: Master of memory preservation who maintains the complete historical consciousness of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] civilization. Her preserved network includes the memories of thousands of deceased scholars, leaders, and experts.
+**Archivist Eternal Remembrance**: Master of memory preservation who maintains the complete historical consciousness of [[02_Worldbuilding/Places/Aquabyssos]] civilization. Her preserved network includes the memories of thousands of deceased scholars, leaders, and experts.
 
 ### The Medical Preservation Corps
 Organization combining healing magic with necromantic techniques to provide advanced medical care. Their practitioners use death magic for healing and life extension applications.
@@ -230,7 +230,7 @@ Direct communication with entities from void space that exist in states beyond d
 ### Lost Life Creation
 Ancient knowledge of creating entirely new forms of consciousness and vital energy from void materials has been lost to time. These techniques were said to create beings that were fully alive but had no connection to normal biological existence.
 
-**Genesis Magic**: Historical spells that could create completely new forms of life from non-living materials. The knowledge was lost during the early period of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] after created beings proved incompatible with existing ecosystems.
+**Genesis Magic**: Historical spells that could create completely new forms of life from non-living materials. The knowledge was lost during the early period of [[02_Worldbuilding/Places/Aquabyssos]] after created beings proved incompatible with existing ecosystems.
 
 **Consciousness Fabrication**: Techniques for generating entirely original individual identities without requiring existing consciousness as a foundation. These methods were lost along with the understanding of how they interfaced with natural vital energy systems.
 
@@ -293,9 +293,9 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Aethermoor]]

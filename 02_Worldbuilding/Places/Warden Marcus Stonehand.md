@@ -121,7 +121,7 @@ Warden Stonehand represents the principled civil servant who maintains instituti
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure's End]]
+- [[02_Worldbuilding/Places/Pressure's End]]
 
 
 ## History
@@ -169,6 +169,6 @@ Legends speak of Warden Marcus Stonehand as a nexus where past and present conve
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Warden Marcus Stonehand]]
+- [[02_Worldbuilding/Places/Warden Marcus Stonehand]]
 
 <!-- enriched: true -->

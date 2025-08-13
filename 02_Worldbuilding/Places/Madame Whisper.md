@@ -124,7 +124,7 @@ Madame Whisper serves as an excellent source of information and social connectio
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]]
+- [[02_Worldbuilding/Places/The Phosphor Markets]]
 
 
 ## History
@@ -172,6 +172,6 @@ Legends speak of Madame Whisper as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Madame Whisper]]
+- [[02_Worldbuilding/Places/Madame Whisper]]
 
 <!-- enriched: true -->

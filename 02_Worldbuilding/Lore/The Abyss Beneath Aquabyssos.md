@@ -1,30 +1,28 @@
 ---
-created: '2025-08-08'
+type: Lore
+status: complete
+tags:
+- abyss
+- ancient-powers
+- aquabyssos
+- complete
+- darkness
+- depths
+- forbidden-knowledge
+- leviathan
+- location
+- lore
+- mystery
+- void
+world: Aquabyssos
 created_by: auto-stub
+created: '2025-08-08'
+updated: '2025-08-11T00:00:00+00:00'
 danger_level: 5
 depth: Below 10,000 feet - The Measureless Deep
 government: None - Primordial Chaos
 population: Unknown entities of incomprehensible nature
-status: complete
-tags:
-- ancient-powers
-- aquabyssos
-- complete
-- content/location
-- content/lore
-- darkness
-- forbidden-knowledge
-- leviathan
-- lore
-- mystery
-- status/complete
-- void
-- world/aquabyssos
-type: Lore
-updated: '2025-08-13T12:34:28.702056+00:00'
-world: Aquabyssos
 ---
-
 
 
 
@@ -32,7 +30,7 @@ world: Aquabyssos
 *The Foundational Void That Predates All Creation*
 
 > *"Below the deepest settlements, past where even the most pressure-adapted citizens dare to venture, lies the true foundation of our world - not stone or metal, but primordial darkness given substance. The Abyss is not merely deep water; it is the cosmic void from which all things emerged and to which they must inevitably return."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Sage Erebus Voidwalker]], Last Scholar of the Abyssal Mysteries
+> — [[02_Worldbuilding/Lore/Deep Sage Erebus Voidwalker]], Last Scholar of the Abyssal Mysteries
 
 ## Overview
 
@@ -66,9 +64,9 @@ The establishment of the current containment protocols dates to the aftermath of
 
 The Abyss occupies a unique position in the collective consciousness of [[02_Worldbuilding/Places/Aquabyssos]], serving simultaneously as the foundation of philosophical inquiry, the source of existential terror, and the ultimate mystery that defines the limits of mortal knowledge. Its influence permeates every aspect of underwater culture, from the deepest religious beliefs to the most practical considerations of urban planning and resource allocation.
 
-In [[02_Worldbuilding/Places/Aquabyssos]] theology, the Abyss represents the primordial state from which all existence emerged and the inevitable destination to which all things return. The dominant religious framework, known as [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Cyclicalism]], teaches that consciousness itself originated in the depths of the void and that achieving enlightenment requires accepting one's fundamental connection to this cosmic darkness.
+In [[02_Worldbuilding/Places/Aquabyssos]] theology, the Abyss represents the primordial state from which all existence emerged and the inevitable destination to which all things return. The dominant religious framework, known as [[02_Worldbuilding/Lore/Abyssal Cyclicalism]], teaches that consciousness itself originated in the depths of the void and that achieving enlightenment requires accepting one's fundamental connection to this cosmic darkness.
 
-The cultural impact extends to art, literature, and music throughout [[02_Worldbuilding/Places/Aquabyssos]]. Abyssal themes appear in the most celebrated works, often expressing the tension between the desire to understand ultimate reality and the terror of losing one's individual identity in the process. The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/School of Deep Resonance]] has developed musical compositions designed to reproduce the harmonic frequencies detected in Abyssal research, creating pieces that listeners describe as simultaneously beautiful and deeply disturbing.
+The cultural impact extends to art, literature, and music throughout [[02_Worldbuilding/Places/Aquabyssos]]. Abyssal themes appear in the most celebrated works, often expressing the tension between the desire to understand ultimate reality and the terror of losing one's individual identity in the process. The [[02_Worldbuilding/Lore/School of Deep Resonance]] has developed musical compositions designed to reproduce the harmonic frequencies detected in Abyssal research, creating pieces that listeners describe as simultaneously beautiful and deeply disturbing.
 
 Philosophical schools throughout the kingdom debate the implications of Abyssal existence for questions of free will, consciousness, and the nature of reality itself. The [[Academy of Foundational Inquiry]] maintains that understanding the Abyss is essential to understanding the true nature of existence, while the [[Institute of Practical Philosophy]] argues that such knowledge is inherently dangerous to mortal minds and should be avoided entirely.
 
@@ -122,7 +120,7 @@ The [[Academy of Deep Understanding]] organized the most ambitious scholarly exp
 Founded in the aftermath of early Abyssal disasters, the Order represents the kingdom's most specialized institution for studying and monitoring the void. Led by **[[02_Worldbuilding/Places/High Vigil Keeper Thalassa Depthmind]]**, the Order maintains strict protocols for safe research and serves as the primary authority on Abyssal phenomena.
 
 ### Deep Sage Erebus Voidwalker
-The last known individual to maintain direct communication with Abyssal entities while retaining functional consciousness, **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Sage Erebus Voidwalker]]** serves as the kingdom's foremost expert on void psychology and cosmic philosophy.
+The last known individual to maintain direct communication with Abyssal entities while retaining functional consciousness, **[[02_Worldbuilding/Lore/Deep Sage Erebus Voidwalker]]** serves as the kingdom's foremost expert on void psychology and cosmic philosophy.
 
 ## Current State and Ongoing Conflicts
 
@@ -149,18 +147,18 @@ A new Abyssal breach point has opened near a major population center, and standa
 A team of scientists studying Abyssal phenomena has lost contact after reporting a breakthrough in communication with void entities. Characters are tasked with locating the researchers and determining their fate.
 
 ## Connected Topics and References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts that may have originated in Abyssal space
+- [[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts that may have originated in Abyssal space
 - [[02_Worldbuilding/Places/Abyssos Prime]] - The capital city built above the void
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] - Primordial entity possibly connected to Abyssal consciousness
+- [[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] - Primordial entity possibly connected to Abyssal consciousness
 - [[02_Worldbuilding/Mechanics/Depth Corruption System|02 Worldbuilding/Mechanics/Depth Corruption System]] - Game mechanics for handling void exposure
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Order of the Deep Vigil]] - Primary organization for Abyssal research and monitoring
+- [[02_Worldbuilding/Groups/Orders/Order of the Deep Vigil]] - Primary organization for Abyssal research and monitoring
 
 
 ## Connections
 
 - [[02_Worldbuilding/Lore/Kraken Territories]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Leviathan Graveyard]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- [[Leviathan Graveyard]]
+- [[The Deep Mother]]
 
 ## Player-Facing Summary
 
@@ -184,4 +182,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Cyclicalism]]
+- [[02_Worldbuilding/Lore/Abyssal Cyclicalism]]

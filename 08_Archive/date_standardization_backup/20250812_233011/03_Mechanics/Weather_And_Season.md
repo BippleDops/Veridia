@@ -42,7 +42,7 @@ obsidianUIMode: preview
 
 ## Cross-References
 - [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]]
-- [[09_Performance/Indexes/Location_Network_Graph.md|Location Network]]
+- [[13_Performance/Indexes/Location_Network_Graph.md|Location Network]]
 
 ## Player-Facing Summary
 

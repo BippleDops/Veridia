@@ -48,4 +48,4 @@ Notes
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/Aquabyssos Vault Readme]]
+- [[Aquabyssos Vault Readme]]

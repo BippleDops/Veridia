@@ -89,7 +89,7 @@ The chamber exists as a sphere of absolute darkness suspended within crystalline
 **Security**: Multiple authentication levels and consciousness pattern verification
 
 **Research Facilities**:
-- **The Synthesis Chambers**: Advanced consciousness transfer and integration equipment surpassing anything in the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Shadow Surgery Network]]
+- **The Synthesis Chambers**: Advanced consciousness transfer and integration equipment surpassing anything in the [[02_Worldbuilding/Places/Shadow Surgery Network]]
 - **Dimensional Research Array**: Equipment for studying shadow realm physics and consciousness properties
 - **The Prototype Studios**: Development space for new shadow integration techniques and consciousness manipulation procedures
 - **Memory Forge**: Specialized equipment for creating and modifying consciousness matrices with perfect authenticity
@@ -186,7 +186,7 @@ The chamber exists as a sphere of absolute darkness suspended within crystalline
 - **Project Manifestation**: Reality alteration through concentrated consciousness and shadow essence manipulation
 
 #### Technology Development
-**Equipment Innovation**: Advancement of consciousness manipulation technology beyond current [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Consciousness Manipulation Technology]] capabilities
+**Equipment Innovation**: Advancement of consciousness manipulation technology beyond current [[02_Worldbuilding/Lore/Consciousness Manipulation Technology]] capabilities
 
 **Prototype Development**: Testing of new consciousness transfer, modification, and enhancement equipment
 
@@ -407,6 +407,6 @@ Legends speak of The Umbral Nexus as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Umbral Nexus]]
+- [[02_Worldbuilding/Places/The Umbral Nexus]]
 
 <!-- enriched: true -->

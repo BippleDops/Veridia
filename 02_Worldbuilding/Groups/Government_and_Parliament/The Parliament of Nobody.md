@@ -5,9 +5,9 @@ alignment: Chaotic Neutral
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Shadow Government
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Null Chamber]]'
+headquarters: '[[02_Worldbuilding/Lore/The Null Chamber]]'
 influence: City-wide (Aquabyssos)
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Speaker of Silence]]'
+leader: '[[02_Worldbuilding/Lore/The Speaker of Silence]]'
 members: Unknown - estimated 200+ active representatives
 obsidianUIMode: preview
 status: complete
@@ -38,13 +38,13 @@ world: Aquabyssos
 *The Silent Democracy, The Forgotten Assembly, Voices of the Unheard*
 
 ## Overview
-The Parliament of Nobody represents the ultimate expression of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s shadow-touched nature - a governing body where identity itself becomes fluid and representatives speak for those who have been erased, forgotten, or never existed. This phantom legislature meets in the spaces between spaces, making decisions that affect the living world while remaining completely removed from conventional power structures. They are the voice of the voiceless, the representation of the unrepresented, and the democracy of the discarded.
+The Parliament of Nobody represents the ultimate expression of [[02_Worldbuilding/Places/Aquabyssos]]'s shadow-touched nature - a governing body where identity itself becomes fluid and representatives speak for those who have been erased, forgotten, or never existed. This phantom legislature meets in the spaces between spaces, making decisions that affect the living world while remaining completely removed from conventional power structures. They are the voice of the voiceless, the representation of the unrepresented, and the democracy of the discarded.
 
 ## History
 
 ### Foundation in Absence (350 Years Ago)
 **The Great Forgetting**
-- Formed when [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] first experimented with memory erasure
+- Formed when [[02_Worldbuilding/Lore/The Deep Mother]] first experimented with memory erasure
 - Original members were citizens whose existence was accidentally deleted
 - Created as a failsafe to represent those lost to shadow corruption
 - Established the principle that "non-existence does not negate citizenship"
@@ -52,17 +52,17 @@ The Parliament of Nobody represents the ultimate expression of [[vault_backup_20
 
 ### The Shadow Constitution (300 Years Ago)
 **Rights of the Non-Existent**
-- Drafted the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Charter of Null Rights]] governing those erased from reality
+- Drafted the [[02_Worldbuilding/Lore/Charter of Null Rights]] governing those erased from reality
 - Established voting procedures for incorporeal citizens
 - Created the position of Speaker of Silence to interface with physical world
-- Developed the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Court]] system for adjudicating erasure cases
+- Developed the [[02_Worldbuilding/Lore/Memory Court]] system for adjudicating erasure cases
 - Began secret negotiations with [[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
 
 ### Modern Invisibility (Last 150 Years)
 **The Persistent Opposition**
 - Operates as shadow counterpart to official [[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
 - Represents interests officially ignored by Aquabyssos government
-- Maintains complex relationship with [[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]
+- Maintains complex relationship with [[02_Worldbuilding/People/Shadow Duchess Nyx]]
 - Influences policy through supernatural lobbying and reality manipulation
 - Coordinates with surface world [[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]
 
@@ -70,12 +70,12 @@ The Parliament of Nobody represents the ultimate expression of [[vault_backup_20
 
 ### The Null Hierarchy
 **Leadership Through Negation**
-- **Speaker of Silence**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Speaker of Silence]] - voices the unvoiced
-- **Deputy of the Diminished**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Echo-Who-Was-Elena]] - represents the partially erased
-- **Minister of the Missing**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Nobody-Named-Marcus]] - advocates for the completely forgotten
-- **Archivist of Absence**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Unnamed Chronicler]] - records non-events
-- **Treasurer of Nothing**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Void-Keeper Null]] - manages resources that don't exist
-- **General of the Gone**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Commander Transparent]] - leads non-corporeal forces
+- **Speaker of Silence**: [[02_Worldbuilding/Lore/The Speaker of Silence]] - voices the unvoiced
+- **Deputy of the Diminished**: [[02_Worldbuilding/Lore/Echo-Who-Was-Elena]] - represents the partially erased
+- **Minister of the Missing**: [[02_Worldbuilding/Lore/Nobody-Named-Marcus]] - advocates for the completely forgotten
+- **Archivist of Absence**: [[02_Worldbuilding/Lore/The Unnamed Chronicler]] - records non-events
+- **Treasurer of Nothing**: [[02_Worldbuilding/Places/Void-Keeper Null]] - manages resources that don't exist
+- **General of the Gone**: [[02_Worldbuilding/Lore/Commander Transparent]] - leads non-corporeal forces
 
 ### Parliamentary Divisions
 
@@ -83,15 +83,15 @@ The Parliament of Nobody represents the ultimate expression of [[vault_backup_20
 **Representing the Barely-There**
 - Citizens whose memories are fading but not gone
 - Those affected by minor shadow corruption
-- Participants in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Tide Events]]
-- Residents of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]]
+- Participants in [[02_Worldbuilding/Lore/Memory Tide Events]]
+- Residents of [[02_Worldbuilding/Lore/Reality Merge Zones]]
 - Victims of temporal anomalies
 
 #### The Hall of Silence
 **Speaking for the Completely Erased**
 - Individuals deleted from all records and memories
-- Casualties of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s experiments
-- Lost explorers in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- Casualties of [[02_Worldbuilding/Lore/The Deep Mother]]'s experiments
+- Lost explorers in [[02_Worldbuilding/Places/The Hadal Depths]]
 - Temporal paradox victims
 - Those who chose self-erasure
 
@@ -109,7 +109,7 @@ The Parliament of Nobody represents the ultimate expression of [[vault_backup_20
 - Composed of the most thoroughly non-existent members
 - Has power to temporarily manifest for intervention
 - Can override physical world decisions through paradox creation
-- Serves as final check on [[vault_backup_20250813_073007/02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]'s power
+- Serves as final check on [[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]'s power
 
 ## Resources & Assets
 
@@ -133,7 +133,7 @@ The Parliament of Nobody represents the ultimate expression of [[vault_backup_20
 - Complete records of all erased citizens
 - Shadow copies of deleted government documents
 - Surveillance of [[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]] proceedings
-- Intelligence on [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]] activities
+- Intelligence on [[02_Worldbuilding/Lore/Deep Mother]] activities
 - Blackmail material on reality-anchored officials
 
 ## Current Operations
@@ -150,7 +150,7 @@ The Parliament of Nobody represents the ultimate expression of [[vault_backup_20
 #### Operation Remember the Forgotten
 - Gradually restore erased citizens to partial existence
 - Create hybrid beings bridging existence and non-existence
-- Challenge [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]'s monopoly on memory
+- Challenge [[02_Worldbuilding/Lore/Deep Mother]]'s monopoly on memory
 - Establish recognition rights for the non-corporeal
 - Force official government acknowledgment
 
@@ -178,31 +178,31 @@ The Parliament of Nobody represents the ultimate expression of [[vault_backup_20
 ## Relationships & Politics
 
 ### Uneasy Allies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]**: Mutual recognition but different goals
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]**: Exchange services for information
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Mutual recognition but different goals
+- **[[02_Worldbuilding/Places/Memory Farmers]]**: Exchange services for information
 - **[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]**: Coordinate across dimensional boundaries
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgotten Archive]]**: Share resources and knowledge
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Whisper Translation]]**: Communication bridge with surface world
+- **[[02_Worldbuilding/Lore/The Forgotten Archive]]**: Share resources and knowledge
+- **[[02_Worldbuilding/Places/Whisper Translation]]**: Communication bridge with surface world
 
 ### Institutional Rivals
 - **[[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]**: Competing visions of representation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Oppose authoritarian control
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Remembrancer General]]**: Fights their influence operations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Anchor Maintenance]]**: Prevents their manifestation attempts
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Official Memory Keepers]]**: Compete for narrative control
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Oppose authoritarian control
+- **[[02_Worldbuilding/Lore/The Remembrancer General]]**: Fights their influence operations
+- **[[02_Worldbuilding/Lore/Reality Anchor Maintenance]]**: Prevents their manifestation attempts
+- **[[02_Worldbuilding/Places/Official Memory Keepers]]**: Compete for narrative control
 
 ### Existential Enemies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]**: Source of erasure they're fighting
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Weapon Arms Race]]**: Threatens all shadow-touched beings
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgetting Bomb]]**: Ultimate weapon against their existence
+- **[[02_Worldbuilding/Lore/Deep Mother]]**: Source of erasure they're fighting
+- **[[02_Worldbuilding/Lore/The Memory Weapon Arms Race]]**: Threatens all shadow-touched beings
+- **[[02_Worldbuilding/Lore/The Forgetting Bomb]]**: Ultimate weapon against their existence
 - **[[Absolute Reality Faction]]**: Seeks to eliminate all non-corporeal citizens
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Paradox Elimination Squad]]**: Hunts reality anomalies they create
+- **[[02_Worldbuilding/Lore/Paradox Elimination Squad]]**: Hunts reality anomalies they create
 
 ### Complex Relationships
 - **[[02_Worldbuilding/People/The Real Marina|02 Worldbuilding/People/The Real Marina]]**: Potential ally but existence questions complicate
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Glaucus]]**: Sometimes votes their way without knowing
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Meadows Black Market]]**: Trading partner but moral concerns
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Portal Alpha]]**: Access route but security complications
+- **[[02_Worldbuilding/People/Senator Glaucus]]**: Sometimes votes their way without knowing
+- **[[02_Worldbuilding/Places/Memory Meadows Black Market]]**: Trading partner but moral concerns
+- **[[02_Worldbuilding/Places/Surface Portal Alpha]]**: Access route but security complications
 - **Common Citizens**: Those they serve but who can't perceive them
 
 ## Parliamentary Procedures
@@ -221,7 +221,7 @@ The Parliament of Nobody represents the ultimate expression of [[vault_backup_20
 - Emotional impressions rather than words
 - Reality distortions to convey complex concepts
 - Temporary manifestation for urgent business
-- Interface through [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Speaker of Silence]]
+- Interface through [[02_Worldbuilding/Lore/The Speaker of Silence]]
 
 ### Legislative Process
 1. **Issue Identification**: Problems affecting the non-existent
@@ -234,47 +234,47 @@ The Parliament of Nobody represents the ultimate expression of [[vault_backup_20
 ## Notable Members
 
 ### Leadership Council
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Speaker of Silence]]** - Primary interface with reality
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Echo-Who-Was-Elena]]** - Former citizen advocate
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Nobody-Named-Marcus]]** - Completely anonymous representative
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Unnamed Chronicler]]** - History keeper of the erased
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Commander Transparent]]** - Military strategy from non-existence
+- **[[02_Worldbuilding/Lore/The Speaker of Silence]]** - Primary interface with reality
+- **[[02_Worldbuilding/Lore/Echo-Who-Was-Elena]]** - Former citizen advocate
+- **[[02_Worldbuilding/Lore/Nobody-Named-Marcus]]** - Completely anonymous representative
+- **[[02_Worldbuilding/Lore/The Unnamed Chronicler]]** - History keeper of the erased
+- **[[02_Worldbuilding/Lore/Commander Transparent]]** - Military strategy from non-existence
 
 ### Constituency Representatives
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgotten Baker]]** - Speaks for erased working class
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Null-Noble Aristocrat]]** - Represents deleted upper class
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow-Child Advisory]]** - Advocates for never-born children  
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Disappeared Explorer]]** - Voice of lost adventurers
+- **[[02_Worldbuilding/Lore/The Forgotten Baker]]** - Speaks for erased working class
+- **[[02_Worldbuilding/Lore/Null-Noble Aristocrat]]** - Represents deleted upper class
+- **[[02_Worldbuilding/Lore/Shadow-Child Advisory]]** - Advocates for never-born children  
+- **[[02_Worldbuilding/Lore/The Disappeared Explorer]]** - Voice of lost adventurers
 - **[[Conceptual Being #7]]** - Pure thought representative
 
 ### Special Positions
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Reality Monitor]]** - Watches for excessive erasure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Paradox Legal Counsel]]** - Advises on impossible law
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Recovery Specialist]]** - Helps restore partial existence
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Null Ambassador]]** - Coordinates with other shadow factions
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Existence Referee]]** - Mediates reality disputes
+- **[[02_Worldbuilding/Lore/The Reality Monitor]]** - Watches for excessive erasure
+- **[[02_Worldbuilding/Lore/Paradox Legal Counsel]]** - Advises on impossible law
+- **[[02_Worldbuilding/Lore/Memory Recovery Specialist]]** - Helps restore partial existence
+- **[[02_Worldbuilding/Lore/Null Ambassador]]** - Coordinates with other shadow factions
+- **[[02_Worldbuilding/Lore/The Existence Referee]]** - Mediates reality disputes
 
 ## Headquarters & Holdings
 
 ### Primary Locations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Null Chamber]]**: Main parliamentary meeting space
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Archive of the Absent]]**: Repository of erased records
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Manifestation Chambers]]**: Temporary reality interface rooms
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silence Library]]**: Collection of unspoken knowledge
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Paradox Engine Room]]**: Devices for reality manipulation
+- **[[02_Worldbuilding/Lore/The Null Chamber]]**: Main parliamentary meeting space
+- **[[02_Worldbuilding/Lore/Archive of the Absent]]**: Repository of erased records
+- **[[02_Worldbuilding/Lore/Manifestation Chambers]]**: Temporary reality interface rooms
+- **[[02_Worldbuilding/Lore/The Silence Library]]**: Collection of unspoken knowledge
+- **[[02_Worldbuilding/Lore/Paradox Engine Room]]**: Devices for reality manipulation
 
 ### Secret Facilities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Restoration Center]]**: Helps recover lost identity
+- **[[02_Worldbuilding/Lore/The Memory Restoration Center]]**: Helps recover lost identity
 - **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Outposts in various locations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Null Communications Hub]]**: Coordinates with other realms
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Anchor Monitoring]]**: Tracks government erasure activities
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Existence Planning Office]]**: Strategies for manifestation
+- **[[02_Worldbuilding/Lore/The Null Communications Hub]]**: Coordinates with other realms
+- **[[02_Worldbuilding/Lore/Reality Anchor Monitoring]]**: Tracks government erasure activities
+- **[[02_Worldbuilding/Lore/The Existence Planning Office]]**: Strategies for manifestation
 
 ## Weaknesses & Vulnerabilities
 
 ### Existential Limitations
 - Cannot act directly in physical world without manifestation
-- Dependent on [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Speaker of Silence]] for reality interface
+- Dependent on [[02_Worldbuilding/Lore/The Speaker of Silence]] for reality interface
 - Vulnerable to memory restoration weapons
 - Limited by degree of their own erasure
 - Paradoxes can destabilize their existence
@@ -288,7 +288,7 @@ The Parliament of Nobody represents the ultimate expression of [[vault_backup_20
 
 ### External Threats
 - Government campaigns to complete erasure
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]'s expanding experiments
+- [[02_Worldbuilding/Lore/Deep Mother]]'s expanding experiments
 - Reality stabilization efforts that eliminate them
 - Public fear and misunderstanding
 - Technological advances in memory manipulation
@@ -326,7 +326,7 @@ The Parliament of Nobody represents the ultimate expression of [[vault_backup_20
 - Ultimate question of reality vs. conceptual governance
 
 ### Cross-Dimensional Elements
-- Coordination with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] shadow movements
+- Coordination with [[02_Worldbuilding/Places/Aethermoor]] shadow movements
 - Information exchange with surface world democracies
 - Reality anchor maintenance affecting multiple realms
 - Memory currency trading across dimensional boundaries
@@ -351,32 +351,32 @@ The Parliament of Nobody represents the ultimate expression of [[vault_backup_20
 ## Connected Elements
 
 ### Key NPCs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Speaker of Silence]]** - Primary contact point
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]** - Complex ally
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]** - Institutional opponent
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]** - Source of their condition
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgotten Archive]]** - Information partner
+- **[[02_Worldbuilding/Lore/The Speaker of Silence]]** - Primary contact point
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Complex ally
+- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]** - Institutional opponent
+- **[[02_Worldbuilding/Lore/Deep Mother]]** - Source of their condition
+- **[[02_Worldbuilding/Lore/The Forgotten Archive]]** - Information partner
 
 ### Related Locations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Null Chamber]]** - Parliamentary headquarters
+- **[[02_Worldbuilding/Lore/The Null Chamber]]** - Parliamentary headquarters
 - **[[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]** - Rival institution
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Meadows Black Market]]** - Trading post
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]]** - Areas of influence
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]** - Source of erasure
+- **[[02_Worldbuilding/Places/Memory Meadows Black Market]]** - Trading post
+- **[[02_Worldbuilding/Lore/Reality Merge Zones]]** - Areas of influence
+- **[[02_Worldbuilding/Places/The Hadal Depths]]** - Source of erasure
 
 ### Associated Quests
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Hearts and Minds]]** - Influence campaign
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Silent Majority]]** - Electoral politics
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Reality Referendum]]** - Democratic process
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - The Null Constitution]]** - Legal framework
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quest - Memory Restoration]]** - Identity recovery
+- **[[02_Worldbuilding/Quests/Quest - Hearts and Minds]]** - Influence campaign
+- **[[02_Worldbuilding/Lore/Quest - The Silent Majority]]** - Electoral politics
+- **[[02_Worldbuilding/Lore/Quest - Reality Referendum]]** - Democratic process
+- **[[02_Worldbuilding/Lore/Quest - The Null Constitution]]** - Legal framework
+- **[[02_Worldbuilding/Lore/Quest - Memory Restoration]]** - Identity recovery
 
 ### Important Items
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Charter of Null Rights]]** - Foundational document
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silent Vote]]** - Democratic power token
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Fragment Collections]]** - Evidence of erasure
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Anchor Overrides]]** - Manifestation devices
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Paradox Constitution]]** - Impossible but valid law
+- **[[02_Worldbuilding/Lore/Charter of Null Rights]]** - Foundational document
+- **[[02_Worldbuilding/Lore/The Silent Vote]]** - Democratic power token
+- **[[02_Worldbuilding/Lore/Memory Fragment Collections]]** - Evidence of erasure
+- **[[02_Worldbuilding/Lore/Reality Anchor Overrides]]** - Manifestation devices
+- **[[02_Worldbuilding/Lore/The Paradox Constitution]]** - Impossible but valid law
 
 ---
 
@@ -385,10 +385,10 @@ The Parliament of Nobody represents the ultimate expression of [[vault_backup_20
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
 
 ## Player-Facing Summary
 
@@ -403,7 +403,7 @@ Legends speak of The Parliament of Nobody as a nexus where past and present conv
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgetting Bomb]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Portal Alpha]]
+- [[02_Worldbuilding/Lore/Reality Merge Zones]]
+- [[02_Worldbuilding/Lore/The Forgetting Bomb]]
+- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Surface Portal Alpha]]

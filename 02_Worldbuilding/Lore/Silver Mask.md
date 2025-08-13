@@ -40,13 +40,13 @@ world: Aethermoor
 
 ## Overview
 
-Silver Mask represents the most enigmatic and potentially dangerous mystery figure operating within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s political, social, and criminal networks. Unlike traditional conspirators who maintain fixed identities and predictable patterns, Silver Mask operates as a shapeshifter of identity, apparently capable of assuming virtually any role within society while advancing a hidden agenda that spans decades and affects every level of Aethermoor civilization.
+Silver Mask represents the most enigmatic and potentially dangerous mystery figure operating within [[02_Worldbuilding/Places/Aethermoor]]'s political, social, and criminal networks. Unlike traditional conspirators who maintain fixed identities and predictable patterns, Silver Mask operates as a shapeshifter of identity, apparently capable of assuming virtually any role within society while advancing a hidden agenda that spans decades and affects every level of Aethermoor civilization.
 
-The investigation of Silver Mask has become one of the most complex and frustrating endeavors in the history of Aethermoor intelligence work. Evidence suggests that Silver Mask is not a single individual but rather a network identity shared among multiple operatives, a supernatural entity capable of possession or transformation, or a master manipulator with access to advanced identity-alteration technologies developed through connections to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silverscale Conspiracy]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]].
+The investigation of Silver Mask has become one of the most complex and frustrating endeavors in the history of Aethermoor intelligence work. Evidence suggests that Silver Mask is not a single individual but rather a network identity shared among multiple operatives, a supernatural entity capable of possession or transformation, or a master manipulator with access to advanced identity-alteration technologies developed through connections to [[02_Worldbuilding/Lore/The Silverscale Conspiracy]] and [[02_Worldbuilding/Lore/The Crimson Hand]].
 
 What makes Silver Mask particularly dangerous is not just the mystery of their identity, but the scope of their apparent influence. Intelligence reports suggest that Silver Mask has been involved in major political decisions, economic manipulations, and social movements over the past three decades, potentially shaping the course of Aethermoor history while remaining completely hidden from public awareness. Each investigation reveals new layers of deception, false identities, and manufactured evidence that makes determining Silver Mask's true nature increasingly difficult.
 
-The mystery deepens when considering that Silver Mask's activities appear to be connected to other major conspiracy networks operating across both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], suggesting that this phantom agent represents a critical element in cross-dimensional conspiracy activities related to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]] and the manipulation of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]].
+The mystery deepens when considering that Silver Mask's activities appear to be connected to other major conspiracy networks operating across both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], suggesting that this phantom agent represents a critical element in cross-dimensional conspiracy activities related to [[02_Worldbuilding/Lore/The Convergence Point]] and the manipulation of [[02_Worldbuilding/Lore/The Seven Shards]].
 
 ## The Mystery Layers
 
@@ -99,13 +99,13 @@ The mystery deepens when considering that Silver Mask's activities appear to be 
 **Forbidden Truth (Difficulty: Extreme)**
 - Silver Mask is connected to conspiracy networks spanning both worlds
 - The mask itself may be an artifact with supernatural identity-altering properties
-- Silver Mask's knowledge suggests access to information from [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- Silver Mask's knowledge suggests access to information from [[02_Worldbuilding/Places/Aquabyssos]]
 - Activities appear coordinated with other dimensional conspiracy agents
 - The identity may not be human but rather a dimensional entity or artificial construct
 
 **Ultimate Secrets:**
-- Crystal technology records showing the mask is made from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] materials
-- Communication logs indicating Silver Mask reports to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]] leadership
+- Crystal technology records showing the mask is made from [[02_Worldbuilding/Lore/Crystal Forest]] materials
+- Communication logs indicating Silver Mask reports to [[02_Worldbuilding/Lore/The Crimson Hand]] leadership
 - Memory manipulation evidence suggesting Silver Mask can alter witnesses' recollections
 - Dimensional research showing the mask allows the wearer to exist in multiple realities
 - Archives revealing Silver Mask has appeared throughout history under different names
@@ -219,10 +219,10 @@ The mystery deepens when considering that Silver Mask's activities appear to be 
 
 ## Conspiracy Network Connections
 
-### Relationship to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+### Relationship to [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
 
 **Financial Connections:**
-- Silver Mask identities have conducted business with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Banking House]]
+- Silver Mask identities have conducted business with [[02_Worldbuilding/Lore/Silverscale Banking House]]
 - Financial records suggest Silver Mask may be a key informant for Silverscale operations
 - Several Silver Mask business ventures received Silverscale funding
 - Investigation patterns suggest Silver Mask has access to Silverscale intelligence
@@ -235,7 +235,7 @@ The mystery deepens when considering that Silver Mask's activities appear to be 
 - Joint operations appear to be conducted with shared resources and planning
 - Cover identities used by both networks show similar sophistication levels
 
-### Connection to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
+### Connection to [[02_Worldbuilding/Lore/The Crimson Hand]]
 
 **Shadow Operations:**
 - Silver Mask has been observed in locations associated with Crimson Hand activities
@@ -245,10 +245,10 @@ The mystery deepens when considering that Silver Mask's activities appear to be 
 - Operational patterns match Crimson Hand methodology and strategic objectives
 
 **Cross-Dimensional Activities:**
-- Silver Mask appears to have knowledge of events in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- Silver Mask appears to have knowledge of events in [[02_Worldbuilding/Places/Aquabyssos]]
 - Communication technology used by Silver Mask exceeds normal Aethermoor capabilities
 - Information provided by Silver Mask suggests surveillance of convergence-related activities
-- Silver Mask identities have expressed unusual interest in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- Silver Mask identities have expressed unusual interest in [[02_Worldbuilding/Lore/The Seven Shards]]
 - Activities suggest Silver Mask is involved in convergence preparation operations
 
 ### Independent Agent Theory
@@ -268,7 +268,7 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 
 **Material Analysis:**
 - Constructed from highly refined silver with crystal inlay work
-- Crystal components appear to be sourced from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] specimens
+- Crystal components appear to be sourced from [[02_Worldbuilding/Lore/Crystal Forest]] specimens
 - Metal composition includes rare elements not commonly found in Aethermoor
 - Craftsmanship quality exceeds anything produced by known artisans
 - Durability exceeds normal expectations - no damage recorded despite decades of use
@@ -299,7 +299,7 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 **Dimensional Properties:**
 - May enable wearer to exist partially in multiple dimensions simultaneously
 - Could provide protection from reality-altering effects
-- Might allow travel between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- Might allow travel between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]
 - May enable communication with entities in other dimensional planes
 - Could facilitate manipulation of convergence-related phenomena
 
@@ -316,13 +316,13 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 
 **The Memory Merchant Connection:**
 - Silver Mask identities have been observed at locations associated with memory trading
-- Communication intercepts suggest Silver Mask is coordinating with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Merchant Valeria]]
+- Communication intercepts suggest Silver Mask is coordinating with [[02_Worldbuilding/Lore/Memory Merchant Valeria]]
 - Evidence points to Silver Mask having access to memory alteration technology
 - Investigation into whether Silver Mask uses memory manipulation to maintain identity deception
 - Cross-dimensional aspects suggest coordination with Aquabyssos-based operations
 
 **The Shard Seeker Investigation:**
-- Multiple Silver Mask identities have shown unusual interest in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- Multiple Silver Mask identities have shown unusual interest in [[02_Worldbuilding/Lore/The Seven Shards]]
 - Research indicates Silver Mask may be attempting to locate or influence Shard wielders
 - Activities suggest Silver Mask has knowledge of Shard locations and properties
 - Investigation ongoing into whether Silver Mask represents a threat to current Shard holders
@@ -331,25 +331,25 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 ### Investigation Approaches
 
 **Identity Verification:**
-- **Document Analysis**: Examine the creation and verification of identity documents using [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Types Guide]] methodologies
-- **Timeline Construction**: Map all confirmed Silver Mask appearances chronologically using [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of Crimes]] analysis techniques
-- **Resource Tracking**: Follow financial and material resources supporting each identity through [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silverscale Conspiracy]] banking networks
-- **Network Analysis**: Identify individuals who interact consistently with different identities, applying [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]] to connections
-- **Technology Investigation**: Study equipment and capabilities displayed by Silver Mask, potentially linking to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] advanced technologies
+- **Document Analysis**: Examine the creation and verification of identity documents using [[02_Worldbuilding/Lore/Evidence Types Guide]] methodologies
+- **Timeline Construction**: Map all confirmed Silver Mask appearances chronologically using [[02_Worldbuilding/Lore/Timeline of Crimes]] analysis techniques
+- **Resource Tracking**: Follow financial and material resources supporting each identity through [[02_Worldbuilding/Lore/The Silverscale Conspiracy]] banking networks
+- **Network Analysis**: Identify individuals who interact consistently with different identities, applying [[02_Worldbuilding/Lore/Evidence Chain Analysis]] to connections
+- **Technology Investigation**: Study equipment and capabilities displayed by Silver Mask, potentially linking to [[02_Worldbuilding/Lore/Crystal Forest]] advanced technologies
 
 **Pattern Recognition:**
-- **Behavioral Analysis**: Identify consistent behaviors across different identities using [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]] behavioral profiling
-- **Communication Patterns**: Analyze methods and timing of Silver Mask communications, cross-referencing with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]] communication signatures
-- **Target Selection**: Understand why Silver Mask chooses specific identities and activities, potentially linking to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]] strategic positioning
-- **Response Analysis**: Study how Silver Mask reacts to investigation pressure using [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Interrogation Techniques]] response modeling
-- **Predictive Modeling**: Attempt to predict future Silver Mask activities based on historical patterns, coordinating with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Trader]] pattern analysis specialists
+- **Behavioral Analysis**: Identify consistent behaviors across different identities using [[02_Worldbuilding/Lore/Investigation Procedures]] behavioral profiling
+- **Communication Patterns**: Analyze methods and timing of Silver Mask communications, cross-referencing with [[02_Worldbuilding/Lore/The Crimson Hand]] communication signatures
+- **Target Selection**: Understand why Silver Mask chooses specific identities and activities, potentially linking to [[02_Worldbuilding/Lore/The Great Convergence Prophecies]] strategic positioning
+- **Response Analysis**: Study how Silver Mask reacts to investigation pressure using [[02_Worldbuilding/Lore/Interrogation Techniques]] response modeling
+- **Predictive Modeling**: Attempt to predict future Silver Mask activities based on historical patterns, coordinating with [[02_Worldbuilding/Lore/Memory Trader]] pattern analysis specialists
 
 **Counter-Intelligence:**
-- **False Information**: Provide misleading information to test Silver Mask's intelligence sources, coordinating with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]] information networks
-- **Surveillance Deception**: Use false surveillance efforts to identify how Silver Mask monitors investigations, utilizing [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Emergency Bunker]] secure communications
-- **Identity Traps**: Create scenarios designed to force Silver Mask to reveal true capabilities, potentially involving [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Cult Practices]] spiritual detection methods
-- **Network Disruption**: Target support networks that enable Silver Mask operations, investigating connections to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Umbral Exchange]] resource networks
-- **Technological Countermeasures**: Develop tools designed to defeat Silver Mask's apparent advantages, potentially utilizing [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] detection crystals and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Magic Integration Practices]] protection methods
+- **False Information**: Provide misleading information to test Silver Mask's intelligence sources, coordinating with [[02_Worldbuilding/Lore/The Restoration Movement]] information networks
+- **Surveillance Deception**: Use false surveillance efforts to identify how Silver Mask monitors investigations, utilizing [[02_Worldbuilding/Lore/Silverscale Emergency Bunker]] secure communications
+- **Identity Traps**: Create scenarios designed to force Silver Mask to reveal true capabilities, potentially involving [[02_Worldbuilding/Lore/Deep Mother Cult Practices]] spiritual detection methods
+- **Network Disruption**: Target support networks that enable Silver Mask operations, investigating connections to [[02_Worldbuilding/Lore/Umbral Exchange]] resource networks
+- **Technological Countermeasures**: Develop tools designed to defeat Silver Mask's apparent advantages, potentially utilizing [[02_Worldbuilding/Lore/Crystal Forest]] detection crystals and [[02_Worldbuilding/Lore/Shadow Magic Integration Practices]] protection methods
 
 ## Red Herrings and False Leads
 
@@ -452,59 +452,59 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 ### Key NPCs and Organizations
 
 **Primary Investigation Networks:**
-- [[Investigative Chronicler Darius Truthseeker]] - Leading researcher on Silver Mask activities, coordinates with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of Crimes]] documentation efforts
+- [[Investigative Chronicler Darius Truthseeker]] - Leading researcher on Silver Mask activities, coordinates with [[02_Worldbuilding/Lore/Timeline of Crimes]] documentation efforts
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Deep-sea librarian maintaining records of cross-dimensional conspiracy activities
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Nerida Deepcurrent]] - Religious leader potentially involved in spiritual detection of identity manipulation
+- [[02_Worldbuilding/People/High Priestess Nerida Deepcurrent]] - Religious leader potentially involved in spiritual detection of identity manipulation
 
 **Conspiracy Network Connections:**
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silverscale Conspiracy]] - Financial network connections and operational coordination through banking systems
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]] - Shadow operations and cross-dimensional conspiracy activities, potential Silver Mask employer
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Director Hadrian Silverscale]] - Banking house leader potentially coordinating Silver Mask operations through [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Emergency Bunker]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]] - Financial network connections and operational coordination through banking systems
+- [[02_Worldbuilding/Lore/The Crimson Hand]] - Shadow operations and cross-dimensional conspiracy activities, potential Silver Mask employer
+- [[02_Worldbuilding/Lore/Director Hadrian Silverscale]] - Banking house leader potentially coordinating Silver Mask operations through [[02_Worldbuilding/Lore/Silverscale Emergency Bunker]]
 
 **Professional Service Providers:**
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Merchant Valeria]] - Possible connection to memory manipulation techniques and identity alteration services
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Trader]] - Networks that may facilitate Silver Mask's identity management and information acquisition
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aurelius Goldwave]] - Merchant prince whose networks may overlap with Silver Mask's resource requirements
+- [[02_Worldbuilding/Lore/Memory Merchant Valeria]] - Possible connection to memory manipulation techniques and identity alteration services
+- [[02_Worldbuilding/Lore/Memory Trader]] - Networks that may facilitate Silver Mask's identity management and information acquisition
+- [[02_Worldbuilding/Lore/Aurelius Goldwave]] - Merchant prince whose networks may overlap with Silver Mask's resource requirements
 
 **Potential Targets and Assets:**
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - High-value political target for Silver Mask influence operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]] - Scholar who may possess knowledge about identity magic and dimensional manipulation
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]] - Political organization potentially infiltrated or influenced by Silver Mask
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - High-value political target for Silver Mask influence operations
+- [[02_Worldbuilding/Lore/Thalassius the Wise]] - Scholar who may possess knowledge about identity magic and dimensional manipulation
+- [[02_Worldbuilding/Lore/The Restoration Movement]] - Political organization potentially infiltrated or influenced by Silver Mask
 
 ### Related Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] - Possible source of mask materials and crystal technology
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Archives]] - Location of historical records mentioning similar masked figures
+- [[02_Worldbuilding/Lore/Crystal Forest]] - Possible source of mask materials and crystal technology
+- [[02_Worldbuilding/Lore/Aethermoor Archives]] - Location of historical records mentioning similar masked figures
 - [[02_Worldbuilding/Places/The Shadow Nexus|02 Worldbuilding/Places/The Shadow Nexus]] - Possible connection to Crimson Hand coordination
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Emergency Bunker]] - Location where Silver Mask communications may be coordinated
+- [[02_Worldbuilding/Lore/Silverscale Emergency Bunker]] - Location where Silver Mask communications may be coordinated
 - [[02_Worldbuilding/Places/Lighthouse Peak|02 Worldbuilding/Places/Lighthouse Peak]] - Strategic location for cross-dimensional surveillance
 
 ### Important Artifacts and Evidence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] - Objects of intense interest to Silver Mask
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]] - Methodologies for investigating Silver Mask activities
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of Crimes]] - Historical framework for understanding Silver Mask's long-term activities
+- [[02_Worldbuilding/Lore/The Seven Shards]] - Objects of intense interest to Silver Mask
+- [[02_Worldbuilding/Lore/Evidence Chain Analysis]] - Methodologies for investigating Silver Mask activities
+- [[02_Worldbuilding/Lore/Timeline of Crimes]] - Historical framework for understanding Silver Mask's long-term activities
 - [[02_Worldbuilding/Items/Memory Crystals|02 Worldbuilding/Items/Memory Crystals]] - Technology potentially used for identity alteration
 - [[02_Worldbuilding/Items/Dimensional Communication Arrays|02 Worldbuilding/Items/Dimensional Communication Arrays]] - Equipment possibly used for cross-dimensional coordination
 
 ### Investigation Resources
 
 **Standard Investigative Tools:**
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]] - Standard methodologies for Silver Mask cases, adapted for identity-shifting targets
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Types Guide]] - Classification system for Silver Mask-related evidence and pattern recognition
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]] - Methodologies for connecting disparate Silver Mask activities across multiple identities
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Interrogation Techniques]] - Specialized approaches for witnesses affected by Silver Mask memory manipulation
+- [[02_Worldbuilding/Lore/Investigation Procedures]] - Standard methodologies for Silver Mask cases, adapted for identity-shifting targets
+- [[02_Worldbuilding/Lore/Evidence Types Guide]] - Classification system for Silver Mask-related evidence and pattern recognition
+- [[02_Worldbuilding/Lore/Evidence Chain Analysis]] - Methodologies for connecting disparate Silver Mask activities across multiple identities
+- [[02_Worldbuilding/Lore/Interrogation Techniques]] - Specialized approaches for witnesses affected by Silver Mask memory manipulation
 
 **Active Case Files:**
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/INV-001]] - Cross-references to early Silver Mask sighting reports
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/INV-004]] - Financial irregularities potentially linked to Silver Mask resource networks
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/INV-005]] - Missing persons cases that may involve Silver Mask identity theft
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of Crimes]] - Chronological analysis of Silver Mask activities and their broader impact
+- [[02_Worldbuilding/Lore/INV-001]] - Cross-references to early Silver Mask sighting reports
+- [[02_Worldbuilding/Lore/INV-004]] - Financial irregularities potentially linked to Silver Mask resource networks
+- [[02_Worldbuilding/Lore/INV-005]] - Missing persons cases that may involve Silver Mask identity theft
+- [[02_Worldbuilding/Lore/Timeline of Crimes]] - Chronological analysis of Silver Mask activities and their broader impact
 
 **Specialized Investigation Support:**
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alteration Consequences]] - Understanding and detecting memory manipulation effects
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corruption Tracking]] - Systems for monitoring supernatural influences on investigations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reputation System]] - Social network analysis for tracking Silver Mask's influence operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]] - Scientific analysis of potentially supernatural mask materials and properties
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Environmental Hazards]] - Assessment tools for investigating dangerous Silver Mask operation sites
+- [[02_Worldbuilding/Lore/Memory Alteration Consequences]] - Understanding and detecting memory manipulation effects
+- [[02_Worldbuilding/Lore/Corruption Tracking]] - Systems for monitoring supernatural influences on investigations
+- [[02_Worldbuilding/Lore/Reputation System]] - Social network analysis for tracking Silver Mask's influence operations
+- [[02_Worldbuilding/Lore/Crystal Forest]] - Scientific analysis of potentially supernatural mask materials and properties
+- [[02_Worldbuilding/Lore/Environmental Hazards]] - Assessment tools for investigating dangerous Silver Mask operation sites
 
 ---
 
@@ -514,10 +514,10 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Restoration Movement]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Silverscale Conspiracy]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 03 Council of Shadows]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Restoration Movement]]
+- [[02_Worldbuilding/Lore/The Silverscale Conspiracy]]
+- [[1-Session Journals/Aethermoor - Session 03 Council of Shadows]]
 
 ## Player-Facing Summary
 
@@ -541,25 +541,25 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aurelius Goldwave]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corruption Tracking]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Chain Analysis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/INV-001]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/INV-004]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Interrogation Techniques]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Investigation Procedures]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alteration Consequences]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reputation System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Magic Integration Practices]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Emergency Bunker]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Convergence Prophecies]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Timeline of Crimes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Umbral Exchange]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/Lore/Aurelius Goldwave]]
+- [[02_Worldbuilding/Lore/Corruption Tracking]]
+- [[02_Worldbuilding/Lore/Crystal Forest]]
+- [[02_Worldbuilding/Lore/Evidence Chain Analysis]]
+- [[02_Worldbuilding/Lore/INV-001]]
+- [[02_Worldbuilding/Lore/INV-004]]
+- [[02_Worldbuilding/Lore/Interrogation Techniques]]
+- [[02_Worldbuilding/Lore/Investigation Procedures]]
+- [[02_Worldbuilding/Lore/Memory Alteration Consequences]]
+- [[02_Worldbuilding/Lore/Reputation System]]
+- [[02_Worldbuilding/Lore/Shadow Magic Integration Practices]]
+- [[02_Worldbuilding/Lore/Silverscale Emergency Bunker]]
+- [[02_Worldbuilding/Lore/Thalassius the Wise]]
+- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/The Crimson Hand]]
+- [[02_Worldbuilding/Lore/The Great Convergence Prophecies]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/Timeline of Crimes]]
+- [[02_Worldbuilding/Lore/Umbral Exchange]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/Places/Aethermoor]]

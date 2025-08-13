@@ -28,21 +28,21 @@ world: Both
 *Where Ocean Commerce Flows Beneath the Waves*
 
 ## Overview
-The Deepwater Current represents the primary underwater trade route connecting surface ports with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]] and other aquatic civilizations, enabling cultural and economic exchange while facing threats from sea monsters, pirates, and the expanding influence of [[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]].
+The Deepwater Current represents the primary underwater trade route connecting surface ports with [[02_Worldbuilding/Places/Abyssos Prime]] and other aquatic civilizations, enabling cultural and economic exchange while facing threats from sea monsters, pirates, and the expanding influence of [[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]].
 
 ## Key Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Abyssos Prime]]** - Primary underwater destination and trading partner
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Floating Markets of Nereidios]]** - Surface connection and cultural exchange hub
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Deepwater Trading Consortium]]** - Route operators and diplomatic coordinators
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Fleet]]** - Primary threat to shipping and trade security
+- **[[02_Worldbuilding/Places/Abyssos Prime]]** - Primary underwater destination and trading partner
+- **[[02_Worldbuilding/Places/The Floating Markets of Nereidios]]** - Surface connection and cultural exchange hub
+- **[[02_Worldbuilding/Groups/The Deepwater Trading Consortium]]** - Route operators and diplomatic coordinators
+- **[[02_Worldbuilding/Groups/The Crimson Fleet]]** - Primary threat to shipping and trade security
 - **[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Ideological threat seeking route control
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priest Dagon Deepcaller]]** - Major threat to cultural exchange programs
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Kraken's Harbor]]** - Military threat requiring route diversification
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Naval protection and security provider
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]** - Major surface terminus and logistics center
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Tidecaller]]** - Controls access to certain current segments
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Temple of Eternal Tides]]** - Blesses voyages and provides diplomatic support
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Brotherhood of the Black Anchor]]** - Piracy threat and protection racket operations
+- **[[02_Worldbuilding/People/High Priest Dagon Deepcaller]]** - Major threat to cultural exchange programs
+- **[[02_Worldbuilding/Places/The Kraken's Harbor]]** - Military threat requiring route diversification
+- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Naval protection and security provider
+- **[[02_Worldbuilding/Places/Port Meridian]]** - Major surface terminus and logistics center
+- **[[02_Worldbuilding/People/The Tidecaller]]** - Controls access to certain current segments
+- **[[02_Worldbuilding/Places/The Temple of Eternal Tides]]** - Blesses voyages and provides diplomatic support
+- **[[02_Worldbuilding/Groups/The Brotherhood of the Black Anchor]]** - Piracy threat and protection racket operations
 
 ## History
 
@@ -93,6 +93,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Deepwater Current]]
+- [[02_Worldbuilding/Places/The Deepwater Current]]
 
 <!-- enriched: true -->

@@ -85,7 +85,7 @@ world: Both
 
 Alaric Stormwatch is a weathered guardian who has stood vigil at Beacon Point Lighthouse for over two decades. His half-elven heritage shows in his ageless features and pointed ears, though years of maritime weather have given him a permanent tan and a network of laugh lines around his sharp green eyes. Standing 5'10" with salt-and-pepper hair often tied back against ocean winds, he moves with the sure-footed grace of someone completely at home on rocky shores and storm-lashed cliffs.
 
-The lighthouse he tends is no ordinary beacon—its crystal core was a gift from [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]], enhanced with Aethermoor's pure crystal magic to pierce both natural darkness and shadow manifestations. The light serves as both navigation aid and early warning system, its patterns understood by sailors throughout the realm.
+The lighthouse he tends is no ordinary beacon—its crystal core was a gift from [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], enhanced with Aethermoor's pure crystal magic to pierce both natural darkness and shadow manifestations. The light serves as both navigation aid and early warning system, its patterns understood by sailors throughout the realm.
 
 Alaric's quarters atop the lighthouse are spartan but functional: charts of every current and reef for fifty miles, a collection of message bottles from grateful sailors, and a small shrine to Tempus, god of storms. His most prized possession is the Storm Mirror, a scrying device that lets him observe weather patterns and potential threats across the entire coast.
 
@@ -102,18 +102,18 @@ Alaric's quarters atop the lighthouse are spartan but functional: charts of ever
 ## Relationships
 
 **Allies:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Guard]]** - They rely on his lighthouse as a strategic observation post
+- **[[02_Worldbuilding/Lore/Crystal Guard]]** - They rely on his lighthouse as a strategic observation post
 - **Maritime Guild** - Sailors across both realms know and respect his warnings
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Old friends who share information about sea-based threats
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]]** - Collaborates on understanding natural vs. supernatural weather phenomena
+- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]** - Old friends who share information about sea-based threats
+- **[[02_Worldbuilding/People/Archdruid Thornweaver]]** - Collaborates on understanding natural vs. supernatural weather phenomena
 
 **Enemies:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Pressure Pirates]]** - His lighthouse interferes with their night raids
+- **[[02_Worldbuilding/People/The Pressure Pirates]]** - His lighthouse interferes with their night raids
 - **Shadow Smugglers** - Criminal organizations that prefer darkness for their operations
 - **Storm Cultists** - Fanatics who worship destructive weather and see his protective work as interference
 
 **Complicated:**
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Alaric has noticed strange signals being sent from ships associated with the ambassador
+- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Alaric has noticed strange signals being sent from ships associated with the ambassador
 - **The Storm Eternal** - The entity that granted him warlock powers is becoming more demanding
 
 ## Quest Hooks
@@ -182,13 +182,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lighthouse Keeper]]
+- [[02_Worldbuilding/People/Lighthouse Keeper]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Admiral Cassandra Stormwind]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]]
+- [[02_Worldbuilding/People/Archdruid Thornweaver]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]

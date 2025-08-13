@@ -154,7 +154,7 @@ Surface Traders provide adventure opportunities involving smuggling, diplomacy, 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
 
 
 ## History
@@ -196,6 +196,6 @@ Legends speak of Surface Traders as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Surface Traders]]
+- [[02_Worldbuilding/Places/Surface Traders]]
 
 <!-- enriched: true -->

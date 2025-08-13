@@ -28,17 +28,17 @@ world: Both
 *Voice of Authority in the Depths*
 
 > *"Every word that flows through these halls carries the weight of government, every message the power of law, every announcement the authority of democracy itself. Here, information becomes power, and power becomes destiny."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Places/Court Herald Titus]], Master Herald and Chief of Communications
+> — [[02_Worldbuilding/Places/Court Herald Titus]], Master Herald and Chief of Communications
 
 ## Overview
 
-The Herald's Chambers serve as the central communications hub for [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s democratic government, housed within an ornate complex of interconnected chambers where the vital work of official communication unfolds daily. Under the leadership of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Court Herald Titus]], this facility manages all official government announcements, parliamentary proceedings documentation, diplomatic correspondence, and the vast network of information that keeps the realm's complex political system functioning. The chambers feature advanced acoustic engineering that amplifies voices across vast distances, message tubes that carry documents throughout the government complex, and archive rooms containing the official record of democratic discourse in the depths.
+The Herald's Chambers serve as the central communications hub for [[02_Worldbuilding/Places/Aquabyssos]]'s democratic government, housed within an ornate complex of interconnected chambers where the vital work of official communication unfolds daily. Under the leadership of [[02_Worldbuilding/Places/Court Herald Titus]], this facility manages all official government announcements, parliamentary proceedings documentation, diplomatic correspondence, and the vast network of information that keeps the realm's complex political system functioning. The chambers feature advanced acoustic engineering that amplifies voices across vast distances, message tubes that carry documents throughout the government complex, and archive rooms containing the official record of democratic discourse in the depths.
 
 ## History and Development
 
 ### The Communication Crisis
 **Period**: 200 years ago, when parliamentary democracy was still stabilizing  
-**Problem**: Massive communication breakdowns across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s vast territories  
+**Problem**: Massive communication breakdowns across [[02_Worldbuilding/Places/Aquabyssos]]'s vast territories  
 **Chaos**: Official messages lost, laws misinterpreted, diplomatic disasters  
 **Fragmentation**: Government authority weakening due to communication failures  
 **Need**: Desperate need for professional, centralized communication system
@@ -60,12 +60,12 @@ The Herald's Chambers serve as the central communications hub for [[vault_backup
 ### Early Operations
 **Period**: First 50 years of operations under Titus's leadership  
 **Success**: Dramatic improvement in government communication efficiency  
-**Expansion**: Growing network of herald stations throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]  
+**Expansion**: Growing network of herald stations throughout [[02_Worldbuilding/Places/Aquabyssos]]  
 **Recognition**: Other underwater realms adopting similar communication systems  
 **Integration**: Herald system becoming essential part of democratic process
 
 ### Modern Era
-**Current Status**: Indispensable component of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] government operations  
+**Current Status**: Indispensable component of [[02_Worldbuilding/Places/Aquabyssos]] government operations  
 **Evolution**: Continuous adaptation to changing political and technological needs  
 **Influence**: Herald's Chambers affecting policy through information management  
 **Network**: Vast network of herald stations maintaining realm-wide communication  
@@ -83,7 +83,7 @@ The Herald's Chambers serve as the central communications hub for [[vault_backup
 **Ceremony**: Formal ceremonies marking important government decisions
 
 #### The Master's Podium
-**Position**: Central raised platform where [[vault_backup_20250813_073007/02_Worldbuilding/Places/Court Herald Titus]] delivers official statements  
+**Position**: Central raised platform where [[02_Worldbuilding/Places/Court Herald Titus]] delivers official statements  
 **Authority**: Symbol of governmental voice and official communication  
 **Technology**: Built-in amplification ensuring clear delivery to entire chamber  
 **Records**: Integrated recording system preserving all official announcements  
@@ -106,7 +106,7 @@ The Herald's Chambers serve as the central communications hub for [[vault_backup
 **Efficiency**: Dramatically reducing time needed for inter-departmental communication
 
 #### The Herald Station Network
-**Coverage**: Herald stations in every major settlement throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]  
+**Coverage**: Herald stations in every major settlement throughout [[02_Worldbuilding/Places/Aquabyssos]]  
 **Function**: Local centers for receiving and distributing government communications  
 **Staffing**: Trained herald officers managing local communication needs  
 **Coordination**: Regular communication with central chambers ensuring consistency  
@@ -133,11 +133,11 @@ The Herald's Chambers serve as the central communications hub for [[vault_backup
 **Scribes**: Team of expert scribes recording every word of parliamentary sessions  
 **Transcription**: Advanced transcription techniques ensuring accurate records  
 **Distribution**: Systems for distributing parliamentary records to interested parties  
-**History**: Permanent record of democratic decision-making in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**History**: Permanent record of democratic decision-making in [[02_Worldbuilding/Places/Aquabyssos]]
 
 #### The Legal Document Center
 **Purpose**: Specialized facility for managing legal documents and court communications  
-**Integration**: Close coordination with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] court system  
+**Integration**: Close coordination with [[02_Worldbuilding/Places/Aquabyssos]] court system  
 **Accuracy**: Exceptional accuracy requirements for legal document handling  
 **Security**: Enhanced security protecting sensitive legal communications  
 **Service**: Document services supporting legal proceedings throughout the realm
@@ -147,7 +147,7 @@ The Herald's Chambers serve as the central communications hub for [[vault_backup
 ### The Master Herald Office
 
 #### Leadership Structure
-**Master Herald**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Court Herald Titus]], overall director of all communication operations  
+**Master Herald**: [[02_Worldbuilding/Places/Court Herald Titus]], overall director of all communication operations  
 **Deputy Heralds**: Senior staff managing major operational divisions  
 **Department Chiefs**: Specialists leading specific communication functions  
 **Field Coordinators**: Officers managing herald station networks  
@@ -186,7 +186,7 @@ The Herald's Chambers serve as the central communications hub for [[vault_backup
 #### The Emergency Communication Division
 **Readiness**: 24-hour readiness for emergency government communications  
 **Speed**: Rapid response systems for crisis communication  
-**Coverage**: Ability to reach any location in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] within hours  
+**Coverage**: Ability to reach any location in [[02_Worldbuilding/Places/Aquabyssos]] within hours  
 **Coordination**: Close coordination with emergency services and military  
 **Reliability**: Redundant systems ensuring emergency messages always get through
 
@@ -266,7 +266,7 @@ The Herald's Chambers serve as the central communications hub for [[vault_backup
 ## Archives and Historical Records
 
 ### The Great Archive
-**Contents**: Complete records of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] government communications for 200 years  
+**Contents**: Complete records of [[02_Worldbuilding/Places/Aquabyssos]] government communications for 200 years  
 **Organization**: Sophisticated organization allowing rapid access to any historical document  
 **Preservation**: Advanced preservation techniques protecting documents for future generations  
 **Research**: Research facilities for scholars studying government and political history  
@@ -304,7 +304,7 @@ The Herald's Chambers serve as the central communications hub for [[vault_backup
 
 ### Future Development
 **Planning**: Strategic planning for future communication needs  
-**Expansion**: Plans for expanding communication networks throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]  
+**Expansion**: Plans for expanding communication networks throughout [[02_Worldbuilding/Places/Aquabyssos]]  
 **Technology**: Investment in advanced communication technology development  
 **Training**: Advanced training programs preparing staff for future challenges  
 **Vision**: Long-term vision for enhanced government communication capabilities
@@ -391,7 +391,7 @@ The Herald's Chambers serve as the central communications hub for [[vault_backup
 **Intelligence**: Central location for gathering intelligence about government activities  
 **Connections**: Connections throughout government and international community  
 **Archives**: Access to historical information about political events  
-**Communication**: Ability to communicate with officials throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]  
+**Communication**: Ability to communicate with officials throughout [[02_Worldbuilding/Places/Aquabyssos]]  
 **Influence**: Potential influence over information flow and government communication
 
 ### Political Intrigue
@@ -408,12 +408,12 @@ The Herald's Chambers serve as the central communications hub for [[vault_backup
 **Political Context**: Understanding political context through government communications  
 **Democratic Values**: Representing democratic values and transparent government
 
-The Herald's Chambers represent the vital communication infrastructure that makes democratic government possible in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], where [[vault_backup_20250813_073007/02_Worldbuilding/Places/Court Herald Titus]]'s dedication to professional excellence ensures that the voice of democracy reaches every corner of the realm. Through advanced communication systems, meticulous record-keeping, and unwavering commitment to accuracy, this facility serves as the nervous system of underwater democracy, proving that even in the depths, information remains the foundation of free government.
+The Herald's Chambers represent the vital communication infrastructure that makes democratic government possible in [[02_Worldbuilding/Places/Aquabyssos]], where [[02_Worldbuilding/Places/Court Herald Titus]]'s dedication to professional excellence ensures that the voice of democracy reaches every corner of the realm. Through advanced communication systems, meticulous record-keeping, and unwavering commitment to accuracy, this facility serves as the nervous system of underwater democracy, proving that even in the depths, information remains the foundation of free government.
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]]
+- [[02_Worldbuilding/Places/The Inverse Palace]]
 
 ## Player-Facing Summary
 
@@ -435,6 +435,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Court Herald Titus]]
+- [[02_Worldbuilding/Places/Court Herald Titus]]
 
 <!-- enriched: true -->

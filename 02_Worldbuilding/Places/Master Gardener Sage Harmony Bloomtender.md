@@ -62,11 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Master Gardener Sage Harmony Bloomtender]]
+- [[02_Worldbuilding/Places/Master Gardener Sage Harmony Bloomtender]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
+- [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]

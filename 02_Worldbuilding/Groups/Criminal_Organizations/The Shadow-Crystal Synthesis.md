@@ -3,9 +3,9 @@ alignment: Chaotic Neutral (Science over Ethics)
 created: '2025-08-09'
 created_by: auto-stub
 faction_type: Research Collective
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Fusion Laboratory]] (hidden dimensional pocket)'
+headquarters: '[[02_Worldbuilding/Lore/The Fusion Laboratory]] (hidden dimensional pocket)'
 influence: Secretive but Growing
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Doctor Prism Voidweaver]]'
+leader: '[[02_Worldbuilding/Lore/Doctor Prism Voidweaver]]'
 members: ~150 researchers and test subjects
 purpose: Merge shadow and crystal energies
 status: complete
@@ -39,14 +39,14 @@ world: Both Aethermoor & Aquabyssos
 *Pioneers of Forbidden Integration, Masters of Impossible Science*
 
 ## Overview
-The Shadow-Crystal Synthesis represents the cutting edge of dangerous magical research, dedicated to the seemingly impossible task of successfully combining the crystal corruption of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] with the shadow energies of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Most scholars in both worlds consider such fusion theoretically impossible and practically suicidal, but the Synthesis has achieved breakthrough after breakthrough, creating new forms of magic, technology, and life that transcend the limitations of either realm alone.
+The Shadow-Crystal Synthesis represents the cutting edge of dangerous magical research, dedicated to the seemingly impossible task of successfully combining the crystal corruption of [[02_Worldbuilding/Places/Aethermoor]] with the shadow energies of [[02_Worldbuilding/Places/Aquabyssos]]. Most scholars in both worlds consider such fusion theoretically impossible and practically suicidal, but the Synthesis has achieved breakthrough after breakthrough, creating new forms of magic, technology, and life that transcend the limitations of either realm alone.
 
 ## Core Theory
 ### The Unity Hypothesis
 - Shadow and crystal energies are opposite manifestations of the same fundamental force
 - Current "corruption" in both worlds results from incomplete understanding
 - Proper synthesis can create stable hybrid energies more powerful than either alone
-- Both [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] are incomplete without their opposite
+- Both [[02_Worldbuilding/Lore/The Seven Shards]] and [[02_Worldbuilding/Lore/The Deep Mother]] are incomplete without their opposite
 - The ultimate goal is creating a new form of existence transcending both realms
 
 ### The Synthesis Process
@@ -58,11 +58,11 @@ The Shadow-Crystal Synthesis represents the cutting edge of dangerous magical re
 
 ## Organization Structure
 ### Research Council
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Doctor Prism Voidweaver]]**: Chief Researcher, expert in both energy types
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professor Shadow-Light]]**: Theoretical physicist specializing in impossible combinations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Chaos-Crystal]]**: Engineer creating synthesis-powered devices
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Biomancer Flux]]**: Researcher working on synthesis-enhanced life forms
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Dual Mind]]**: Consciousness existing in both shadow and crystal states
+- **[[02_Worldbuilding/Lore/Doctor Prism Voidweaver]]**: Chief Researcher, expert in both energy types
+- **[[02_Worldbuilding/Lore/Professor Shadow-Light]]**: Theoretical physicist specializing in impossible combinations
+- **[[02_Worldbuilding/People/Master Artificer Chaos-Crystal]]**: Engineer creating synthesis-powered devices
+- **[[02_Worldbuilding/Lore/Biomancer Flux]]**: Researcher working on synthesis-enhanced life forms
+- **[[02_Worldbuilding/Lore/The Dual Mind]]**: Consciousness existing in both shadow and crystal states
 
 ### Research Divisions
 #### Theoretical Department
@@ -118,23 +118,23 @@ The Shadow-Crystal Synthesis represents the cutting edge of dangerous magical re
 
 ## Relationships & Politics
 ### Research Collaborations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]**: Supplies rare materials from both realms
+- **[[02_Worldbuilding/Groups/The Liminal Trading Company]]**: Supplies rare materials from both realms
 - **Independent Scholars**: Occasional consultation on specific problems
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Void Watchers]]**: Tense relationship over reality stability concerns
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Convergence Seekers]]**: Share some theoretical foundations
+- **[[02_Worldbuilding/Groups/The Void Watchers]]**: Tense relationship over reality stability concerns
+- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Share some theoretical foundations
 - **Desperate Governments**: Secret contracts for synthesis-powered solutions
 
 ### Opposition & Threats
 - **Traditional Researchers**: View synthesis as pseudoscience or heresy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]**: Consider them ultimate corruption
+- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Consider them ultimate corruption
 - **Safety Regulators**: Governments trying to shut down dangerous experiments
 - **Reality Purists**: Those who believe energies should remain separate
 - **Failed Experiments**: Their own creations turned hostile
 
 ### Complicated Relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]**: Interested in synthesis applications but wary of risks
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]**: May understand their true potential
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Debates about Deep Mother's relationship to crystals
+- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Interested in synthesis applications but wary of risks
+- **[[02_Worldbuilding/People/The Crimson Sage]]**: May understand their true potential
+- **[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Debates about Deep Mother's relationship to crystals
 - **[[Keeper of the Shattered Crown, Marcus Crystalvein]]**: Potential subject for synthesis experiments
 
 ## Membership Structure & Requirements
@@ -170,7 +170,7 @@ The Shadow-Crystal Synthesis represents the cutting edge of dangerous magical re
 - Enhancement treatments combining both energy types via [[02_Worldbuilding/Procedures/Dual Integration Therapy|02 Worldbuilding/Procedures/Dual Integration Therapy]]
 - Consultation on problems involving [[02_Worldbuilding/Phenomena/Shadow-Crystal Interactions|02 Worldbuilding/Phenomena/Shadow Crystal Interactions]]
 - Analysis of artifacts or phenomena involving both energies using [[02_Worldbuilding/Tools/Dual-State Sensors|02 Worldbuilding/Tools/Dual State Sensors]]
-- Training in synthesis theory and safe handling procedures at [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Fusion Laboratory]]
+- Training in synthesis theory and safe handling procedures at [[02_Worldbuilding/Lore/The Fusion Laboratory]]
 - [[02_Worldbuilding/Services/Reality Stabilization|02 Worldbuilding/Services/Reality Stabilization]] for areas affected by dual corruption
 - [[02_Worldbuilding/Products/Null-State Materials|02 Worldbuilding/Products/Null State Materials]] immune to both corruption types
 - [[02_Worldbuilding/Treatments/Synthesis Consciousness Transfer|02 Worldbuilding/Treatments/Synthesis Consciousness Transfer]] for terminal patients
@@ -299,21 +299,21 @@ The Synthesis maintains detailed records of every failed experiment, both as sci
 #### The Utilitarians
 - Greatest good for greatest number justifies individual sacrifices
 - Focus on potential benefits to both worlds from successful synthesis
-- Led by [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Chaos-Crystal]] and engineering-minded researchers
+- Led by [[02_Worldbuilding/People/Master Artificer Chaos-Crystal]] and engineering-minded researchers
 - Sometimes dismiss individual consent in favor of species-wide benefits
 - Support accelerated research timelines due to urgent corruption crises
 
 #### The Deontologists
 - Certain actions wrong regardless of consequences
 - Emphasize individual rights and informed consent
-- Led by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professor Shadow-Light]] and theoretical researchers
+- Led by [[02_Worldbuilding/Lore/Professor Shadow-Light]] and theoretical researchers
 - Often slow progress by insisting on extensive ethical review
 - Oppose human experimentation even for world-saving research
 
 #### The Virtue Ethicists
 - Focus on character and intentions of researchers rather than outcomes
 - Emphasize developing wisdom and moral judgment in synthesis practitioners
-- Popular among [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Dual Mind]] and consciousness-focused researchers
+- Popular among [[02_Worldbuilding/Lore/The Dual Mind]] and consciousness-focused researchers
 - Support mentorship programs and ethical development training
 - Believe good people will naturally make good decisions
 
@@ -383,12 +383,12 @@ Working toward controlled merger of shadow and crystal realms:
 - Debates about maintaining baseline human populations
 
 ### Leadership Succession Crisis
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Doctor Prism Voidweaver]] is showing signs of synthesis-induced psychological instability, creating uncertainty about organizational leadership. The Research Council is split between candidates with radically different visions:
+[[02_Worldbuilding/Lore/Doctor Prism Voidweaver]] is showing signs of synthesis-induced psychological instability, creating uncertainty about organizational leadership. The Research Council is split between candidates with radically different visions:
 
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professor Shadow-Light]]**: Favors cautious, ethically-guided research
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Chaos-Crystal]]**: Pushes for rapid practical application
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Dual Mind]]**: Represents synthesis-enhanced researchers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Biomancer Flux]]**: Advocates for biological focus over technological
+- **[[02_Worldbuilding/Lore/Professor Shadow-Light]]**: Favors cautious, ethically-guided research
+- **[[02_Worldbuilding/People/Master Artificer Chaos-Crystal]]**: Pushes for rapid practical application
+- **[[02_Worldbuilding/Lore/The Dual Mind]]**: Represents synthesis-enhanced researchers
+- **[[02_Worldbuilding/Lore/Biomancer Flux]]**: Advocates for biological focus over technological
 
 ### External Pressure Management
 The organization faces increasing pressure from multiple sources:
@@ -452,10 +452,10 @@ Ethical obligations toward experimental subjects:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Threshold Chambers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/Places/The Threshold Chambers]]
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
@@ -470,7 +470,7 @@ Legends speak of The Shadow Crystal Synthesis as a nexus where past and present 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Void Watchers]]
+- [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/Groups/The Void Watchers]]
 - [[Keeper of the Shattered Crown, Marcus Crystalvein]]

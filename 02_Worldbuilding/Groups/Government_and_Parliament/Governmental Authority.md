@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
+- [[02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
+- [[02_Worldbuilding/Lore/Aquabyssos Trade Seal]]
 
 ## Player-Facing Summary
 

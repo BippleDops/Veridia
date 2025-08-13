@@ -29,21 +29,21 @@ world: Both
 *Where Divine Will Flows Through Sacred Crystal*
 
 ## Overview
-The Crystal Cathedral serves as the spiritual headquarters of the [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]], combining religious devotion with crystal purification rituals. This magnificent structure channels divine energy through purified crystals to heal corruption and maintain the sacred balance between magical power and spiritual purity.
+The Crystal Cathedral serves as the spiritual headquarters of the [[02_Worldbuilding/People/Crystal Wardens]], combining religious devotion with crystal purification rituals. This magnificent structure channels divine energy through purified crystals to heal corruption and maintain the sacred balance between magical power and spiritual purity.
 
 ## Key Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]** - Primary occupants and spiritual guardians
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]** - Chief religious authority and corruption hunter
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Hive Collective]]** - Primary target for purification missions
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Stock Exchange]]** - Provides blessed crystals for legitimate trade
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Research partnerships on crystal properties
+- **[[02_Worldbuilding/People/Crystal Wardens]]** - Primary occupants and spiritual guardians
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Chief religious authority and corruption hunter
+- **[[02_Worldbuilding/Places/The Crystal Hive Collective]]** - Primary target for purification missions
+- **[[02_Worldbuilding/Places/The Crystal Stock Exchange]]** - Provides blessed crystals for legitimate trade
+- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Research partnerships on crystal properties
 - **[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Primary enemy corrupting crystal trade
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]** - Mysterious figure requiring careful monitoring
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Vaults]]** - Source of ancient purification techniques
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Screaming Battleground]]** - Site of major consecration efforts
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]** - Theological alliance against crystal corruption
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Interfaith cooperation and mutual support
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Iron Pits of Malachar]]** - Target for liberation and purification missions
+- **[[02_Worldbuilding/People/The Crimson Sage]]** - Mysterious figure requiring careful monitoring
+- **[[02_Worldbuilding/Places/The Sundered Vaults]]** - Source of ancient purification techniques
+- **[[02_Worldbuilding/Places/The Screaming Battleground]]** - Site of major consecration efforts
+- **[[02_Worldbuilding/Groups/Purist Coalition]]** - Theological alliance against crystal corruption
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Interfaith cooperation and mutual support
+- **[[02_Worldbuilding/Places/The Iron Pits of Malachar]]** - Target for liberation and purification missions
 
 ## History
 
@@ -94,11 +94,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]
+- [[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/People/Crystal Wardens]]

@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[02_Worldbuilding/Places/Tethyan Hegemony]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tethyan Hegemony]]
+- [[02_Worldbuilding/Places/Tethyan Hegemony]]
 
 ## Player-Facing Summary
 

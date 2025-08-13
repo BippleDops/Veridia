@@ -29,7 +29,7 @@ world: Both
 *Epic Encounters Across the Merged Realms*
 
 > *"A true master of combat adapts to every situation. When you think you've won, that's when the real fight begins. I've seen creatures transform three times in a single battle, each form more dangerous than the last. Never assume victory until the threat breathes no more."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Combat Master Surge Battlewright]], Veteran of the Convergence Wars
+> — [[02_Worldbuilding/Lore/Combat Master Surge Battlewright]], Veteran of the Convergence Wars
 
 ## Overview
 
@@ -788,35 +788,35 @@ Recent convergence events have created particularly complex multi-phase encounte
 ## Connected Systems and Cross-References
 
 ### Related Mechanics
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Environmental Hazards]]**: Phase-based environmental complications
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Initiative Tracker]]**: Managing complex multi-phase turn orders
+- **[[02_Worldbuilding/Lore/Environmental Hazards]]**: Phase-based environmental complications
+- **[[02_Worldbuilding/Lore/Initiative Tracker]]**: Managing complex multi-phase turn orders
 - **[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Psychological effects of reality-warping phase transitions
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alterations]]**: Memory-based phase triggers and effects
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Distortion Zones]]**: Time-manipulation phase mechanics
+- **[[02_Worldbuilding/Lore/Memory Alterations]]**: Memory-based phase triggers and effects
+- **[[02_Worldbuilding/Lore/Temporal Distortion Zones]]**: Time-manipulation phase mechanics
 
 ### Key Encounters
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]**: Ultimate Aquabyssos multi-phase encounter
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Sovereign]]**: Aethermoor's corrupted ruler multi-phase fight
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Entity]]**: Reality-merger final boss encounter
+- **[[02_Worldbuilding/Lore/The Deep Mother]]**: Ultimate Aquabyssos multi-phase encounter
+- **[[02_Worldbuilding/Lore/The Crystal Sovereign]]**: Aethermoor's corrupted ruler multi-phase fight
+- **[[02_Worldbuilding/Lore/The Convergence Entity]]**: Reality-merger final boss encounter
 - **[[Marina's True Form]]**: Identity revelation multi-phase sequence
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Collective]]**: Multiple interconnected phase bosses
+- **[[02_Worldbuilding/Lore/Shadow Collective]]**: Multiple interconnected phase bosses
 
 ### Supporting Systems
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Boss Monster Creation Guidelines]]**: Framework for designing multi-phase bosses
+- **[[02_Worldbuilding/Lore/Boss Monster Creation Guidelines]]**: Framework for designing multi-phase bosses
 - **[[Environmental Combat Rules]]**: Phase-based terrain modifications
 - **[[Epic Encounter Scaling]]**: Adjusting encounters for different party levels
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Narrative Combat Integration]]**: Weaving story into mechanical progression
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Phase Transition Special Effects]]**: Dramatic presentation guidelines
+- **[[02_Worldbuilding/Lore/Narrative Combat Integration]]**: Weaving story into mechanical progression
+- **[[02_Worldbuilding/Lore/Phase Transition Special Effects]]**: Dramatic presentation guidelines
 
 Multi-phase boss fights serve as climactic encounters that combine mechanical challenge with narrative payoff, creating memorable moments that define character arcs and campaign storylines while showcasing the unique properties and dangers of the merged realms.
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Initiative Tracker]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random Encounters]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Compass Quest]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
+- [[02_Worldbuilding/Lore/Initiative Tracker]]
+- [[02_Worldbuilding/Lore/Random Encounters]]
+- [[02_Worldbuilding/Places/Compass Quest]]
+- [[1-Session Journals/Aethermoor - Session 05 The Queens Madness]]
 
 ## Player-Facing Summary
 
@@ -841,4 +841,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Distortion Zones]]
+- [[02_Worldbuilding/Lore/Temporal Distortion Zones]]

@@ -484,7 +484,7 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 - [[Elder Kythara the Wise]] - Community elder and keeper of cultural wisdom
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Primary homeland where these customs are practiced
+- [[02_Worldbuilding/Places/Aquabyssos]] - Primary homeland where these customs are practiced
 - [[02_Worldbuilding/Places/The Deep Academy|02 Worldbuilding/Places/The Deep Academy]] - Educational institution teaching cultural traditions
 - [[The Cultural Heritage Center]] - Museum and preservation site for cultural artifacts
 - [[The Community Feast Halls]] - Social gathering spaces for cultural celebrations
@@ -495,10 +495,10 @@ The Cultural Codex of Aquabyssos represents the accumulated wisdom of millennia 
 - [[The Deep Mother's Temple]] - Religious organization maintaining spiritual traditions
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Social Customs]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Festival Calendar Complete]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Guild Traditions Compendium]]
+- [[02_Worldbuilding/Lore/Aethermoor Social Customs]]
+- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]]
+- [[02_Worldbuilding/Lore/Festival Calendar Complete]]
+- [[02_Worldbuilding/Lore/Guild Traditions Compendium]]
 
 ## Player-Facing Summary
 

@@ -5,9 +5,9 @@ alignment: Lawful Neutral (Ethical Framework)
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Shadow Society Regulatory Body
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Council of Shadows]]'
+headquarters: '[[02_Worldbuilding/Lore/The Council of Shadows]]'
 influence: Shadow-Touched Community Self-Regulation
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Magistrate Umbrian Darkwise]]'
+leader: '[[02_Worldbuilding/Lore/Shadow Magistrate Umbrian Darkwise]]'
 members: ~50 magistrates, ~200 enforcement officers, ~1000 community volunteers
 modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
@@ -40,7 +40,7 @@ world: Aquabyssos
 
 ## Organization Overview
 
-The Shadow Behavior Guidelines represents the shadow-touched community's effort at self-regulation and ethical development in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Founded in response to increasing concerns about shadow energy abuse and the corrupting effects of uncontrolled shadow abilities, this organization serves as both moral authority and practical regulatory body for individuals affected by shadow transformation.
+The Shadow Behavior Guidelines represents the shadow-touched community's effort at self-regulation and ethical development in [[02_Worldbuilding/Places/Aquabyssos]]. Founded in response to increasing concerns about shadow energy abuse and the corrupting effects of uncontrolled shadow abilities, this organization serves as both moral authority and practical regulatory body for individuals affected by shadow transformation.
 
 Unlike external authorities who may not understand the unique challenges faced by shadow-touched individuals, the Guidelines organization is composed entirely of community members who have experienced shadow transformation firsthand. They understand both the benefits and dangers of shadow abilities, creating ethical frameworks that are practical, compassionate, and effective.
 
@@ -325,13 +325,13 @@ Provides specialized expertise and assistance in cases involving shadow abilitie
 **Relationship**: Cooperative Alliance
 Both organizations serve shadow-touched communities with complementary approaches - the Warren focuses on practical support while the Guidelines emphasizes ethical development.
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**
+#### **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**
 **Relationship**: Cultural Exchange
 Learns from mer-folk approaches to community self-regulation and honor-based social systems.
 
 ### Neutral Relations
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]**
+#### **[[02_Worldbuilding/Groups/Silverscale Consortium]]**
 **Relationship**: Professional Distance
 Maintains cordial relations but remains wary of commercial exploitation of shadow abilities.
 
@@ -345,7 +345,7 @@ Appreciates the Order's scholarly approach but disagrees with their tendency tow
 **Relationship**: Ethical Opposition
 Strongly opposes the Harvest's exploitative practices and works to protect community members from recruitment.
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]**
+#### **[[02_Worldbuilding/Groups/Purist Coalition]]**
 **Relationship**: Defensive Conflict
 Protects shadow-touched community members from Purist discrimination and violence while advocating for civil rights.
 
@@ -560,26 +560,26 @@ Detailed preparations for organizational continuity if current leadership is com
 - [[02_Worldbuilding/Groups/The Shadow Warren|02 Worldbuilding/Groups/The Shadow Warren]]
 - [[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]
 - [[02_Worldbuilding/Groups/The Shadow Harvest|02 Worldbuilding/Groups/The Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
+- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
 
 **Key Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Council of Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Community Centers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Youth Development Facilities]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crisis Response Centers]]
+- [[02_Worldbuilding/Lore/The Council of Shadows]]
+- [[02_Worldbuilding/Lore/Shadow Community Centers]]
+- [[02_Worldbuilding/Lore/Youth Development Facilities]]
+- [[02_Worldbuilding/Lore/Crisis Response Centers]]
 
 **Notable NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Magistrate Umbrian Darkwise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Advocate Vera Shadowheart]]
+- [[02_Worldbuilding/Lore/Shadow Magistrate Umbrian Darkwise]]
+- [[02_Worldbuilding/Lore/Community Advocate Vera Shadowheart]]
 - [[Education Director Selene Shadowscholar]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crisis Intervention Chief Raven Darkstorm]]
+- [[02_Worldbuilding/Lore/Crisis Intervention Chief Raven Darkstorm]]
 
 **Important Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Conduct Codex]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Community Self-Regulation]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Ability Ethics]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community-Based Restorative Justice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Shadow Transformation Psychology]]
+- [[02_Worldbuilding/Lore/The Shadow Conduct Codex]]
+- [[02_Worldbuilding/Lore/Shadow Community Self-Regulation]]
+- [[02_Worldbuilding/Lore/Shadow Ability Ethics]]
+- [[02_Worldbuilding/Lore/Community-Based Restorative Justice]]
+- [[02_Worldbuilding/Lore/Shadow Transformation Psychology]]
 
 ## Player-Facing Summary
 

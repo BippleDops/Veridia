@@ -163,7 +163,7 @@ Prism serves as both shop keeper and quest giver, providing magical items and in
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Old Valdris]]
+- [[02_Worldbuilding/Places/Old Valdris]]
 
 ## Player-Facing Summary
 
@@ -175,6 +175,6 @@ Legends speak of The Crystal Merchant as a nexus where past and present converge
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystal Merchant]]
+- [[02_Worldbuilding/Places/The Crystal Merchant]]
 
 <!-- enriched: true -->

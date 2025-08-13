@@ -1,19 +1,15 @@
 ---
-created: '2025-08-11'
+type: Lore
 status: complete
 tags:
+- active
 - aquabyssos
-- complete
-- content/adventure
-- content/lore
 - lore
-- status/in-progress
-- world/aquabyssos
-type: Lore
-updated: '2025-08-13T12:34:29.523443+00:00'
+- quest
 world: Aquabyssos
+created: '2025-08-11'
+updated: '2025-08-13T01:18:35.277566+00:00'
 ---
-
 
 
 
@@ -45,10 +41,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Depth Accords]]
+- [[02_Worldbuilding/Quests/The Depth Accords|02 Worldbuilding/Quests/The Depth Accords]]
 
 
 ## Connections
 
 - [[02_Worldbuilding/Places/The Original Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Depth Accords]]
+- [[The Depth Accords]]

@@ -62,13 +62,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Emergency Protocols]]
+- [[02_Worldbuilding/Places/Emergency Protocols]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Embassy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Terminal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[02_Worldbuilding/Lore/Royal Embassy]]
+- [[02_Worldbuilding/Places/Pressure Terminal]]
+- [[02_Worldbuilding/Quests/The Whispering Expanse]]

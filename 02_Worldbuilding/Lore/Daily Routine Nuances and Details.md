@@ -27,7 +27,7 @@ world: Both
 
 ## Overview
 
-This comprehensive guide details over 30 specific nuances of daily life in both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], covering wake-up rituals, commute patterns, work schedules, meal customs, social hours, entertainment options, shopping habits, hygiene practices, sleep patterns, and seasonal adjustments. These details bring life and authenticity to the extraordinary environments of the underwater and aerial realms.
+This comprehensive guide details over 30 specific nuances of daily life in both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]], covering wake-up rituals, commute patterns, work schedules, meal customs, social hours, entertainment options, shopping habits, hygiene practices, sleep patterns, and seasonal adjustments. These details bring life and authenticity to the extraordinary environments of the underwater and aerial realms.
 
 ---
 
@@ -507,11 +507,11 @@ Whether depicting the pressure-pulse alarm that wakes a deep miner or the wind c
 ---
 
 **Related Topics**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/A Day in Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Working Class Routines]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Noble Leisure Schedules]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Child Life in the Realms]]
+- [[02_Worldbuilding/Lore/A Day in Aquabyssos]]
+- [[02_Worldbuilding/Lore/Aethermoor Daily Rhythms]]
+- [[02_Worldbuilding/Lore/Working Class Routines]]
+- [[02_Worldbuilding/Lore/Noble Leisure Schedules]]
+- [[02_Worldbuilding/Lore/Child Life in the Realms]]
 - [[Cultural Traditions and Customs]]
 - [[Environmental Adaptations and Survival]]
 

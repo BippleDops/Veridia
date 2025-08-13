@@ -5,14 +5,14 @@ created: '2025-08-10'
 danger_level: Extreme
 depth: Variable (0-4000 feet)
 difficulty: Levels 10-18
-government: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tempest Sovereignty]]'
+government: '[[02_Worldbuilding/Lore/Tempest Sovereignty]]'
 population: 800+ (court, staff, guards, prisoners)
 related_entities:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Storm Empress Tempestas Maelstrom]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tempest Sovereignty]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Stormcaller Navy]]'
+- '[[02_Worldbuilding/People/Storm Empress Tempestas Maelstrom]]'
+- '[[02_Worldbuilding/Lore/Tempest Sovereignty]]'
+- '[[02_Worldbuilding/Lore/Stormcaller Navy]]'
 - '[[The Maelstrom Court]]'
-ruler: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Storm Empress Tempestas Maelstrom]]'
+ruler: '[[02_Worldbuilding/People/Storm Empress Tempestas Maelstrom]]'
 status: complete
 tags:
 - aquabyssos
@@ -47,11 +47,11 @@ world: Aquabyssos
 
 ## Overview
 
-Maelstrom Palace stands as one of the most magnificent and terrifying architectural achievements in all of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - a massive floating fortress built within the eye of a perpetual magical storm. Home to [[vault_backup_20250813_073007/02_Worldbuilding/People/Storm Empress Tempestas Maelstrom]] and the seat of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tempest Sovereignty]], this palace defies conventional understanding of both architecture and meteorology, existing simultaneously above and below the ocean's surface as it rides within the calm center of an ever-raging tempest.
+Maelstrom Palace stands as one of the most magnificent and terrifying architectural achievements in all of [[02_Worldbuilding/Places/Aquabyssos]] - a massive floating fortress built within the eye of a perpetual magical storm. Home to [[02_Worldbuilding/People/Storm Empress Tempestas Maelstrom]] and the seat of [[02_Worldbuilding/Lore/Tempest Sovereignty]], this palace defies conventional understanding of both architecture and meteorology, existing simultaneously above and below the ocean's surface as it rides within the calm center of an ever-raging tempest.
 
 The palace itself is a marvel of elemental engineering, constructed from crystallized storm energy, enchanted metals, and living coral that has been shaped by decades of magical weather manipulation. It rises and falls through the water column as the storm moves, sometimes breaking the surface during powerful updrafts, other times diving thousands of feet beneath the waves when the tempest's fury pulls it into the depths. This constant motion, combined with the protective barrier of the surrounding storm, makes the palace virtually impossible to approach without invitation - and utterly deadly to those who try.
 
-More than just a royal residence, Maelstrom Palace serves as the command center for one of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]'s most powerful maritime empires. From its storm-wreathed halls, the Storm Empress commands the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Stormcaller Navy]], conducts diplomatic relations with other underwater nations, and maintains her grip on the trade routes that her mobile kingdom controls. The palace is simultaneously a fortress, a seat of government, a magical research center, and a symbol of absolute power over the forces of nature themselves.
+More than just a royal residence, Maelstrom Palace serves as the command center for one of [[02_Worldbuilding/Places/Aquabyssos]]'s most powerful maritime empires. From its storm-wreathed halls, the Storm Empress commands the [[02_Worldbuilding/Lore/Stormcaller Navy]], conducts diplomatic relations with other underwater nations, and maintains her grip on the trade routes that her mobile kingdom controls. The palace is simultaneously a fortress, a seat of government, a magical research center, and a symbol of absolute power over the forces of nature themselves.
 
 The palace's unique nature creates a society unlike any other in the underwater realm. Courtiers and servants must be able to survive both underwater and aerial environments, often within the same day. The constant motion and extreme weather create a culture of adaptation, strength, and loyalty to the Storm Empress who provides the only stability in their chaotic world.
 
@@ -148,7 +148,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **The Master Suite**: A luxurious bedroom with a ceiling that opens to the sky during surface visits, allowing direct exposure to natural lightning. The bed is suspended in a null-gravity field, providing perfect rest regardless of the palace's motion or orientation.
 
-**The Storm Study**: Personal office containing charts of weather patterns throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], magical instruments for weather prediction and control, and communication devices for coordinating the Stormcaller Navy.
+**The Storm Study**: Personal office containing charts of weather patterns throughout [[02_Worldbuilding/Places/Aquabyssos]], magical instruments for weather prediction and control, and communication devices for coordinating the Stormcaller Navy.
 
 **The Lightning Laboratory**: Private magical research facility where the Empress develops new weather magic and experiments with elemental fusion techniques. Contains some of the most dangerous and powerful magical equipment in existence.
 
@@ -157,7 +157,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 #### The Crown Court Chambers
 **High Government Offices**: Where the empire's most important business is conducted:
 
-**The Admiral's War Room**: Strategic planning center for the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Stormcaller Navy]], featuring three-dimensional maps of ocean territories and real-time communication with fleet commanders.
+**The Admiral's War Room**: Strategic planning center for the [[02_Worldbuilding/Lore/Stormcaller Navy]], featuring three-dimensional maps of ocean territories and real-time communication with fleet commanders.
 
 **The Chancellor's Offices**: Administrative center for managing the complex logistics of a mobile empire, including taxation, resource allocation, and diplomatic communications.
 
@@ -218,7 +218,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 #### The Military Complex
 **Defense and Security**: The palace's military installations and security systems:
 
-**The Guard Barracks**: Quarters for the elite [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Stormguard]] troops who protect the palace and serve as the Storm Empress's personal army.
+**The Guard Barracks**: Quarters for the elite [[02_Worldbuilding/Lore/Stormguard]] troops who protect the palace and serve as the Storm Empress's personal army.
 
 **The Armory**: Weapons storage featuring a vast collection of magically enhanced weapons specifically designed for combat in extreme weather conditions.
 
@@ -246,7 +246,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **The Elemental Forge**: Manufacturing facility where the unique conditions of storm and depth are used to create impossible materials and magical items.
 
-**The Communication Deep**: Long-range messaging systems that can reach the deepest parts of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] and coordinate with other underwater empires.
+**The Communication Deep**: Long-range messaging systems that can reach the deepest parts of [[02_Worldbuilding/Places/Aquabyssos]] and coordinate with other underwater empires.
 
 **The Emergency Shelters**: Heavily reinforced chambers designed to protect essential personnel if the storm ever fails or becomes uncontrollable.
 
@@ -257,19 +257,19 @@ The palace's unique nature creates a society unlike any other in the underwater 
 #### The Imperial Circle
 **The Storm Empress's Inner Circle**: The most powerful individuals in the empire:
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Storm Empress Tempestas Maelstrom]]**: Absolute ruler with complete control over the storm and palace
+**[[02_Worldbuilding/People/Storm Empress Tempestas Maelstrom]]**: Absolute ruler with complete control over the storm and palace
 - **Powers**: Command over weather, electrical immunity, perfect storm navigation
 - **Personality**: Imperious, dramatic, genuinely concerned with protecting her people
 - **Daily Routine**: Morning storm meditation, afternoon court sessions, evening strategic planning
 - **Residence**: The Royal Quarters with private access to storm energy
 
-**[[Grand Admiral Typhoon Stormcrest]]**: Supreme commander of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Stormcaller Navy]]
+**[[Grand Admiral Typhoon Stormcrest]]**: Supreme commander of the [[02_Worldbuilding/Lore/Stormcaller Navy]]
 - **Background**: Former pirate who proved loyalty by sailing into the storm voluntarily
 - **Expertise**: Naval strategy, weather navigation, fleet logistics
 - **Authority**: Commands over 200 ships and 15,000 naval personnel
 - **Relationship**: The Empress's most trusted military advisor and rumored romantic interest
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Chancellor Squall Deepcurrent]]**: Chief administrator of imperial government
+**[[02_Worldbuilding/Lore/Chancellor Squall Deepcurrent]]**: Chief administrator of imperial government
 - **Role**: Manages day-to-day operations of a mobile empire
 - **Challenges**: Coordinating resources and communications across vast distances
 - **Innovation**: Developed revolutionary administrative systems for nomadic government
@@ -286,24 +286,24 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **House Vortex**: Masters of wind magic and aerial cavalry
 - **Specialty**: Commanding flying mounts and air-based military operations
-- **Leader**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Duke Gale Vortex]] - Master of the imperial air force
+- **Leader**: [[02_Worldbuilding/People/Duke Gale Vortex]] - Master of the imperial air force
 - **Residence**: The highest levels of the palace with direct sky access
 - **Rivalry**: Competitive relationship with House Tsunami over military prominence
 
 **House Tsunami**: Naval specialists and underwater operations experts
 - **Focus**: Deep-sea warfare and submarine fleet command
-- **Leader**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Duchess Wave Tsunami]] - Admiral of underwater operations
+- **Leader**: [[02_Worldbuilding/Lore/Duchess Wave Tsunami]] - Admiral of underwater operations
 - **Base**: Lower palace levels with direct ocean access
 - **Achievement**: Developed revolutionary underwater warfare techniques
 
 **House Lightning**: Electrical magic specialists and palace engineers
 - **Role**: Maintain and improve the palace's electrical systems and magical infrastructure
-- **Leader**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Count Spark Lightning]] - Chief engineer of storm technology
+- **Leader**: [[02_Worldbuilding/Lore/Count Spark Lightning]] - Chief engineer of storm technology
 - **Workshop**: Advanced laboratories in the magical infrastructure levels
 - **Innovation**: Constantly developing new applications for storm energy
 
 **House Tempest**: Diplomatic corps and intelligence services
-- **Function**: Foreign relations and information gathering throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- **Function**: Foreign relations and information gathering throughout [[02_Worldbuilding/Places/Aquabyssos]]
 - **Leader**: [[Marquis Storm Tempest]] - Master of spies and diplomacy  
 - **Network**: Agents and informants in every major underwater city
 - **Secrets**: Maintains extensive files on foreign leaders and potential threats
@@ -366,7 +366,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **Fleet Size**: Over 200 ships ranging from fast scouts to massive storm-powered dreadnoughts
 **Personnel**: 15,000+ sailors, marines, and magical specialists
-**Territory**: Patrols and controls vast areas of ocean throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Territory**: Patrols and controls vast areas of ocean throughout [[02_Worldbuilding/Places/Aquabyssos]]
 **Mobility**: Ships enhanced with weather magic for incredible speed and maneuverability
 **Communication**: Magical networks allow instant coordination across vast distances
 
@@ -503,7 +503,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 ### Military Campaigns (Levels 10-15)
 
 #### The Fleet in Peril
-**Crisis**: A significant portion of the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Stormcaller Navy]] has gone missing
+**Crisis**: A significant portion of the [[02_Worldbuilding/Lore/Stormcaller Navy]] has gone missing
 **Search Operation**: Characters join rescue mission to locate the lost fleet
 **Obstacles**: Extreme weather, hostile sea creatures, and possible enemy action
 **Discovery**: Fleet may have discovered something that threatens imperial security
@@ -577,30 +577,30 @@ The palace's unique nature creates a society unlike any other in the underwater 
 ### Political Connections
 
 #### Allied Nations
-**Friendly Relationships**: Other underwater empires that cooperate with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tempest Sovereignty]]:
+**Friendly Relationships**: Other underwater empires that cooperate with the [[02_Worldbuilding/Lore/Tempest Sovereignty]]:
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Coral Courts]]**: Traditional allies with mutual defense agreements
+**[[02_Worldbuilding/Lore/The Coral Courts]]**: Traditional allies with mutual defense agreements
 - **Trade Relations**: Exchange of unique magical resources and cultural goods
 - **Military Cooperation**: Joint naval operations against common enemies
 - **Diplomatic Exchange**: Regular ambassador visits and cultural exchanges
 - **Marriage Alliances**: Intermarriage between noble families strengthens bonds
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Republic]]**: Democratic nation that maintains cautious friendship
+**[[02_Worldbuilding/Lore/The Deep Republic]]**: Democratic nation that maintains cautious friendship
 - **Political Philosophy**: Fundamental differences in government structure create tension
 - **Economic Partnership**: Mutually beneficial trade relationships overcome political differences
 - **Military Neutrality**: Agreement to avoid territorial conflicts
 - **Cultural Exchange**: Academic and artistic collaboration despite political differences
 
 #### Rival Powers
-**Competitive Relationships**: Nations that compete with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tempest Sovereignty]]:
+**Competitive Relationships**: Nations that compete with the [[02_Worldbuilding/Lore/Tempest Sovereignty]]:
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyssal Empire]]**: Deep-sea power with opposing territorial claims
+**[[02_Worldbuilding/Lore/The Abyssal Empire]]**: Deep-sea power with opposing territorial claims
 - **Resource Competition**: Both empires claim rights to the same mineral deposits
 - **Naval Confrontation**: Regular skirmishes between fleets in disputed waters
 - **Diplomatic Tension**: Formal relations maintained but strained
 - **Ideological Opposition**: Fundamental disagreement about proper government structure
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]**: Democratic confederation that opposes imperial expansion
+**[[02_Worldbuilding/Places/Parliament of Echoes]]**: Democratic confederation that opposes imperial expansion
 - **Political Opposition**: Parliamentary system conflicts with imperial authority
 - **Trade Disputes**: Economic competition creates regular commercial conflicts  
 - **Military Standoff**: Both sides maintain strong naval presence in disputed areas
@@ -609,15 +609,15 @@ The palace's unique nature creates a society unlike any other in the underwater 
 ### Economic Networks
 
 #### Trade Relationships
-**Commercial Connections**: The empire's economic ties throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]:
+**Commercial Connections**: The empire's economic ties throughout [[02_Worldbuilding/Places/Aquabyssos]]:
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Merchant's Covenant]]**: Professional trading organization
+**[[02_Worldbuilding/Lore/The Merchant's Covenant]]**: Professional trading organization
 - **Protection Services**: Imperial navy provides security for merchant vessels
 - **Trade Routes**: Empire controls several major commercial shipping lanes
 - **Resource Exchange**: Merchants provide rare materials in exchange for imperial protection
 - **Market Access**: Imperial territories offer valuable commercial opportunities
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Phosphor Markets]]**: Mobile trading hub that regularly interacts with imperial fleet
+**[[02_Worldbuilding/Places/The Phosphor Markets]]**: Mobile trading hub that regularly interacts with imperial fleet
 - **Neutral Meeting**: Markets provide diplomatic neutral ground for negotiations
 - **Information Exchange**: Merchants provide intelligence about other nations' activities
 - **Specialized Goods**: Markets offer rare materials needed for storm magic research
@@ -649,7 +649,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 - **Student Programs**: Young imperial nobles study at the library
 - **Magical Development**: Joint research into weather magic and elemental theory
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/University of Current Studies]]**: Academic institution specializing in oceanography
+**[[02_Worldbuilding/Lore/University of Current Studies]]**: Academic institution specializing in oceanography
 - **Scientific Cooperation**: Research into ocean currents and weather patterns
 - **Technology Transfer**: Sharing of navigation and weather prediction techniques
 - **Faculty Exchange**: Imperial weather mages serve as visiting professors
@@ -658,7 +658,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 #### Religious Organizations
 **Spiritual Connections**: The empire's relationship with various religious groups:
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Tempest Faithful]]**: Religious organization that worships storm deities
+**[[02_Worldbuilding/Lore/The Tempest Faithful]]**: Religious organization that worships storm deities
 - **Official Religion**: Provides spiritual legitimacy for imperial rule
 - **Palace Services**: Maintains religious ceremonies and spiritual guidance
 - **Missionary Work**: Spreads imperial ideology through religious conversion
@@ -794,7 +794,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 ---
 
 *"In the eye of eternal storm, we have built not just a palace, but a promise - that mortal will can find peace within nature's fury, and that even chaos itself can be made to serve the cause of civilization."*  
-— [[vault_backup_20250813_073007/02_Worldbuilding/People/Storm Empress Tempestas Maelstrom]], First Address from the Tempest Throne
+— [[02_Worldbuilding/People/Storm Empress Tempestas Maelstrom]], First Address from the Tempest Throne
 
 ## Connections
 
@@ -820,6 +820,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Maelstrom Palace]]
+- [[02_Worldbuilding/Places/Maelstrom Palace]]
 
 <!-- enriched: true -->

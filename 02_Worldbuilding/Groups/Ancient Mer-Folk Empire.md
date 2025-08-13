@@ -42,11 +42,11 @@ world: Aquabyssos
 
 ## Organization Overview
 
-The Ancient Mer-Folk Empire stands as one of the oldest continuous civilizations in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]], predating even the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]] by millennia. Ruled from their magnificent capital of Aeridor in the deepest trenches of the ocean floor, the Empire represents the pinnacle of aquatic civilization, blending ancient wisdom, powerful magic, and sophisticated underwater technology.
+The Ancient Mer-Folk Empire stands as one of the oldest continuous civilizations in [[02_Worldbuilding/Lore/Aquabyssos World Overview]], predating even the [[02_Worldbuilding/Lore/Aquabyssos World Overview]] by millennia. Ruled from their magnificent capital of Aeridor in the deepest trenches of the ocean floor, the Empire represents the pinnacle of aquatic civilization, blending ancient wisdom, powerful magic, and sophisticated underwater technology.
 
 Unlike the transformed human inhabitants of the upper depths, the mer-folk are naturally aquatic beings who have mastered life in the deepest parts of the ocean. Their Empire operates on principles of honor, ancient law, and deep connection to the primal forces of the sea. They view themselves as the rightful stewards of all ocean domains, though they generally govern with a hands-off approach, intervening only when ancient treaties are violated or when threats emerge that could destabilize the entire aquatic realm.
 
-The Empire's relationship with the post-Drowning inhabitants of Aquabyssos is complex - they regard the transformed humans with a mixture of pity, curiosity, and cautious respect. While they maintain diplomatic relations with the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]], the mer-folk consider themselves above the political squabbles of the "surface refugees," as they sometimes call the Drowning survivors.
+The Empire's relationship with the post-Drowning inhabitants of Aquabyssos is complex - they regard the transformed humans with a mixture of pity, curiosity, and cautious respect. While they maintain diplomatic relations with the [[02_Worldbuilding/Lore/Aquabyssos World Overview]], the mer-folk consider themselves above the political squabbles of the "surface refugees," as they sometimes call the Drowning survivors.
 
 ## History and Foundation
 
@@ -60,7 +60,7 @@ During this golden age, the Empire established territories throughout the world'
 A series of conflicts with surface civilizations taught the mer-folk that land-dwellers were unpredictable and dangerous. These wars, fought primarily through control of sea trade and weather patterns, established the Empire's policy of cautious isolation from surface affairs.
 
 ### The Great Drowning Accommodation (820 years ago)
-When the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]] occurred, the mer-folk faced an unprecedented situation - millions of surface dwellers suddenly transformed and deposited in their domain. After much debate, Deep Lord Pelagios the Eternal (then Prince-Regent) made the controversial decision to allow the transformed humans to establish settlements, provided they accepted mer-folk sovereignty over the deepest territories.
+When the [[02_Worldbuilding/Lore/Aquabyssos World Overview]] occurred, the mer-folk faced an unprecedented situation - millions of surface dwellers suddenly transformed and deposited in their domain. After much debate, Deep Lord Pelagios the Eternal (then Prince-Regent) made the controversial decision to allow the transformed humans to establish settlements, provided they accepted mer-folk sovereignty over the deepest territories.
 
 ### The Modern Compact (300 years ago)
 The current arrangement between the Empire and Aquabyssos was formalized in the **Treaty of Deepest Waters**, which established spheres of influence, trade agreements, and mutual defense pacts while maintaining the Empire's independence and territorial claims to the ocean floor and deepest trenches.
@@ -208,33 +208,33 @@ While not malicious, the Empire tends to keep its most important knowledge secre
 **Relationship**: Respectful Cooperation
 The Order's focus on celestial navigation and their scholarly approach to understanding the depths appeals to mer-folk sensibilities. The Empire provides the Order with deep-ocean navigation services and access to ancient charts in exchange for astronomical observations that help with deep-sea exploration.
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]**
+#### **[[02_Worldbuilding/Lore/Aquabyssos World Overview]]**
 **Relationship**: Protective Alliance
 Both factions share an interest in maintaining stability and preventing destructive changes to Aquabyssos. The Empire provides military support for Preservation Current operations that align with mer-folk interests, particularly those involving protection of ancient sites.
 
 ### Neutral Relations
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]**
+#### **[[02_Worldbuilding/Lore/Aquabyssos World Overview]]**
 **Relationship**: Formal Diplomacy
 The Empire maintains official diplomatic relations with the Aquabyssos government while insisting on its territorial independence. This relationship is generally cordial but can become strained when Aquabyssos policies conflict with mer-folk traditions or territorial claims.
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant's Covenant]]**
+#### **[[02_Worldbuilding/Groups/Merchant's Covenant]]**
 **Relationship**: Commercial Partnership
 The Empire trades rare deep-sea resources and services with the Covenant in exchange for information and access to preserved surface-world knowledge. Both organizations value learning and cultural preservation, leading to productive exchanges.
 
 ### Complex Relationships
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]**
+#### **[[02_Worldbuilding/Lore/Aquabyssos World Overview]]**
 **Relationship**: Philosophical Tension
 While both groups operate in the deepest parts of Aquabyssos, they have fundamentally different approaches to depth existence. The Empire sees the Dreamers' nihilistic philosophy as dangerous to ocean stability, while the Dreamers consider the Empire's hierarchical structure and surface-world connections to be limitations on true transformation.
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]**
+#### **[[02_Worldbuilding/Lore/Aquabyssos World Overview]]**
 **Relationship**: Cautious Monitoring
 The Empire recognizes the Void Touched as representing an extreme form of depth adaptation, but worries about their unpredictability and potential threat to established order. Some mer-folk scholars study Void Touched individuals to better understand the limits of transformation.
 
 ### Hostile Relations
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Tide Pirates]]**
+#### **[[02_Worldbuilding/Groups/The Crimson Tide Pirates]]**
 **Relationship**: Active Opposition
 Pirate raids on mer-folk territories and sacred sites have created ongoing conflict. The Empire views pirates as honorless vandals who threaten both mer-folk interests and general ocean stability. Mer-folk military forces regularly patrol against pirate incursions.
 
@@ -384,44 +384,44 @@ Events in Aquabyssos and the surface world are creating new challenges that the 
 
 **Related Organizations**:
 - [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant's Covenant]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crimson Tide Pirates]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[02_Worldbuilding/Groups/Merchant's Covenant]]
+- [[02_Worldbuilding/Groups/The Crimson Tide Pirates]]
 
 **Key Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Sunken City of Aeridor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Heart of the Sea]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Ancient Ocean Trenches]]
+- [[02_Worldbuilding/Lore/The Sunken City of Aeridor]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[02_Worldbuilding/Lore/The Heart of the Sea]]
+- [[02_Worldbuilding/Lore/The Ancient Ocean Trenches]]
 
 **Notable NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Deep Lord Pelagios the Eternal]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tide-Speaker Nerida of House Abyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Current-Lord Triton of House Pelagios]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Wave-Duchess Amphitrite of House Littoralis]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep-Sage Oceanus of House Mysticus]]
+- [[02_Worldbuilding/People/Deep Lord Pelagios the Eternal]]
+- [[02_Worldbuilding/Lore/Tide-Speaker Nerida of House Abyssos]]
+- [[02_Worldbuilding/People/Current-Lord Triton of House Pelagios]]
+- [[02_Worldbuilding/Lore/Wave-Duchess Amphitrite of House Littoralis]]
+- [[02_Worldbuilding/Lore/Deep-Sage Oceanus of House Mysticus]]
 
 **Important Artifacts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Heart of the Sea]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crown of Currents]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Treaty of Deepest Waters]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Archives]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Current-Crystals]]
+- [[02_Worldbuilding/Lore/The Heart of the Sea]]
+- [[02_Worldbuilding/Lore/Crown of Currents]]
+- [[02_Worldbuilding/Lore/The Treaty of Deepest Waters]]
+- [[02_Worldbuilding/Lore/Deep Archives]]
+- [[02_Worldbuilding/Lore/Current-Crystals]]
 
 **Related Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ancient Ocean Magic]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Creature Bond Partnerships]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Adaptation Processes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Mer-Folk Honor Codes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ocean Ecosystem Management]]
+- [[02_Worldbuilding/Lore/Ancient Ocean Magic]]
+- [[02_Worldbuilding/Lore/Creature Bond Partnerships]]
+- [[02_Worldbuilding/Lore/Deep Adaptation Processes]]
+- [[02_Worldbuilding/Lore/Mer-Folk Honor Codes]]
+- [[02_Worldbuilding/Lore/Ocean Ecosystem Management]]
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Tradeway Road]]
+- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Quests/Tradeway Road]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

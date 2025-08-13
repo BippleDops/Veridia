@@ -242,8 +242,8 @@ world: Both
 ### GM Tools
 - [[06_GM_Resources/Scene Framing Templates|06 GM Resources/Scene Framing Templates]] — Session starters
 - [[06_GM_Resources/Session_Planning_Toolkit|06 GM Resources/Session Planning Toolkit]] — Prep assistance
-- [[09_Performance/Indexes/Link_Integrity_Report|09 Performance/Indexes/Link Integrity Report]] — Vault health
-- [[09_Performance/Indexes/Coverage_Dashboard|09 Performance/Indexes/Coverage Dashboard]] — Completion tracking
+- [[13_Performance/Indexes/Link_Integrity_Report|09 Performance/Indexes/Link Integrity Report]] — Vault health
+- [[13_Performance/Indexes/Coverage_Dashboard|09 Performance/Indexes/Coverage Dashboard]] — Completion tracking
 
 ---
 

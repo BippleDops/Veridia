@@ -62,11 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Void Touched Pilgrims]]
+- [[02_Worldbuilding/Places/Void Touched Pilgrims]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Void Touched Depths]]
+- [[02_Worldbuilding/Places/The Void Touched Depths]]

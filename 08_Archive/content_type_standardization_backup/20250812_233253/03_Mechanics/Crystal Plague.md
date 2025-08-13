@@ -47,7 +47,7 @@ Practical, table-ready rules for Crystal Plague across Aquabyssos and Aethermoor
 - Offer informed choices and reminders of Lines & Veils.
 
 ## Cross-References
-- [[09_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
+- [[13_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
 - [[06_GM_Resources/Ultimate_GM_Screen.md|Ultimate GM Screen]]
 
 ## Player-Facing Summary

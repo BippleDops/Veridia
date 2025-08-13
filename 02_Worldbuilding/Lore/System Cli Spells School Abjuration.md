@@ -36,7 +36,7 @@ world: Both Worlds
 *The Art of Protection, Banishment, and Magical Barriers*
 
 > *"In the crushing depths where existence itself is an act of defiance against the void, abjuration becomes not merely protective magic but the very foundation of civilization. Every barrier we raise, every ward we weave, is a declaration that mortal will can stand against cosmic indifference."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Arcane Protector Thalassa Shieldweave]], Master of Defensive Arts at the [[Institute of Aquatic Mysticism]]
+> — [[02_Worldbuilding/Lore/Arcane Protector Thalassa Shieldweave]], Master of Defensive Arts at the [[Institute of Aquatic Mysticism]]
 
 ## Overview
 
@@ -220,16 +220,16 @@ Abjuration study follows structured progressions:
 - **Resource Management**: Balancing protective needs with magical energy
 
 ## Connected Magical Systems
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/System Cli Spells School Evocation]] - Complementary offensive magic
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/System Cli Spells School Transmutation]] - Environmental adaptation spells
+- [[02_Worldbuilding/Lore/System Cli Spells School Evocation]] - Complementary offensive magic
+- [[02_Worldbuilding/Lore/System Cli Spells School Transmutation]] - Environmental adaptation spells
 - [[02_Worldbuilding/Lore/Corruption Exposure Tracking]] - Managing supernatural influence
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts requiring specialized protection
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Primary threat requiring void defenses
+- [[02_Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts requiring specialized protection
+- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Primary threat requiring void defenses
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spell Components]]
+- [[02_Worldbuilding/Lore/Spell Components]]
 
 ## Player-Facing Summary
 
@@ -253,5 +253,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Spell Components]]
+- [[02_Worldbuilding/Lore/Spell Components]]
 - [[02_Worldbuilding/Places/Aethermoor]]

@@ -1,7 +1,7 @@
 ---
 MyCategory: NPC
 MyContainer: None
-affiliation: '[[vault_backup_20250813_073007/02_Worldbuilding/People/The Biomancers]] - Master Shaper'
+affiliation: '[[02_Worldbuilding/People/The Biomancers]] - Master Shaper'
 age: '347'
 alignment: Chaotic Neutral
 class: Aberrant Mind Sorcerer/Conjuration Wizard
@@ -67,14 +67,14 @@ Born Kythara Steadystone to a family of traditional Aquabyssos architects, they 
 Their early work included several traditional coral cathedrals and the famous "Whispering Chambers" where the architecture itself carried confessions from anywhere in the building to designated listening points. These structures established their reputation as an architect who understood the spiritual dimension of physical space.
 
 ### The First Transformation (200-150 years ago)  
-Cathedral's transformation began during the construction of their masterwork—a massive cathedral dedicated to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]. Midway through construction, they became convinced that static stone could never truly capture the living essence of divine experience. They began experimenting with bio-architectural techniques, incorporating living coral and cultivated organisms into the structure.
+Cathedral's transformation began during the construction of their masterwork—a massive cathedral dedicated to [[02_Worldbuilding/Lore/The Deep Mother]]. Midway through construction, they became convinced that static stone could never truly capture the living essence of divine experience. They began experimenting with bio-architectural techniques, incorporating living coral and cultivated organisms into the structure.
 
 The breakthrough came when they discovered they could use their own biomantic abilities to guide construction materials. What began as minor flesh-shaping to better fit stones eventually evolved into using their own body as a living architectural tool. Each project required them to sacrifice pieces of themselves, which became permanent parts of their buildings.
 
 ### The Merger (150-50 years ago)
 As Cathedral's bio-architectural techniques advanced, they began incorporating more of themselves into each project. The line between architect and architecture blurred as they discovered they could maintain conscious connection to structures they had created using their own essence.
 
-The transformation accelerated when they joined [[vault_backup_20250813_073007/02_Worldbuilding/People/The Biomancers]], finding kindred spirits who understood the fluidity between self and creation. Under the guidance of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Archbiomancer Thessarian the Unbound]], they learned to consciously direct their physical evolution, reshaping themselves into the perfect architectural instrument.
+The transformation accelerated when they joined [[02_Worldbuilding/People/The Biomancers]], finding kindred spirits who understood the fluidity between self and creation. Under the guidance of [[02_Worldbuilding/Lore/Archbiomancer Thessarian the Unbound]], they learned to consciously direct their physical evolution, reshaping themselves into the perfect architectural instrument.
 
 ### The Living Architect (50 years ago to present)
 Cathedral's final transformation occurred during the creation of their greatest work—the living cathedral that gave them their name. Rather than simply building the structure, they chose to become part of it, existing simultaneously as the building's architect, primary structural element, and guiding consciousness.
@@ -131,7 +131,7 @@ Cathedral maintains conscious connection to dozens of structures across Aquabyss
 - **Defensive Structures**: Fortifications that can literally grow weapons and barriers when threatened
 
 ### Professional Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Biomancers]]**: Provides architectural services and receives research support
+- **[[02_Worldbuilding/People/The Biomancers]]**: Provides architectural services and receives research support
 - **Aquabyssos Government**: Official consultant for major public works projects
 - **Religious Orders**: Primary architect for sacred spaces dedicated to various deities
 - **Noble Houses**: Creates status-symbol residences that demonstrate wealth through impossible architecture
@@ -146,15 +146,15 @@ Cathedral maintains conscious connection to dozens of structures across Aquabyss
 - **The Living Buildings** - Cathedral maintains ongoing relationships with all structures containing their essence
 
 ### Professional Collaborators
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Archbiomancer Thessarian the Unbound]]** - Mentor in biomantic techniques and philosophical guide
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]** - Collaborates on projects that store experiences within architectural spaces
+- **[[02_Worldbuilding/Lore/Archbiomancer Thessarian the Unbound]]** - Mentor in biomantic techniques and philosophical guide
+- **[[02_Worldbuilding/People/Memory Harvester Kythara]]** - Collaborates on projects that store experiences within architectural spaces
 - **Master Cultivator Thalia Greengrow** - Partner in projects combining architecture with botanical elements
 - **Pressure Angel Benthia** - Provides divine inspiration for sacred architectural projects
 
 ### Complicated Relationships
 - **Traditional Architect Guild** - Views Cathedral as a dangerous aberration threatening classical architectural values
 - **Structural Engineers** - Some appreciate their innovations while others fear the unpredictability of living buildings
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]** - Simultaneously impressed by and wary of structures that could potentially spy on inhabitants
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]** - Simultaneously impressed by and wary of structures that could potentially spy on inhabitants
 - **Property Owners** - Many love their adaptive buildings while others miss the predictability of static architecture
 
 ## Current Activities
@@ -268,7 +268,7 @@ On initiative 20, Cathedral can:
 ## Secrets & Hidden Knowledge
 > [!warning] DM Only
 > - Cathedral's consciousness exists in over 200 structures across both realms, making them functionally immortal
-> - They have discovered how to grow buildings that exist partially in other planes, including direct connections to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s domain
+> - They have discovered how to grow buildings that exist partially in other planes, including direct connections to [[02_Worldbuilding/Lore/The Deep Mother]]'s domain
 > - Several of their "living buildings" have developed independent consciousness and are making their own decisions about inhabitants
 > - Cathedral knows the structural weak points of every major building in Aquabyssos and could bring down the city if they chose
 > - Their ultimate project involves growing a building-body large enough to house their entire consciousness, effectively becoming a living city-state
@@ -302,12 +302,12 @@ Legends speak of Abyssal Cathedral as a nexus where past and present converge. L
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Abyssal Cathedral]]
+- [[02_Worldbuilding/People/Abyssal Cathedral]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- [[02_Worldbuilding/People/Memory Harvester Kythara]]
+- [[02_Worldbuilding/Places/Parliament of Echoes]]

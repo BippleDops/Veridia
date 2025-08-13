@@ -36,7 +36,7 @@ world: Both Aethermoor and Aquabyssos
 ## Campaign Overview
 
 ### The Epic Stakes
-Reality itself hangs in the balance. The **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Convergence Point]]** - a dimensional nexus where all realities intersect - has begun expanding at an unprecedented rate. What started as a curious magical phenomenon studied by scholars from both **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]** and **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]** has become an existential threat to both worlds. As the convergence accelerates, pieces of both realms are beginning to merge permanently, creating impossible landscapes where crystal spires grow beneath crushing ocean depths and coral reefs float through endless skies.
+Reality itself hangs in the balance. The **[[02_Worldbuilding/Lore/Convergence Point]]** - a dimensional nexus where all realities intersect - has begun expanding at an unprecedented rate. What started as a curious magical phenomenon studied by scholars from both **[[02_Worldbuilding/Places/Aethermoor]]** and **[[02_Worldbuilding/Places/Aquabyssos]]** has become an existential threat to both worlds. As the convergence accelerates, pieces of both realms are beginning to merge permanently, creating impossible landscapes where crystal spires grow beneath crushing ocean depths and coral reefs float through endless skies.
 
 The characters stand at the center of this crisis, chosen not by prophecy but by circumstance - they are among the few beings capable of existing in both worlds' harsh environments. Their choices will determine whether the convergence destroys both civilizations, creates something entirely new, or can somehow be controlled to preserve what has been built over centuries of careful adaptation.
 
@@ -96,15 +96,15 @@ The characters are uniquely suited for this crisis due to their **proven ability
 The adventure works best if characters have established relationships in both worlds:
 
 **Aethermoor Connections:**
-- Allies among the **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Crystal Wardens]]** or **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]**
+- Allies among the **[[02_Worldbuilding/Groups/Crystal Wardens]]** or **[[02_Worldbuilding/Groups/The Crystal Throne]]**
 - Contacts with researchers studying the convergence phenomenon
 - Relationships with merchants involved in inter-realm trade
 - Previous adventures involving crystal corruption or dimensional magic
 
 **Aquabyssos Connections:**
 - Contacts with the **[[02_Worldbuilding/Groups/Parliament of Echoes|02 Worldbuilding/Groups/Parliament Of Echoes]]** or depth nobility
-- Relationships with scholars from the **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Abyssal Academy]]**
-- Previous encounters with **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]** cultists or deep magic
+- Relationships with scholars from the **[[02_Worldbuilding/Lore/Abyssal Academy]]**
+- Previous encounters with **[[02_Worldbuilding/Lore/Deep Mother]]** cultists or deep magic
 - Experience with pressure adaptation and underwater survival
 
 ### Character Motivations
@@ -119,7 +119,7 @@ Each character should have personal stakes in both worlds:
 ## World State at Adventure Start
 
 ### Aethermoor's Response
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]** has declared a **State of Dimensional Emergency**, granting extraordinary powers to deal with the crisis:
+**[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** has declared a **State of Dimensional Emergency**, granting extraordinary powers to deal with the crisis:
 
 - **Military Mobilization:** Crystal Wardens deployed around the convergence zone
 - **Scientific Priority:** All magical research redirected to convergence studies
@@ -127,7 +127,7 @@ Each character should have personal stakes in both worlds:
 - **Civilian Evacuation:** Planned relocation of affected population centers
 - **Resource Allocation:** Emergency stockpiling of critical supplies
 
-**Political Tensions:** The **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]** opposes cooperation with Aquabyssos, viewing the convergence as contamination that must be purged. Meanwhile, the **[[02_Worldbuilding/Groups/The Order of the Shattered Crown|02 Worldbuilding/Groups/The Order Of The Shattered Crown]]** sees this as an opportunity to restore ancient power structures.
+**Political Tensions:** The **[[02_Worldbuilding/Groups/Purist Coalition]]** opposes cooperation with Aquabyssos, viewing the convergence as contamination that must be purged. Meanwhile, the **[[02_Worldbuilding/Groups/The Order of the Shattered Crown|02 Worldbuilding/Groups/The Order Of The Shattered Crown]]** sees this as an opportunity to restore ancient power structures.
 
 ### Aquabyssos's Response
 The **[[02_Worldbuilding/People/Queen Seraphina|02 Worldbuilding/People/Queen Seraphina]]** (sharing the same name but ruling the depths) has invoked the **Deep Emergency Protocols**, activating ancient systems designed for existential threats:
@@ -138,10 +138,10 @@ The **[[02_Worldbuilding/People/Queen Seraphina|02 Worldbuilding/People/Queen Se
 - **Surface Coordination:** Working with Aethermoor despite historical tensions
 - **Deep Mother Consultation:** Attempting to understand if this relates to the primordial entity
 
-**Cultural Conflicts:** Traditional **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother]]** worshippers believe this is part of her awakening and should not be interfered with. The **[[02_Worldbuilding/Groups/The Resurgent Tide|02 Worldbuilding/Groups/The Resurgent Tide]]** sees this as an opportunity to complete the Great Drowning and submerge all surface lands.
+**Cultural Conflicts:** Traditional **[[02_Worldbuilding/Lore/Deep Mother]]** worshippers believe this is part of her awakening and should not be interfered with. The **[[02_Worldbuilding/Groups/The Resurgent Tide|02 Worldbuilding/Groups/The Resurgent Tide]]** sees this as an opportunity to complete the Great Drowning and submerge all surface lands.
 
 ### Inter-Realm Cooperation
-The **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]** have been expanded with **Emergency Convergence Protocols**:
+The **[[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]** have been expanded with **Emergency Convergence Protocols**:
 
 - **Joint Command Structure:** Unified crisis response leadership
 - **Resource Sharing:** Free exchange of all necessary materials and knowledge

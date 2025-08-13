@@ -176,7 +176,7 @@ The crystallization process provides background for industrial adventures, corpo
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Screaming Gardens]]
+- [[02_Worldbuilding/Places/Screaming Gardens]]
 
 ## Player-Facing Summary
 
@@ -188,6 +188,6 @@ Legends speak of Crystallization Process as a nexus where past and present conve
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystallization Process]]
+- [[02_Worldbuilding/Places/Crystallization Process]]
 
 <!-- enriched: true -->

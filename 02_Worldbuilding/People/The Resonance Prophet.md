@@ -184,10 +184,10 @@ Creatures that spend 1 hour within 100 ft must make DC 16 WIS save or begin harm
 - *"Truth has a frequency. Lies create static. Why choose discord?"*
 
 ## 🔗 Relationships
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Silhouette Surgeon Prime]]**: Finds their work "off-key"
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Shadow Duchess Nyx]]**: Recognizes her as necessary dissonance
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Sorrowmaster]]**: Their emotional resonance is fascinating
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Scattered Emperor]]**: Too many frequencies at once
+- **[[02_Worldbuilding/People/The Silhouette Surgeon Prime]]**: Finds their work "off-key"
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Recognizes her as necessary dissonance
+- **[[02_Worldbuilding/People/The Sorrowmaster]]**: Their emotional resonance is fascinating
+- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Too many frequencies at once
 
 ## 🏠 Lair: The Singing Citadel
 
@@ -281,11 +281,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Resonance Prophet]]
+- [[02_Worldbuilding/People/The Resonance Prophet]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Sorrowmaster]]
+- [[02_Worldbuilding/People/The Sorrowmaster]]

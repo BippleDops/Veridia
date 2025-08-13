@@ -10,10 +10,10 @@ population: 500+ (guards, staff, prisoners)
 related_entities:
 - '[[02_Worldbuilding/Groups/Coral Throne Syndicate|02 Worldbuilding/Groups/Coral
   Throne Syndicate]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Coral Empress Scarletina]]'
+- '[[02_Worldbuilding/People/Coral Empress Scarletina]]'
 - '[[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson
   Reef]]'
-ruler: '[[vault_backup_20250813_073007/02_Worldbuilding/People/Coral Empress Scarletina]]'
+ruler: '[[02_Worldbuilding/People/Coral Empress Scarletina]]'
 status: complete
 tags:
 - aquabyssos
@@ -43,7 +43,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Coral Throne Syndicate Headquarters stands as one of the most formidable and beautiful criminal strongholds in all of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. Built within and around a massive living blood coral formation known as the **Crimson Heart**, this fortress serves as both the operational nerve center of the syndicate's vast criminal empire and a testament to the raw power wielded by [[vault_backup_20250813_073007/02_Worldbuilding/People/Coral Empress Scarletina]].
+The Coral Throne Syndicate Headquarters stands as one of the most formidable and beautiful criminal strongholds in all of [[02_Worldbuilding/Places/Aquabyssos]]. Built within and around a massive living blood coral formation known as the **Crimson Heart**, this fortress serves as both the operational nerve center of the syndicate's vast criminal empire and a testament to the raw power wielded by [[02_Worldbuilding/People/Coral Empress Scarletina]].
 
 Located in the depths of [[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson Reef]], the headquarters is simultaneously hidden in plain sight and openly defiant. From the outside, it appears to be a legitimate coral research facility and cultivation center, complete with scientific equipment, marine biologists, and official government permits. However, this facade conceals a sprawling criminal complex that extends deep into the reef's living structure, with secret passages, hidden chambers, and defensive systems that rival any military installation.
 
@@ -86,7 +86,7 @@ Beneath the scientific veneer lies the true nature of the complex:
 - **Conference Rooms**: Where real scientific meetings provide perfect cover
 - **Security Screening**: Hidden scanners that identify threats while appearing decorative
 
-**Staff**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Director Marina Coralstudent]] - Actual marine biologist who believes she runs a legitimate research facility
+**Staff**: [[02_Worldbuilding/Lore/Director Marina Coralstudent]] - Actual marine biologist who believes she runs a legitimate research facility
 
 ##### Research Laboratories
 **Functional Scientific Facilities**: These labs conduct real research that serves dual purposes:
@@ -118,21 +118,21 @@ Beneath the scientific veneer lies the true nature of the complex:
 **Key Figures**:
 - [[Administrator Ledger Goldcount]] - Financial wizard managing complex money flows
 - [[Legal Counsel Slyph Wordweaver]] - Protects syndicate interests through legitimate channels
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Supply Master Cargo Deephaul]] - Coordinates smuggling operations through legitimate shipping
+- [[02_Worldbuilding/Lore/Supply Master Cargo Deephaul]] - Coordinates smuggling operations through legitimate shipping
 
 #### Level 3: The Criminal Operations Center (100-150 feet depth)
 
 ##### Command & Control
 **The Strategic Operations Room**: Where syndicate leadership plans and coordinates criminal activities:
-- **Intelligence Center**: Information gathering and analysis from across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- **Intelligence Center**: Information gathering and analysis from across [[02_Worldbuilding/Places/Aquabyssos]]
 - **Mission Planning**: Detailed preparation for heists, smuggling runs, and territorial expansion
 - **Communication Hub**: Encrypted channels to all syndicate operations throughout the realm
 - **Threat Monitoring**: Surveillance of law enforcement and rival criminal organizations
 
 **Operations Staff**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Intelligence Chief Shadow Knowal]] - Master spy with informants throughout the realm
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Planning Director Strategy Deepthink]] - Brilliant tactical mind behind major operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Communications Master Signal Cryptkeeper]] - Manages all encrypted syndicate communications
+- [[02_Worldbuilding/Lore/Intelligence Chief Shadow Knowal]] - Master spy with informants throughout the realm
+- [[02_Worldbuilding/Lore/Planning Director Strategy Deepthink]] - Brilliant tactical mind behind major operations
+- [[02_Worldbuilding/Places/Communications Master Signal Cryptkeeper]] - Manages all encrypted syndicate communications
 
 ##### The War Room
 **Strategic Planning Chamber**: Where long-term syndicate goals are developed:
@@ -152,8 +152,8 @@ Beneath the scientific veneer lies the true nature of the complex:
 
 **Notable Residents**:
 - [[Lieutenant Bloodcoral Vex Tidebreaker]] - Enforcement specialist with trophy collection
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Navigator Slyph Currentwhisper]] - Maritime operations coordinator with maps room
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Harvester Keth Reefrender]] - Coral cultivation expert with personal greenhouse
+- [[02_Worldbuilding/Lore/Navigator Slyph Currentwhisper]] - Maritime operations coordinator with maps room
+- [[02_Worldbuilding/Places/Harvester Keth Reefrender]] - Coral cultivation expert with personal greenhouse
 
 ##### Staff Quarters  
 **Functional Housing**: Accommodations for essential syndicate personnel:
@@ -180,7 +180,7 @@ Beneath the scientific veneer lies the true nature of the complex:
 - **Emergency Systems**: Multiple escape routes and defensive mechanisms
 
 ##### Private Imperial Quarters
-**The Empress's Personal Domain**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Coral Empress Scarletina]]'s private living space:
+**The Empress's Personal Domain**: [[02_Worldbuilding/People/Coral Empress Scarletina]]'s private living space:
 - **Master Suite**: Luxurious chambers with coral formations shaped to personal preference
 - **Private Office**: Secure location for the most sensitive syndicate business
 - **Alchemical Laboratory**: Personal workspace for coral experimentation and magical research
@@ -210,8 +210,8 @@ Beneath the scientific veneer lies the true nature of the complex:
 
 **Research Staff**:
 - [[02_Worldbuilding/Groups/Master Cultivator Polyp Growe|02 Worldbuilding/Groups/Master Cultivator Polyp Growe]] - Expert in coral biology and selective breeding
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Toxin Specialist Venom Reef]] - Develops coral-based poisons and paralytic agents
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Architect Coral Builder]] - Designs living structures that grow themselves
+- [[02_Worldbuilding/Places/Toxin Specialist Venom Reef]] - Develops coral-based poisons and paralytic agents
+- [[02_Worldbuilding/Lore/Architect Coral Builder]] - Designs living structures that grow themselves
 
 #### Level 7: The Prison Complex (300+ feet depth)
 
@@ -236,9 +236,9 @@ Beneath the scientific veneer lies the true nature of the complex:
 - **Memory Extraction**: Advanced facilities for directly accessing prisoners' memories
 
 **Interrogation Specialists**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Truth-Seeker Probe Mindreader]] - Master of psychological manipulation and magical compulsion
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pain-Artist Cruelty Refined]] - Expert in physical persuasion techniques
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Thief Recall Stealer]] - Specialized in magical memory extraction and manipulation
+- [[02_Worldbuilding/Lore/Truth-Seeker Probe Mindreader]] - Master of psychological manipulation and magical compulsion
+- [[02_Worldbuilding/Lore/Pain-Artist Cruelty Refined]] - Expert in physical persuasion techniques
+- [[02_Worldbuilding/Lore/Memory Thief Recall Stealer]] - Specialized in magical memory extraction and manipulation
 
 ## Security Systems & Defenses
 
@@ -295,7 +295,7 @@ The fortress employs various coral creatures as security:
 **Secure Networks**: Protected channels for coordinating defensive responses:
 - **Encrypted Magical Messaging**: Instant communication throughout the facility
 - **Emergency Alerts**: Rapid warning systems for different types of threats
-- **External Coordination**: Secure links to syndicate operations throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- **External Coordination**: Secure links to syndicate operations throughout [[02_Worldbuilding/Places/Aquabyssos]]
 - **Information Sharing**: Real-time intelligence updates from informants and spies
 
 ## Personnel & Inhabitants
@@ -318,13 +318,13 @@ The fortress employs various coral creatures as security:
 - **Resources**: Personal squad of elite enforcers, torture specialists
 - **Loyalty**: Fanatically devoted to Scarletina, would die before betraying syndicate
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Navigator Slyph Currentwhisper]]**: Maritime operations coordinator
+**[[02_Worldbuilding/Lore/Navigator Slyph Currentwhisper]]**: Maritime operations coordinator
 - **Responsibilities**: Smuggling routes, ship operations, naval intelligence
-- **Expertise**: Knows every current, reef, and secret passage in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- **Expertise**: Knows every current, reef, and secret passage in [[02_Worldbuilding/Places/Aquabyssos]]
 - **Assets**: Fleet of modified vessels, network of corrupt port officials
 - **Innovation**: Constantly develops new smuggling techniques and routes
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/Places/Harvester Keth Reefrender]]**: Coral operations and biological warfare
+**[[02_Worldbuilding/Places/Harvester Keth Reefrender]]**: Coral operations and biological warfare
 - **Responsibilities**: Coral cultivation, toxin production, living weapon development
 - **Knowledge**: World's leading expert on criminal applications of coral biology
 - **Facilities**: Advanced laboratories, breeding chambers, experimental zones
@@ -405,7 +405,7 @@ The fortress employs various coral creatures as security:
 
 #### Intelligence Gathering
 **Information Networks**: Comprehensive knowledge acquisition systems:
-- **Informant Networks**: Paid sources throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] society
+- **Informant Networks**: Paid sources throughout [[02_Worldbuilding/Places/Aquabyssos]] society
 - **Surveillance Operations**: Active monitoring of targets and competitors
 - **Counter-Intelligence**: Protection against enemy information gathering
 - **Analysis Division**: Processing raw intelligence into actionable plans
@@ -507,7 +507,7 @@ The fortress employs various coral creatures as security:
 **Mission**: Lead coordinated attack on criminal headquarters
 **Challenges**: Multiple defensive systems, hundreds of guards, living fortress
 **Allies**: Government forces, rival criminals, or vigilante organizations
-**Consequences**: Success reshapes criminal landscape of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+**Consequences**: Success reshapes criminal landscape of [[02_Worldbuilding/Places/Aquabyssos]]
 
 #### The Coral Empress Confrontation
 **Build-up**: Long campaign culminating in direct challenge to syndicate leadership
@@ -524,7 +524,7 @@ The fortress employs various coral creatures as security:
 **Consequences**: Deal could legitimize criminals or provide intelligence opportunities
 
 #### The Succession Crisis
-**Event**: [[vault_backup_20250813_073007/02_Worldbuilding/People/Coral Empress Scarletina]] disappears, creating power vacuum
+**Event**: [[02_Worldbuilding/People/Coral Empress Scarletina]] disappears, creating power vacuum
 **Conflict**: Multiple lieutenants compete for control of syndicate
 **Opportunity**: Party could influence outcome or exploit chaos
 **Dangers**: Criminal war could spill over into civilian areas
@@ -610,7 +610,7 @@ The fortress employs various coral creatures as security:
 - **Impact**: Party actions reshape criminal landscape permanently
 - **Scope**: Fortress becomes base for broader campaigns
 - **Consequences**: Success creates power vacuum requiring management
-- **Legacy**: Long-term effects on [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] society
+- **Legacy**: Long-term effects on [[02_Worldbuilding/Places/Aquabyssos]] society
 
 ### Running Fortress Encounters
 
@@ -688,6 +688,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Coral Throne Syndicate HQ]]
+- [[02_Worldbuilding/Places/Coral Throne Syndicate HQ]]
 
 <!-- enriched: true -->

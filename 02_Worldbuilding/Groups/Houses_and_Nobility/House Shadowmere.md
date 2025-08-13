@@ -48,10 +48,10 @@ House Shadowmere operates as the realm's premier intelligence and espionage orga
 
 **Key Relationships:**
 - **[[Duke Marcus Brightshield]]** - Childhood friend turned political rival; still uses their childhood code words in private messages
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Former lover who ended relationship when she "died"; doesn't know she's actually dead
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Shadows]]** - Shadow Intelligence Chief coordinating true governance
+- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Former lover who ended relationship when she "died"; doesn't know she's actually dead
+- **[[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Shadows]]** - Shadow Intelligence Chief coordinating true governance
 - **[[Order of the Silent Depths]]** - Member providing political protection for historical secrets
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]** - Alliance for memory-based intelligence gathering
+- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]** - Alliance for memory-based intelligence gathering
 
 ### The Heir Apparent: Lord Vexton Shadowmere "The Web-Walker"
 - **Age:** 32 (probably)
@@ -70,7 +70,7 @@ House Shadowmere operates as the realm's premier intelligence and espionage orga
 **Key Relationships:**
 - **[[Sir Theron Brightshield]]** - Childhood trauma bond, both survived same massacre; now memory construct vs. memory addict
 - **[[Captain Marina Tidecrest]]** - Secret romantic affair through memory-sharing addiction
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]** - Professional partnership in memory trading markets
+- **[[02_Worldbuilding/Groups/Silverscale Consortium]]** - Professional partnership in memory trading markets
 - **[[Resonance Conspiracy]]** - Collaboration on consciousness manipulation research
 
 ### The Invisible Son: Marcus Shadowmere

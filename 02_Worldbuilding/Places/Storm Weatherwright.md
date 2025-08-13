@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
+- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
+- [[02_Worldbuilding/Places/Barkeep Mira Algaebrew]]
 
 ## Player-Facing Summary
 

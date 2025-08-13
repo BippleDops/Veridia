@@ -838,4 +838,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/01_Adventures/The_Sunken_Conspiracy/Introduction]]
+- [[01_Adventures/The_Sunken_Conspiracy/Introduction]]

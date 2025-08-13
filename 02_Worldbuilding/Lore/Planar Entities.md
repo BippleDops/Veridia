@@ -19,13 +19,13 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
+- [[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Bubble Burst]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
+- [[02_Worldbuilding/Places/Bubble Burst]]
+- [[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]
 
 ## Player-Facing Summary
 

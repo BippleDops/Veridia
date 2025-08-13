@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Lost Expedition]]
+- [[02_Worldbuilding/Quests/Quest - The Lost Expedition]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Lost Expedition]]
+- [[02_Worldbuilding/Quests/Quest - The Lost Expedition]]
 
 ## Player-Facing Summary
 

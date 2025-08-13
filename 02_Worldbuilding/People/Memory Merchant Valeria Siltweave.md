@@ -1,9 +1,9 @@
 ---
-affiliation: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]] (Reformed Branch)'
+affiliation: '[[02_Worldbuilding/Places/Memory Farmers]] (Reformed Branch)'
 age: '36'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Meadows]] - The Ethical Exchange'
+location: '[[02_Worldbuilding/Lore/Memory Meadows]] - The Ethical Exchange'
 race: Human
 role: Ethical Memory Merchant
 status: complete
@@ -34,7 +34,7 @@ world: Aquabyssos
 *The Conscientious Trader, Champion of Ethical Memory Commerce*
 
 ## Overview
-Valeria Siltweave represents the reformed wing of the [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]] movement, working to transform memory commerce from exploitative harvesting into ethical trading based on consent, fair compensation, and mutual benefit. Operating her business "The Ethical Exchange" in the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Meadows]], she's built a reputation for honest dealing and genuine care for both memory donors and recipients, proving that the memory trade can be conducted with dignity and respect.
+Valeria Siltweave represents the reformed wing of the [[02_Worldbuilding/Places/Memory Farmers]] movement, working to transform memory commerce from exploitative harvesting into ethical trading based on consent, fair compensation, and mutual benefit. Operating her business "The Ethical Exchange" in the [[02_Worldbuilding/Lore/Memory Meadows]], she's built a reputation for honest dealing and genuine care for both memory donors and recipients, proving that the memory trade can be conducted with dignity and respect.
 
 ## Description
 - **Appearance**: Warm, approachable woman with kind eyes and prematurely silver hair
@@ -99,7 +99,7 @@ Valeria Siltweave represents the reformed wing of the [[vault_backup_20250813_07
 ## Relationships & Professional Network
 
 ### Reform Movement Allies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]** - Complex relationship with keeper of lost memories
+- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]** - Complex relationship with keeper of lost memories
 - **Reform-minded Memory Farmers** - Other ethical practitioners working to change the industry
 - **[[02_Worldbuilding/Groups/Free Current|02 Worldbuilding/Groups/Free Current]]** - Resistance movement that values ethical memory practices
 - **Medical Professionals** - Healers who refer trauma patients for memory therapy
@@ -108,7 +108,7 @@ Valeria Siltweave represents the reformed wing of the [[vault_backup_20250813_07
 ### Industry Relations
 - **Traditional [[02_Worldbuilding/Groups/Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]** - Former colleagues who view her as threat to profits
 - **Memory Collectors** - Unethical harvesters who compete with her business
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]** - Possible former mentor turned rival
+- **[[02_Worldbuilding/People/Memory Harvester Kythara]]** - Possible former mentor turned rival
 - **Memory Regulation Officials** - Government agents monitoring the memory trade
 - **Underground Memory Markets** - Black market operators she actively opposes
 
@@ -120,34 +120,34 @@ Valeria Siltweave represents the reformed wing of the [[vault_backup_20250813_07
 - **Elderly Donors** - Seniors sharing wisdom and life experience
 
 ### Political Connections
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]** - Politicians interested in memory trade regulation
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]** - Mutual respect for ethical business practices
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]** - Politicians interested in memory trade regulation
+- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]** - Mutual respect for ethical business practices
 - **Community Leaders** - Local officials who value her contribution to society
 - **Reform Advocates** - Activists working for memory rights and protection
 
 ### Military & Security Alliances
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Military protection for ethical businesses and civilian rights
+- **[[02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Military protection for ethical businesses and civilian rights
 - **[[02_Worldbuilding/Groups/The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]]**: Provides security intelligence about memory-related crimes
 - **Civilian Protection Services**: Coordinates with military for citizen safety during memory trade disputes
 - **Legal Enforcement**: Works with military investigators on memory trafficking cases
 
 ## Relationships
 ### Allied Memory Workers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]**: Shares commitment to protecting sacred aspects of memory
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Trader Kellian]]**: Professional respect despite different approaches
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Collaborates on preserving culturally important memories
+- **[[02_Worldbuilding/People/Memory Harvester Kythara]]**: Shares commitment to protecting sacred aspects of memory
+- **[[02_Worldbuilding/Lore/Memory Trader Kellian]]**: Professional respect despite different approaches
+- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Collaborates on preserving culturally important memories
 - **Ethical Memory Guild**: Network of reformed traders working toward industry change
 - **Therapeutic Memory Healers**: Medical professionals using memory-based treatments
 
 ### Opposition & Competitors
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmer Thane]]**: Represents everything she opposes in the industry
+- **[[02_Worldbuilding/Places/Memory Farmer Thane]]**: Represents everything she opposes in the industry
 - **Industrial Memory Syndicates**: Large-scale operations focused purely on profit
 - **Shadow Memory Dealers**: Criminals trafficking in stolen or traumatic memories
 - **Traditional Harvesters**: Old-school operators resistant to ethical reforms
 - **Corruption Profiteers**: Those who exploit desperate people's memories
 
 ### Institutional Relations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Supports her reform efforts and ethical business model
+- **[[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]**: Supports her reform efforts and ethical business model
 - **Medical Community**: Collaborates on therapeutic applications of memory sharing
 - **Religious Leaders**: Works with faiths that view memories as sacred
 - **Legal Reformers**: Advocates for laws protecting memory donors' rights
@@ -220,7 +220,7 @@ Valeria Siltweave represents the reformed wing of the [[vault_backup_20250813_07
 
 **Armor Class** 16 (Mage Armor + Natural)  
 **Hit Points** 165 (22d10 + 44)  
-**Speed** 30 ft., swim 40 ft. (while in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Meadows]])
+**Speed** 30 ft., swim 40 ft. (while in [[02_Worldbuilding/Lore/Memory Meadows]])
 
 **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
 --------|---------|---------|---------|---------|--------
@@ -251,7 +251,7 @@ Valeria Siltweave represents the reformed wing of the [[vault_backup_20250813_07
 - **4th level (3 slots):** confusion, greater invisibility, modify memory
 - **5th level (3 slots):** dominate person, geas, modify memory (enhanced)
 - **6th level (1 slot):** mass suggestion, mental prison
-- **7th level (1 slot):** plane shift (to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Meadows]])
+- **7th level (1 slot):** plane shift (to [[02_Worldbuilding/Lore/Memory Meadows]])
 - **8th level (1 slot):** feeblemind, mind blank
 - **9th level (1 slot):** wish (memory-related only)
 
@@ -280,7 +280,7 @@ Valeria can take 3 legendary actions, choosing from the options below. Only one 
 **Memory Touch (Costs 2 Actions).** Valeria makes a Memory Touch attack.
 
 ### Lair Actions
-When encountered in her shop "The Ethical Exchange" in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Meadows]], Valeria can take lair actions on initiative count 20:
+When encountered in her shop "The Ethical Exchange" in [[02_Worldbuilding/Lore/Memory Meadows]], Valeria can take lair actions on initiative count 20:
 
 **Sanctuary of Consent.** All creatures in the lair must succeed on a DC 19 Charisma saving throw or be unable to act aggressively toward willing memory donors.
 
@@ -342,7 +342,7 @@ When encountered in her shop "The Ethical Exchange" in [[vault_backup_20250813_0
 - **The Hypocrisy Discovery**: Afraid clients will discover her family background and realize she's built her ethical practice on the foundation of her father's crimes
 - **The Addiction Potential**: Worried she's becoming addicted to experiencing other people's memories, losing touch with her own authentic experiences
 - **The Reform Failure**: Deeply afraid her ethical approach is too idealistic and will ultimately fail, leaving the industry worse than before
-- **The Divine Judgment**: Since working with memories touched by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]], fears she's attracted cosmic attention that could judge her unworthy
+- **The Divine Judgment**: Since working with memories touched by [[02_Worldbuilding/Lore/The Deep Mother]], fears she's attracted cosmic attention that could judge her unworthy
 - **The Loneliness Trap**: Terrified that her intimate knowledge of others' memories is preventing her from forming genuine relationships based on shared experience
 
 ### Lost Loves & Emotional Connections
@@ -384,9 +384,9 @@ When encountered in her shop "The Ethical Exchange" in [[vault_backup_20250813_0
 ### Recurring Dreams & Subconscious Fears
 - **The Memory Storm**: Nightmares where all the memories she's ever handled break free and flood her consciousness, erasing her individual identity
 - **The Father's Return**: Dreams where Marcus Siltweave appears to drag her back into exploitative memory extraction, claiming she's become weak and soft
-- **The Perfect Healing**: Recurring vision of successfully healing every memory-related trauma in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], creating a city free from psychological pain
+- **The Perfect Healing**: Recurring vision of successfully healing every memory-related trauma in [[02_Worldbuilding/Places/Aquabyssos]], creating a city free from psychological pain
 - **The Client's Revenge**: Anxiety dreams where former victims of her father attack her, unable to distinguish between her ethical work and his exploitation
-- **The Divine Memory**: Mystical dreams involving [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s cosmic memories; sometimes prophetic, sometimes overwhelming and incomprehensible
+- **The Divine Memory**: Mystical dreams involving [[02_Worldbuilding/Lore/The Deep Mother]]'s cosmic memories; sometimes prophetic, sometimes overwhelming and incomprehensible
 - **The Empty Archive**: Nightmares where her memory preservation work fails and all the family histories and cultural memories she's saved disappear forever
 - **The True Self**: Disturbing dreams where she discovers her entire personality is just a composite of borrowed memories and she has no authentic identity
 
@@ -415,37 +415,37 @@ When encountered in her shop "The Ethical Exchange" in [[vault_backup_20250813_0
 - **The Cultural Preservation**: Sees herself as guardian of cultural heritage through memory preservation; believes this work serves future generations
 - **The Redemption Path**: Convinced that her father's crimes can only be balanced by her lifetime of ethical work; seeks cosmic justice through good deeds
 - **The Community Healing**: Believes individual trauma healing contributes to broader social healing; her work serves both personal and collective good
-- **The Divine Responsibility**: Since encountering fragments of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s memories, believes memory workers serve a cosmic function in preserving universal consciousness
+- **The Divine Responsibility**: Since encountering fragments of [[02_Worldbuilding/Lore/The Deep Mother]]'s memories, believes memory workers serve a cosmic function in preserving universal consciousness
 
 ---
 
 ## Expanded Relationships & Faction Ties
 
-### The [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]] Reformed Branch
-Valeria leads a splinter faction of 23 reformed memory workers operating across [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. They maintain:
+### The [[02_Worldbuilding/Places/Memory Farmers]] Reformed Branch
+Valeria leads a splinter faction of 23 reformed memory workers operating across [[02_Worldbuilding/Places/Aquabyssos]]. They maintain:
 - **Monthly Ethical Councils**: Reviewing practices and supporting struggling members
 - **The Clean Slate Program**: Rehabilitation for memory farmers wanting to reform
 - **Victim Support Network**: Ongoing assistance for those harmed by unethical practices
 - **Legal Defense Fund**: Protection for members facing retaliation from traditional harvesters
 
-### Alliance with [[vault_backup_20250813_073007/02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
+### Alliance with [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
 Their partnership extends beyond simple business support:
 - Valeria provides therapeutic memory services for trauma victims in legal proceedings
 - Cassia introduces protective legislation for memory donors
 - Joint investigation of memory trafficking rings
 - Collaborative victim rehabilitation programs
 
-### Rivalry with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmer Thane]]
+### Rivalry with [[02_Worldbuilding/Places/Memory Farmer Thane]]
 Their conflict represents two opposing philosophies:
 - **Ideological Opposition**: Exploitation vs. ethical exchange
 - **Economic Competition**: Thane undercuts her prices through unethical practices
 - **Personal History**: She may have worked under him early in her career
 - **Public Relations War**: Both compete for public opinion on memory commerce
 
-### Connection to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+### Connection to [[02_Worldbuilding/Lore/The Deep Mother]]
 Recent developments have revealed mystical elements to her work:
 - Some memories she preserves contain fragments of divine dreams
-- Her facility sits atop a minor nexus of memory-streams flowing toward [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- Her facility sits atop a minor nexus of memory-streams flowing toward [[02_Worldbuilding/Places/The Hadal Depths]]
 - She's begun receiving visions during memory-sharing sessions
 - [[Pressure Angel Benthia]] has visited her establishment, approving of her ethical approach
 
@@ -491,7 +491,7 @@ Recent developments have revealed mystical elements to her work:
 - Provides ethically-sourced memories for scholarly research
 - Maintains strict anonymity and consent protocols
 - Contributes to understanding of memory magic and psychology
-- Partners with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/University of Deepcurrent]] memory research department
+- Partners with [[02_Worldbuilding/Lore/University of Deepcurrent]] memory research department
 
 ---
 
@@ -500,7 +500,7 @@ Recent developments have revealed mystical elements to her work:
 ### 1. The Memory Plague Investigation (Level 8-12)
 A mysterious ailment is causing people to lose treasured memories. Valeria suspects magical interference from [[Shadow corruption]] but needs investigators to trace the source.
 - **Rewards**: 5,000gp, Memory protection charms, Faction reputation
-- **Complications**: The plague may be side effect of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmer Thane]]'s new extraction techniques
+- **Complications**: The plague may be side effect of [[02_Worldbuilding/Places/Memory Farmer Thane]]'s new extraction techniques
 
 ### 2. The Ethical Crusade (Level 6-10)  
 Valeria asks the party to help her establish ethical memory exchanges in three major cities, facing opposition from entrenched exploitation networks.
@@ -508,50 +508,50 @@ Valeria asks the party to help her establish ethical memory exchanges in three m
 - **Complications**: Local crime syndicates profit from memory trafficking
 
 ### 3. The Divine Memory Crisis (Level 10-15)
-Fragments of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]'s dreams are becoming embedded in donated memories, causing psychological instability. Valeria needs help consulting [[Pressure Angel Benthia]].
+Fragments of [[02_Worldbuilding/Lore/The Deep Mother]]'s dreams are becoming embedded in donated memories, causing psychological instability. Valeria needs help consulting [[Pressure Angel Benthia]].
 - **Rewards**: Divine blessings, 8,000gp, Access to cosmic memories
 - **Complications**: The dreams contain prophecies that powerful factions want suppressed
 
 ### 4. The Donor Protection Mission (Level 7-11)
 A memory farming operation is kidnapping vulnerable individuals. Valeria hires the party to rescue victims and shut down the operation permanently.
 - **Rewards**: 4,500gp, Rescued victims' eternal gratitude, Legal testimony from Tribune Cassia
-- **Complications**: The operation is backed by [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]] interests
+- **Complications**: The operation is backed by [[02_Worldbuilding/Groups/Silverscale Consortium]] interests
 
 ### 5. The Memory War (Level 12-16)
 Full-scale conflict erupts between ethical and exploitative memory factions. Valeria needs champions to tip the balance toward reform.
 - **Rewards**: 10,000gp, Leadership role in reformed industry, Royal recognition
-- **Complications**: Victory may attract attention from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] herself
+- **Complications**: Victory may attract attention from [[02_Worldbuilding/Lore/The Deep Mother]] herself
 
 ---
 
 ## Connected Campaign Elements
 
-### Links to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Meadows]]
+### Links to [[02_Worldbuilding/Lore/Memory Meadows]]
 - Her establishment serves as safe haven for memory-related NPCs
 - Neutral ground where different memory factions can meet
 - Contains portal access to deeper memory-stream networks
 - Protected by ancient agreements between memory entities
 
-### Integration with [[vault_backup_20250813_073007/02_Worldbuilding/People/Tribune Cassia Deepcurrent]]'s Legal Reforms
+### Integration with [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]'s Legal Reforms
 - Joint legislative efforts to regulate memory commerce
 - Collaborative victim advocacy programs
 - Shared resources for investigating memory crimes
-- Combined political influence in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] government
+- Combined political influence in [[02_Worldbuilding/Places/Aquabyssos]] government
 
-### Connection to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] Mythology
+### Connection to [[02_Worldbuilding/Lore/The Deep Mother]] Mythology
 - Unwitting preservation of divine memory fragments
 - Growing mystical abilities tied to goddess's stirring
 - Potential role as bridge between mortal and divine memory
 - May receive prophetic visions during deep memory work
 
 ### Divine Exploration Network
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Divine memory research partnership
+**[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Divine memory research partnership
 - Receives memories of Deep Mother encounters from his exploration network
 - Provides therapeutic support for individuals overwhelmed by cosmic consciousness experiences
 - Collaborates on preserving cultural memories related to divine oceanic encounters
 - Offers memory-based counseling for those affected by Deep Mother's awakening signs
 
-### Trade Relations with [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
+### Trade Relations with [[02_Worldbuilding/Groups/Silverscale Consortium]]
 - Ongoing conflict over ethical vs. profitable approaches
 - Competition for government contracts and public support
 - Potential infiltration attempts by Consortium agents
@@ -571,11 +571,11 @@ Full-scale conflict erupts between ethical and exploitative memory factions. Val
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/His Own Shadow]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Cerulean Breath]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Sorrowmaster]]
+- [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]
+- [[02_Worldbuilding/People/His Own Shadow]]
+- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+- [[02_Worldbuilding/People/The Cerulean Breath]]
+- [[02_Worldbuilding/People/The Sorrowmaster]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
@@ -589,12 +589,12 @@ Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and pre
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/People/Memory Harvester Kythara]]
 - [[Pressure Angel Benthia]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Hadal Depths]]
+- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
+- [[02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/The Hadal Depths]]

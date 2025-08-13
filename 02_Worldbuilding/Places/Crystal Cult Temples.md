@@ -98,7 +98,7 @@ The most sacred ritual, where willing members undergo procedures to accelerate t
 
 **Age:** 43 (appears ageless due to crystallization)  
 **Stage:** 4 (Voluntarily infected 3 years ago)  
-**Background:** Former [[vault_backup_20250813_073007/02_Worldbuilding/Places/Medical Research Facilities]] who became convinced that cure research was misguided  
+**Background:** Former [[02_Worldbuilding/Places/Medical Research Facilities]] who became convinced that cure research was misguided  
 **Abilities:** Levitation, crystal communion, harmonic voice projection
 
 High Priestess Seraphina founded the temple after her deliberate infection with the plague. Her scientific background lends credibility to the cult's theological claims about the divine nature of crystallization.
@@ -110,7 +110,7 @@ Her crystalline formations follow geometric patterns that seem to shift and flow
 *Current Projects:*
 - Developing theological framework for crystalline society
 - Training Stage 3-4 members in temple leadership roles  
-- Coordinating with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Black Market Crystal Trade]] suppliers for medical equipment
+- Coordinating with [[02_Worldbuilding/Lore/Black Market Crystal Trade]] suppliers for medical equipment
 - Establishing satellite temples in other cities
 
 #### The Living Saints - Stage 5 Oracles
@@ -138,7 +138,7 @@ Saint Marina's crystalline form incorporates patterns reminiscent of deep-sea pr
 **Sister Coral Gentletouch**  
 **Age:** 29, **Stage:** 2  
 **Role:** Community outreach and new member recruitment  
-**Method:** Visits [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Plague Wards]] to offer spiritual comfort to patients
+**Method:** Visits [[02_Worldbuilding/Places/Crystal Plague Wards]] to offer spiritual comfort to patients
 
 Sister Coral presents herself as a compassionate volunteer providing emotional support to plague victims. Her genuine care and acceptance offers stark contrast to the fear and rejection plague victims encounter elsewhere.
 
@@ -336,7 +336,7 @@ More paranoid cult factions believe the plague was deliberately introduced by fo
 - Timing of plague emergence coincided with international tensions
 - Government response seems designed to hide truth rather than provide aid
 - Foreign nations offer assistance while secretly studying plague effects
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Black Market Crystal Trade]] operations may be foreign intelligence gathering
+- [[02_Worldbuilding/Lore/Black Market Crystal Trade]] operations may be foreign intelligence gathering
 
 **Cult Response:**
 - Members must protect themselves from foreign exploitation
@@ -485,12 +485,12 @@ The party discovers that cult healing practices, while religiously motivated, ar
 - Present opportunities for compromise and cooperation alongside conflict scenarios
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Plague Progression System]] - Disease mechanics that cult members interpret spiritually
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Plague Wards]] - Official medical system that cults offer alternative to
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Medical Research Facilities]] - Scientific establishments that cults view as misguided
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Black Market Crystal Trade]] - Economic networks that cults sometimes utilize
+- [[02_Worldbuilding/Lore/Crystal Plague Progression System]] - Disease mechanics that cult members interpret spiritually
+- [[02_Worldbuilding/Places/Crystal Plague Wards]] - Official medical system that cults offer alternative to
+- [[02_Worldbuilding/Places/Medical Research Facilities]] - Scientific establishments that cults view as misguided
+- [[02_Worldbuilding/Lore/Black Market Crystal Trade]] - Economic networks that cults sometimes utilize
 - [[Brother Marcus]] - Legitimate healer whose methods cults sometimes emulate
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underground Smuggling Networks]] - Distribution systems for cult materials and members
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Quarantine Enforcement]] - Government policies that cults help members evade
+- [[02_Worldbuilding/Lore/Underground Smuggling Networks]] - Distribution systems for cult materials and members
+- [[02_Worldbuilding/Lore/Quarantine Enforcement]] - Government policies that cults help members evade
 
 <!-- enriched: true -->

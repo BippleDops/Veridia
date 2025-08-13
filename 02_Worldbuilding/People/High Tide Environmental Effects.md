@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[1-Session Journals/Aquabyssos - Session 03 - The Gallery Conspiracy]]
 
 ## Player-Facing Summary
 

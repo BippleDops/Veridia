@@ -55,8 +55,8 @@ Sage Lyralei Starweaver is a living crossroads where memory-currents and trade f
 - Rewards: Faction favor notes, tariff keys, market scrip worth 2d10×10 gp in local value.
 
 ## Threads to the Main Campaign
-- Archivists claim a ledger fragment pointing toward [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Lighthouse of Storms]].
-- A clandestine auction circles artifacts tied to [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]].
+- Archivists claim a ledger fragment pointing toward [[02_Worldbuilding/Lore/The Lighthouse of Storms]].
+- A clandestine auction circles artifacts tied to [[02_Worldbuilding/Quests/The Whispering Expanse]].
 - An information broker with ties to [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] trades memories for favors.
 
 ## Multiple Resolution Paths (Fail-Forward)
@@ -65,8 +65,8 @@ Sage Lyralei Starweaver is a living crossroads where memory-currents and trade f
 - Formal petition: Argue precedent at the Quiet Chapel; on a miss, the judge imposes a bond that grants limited passage and a clock to pay it back.
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Lighthouse of Storms]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/The Whispering Expanse]]
+- [[02_Worldbuilding/Lore/The Lighthouse of Storms]]
+- [[02_Worldbuilding/Quests/The Whispering Expanse]]
 - [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
 
 ## Player-Facing Summary
@@ -92,5 +92,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- [[02_Worldbuilding/Places/Crystalhaven]]

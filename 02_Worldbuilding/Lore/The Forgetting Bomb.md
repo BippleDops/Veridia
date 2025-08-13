@@ -32,7 +32,7 @@ world: Aquabyssos
 
 ## Overview
 
-The Forgetting Bomb represents the pinnacle of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Weapon Arms Race]] - a device capable of inflicting total amnesia on entire populations within its blast radius. Unlike selective memory alteration tools, the Forgetting Bomb indiscriminately erases all memories, leaving victims as functional adults with no knowledge of their identity, relationships, or accumulated life experience. This weapon transforms warfare from physical destruction to psychological annihilation, making it one of the most feared and morally controversial developments in modern [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+The Forgetting Bomb represents the pinnacle of [[02_Worldbuilding/Lore/The Memory Weapon Arms Race]] - a device capable of inflicting total amnesia on entire populations within its blast radius. Unlike selective memory alteration tools, the Forgetting Bomb indiscriminately erases all memories, leaving victims as functional adults with no knowledge of their identity, relationships, or accumulated life experience. This weapon transforms warfare from physical destruction to psychological annihilation, making it one of the most feared and morally controversial developments in modern [[02_Worldbuilding/Places/Aquabyssos]].
 
 ## Technical Specifications
 
@@ -72,7 +72,7 @@ Recent versions incorporate shadow corruption to make effects more thorough:
 
 ### Origin Project: "Clean Slate"
 **Years 580-585 AS (After Submersion):**
-The Forgetting Bomb originated from a therapeutic research project aimed at treating severe trauma and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alteration Consequences]]. Dr. Nereus Thoughtweaver and his team at the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Research Institute]] were developing techniques for complete memory reset to help victims of extreme psychological damage start fresh lives.
+The Forgetting Bomb originated from a therapeutic research project aimed at treating severe trauma and [[02_Worldbuilding/Lore/Memory Alteration Consequences]]. Dr. Nereus Thoughtweaver and his team at the [[02_Worldbuilding/Lore/The Memory Research Institute]] were developing techniques for complete memory reset to help victims of extreme psychological damage start fresh lives.
 
 **Initial Breakthrough:**
 - Discovery that memory-disrupting crystals could be "charged" with anti-memories
@@ -82,7 +82,7 @@ The Forgetting Bomb originated from a therapeutic research project aimed at trea
 
 ### Military Weaponization
 **Years 585-590 AS:**
-The potential military applications became obvious to [[02_Worldbuilding/Lore/The Deep Intelligence Agency Director|02 Worldbuilding/Lore/The Deep Intelligence Agency Director]] and other organizations involved in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Weapon Arms Race]]. Despite Dr. Thoughtweaver's protests, research was classified and moved to military facilities.
+The potential military applications became obvious to [[02_Worldbuilding/Lore/The Deep Intelligence Agency Director|02 Worldbuilding/Lore/The Deep Intelligence Agency Director]] and other organizations involved in [[02_Worldbuilding/Lore/The Memory Weapon Arms Race]]. Despite Dr. Thoughtweaver's protests, research was classified and moved to military facilities.
 
 **Weapons Development:**
 - Scaling up from individual treatment to area effect
@@ -96,14 +96,14 @@ The potential military applications became obvious to [[02_Worldbuilding/Lore/Th
 The first and only combat deployment of a Forgetting Bomb created an international crisis:
 
 **The Meridian District Catastrophe:**
-- Terrorist organization detonated prototype device in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+- Terrorist organization detonated prototype device in [[02_Worldbuilding/Places/Port Meridian]]
 - 50,000 people within blast radius suffered complete amnesia
 - Entire district's social structure collapsed overnight
 - Emergency response teams also affected, hampering rescue efforts
-- Economic and social chaos spread throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]
+- Economic and social chaos spread throughout [[02_Worldbuilding/Places/Aquabyssos]]
 
 **International Response:**
-- Emergency session of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Parliament of Echoes]]
+- Emergency session of [[02_Worldbuilding/Places/Parliament of Echoes]]
 - International treaties attempting to ban Forgetting Bomb development
 - Mass protests against memory weapon research
 - Academic and religious condemnation of the technology
@@ -115,8 +115,8 @@ Despite international condemnation and treaty obligations, multiple organization
 
 **Known Developers:**
 - **[[02_Worldbuilding/Lore/The Deep Intelligence Agency Director|02 Worldbuilding/Lore/The Deep Intelligence Agency Director]]**: Estimated 12-15 devices in arsenal
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]**: Unknown number, enhanced with shadow corruption
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Silverscale Banking House]]**: Corporate espionage suggests 3-5 devices
+- **[[02_Worldbuilding/Lore/The Crimson Hand]]**: Unknown number, enhanced with shadow corruption
+- **[[02_Worldbuilding/Lore/Silverscale Banking House]]**: Corporate espionage suggests 3-5 devices
 - **Foreign Powers**: Intelligence estimates 20+ devices exist globally
 - **Rogue Scientists**: Unknown number of improvised devices
 
@@ -204,7 +204,7 @@ Despite international condemnation and treaty obligations, multiple organization
 
 ### International Law
 **Treaty Obligations:**
-The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Meridian Accords]] established international law regarding Forgetting Bombs:
+The [[02_Worldbuilding/Lore/Meridian Accords]] established international law regarding Forgetting Bombs:
 - Complete ban on development, testing, and deployment
 - Requirements for destruction of existing devices
 - International monitoring and inspection protocols
@@ -220,7 +220,7 @@ The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Meridian Accords]] esta
 
 ### Religious and Philosophical Opposition
 **[[The Depth Mysteries Cult]] Position:**
-- Memory is sacred gift from [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- Memory is sacred gift from [[02_Worldbuilding/Lore/The Deep Mother]]
 - Destroying memories is form of spiritual murder
 - Forgetting Bomb represents ultimate blasphemy
 - Victims become "hollow shells" without divine connection
@@ -282,7 +282,7 @@ The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Meridian Accords]] esta
 
 ## Connection to Campaign Elements
 
-### Relationship to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Weapon Arms Race]]
+### Relationship to [[02_Worldbuilding/Lore/The Memory Weapon Arms Race]]
 **Ultimate Weapon:**
 The Forgetting Bomb represents the logical endpoint of memory weapons development:
 - Escalation from selective to total memory destruction
@@ -291,7 +291,7 @@ The Forgetting Bomb represents the logical endpoint of memory weapons developmen
 - Technology proliferation creating global security threat
 - Arms race acceleration as nations seek countermeasures
 
-### Impact on [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
+### Impact on [[02_Worldbuilding/Lore/The Convergence Point]]
 **Convergence Threat:**
 Forgetting Bombs pose unique risks during reality merger:
 - Mass amnesia could eliminate cultural knowledge needed for successful integration
@@ -300,16 +300,16 @@ Forgetting Bombs pose unique risks during reality merger:
 - Shadow-enhanced devices might corrupt convergence process itself
 - Use during convergence could permanently damage merged reality
 
-### Connection to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
+### Connection to [[02_Worldbuilding/Lore/The Crimson Hand]]
 **Shadow Enhancement:**
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]] has developed superior Forgetting Bomb technology:
+[[02_Worldbuilding/Lore/The Crimson Hand]] has developed superior Forgetting Bomb technology:
 - Shadow corruption makes memory erasure permanent and irreversible
 - Enhanced devices can target specific types of memories
 - Corruption allows remote activation and control
 - Shadow-touched victims become susceptible to organization manipulation
 - Technology gives them significant advantage in convergence power struggle
 
-### Threat to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Real Marina]]
+### Threat to [[02_Worldbuilding/Lore/The Real Marina]]
 **Dimensional Anchor Risk:**
 Marina's unique nature creates both vulnerability and resistance:
 - Multiple reality streams might protect her from complete memory loss
@@ -322,15 +322,15 @@ Marina's unique nature creates both vulnerability and resistance:
 
 ### Hidden Truth About Development
 > [!warning] DM Only
-> Dr. Nereus Thoughtweaver didn't develop the Forgetting Bomb accidentally - he was subtly influenced by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]] through his research dreams. She wanted a weapon that could erase the memories binding people to their current reality, making them more susceptible to integration into her collective consciousness during convergence. The "therapeutic" origins were a cover for creating the ultimate tool for consciousness absorption.
+> Dr. Nereus Thoughtweaver didn't develop the Forgetting Bomb accidentally - he was subtly influenced by [[02_Worldbuilding/Lore/The Deep Mother]] through his research dreams. She wanted a weapon that could erase the memories binding people to their current reality, making them more susceptible to integration into her collective consciousness during convergence. The "therapeutic" origins were a cover for creating the ultimate tool for consciousness absorption.
 
 ### Shadow Corruption Connection
 > [!warning] DM Secret
-> The shadow corruption used to enhance Forgetting Bombs isn't just preserving the amnesia - it's collecting the erased memories. Each shadow-enhanced device creates a "memory repository" that [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]] can access for intelligence and psychological manipulation. Victims don't just lose their memories; those memories become weapons against their former communities.
+> The shadow corruption used to enhance Forgetting Bombs isn't just preserving the amnesia - it's collecting the erased memories. Each shadow-enhanced device creates a "memory repository" that [[02_Worldbuilding/Lore/The Crimson Hand]] can access for intelligence and psychological manipulation. Victims don't just lose their memories; those memories become weapons against their former communities.
 
 ### The Memory Plague Vector
 > [!warning] Hidden Knowledge
-> Forgetting Bombs don't just erase memories - they create "memory holes" in reality itself. These holes make affected areas more susceptible to convergence effects and dimensional instability. Each device detonated weakens the barriers between [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], essentially using mass amnesia as a tool for reality manipulation.
+> Forgetting Bombs don't just erase memories - they create "memory holes" in reality itself. These holes make affected areas more susceptible to convergence effects and dimensional instability. Each device detonated weakens the barriers between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], essentially using mass amnesia as a tool for reality manipulation.
 
 ## Adventure Hooks and Campaign Integration
 
@@ -359,31 +359,31 @@ Marina's unique nature creates both vulnerability and resistance:
 
 ### Key NPCs
 - [[Dr. Nereus Thoughtweaver]] - Original developer, now opposed to weaponization
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Weaver]] - [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]] member enhancing devices with shadows
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Director Hadrian Silverscale]] - Corporate leader with potential access to devices
+- [[02_Worldbuilding/Lore/The Memory Weaver]] - [[02_Worldbuilding/Lore/The Crimson Hand]] member enhancing devices with shadows
+- [[02_Worldbuilding/Lore/Director Hadrian Silverscale]] - Corporate leader with potential access to devices
 - [[The Deep Intelligence Agency Director]] - Government official controlling military arsenal
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Merchant Valeria]] - Black market dealer potentially trading in components
+- [[02_Worldbuilding/Lore/Memory Merchant Valeria]] - Black market dealer potentially trading in components
 
 ### Important Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Research Institute]] - Original development facility
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Meridian Amnesia Zone]] - Site of first combat deployment
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgetting Bomb Facility]] - Current production location
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Weapon Vault]] - Military storage for strategic devices
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Shadow Labs]] - [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]] enhancement facilities
+- [[02_Worldbuilding/Lore/The Memory Research Institute]] - Original development facility
+- [[02_Worldbuilding/Lore/The Meridian Amnesia Zone]] - Site of first combat deployment
+- [[02_Worldbuilding/Lore/The Forgetting Bomb Facility]] - Current production location
+- [[02_Worldbuilding/Lore/The Memory Weapon Vault]] - Military storage for strategic devices
+- [[02_Worldbuilding/Lore/The Shadow Labs]] - [[02_Worldbuilding/Lore/The Crimson Hand]] enhancement facilities
 
 ### Related Events
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Forgetting Incident]] - First combat use creating international crisis
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Meridian Accords]] - International treaty banning the weapons
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Research Massacre]] - Attack on original development team
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Cleansing]] - Potential future use during reality merger
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Forgetting]] - Ultimate deployment threatening all memory
+- [[02_Worldbuilding/Lore/The Great Forgetting Incident]] - First combat use creating international crisis
+- [[02_Worldbuilding/Lore/Meridian Accords]] - International treaty banning the weapons
+- [[02_Worldbuilding/Lore/The Memory Research Massacre]] - Attack on original development team
+- [[02_Worldbuilding/Lore/The Convergence Cleansing]] - Potential future use during reality merger
+- [[02_Worldbuilding/Lore/The Final Forgetting]] - Ultimate deployment threatening all memory
 
 ### Strategic Assets
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Disruptor Network]] - Early warning system for memory attacks
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Consciousness Vault]] - Backup storage for important memories
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Amnesia Rehabilitation Centers]] - Treatment facilities for victims
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Shield Array]] - Defensive barriers around critical locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgetting Bomb Arsenal]] - Hidden cache of strategic weapons
+- [[02_Worldbuilding/Lore/The Memory Disruptor Network]] - Early warning system for memory attacks
+- [[02_Worldbuilding/Lore/The Consciousness Vault]] - Backup storage for important memories
+- [[02_Worldbuilding/Lore/The Amnesia Rehabilitation Centers]] - Treatment facilities for victims
+- [[02_Worldbuilding/Lore/The Memory Shield Array]] - Defensive barriers around critical locations
+- [[02_Worldbuilding/Lore/The Forgetting Bomb Arsenal]] - Hidden cache of strategic weapons
 
 ---
 
@@ -393,8 +393,8 @@ Marina's unique nature creates both vulnerability and resistance:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Memory Weapon Arms Race]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
+- [[02_Worldbuilding/Lore/The Memory Weapon Arms Race]]
 
 ## Player-Facing Summary
 
@@ -418,7 +418,7 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Memory Alteration Consequences]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crimson Hand]]
+- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/Memory Alteration Consequences]]
+- [[02_Worldbuilding/Lore/The Convergence Point]]
+- [[02_Worldbuilding/Lore/The Crimson Hand]]

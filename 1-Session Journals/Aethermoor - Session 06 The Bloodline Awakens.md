@@ -5,17 +5,17 @@ created: '2025-08-11'
 date_played: null
 estimated_time: 3-4 hours
 level: 4
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lighthouse Ruins]] to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Hidden Sanctuary]]'
+location: '[[02_Worldbuilding/Lore/Lighthouse Ruins]] to [[02_Worldbuilding/Lore/Hidden Sanctuary]]'
 npcs_featured:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos]]'
 - '[[Jasper Three-Eyes Flint]]'
 obsidianUIMode: preview
 quests_advanced:
 - '[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Uniting the Factions]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Rewriting the Ritual]]'
+- '[[02_Worldbuilding/People/Uniting the Factions]]'
+- '[[02_Worldbuilding/Lore/Rewriting the Ritual]]'
 session_number: 6
 status: complete
 tags:
@@ -46,7 +46,7 @@ world: Aethermoor
 
 ## 🎬 Strong Start
 
-One party member begins to crystallize, but unlike plague victims, the crystals form protective patterns. Ancient memories flood their mind - they see [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] in its glory, and their ancestor helping to create the Seven Shards prison. [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] arrives: "We have 24 hours. Your awakening has accelerated everything."
+One party member begins to crystallize, but unlike plague victims, the crystals form protective patterns. Ancient memories flood their mind - they see [[02_Worldbuilding/Places/Aquabyssos]] in its glory, and their ancestor helping to create the Seven Shards prison. [[02_Worldbuilding/People/The Crimson Sage]] arrives: "We have 24 hours. Your awakening has accelerated everything."
 
 ## 📍 Scenes
 
@@ -59,7 +59,7 @@ One party member begins to crystallize, but unlike plague victims, the crystals 
 ### Scene 2: The Faction Summit
 - **Location**: Neutral ground at the Merchant Guildhall
 - **Situation**: Desperate alliance negotiations
-- **Conflict**: [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] attempts coup
+- **Conflict**: [[02_Worldbuilding/People/High Inquisitor Maltheos]] attempts coup
 - **Discovery**: Each faction leader has been hiding a shard
 
 ### Scene 3: The Memory Dive
@@ -79,12 +79,12 @@ One party member begins to crystallize, but unlike plague victims, the crystals 
 1. The Seventh Shard isn't an object - it's a living bloodline
 2. The Drowned God was actually Aquabyssos's magical defense system
 3. The plague transformation would make humans compatible with Aquabyssos
-4. [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] has been weakening the prison to prevent catastrophic release
-5. [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'s organization has been protecting bloodline descendants
-6. [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]'s son is another bloodline carrier
+4. [[02_Worldbuilding/People/The Crimson Sage]] has been weakening the prison to prevent catastrophic release
+5. [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'s organization has been protecting bloodline descendants
+6. [[02_Worldbuilding/People/High Inquisitor Maltheos]]'s son is another bloodline carrier
 7. The festival ground was chosen because it's directly above Aquabyssos
 8. The original ritual can be inverted to seal the city permanently
-9. [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] is still alive and has the sixth shard
+9. [[02_Worldbuilding/People/Vex Shadowthorn]] is still alive and has the sixth shard
 10. The Queen retains enough control to help if approached correctly
 
 ## 👥 NPCs
@@ -147,10 +147,10 @@ With five shards gathered, the party races toward the festival. They arrive to f
 
 ## 🔗 Connected Notes
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Festival]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Aquabyssos World Overview]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]
+- [[02_Worldbuilding/Lore/The Crystal Festival]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview]]
+- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]]
 
 ## 📝 DM Notes
 ```
@@ -169,4 +169,4 @@ Key Decision Points:
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]

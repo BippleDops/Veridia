@@ -39,7 +39,7 @@ world: Aethermoor
 *The Sky-Watcher, Guardian of the Heavens' Heart, The Blue Oracle*
 
 ## Overview
-Azure Shard is both a person and an artifact—the human guardian who has become permanently merged with the Azure Shard of Sky and Storm, one of the legendary Seven Shards that once formed the Crown of Stars. Originally named Celeste Windwhisper, she transformed herself into the living embodiment of the Azure Shard three centuries ago to protect it from corruption during the great Shattering. Now she exists as an immortal guardian, watching over [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] from her floating observatory, forever scanning the skies for threats and maintaining the delicate balance of weather and wind.
+Azure Shard is both a person and an artifact—the human guardian who has become permanently merged with the Azure Shard of Sky and Storm, one of the legendary Seven Shards that once formed the Crown of Stars. Originally named Celeste Windwhisper, she transformed herself into the living embodiment of the Azure Shard three centuries ago to protect it from corruption during the great Shattering. Now she exists as an immortal guardian, watching over [[02_Worldbuilding/Places/Aethermoor]] from her floating observatory, forever scanning the skies for threats and maintaining the delicate balance of weather and wind.
 
 ## The Transformation Story
 
@@ -54,7 +54,7 @@ Azure Shard is both a person and an artifact—the human guardian who has become
 ### The Crown's Shattering
 **The Crisis** (300 years ago)
 - Shadow corruption began infecting the Crown of Stars
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Emperor]] ordered the crown's deliberate fragmentation
+- [[02_Worldbuilding/People/The Emperor]] ordered the crown's deliberate fragmentation
 - Seven Shards scattered across both realms to prevent total corruption
 - Azure Shard became violently unstable without its companion pieces
 - Began generating catastrophic storms threatening all of Aethermoor
@@ -233,14 +233,14 @@ Azure Shard is both a person and an artifact—the human guardian who has become
 ## Relationships with Other Guardians
 
 ### Active Guardian Connections
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Verdant Shard]]** (Nature/Growth)
+**[[02_Worldbuilding/People/Verdant Shard]]** (Nature/Growth)
 - Closest ally among remaining guardians
 - Coordinate weather and plant growth cycles
 - Regular communication about seasonal changes
 - Share information about corruption detection
 - Work together on realm-wide environmental projects
 
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Seventh Shard]]** (Mystery/Void)
+**[[02_Worldbuilding/People/Seventh Shard]]** (Mystery/Void)
 - Mysterious and concerning relationship
 - Seventh Shard's nature makes communication difficult
 - Azure provides weather support for Seventh's activities
@@ -285,7 +285,7 @@ Azure Shard is both a person and an artifact—the human guardian who has become
 - Experimenting with temporary Shard harmonics and resonance
 - Communicating with remaining guardians about reunification risks
 - Developing protocols for crown reconstruction if necessary
-- Preparing for potential restoration of [[vault_backup_20250813_073007/02_Worldbuilding/People/The Emperor]]
+- Preparing for potential restoration of [[02_Worldbuilding/People/The Emperor]]
 
 **Atmospheric Restoration**
 - Working to repair damage from centuries of unbalanced weather
@@ -431,39 +431,39 @@ Azure Shard is both a person and an artifact—the human guardian who has become
 ## Connected Elements
 
 ### Key NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Verdant Shard]] - Allied guardian
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Seventh Shard]] - Mysterious guardian
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Emperor]] - Original crown bearer
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Political ally
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Studies Shard lore
+- [[02_Worldbuilding/People/Verdant Shard]] - Allied guardian
+- [[02_Worldbuilding/People/Seventh Shard]] - Mysterious guardian
+- [[02_Worldbuilding/People/The Emperor]] - Original crown bearer
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Political ally
+- [[02_Worldbuilding/People/The Crimson Sage]] - Studies Shard lore
 
 ### Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Skyfall Observatory]] - Primary residence and base
+- [[02_Worldbuilding/Lore/Skyfall Observatory]] - Primary residence and base
 - [[Floating Crystal Peaks]] - Home region
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Azure Chamber]] - Shard resonance center
+- [[02_Worldbuilding/Lore/The Azure Chamber]] - Shard resonance center
 - [[Guardian Dream Realm]] - Council meeting space
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Storm Archive]] - Repository of weather knowledge
+- [[02_Worldbuilding/Lore/Storm Archive]] - Repository of weather knowledge
 
 ### Organizations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shard Guardians]] - Ancient order
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Weather-Mage Colleges]] - Educational allies
+- [[02_Worldbuilding/Lore/The Seven Shard Guardians]] - Ancient order
+- [[02_Worldbuilding/Lore/Weather-Mage Colleges]] - Educational allies
 - [[Sky-Sailor Guilds]] - Information network
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Keepers]] - Observatory maintenance
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Atmospheric Research Society]] - Academic partners
+- [[02_Worldbuilding/Places/Crystal Keepers]] - Observatory maintenance
+- [[02_Worldbuilding/Lore/Atmospheric Research Society]] - Academic partners
 
 ### Items & Artifacts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Azure Shard]] - The original artifact
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crown of Stars Fragments]] - Related artifacts
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Storm-Caller Staff]] - Backup weather focus
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Prophetic Weather Charts]] - Divination tools
+- [[02_Worldbuilding/Lore/The Azure Shard]] - The original artifact
+- [[02_Worldbuilding/Lore/Crown of Stars Fragments]] - Related artifacts
+- [[02_Worldbuilding/Lore/Storm-Caller Staff]] - Backup weather focus
+- [[02_Worldbuilding/Lore/Prophetic Weather Charts]] - Divination tools
 - [[Guardian Communion Crystals]] - Communication network
 
 ### Events & Phenomena
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Shattering]] - Original fragmentation
+- [[02_Worldbuilding/Lore/The Great Shattering]] - Original fragmentation
 - [[Guardian Merger Rituals]] - Transformation process
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Storm of Convergence]] - Prophesied crisis
+- [[02_Worldbuilding/Lore/The Storm of Convergence]] - Prophesied crisis
 - [[Guardian Council Dreams]] - Regular meetings
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crown Reunification Protocols]] - Potential future event
+- [[02_Worldbuilding/Lore/Crown Reunification Protocols]] - Potential future event
 
 ---
 
@@ -472,7 +472,7 @@ Azure Shard is both a person and an artifact—the human guardian who has become
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Sir Marcus Dawnforge]]
+- [[02_Worldbuilding/People/Sir Marcus Dawnforge]]
 
 ## Player-Facing Summary
 
@@ -484,6 +484,6 @@ Legends speak of Azure Shard as a nexus where past and present converge. Locals 
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Azure Shard]]
+- [[02_Worldbuilding/People/Azure Shard]]
 
 <!-- enriched: true -->

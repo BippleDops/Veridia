@@ -3,7 +3,7 @@ affiliation: None (Bound to Shard)
 cr: '18'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+location: '[[02_Worldbuilding/Places/Port Meridian]]
   Harbor (Sunken Ship)'
 race: Corrupted Water Elemental
 role: Shard Guardian
@@ -37,7 +37,7 @@ world: Aethermoor
 *Bound Elemental, Herald of the Blood Plague*
 
 ## Overview
-Once a pure water elemental summoned to cleanse the harbor, this entity has been corrupted by proximity to the [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] for over a century. Now a twisted guardian of blood and disease, it dwells in the sunken merchant vessel *Fortune's Folly* at the bottom of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] harbor, spreading crystal plague through the water.
+Once a pure water elemental summoned to cleanse the harbor, this entity has been corrupted by proximity to the [[02_Worldbuilding/Lore/The Seven Shards]] for over a century. Now a twisted guardian of blood and disease, it dwells in the sunken merchant vessel *Fortune's Folly* at the bottom of [[02_Worldbuilding/Places/Port Meridian]] harbor, spreading crystal plague through the water.
 
 ## Description
 - **Appearance**: Massive form of churning crimson water mixed with crystalline growths
@@ -104,16 +104,16 @@ The harbor's economic value has plummeted as fishing becomes impossible and ship
 - **Shadow Traders**: Black market dealers who profit from plague-derived substances
 
 ### Enemies
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]**: Actively researching purification methods
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Harbor Guild]]**: Desperate to eliminate the threat to their livelihood
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Purist Coalition]]**: See the Guardian as ultimate example of corruption
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]**: Actively researching purification methods
+- **[[02_Worldbuilding/Places/The Harbor Guild]]**: Desperate to eliminate the threat to their livelihood
+- **[[02_Worldbuilding/Lore/The Purist Coalition]]**: See the Guardian as ultimate example of corruption
 - **Marine Druids Circle**: Work to heal the dying harbor ecosystem
 
 ### Complicated
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Knows the truth but fears citywide panic
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Dockworkers Union]]**: Some infected members hide symptoms to keep working
-- **[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]**: Mysterious connection to Guardian's binding
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]**: City leadership divided on how to address crisis
+- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Knows the truth but fears citywide panic
+- **[[02_Worldbuilding/Lore/The Dockworkers Union]]**: Some infected members hide symptoms to keep working
+- **[[02_Worldbuilding/People/The Crimson Sage]]**: Mysterious connection to Guardian's binding
+- **[[02_Worldbuilding/Places/Port Meridian]]**: City leadership divided on how to address crisis
 - **Criminal Syndicates**: Use plague threat for extortion but fear its spread
 
 
@@ -158,8 +158,8 @@ The harbor's economic value has plummeted as fishing becomes impossible and ship
 - Personal effects suggesting wealthy merchant trying to smuggle Shard
 
 ## Connected Elements
-- Central to [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]] Crimson Shard plotline
-- Links to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] health crisis
+- Central to [[02_Worldbuilding/Lore/The Seven Shards]] Crimson Shard plotline
+- Links to [[02_Worldbuilding/Places/Port Meridian]] health crisis
 - Connection to elemental plane corruption themes
 - Part of larger Shard guardian network
 
@@ -286,7 +286,7 @@ When fought in Port Meridian harbor, the Guardian can take lair actions on initi
 ## Enhanced Relationships & Harbor Connections
 
 ### Port Meridian Relationships
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Complex relationship with city official
+**[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Complex relationship with city official
 - Luna knows something supernatural lurks in harbor depths
 - Guardian occasionally surfaces during storms, creating sightings and rumors
 - Luna's attempts to investigate met with aggressive responses
@@ -308,7 +308,7 @@ When fought in Port Meridian harbor, the Guardian can take lair actions on initi
 - Guardian shows protective behavior toward remaining healthy marine life
 
 ### Religious and Magical Connections
-**[[vault_backup_20250813_073007/02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]**: Potential redeemer
+**[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]**: Potential redeemer
 - Possesses knowledge of purification rituals that might cleanse Guardian
 - Understands difference between corruption and evil, sees Guardian as victim
 - Has been researching methods for safely removing Shard without killing Guardian
@@ -478,9 +478,9 @@ During a moment of clarity, the Guardian manages to communicate its desire for f
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
 
 ## Player-Facing Summary
 
@@ -498,7 +498,7 @@ Legends speak of The Crimson Shard Guardian as a nexus where past and present co
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Shard Guardian]]
+- [[02_Worldbuilding/People/The Crimson Shard Guardian]]
 
 <!-- enriched: true -->
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]

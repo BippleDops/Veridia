@@ -172,6 +172,6 @@ Legends speak of Captain Marcus as a nexus where past and present converge. Loca
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Captain Marcus]]
+- [[02_Worldbuilding/Places/Captain Marcus]]
 
 <!-- enriched: true -->

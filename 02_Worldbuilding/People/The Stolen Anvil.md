@@ -165,7 +165,7 @@ Legends speak of The Stolen Anvil as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Stolen Anvil]]
+- [[02_Worldbuilding/People/The Stolen Anvil]]
 
 <!-- enriched: true -->
 iched: true -->

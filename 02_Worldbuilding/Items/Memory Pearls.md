@@ -1,5 +1,5 @@
 ---
-affiliation: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]] (Primary Creators)'
+affiliation: '[[02_Worldbuilding/Places/Memory Farmers]] (Primary Creators)'
 created: '2025-08-10'
 created_by: Claude
 current_location: Various Markets and Collections Throughout Aquabyssos
@@ -31,7 +31,7 @@ world: Aquabyssos
 *Crystallized Experience in Lustrous Form*
 
 ## Overview
-Memory Pearls represent the pinnacle of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]' art—living memories crystallized into beautiful, opalescent spheres that can be consumed to experience another's memories firsthand. Unlike crude memory extraction, these pearls preserve the full emotional and sensory context of experiences, allowing the consumer to literally live through moments from someone else's life. The pearls vary greatly in size, quality, and content, from simple skill memories to profound life experiences that can fundamentally change a person's understanding of the world.
+Memory Pearls represent the pinnacle of [[02_Worldbuilding/Places/Memory Farmers]]' art—living memories crystallized into beautiful, opalescent spheres that can be consumed to experience another's memories firsthand. Unlike crude memory extraction, these pearls preserve the full emotional and sensory context of experiences, allowing the consumer to literally live through moments from someone else's life. The pearls vary greatly in size, quality, and content, from simple skill memories to profound life experiences that can fundamentally change a person's understanding of the world.
 
 ## Physical Description
 ### Basic Characteristics
@@ -244,7 +244,7 @@ Memory Pearls represent the pinnacle of [[vault_backup_20250813_073007/02_Worldb
 
 #### Regional Variations
 - **[[02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]]**: Largest legitimate marketplace
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Hidden Smuggler's Cove]]**: Black market hub
+- **[[02_Worldbuilding/Places/Hidden Smuggler's Cove]]**: Black market hub
 - **Noble Districts**: Exclusive boutiques catering to aristocracy
 - **Academic Quarters**: Specialized dealers serving researchers
 - **Rural Areas**: Limited selection, focus on practical memories
@@ -396,10 +396,10 @@ Memory Pearls represent the pinnacle of [[vault_backup_20250813_073007/02_Worldb
 - **Regulation: Navigate complex legal framework surrounding memory trade
 
 ## Connected Elements
-- Primary connection to [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]] as creators and cultivators
+- Primary connection to [[02_Worldbuilding/Places/Memory Farmers]] as creators and cultivators
 - Links to [[02_Worldbuilding/Places/Memory Meadows|02 Worldbuilding/Places/Memory Meadows]] as major marketplace
-- Associated with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Hidden Smuggler's Cove]] black markets
-- Connected to [[vault_backup_20250813_073007/02_Worldbuilding/People/Memory Harvester Kythara]] as master practitioner
+- Associated with [[02_Worldbuilding/Places/Hidden Smuggler's Cove]] black markets
+- Connected to [[02_Worldbuilding/People/Memory Harvester Kythara]] as master practitioner
 - Related to [[02_Worldbuilding/Lore/The Tidal Shard of Memory|02 Worldbuilding/Lore/The Tidal Shard Of Memory]] through memory magic
 - Links to therapeutic and educational institutions throughout Aquabyssos
 - Associated with wealthy collectors and aristocratic patrons
@@ -435,9 +435,9 @@ Memory Pearls represent the pinnacle of [[vault_backup_20250813_073007/02_Worldb
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmer Thane]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sister Morwyn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Recursion Cult]]
+- [[02_Worldbuilding/Places/Memory Farmer Thane]]
+- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [[02_Worldbuilding/Places/The Recursion Cult]]
 
 ## Player-Facing Summary
 
@@ -457,5 +457,5 @@ Legends speak of Memory Pearls as a nexus where past and present converge. Local
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Sister Morwyn]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Memory Farmers]]
+- [[02_Worldbuilding/Places/Sister Morwyn]]
+- [[02_Worldbuilding/Places/Memory Farmers]]

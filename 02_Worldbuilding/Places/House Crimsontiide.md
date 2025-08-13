@@ -23,12 +23,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Noble Quarter]]
+- [[02_Worldbuilding/Places/Noble Quarter]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Noble Quarter]]
+- [[02_Worldbuilding/Places/Noble Quarter]]
 
 ## Player-Facing Summary
 

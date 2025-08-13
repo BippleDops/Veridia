@@ -29,8 +29,8 @@ world: Both
 ## Connections
 
 - [[Envoy Blackwater Jr.]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Mayor Thompson]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Marius]]
+- [[02_Worldbuilding/People/Mayor Thompson]]
+- [[02_Worldbuilding/People/Senator Marius]]
 
 ## Player-Facing Summary
 

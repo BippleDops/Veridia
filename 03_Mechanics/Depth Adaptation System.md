@@ -131,7 +131,7 @@ Characters accumulate Adaptation Points through exposure to Aquabyssos's environ
 #### Stage 5: Complete Transformation (100+ AP)
 - **Final Form**: Choose transformation type:
   1. **Living Current**: Become sentient water
-  2. **Coral Symbiont**: Merge with [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corallion]]
+  2. **Coral Symbiont**: Merge with [[02_Worldbuilding/Lore/Corallion]]
   3. **Shadow Being**: Become independent shadow
   4. **Memory Entity**: Exist only in Memory Tides
   5. **Depth Horror**: Become NPC monster
@@ -204,7 +204,7 @@ When shadow acts independently:
 
 ### Crystal Zones
 **Effect**: CON save DC 14 or gain crystallization
-**Progression**: Similar to AP but leads to [[vault_backup_20250813_073007/03_Mechanics/Crystal Plague]]
+**Progression**: Similar to AP but leads to [[03_Mechanics/Crystal Plague]]
 **Interaction**: Crystallization and Adaptation conflict
 
 ## 🛡️ Protective Equipment
@@ -263,12 +263,12 @@ When shadow acts independently:
 - **Variable**: Cleric/Paladin (deity-dependent)
 
 ## 🔗 Related Systems
-- [[vault_backup_20250813_073007/03_Mechanics/Depth Survival Mechanics]]
-- [[vault_backup_20250813_073007/03_Mechanics/Shadow Separation Rules]]
-- [[vault_backup_20250813_073007/03_Mechanics/Crystal Plague Progression]]
-- [[vault_backup_20250813_073007/03_Mechanics/Memory Tide Navigation]]
-- [[vault_backup_20250813_073007/03_Mechanics/Pressure Combat Modifiers]]
-- [[vault_backup_20250813_073007/03_Mechanics/Aquabyssos Languages]]
+- [[03_Mechanics/Depth Survival Mechanics]]
+- [[03_Mechanics/Shadow Separation Rules]]
+- [[03_Mechanics/Crystal Plague Progression]]
+- [[03_Mechanics/Memory Tide Navigation]]
+- [[03_Mechanics/Pressure Combat Modifiers]]
+- [[03_Mechanics/Aquabyssos Languages]]
 
 ## 📝 DM Notes
 - Track AP secretly initially, reveal at Stage 1
@@ -307,5 +307,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Corallion]]
+- [[02_Worldbuilding/Lore/Corallion]]
 - [[Vehicle_Core_Rules|Vehicle Core Rules]]

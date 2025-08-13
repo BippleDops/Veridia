@@ -58,11 +58,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quartermaster Judith Steadyhold]]
+- [[02_Worldbuilding/Places/Quartermaster Judith Steadyhold]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Lock]]
+- [[02_Worldbuilding/Places/The Lock]]

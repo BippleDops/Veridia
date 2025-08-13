@@ -23,13 +23,13 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Divine Intervention]]
+- [[02_Worldbuilding/Quests/Quest - Divine Intervention]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Quest - The Truth Unveiled]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Divine Intervention]]
+- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+- [[02_Worldbuilding/Quests/Quest - Divine Intervention]]
 
 ## Player-Facing Summary
 

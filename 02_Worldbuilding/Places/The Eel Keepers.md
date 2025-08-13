@@ -122,7 +122,7 @@ The Eel Keepers provide both mundane city services and adventure opportunities. 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Inverse Palace]]
+- [[02_Worldbuilding/Places/The Inverse Palace]]
 
 
 ## History
@@ -164,6 +164,6 @@ Legends speak of The Eel Keepers as a nexus where past and present converge. Loc
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Eel Keepers]]
+- [[02_Worldbuilding/Places/The Eel Keepers]]
 
 <!-- enriched: true -->

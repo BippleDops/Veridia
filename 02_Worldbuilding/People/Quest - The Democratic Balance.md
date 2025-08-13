@@ -64,11 +64,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Quest - The Democratic Balance]]
+- [[02_Worldbuilding/People/Quest - The Democratic Balance]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Throne of Bubbles]]
+- [[02_Worldbuilding/People/Throne of Bubbles]]

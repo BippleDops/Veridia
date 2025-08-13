@@ -19,12 +19,12 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Original Palace]]
+- [[02_Worldbuilding/Places/The Original Palace]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Original Palace]]
+- [[02_Worldbuilding/Places/The Original Palace]]
 
 ## Player-Facing Summary
 

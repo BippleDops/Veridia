@@ -364,7 +364,7 @@ The Aquatic Bank connects to numerous important elements throughout Aquabyssos a
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pearl_Harbor_City]]
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
 
 ## Player-Facing Summary
 
@@ -386,6 +386,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Banker Fish]]
+- [[02_Worldbuilding/Places/The Banker Fish]]
 
 <!-- enriched: true -->

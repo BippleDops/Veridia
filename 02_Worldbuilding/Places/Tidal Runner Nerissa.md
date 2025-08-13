@@ -62,11 +62,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Tidal Runner Nerissa]]
+- [[02_Worldbuilding/Places/Tidal Runner Nerissa]]
 
 <!-- enriched: true -->
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Current Riders Guild]]
+- [[02_Worldbuilding/Places/Current Riders Guild]]

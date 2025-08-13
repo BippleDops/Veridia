@@ -127,8 +127,8 @@ Matthias serves as a valuable source of information about Aethermoor's hidden ar
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Blackwater]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Thaddeus Blackwater]]
+- [[02_Worldbuilding/People/Captain Blackwater]]
+- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]
 
 
 ## History
@@ -176,7 +176,7 @@ Legends speak of Elder Matthias Stoneward as a nexus where past and present conv
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Elder Matthias Stoneward]]
+- [[02_Worldbuilding/Places/Elder Matthias Stoneward]]
 
 <!-- enriched: true -->
 nriched: true -->

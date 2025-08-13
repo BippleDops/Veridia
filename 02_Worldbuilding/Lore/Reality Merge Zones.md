@@ -39,25 +39,25 @@ world: Both Worlds
 *Where Two Worlds Become One, and Survival Demands Adaptation*
 
 > *"In the Merge Zones, the very air might drown you and the water may refuse to wet your skin. Physics becomes negotiable, magic becomes unpredictable, and survival depends not just on what you know, but on how quickly you can adapt to rules that change with every step."*
-> — [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Master Environmental Specialist Tidal Convergence]], Reality Merge Zone Survival Expert
+> — [[02_Worldbuilding/Lore/Master Environmental Specialist Tidal Convergence]], Reality Merge Zone Survival Expert
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Depth Effect Quick Reference]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Environmental Hazards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Evidence Types Guide]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Initiative Tracker]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Random Encounters]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Bloom Fields]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Final Choice]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Threshold]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Compass Quest]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 08 Between Two Worlds]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/The Parliament of Nobody]]
+- [[02_Worldbuilding/Lore/Depth Effect Quick Reference]]
+- [[02_Worldbuilding/Lore/Environmental Hazards]]
+- [[02_Worldbuilding/Lore/Evidence Types Guide]]
+- [[02_Worldbuilding/Lore/Initiative Tracker]]
+- [[02_Worldbuilding/Lore/Random Encounters]]
+- [[02_Worldbuilding/Lore/Temporal Anomaly Resolution]]
+- [[02_Worldbuilding/Lore/The Bloom Fields]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Final Choice]]
+- [[02_Worldbuilding/Lore/The Seven Shards]]
+- [[02_Worldbuilding/Lore/The Threshold]]
+- [[02_Worldbuilding/Places/Compass Quest]]
+- [[1-Session Journals/Aethermoor - Session 08 Between Two Worlds]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary

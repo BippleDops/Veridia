@@ -29,16 +29,16 @@ world: Both
 
 ## Overview
 
-The Forsaken Consortium Collective has transformed the abandoned industrial zones of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] into a thriving alternative economy based on salvage, reclamation, and adaptive reuse. What began as desperate scavenging in the ruins of failed commercial enterprises has evolved into a sophisticated organization that controls the kingdom's abandoned infrastructure and forgotten industrial sites.
+The Forsaken Consortium Collective has transformed the abandoned industrial zones of [[02_Worldbuilding/Places/Aethermoor]] into a thriving alternative economy based on salvage, reclamation, and adaptive reuse. What began as desperate scavenging in the ruins of failed commercial enterprises has evolved into a sophisticated organization that controls the kingdom's abandoned infrastructure and forgotten industrial sites.
 
-Born from the economic collapse that followed [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Shattering]], the Collective emerged when thousands of workers were left unemployed as major trading companies and manufacturing guilds fled or failed. Rather than seek new employment elsewhere, these displaced workers banded together to claim, repair, and repurpose the facilities their former employers abandoned.
+Born from the economic collapse that followed [[02_Worldbuilding/Groups/The Shattering]], the Collective emerged when thousands of workers were left unemployed as major trading companies and manufacturing guilds fled or failed. Rather than seek new employment elsewhere, these displaced workers banded together to claim, repair, and repurpose the facilities their former employers abandoned.
 
 The Collective operates under the principle of "Abandoned Rights"—that any facility or resource left unused for more than one year becomes available for community reclamation. They've created a parallel economy that thrives in the spaces between official commerce, turning industrial graveyards into productive communities.
 
 ## History and Formation
 
 ### The Great Abandonment (Post-Shattering Era)
-Following [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Shattering]], major commercial entities fled [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], leaving behind:
+Following [[02_Worldbuilding/Groups/The Shattering]], major commercial entities fled [[02_Worldbuilding/Places/Aethermoor]], leaving behind:
 - 47 major manufacturing facilities
 - 23 warehouse and distribution complexes  
 - 15 mining operations and processing plants
@@ -81,7 +81,7 @@ The founding document established:
 ### Long-Term Goals
 
 1. **Industrial Democracy**: Worker ownership and democratic management of production
-2. **Economic Integration**: Legitimate recognition within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s formal economy
+2. **Economic Integration**: Legitimate recognition within [[02_Worldbuilding/Places/Aethermoor]]'s formal economy
 3. **Environmental Restoration**: Healing damage from abandoned industrial sites
 4. **Knowledge Preservation**: Maintaining industrial skills and traditional techniques
 5. **Community Development**: Creating sustainable, prosperous industrial towns
@@ -97,18 +97,18 @@ The founding document established:
 - Open meetings welcome community members and visitors
 
 #### The Foreman Council (Executive Leadership)
-- **Foreman Prime** - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Salvage Master Ironwork]]: Overall coordination and external relations
+- **Foreman Prime** - [[02_Worldbuilding/Groups/Salvage Master Ironwork]]: Overall coordination and external relations
 - **Production Foreman** - [[Manufacturing Chief Gearwright]]: Industrial operations and quality control
-- **Resource Foreman** - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Supply Master Stockpil]]: Materials allocation and waste management
-- **Security Foreman** - [[vault_backup_20250813_073007/02_Worldbuilding/People/Defense Captain Ironguard]]: Site protection and conflict resolution
-- **Innovation Foreman** - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Inventor Chief Adaptatio]]: Research and development of new techniques
-- **Trade Foreman** - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Commerce Manager Fairdealin]]: External business relationships
-- **Community Foreman** - [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Welfare Director Caretake]]: Member services and social support
+- **Resource Foreman** - [[02_Worldbuilding/Groups/Supply Master Stockpil]]: Materials allocation and waste management
+- **Security Foreman** - [[02_Worldbuilding/People/Defense Captain Ironguard]]: Site protection and conflict resolution
+- **Innovation Foreman** - [[02_Worldbuilding/Groups/Inventor Chief Adaptatio]]: Research and development of new techniques
+- **Trade Foreman** - [[02_Worldbuilding/Groups/Commerce Manager Fairdealin]]: External business relationships
+- **Community Foreman** - [[02_Worldbuilding/Groups/Welfare Director Caretake]]: Member services and social support
 
 ### Regional Operations
 
 #### The Central Industrial Zone
-**Area**: Original [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]] manufacturing district
+**Area**: Original [[02_Worldbuilding/Groups/Silverscale Consortium]] manufacturing district
 **Population**: 2,500 Collective members plus 5,000 community residents
 **Primary Operations**: Heavy manufacturing, metal processing, crystal refinement
 **Key Facilities**: The Grand Central Warehouse, Iron Works Complex, Crystal Processing Plant
@@ -122,7 +122,7 @@ The founding document established:
 **Leadership**: **Harbor Master Reclaimed Docks**
 
 #### The Mining Territory
-**Area**: Abandoned extraction operations in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]]
+**Area**: Abandoned extraction operations in [[02_Worldbuilding/Places/The Sundered Peaks]]
 **Population**: 800 members plus 2,000 residents
 **Primary Operations**: Mining, quarrying, mineral processing
 **Key Facilities**: The Great Mine, Processing Mills, Worker Villages
@@ -156,7 +156,7 @@ The founding document established:
 - **Social Welfare**: Support for elderly, disabled, and unemployed members
 
 #### Trade and External Relations Division
-- **Legitimate Business**: Legal commerce with official [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] economy
+- **Legitimate Business**: Legal commerce with official [[02_Worldbuilding/Places/Aethermoor]] economy
 - **Underground Markets**: Trade with criminal and semi-legal organizations
 - **International Commerce**: Export of unique Collective products
 - **Diplomatic Corps**: Relations with government and other factions
@@ -178,7 +178,7 @@ The founding document established:
 - **Environmental Cleanup**: Using crystals for pollution control and site remediation
 
 #### Shipping and Logistics
-- **Cargo Services**: Moving goods throughout [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] using reclaimed infrastructure
+- **Cargo Services**: Moving goods throughout [[02_Worldbuilding/Places/Aethermoor]] using reclaimed infrastructure
 - **Storage Solutions**: Warehouse services for businesses lacking facilities
 - **Transportation Networks**: Coordinating movement of people and resources
 - **Import/Export**: International trade using abandoned but functional port facilities
@@ -269,7 +269,7 @@ The founding document established:
 ## Territories and Facilities
 
 ### The Grand Abandonment (Central Headquarters)
-Massive warehouse and manufacturing complex originally built by the [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]], now serving as the political and economic center of Collective operations.
+Massive warehouse and manufacturing complex originally built by the [[02_Worldbuilding/Groups/Silverscale Consortium]], now serving as the political and economic center of Collective operations.
 
 **Key Facilities**:
 - **The Assembly Hall**: Meeting space for Collective governance
@@ -372,14 +372,14 @@ Massive warehouse and manufacturing complex originally built by the [[vault_back
 
 ### Government Relations
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]**
+#### **[[02_Worldbuilding/Groups/The Crystal Throne]]**
 - **Official Status**: Tolerated but not formally recognized
 - **Tension Points**: Questions about legal ownership of abandoned properties
 - **Cooperation Areas**: Environmental cleanup and employment for displaced workers
 - **Future Prospects**: Potential for formal recognition if Collective proves stability and value
 - **Diplomatic Contact**: Limited official dialogue through intermediaries
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]**
+#### **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**
 - **Royal Perspective**: Cautious interest in Collective's economic contributions
 - **Policy Considerations**: Balancing property rights with practical economic benefits
 - **Political Calculation**: Collective represents significant voting population
@@ -388,21 +388,21 @@ Massive warehouse and manufacturing complex originally built by the [[vault_back
 
 ### Economic Partners
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]**
+#### **[[02_Worldbuilding/Groups/Merchant Princes]]**
 - **Business Relationship**: Collective provides manufacturing services and raw materials
 - **Mutual Benefits**: Princes need industrial capacity, Collective needs market access
 - **Tension Areas**: Competition over certain markets and pricing disputes
 - **Partnership Potential**: Joint ventures and investment opportunities
 - **Strategic Value**: Collective offers alternative to expensive traditional suppliers
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]**
+#### **[[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]**
 - **Trade Relationship**: Smugglers move Collective goods to restricted markets
 - **Services Exchange**: Collective provides repair services, smugglers offer transportation
 - **Mutual Protection**: Both groups benefit from cooperation against government interference
 - **Information Sharing**: Intelligence about market opportunities and threats
 - **Legal Risks**: Association with smugglers complicates Collective's legitimacy efforts
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]**
+#### **[[02_Worldbuilding/Groups/The Liminal Trading Company]]**
 - **Commercial Partnership**: Formal contracts for manufacturing and logistics services  
 - **Quality Standards**: Trading Company helps Collective improve product quality
 - **Market Access**: Company provides connections to legitimate business networks
@@ -411,10 +411,10 @@ Massive warehouse and manufacturing complex originally built by the [[vault_back
 
 ### Community Relations
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters]]**
+#### **[[02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters]]**
 - **Professional Cooperation**: Sharing skills and techniques between traditional and industrial crafting
 - **Resource Exchange**: Collective provides raw materials, Artisans offer specialized knowledge
-- **Cultural Bridge**: Helping integrate Collective into [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s cultural traditions
+- **Cultural Bridge**: Helping integrate Collective into [[02_Worldbuilding/Places/Aethermoor]]'s cultural traditions
 - **Training Programs**: Joint apprenticeship programs combining traditional and modern techniques
 - **Market Coordination**: Avoiding competition through specialization and collaboration
 
@@ -427,7 +427,7 @@ Massive warehouse and manufacturing complex originally built by the [[vault_back
 
 ### Hostile Relations
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]**
+#### **[[02_Worldbuilding/Groups/Purist Coalition]]**
 - **Ideological Opposition**: Coalition opposes industrial development and technological change
 - **Environmental Conflicts**: Disagreements over appropriate land use and development
 - **Political Tension**: Coalition sees Collective as threat to traditional values
@@ -443,10 +443,10 @@ Massive warehouse and manufacturing complex originally built by the [[vault_back
 
 ### Potential Allies
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]**
+#### **[[02_Worldbuilding/People/Crystal Wardens]]**
 - **Security Cooperation**: Wardens interested in Collective's environmental cleanup work
 - **Training Exchange**: Collective technical skills, Warden security expertise
-- **Mutual Benefits**: Both groups committed to protecting [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s future
+- **Mutual Benefits**: Both groups committed to protecting [[02_Worldbuilding/Places/Aethermoor]]'s future
 - **Caution Points**: Wardens must balance duty to Crown with practical cooperation
 - **Development Potential**: Strong alliance possible if political climate improves
 
@@ -513,7 +513,7 @@ Massive warehouse and manufacturing complex originally built by the [[vault_back
 
 #### Path 1: Legitimate Recognition
 - Formal government recognition and legal status
-- Integration into [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s official economy
+- Integration into [[02_Worldbuilding/Places/Aethermoor]]'s official economy
 - Expansion of operations and international trade
 - Model for similar movements in other regions
 - Transformation into major economic and political force
@@ -530,7 +530,7 @@ Massive warehouse and manufacturing complex originally built by the [[vault_back
 - Alliance with other resistance movements
 - Guerrilla economic warfare against establishment interests
 - International support from sympathetic governments
-- Revolutionary transformation of [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]'s social system
+- Revolutionary transformation of [[02_Worldbuilding/Places/Aethermoor]]'s social system
 
 #### Path 4: Corporate Integration
 - Partnership or merger with major legitimate businesses
@@ -563,26 +563,26 @@ Massive warehouse and manufacturing complex originally built by the [[vault_back
 - Building sustainable communities in post-disaster situations
 
 ## Connected Factions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]] - Complex relationship with government authority
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]] - Business partners and occasional competitors
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]] - Transportation and black market connections
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]] - Formal business partnership and investment
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters]] - Professional cooperation and skills sharing
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]] - Ideological opposition to industrial development
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Potential security cooperation and environmental partnership
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]] - Information trading and underground connections
+- [[02_Worldbuilding/Groups/The Crystal Throne]] - Complex relationship with government authority
+- [[02_Worldbuilding/Groups/Merchant Princes]] - Business partners and occasional competitors
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]] - Transportation and black market connections
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]] - Formal business partnership and investment
+- [[02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters]] - Professional cooperation and skills sharing
+- [[02_Worldbuilding/Groups/Purist Coalition]] - Ideological opposition to industrial development
+- [[02_Worldbuilding/People/Crystal Wardens]] - Potential security cooperation and environmental partnership
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]] - Information trading and underground connections
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Foreman Prime Salvage Maste]] - Overall leader and external relations coordinator
+- [[02_Worldbuilding/Groups/Foreman Prime Salvage Maste]] - Overall leader and external relations coordinator
 - [[Manufacturing Chief Gearwright]] - Industrial operations and quality control
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Supply Master Stockpil]] - Resource allocation and waste management
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Defense Captain Ironguard]] - Security and protection operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Inventor Chief Adaptatio]] - Innovation and development of new techniques
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Commerce Manager Fairdealin]] - Trade relationships and business development
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Welfare Director Caretake]] - Community services and member support
+- [[02_Worldbuilding/Groups/Supply Master Stockpil]] - Resource allocation and waste management
+- [[02_Worldbuilding/People/Defense Captain Ironguard]] - Security and protection operations
+- [[02_Worldbuilding/Groups/Inventor Chief Adaptatio]] - Innovation and development of new techniques
+- [[02_Worldbuilding/Groups/Commerce Manager Fairdealin]] - Trade relationships and business development
+- [[02_Worldbuilding/Groups/Welfare Director Caretake]] - Community services and member support
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Grand Abandonment - Central Warehouse Comple]] - Primary headquarters and governance center
+- [[02_Worldbuilding/Groups/The Grand Abandonment - Central Warehouse Comple]] - Primary headquarters and governance center
 - **The Iron Works Complex** - Major manufacturing and steel production facility
 - **The Crystal Processing Plant** - Waste reclamation and alternative crystal applications
 - **The Port Reclamation Zone** - Shipping, storage, and maritime operations
@@ -590,8 +590,8 @@ Massive warehouse and manufacturing complex originally built by the [[vault_back
 - **Cooperative Farms** - Agricultural operations supporting community food security
 
 ## Related Quests
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Quest - The Crystal Innovatio]] - Developing new crystal applications and technologies
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Nature's Balance]] - Environmental restoration and sustainable development
+- [[02_Worldbuilding/Groups/Quest - The Crystal Innovatio]] - Developing new crystal applications and technologies
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance]] - Environmental restoration and sustainable development
 - **The Recognition Campaign** - Achieving formal government acknowledgment and legal status
 - **The Hostile Takeover** - Defending against corporate attempts to reclaim facilities
 - **The Democratic Experiment** - Navigating internal governance challenges and decision-making
@@ -626,15 +626,15 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Groups_Index|Master Groups Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Merchant Princes]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Purist Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Liminal Trading Company]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Nature's Balance]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Independent Smugglers]]
+- [[02_Worldbuilding/Groups/Merchant Princes]]
+- [[02_Worldbuilding/Groups/Purist Coalition]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/Groups/The Artisans' Collective of Master Crafters]]
+- [[02_Worldbuilding/Groups/The Liminal Trading Company]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Whisper Syndicate]]
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/The Sundered Peaks]]
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]

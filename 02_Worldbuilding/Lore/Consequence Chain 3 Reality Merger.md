@@ -45,8 +45,8 @@ world: Both Worlds
 **Who was directly affected:**
 - **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Had to acknowledge underwater civilization's legitimacy
 - **[[02_Worldbuilding/People/The Scattered Emperor]]**: Forced to engage in international diplomacy
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]]**: Emergency joint government formed
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Eastern Kingdom Fleet]]**: Arrived during crisis, became mediators/observers
+- **[[02_Worldbuilding/Lore/United Councils of Both Worlds]]**: Emergency joint government formed
+- **[[02_Worldbuilding/Lore/Eastern Kingdom Fleet]]**: Arrived during crisis, became mediators/observers
 - **Citizens of merged districts**: Instant cultural integration required
 - **[[02_Worldbuilding/People/The Deep Mother|02 Worldbuilding/People/The Deep Mother]]**: Either sealed, communicated with, or departed
 
@@ -70,7 +70,7 @@ world: Both Worlds
 
 **Political shifts:**
 - **Sovereignty crisis**: Neither realm could claim exclusive authority over merged areas
-- **Emergency coalition government**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]] formed
+- **Emergency coalition government**: [[02_Worldbuilding/Lore/United Councils of Both Worlds]] formed
 - **Constitutional emergency**: Existing laws couldn't address merged reality situations
 - **International intervention**: Eastern Kingdoms demanded formal diplomatic recognition
 - **Succession questions**: Which realm's laws applied to inherited mixed properties
@@ -191,7 +191,7 @@ world: Both Worlds
 ### Links to Other Major Events
 - **[[02_Worldbuilding/Lore/Consequence Chain 4 - Deep Mother Awakening]]**: The cosmic entity encounter catalyzed merger
 - **[[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's bloodline enabled merger negotiations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Plague Origins]]**: Combined research accelerated plague understanding
+- **[[02_Worldbuilding/Lore/Crystal Plague Origins]]**: Combined research accelerated plague understanding
 - **Eastern Kingdoms diplomatic expansion**: Foreign powers gained permanent presence
 
 ### Constitutional Innovations Implemented
@@ -222,11 +222,11 @@ world: Both Worlds
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Consequence Tracking Framework]]
+- [[02_Worldbuilding/Lore/Campaign Consequence Tracking Framework]]
 - [[1-Session Journals/Aethermoor - Session 08 Between Two Worlds]]
 - [[1-Session Journals/Aethermoor - Session 09 The Price of Unity]]
 - [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
 - [[03_Mechanics/Merged Reality Mechanics]]
 - [[02_Worldbuilding/Places/New Meridian|02 Worldbuilding/Places/New Meridian]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/United Councils of Both Worlds]]
+- [[02_Worldbuilding/Lore/United Councils of Both Worlds]]
 - [[02_Worldbuilding/Lore/Political Intrigue Master Index]]

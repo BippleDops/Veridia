@@ -35,13 +35,13 @@ world: Aquabyssos
 
 ## Overview
 
-The Depth Effect Quick Reference provides essential information about how increasing underwater depth affects biological systems, environmental conditions, and survival requirements in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. This guide serves as a practical field reference for adventurers, researchers, and residents who must navigate the varying pressure zones and environmental conditions that define underwater life.
+The Depth Effect Quick Reference provides essential information about how increasing underwater depth affects biological systems, environmental conditions, and survival requirements in [[02_Worldbuilding/Places/Aquabyssos]]. This guide serves as a practical field reference for adventurers, researchers, and residents who must navigate the varying pressure zones and environmental conditions that define underwater life.
 
 Unlike surface environments where altitude changes gradually affect conditions, underwater depth creates dramatic and potentially lethal changes in pressure, temperature, light availability, and biological compatibility within relatively short distances. Understanding these effects is crucial for survival, as miscalculating depth tolerance can result in immediate death or permanent injury.
 
-The depth effects system accounts for both natural underwater conditions and the magical adaptations that make civilization possible in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]. The guide includes information about [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]] integration, [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underwater Breathing]] requirements, and emergency protocols for depth-related emergencies.
+The depth effects system accounts for both natural underwater conditions and the magical adaptations that make civilization possible in [[02_Worldbuilding/Places/Aquabyssos]]. The guide includes information about [[02_Worldbuilding/Lore/Pressure Adaptation System]] integration, [[02_Worldbuilding/Lore/Underwater Breathing]] requirements, and emergency protocols for depth-related emergencies.
 
-Recent convergence effects with [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] have created additional complications where traditional depth calculations may not apply in [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]] or areas affected by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Distortion Zones]], requiring adaptive strategies and enhanced monitoring.
+Recent convergence effects with [[02_Worldbuilding/Places/Aethermoor]] have created additional complications where traditional depth calculations may not apply in [[02_Worldbuilding/Lore/Reality Merge Zones]] or areas affected by [[02_Worldbuilding/Lore/Temporal Distortion Zones]], requiring adaptive strategies and enhanced monitoring.
 
 ## Standard Depth Classifications
 
@@ -83,7 +83,7 @@ Recent convergence effects with [[vault_backup_20250813_073007/02_Worldbuilding/
 - **Marine Life**: High diversity and activity
 
 **Biological Effects:**
-- **Minor Pressure Adaptation**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]] recommended
+- **Minor Pressure Adaptation**: [[02_Worldbuilding/Lore/Pressure Adaptation System]] recommended
 - **Extended Stay Tolerance**: Hours without ill effects
 - **Improved Swimming**: Natural buoyancy optimization
 - **Enhanced Healing**: Water pressure aids healing
@@ -111,7 +111,7 @@ Recent convergence effects with [[vault_backup_20250813_073007/02_Worldbuilding/
 - **Current Patterns**: More predictable flows
 
 **Biological Effects:**
-- **Moderate Adaptation Required**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]] essential
+- **Moderate Adaptation Required**: [[02_Worldbuilding/Lore/Pressure Adaptation System]] essential
 - **Tissue Compression**: Body systems must adjust to pressure
 - **Metabolic Changes**: Energy requirements increase
 - **Sensory Enhancement**: Hearing and pressure sensitivity improve
@@ -119,7 +119,7 @@ Recent convergence effects with [[vault_backup_20250813_073007/02_Worldbuilding/
 
 **Equipment Requirements:**
 - **Pressure Suits**: Level 2 protection minimum
-- **Enhanced Breathing**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underwater Breathing]] systems essential
+- **Enhanced Breathing**: [[02_Worldbuilding/Lore/Underwater Breathing]] systems essential
 - **Specialized Tools**: Pressure-resistant equipment required
 - **Emergency Gear**: Decompression and ascent equipment
 - **Communication**: Electronic systems needed
@@ -127,7 +127,7 @@ Recent convergence effects with [[vault_backup_20250813_073007/02_Worldbuilding/
 **Typical Uses:**
 - **Urban Centers**: Major city districts
 - **Heavy Industry**: Manufacturing and processing
-- **Transportation Hubs**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]] stations
+- **Transportation Hubs**: [[02_Worldbuilding/Places/Pressure Tubes]] stations
 - **Government**: Administrative centers
 - **Medical Facilities**: Specialized healthcare
 
@@ -141,7 +141,7 @@ Recent convergence effects with [[vault_backup_20250813_073007/02_Worldbuilding/
 - **Geological Activity**: Pressure effects on terrain
 
 **Biological Effects:**
-- **Major Adaptation Required**: Advanced [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]]
+- **Major Adaptation Required**: Advanced [[02_Worldbuilding/Lore/Pressure Adaptation System]]
 - **Bone Density Changes**: Skeletal system strengthens
 - **Muscle Adaptation**: Enhanced strength development
 - **Neural Adaptation**: Improved pressure sensitivity
@@ -171,7 +171,7 @@ Recent convergence effects with [[vault_backup_20250813_073007/02_Worldbuilding/
 - **Geological Features**: Trenches, thermal vents, unstable terrain
 
 **Biological Effects:**
-- **Extreme Adaptation**: Maximum [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]] required
+- **Extreme Adaptation**: Maximum [[02_Worldbuilding/Lore/Pressure Adaptation System]] required
 - **Cellular Changes**: Fundamental biological alterations
 - **Sensory Evolution**: Enhanced non-visual senses
 - **Metabolic Transformation**: Completely altered energy processes
@@ -204,7 +204,7 @@ Recent convergence effects with [[vault_backup_20250813_073007/02_Worldbuilding/
 - **Impossible Without Magic**: Natural adaptation inadequate
 - **Reality Effects**: Depth begins affecting physical laws
 - **Consciousness Changes**: Profound psychological alterations
-- **Dimensional Sensitivity**: Awareness of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]]
+- **Dimensional Sensitivity**: Awareness of [[02_Worldbuilding/Lore/Reality Merge Zones]]
 - **Temporal Effects**: Time perception alterations
 
 **Survival Impossibility:**
@@ -216,7 +216,7 @@ Recent convergence effects with [[vault_backup_20250813_073007/02_Worldbuilding/
 
 **Theoretical Applications:**
 - **Ancient Ruins**: Pre-submersion archaeological sites
-- **Reality Research**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multiple Recursion Levels]] studies
+- **Reality Research**: [[02_Worldbuilding/Lore/Multiple Recursion Levels]] studies
 - **Dimensional Access**: Potential gateways to other realms
 - **Ultimate Resources**: Theoretical unique materials
 - **Cosmic Interfaces**: Contact with otherworldly entities
@@ -438,7 +438,7 @@ Recent convergence effects with [[vault_backup_20250813_073007/02_Worldbuilding/
 
 ### Reality Merge Zone Effects
 
-In areas affected by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]], standard depth calculations may not apply:
+In areas affected by [[02_Worldbuilding/Lore/Reality Merge Zones]], standard depth calculations may not apply:
 
 **Variable Physics:**
 - **Pressure Inconsistencies**: Pressure may not correlate with depth
@@ -454,7 +454,7 @@ In areas affected by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Realit
 
 ### Temporal Distortion Interactions
 
-[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Distortion Zones]] can create unique depth-related challenges:
+[[02_Worldbuilding/Lore/Temporal Distortion Zones]] can create unique depth-related challenges:
 
 **Accelerated Effects:**
 - **Rapid Adaptation**: Biological changes occur faster than normal
@@ -468,7 +468,7 @@ In areas affected by [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Realit
 
 ### Magical Enhancement Integration
 
-The [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]] and [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underwater Breathing]] systems create additional considerations:
+The [[02_Worldbuilding/Lore/Pressure Adaptation System]] and [[02_Worldbuilding/Lore/Underwater Breathing]] systems create additional considerations:
 
 **Magic-Biology Interactions:**
 - **Enhancement Failure**: Magical systems may fail unexpectedly
@@ -609,32 +609,32 @@ Characters specialized in different depth ranges develop unique capabilities:
 ## Connected Systems and Cross-References
 
 ### Environmental Integration
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]]** - Core biological modification system
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underwater Breathing]]** - Essential respiratory technology
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Environmental Hazards]]** - Related environmental dangers
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Crush Zones]]** - Extreme depth environmental hazards
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]]** - Depth-affected crystal cultivation
+- **[[02_Worldbuilding/Lore/Pressure Adaptation System]]** - Core biological modification system
+- **[[02_Worldbuilding/Lore/Underwater Breathing]]** - Essential respiratory technology
+- **[[02_Worldbuilding/Lore/Environmental Hazards]]** - Related environmental dangers
+- **[[02_Worldbuilding/Lore/Pressure Crush Zones]]** - Extreme depth environmental hazards
+- **[[02_Worldbuilding/Lore/Crystal Forest]]** - Depth-affected crystal cultivation
 
 ### Locations and Applications
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]]** - Primary setting for depth effects
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]]** - Areas where standard depth rules may not apply
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Distortion Zones]]** - Time effects that interact with depth
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Threshold]]** - Extreme depth dimensional phenomena
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Chambers]]** - Depth-variable environmental chambers
+- **[[02_Worldbuilding/Places/Aquabyssos]]** - Primary setting for depth effects
+- **[[02_Worldbuilding/Lore/Reality Merge Zones]]** - Areas where standard depth rules may not apply
+- **[[02_Worldbuilding/Lore/Temporal Distortion Zones]]** - Time effects that interact with depth
+- **[[02_Worldbuilding/Lore/The Threshold]]** - Extreme depth dimensional phenomena
+- **[[02_Worldbuilding/Lore/Tidal Chambers]]** - Depth-variable environmental chambers
 
 ### Supporting Organizations
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/Depth Safety Authorit]]** - Regulatory body for depth-related safety
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Water Rescue Service]]** - Emergency response for depth incidents
+- **[[02_Worldbuilding/Groups/Depth Safety Authorit]]** - Regulatory body for depth-related safety
+- **[[02_Worldbuilding/Lore/Deep Water Rescue Service]]** - Emergency response for depth incidents
 - **[[Pressure Equipment Guild]]** - Manufacturers and maintenance specialists
 - **[[Marine Environmental Institute]]** - Research organization studying depth effects
-- **[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Professional Divers Association]]** - Training and certification body
+- **[[02_Worldbuilding/Lore/Professional Divers Association]]** - Training and certification body
 
-The Depth Effect Quick Reference serves as both a practical survival guide and a framework for understanding how the underwater environment shapes daily life, professional activities, and adventure opportunities in [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]].
+The Depth Effect Quick Reference serves as both a practical survival guide and a framework for understanding how the underwater environment shapes daily life, professional activities, and adventure opportunities in [[02_Worldbuilding/Places/Aquabyssos]].
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Adaptation System]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Underwater Breathing]]
+- [[02_Worldbuilding/Lore/Pressure Adaptation System]]
+- [[02_Worldbuilding/Lore/Underwater Breathing]]
 
 ## Player-Facing Summary
 
@@ -659,11 +659,11 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Forest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Pressure Crush Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reality Merge Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Temporal Distortion Zones]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Threshold]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Tidal Chambers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Tubes]]
+- [[02_Worldbuilding/Lore/Crystal Forest]]
+- [[02_Worldbuilding/Lore/Pressure Crush Zones]]
+- [[02_Worldbuilding/Lore/Reality Merge Zones]]
+- [[02_Worldbuilding/Lore/Temporal Distortion Zones]]
+- [[02_Worldbuilding/Lore/The Threshold]]
+- [[02_Worldbuilding/Lore/Tidal Chambers]]
+- [[02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Places/Pressure Tubes]]

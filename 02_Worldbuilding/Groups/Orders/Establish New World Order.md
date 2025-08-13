@@ -5,9 +5,9 @@ alignment: Lawful Neutral (Systematic Reformers)
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Political Reform Movement
-headquarters: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Governance Institute]]'
+headquarters: '[[02_Worldbuilding/Lore/The Crystal Governance Institute]]'
 influence: Political Institutions, Policy Development
-leader: '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Director Prism Reformheart]]'
+leader: '[[02_Worldbuilding/Lore/Director Prism Reformheart]]'
 members: ~500 active members, ~2000 supporters
 modified: 2025-08-11 - Category/Group
 obsidianUIMode: preview
@@ -39,7 +39,7 @@ world: Aethermoor
 
 ## Organization Overview
 
-Establish New World Order represents the moderate political reform movement within [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]], dedicated to systematic transformation of governmental and social institutions through careful, evidence-based reform rather than revolutionary overthrow. Unlike radical organizations that seek to destroy existing systems, this movement works within current institutions to gradually transform them into more effective, crystal-enhanced governance structures.
+Establish New World Order represents the moderate political reform movement within [[02_Worldbuilding/Places/Aethermoor]], dedicated to systematic transformation of governmental and social institutions through careful, evidence-based reform rather than revolutionary overthrow. Unlike radical organizations that seek to destroy existing systems, this movement works within current institutions to gradually transform them into more effective, crystal-enhanced governance structures.
 
 The organization believes that crystal transformation has created new possibilities for governance, decision-making, and social organization that current institutions cannot fully utilize. However, they advocate for careful, methodical reform that preserves stability while incorporating the benefits of crystal consciousness and enhanced human capabilities.
 
@@ -343,7 +343,7 @@ The organization's signature approach to governmental reform:
 
 ### Government Relations
 
-#### **[[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]**
+#### **[[02_Worldbuilding/Groups/The Crystal Throne]]**
 **Relationship**: Constructive Engagement
 Works with existing government to implement reforms through legitimate political processes while maintaining independence and advocating for citizen interests.
 
@@ -535,29 +535,29 @@ Securing adequate funding and support for comprehensive reform initiatives.
 ## Connected Elements
 
 **Related Organizations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]
+- [[02_Worldbuilding/Groups/The Crystal Throne]]
 - [[02_Worldbuilding/Groups/Rewrite the World Order|02 Worldbuilding/Groups/Rewrite The World Order]]
 - [[02_Worldbuilding/Groups/The Artisans' Collective|02 Worldbuilding/Groups/The Artisans' Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Silverscale Consortium]]
+- [[02_Worldbuilding/Groups/Silverscale Consortium]]
 
 **Key Locations**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Governance Institute]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Regional Reform Offices]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Demonstration Sites]]
+- [[02_Worldbuilding/Lore/The Crystal Governance Institute]]
+- [[02_Worldbuilding/Lore/Regional Reform Offices]]
+- [[02_Worldbuilding/Lore/Community Demonstration Sites]]
 - [[Government Partner Facilities]]
 
 **Notable NPCs**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Director Prism Reformheart]]
+- [[02_Worldbuilding/Lore/Director Prism Reformheart]]
 - [[Constitutional Architect Dr. Harmony Lawbright]]
 - [[Democratic Architect Prof. Consensus Builder]]
 - [[Economic Architect Dr. Prosperity Sharewell]]
 
 **Important Concepts**:
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal-Enhanced Democracy]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Systematic Governmental Reform]]
+- [[02_Worldbuilding/Lore/Crystal-Enhanced Democracy]]
+- [[02_Worldbuilding/Lore/Systematic Governmental Reform]]
 - [[Evidence-Based Policy Development]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Democratic Legitimacy and Reform]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Governance Model]]
+- [[02_Worldbuilding/Lore/Democratic Legitimacy and Reform]]
+- [[02_Worldbuilding/Lore/Crystal Governance Model]]
 
 ## Player-Facing Summary
 
@@ -581,4 +581,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]
+- [[1-Session Journals/Aethermoor - Session 10 The Deep Mother Rises]]

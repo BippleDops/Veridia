@@ -28,7 +28,7 @@ world: Both
 *Return to the Time Before Corruption*
 
 ## Overview
-The Purist Coalition opposes all use of Aether Crystals, viewing them as divine punishment for mortal hubris. They seek to destroy all crystals and return [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] to its pre-Shattering state. What began as peaceful protest has evolved into an organized resistance with extremist cells conducting terrorist attacks.
+The Purist Coalition opposes all use of Aether Crystals, viewing them as divine punishment for mortal hubris. They seek to destroy all crystals and return [[02_Worldbuilding/Places/Aethermoor]] to its pre-Shattering state. What began as peaceful protest has evolved into an organized resistance with extremist cells conducting terrorist attacks.
 
 ## Ideology
 
@@ -47,23 +47,23 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 ## Organization Structure
 
 ### Leadership
-- **High Inquisitor**: [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] - Supreme leader
+- **High Inquisitor**: [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Supreme leader
 - **The Council of Purity**: Five regional commanders
 - **Inquisitors**: Investigate and judge corruption
 - **Purifiers**: Military arm
 - **Redeemers**: Peaceful protesters and preachers
 
 ### Regional Cells
-- **Northern Watch**: Monitor [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]]
-- **Central Resistance**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] underground
-- **Coastal Cleansers**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] operations
-- **Mountain Wardens**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]]
-- **Forest Heart**: [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]] headquarters
+- **Northern Watch**: Monitor [[02_Worldbuilding/Places/The Crystalline Wastes]]
+- **Central Resistance**: [[02_Worldbuilding/Places/Crystalhaven]] underground
+- **Coastal Cleansers**: [[02_Worldbuilding/Places/Port Meridian]] operations
+- **Mountain Wardens**: [[02_Worldbuilding/Places/The Sundered Peaks]]
+- **Forest Heart**: [[02_Worldbuilding/Places/The Verdant Reach]] headquarters
 
 ## Membership
 
 ### Public Face
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]] - Healer and moderate voice
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]] - Healer and moderate voice
 - **Sister Catherine Moonfall** - Popular preacher
 - **Elder Thomas Greenwood** - Respected philosopher
 - Thousands of peaceful protesters
@@ -75,7 +75,7 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 - Corrupted victims seeking revenge
 
 ### Sympathizers
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]] - Ideological alignment
+- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Ideological alignment
 - Rural populations affected by corruption
 - Families of corruption victims
 - Traditional nobles losing power
@@ -95,8 +95,8 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 > - Assassinating crystal researchers
 > - Stealing and destroying crystal shipments
 > - Planning attack during Crystal Festival
-> - Infiltrating [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-> - Building army in [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]]
+> - Infiltrating [[02_Worldbuilding/People/Crystal Wardens]]
+> - Building army in [[02_Worldbuilding/Places/The Verdant Reach]]
 
 ## Resources & Assets
 
@@ -127,20 +127,20 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 ## Relationships
 
 ### Enemies
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]] - Primary opposition
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Active conflict
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Want her deposed
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Target for assassination
+- [[02_Worldbuilding/Groups/The Crystal Throne]] - Primary opposition
+- [[02_Worldbuilding/People/Crystal Wardens]] - Active conflict
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Want her deposed
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Target for assassination
 
 ### Potential Allies
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Verdant Accord]] - Natural alliance
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]] - Possible puppet ruler
+- [[02_Worldbuilding/People/The Verdant Accord]] - Natural alliance
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Possible puppet ruler
 - Foreign powers fearing crystal spread
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]] - Ideological sympathy
+- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Ideological sympathy
 
 ### Complicated
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Sometimes buy their services
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]] - Unsure of their position
+- [[02_Worldbuilding/People/The Crimson Sage]] - Unsure of their position
 - Common citizens - Need their support
 
 ## Faction Ranks
@@ -165,12 +165,12 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 - Disrupt Crystal Festival
 - Expose Queen's corruption
 - Destroy major crystal shipment
-- Convert [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]] fully
+- Convert [[02_Worldbuilding/People/Brother Marcus Steelbane]] fully
 - Establish cells in every city
 
 ### Long Term
 > [!warning] DM Only
-> - Overthrow [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]
+> - Overthrow [[02_Worldbuilding/Groups/The Crystal Throne]]
 > - Destroy all crystal refineries
 > - Establish theocracy based on pre-Shattering faith
 > - Find and destroy the Seven Shards
@@ -208,11 +208,11 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 
 ## Secret Truths
 > [!warning] DM Only
-> - [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] is descendant of one of Seven Betrayers
+> - [[02_Worldbuilding/People/High Inquisitor Maltheos]] is descendant of one of Seven Betrayers
 > - Some leaders know about the Seven Shards
 > - Have captured and tortured crystal researchers
 > - Planning mass poisoning at Crystal Festival
-> - [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]] is wavering in commitment
+> - [[02_Worldbuilding/People/Brother Marcus Steelbane]] is wavering in commitment
 > - Foreign power secretly funding them
 
 ## Base of Operations
@@ -244,7 +244,7 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 #### Information Gathering
 - **[[02_Worldbuilding/Personnel/The Crystal Watchers|02 Worldbuilding/Personnel/The Crystal Watchers]]**: Infiltrators monitoring crystal technology development
 - **[[02_Worldbuilding/Personnel/Corruption Trackers|02 Worldbuilding/Personnel/Corruption Trackers]]**: Specialists documenting crystal corruption cases
-- **[[02_Worldbuilding/Personnel/Government Informants|02 Worldbuilding/Personnel/Government Informants]]**: Sympathizers within [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]
+- **[[02_Worldbuilding/Personnel/Government Informants|02 Worldbuilding/Personnel/Government Informants]]**: Sympathizers within [[02_Worldbuilding/Groups/The Crystal Throne]]
 - **[[02_Worldbuilding/Personnel/Academic Infiltrators|02 Worldbuilding/Personnel/Academic Infiltrators]]**: Scholars within universities researching crystal alternatives
 - **[[02_Worldbuilding/Personnel/Trade Monitors|02 Worldbuilding/Personnel/Trade Monitors]]**: Agents tracking crystal commerce and distribution
 
@@ -292,14 +292,14 @@ Trained soldiers dedicated to anti-crystal warfare:
 #### **High Inquisitor Maltheos** - Supreme Leader
 *True Neutral becoming Lawful Evil*
 - Descendant of one of the Seven Betrayers who caused the Shattering
-- Secret knowledge about the true nature of [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Seven Shards]]
+- Secret knowledge about the true nature of [[02_Worldbuilding/Lore/The Seven Shards]]
 - Personal guilt driving extremist interpretation of purification doctrine
 - Increasingly authoritarian leadership style alienating moderate members
 - Hidden agenda to find and destroy all Seven Shards permanently
 
 #### **Inquisitor Marcus Ironheart** - Military Commander
 *Lawful Neutral with extremist tendencies*
-- Former [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] captain who witnessed massacre from crystal corruption
+- Former [[02_Worldbuilding/People/Crystal Wardens]] captain who witnessed massacre from crystal corruption
 - Leads the militant wing and advocates for direct military action
 - Conflicts with moderate voices about acceptable casualties
 - Secretly planning coup if Maltheos becomes too unstable
@@ -330,37 +330,37 @@ Trained soldiers dedicated to anti-crystal warfare:
 - Potential threat to Coalition unity if her methods are exposed
 
 ### Regional Leadership
-#### **Northern Command** - [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]]
+#### **Northern Command** - [[02_Worldbuilding/Places/The Crystalline Wastes]]
 - **Commander Thrace Ironwood**: Former Crystal Warden turned extremist
 - Monitors crystal waste zones and documents corruption effects
 - Conducts rescue operations for corruption victims
 - Sometimes conflicts with central command over resource allocation
 - Advocates for establishing permanent anti-crystal settlements
 
-#### **Central Operations** - [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]]
+#### **Central Operations** - [[02_Worldbuilding/Places/Crystalhaven]]
 - **Master Infiltrator Sarah Whisperwind**: Underground resistance leader
 - Coordinates urban cells and sabotage operations
 - Maintains network of safe houses and supply caches
 - Expertise in avoiding Crystal Warden detection
 - Growing frustrated with lack of support from headquarters
 
-#### **Coastal Division** - [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]]
+#### **Coastal Division** - [[02_Worldbuilding/Places/Port Meridian]]
 - **Captain Roderick Saltbeard**: Former merchant turned activist
 - Organizes dock worker strikes against crystal shipments
 - Smuggles anti-crystal literature and supplies
 - Conflicts with local authorities over port operations
 - Secret alliance with independent pirates opposing crystal trade
 
-#### **Mountain Guard** - [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]]
+#### **Mountain Guard** - [[02_Worldbuilding/Places/The Sundered Peaks]]
 - **Warden Elena Stonewall**: Fortress commander and tactician
 - Protects Coalition territory from Crystal Throne military
 - Trains Purifier Corps recruits in mountain warfare
 - Maintains pre-Shattering defensive positions
 - Advocates for open warfare against crystal forces
 
-#### **Forest Command** - [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]]
+#### **Forest Command** - [[02_Worldbuilding/Places/The Verdant Reach]]
 - **Druidess Mira Oakheart**: Environmental protection specialist
-- Coordinates with [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]] on natural magic
+- Coordinates with [[02_Worldbuilding/People/Archdruid Thornweaver]] on natural magic
 - Protects Coalition headquarters and training facilities
 - Develops alternative magical techniques to replace crystal use
 - Growing influence within Coalition leadership
@@ -383,7 +383,7 @@ Trained soldiers dedicated to anti-crystal warfare:
 - Environmental activists opposing crystal industrialization
 
 #### Disillusioned Government & Military
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] who've lost faith in crystal technology
+- [[02_Worldbuilding/People/Crystal Wardens]] who've lost faith in crystal technology
 - Government officials witnessing negative effects of crystal policy
 - Military personnel opposed to crystal weapons development
 - Civil servants concerned about crystal industry influence
@@ -407,14 +407,14 @@ Trained soldiers dedicated to anti-crystal warfare:
 ## Factional Relationships (Detailed)
 
 ### Active Enemies
-#### [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]]
+#### [[02_Worldbuilding/Groups/The Crystal Throne]]
 - **Primary Opposition**: Fundamental ideological conflict over crystal use
 - **Intelligence War**: Constant espionage and counter-espionage
 - **Economic Warfare**: Coalition sabotage vs. government regulation
 - **Propaganda Battle**: Competing narratives about crystal benefits/dangers
 - **Military Tension**: Growing potential for open warfare
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
+#### [[02_Worldbuilding/People/Crystal Wardens]]
 - **Direct Conflict**: Regular clashes between Wardens and Coalition operatives
 - **Recruitment Competition**: Both sides seek to convert the other's members
 - **Tactical Innovation**: Each side develops counters to the other's methods
@@ -422,14 +422,14 @@ Trained soldiers dedicated to anti-crystal warfare:
 - **Information Warfare**: Attempts to expose each other's operations
 
 ### Potential Allies
-#### [[vault_backup_20250813_073007/02_Worldbuilding/People/The Verdant Accord]]
+#### [[02_Worldbuilding/People/The Verdant Accord]]
 - **Ideological Alignment**: Shared belief in natural solutions over artificial ones
 - **Environmental Cooperation**: Joint opposition to crystal mining damage
 - **Resource Sharing**: Coalition provides security, Accord provides supplies
 - **Tactical Alliance**: Coordination on operations affecting natural areas
 - **Cultural Exchange**: Shared interest in pre-Shattering traditions
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]]
+#### [[02_Worldbuilding/People/Prince Caspian Duskwater]]
 - **Political Opportunity**: Potential alternative to crystal-supporting monarchy
 - **Legitimacy Benefits**: Royal endorsement would validate Coalition ideology
 - **Strategic Risks**: Prince's personal agenda may conflict with Coalition goals
@@ -444,14 +444,14 @@ Trained soldiers dedicated to anti-crystal warfare:
 - **Security Risks**: Syndicate knowledge makes Coalition vulnerable to betrayal
 - **Ideological Tension**: Syndicate's mercenary nature conflicts with Coalition's moral mission
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]
+#### [[02_Worldbuilding/People/The Crimson Sage]]
 - **Knowledge Uncertainty**: Coalition unsure of Sage's position on crystals
 - **Power Concerns**: Sage's abilities make them valuable ally or dangerous enemy
 - **Historical Connection**: Possible link to pre-Shattering events Coalition opposes
 - **Strategic Value**: Sage's influence could significantly advance Coalition goals
 - **Trust Issues**: Sage's secretive nature creates uncertainty about true motivations
 
-#### [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]
+#### [[02_Worldbuilding/People/Brother Marcus Steelbane]]
 - **Internal Moderate**: Coalition member with doubts about extremist methods
 - **Public Face**: Popular figure who represents Coalition's peaceful intentions
 - **Strategic Asset**: Medical expertise and moral authority valuable to Coalition
@@ -506,35 +506,35 @@ Trained soldiers dedicated to anti-crystal warfare:
 - **Ideological Preservation**: Maintaining Coalition principles through changing circumstances
 
 ## Connected Factions
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Crystal Throne]] - Primary enemy
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]] - Active opposition
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Verdant Accord]] - Natural allies
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]] - Competing ideology
+- [[02_Worldbuilding/Groups/The Crystal Throne]] - Primary enemy
+- [[02_Worldbuilding/People/Crystal Wardens]] - Active opposition
+- [[02_Worldbuilding/People/The Verdant Accord]] - Natural allies
+- [[02_Worldbuilding/Places/The Order of the Shattered Crown]] - Competing ideology
 - [[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Uncomfortable allies
 - [[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis|02 Worldbuilding/Groups/The Shadow Crystal Synthesis]] - Philosophical enemies
 
 ## Connected NPCs
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]] - Supreme Leader
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]] - Moderate member and potential successor
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Archdruid Thornweaver]] - Natural ally
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Primary target
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prince Caspian Duskwater]] - Potential political ally
+- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Supreme Leader
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]] - Moderate member and potential successor
+- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Natural ally
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Primary target
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Potential political ally
 - **Sister Catherine Moonfall** - Popular spiritual leader
 - **Elder Thomas Greenwood** - Chief philosopher
 - **Commander Thrace Ironwood** - Military leader
 
 ## Connected Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Verdant Reach]] - Primary headquarters
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystalhaven]] - Major urban operations center
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Port Meridian]] - Coastal resistance hub
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Crystalline Wastes]] - Monitoring operations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sundered Peaks]] - Mountain stronghold
+- [[02_Worldbuilding/Places/The Verdant Reach]] - Primary headquarters
+- [[02_Worldbuilding/Places/Crystalhaven]] - Major urban operations center
+- [[02_Worldbuilding/Places/Port Meridian]] - Coastal resistance hub
+- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Monitoring operations
+- [[02_Worldbuilding/Places/The Sundered Peaks]] - Mountain stronghold
 - **The Purity Sanctuaries** - Hidden safe zones throughout kingdom
 
 ## Related Quests
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Peace negotiations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Crystal Festival]] - Preventing/conducting attack
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Hearts and Minds]] - Propaganda war
+- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Peace negotiations
+- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]] - Preventing/conducting attack
+- [[02_Worldbuilding/Quests/Quest - Hearts and Minds]] - Propaganda war
 - **The Moderate Reformation** - Internal Coalition politics
 - **The Purification Crusade** - Military campaign against crystal forces
 - **The Underground Railroad** - Helping corruption victims escape
@@ -543,19 +543,19 @@ Trained soldiers dedicated to anti-crystal warfare:
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Crystal Wardens]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Orders/Establish the New Order]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/The Shadow War Coalition]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Commander Thrace Ironwood]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Emperor Thalassius the Wise]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Lady Jade Clawgrip]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Cathedral of Light]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Crystal Gardens]]
+- [[02_Worldbuilding/People/Crystal Wardens]]
+- [[02_Worldbuilding/Groups/Orders/Establish the New Order]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Party Shadows]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Independence Levels]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Stop the Shadow Harvest]]
+- [[02_Worldbuilding/Groups/The Forsaken Consortium Collective]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow War Coalition]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+- [[02_Worldbuilding/People/Emperor Thalassius the Wise]]
+- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
+- [[02_Worldbuilding/Places/Cathedral of Light]]
+- [[02_Worldbuilding/Places/Crystal Gardens]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -576,8 +576,8 @@ Legends speak of Purist Coalition as a nexus where past and present converge. Lo
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Hearts and Minds]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Brother Marcus Steelbane]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Order of the Shattered Crown]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - Hearts and Minds]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Quests/Quest - The Crystal Festival]]
+- [[02_Worldbuilding/Quests/Quest - Hearts and Minds]]
+- [[02_Worldbuilding/People/Brother Marcus Steelbane]]
+- [[02_Worldbuilding/Places/The Order of the Shattered Crown]]
+- [[02_Worldbuilding/Quests/Quest - Hearts and Minds]]
+- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]

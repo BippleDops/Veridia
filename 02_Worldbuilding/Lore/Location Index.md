@@ -53,7 +53,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 - [[02_Worldbuilding/Places/Royal Vault]] - Secure storage and treasury
 - [[02_Worldbuilding/Places/Harbor District]] - Extended port facilities
 - [[02_Worldbuilding/Places/Harbor District Customs House]] - Trade regulation offices
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Market District]] - Expanded commercial zone
+- [[02_Worldbuilding/Places/Market District]] - Expanded commercial zone
 - [[02_Worldbuilding/Places/Noble Quarter]] - Elite living areas
 
 #### Other Major Settlements
@@ -73,11 +73,11 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 - [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes - Shadow Chamber]] - Secret government meetings
 - [[02_Worldbuilding/Places/The Eternal Senate]] - Ancient governing body remnants
 - [[02_Worldbuilding/Places/The Unremembered Parliament]] - Lost political institution
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Royal Embassy]] - Diplomatic headquarters
+- [[02_Worldbuilding/Lore/Royal Embassy]] - Diplomatic headquarters
 - [[02_Worldbuilding/Places/The Embassy Quarter]] - Foreign diplomatic district
 - [[02_Worldbuilding/Places/Vote Vaults]] - Secure voting and record storage
 - [[02_Worldbuilding/Places/Senator's Private Chambers]] - Government official quarters
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Customs House]] - Trade and border control
+- [[02_Worldbuilding/Lore/Customs House]] - Trade and border control
 
 #### Commercial & Economic
 - [[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]] - Massive marketplace
@@ -108,7 +108,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 - [[02_Worldbuilding/Lore/Aethermoor Archives]] - Historical record repository
 - [[02_Worldbuilding/Lore/The Forgotten Archive]] - Lost knowledge storage
 - [[02_Worldbuilding/Places/The Archive of Unremembered Things]] - Memory-focused library
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]] - Ancient underwater library
+- [[02_Worldbuilding/Places/Aquabyssos]] - Ancient underwater library
 - [[02_Worldbuilding/Lore/Abyssal Academy]] - Deep-sea learning institution
 
 ### Natural & Mystical Locations
@@ -136,13 +136,13 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 - [[02_Worldbuilding/Places/The Temporal Convergence Storms]] - Time storm phenomena
 
 #### Mysterious & Dangerous Areas
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Ultimate depth mystery
+- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Ultimate depth mystery
 - [[02_Worldbuilding/Places/The Void Tears]] - Reality rupture locations
 - [[02_Worldbuilding/Places/The Shattered Sanctum]] - Broken holy site
 - [[02_Worldbuilding/Places/The Sundered Vaults]] - Damaged storage areas
 - [[02_Worldbuilding/Places/The Vanishing Depths]] - Mysteriously disappearing areas
 - [[02_Worldbuilding/Places/The Screaming Battleground]] - Ancient conflict site
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Leviathan Graveyard]] - Giant creature burial ground
+- [[02_Worldbuilding/Lore/Leviathan Graveyard]] - Giant creature burial ground
 - [[02_Worldbuilding/Lore/Kraken Territories]] - Massive creature domains
 - [[02_Worldbuilding/Lore/Fear Farms]] - Terror cultivation areas
 
@@ -156,10 +156,10 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 - [[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]] - Floating religious center
 
 ### Surface Locations
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Goldwave Manor]] - Noble estate and grounds
+- [[02_Worldbuilding/Lore/Goldwave Manor]] - Noble estate and grounds
 - [[02_Worldbuilding/Places/Crystal Gardens]] - Cultivated crystal growing areas
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystal Festival Grounds]] - Ritual preparation site
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Festival Grounds]] - Secondary festival area
+- [[02_Worldbuilding/Lore/The Crystal Festival Grounds]] - Ritual preparation site
+- [[02_Worldbuilding/Lore/Crystal Festival Grounds]] - Secondary festival area
 - [[02_Worldbuilding/Places/The Synthesis Gardens]] - Harmony cultivation center
 - [[02_Worldbuilding/People/The Purification Gardens]] - Cleansing ritual grounds
 - [[02_Worldbuilding/Places/The Infinite Garden]] - Reality-bending natural space
@@ -179,14 +179,14 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 - [[02_Worldbuilding/Places/The Sundered Peaks]] - Broken mountain ranges
 - [[02_Worldbuilding/Places/The Whispering Peaks]] - Sound-carrying mountain tops
 - [[02_Worldbuilding/Lore/Resonance Peaks]] - Acoustically active summits
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lighthouse Peak - Resonance Chamber]] - Signal amplification site
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Prismatic Falls]] - Rainbow waterfall location
+- [[02_Worldbuilding/Lore/Lighthouse Peak - Resonance Chamber]] - Signal amplification site
+- [[02_Worldbuilding/Lore/Prismatic Falls]] - Rainbow waterfall location
 
 ## Cross-World & Transition Locations
 
 ### Convergence Points
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Convergence Point]] - World intersection location
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Convergence Point]] - Primary world meeting point
+- [[02_Worldbuilding/Lore/The Convergence Point]] - World intersection location
+- [[02_Worldbuilding/Lore/Convergence Point]] - Primary world meeting point
 - [[02_Worldbuilding/Lore/Merged Reality Zones]] - Blended world areas
 - [[02_Worldbuilding/Lore/Reality Merge Zones]] - World fusion locations
 - [[02_Worldbuilding/Lore/The Threshold]] - Dimensional barrier location
@@ -195,14 +195,14 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 ### Lighthouse Network
 - [[02_Worldbuilding/Lore/The Lighthouse of Storms]] - Weather control beacon
 - [[02_Worldbuilding/Lore/Lighthouse of Storms]] - Storm manipulation facility
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lighthouse Ruins]] - Damaged beacon remnants
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Resonance Chamber]] - Signal amplification room
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Lighthouse Peak - Resonance Chamber]] - Mountain-top signal facility
+- [[02_Worldbuilding/Lore/Lighthouse Ruins]] - Damaged beacon remnants
+- [[02_Worldbuilding/Lore/Resonance Chamber]] - Signal amplification room
+- [[02_Worldbuilding/Lore/Lighthouse Peak - Resonance Chamber]] - Mountain-top signal facility
 
 ### Historical & Ancient Sites
 - [[02_Worldbuilding/Lore/Pre-Submersion Ruins]] - Pre-flood civilization remains
 - [[02_Worldbuilding/Lore/Ancient Siege Tunnels]] - Historical warfare passages
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Forgotten Isles]] - Lost island chain
+- [[02_Worldbuilding/Lore/The Forgotten Isles]] - Lost island chain
 - [[02_Worldbuilding/Places/The Shattered Isles]] - Broken archipelago
 - [[02_Worldbuilding/Lore/Fortress of the Deeps]] - Ancient military stronghold
 - [[02_Worldbuilding/Places/The Bone Palace of Sorrows]] - Macabre historical site
@@ -215,7 +215,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 - [[02_Worldbuilding/Places/Pressure Tube Terminal]] - Pneumatic transport station
 - [[02_Worldbuilding/Places/Pressure Tubes]] - Transportation tunnel network
 - [[02_Worldbuilding/Places/Dream Rails]] - Mystical transport system
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Npc]] - Natural underwater roadway
+- [[02_Worldbuilding/Lore/Npc]] - Natural underwater roadway
 - [[02_Worldbuilding/Places/Surface Portal Alpha]] - Primary surface-depth gateway
 - [[02_Worldbuilding/Places/Blood Current Express]] - Rapid transport system
 
@@ -266,8 +266,8 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 ---
 
 ## Navigation Links
-- **Back to**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Update Indexes]] - Main navigation hub
-- **See Also**: [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]] - Campaign-specific content
+- **Back to**: [[02_Worldbuilding/Lore/Update Indexes]] - Main navigation hub
+- **See Also**: [[02_Worldbuilding/Lore/Campaign Index]] - Campaign-specific content
 - **Related**: [[02_Worldbuilding/Lore/Quest Index]] - Location-based adventures
 
 ---
@@ -299,4 +299,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Update Indexes]]
+- [[02_Worldbuilding/Lore/Update Indexes]]

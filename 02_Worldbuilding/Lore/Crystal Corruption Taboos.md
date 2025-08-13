@@ -44,7 +44,7 @@ world: Both
 
 ## Overview
 
-The Crystal Corruption Taboos represent the most pervasive and deeply ingrained cultural restrictions in both [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]] and [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aquabyssos]], forming an intricate web of social rules, prohibitions, and collective behaviors designed to prevent, contain, and respond to crystal corruption incidents. These taboos emerged organically in the centuries following [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]], evolving from practical survival strategies into fundamental cultural institutions that shape social interaction, community identity, and individual behavior across both worlds.
+The Crystal Corruption Taboos represent the most pervasive and deeply ingrained cultural restrictions in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], forming an intricate web of social rules, prohibitions, and collective behaviors designed to prevent, contain, and respond to crystal corruption incidents. These taboos emerged organically in the centuries following [[02_Worldbuilding/Lore/The Great Crystallization]], evolving from practical survival strategies into fundamental cultural institutions that shape social interaction, community identity, and individual behavior across both worlds.
 
 Unlike formal laws imposed by governmental authority, the Crystal Corruption Taboos operate through informal social pressure, community enforcement, and deeply internalized cultural conditioning. They represent humanity's collective psychological response to an existential threat that cannot be fully understood, controlled, or eliminated—only managed through rigid social discipline and cultural vigilance.
 
@@ -57,7 +57,7 @@ What makes these taboos particularly complex is their dual nature as both protec
 ### The Emergency Period (Years 1-25 Post-Crystallization)
 *"When Fear Became Wisdom"*
 
-The earliest Crystal Corruption Taboos emerged during the chaotic years immediately following [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]], when communities struggled to understand and respond to the unprecedented threat of reality-warping corruption.
+The earliest Crystal Corruption Taboos emerged during the chaotic years immediately following [[02_Worldbuilding/Lore/The Great Crystallization]], when communities struggled to understand and respond to the unprecedented threat of reality-warping corruption.
 
 **Initial Response Patterns (Years 1-5)**:
 - **Instinctive Avoidance**: Natural human tendency to avoid obviously corrupted areas and individuals
@@ -991,34 +991,34 @@ Taboo variation between communities and worlds creates adventures focused on cul
 ## Connected Locations and Organizations
 
 ### Institutional Connections
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Guilds/The Warden Guilds]] - Professional organizations enforcing corruption taboos and community safety
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Purification Temples]] - Religious institutions providing spiritual framework for taboo observance
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Integration Institute]] - Research and educational organization studying corruption and taboo effectiveness
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Rights Advocacy Alliance]] - Legal and social organization protecting individuals from taboo-related discrimination
+- [[02_Worldbuilding/Groups/Guilds/The Warden Guilds]] - Professional organizations enforcing corruption taboos and community safety
+- [[02_Worldbuilding/Places/The Purification Temples]] - Religious institutions providing spiritual framework for taboo observance
+- [[02_Worldbuilding/Lore/The Integration Institute]] - Research and educational organization studying corruption and taboo effectiveness
+- [[02_Worldbuilding/Lore/The Rights Advocacy Alliance]] - Legal and social organization protecting individuals from taboo-related discrimination
 - [[The Cultural Preservation Society]] - Traditional organization maintaining historical taboo practices and knowledge
 
 ### Geographic Connections
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Crystallization Sites]] - Original locations where corruption taboos first developed
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Reform Communities]] - Progressive areas experimenting with modified taboo approaches
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Traditional Enclaves]] - Conservative communities maintaining strict historical taboo practices
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Neutral Zones]] - Areas attempting to balance different approaches to taboo and corruption
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Hybrid Settlements]] - Communities developing compromise solutions between traditional and reform approaches
+- [[02_Worldbuilding/Lore/The Crystallization Sites]] - Original locations where corruption taboos first developed
+- [[02_Worldbuilding/Lore/The Reform Communities]] - Progressive areas experimenting with modified taboo approaches
+- [[02_Worldbuilding/Lore/The Traditional Enclaves]] - Conservative communities maintaining strict historical taboo practices
+- [[02_Worldbuilding/Lore/The Neutral Zones]] - Areas attempting to balance different approaches to taboo and corruption
+- [[02_Worldbuilding/Lore/The Hybrid Settlements]] - Communities developing compromise solutions between traditional and reform approaches
 
 ### Individual Connections
 - [[Cultural Anthropologist Warden Clearlight]] - Leading researcher studying taboo development and social effects
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Reform Advocate Justice Truthseeker]] - Prominent activist working to modify discriminatory taboo practices
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Traditional Elder Wisdom Keeper]] - Respected community leader defending historical taboo importance
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Legal Advocate Rights Defender]] - Professional lawyer specializing in corruption discrimination cases
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Community Mediator Balance Wright]] - Specialist helping communities navigate taboo-related conflicts
+- [[02_Worldbuilding/Lore/Reform Advocate Justice Truthseeker]] - Prominent activist working to modify discriminatory taboo practices
+- [[02_Worldbuilding/Places/Traditional Elder Wisdom Keeper]] - Respected community leader defending historical taboo importance
+- [[02_Worldbuilding/Lore/Legal Advocate Rights Defender]] - Professional lawyer specializing in corruption discrimination cases
+- [[02_Worldbuilding/Lore/Community Mediator Balance Wright]] - Specialist helping communities navigate taboo-related conflicts
 
 ---
 
 *"The taboos we create to protect ourselves can become the chains that bind us. The wisdom lies not in abandoning all boundaries, but in ensuring that our protective measures serve justice as well as safety, compassion as well as survival."*
-*— [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Philosopher-Reformer Unity Bridgewright]], "The Ethics of Necessary Boundaries"*
+*— [[02_Worldbuilding/Lore/Philosopher-Reformer Unity Bridgewright]], "The Ethics of Necessary Boundaries"*
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Deep Mother]]
+- [[02_Worldbuilding/Lore/The Deep Mother]]
 - [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
@@ -1044,5 +1044,5 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## Cross-References
 
 - [[Master_Lore_Index|Master Lore Index]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/The Great Crystallization]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Aethermoor]]
+- [[02_Worldbuilding/Lore/The Great Crystallization]]
+- [[02_Worldbuilding/Places/Aethermoor]]

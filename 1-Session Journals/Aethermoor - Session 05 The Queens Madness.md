@@ -12,8 +12,8 @@ duration_hours: 4
 encounters:
 - '[[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal
   Guard Elite]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Possessed Noble Coterie]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Throne Room - Heart of Palace]]'
+- '[[02_Worldbuilding/Lore/Possessed Noble Coterie]]'
+- '[[02_Worldbuilding/Places/Throne Room - Heart of Palace]]'
 gold_gained: 0
 items_gained:
 - Royal Seal of Authority
@@ -23,16 +23,16 @@ items_gained:
 - Ancient Aquabyssos texts
 level: 4
 locations_visited:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ancient Siege Tunnels]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Crystal Garden]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Throne Room]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Vault]]'
+- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels]]'
+- '[[02_Worldbuilding/Lore/Crystal Garden]]'
+- '[[02_Worldbuilding/Lore/Throne Room]]'
+- '[[02_Worldbuilding/Places/Royal Vault]]'
 npcs_met:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/High Inquisitor Maltheos]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/People/The Crimson Sage]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Princess Celestia]] (revealed)'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/Lore/Princess Celestia]] (revealed)'
 obsidianUIMode: preview
 players: []
 plot_threads:
@@ -41,14 +41,14 @@ plot_threads:
 - Palace foundation contains underwater gate
 - High Inquisitor's son is key to shard
 - One party member carries the bloodline
-primary_location: '[[vault_backup_20250813_073007/02_Worldbuilding/Places/Royal Palace of Meridian]]'
+primary_location: '[[02_Worldbuilding/Places/Royal Palace of Meridian]]'
 quests_completed: []
 quests_progressed:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Places/The Seven Shards Mystery]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Race Against the Festival]]'
+- '[[02_Worldbuilding/Places/The Seven Shards Mystery]]'
+- '[[02_Worldbuilding/Lore/Race Against the Festival]]'
 quests_started:
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Lore/Save Queen Seraphina]]'
-- '[[vault_backup_20250813_073007/02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]'
+- '[[02_Worldbuilding/Lore/Save Queen Seraphina]]'
+- '[[02_Worldbuilding/Quests/Stop the Crystal Festival Ritual]]'
 session: Session-05
 status: complete
 tags:
@@ -105,7 +105,7 @@ Captain Lyanna Brightshield crashes through the party's hideout window, begging 
 
 ## Scene 1: The Siege Tunnels
 
-### Location: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
+### Location: [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
 **Atmosphere**: Darkness older than the city, walls carved with pre-Meridian symbols, dripping water that whispers in Aquan.
 
 ### Environmental Challenges
@@ -139,7 +139,7 @@ Deeper sections partially flooded:
 
 ## Scene 2: The Crystal Garden
 
-### Location: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
+### Location: [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
 **Transformation**: Royal gardens now forest of living crystal, nobles wandering in synchronized patterns.
 
 ### The Corrupted Nobles
@@ -177,7 +177,7 @@ Center of garden:
 
 ## Scene 3: The Throne Room Revelation
 
-### Location: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Throne Room - Heart of Palace]]
+### Location: [[02_Worldbuilding/Places/Throne Room - Heart of Palace]]
 **Transformation**: Massive crystal growing from throne, reality fractures showing glimpses of Aquabyssos.
 
 ### Witnessing the Pre-Ritual
@@ -224,7 +224,7 @@ Party observes from hidden vantage:
 
 ## Scene 4: The Royal Vault
 
-### Location: [[vault_backup_20250813_073007/02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+### Location: [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
 **Access**: Hidden switch in throne arm + royal seal
 
 ### The Crimson Sage Appears
@@ -396,11 +396,11 @@ This session establishes:
 - Merger as potentially necessary evil
 
 ## Rules References
-- [[vault_backup_20250813_073007/03_Mechanics/Possession Mechanics]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Bloodline Awakening Powers]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Deep Mother Influence]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Ritual Redirection Options]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
+- [[03_Mechanics/Possession Mechanics]]
+- [[02_Worldbuilding/Lore/Bloodline Awakening Powers]]
+- [[02_Worldbuilding/Lore/Deep Mother Influence]]
+- [[02_Worldbuilding/Lore/Ritual Redirection Options]]
+- [[02_Worldbuilding/Lore/Multi-Phase Boss Fights]]
 
 ## DM Notes
 - Play up the tragedy of the Queen's situation
@@ -411,12 +411,12 @@ This session establishes:
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Campaign Index]]
+- [[02_Worldbuilding/Lore/Campaign Index]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Secret Vault Beneath Throne]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Throne Room - Heart of Palace]]
+- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]]
+- [[02_Worldbuilding/Places/Palace Courtyard - Crystal Garden]]
+- [[02_Worldbuilding/Places/Secret Vault Beneath Throne]]
+- [[02_Worldbuilding/Places/Throne Room - Heart of Palace]]

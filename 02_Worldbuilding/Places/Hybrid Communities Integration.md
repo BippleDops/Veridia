@@ -290,12 +290,12 @@ Unlike the formal diplomatic spaces or controlled transit areas, these organic c
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Pressure Point Settlement]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Diplomatic Protocol Center]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Cross-Dimensional Transit Authority]]
+- [[02_Worldbuilding/Places/Pressure Point Settlement]]
+- [[02_Worldbuilding/Places/Diplomatic Protocol Center]]
+- [[02_Worldbuilding/Places/Cross-Dimensional Transit Authority]]
 - [[Inter-Realm Marriage Registry]]
 - [[Cultural Exchange Programs]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Government_and_Parliament/Cross-Realm Cooperation Authority]]
+- [[02_Worldbuilding/Groups/Government_and_Parliament/Cross-Realm Cooperation Authority]]
 
 ## Player-Facing Summary
 
@@ -307,6 +307,6 @@ Legends speak of Hybrid Communities Integration as a nexus where past and presen
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Hybrid Communities Integration]]
+- [[02_Worldbuilding/Places/Hybrid Communities Integration]]
 
 <!-- enriched: true -->

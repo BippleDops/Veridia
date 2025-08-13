@@ -43,12 +43,12 @@ world: Aquabyssos
 Shadow Parliament moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
 
 - Ideal: Stability through controlled risk.
-- Bond: A family archive tied to [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Library of Thalassius]].
+- Bond: A family archive tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers.
 
 ## Tactics and Traits
 - Conversational Disarm: First parley each day imposes disadvantage on Insight checks to read their tells.
-- Ledger of Debts: Knows a favor owed by agents linked to [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]].
+- Ledger of Debts: Knows a favor owed by agents linked to [[02_Worldbuilding/People/Vex Shadowthorn]].
 - Contingency: Keeps a sealed route toward [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] if negotiations sour.
 
 ## For the Table (Use Now)
@@ -62,14 +62,14 @@ Shadow Parliament moves information and influence like currency. Publicly pragma
 - Verdant Accord observer: -1 (ideological friction)
 
 ## Hooks to the Main Campaign
-- Offers a map shard pointing toward [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Library of Thalassius]].
+- Offers a map shard pointing toward [[02_Worldbuilding/Places/The Sunken Library of Thalassius]].
 - Brokers a ceasefire to enable [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- Sells a rumor naming [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]] as the true buyer behind a recent theft.
+- Sells a rumor naming [[02_Worldbuilding/People/Vex Shadowthorn]] as the true buyer behind a recent theft.
 
 ## Cross-References
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/The Sunken Library of Thalassius]]
+- [[02_Worldbuilding/Places/The Sunken Library of Thalassius]]
 - [[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Vex Shadowthorn]]
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -94,13 +94,13 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Lore/Discover Marina's Truth]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/His Own Shadow]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Knight]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Mayor Thompson]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Oracle]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator Marius]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Senator]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/The Sorrowmaster]]
-- [[vault_backup_20250813_073007/1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]
+- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]]
+- [[02_Worldbuilding/Lore/Discover Marina's Truth]]
+- [[02_Worldbuilding/People/His Own Shadow]]
+- [[02_Worldbuilding/People/Knight]]
+- [[02_Worldbuilding/People/Mayor Thompson]]
+- [[02_Worldbuilding/People/Oracle]]
+- [[02_Worldbuilding/People/Senator Marius]]
+- [[02_Worldbuilding/People/Senator]]
+- [[02_Worldbuilding/People/The Sorrowmaster]]
+- [[1-Session Journals/Aquabyssos - Session 04 - High Tide Horror]]

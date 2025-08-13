@@ -23,14 +23,14 @@ world: Both
 
 ## Cross-References
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]]
+- [[02_Worldbuilding/Places/Lumengarde]]
 
 
 ## Connections
 
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Duke Cyrus Reefheart]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/People/Prophet Nerida Voidgazer]]
-- [[vault_backup_20250813_073007/02_Worldbuilding/Places/Lumengarde]]
+- [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
+- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- [[02_Worldbuilding/Places/Lumengarde]]
 
 ## Player-Facing Summary
 

@@ -2,7 +2,8 @@
 
 // Local image generation client
 // Supports: Automatic1111 WebUI (txt2img)
-// Planned: ComfyUI (via workflow submission)
+// ComfyUI (via workflow submission)
+const { generateImageViaComfy } = (() => { try { return require('./comfy_client'); } catch { return {}; } })();
 
 const A1111_URL = process.env.A1111_URL || 'http://127.0.0.1:7860';
 const BACKEND = (process.env.LOCAL_IMAGE_BACKEND || 'a1111').toLowerCase();
@@ -43,7 +44,7 @@ async function generateWithComfyUI(/* params */){
 
 async function generateImageLocal({ prompt, width, height, seed }){
   if (BACKEND === 'a1111') return generateWithA1111({ prompt, width, height, seed });
-  if (BACKEND === 'comfy') return generateWithComfyUI({ prompt, width, height, seed });
+  if (BACKEND === 'comfy') return generateImageViaComfy({ prompt, width, height, seed, ckpt: process.env.COMFY_CKPT });
   throw new Error(`Unsupported backend: ${BACKEND}`);
 }
 

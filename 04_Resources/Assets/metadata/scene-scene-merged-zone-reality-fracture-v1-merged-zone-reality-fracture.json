@@ -24,9 +24,6 @@
   "seed": 7011,
   "alt_text": "Atmospheric illustration of: Merged zone reality fracture.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Scenes/scene-scene-merged-zone-reality-fracture-v1-merged-zone-reality-fracture.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Scenes/scene-scene-merged-zone-reality-fracture-v1-merged-zone-reality-fracture.svg"
 }

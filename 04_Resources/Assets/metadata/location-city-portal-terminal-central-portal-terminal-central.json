@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 2016,
+  "seed": 2207,
   "alt_text": "Cinematic view of Portal Terminal Central with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-portal-terminal-central-portal-terminal-central.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-portal-terminal-central-portal-terminal-central.svg"
 }

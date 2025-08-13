@@ -3,17 +3,25 @@ type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/24
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/grassland
-  - ttrpg-cli/monster/size/gargantuan
-  - ttrpg-cli/monster/type/dragon/metallic
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/24
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/grassland
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Ancient Gold Dragon
+- Ancient Gold Dragon
+created: null
+updated: '2025-08-13T04:22:12.312495+00:00'
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-gold-dragon-xmm-ancient-gold-dragon-xmm.svg)

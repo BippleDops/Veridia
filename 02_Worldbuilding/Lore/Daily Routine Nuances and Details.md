@@ -5,6 +5,7 @@ tags:
 - complete
 - comprehensive
 - cultural reference
+- cultural-reference
 - culture
 - daily-life
 - nuances
@@ -14,8 +15,9 @@ world: Both
 type: Cultural Reference
 created_by: claude
 created: 2025-08-12
-updated: '2025-08-13T01:18:35.657398+00:00'
+updated: '2025-08-13T04:22:14.119896+00:00'
 ---
+
 
 
 # Daily Routine Nuances and Details

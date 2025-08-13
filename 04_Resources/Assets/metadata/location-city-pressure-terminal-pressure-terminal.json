@@ -2,7 +2,7 @@
   "id": "city-pressure-terminal",
   "type": "location",
   "name": "Pressure Terminal",
-  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Panoramic view of Pressure Terminal, bioluminescent coral or cloudstone, weather cues and particles, golden hour / night glow / storm, figures/vehicles for scale, cinematic concept art, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, cinematic atmosphere, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: location]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: Panoramic view of Pressure Terminal\nEnvironment: golden hour / night glow / storm, weather cues and particles, bioluminescent coral or cloudstone\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, cinematic atmosphere\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: cinematic\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words or letters.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
   "aspect": "2:3",
   "resolution": "2048x3072",
   "style": [
@@ -21,7 +21,7 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 2069,
+  "seed": 2295,
   "alt_text": "Cinematic view of Pressure Terminal with architecture and inhabitants.",
   "realm": "aquabyssos",
   "generator": "placeholder",

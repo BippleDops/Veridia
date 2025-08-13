@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 2043,
+  "seed": 2637,
   "alt_text": "Cinematic view of The Bone Palace of Sorrows with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-the-bone-palace-of-sorrows-the-bone-palace-of-sorrows.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-the-bone-palace-of-sorrows-the-bone-palace-of-sorrows.svg"
 }

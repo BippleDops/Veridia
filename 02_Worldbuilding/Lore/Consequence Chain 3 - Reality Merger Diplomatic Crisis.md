@@ -3,6 +3,7 @@ tags:
 - aethermoor
 - aquabyssos
 - both worlds
+- both-worlds
 - campaign-consequences
 - complete
 - convergence-event
@@ -14,7 +15,7 @@ type: Lore
 world: Both Worlds
 status: complete
 created: 2025-08-12
-updated: '2025-08-13T01:18:35.297896+00:00'
+updated: '2025-08-13T04:22:13.883589+00:00'
 magnitude: 5
 visibility: 5
 primary_sessions:
@@ -22,6 +23,7 @@ primary_sessions:
 - 'Session 09: The Price of Unity'
 - 'Session 10: The Deep Mother Rises'
 ---
+
 
 
 # Consequence Chain 3: Reality Merger Diplomatic Crisis

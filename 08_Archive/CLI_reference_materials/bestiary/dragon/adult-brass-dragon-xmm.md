@@ -3,16 +3,24 @@ type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/13
-  - ttrpg-cli/monster/environment/desert
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/dragon/metallic
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/13
+- ttrpg-cli/monster/environment/desert
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Adult Brass Dragon
+- Adult Brass Dragon
+created: null
+updated: '2025-08-13T04:22:12.326822+00:00'
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-brass-dragon-xmm-adult-brass-dragon-xmm.svg)

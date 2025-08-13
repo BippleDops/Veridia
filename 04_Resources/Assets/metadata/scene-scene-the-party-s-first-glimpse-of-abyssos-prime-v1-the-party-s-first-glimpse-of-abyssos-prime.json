@@ -24,9 +24,6 @@
   "seed": 7002,
   "alt_text": "Atmospheric illustration of: The party's first glimpse of Abyssos Prime.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Scenes/scene-scene-the-party-s-first-glimpse-of-abyssos-prime-v1-the-party-s-first-glimpse-of-abyssos-prime.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Scenes/scene-scene-the-party-s-first-glimpse-of-abyssos-prime-v1-the-party-s-first-glimpse-of-abyssos-prime.svg"
 }

@@ -24,9 +24,6 @@
   "seed": 2003,
   "alt_text": "Atmospheric illustration of: Deep Mother's tentacles rising.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.svg"
 }

@@ -287,6 +287,8 @@ def guess_entity_type_from_dir(path: str) -> Optional[str]:
         return "NPC"
     if "places" in parts:
         return "Location"
+    if "quests" in parts:
+        return "Quest"
     if "groups" in parts or "orgs" in parts or "organizations" in parts:
         return "Group"
     if "lore" in parts:
@@ -297,6 +299,10 @@ def guess_entity_type_from_dir(path: str) -> Optional[str]:
         return "Hazard"
     if "events" in parts:
         return "Event"
+    if "gm_resources" in parts or "session_tools" in parts or "reference_cards" in parts:
+        return "Mechanic"
+    if "player_resources" in parts or "templates" in parts or "indexes" in parts:
+        return "Index"
     return None
 
 

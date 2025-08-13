@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 7066,
+  "seed": 7076,
   "alt_text": "Cinematic view of Plague Crisis with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-plague-crisis-v1-plague-crisis.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-plague-crisis-v1-plague-crisis.svg"
 }

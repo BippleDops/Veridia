@@ -3,16 +3,24 @@ type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/11
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/aberration
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/11
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Mind Flayer Arcanist
+- Mind Flayer Arcanist
+created: null
+updated: '2025-08-13T04:22:12.131896+00:00'
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-mind-flayer-arcanist-xmm-mind-flayer-arcanist-xmm.svg)

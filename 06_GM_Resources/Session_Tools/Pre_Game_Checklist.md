@@ -1,12 +1,15 @@
 ---
 created: null
-updated: '2025-08-13T01:18:31.121315+00:00'
+updated: '2025-08-13T04:22:10.866667+00:00'
 world: Both
 status: active
 tags:
 - active
 - both
+- mechanic
+type: Mechanic
 ---
+
 
 # Pre-Game Session Checklist
 *A comprehensive guide for Dungeon Masters to prepare for successful sessions*

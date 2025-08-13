@@ -2,7 +2,7 @@
   "id": "city-the-constellation-mystery-v1",
   "type": "location",
   "name": "The Constellation Mystery",
-  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Panoramic view of The Constellation Mystery, bioluminescent coral or cloudstone, weather cues and particles, golden hour / night glow / storm, figures/vehicles for scale, cinematic concept art, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, cinematic atmosphere, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "prompt": "# TTRPG Asset Generation Prompt\n\n## Core Structure\n[Asset Type: location]\n[Game System: D&D 5e]\n[Intended Use: VTT and Print reference]\n\n## Detailed Description\nSubject: Panoramic view of The Constellation Mystery\nEnvironment: golden hour / night glow / storm, weather cues and particles, bioluminescent coral or cloudstone\nStyle: heroic tabletop fantasy (D&D 5e adjacent), unified painterly collection style, grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, cinematic atmosphere\nTechnical Requirements: aspect 1:1, resolution 1024x1024\nPalette: teals, deep blues, sea-greens, pearl highlights\n\n\n## Visual Specifications\n- Lighting: cinematic\n- Detail Level: high detail for zoom, simplified for overview\n- Composition: rule of thirds with clear focal points and visual flow\n\n## Practical Considerations\n- Must be readable at intended viewing size\n- Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words or letters.\n- Avoid embedded text unless specified; prefer iconography and numbered pins\n\n## Negatives\n- nonsense text, watermarks, captions, signatures, artist names; modern signage, photoreal CGI, anime style, bloom glare; overly sexualized or glamorized portrayal\n\nThink deeply about creating an asset that enhances gameplay immersion while maintaining practical usability for TTRPG sessions.",
   "aspect": "2:3",
   "resolution": "2048x3072",
   "style": [
@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 7002,
+  "seed": 8062,
   "alt_text": "Cinematic view of The Constellation Mystery with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "dall-e-3",
-  "size": "1024x1792",
-  "revised_prompt": "Imagine a spectacular panoramic scene in a fantasy medieval setting devoid of modern contraptions. The overarching scene narrates the 'Constellation Mystery', a surrealist landscape marked by bioluminescent coral or cloud-stone, echoing with weather clues and particles. The enchanting vista should be captured just as the golden hour subsides to give way to the night glow, with a looming storm on the horizon. Within this spectacle, place subtle figures or olden era vehicles to provide a sense of scale. This should feel like an atmospheric concept art piece influenced by aquatic fantasy realism. The scene plunges under the surface, unveiling a world of subsurface caustics and bioluminescent accents, all held within pressure-dome-like materials. The color palette should encompass hues ranging from teals, deep blues, sea-greens and finally, the soft glimmer of pearl highlights. Ensure that no artifacts are visible and keep away from embedding words into the picture. Rather, incorporate purposeful symbols or numbered pins, if needed. Avoid any signs of sci-fi interfaces, modern signages, photorealistic CGI, and anime-style bloom glare.",
-  "file": "04_Resources/Assets/Locations/location-city-the-constellation-mystery-v1-the-constellation-mystery.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-the-constellation-mystery-v1-the-constellation-mystery.svg"
 }

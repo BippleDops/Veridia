@@ -3,16 +3,24 @@ type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/15
-  - ttrpg-cli/monster/environment/coastal
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/dragon/metallic
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/15
+- ttrpg-cli/monster/environment/coastal
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Adult Bronze Dragon
+- Adult Bronze Dragon
+created: null
+updated: '2025-08-13T04:22:12.316060+00:00'
+world: Both
+status: active
 ---
+
 # [Adult Bronze Dragon](3-Mechanics\CLI\bestiary\dragon/adult-bronze-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 59. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

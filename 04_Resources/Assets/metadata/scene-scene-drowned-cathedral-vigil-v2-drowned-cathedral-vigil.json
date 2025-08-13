@@ -24,9 +24,6 @@
   "seed": 7027,
   "alt_text": "Atmospheric illustration of: Drowned cathedral vigil.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Scenes/scene-scene-drowned-cathedral-vigil-v2-drowned-cathedral-vigil.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Scenes/scene-scene-drowned-cathedral-vigil-v2-drowned-cathedral-vigil.svg"
 }

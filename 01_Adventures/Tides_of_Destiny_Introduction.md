@@ -3,10 +3,12 @@ title: Tides of Destiny - Introduction
 tags:
 - adventure
 - both aethermoor and aquabyssos
+- both-aethermoor-and-aquabyssos
 - complete
 - epic
 - epic finale adventure
 - epic-finale
+- epic-finale-adventure
 - levels-13-15
 - tides-of-destiny
 - world-shaping
@@ -24,13 +26,14 @@ themes:
 - cosmic resolution
 - hero ascension
 created: 2025-08-11
-updated: '2025-08-13T01:18:37.150934+00:00'
+updated: '2025-08-13T04:22:14.984235+00:00'
 connections:
 - '[[Convergence Point]]'
 - '[[Deep Mother]]'
 - '[[Queen Seraphina Lumengarde]]'
 - '[[Campaign_Legacy_System]]'
 ---
+
 
 
 # Tides of Destiny: The Epic Finale

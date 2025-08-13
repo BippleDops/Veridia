@@ -3,6 +3,7 @@ tags:
 - aethermoor
 - aquabyssos
 - both worlds
+- both-worlds
 - campaign-consequences
 - complete
 - consciousness-evolution
@@ -14,13 +15,14 @@ type: Lore
 world: Both Worlds
 status: complete
 created: 2025-08-12
-updated: '2025-08-13T01:18:35.647683+00:00'
+updated: '2025-08-13T04:22:14.112129+00:00'
 magnitude: 5
 visibility: 2
 primary_sessions:
 - 'Session 10: The Deep Mother Rises'
 - 'Session 10: The Shadow Finale'
 ---
+
 
 
 # Consequence Chain 4: Deep Mother Awakening

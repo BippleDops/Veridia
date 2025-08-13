@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 7052,
+  "seed": 7146,
   "alt_text": "Cinematic view of Portal Commander Marina Bridgewright with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-portal-commander-marina-bridgewright-v1-portal-commander-marina-bridgewright.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-portal-commander-marina-bridgewright-v1-portal-commander-marina-bridgewright.svg"
 }

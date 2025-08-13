@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 2037,
+  "seed": 2586,
   "alt_text": "Cinematic view of Political Leader Reef-Crown with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-political-leader-reef-crown-political-leader-reef-crown.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-political-leader-reef-crown-political-leader-reef-crown.svg"
 }

@@ -3,15 +3,23 @@ type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xphb
-  - ttrpg-cli/monster/cr/
-  - ttrpg-cli/monster/size/large
-  - ttrpg-cli/monster/type/celestial
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/celestial
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Celestial Spirit
+- Celestial Spirit
+created: null
+updated: '2025-08-13T04:22:12.339720+00:00'
+world: Both
+status: active
 ---
+
 # [Celestial Spirit](3-Mechanics\CLI\bestiary\celestial/celestial-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 323*  
 

@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 7038,
+  "seed": 8320,
   "alt_text": "Cinematic view of Crystal Speak with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-crystal-speak-v1-crystal-speak.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-crystal-speak-v1-crystal-speak.svg"
 }

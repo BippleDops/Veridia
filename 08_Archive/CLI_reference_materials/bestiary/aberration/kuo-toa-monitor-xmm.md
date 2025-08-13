@@ -3,17 +3,25 @@ type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/3
-  - ttrpg-cli/monster/environment/coastal
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/aberration
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/environment/coastal
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Kuo-toa Monitor
+- Kuo-toa Monitor
+created: null
+updated: '2025-08-13T04:22:12.132823+00:00'
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-kuo-toa-monitor-xmm-kuo-toa-monitor-xmm.svg)

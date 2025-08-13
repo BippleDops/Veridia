@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 7018,
+  "seed": 8128,
   "alt_text": "Cinematic view of The Forgotten One with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-the-forgotten-one-v1-the-forgotten-one.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-the-forgotten-one-v1-the-forgotten-one.svg"
 }

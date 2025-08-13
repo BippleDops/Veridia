@@ -3,18 +3,26 @@ type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/4
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/environment/shadowfell
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/dragon
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/environment/shadowfell
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/dragon
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Juvenile Shadow Dragon
+- Juvenile Shadow Dragon
+created: null
+updated: '2025-08-13T04:22:12.320176+00:00'
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-juvenile-shadow-dragon-xmm-juvenile-shadow-dragon-xmm.svg)

@@ -24,9 +24,6 @@
   "seed": 7024,
   "alt_text": "Atmospheric illustration of: Shadow Market under rain.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Scenes/scene-scene-shadow-market-under-rain-v2-shadow-market-under-rain.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Scenes/scene-scene-shadow-market-under-rain-v2-shadow-market-under-rain.svg"
 }

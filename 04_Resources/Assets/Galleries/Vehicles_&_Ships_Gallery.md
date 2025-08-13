@@ -1,3 +1,8 @@
+---
+created: 2024-01-01
+updated: 2024-01-01
+---
+
 # Vehicles & Ships Gallery
 
 %% Use reading mode for visual gallery %%

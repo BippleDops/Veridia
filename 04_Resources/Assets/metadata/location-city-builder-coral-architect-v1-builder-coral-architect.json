@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 7044,
+  "seed": 8126,
   "alt_text": "Cinematic view of Builder Coral Architect with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-builder-coral-architect-v1-builder-coral-architect.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-builder-coral-architect-v1-builder-coral-architect.svg"
 }

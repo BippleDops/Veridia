@@ -3,15 +3,23 @@ type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/oota
-  - ttrpg-cli/monster/cr/2
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/aberration
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/oota
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Vampiric Ixitxachitl Cleric
+- Vampiric Ixitxachitl Cleric
+created: null
+updated: '2025-08-13T04:22:12.130847+00:00'
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-vampiric-ixitxachitl-cleric-oota-v1-vampiric-ixitxachitl-cleric-oota.svg)

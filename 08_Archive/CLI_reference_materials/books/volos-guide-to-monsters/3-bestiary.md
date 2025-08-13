@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
 - Bestiary
 type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
+updated: '2025-08-13T04:22:11.883357+00:00'
+world: Both
+status: active
 ---
+
 # Bestiary
 *Source: Volo's Guide to Monsters* 
 

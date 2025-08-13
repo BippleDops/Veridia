@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 2032,
+  "seed": 2451,
   "alt_text": "Cinematic view of The Void Tears with architecture and inhabitants.",
   "realm": "void",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-the-void-tears-the-void-tears.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-the-void-tears-the-void-tears.svg"
 }

@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 7054,
+  "seed": 8074,
   "alt_text": "Cinematic view of Noble Palatemaster with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-noble-palatemaster-v1-noble-palatemaster.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-noble-palatemaster-v1-noble-palatemaster.svg"
 }

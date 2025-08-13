@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 7028,
+  "seed": 8260,
   "alt_text": "Cinematic view of Memorial Current with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-memorial-current-v1-memorial-current.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-memorial-current-v1-memorial-current.svg"
 }

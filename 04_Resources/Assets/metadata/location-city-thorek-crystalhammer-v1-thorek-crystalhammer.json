@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 7056,
+  "seed": 7318,
   "alt_text": "Cinematic view of Thorek Crystalhammer with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-thorek-crystalhammer-v1-thorek-crystalhammer.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-thorek-crystalhammer-v1-thorek-crystalhammer.svg"
 }

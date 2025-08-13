@@ -24,9 +24,6 @@
   "seed": 2002,
   "alt_text": "Atmospheric illustration of: Storm approaching the airship.",
   "realm": "aethermoor",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Scenes/scene-scene-storm-approaching-the-airship-storm-approaching-the-airship.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Scenes/scene-scene-storm-approaching-the-airship-storm-approaching-the-airship.svg"
 }

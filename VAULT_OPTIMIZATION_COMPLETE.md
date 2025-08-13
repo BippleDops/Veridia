@@ -1,7 +1,13 @@
 ---
 created: 2024-01-01
-updated: 2024-01-01
+updated: '2025-08-13T04:22:10.835404+00:00'
+world: Both
+status: draft
+tags:
+- both
+- draft
 ---
+
 
 # Vault Optimization Complete Report
 

@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/hotdq
 aliases:
 - Appendix A: Backgrounds
 type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
+updated: '2025-08-13T04:22:11.794160+00:00'
+world: Both
+status: active
 ---
+
 # Appendix A: Backgrounds
 *Source: Hoard of the Dragon Queen, p. 176* 
 

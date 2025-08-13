@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 2042,
+  "seed": 2494,
   "alt_text": "Cinematic view of Crystallization Process with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-crystallization-process-crystallization-process.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-crystallization-process-crystallization-process.svg"
 }

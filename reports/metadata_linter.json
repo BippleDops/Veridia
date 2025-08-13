@@ -1,0 +1,174 @@
+{
+  "problems": [
+    {
+      "file": "PHASE_2_DEEP_SYSTEM_ENHANCEMENT_PLAN.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "VAULT_OPTIMIZATION_COMPLETE.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "VAULT_FLATTENING_LOG.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "DEEP_VAULT_RESEARCH_IMPROVEMENTS.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "TRADE_ROUTE_OVERLAYS.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "VAULT_ENHANCEMENT_ROADMAP.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "CLAUDE.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "PHASE_1_IMPROVEMENTS_COMPLETE.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "100_STEP_VAULT_EXCELLENCE_PLAN.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "06_GM_Resources/NPC_Guides/Roleplay_Guide.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "07_Player_Resources/INDEX.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "07_Player_Resources/Handouts/Welcome_to_Aquabyssos.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "05_Templates/Sensory_Enhancement_Template.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "05_Templates/World Builder Templates/Template-Lore.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "05_Templates/World Builder Templates/Template-Lor.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "02_Worldbuilding/Sensory_Signature_Guides.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "01_Adventures/Winds_of_Rebellion/Session_2_Court_of_Whispers.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "01_Adventures/Winds_of_Rebellion/Session_4_Battle_Above_Clouds.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "01_Adventures/Winds_of_Rebellion/Session_5_The_Wind_Singer.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "01_Adventures/Winds_of_Rebellion/Introduction.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    },
+    {
+      "file": "01_Adventures/Winds_of_Rebellion/Session_3_The_Skyship_Heist.md",
+      "missing_frontmatter": false,
+      "missing_required": [],
+      "missing_recommended": [
+        "type"
+      ]
+    }
+  ],
+  "count": 21,
+  "dry_run": false
+}

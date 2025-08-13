@@ -6,13 +6,15 @@ tags:
 - npc-network
 - plot-hooks
 - relationship guide
+- relationship-guide
 - relationship-web
 status: complete
 world: Both
 type: Relationship Guide
 created: 2025-08-12
-updated: '2025-08-13T01:18:37.082042+00:00'
+updated: '2025-08-13T04:22:14.944155+00:00'
 ---
+
 
 
 # Character Relationship Web - Core NPCs

@@ -9,14 +9,16 @@ tags:
 - nobility
 - routine
 - social guide
+- social-guide
 - upper-class
 status: complete
 world: Both
 type: Social Guide
 created_by: claude
 created: 2025-08-12
-updated: '2025-08-13T01:18:35.651097+00:00'
+updated: '2025-08-13T04:22:14.115994+00:00'
 ---
+
 
 
 # Noble Leisure Schedules

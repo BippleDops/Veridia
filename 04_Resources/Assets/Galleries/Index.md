@@ -1,3 +1,8 @@
+---
+created: 2024-01-01
+updated: 2024-01-01
+---
+
 # Visual Asset Galleries
 
  - [[04_Resources/Assets/Galleries/NPC_Portraits_Gallery.md]]

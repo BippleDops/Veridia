@@ -3,17 +3,25 @@ type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/6
-  - ttrpg-cli/monster/environment/limbo
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/size/medium
-  - ttrpg-cli/monster/type/aberration/gith
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/environment/limbo
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/aberration/gith
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Githzerai Zerth
+- Githzerai Zerth
+created: null
+updated: '2025-08-13T04:22:12.113620+00:00'
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-githzerai-zerth-xmm-githzerai-zerth-xmm.svg)

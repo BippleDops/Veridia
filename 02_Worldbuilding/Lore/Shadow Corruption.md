@@ -1,15 +1,17 @@
 ---
 tags:
 - aquabyssos
+- corruption
+- draft
 - lore
 - shadow-magic
-- corruption
 type: Lore
 world: Aquabyssos
 status: draft
 created: 2025-08-12
-updated: '2025-08-13T01:18:35.049317+00:00'
+updated: '2025-08-13T04:22:13.717330+00:00'
 ---
+
 
 # Shadow Corruption
 

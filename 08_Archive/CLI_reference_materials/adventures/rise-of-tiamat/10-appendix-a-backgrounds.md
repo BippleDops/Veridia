@@ -2,13 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
+- active
+- both
+- note
 - ttrpg-cli/compendium/src/5e/rot
 aliases:
 - Appendix A: Backgrounds
 type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
+updated: '2025-08-13T04:22:11.783607+00:00'
+world: Both
+status: active
 ---
+
 # Appendix A: Backgrounds
 *Source: Rise of Tiamat, p. 176* 
 

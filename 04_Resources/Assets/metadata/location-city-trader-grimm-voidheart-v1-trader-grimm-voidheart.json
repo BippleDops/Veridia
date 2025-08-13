@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 7070,
+  "seed": 8428,
   "alt_text": "Cinematic view of Trader Grimm Voidheart with architecture and inhabitants.",
   "realm": "void",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-trader-grimm-voidheart-v1-trader-grimm-voidheart.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-trader-grimm-voidheart-v1-trader-grimm-voidheart.svg"
 }

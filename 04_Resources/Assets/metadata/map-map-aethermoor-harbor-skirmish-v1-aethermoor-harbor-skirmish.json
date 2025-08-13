@@ -32,9 +32,6 @@
     "textPolicy": "no text; overlays only"
   },
   "levels": 1,
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Maps/map-map-aethermoor-harbor-skirmish-v1-aethermoor-harbor-skirmish.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Maps/map-map-aethermoor-harbor-skirmish-v1-aethermoor-harbor-skirmish.svg"
 }

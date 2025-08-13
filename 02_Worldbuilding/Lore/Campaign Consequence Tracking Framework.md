@@ -1,6 +1,7 @@
 ---
 tags:
 - both worlds
+- both-worlds
 - campaign-management
 - complete
 - consequence-tracking
@@ -13,8 +14,9 @@ type: Lore
 world: Both Worlds
 status: complete
 created: 2025-08-12
-updated: '2025-08-13T01:18:35.100693+00:00'
+updated: '2025-08-13T04:22:13.765686+00:00'
 ---
+
 
 
 # Campaign Consequence Tracking Framework

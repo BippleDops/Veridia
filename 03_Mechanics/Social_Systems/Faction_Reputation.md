@@ -1,6 +1,7 @@
 ---
 tags:
 - both worlds
+- both-worlds
 - complete
 - faction
 - mechanic
@@ -13,8 +14,9 @@ world: Both Worlds
 type: mechanic
 created_by: Claude
 created: 2025-08-11
-updated: '2025-08-13T01:18:37.133666+00:00'
+updated: '2025-08-13T04:22:14.973105+00:00'
 ---
+
 
 
 # Faction Reputation System

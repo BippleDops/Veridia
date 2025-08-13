@@ -3,17 +3,25 @@ type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/5
-  - ttrpg-cli/monster/environment/coastal
-  - ttrpg-cli/monster/environment/swamp
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/beast
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/environment/coastal
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Giant Crocodile
+- Giant Crocodile
+created: null
+updated: '2025-08-13T04:22:12.058461+00:00'
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-crocodile-xmm-giant-crocodile-xmm.svg)

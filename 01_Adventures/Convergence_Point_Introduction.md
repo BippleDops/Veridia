@@ -2,11 +2,13 @@
 tags:
 - adventure
 - both aethermoor and aquabyssos
+- both-aethermoor-and-aquabyssos
 - complete
 - convergence-point
 - cross-realm
 - epic
 - epic adventure introduction
+- epic-adventure-introduction
 - introduction
 - levels-10-12
 status: complete
@@ -23,8 +25,9 @@ themes:
 - planar convergence
 - world-shaping choices
 created: 2025-08-11
-updated: '2025-08-13T01:18:37.149523+00:00'
+updated: '2025-08-13T04:22:14.982620+00:00'
 ---
+
 
 
 # Convergence Point: An Epic Cross-Realm Adventure

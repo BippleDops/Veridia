@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 2044,
+  "seed": 2536,
   "alt_text": "Cinematic view of The Recursion Cult with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-the-recursion-cult-the-recursion-cult.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-the-recursion-cult-the-recursion-cult.svg"
 }

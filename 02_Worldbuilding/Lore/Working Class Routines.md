@@ -8,14 +8,16 @@ tags:
 - labor
 - routine
 - social guide
+- social-guide
 - working-class
 status: complete
 world: Both
 type: Social Guide
 created_by: claude
 created: 2025-08-12
-updated: '2025-08-13T01:18:35.322175+00:00'
+updated: '2025-08-13T04:22:13.903844+00:00'
 ---
+
 
 
 # Working Class Routines

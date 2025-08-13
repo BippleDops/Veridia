@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 7042,
+  "seed": 7934,
   "alt_text": "Cinematic view of The Phosphor Markets with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-the-phosphor-markets-v1-the-phosphor-markets.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-the-phosphor-markets-v1-the-phosphor-markets.svg"
 }

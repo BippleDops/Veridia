@@ -3,16 +3,24 @@ type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/21
-  - ttrpg-cli/monster/environment/hill
-  - ttrpg-cli/monster/size/gargantuan
-  - ttrpg-cli/monster/type/dragon/metallic
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/21
+- ttrpg-cli/monster/environment/hill
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Ancient Copper Dragon
+- Ancient Copper Dragon
+created: null
+updated: '2025-08-13T04:22:12.328809+00:00'
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-copper-dragon-xmm-ancient-copper-dragon-xmm.svg)

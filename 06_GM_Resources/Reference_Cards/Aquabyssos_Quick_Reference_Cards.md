@@ -1,12 +1,15 @@
 ---
 created: null
-updated: '2025-08-13T01:18:31.121766+00:00'
+updated: '2025-08-13T04:22:10.867487+00:00'
 world: Aquabyssos
 status: active
 tags:
 - active
 - aquabyssos
+- mechanic
+type: Mechanic
 ---
+
 
 # Aquabyssos Quick Reference Cards
 *Print, cut, and keep handy during gameplay*

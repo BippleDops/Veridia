@@ -9,13 +9,15 @@ tags:
 - education
 - family
 - social guide
+- social-guide
 status: complete
 world: Both
 type: Social Guide
 created_by: claude
 created: 2025-08-12
-updated: '2025-08-13T01:18:34.867677+00:00'
+updated: '2025-08-13T04:22:13.596477+00:00'
 ---
+
 
 
 # Child Life in the Realms

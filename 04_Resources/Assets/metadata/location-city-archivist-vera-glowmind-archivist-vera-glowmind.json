@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 2004,
+  "seed": 2279,
   "alt_text": "Cinematic view of Archivist Vera Glowmind with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-archivist-vera-glowmind-archivist-vera-glowmind.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-archivist-vera-glowmind-archivist-vera-glowmind.svg"
 }

@@ -3,18 +3,26 @@ type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/xmm
-  - ttrpg-cli/monster/cr/5
-  - ttrpg-cli/monster/environment/feywild
-  - ttrpg-cli/monster/environment/forest
-  - ttrpg-cli/monster/environment/planar
-  - ttrpg-cli/monster/size/tiny
-  - ttrpg-cli/monster/type/fey
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/environment/feywild
+- ttrpg-cli/monster/environment/forest
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Pixie Wonderbringer
+- Pixie Wonderbringer
+created: null
+updated: '2025-08-13T04:22:12.083459+00:00'
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-pixie-wonderbringer-xmm-pixie-wonderbringer-xmm.svg)

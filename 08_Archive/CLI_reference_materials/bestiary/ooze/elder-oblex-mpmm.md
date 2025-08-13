@@ -3,18 +3,26 @@ type: monster
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - ttrpg-cli/compendium/src/5e/mpmm
-  - ttrpg-cli/monster/cr/10
-  - ttrpg-cli/monster/environment/swamp
-  - ttrpg-cli/monster/environment/underdark
-  - ttrpg-cli/monster/environment/urban
-  - ttrpg-cli/monster/size/huge
-  - ttrpg-cli/monster/type/ooze
+- active
+- both
+- monster
+- ttrpg-cli/compendium/src/5e/mpmm
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/environment/swamp
+- ttrpg-cli/monster/environment/underdark
+- ttrpg-cli/monster/environment/urban
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/ooze
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-  - Elder Oblex
+- Elder Oblex
+created: null
+updated: '2025-08-13T04:22:12.154688+00:00'
+world: Both
+status: active
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-elder-oblex-mpmm-elder-oblex-mpmm.svg)

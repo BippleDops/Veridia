@@ -21,12 +21,9 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 7036,
+  "seed": 7416,
   "alt_text": "Cinematic view of Thalassa Lightbringer with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "openai",
-  "model": "gpt-image-1",
-  "size": "1024x1024",
-  "revised_prompt": null,
-  "file": "04_Resources/Assets/Locations/location-city-thalassa-lightbringer-v1-thalassa-lightbringer.png"
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Locations/location-city-thalassa-lightbringer-v1-thalassa-lightbringer.svg"
 }

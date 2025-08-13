@@ -4,6 +4,7 @@ tags:
 - aethermoor
 - complete
 - cultural guide
+- cultural-guide
 - culture
 - daily-life
 - routine
@@ -13,8 +14,9 @@ world: Aethermoor
 type: Cultural Guide
 created_by: claude
 created: 2025-08-12
-updated: '2025-08-13T01:18:35.698445+00:00'
+updated: '2025-08-13T04:22:14.142847+00:00'
 ---
+
 
 
 # Aethermoor Daily Rhythms

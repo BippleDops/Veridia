@@ -32,7 +32,7 @@ type: Lore
 
 ### Essential Documents
 - [[Campaign_Dashboard]] - Live session tracker & DM tools
-- [[02_Worldbuilding/Quests/Aquabyssos]] - Complete setting guide  
+- [[02_Worldbuilding/Places/Aquabyssos]] - Complete setting guide  
 - [[Campaign_Quick_Reference_Sheets]] - Rules & mechanics at a glance
 - [[Campaign_Relationship_Matrix]] - NPC & faction connections
 - [[Master_Campaign_Index]] - Complete content directory

@@ -2,8 +2,8 @@
 tags:
 - active
 - both
-- npc
-type: NPC
+- location
+type: Location
 world: Both
 status: active
 created: 2025-08-11

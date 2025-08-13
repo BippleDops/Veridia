@@ -59,7 +59,7 @@ These session-ready reference sheets provide instant access to critical campaign
 
 #### **Emperor Thalassius the Wise** - The Deep Ruler  
 **Quick Stats:** Level 18 Wizard | AC 16 | HP 144 | Intelligence 22
-**Location:** [[Abyssos Prime]], [[02_Worldbuilding/Quests/Aquabyssos]]
+**Location:** [[Abyssos Prime]], [[02_Worldbuilding/Places/Aquabyssos]]
 **Personality:** Wise but burdened, careful speaker, strategic thinker
 **Speaking Style:** Measured, thoughtful, asks probing questions
 **Key Relationships:** Senator Glaucus (parliamentary leader), Admiral Thorne (military)

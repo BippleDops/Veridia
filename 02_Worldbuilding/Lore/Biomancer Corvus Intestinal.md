@@ -9,19 +9,23 @@ reputation: Feared and Respected
 specialization: Biological Manipulation and Flesh Magic
 status: complete
 tags:
+- aquabyssos
 - biological-manipulation
 - biomancer
+- complete
 - content/lore
 - content/npc
 - dangerous-individual
+- lore
 - master-practitioner
 - mechanics/magic
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.134081'
+updated: '2025-08-13T12:34:15.943130+00:00'
 world: Aquabyssos
 ---
+
 
 
 

@@ -4,6 +4,7 @@ tags:
 - aethermoor
 - aquabyssos
 - both
+- complete
 - guardian
 - information-broker
 - npc
@@ -31,8 +32,10 @@ faction_rank: 5
 portrait: ''
 relationship_type: complicated
 relationships:
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]]'
 - '[[Jasper Three-Eyes Flint]]'
 - '[[Lord Aurelius Goldwave]]'
 - '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
@@ -65,11 +68,12 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:36.913687+00:00'
+updated: '2025-08-13T12:34:14.418420+00:00'
 created: '2025-08-11'
 status: complete
 type: NPC
 ---
+
 
 
 

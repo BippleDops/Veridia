@@ -2,14 +2,16 @@
 tags:
 - active
 - aethermoor
+- complete
 - lore
 - npc
 type: Lore
 world: Aethermoor
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.639944+00:00'
+updated: '2025-08-13T12:34:13.070075+00:00'
 ---
+
 
 
 

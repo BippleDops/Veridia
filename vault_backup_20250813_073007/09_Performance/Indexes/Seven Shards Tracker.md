@@ -3,14 +3,18 @@ created: null
 obsidianUIMode: preview
 status: complete
 tags:
+- complete
 - index
+- lore
 - shards
 - status/complete
+- universal
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.005834'
+updated: '2025-08-13T12:34:17.878316+00:00'
 world: Universal
 ---
+
 
 
 # Seven Shards Tracker

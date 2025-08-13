@@ -4,16 +4,20 @@ created: '2025-08-07'
 status: complete
 system: D&D 5e
 tags:
+- both
+- complete
 - content/lore
 - content/mechanics
+- lore
 - status/in-progress
 - survival
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:41.119051'
+updated: '2025-08-13T12:34:17.806307+00:00'
 world: Both
 ---
+
 
 
 

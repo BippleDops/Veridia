@@ -3,26 +3,32 @@ climate: Magically Altered Desert
 created: '2025-08-09'
 current_status: Quarantined, Heavily Monitored
 danger_level: 10
-formation_cause: '[[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]'
+formation_cause: '[[02_Worldbuilding/Lore/The Great Crystallization|02 Worldbuilding/Lore/The
+  Great Crystallization]]'
 related_entities:
 - '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'
 - '[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]]'
 size: 50 square miles
 status: draft
 tags:
+- aethermoor
 - content/location
 - corrupted
 - dangerous
+- draft
+- location
 - mechanics/magic
 - region
 - status/complete
 - world/aethermoor
 - world/surface
 type: Location
-updated: '2025-08-12T23:37:40.454242'
+updated: '2025-08-13T12:34:17.197707+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-crystalline-wastes-the-crystalline-wastes.svg)

@@ -11,18 +11,22 @@ obsidianUIMode: preview
 owner: Aethermoor Diplomatic Service
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/location
 - diplomatic
 - embassy
+- location
 - political
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.949497'
+updated: '2025-08-13T12:34:16.704824+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

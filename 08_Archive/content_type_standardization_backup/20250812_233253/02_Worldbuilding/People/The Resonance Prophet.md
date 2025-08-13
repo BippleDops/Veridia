@@ -3,6 +3,7 @@ tags:
 - active
 - aquabyssos
 - both
+- complete
 - crystallium
 - major
 - npc
@@ -19,9 +20,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:14.405405+00:00'
 type: NPC
 ---
+
 
 
 > [!figure] Portrait

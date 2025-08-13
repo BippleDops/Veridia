@@ -3,22 +3,27 @@ affiliation: '[[Surface Kingdoms]] - Diplomatic Corps'
 age: '52'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/The Diplomatic Quarter|02 Worldbuilding/Places/The Diplomatic Quarter]] - Surface Embassy'
+location: '[[02_Worldbuilding/Places/The Diplomatic Quarter|02 Worldbuilding/Places/The
+  Diplomatic Quarter]] - Surface Embassy'
 race: Human (Air-breathing)
 role: Surface Ambassador
 status: complete
 tags:
 - ambassador
+- aquabyssos
 - aristocrat
+- complete
 - content/npc
 - diplomat
+- npc
 - status/complete
 - world/aquabyssos
 - world/surface
 type: Npc
-updated: '2025-08-12T23:37:41.024026'
+updated: '2025-08-13T12:34:17.682008+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

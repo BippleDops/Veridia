@@ -3,6 +3,7 @@ type: Lore
 tags:
 - active
 - both
+- complete
 - index
 - lore
 - navigation
@@ -16,9 +17,10 @@ cssclasses:
 - wide-page
 - index-page
 world: Both
-updated: '2025-08-13T01:18:31.102796+00:00'
+updated: '2025-08-13T12:34:11.608873+00:00'
 status: complete
 ---
+
 
 
 

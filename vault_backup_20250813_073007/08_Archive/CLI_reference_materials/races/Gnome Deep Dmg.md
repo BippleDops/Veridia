@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/race/gnome/deep
 - world/both
 type: note
-updated: '2025-08-12T23:37:37.709340'
+updated: '2025-08-13T12:34:21.820361+00:00'
 world: Both
 ---
+
 
 # Gnome (Deep)
 *Source: Dungeon Master's Guide p. 282*  

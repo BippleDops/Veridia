@@ -4,12 +4,15 @@ created: '2025-08-09'
 danger_level: Moderate
 founded: First Age
 government: Council of Forgemasters
-leader: '[[02_Worldbuilding/People/Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master Smith Vulcan Deepforge]]'
+leader: '[[02_Worldbuilding/People/Master Smith Vulcan Deepforge|02 Worldbuilding/People/Master
+  Smith Vulcan Deepforge]]'
 population: 280000
 related_entities:
-- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels|02 Worldbuilding/Lore/Ancient Siege Tunnels]]'
+- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels|02 Worldbuilding/Lore/Ancient Siege
+  Tunnels]]'
 - '[[02_Worldbuilding/Lore/Continental War|02 Worldbuilding/Lore/Continental War]]'
-- '[[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The Sundered Peaks]]'
+- '[[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The Sundered
+  Peaks]]'
 specialties:
 - Metalworking
 - Engineering
@@ -17,18 +20,22 @@ specialties:
 - Industrial Production
 status: draft
 tags:
+- aethermoor
 - content/location
+- draft
 - dwarven
 - fortress
 - industrial
+- location
 - mining
 - status/archived
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.148513'
+updated: '2025-08-13T12:34:16.915712+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-ironhold-ironhold.svg)

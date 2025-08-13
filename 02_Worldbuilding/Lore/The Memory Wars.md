@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- complete
 - content/location
 - content/lore
+- dimensional nexus (both realms)
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.427310'
+updated: '2025-08-13T12:34:16.186032+00:00'
 world: Dimensional Nexus (Both Realms)
 ---
+
 
 > [!figure] Asset
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-memory-wars-the-memory-wars.svg)

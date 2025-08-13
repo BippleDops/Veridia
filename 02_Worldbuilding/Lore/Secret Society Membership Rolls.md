@@ -3,17 +3,21 @@ created: '2025-08-12'
 status: complete
 tags:
 - access/secret
+- aquabyssos
+- complete
 - conspiracies
 - content/lore
 - intrigue
+- lore
 - politics
 - relationships
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.429298'
+updated: '2025-08-13T12:34:15.305288+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Secret Society Membership Rolls

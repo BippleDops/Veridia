@@ -13,18 +13,22 @@ rewards: Legendary Items, Realm Stability, Nature's Blessing
 status: complete
 tags:
 - balance
+- both
+- complete
 - content/adventure
 - content/lore
 - elemental
 - environmental
+- lore
 - nature
 - status/in-progress
 - world/both
 time_limit: 30 days before irreversible damage
 type: Lore
-updated: '2025-08-12T23:37:37.785366'
+updated: '2025-08-13T12:34:14.697103+00:00'
 world: Both
 ---
+
 
 
 

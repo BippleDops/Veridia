@@ -3,16 +3,20 @@ created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - communication
+- complete
 - content/lore
 - content/mechanics
 - linguistics
+- lore
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.469988'
+updated: '2025-08-13T12:34:16.221354+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Depth Speak Variations

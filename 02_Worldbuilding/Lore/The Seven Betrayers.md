@@ -18,21 +18,25 @@ scale: Continental
 significance: World-Defining
 status: complete
 tags:
+- aethermoor
 - ancient-conspiracy
 - betrayal
+- complete
 - content/lore
 - crown-shattering
 - divine-betrayal
 - historical-event
+- lore
 - political-intrigue
 - seven-shards
 - status/complete
 - world/aethermoor
 time_period: Pre-Crystallization Era, Year 1 BGC (Before Great Crystallization)
 type: Lore
-updated: '2025-08-12T23:37:39.118779'
+updated: '2025-08-13T12:34:15.931377+00:00'
 world: Aethermoor
 ---
+
 
 
 

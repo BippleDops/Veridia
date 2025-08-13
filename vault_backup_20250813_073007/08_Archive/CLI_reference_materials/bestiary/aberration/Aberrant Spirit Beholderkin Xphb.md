@@ -9,6 +9,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
@@ -17,9 +19,10 @@ tags:
 - ttrpg-cli/monster/type/aberration
 - world/both
 type: note
-updated: '2025-08-12T23:37:35.327623'
+updated: '2025-08-13T12:34:19.744835+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Creature

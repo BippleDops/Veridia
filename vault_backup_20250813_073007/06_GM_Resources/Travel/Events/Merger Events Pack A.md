@@ -3,8 +3,11 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
+- complete
 - events
 - gm_resource
+- lore
 - merger
 - paradox
 - status/complete
@@ -12,9 +15,10 @@ tags:
 - world/both
 title: Merger Events Pack A (Breach Zones)
 type: Lore
-updated: '2025-08-12T23:37:33.061497'
+updated: '2025-08-13T12:34:17.925702+00:00'
 world: Both
 ---
+
 
 
 # Merger Events Pack A — 50 Ready-to-Run Encounters

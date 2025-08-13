@@ -7,9 +7,11 @@ estimated_time: 4 hours
 level: 5
 location: '[[Crystal Festival Grounds]]'
 npcs_featured:
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen
+  Seraphina Lumengarde]]'
 - '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
 - '[[Brother Marcus Steelbane]]'
 - '[[Citizens of Meridian]]'
 obsidianUIMode: preview
@@ -20,18 +22,22 @@ quests_advanced:
 session_number: 7
 status: complete
 tags:
+- aethermoor
 - campaign/session
 - climax
+- complete
 - content/lore
 - festival
+- lore
 - status/in-progress
 - transformation
 - world/aethermoor
 title: The Festival of Transformation
 type: Lore
-updated: '2025-08-12T23:37:41.188374'
+updated: '2025-08-13T12:34:17.833566+00:00'
 world: Aethermoor
 ---
+
 
 
 

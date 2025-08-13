@@ -14,7 +14,8 @@ government: Memorial Custodianship
 location_name: The First Failure - Prototype Salvation Site
 location_type: Ruined Magical Laboratory
 notable_npcs:
-- '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper Of Failures, Marcus Ashworth]]'
+- '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper
+  Of Failures, Marcus Ashworth]]'
 - '[[Archivist Elena Sorrowkeeper]]'
 - '[[Ghost of Dr. Thaddeus Brightwater]]'
 - '[[Memorial Tender Sarah]]'
@@ -22,7 +23,8 @@ obsidianUIMode: preview
 parent_location: '[[Abyssos Prime]]'
 population: 12
 pressure_effects: Moderate
-ruler: '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper Of Failures, Marcus Ashworth]]'
+ruler: '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|02 Worldbuilding/People/Keeper
+  Of Failures, Marcus Ashworth]]'
 services:
 - Historical Research
 - Magical Failure Analysis
@@ -38,8 +40,11 @@ sub_locations:
 - '[[Library of Lost Solutions]]'
 - '[[The Guilt Garden]]'
 tags:
+- both
+- complete
 - content/location
 - historical
+- location
 - mechanics/magic
 - ruins
 - status/complete
@@ -48,10 +53,11 @@ tags:
 - world/both
 temporal_stability: 70
 type: Location
-updated: '2025-08-12T23:37:39.862745'
+updated: '2025-08-13T12:34:16.607816+00:00'
 visited: false
 world: Both
 ---
+
 
 
 > [!figure] View

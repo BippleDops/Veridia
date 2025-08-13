@@ -48,19 +48,23 @@ sub_locations:
 - '[[Military Harbor Depths]]'
 - '[[The War Memorial Caverns]]'
 tags:
+- aquabyssos
+- complete
 - content/location
 - defense
 - fortress
+- location
 - military-base
 - military-command
 - status/complete
 - world/aquabyssos
 temporal_stability: 92
 type: Location
-updated: '2025-08-12T23:37:39.561245'
+updated: '2025-08-13T12:34:16.344737+00:00'
 visited: false
 world: Aquabyssos
 ---
+
 
 
 

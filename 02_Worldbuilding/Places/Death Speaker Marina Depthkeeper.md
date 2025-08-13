@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- both worlds
+- complete
 - content/location
+- location
 - status/in-progress
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.229455'
+updated: '2025-08-13T12:34:16.993923+00:00'
 world: Both Worlds
 ---
+
 
 
 

@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - content/item
 - note
 - status/in-progress
@@ -14,9 +16,10 @@ tags:
 - ttrpg-cli/object/size/huge
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.760055'
+updated: '2025-08-13T12:34:05.129653+00:00'
 world: Both
 ---
+
 
 # Trebuchet
 %%-- Embedded content starts on the next line. --%%

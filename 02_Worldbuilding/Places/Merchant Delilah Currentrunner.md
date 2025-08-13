@@ -7,18 +7,22 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - content/npc
 - delilah
+- location
 - merchant
 - status/complete
 - status/in-progress
 - trade
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.850309'
+updated: '2025-08-13T12:34:16.596010+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-merchant-delilah-currentrunner-merchant-delilah-currentrunner.svg)

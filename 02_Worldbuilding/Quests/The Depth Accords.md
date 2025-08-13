@@ -9,16 +9,20 @@ obsidianUIMode: preview
 quest_type: Diplomatic Mission & Ancient Mystery
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
 - diplomatic
 - leviathan
+- lore
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.776463'
+updated: '2025-08-13T12:34:14.689174+00:00'
 world: Aquabyssos
 ---
+
 
 
 

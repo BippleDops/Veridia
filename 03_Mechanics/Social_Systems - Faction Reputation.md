@@ -3,17 +3,21 @@ created: '2025-08-11'
 created_by: Claude
 status: complete
 tags:
+- both worlds
 - campaign/session
+- complete
 - content/faction
 - content/mechanics
+- mechanics
 - mechanics/social
 - reputation
 - status/complete
 - world/both
 type: Mechanics
-updated: '2025-08-12T23:37:41.126560'
+updated: '2025-08-13T12:34:17.788624+00:00'
 world: Both Worlds
 ---
+
 
 
 

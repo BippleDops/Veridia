@@ -8,15 +8,18 @@ modified: 2025-07-23 12:39
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - content/item
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.670708'
+updated: '2025-08-13T12:34:21.737809+00:00'
 world: Both
 ---
+
 
 # Figurine of Wondrous Power, Ivory Goats
 *Wondrous item, rare*  

@@ -4,7 +4,10 @@ created_by: auto-stub
 danger_level: Moderate
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
+- location
 - manufacturing
 - mechanics/magic
 - process
@@ -12,9 +15,10 @@ tags:
 - world/aethermoor
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.291432'
+updated: '2025-08-13T12:34:17.050290+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

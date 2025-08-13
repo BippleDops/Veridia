@@ -14,20 +14,24 @@ obsidianUIMode: preview
 occupation: Senior Diplomatic Envoy
 status: complete
 tags:
+- aquabyssos
 - blackwater-family
+- complete
 - content/location
 - content/npc
 - diplomat
 - envoy
+- location
 - negotiator
 - noble
 - political
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.726686'
+updated: '2025-08-13T12:34:17.276693+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

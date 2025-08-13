@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.014035'
+updated: '2025-08-13T12:34:14.947871+00:00'
 world: Both
 ---
+
 
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-shadow-crystals-shadow-crystals.svg)

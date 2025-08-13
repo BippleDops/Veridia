@@ -15,6 +15,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - content/lore
 - importance/core
 - mechanics/magic
@@ -23,9 +25,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.244479'
+updated: '2025-08-13T12:34:06.389914+00:00'
 world: Both
 ---
+
 
 # Shield of Faith
 *1st-level, Abjuration*  

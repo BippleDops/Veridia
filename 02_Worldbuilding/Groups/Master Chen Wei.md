@@ -12,7 +12,10 @@ members: ~150 monks, students, and initiates
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
+- complete
 - content/faction
+- faction
 - martial-order
 - mechanics/combat
 - monastery
@@ -20,10 +23,11 @@ tags:
 - status/complete
 - world/aethermoor
 type: Faction
-updated: '2025-08-12T23:37:40.557196'
+updated: '2025-08-13T12:34:17.285290+00:00'
 wealth: Modest (Donations and training fees)
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry

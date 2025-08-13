@@ -2,13 +2,17 @@
 created: '2024-01-01'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.828567'
+updated: '2025-08-13T12:34:14.739938+00:00'
 world: Both
 ---
+
 
 
 

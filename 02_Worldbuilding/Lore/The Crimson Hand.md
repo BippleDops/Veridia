@@ -6,11 +6,14 @@ significance: Major Faction
 status: complete
 tags:
 - access/secret
+- both
+- complete
 - content/faction
 - content/lore
 - convergence
 - crimson-hand
 - infiltration
+- lore
 - manipulation
 - power-seeking
 - shadow-corruption
@@ -19,9 +22,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.593399'
+updated: '2025-08-13T12:34:15.402798+00:00'
 world: Both
 ---
+
 
 
 

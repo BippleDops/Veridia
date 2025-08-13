@@ -6,22 +6,27 @@ created_by: auto-stub
 level_range: 5-9
 location: '[[Lumengarde City]] and surrounding nations'
 obsidianUIMode: preview
-quest_giver: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
+quest_giver: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen
+  Seraphina Lumengarde]]'
 quest_type: Political Intrigue
 rewards: 3000 gp, Diplomatic Immunity, Noble Favor
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/lore
 - espionage
+- lore
 - mechanics/exploration
 - political
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:37.801169'
+updated: '2025-08-13T12:34:14.711103+00:00'
 world: Aethermoor
 ---
+
 
 
 

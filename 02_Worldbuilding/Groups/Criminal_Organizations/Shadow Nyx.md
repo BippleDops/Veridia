@@ -12,18 +12,22 @@ members: ~300 operatives and informants
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - espionage
+- faction
 - intelligence
 - shadow-network
 - shadow-touched
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.671509'
+updated: '2025-08-13T12:34:17.383424+00:00'
 wealth: Moderate (Information brokerage and contracts)
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry

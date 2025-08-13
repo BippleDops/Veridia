@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - monster
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/mpmm
@@ -20,9 +22,10 @@ tags:
 - ttrpg-cli/monster/type/dragon
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.759389'
+updated: '2025-08-13T12:34:06.029317+00:00'
 world: Both
 ---
+
 
 # [[3-Mechanics\CLI\bestiary\dragon/kobold-dragonshield-mpmm|Kobold Dragonshield]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*  

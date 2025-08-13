@@ -7,9 +7,12 @@ estimated_time: 3-4 hours
 level: 4
 location: '[[Lighthouse Ruins]] to [[Hidden Sanctuary]]'
 npcs_featured:
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
-- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]'
-- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina
+  Red Tide Coralheart]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High
+  Inquisitor Maltheos]]'
 - '[[Jasper Three-Eyes Flint]]'
 obsidianUIMode: preview
 quests_advanced:
@@ -19,17 +22,21 @@ quests_advanced:
 session_number: 6
 status: complete
 tags:
+- aethermoor
 - bloodline
 - campaign/session
+- complete
 - content/lore
+- lore
 - revelation
 - status/in-progress
 - world/aethermoor
 title: The Bloodline Awakens
 type: Lore
-updated: '2025-08-12T23:37:41.176049'
+updated: '2025-08-13T12:34:17.844426+00:00'
 world: Aethermoor
 ---
+
 
 
 

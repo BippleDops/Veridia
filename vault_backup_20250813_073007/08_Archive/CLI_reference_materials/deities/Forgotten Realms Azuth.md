@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - importance/core
 - note
@@ -15,9 +17,10 @@ tags:
 - ttrpg-cli/deity/forgotten-realms
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.905474'
+updated: '2025-08-13T12:34:18.775423+00:00'
 world: Both
 ---
+
 
 # Azuth
 *Source: Player's Handbook p. 294, Sword Coast Adventurer's Guide p. 125. Available in the Basic Rules (2014)* 

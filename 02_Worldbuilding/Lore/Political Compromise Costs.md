@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - compromise
 - content/lore
 - governance
+- lore
 - moral-dilemmas
 - politics
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.162501'
+updated: '2025-08-13T12:34:15.964380+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Political Compromise Costs

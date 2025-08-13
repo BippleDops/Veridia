@@ -12,18 +12,22 @@ members: ~50 elite shadow surgeons and support staff
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - elite-force
+- faction
 - mechanics/combat
 - military
 - shadow-operations
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.659851'
+updated: '2025-08-13T12:34:17.372889+00:00'
 wealth: Well-funded by shadow organizations
 world: Aquabyssos
 ---
+
 
 
 

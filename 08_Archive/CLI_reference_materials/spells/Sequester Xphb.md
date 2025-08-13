@@ -10,15 +10,19 @@ obsidian-u-i-mode: preview
 priority: medium
 status: active
 tags:
+- active
+- both
 - content/adventure
 - mechanics/magic
+- quest
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: quest
-updated: '2025-08-12T23:37:36.474763'
+updated: '2025-08-13T12:34:06.383096+00:00'
 world: Both
 ---
+
 
 # Sequester
 *7th-level, Transmutation*  

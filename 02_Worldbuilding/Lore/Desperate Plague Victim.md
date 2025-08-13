@@ -5,10 +5,13 @@ created_by: auto-stub
 significance: Human Representative
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - desperation
 - human-cost
 - individual-story
+- lore
 - plague-victim
 - reality-sickness
 - shadow-corruption
@@ -16,9 +19,10 @@ tags:
 - transformation-trauma
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.224688'
+updated: '2025-08-13T12:34:16.020645+00:00'
 world: Both
 ---
+
 
 
 

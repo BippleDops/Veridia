@@ -15,13 +15,17 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
+- location
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.105797'
+updated: '2025-08-13T12:34:16.867597+00:00'
 world: Aquabyssos
 ---
+
 
 
 

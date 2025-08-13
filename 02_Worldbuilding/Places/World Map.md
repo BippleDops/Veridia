@@ -6,13 +6,17 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- both
+- complete
 - content/location
+- location
 - status/in-progress
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.052429'
+updated: '2025-08-13T12:34:16.816734+00:00'
 world: Both
 ---
+
 
 
 

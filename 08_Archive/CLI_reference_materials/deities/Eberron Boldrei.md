@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - importance/core
 - note
 - status/in-progress
@@ -14,9 +16,10 @@ tags:
 - ttrpg-cli/deity/eberron
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.877020'
+updated: '2025-08-13T12:34:04.247450+00:00'
 world: Both
 ---
+
 
 # Boldrei
 *Source: Player's Handbook p. 296, Tasha's Cauldron of Everything* 

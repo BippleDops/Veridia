@@ -2,7 +2,10 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
+- location
 - medical
 - plague
 - port-meridian
@@ -10,9 +13,10 @@ tags:
 - world/aethermoor
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.208592'
+updated: '2025-08-13T12:34:16.973803+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Crystal Plague Wards

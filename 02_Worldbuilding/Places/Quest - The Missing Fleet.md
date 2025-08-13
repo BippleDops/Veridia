@@ -13,9 +13,12 @@ primary_location: Aethermoor Maritime Region
 quest_type: Investigation/Diplomatic Mission
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/location
 - diplomatic
+- location
 - mechanics/exploration
 - military
 - missing-fleet
@@ -24,9 +27,10 @@ tags:
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:39.740947'
+updated: '2025-08-13T12:34:16.521010+00:00'
 world: Aethermoor
 ---
+
 
 
 

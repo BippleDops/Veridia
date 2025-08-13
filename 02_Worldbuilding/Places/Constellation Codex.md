@@ -5,16 +5,20 @@ danger_level: Moderate
 status: complete
 tags:
 - ancient-wisdom
+- aquabyssos
 - astronomical-knowledge
 - book
+- complete
 - content/item
 - content/location
+- location
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.282683'
+updated: '2025-08-13T12:34:17.042101+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

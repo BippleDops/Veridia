@@ -5,17 +5,21 @@ created_by: auto-stub
 status: complete
 system: D&D 5e
 tags:
+- both
+- complete
 - content/faction
 - content/lore
 - content/mechanics
 - influence
+- lore
 - reputation
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.613061'
+updated: '2025-08-13T12:34:16.395514+00:00'
 world: Both
 ---
+
 
 
 

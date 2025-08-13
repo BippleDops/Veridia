@@ -10,17 +10,21 @@ obsidianUIMode: preview
 size: Elite Unit (50-100 members)
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/npc
 - elite
 - guardians
 - military
+- npc
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.807834'
+updated: '2025-08-13T12:34:17.498455+00:00'
 world: Aquabyssos
 ---
+
 
 
 

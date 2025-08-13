@@ -7,16 +7,20 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - campaign/hook
+- complete
 - content/location
 - harbor
+- location
 - status/complete
 - trade
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.918552'
+updated: '2025-08-13T12:34:16.678208+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-port-meridian-harbor-port-meridian-harbor.svg)

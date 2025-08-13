@@ -8,13 +8,17 @@ modified: 2025-07-23 14:30
 obsidianUIMode: preview
 status: complete
 tags:
+- both
+- complete
 - content/faction
+- faction
 - status/in-progress
 - world/both
 type: Faction
-updated: '2025-08-12T23:37:40.752460'
+updated: '2025-08-13T12:34:17.455221+00:00'
 world: Both
 ---
+
 
 
 

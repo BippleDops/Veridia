@@ -9,8 +9,11 @@ status: complete
 tags:
 - abjuration
 - banishment
+- both worlds
+- complete
 - content/lore
 - content/mechanics
+- lore
 - mechanics/magic
 - protection
 - status/complete
@@ -19,9 +22,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.872119'
+updated: '2025-08-13T12:34:14.974783+00:00'
 world: Both Worlds
 ---
+
 
 
 

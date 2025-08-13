@@ -12,17 +12,21 @@ members: ~2,000 active militants, 5,000+ sympathizers
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
 - anti-corruption
+- complete
 - content/faction
 - extremist
+- faction
 - militant
 - status/complete
 - world/aethermoor
 type: Faction
-updated: '2025-08-12T23:37:40.589233'
+updated: '2025-08-13T12:34:17.313053+00:00'
 wealth: Limited (donations and seized assets)
 world: Aethermoor
 ---
+
 
 
 

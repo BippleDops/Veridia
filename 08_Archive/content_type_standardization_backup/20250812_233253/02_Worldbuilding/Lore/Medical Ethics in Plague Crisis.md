@@ -2,6 +2,7 @@
 tags:
 - active
 - aquabyssos
+- complete
 - lore
 - medical-ethics
 - moral-dilemmas
@@ -11,8 +12,9 @@ type: Lore
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-13T01:18:34.881366+00:00'
+updated: '2025-08-13T12:34:12.181634+00:00'
 ---
+
 
 
 # Medical Ethics in Plague Crisis

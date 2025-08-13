@@ -3,22 +3,27 @@ affiliation: '[[The Verdant Accord]] & The Heart Tree'
 age: Unknown (appears ancient)
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]] - Heart Tree Grove'
+location: '[[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The
+  Verdant Reach]] - Heart Tree Grove'
 race: Half-Dryad (Shard-fused)
 role: Shard-Bonded Druid
 status: complete
 tags:
+- aethermoor
+- complete
 - content/npc
 - druid
 - emerald-shard
 - nature-guardian
+- npc
 - seven-shards
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:40.915097'
+updated: '2025-08-13T12:34:17.586760+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-emerald-sage-willowbark-the-emerald-sage-willowbark.svg)

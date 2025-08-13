@@ -2,18 +2,22 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - economy
 - favors
+- lore
 - mechanics/social
 - networks
 - non-monetary
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.538215'
+updated: '2025-08-13T12:34:15.370070+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Favor Networks

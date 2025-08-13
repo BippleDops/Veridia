@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- complete
 - content/npc
+- dimensional threshold (both realms)
+- npc
 - status/in-progress
 - world/both
 type: Npc
-updated: '2025-08-12T23:37:40.950435'
+updated: '2025-08-13T12:34:17.618650+00:00'
 world: Dimensional Threshold (Both Realms)
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-between-captain-between.svg)

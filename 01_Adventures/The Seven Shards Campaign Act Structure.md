@@ -3,13 +3,17 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- adventure
 - campaign/arc
+- complete
 - status/complete
+- universal
 - world/both
 type: Adventure
-updated: '2025-08-12T23:37:41.150038'
+updated: '2025-08-13T12:34:17.817254+00:00'
 world: Universal
 ---
+
 
 
 # The Seven Shards Campaign

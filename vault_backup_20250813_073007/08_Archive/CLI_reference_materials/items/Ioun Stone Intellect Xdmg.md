@@ -8,15 +8,18 @@ modified: 2025-07-23 12:39
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - content/item
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.998832'
+updated: '2025-08-13T12:34:21.246876+00:00'
 world: Both
 ---
+
 
 # Ioun Stone, Intellect
 *Wondrous item, very rare (requires attunement)*  

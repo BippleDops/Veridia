@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: draft
 tags:
+- both
 - content/location
+- draft
+- location
 - status/draft
 - world/both
 type: Location
-updated: '2025-08-12T23:37:33.000753'
+updated: '2025-08-13T12:34:03.152155+00:00'
 world: Both
 ---
+
 
 # Vault Nuance Integration Report - 200+ Enhancements Complete
 

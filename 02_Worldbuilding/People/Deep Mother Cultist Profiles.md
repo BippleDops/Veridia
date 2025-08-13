@@ -3,19 +3,23 @@ created: '2025-08-12'
 created_by: claude
 status: complete
 tags:
+- both
+- complete
 - content/npc
 - cultists
 - deep-mother
 - eldritch-horror
+- npc
 - status/complete
 - transformation
 - world/aethermoor
 - world/aquabyssos
 - world/both
 type: Npc
-updated: '2025-08-12T23:37:40.849895'
+updated: '2025-08-13T12:34:17.531694+00:00'
 world: Both
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-deep-mother-cultist-profiles-deep-mother-cultist-profiles.svg)

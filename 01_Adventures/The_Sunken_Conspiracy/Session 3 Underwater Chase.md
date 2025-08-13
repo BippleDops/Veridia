@@ -6,17 +6,21 @@ level_range: 2-3
 session_number: 3
 status: complete
 tags:
+- adventure
+- aquabyssos
 - campaign/session
 - chase
+- complete
 - content/faction
 - mechanics/combat
 - status/complete
 - world/aquabyssos
 title: 'The Sunken Conspiracy - Session 3: Underwater Chase'
 type: Adventure
-updated: '2025-08-12T23:37:41.159382'
+updated: '2025-08-13T12:34:17.827661+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Session 3: Underwater Chase

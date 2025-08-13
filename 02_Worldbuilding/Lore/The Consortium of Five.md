@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- complete
 - content/location
 - content/lore
+- dimensional nexus (both realms)
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.006558'
+updated: '2025-08-13T12:34:15.842410+00:00'
 world: Dimensional Nexus (Both Realms)
 ---
+
 
 
 

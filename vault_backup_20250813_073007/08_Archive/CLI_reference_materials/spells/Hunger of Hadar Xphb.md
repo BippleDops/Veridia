@@ -11,6 +11,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - mechanics/magic
 - note
 - status/archived
@@ -18,9 +20,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.174184'
+updated: '2025-08-13T12:34:20.498554+00:00'
 world: Both
 ---
+
 
 # Hunger of Hadar
 *3rd-level, Conjuration*  

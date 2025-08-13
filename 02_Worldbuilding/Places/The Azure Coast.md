@@ -10,14 +10,20 @@ major_cities:
 - Azure Bay
 population: 850000
 related_entities:
-- '[[02_Worldbuilding/Places/The Cerulean Archipelago|02 Worldbuilding/Places/The Cerulean Archipelago]]'
-- '[[02_Worldbuilding/Lore/Aquabyssos Ambassadors|02 Worldbuilding/Lore/Aquabyssos Ambassadors]]'
-- '[[02_Worldbuilding/Groups/The Crimson Fleet|02 Worldbuilding/Groups/The Crimson Fleet]]'
+- '[[02_Worldbuilding/Places/The Cerulean Archipelago|02 Worldbuilding/Places/The
+  Cerulean Archipelago]]'
+- '[[02_Worldbuilding/Lore/Aquabyssos Ambassadors|02 Worldbuilding/Lore/Aquabyssos
+  Ambassadors]]'
+- '[[02_Worldbuilding/Groups/The Crimson Fleet|02 Worldbuilding/Groups/The Crimson
+  Fleet]]'
 status: draft
 tags:
+- aethermoor
 - coastal
 - coastal-region
 - content/location
+- draft
+- location
 - maritime
 - region
 - status/complete
@@ -25,9 +31,10 @@ tags:
 - trade-routes
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.118178'
+updated: '2025-08-13T12:34:16.883238+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-azure-coast-the-azure-coast.svg)

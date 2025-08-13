@@ -2,17 +2,21 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
 - airships
 - catalog
+- complete
 - content/mechanics
+- mechanics
 - status/complete
 - vehicles
 - world/aethermoor
 title: Aethermoor Airships Catalog
 type: Mechanics
-updated: '2025-08-12T23:37:41.139655'
+updated: '2025-08-13T12:34:17.771420+00:00'
 world: Aethermoor
 ---
+
 
 
 # Aethermoor Airships Catalog (60)

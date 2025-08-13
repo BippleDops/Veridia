@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - consciousness
 - content/lore
+- lore
 - memory-manipulation
 - shadow-conspiracy
 - status/complete
 - technology
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.944422'
+updated: '2025-08-13T12:34:14.866203+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Consciousness Manipulation Technology

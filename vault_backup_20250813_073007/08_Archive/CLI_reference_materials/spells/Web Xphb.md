@@ -15,6 +15,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - content/lore
 - mechanics/magic
@@ -24,9 +26,10 @@ tags:
 - world/both
 - world/surface
 type: note
-updated: '2025-08-12T23:37:36.469333'
+updated: '2025-08-13T12:34:20.473503+00:00'
 world: Both
 ---
+
 
 # Web
 *2nd-level, Conjuration*  

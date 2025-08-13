@@ -11,16 +11,20 @@ obsidianUIMode: preview
 race: Pressure-Adapted Human
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/location
 - content/npc
+- location
 - merchant
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.416996'
+updated: '2025-08-13T12:34:17.162920+00:00'
 world: Aquabyssos
 ---
+
 
 
 

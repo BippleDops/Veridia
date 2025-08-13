@@ -5,10 +5,13 @@ created_by: auto-stub
 significance: Social Foundation
 status: complete
 tags:
+- aquabyssos
 - campaign/consequence
+- complete
 - content/lore
 - ethics
 - identity
+- lore
 - medical
 - memory-alteration
 - psychology
@@ -19,9 +22,10 @@ tags:
 - trauma
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.015682'
+updated: '2025-08-13T12:34:15.850332+00:00'
 world: Aquabyssos
 ---
+
 
 
 

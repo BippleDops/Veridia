@@ -1,6 +1,7 @@
 ---
 tags:
 - active
+- complete
 - lore
 - master-index
 - universal
@@ -8,8 +9,9 @@ type: Lore
 world: Universal
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:34.757772+00:00'
+updated: '2025-08-13T12:34:11.982206+00:00'
 ---
+
 
 > [!figure] Asset
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-umbral-exchange-the-umbral-exchange.svg)

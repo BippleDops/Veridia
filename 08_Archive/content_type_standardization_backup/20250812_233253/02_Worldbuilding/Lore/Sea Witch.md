@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.284592+00:00'
+updated: '2025-08-13T12:34:12.669136+00:00'
 world: Both
 type: Lore
 status: complete
 tags:
 - active
 - both
+- complete
 - lore
 ---
+
 
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-sea-witch-sea-witch.svg)

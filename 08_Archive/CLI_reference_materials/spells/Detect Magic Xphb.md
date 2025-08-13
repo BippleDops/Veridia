@@ -22,6 +22,8 @@ obsidianUIMode: preview
 status: active
 tags:
 - access/secret
+- active
+- both
 - campaign/arc
 - content/lore
 - mechanics/magic
@@ -30,9 +32,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.444495'
+updated: '2025-08-13T12:34:06.275117+00:00'
 world: Both
 ---
+
 
 # Detect Magic
 *1st-level, Divination (ritual)*  

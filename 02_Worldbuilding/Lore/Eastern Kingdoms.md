@@ -19,20 +19,24 @@ scale: Multi-Continental Empire
 significance: Major Continental Power
 status: complete
 tags:
+- aethermoor
 - campaign/arc
+- complete
 - content/lore
 - eastern-kingdoms
 - historical-events
 - historical-region
+- lore
 - status/complete
 - timeline
 - trade-empire
 - world/aethermoor
 time_period: Ancient Era - Current Era
 type: Lore
-updated: '2025-08-12T23:37:39.128913'
+updated: '2025-08-13T12:34:15.938818+00:00'
 world: Aethermoor
 ---
+
 
 
 

@@ -12,10 +12,13 @@ status: complete
 tags:
 - advanced-physics
 - anomaly-resolution
+- both
 - chronological-engineering
+- complete
 - content/lore
 - content/mechanics
 - environmental-hazards
+- lore
 - mechanics/skill
 - status/complete
 - temporal-safety
@@ -25,9 +28,10 @@ tags:
 - world/both
 technology_type: Temporal Stabilization System
 type: Lore
-updated: '2025-08-12T23:37:39.481404'
+updated: '2025-08-13T12:34:16.230813+00:00'
 world: Both
 ---
+
 
 
 

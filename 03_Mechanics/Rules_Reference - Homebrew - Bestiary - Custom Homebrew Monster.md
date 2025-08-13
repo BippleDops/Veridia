@@ -8,8 +8,11 @@ obsidian-u-i-mode: preview
 statblock: inline
 status: complete
 tags:
+- both
 - compendium/src/5e/ccodex
+- complete
 - content/lore
+- lore
 - monster/cr/9
 - monster/environment/any
 - monster/size/medium
@@ -18,9 +21,10 @@ tags:
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:41.131940'
+updated: '2025-08-13T12:34:17.760792+00:00'
 world: Both
 ---
+
 
 
 

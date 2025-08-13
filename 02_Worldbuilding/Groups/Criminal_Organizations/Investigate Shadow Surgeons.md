@@ -10,15 +10,19 @@ members: ~450 medical professionals and researchers
 purpose: Study and counter shadow-based medical afflictions
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
+- faction
 - healing
 - mechanics/exploration
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.684082'
+updated: '2025-08-13T12:34:17.394062+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry

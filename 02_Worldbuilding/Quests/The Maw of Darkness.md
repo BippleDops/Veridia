@@ -6,17 +6,21 @@ created_by: auto-stub
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
 - cosmic-threat
 - horror
+- lore
 - mechanics/exploration
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.796438'
+updated: '2025-08-13T12:34:14.704944+00:00'
 world: Aquabyssos
 ---
+
 
 
 

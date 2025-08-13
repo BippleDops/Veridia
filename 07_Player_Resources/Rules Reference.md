@@ -2,8 +2,11 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - content/mechanics
+- lore
 - player-resource
 - player_resource
 - reference
@@ -11,9 +14,10 @@ tags:
 - world/both
 title: Complete Rules Reference
 type: Lore
-updated: '2025-08-12T23:37:33.075368'
+updated: '2025-08-13T12:34:03.226992+00:00'
 world: Both
 ---
+
 
 
 

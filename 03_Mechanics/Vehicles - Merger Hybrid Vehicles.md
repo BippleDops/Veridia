@@ -2,7 +2,10 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/mechanics
+- mechanics
 - merger
 - paradox
 - status/complete
@@ -10,9 +13,10 @@ tags:
 - world/both
 title: Merger Hybrid Vehicles
 type: Mechanics
-updated: '2025-08-12T23:37:41.143968'
+updated: '2025-08-13T12:34:17.804167+00:00'
 world: Both
 ---
+
 
 
 # Merger Hybrid Vehicles

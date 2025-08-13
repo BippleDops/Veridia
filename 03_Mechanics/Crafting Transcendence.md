@@ -2,16 +2,20 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/item
 - content/mechanics
 - crafting
+- mechanics
 - status/complete
 - world/both
 title: Crafting Transcendence
 type: Mechanics
-updated: '2025-08-12T23:37:41.095201'
+updated: '2025-08-13T12:34:17.811075+00:00'
 world: Both
 ---
+
 
 
 # Crafting Transcendence

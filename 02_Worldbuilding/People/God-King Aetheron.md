@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both worlds
+- complete
 - content/npc
+- npc
 - status/in-progress
 - world/both
 type: Npc
-updated: '2025-08-12T23:37:41.013107'
+updated: '2025-08-13T12:34:17.672540+00:00'
 world: Both Worlds
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-god-king-aetheron-god-king-aetheron.svg)

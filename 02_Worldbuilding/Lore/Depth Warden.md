@@ -2,13 +2,16 @@
 created: '2025-08-11'
 status: complete
 tags:
+- complete
 - content/lore
 - dual
+- lore
 - status/in-progress
 type: Lore
-updated: '2025-08-12T23:37:38.246780'
+updated: '2025-08-13T12:34:15.149728+00:00'
 world: dual
 ---
+
 
 
 

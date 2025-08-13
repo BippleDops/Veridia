@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - monster
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
@@ -16,9 +18,10 @@ tags:
 - ttrpg-cli/monster/type/elemental
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.427315'
+updated: '2025-08-13T12:34:19.900297+00:00'
 world: Both
 ---
+
 
 # [[3-Mechanics\CLI\bestiary\elemental/elemental-spirit-fire-xphb|Elemental Spirit (Fire)]]
 *Source: Player's Handbook (2024) p. 325*  

@@ -7,23 +7,27 @@ scope: Both Worlds
 status: complete
 tags:
 - alliance-building
+- both worlds
 - campaign/arc
 - campaign/hook
 - campaign/objective
 - civilization-preservation
+- complete
 - content/adventure
 - content/lore
 - cooperation
 - existential-threat
+- lore
 - status/complete
 - survival
 - world/both
 threat_level: Existential
 type: Lore
-updated: '2025-08-12T23:37:37.843420'
+updated: '2025-08-13T12:34:14.756585+00:00'
 urgency: Critical
 world: Both Worlds
 ---
+
 
 
 

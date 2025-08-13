@@ -4,16 +4,20 @@ created_by: auto-stub
 danger_level: Moderate
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/location
 - eel-handlers
+- location
 - specialized
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.420351'
+updated: '2025-08-13T12:34:17.166214+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

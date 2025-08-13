@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xge
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.247864'
+updated: '2025-08-13T12:34:18.393803+00:00'
 world: Both
 ---
+
 
 # Forest Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 97* 

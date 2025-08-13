@@ -4,17 +4,21 @@ campaigns:
 created: '2025-08-07'
 status: complete
 tags:
+- both
 - campaign/arc
 - campaign/session
+- complete
 - content/item
 - content/lore
+- lore
 - player-resource
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.107517'
+updated: '2025-08-13T12:34:17.960259+00:00'
 world: Both
 ---
+
 
 
 

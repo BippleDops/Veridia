@@ -5,10 +5,13 @@ created_by: auto-stub
 significance: Major Landmark
 status: complete
 tags:
+- both
+- complete
 - content/location
 - content/lore
 - dimensional-bleed
 - impossible-growth
+- lore
 - mechanics/magic
 - merged-reality
 - reality-anchor
@@ -17,9 +20,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.762609'
+updated: '2025-08-13T12:34:15.575674+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View

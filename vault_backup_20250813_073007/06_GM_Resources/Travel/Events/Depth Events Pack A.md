@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
+- complete
 - events
 - gm_resource
+- lore
 - status/complete
 - travel
 - world/aquabyssos
 - world/both
 title: Depth Events Pack A (Aquabyssos)
 type: Lore
-updated: '2025-08-12T23:37:33.062491'
+updated: '2025-08-13T12:34:17.925051+00:00'
 world: Both
 ---
+
 
 
 # Depth Events Pack A — 50 Ready-to-Run Encounters

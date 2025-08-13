@@ -7,17 +7,21 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
 - campaign/arc
+- complete
 - content/location
 - knowledge
 - library
+- location
 - mechanics/magic
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.447783'
+updated: '2025-08-13T12:34:17.191819+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-keeper-elara-moonwhisper-keeper-elara-moonwhisper.svg)

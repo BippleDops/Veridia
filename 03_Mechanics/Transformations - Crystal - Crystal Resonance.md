@@ -3,7 +3,10 @@ created: '2025-08-11'
 status: complete
 tags:
 - body-horror
+- both
+- complete
 - content/mechanics
+- mechanics
 - mechanics/magic
 - progression
 - resonance
@@ -13,9 +16,10 @@ tags:
 - world/both
 title: Crystal Resonance Transformation
 type: Mechanics
-updated: '2025-08-12T23:37:41.124935'
+updated: '2025-08-13T12:34:17.764590+00:00'
 world: Both
 ---
+
 
 
 # Crystal Resonance Transformation Path

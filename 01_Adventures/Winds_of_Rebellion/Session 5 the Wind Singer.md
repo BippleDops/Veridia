@@ -7,6 +7,9 @@ session_number: 5
 session_type: Mystical Journey & Alliance Building
 status: complete
 tags:
+- adventure
+- aethermoor
+- complete
 - content/adventure
 - levels-4-6
 - mechanics/magic
@@ -20,9 +23,10 @@ themes:
 - alliance-building
 - power-sacrifice
 type: Adventure
-updated: '2025-08-12T23:37:41.152993'
+updated: '2025-08-13T12:34:17.823953+00:00'
 world: Aethermoor
 ---
+
 
 
 # Session 5: The Wind Singer

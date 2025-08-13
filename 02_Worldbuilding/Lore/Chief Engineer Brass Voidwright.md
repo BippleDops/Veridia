@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
+- lore
 - mechanics/magic
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.105316'
+updated: '2025-08-13T12:34:15.919665+00:00'
 world: Aquabyssos
 ---
+
 
 
 

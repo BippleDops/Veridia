@@ -3,17 +3,21 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aethermoor
+- complete
 - content/location
 - content/lore
 - lighthouse
+- lore
 - mechanics/magic
 - resonance-chamber
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.330703'
+updated: '2025-08-13T12:34:15.221550+00:00'
 world: Aethermoor
 ---
+
 
 
 

@@ -31,8 +31,11 @@ rewards:
 status: complete
 tags:
 - ancient-ruins
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
+- lore
 - mechanics/exploration
 - mechanics/magic
 - mystery
@@ -45,9 +48,10 @@ themes:
 - underwater exploration
 - magical preservation
 type: Lore
-updated: '2025-08-12T23:37:37.781305'
+updated: '2025-08-13T12:34:14.693255+00:00'
 world: Aquabyssos
 ---
+
 
 
 

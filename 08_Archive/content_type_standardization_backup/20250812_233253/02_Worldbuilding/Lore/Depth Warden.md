@@ -1,6 +1,7 @@
 ---
 tags:
 - active
+- complete
 - dual
 - historical_legend
 - lore
@@ -8,8 +9,9 @@ type: Lore
 world: dual
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:34.838305+00:00'
+updated: '2025-08-13T12:34:12.124421+00:00'
 ---
+
 
 
 

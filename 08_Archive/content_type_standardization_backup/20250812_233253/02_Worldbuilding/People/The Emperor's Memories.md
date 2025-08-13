@@ -2,13 +2,15 @@
 tags:
 - active
 - aquabyssos
+- complete
 - npc
 type: NPC
 world: Aquabyssos
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.882212+00:00'
+updated: '2025-08-13T12:34:14.383586+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-emperor-s-memories-the-emperor-s-memories.svg)

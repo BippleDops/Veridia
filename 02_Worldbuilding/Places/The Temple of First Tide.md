@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
+- location
 - status/in-progress
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.360038'
+updated: '2025-08-13T12:34:17.111926+00:00'
 world: Aquabyssos
 ---
+
 
 
 

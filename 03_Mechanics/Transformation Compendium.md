@@ -3,20 +3,24 @@ created: '2025-01-23'
 status: complete
 tags:
 - body-horror
+- both
+- complete
 - content/lore
 - content/mechanics
 - content/npc
 - evolution
+- lore
 - mutation
 - status/complete
 - transformation
 - world/both
 title: Complete Transformation Compendium
 type: Lore
-updated: '2025-08-12T23:37:41.111134'
+updated: '2025-08-13T12:34:17.813701+00:00'
 version: 1.0
 world: Both
 ---
+
 
 
 

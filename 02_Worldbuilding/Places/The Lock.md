@@ -12,18 +12,22 @@ purpose: Seal against The Hadal Depths
 region: '[[The Hadal Depths]] Border'
 status: draft
 tags:
+- aquabyssos
 - barrier
 - content/location
 - deep
+- draft
 - fortress
 - importance/critical
+- location
 - mechanics/magic
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.500439'
+updated: '2025-08-13T12:34:17.237202+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

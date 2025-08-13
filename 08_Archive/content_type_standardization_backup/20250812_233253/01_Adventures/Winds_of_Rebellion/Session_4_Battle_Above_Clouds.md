@@ -5,6 +5,7 @@ tags:
 - aerial-combat
 - aethermoor
 - civil-war
+- complete
 - levels-4-6
 - winds-of-rebellion
 session_number: 4
@@ -20,9 +21,10 @@ themes:
 - mass-combat
 - political-consequences
 created: '2025-08-11'
-updated: '2025-08-13T01:18:37.153394+00:00'
+updated: '2025-08-13T12:34:14.606518+00:00'
 status: complete
 ---
+
 
 
 # Session 4: Battle Above Clouds

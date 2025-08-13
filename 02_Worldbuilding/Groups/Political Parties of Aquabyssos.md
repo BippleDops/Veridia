@@ -2,8 +2,11 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - democracy
+- faction
 - intrigue
 - parliament
 - parties
@@ -11,9 +14,10 @@ tags:
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.624206'
+updated: '2025-08-13T12:34:17.343766+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-political-parties-of-aquabyssos-political-parties-of-aquabyssos.svg)

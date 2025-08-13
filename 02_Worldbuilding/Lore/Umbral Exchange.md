@@ -9,10 +9,13 @@ operational_status: Active with Restrictions
 significance: Critical Economic Infrastructure
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/mechanics
 - content/template
 - dimensional-commerce
+- lore
 - mechanics/magic
 - reality-interface
 - shadow-manipulation
@@ -23,9 +26,10 @@ tags:
 - world/both
 technology_type: Dimensional Commerce Interface
 type: Lore
-updated: '2025-08-12T23:37:39.197984'
+updated: '2025-08-13T12:34:15.998810+00:00'
 world: Aquabyssos
 ---
+
 
 
 

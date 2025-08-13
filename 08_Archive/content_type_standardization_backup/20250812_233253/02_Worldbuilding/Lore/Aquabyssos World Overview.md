@@ -2,6 +2,7 @@
 tags:
 - active
 - aquabyssos
+- complete
 - dark-mystery
 - high-magic
 - lore
@@ -11,9 +12,10 @@ tags:
 type: Lore
 status: complete
 world: Aquabyssos
-updated: '2025-08-13T01:18:34.805940+00:00'
+updated: '2025-08-13T12:34:12.068837+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

@@ -8,14 +8,17 @@ obsidianUIMode: preview
 status: active
 tags:
 - access/public
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.407586'
+updated: '2025-08-13T12:34:19.130366+00:00'
 world: Both
 ---
+
 
 # Warrior of the Open Hand
 *[[./monk-xphb|Monk]]: Monk Subclass*  

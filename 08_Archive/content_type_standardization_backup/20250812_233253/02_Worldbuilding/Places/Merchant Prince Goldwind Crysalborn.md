@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.108823+00:00'
+updated: '2025-08-13T12:34:13.560271+00:00'
 world: Both
 type: Location
 status: complete
 tags:
 - active
 - both
+- complete
 - location
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-merchant-prince-goldwind-crysalborn-merchant-prince-goldwind-crysalborn.svg)

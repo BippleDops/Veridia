@@ -10,15 +10,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - mechanics/magic
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.367392'
+updated: '2025-08-13T12:34:20.788466+00:00'
 world: Both
 ---
+
 
 # Storm of Vengeance
 *9th-level, Conjuration*  

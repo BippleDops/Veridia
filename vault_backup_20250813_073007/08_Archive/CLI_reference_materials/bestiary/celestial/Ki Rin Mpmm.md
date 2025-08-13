@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - monster
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/mpmm
@@ -20,9 +22,10 @@ tags:
 - world/both
 - world/surface
 type: monster
-updated: '2025-08-12T23:37:35.814721'
+updated: '2025-08-13T12:34:20.212716+00:00'
 world: Both
 ---
+
 
 # [[3-Mechanics\CLI\bestiary\celestial/ki-rin-mpmm|Ki-rin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163*  

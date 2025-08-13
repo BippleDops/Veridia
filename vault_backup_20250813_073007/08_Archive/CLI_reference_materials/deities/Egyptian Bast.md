@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - importance/core
 - note
 - status/in-progress
@@ -14,9 +16,10 @@ tags:
 - ttrpg-cli/deity/egyptian
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.039053'
+updated: '2025-08-13T12:34:18.606280+00:00'
 world: Both
 ---
+
 
 # Bast
 *Source: Player's Handbook p. 299. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

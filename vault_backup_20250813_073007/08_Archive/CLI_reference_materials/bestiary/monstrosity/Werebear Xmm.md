@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - monster
 - status/in-progress
@@ -19,9 +21,10 @@ tags:
 - ttrpg-cli/monster/type/monstrosity/lycanthrope
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.024555'
+updated: '2025-08-13T12:34:19.485000+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Creature

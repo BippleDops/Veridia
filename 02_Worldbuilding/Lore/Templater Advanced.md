@@ -4,15 +4,19 @@ created_by: auto-stub
 status: complete
 tags:
 - advanced-techniques
+- aquabyssos
+- complete
 - content/lore
+- lore
 - mechanics/magic
 - status/complete
 - templating
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.174654'
+updated: '2025-08-13T12:34:15.087858+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Templater Advanced

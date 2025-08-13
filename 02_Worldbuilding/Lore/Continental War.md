@@ -6,15 +6,19 @@ participants:
 - City-States
 - Ancient Powers
 related_entities:
-- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels|02 Worldbuilding/Lore/Ancient Siege Tunnels]]'
+- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels|02 Worldbuilding/Lore/Ancient Siege
+  Tunnels]]'
 - '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'
 - '[[02_Worldbuilding/Places/Ironhold|02 Worldbuilding/Places/Ironhold]]'
 - '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
 scale: Continental
 status: draft
 tags:
+- aethermoor
 - content/lore
+- draft
 - historical-event
+- lore
 - mechanics/combat
 - military
 - status/complete
@@ -23,9 +27,10 @@ tags:
 - world/surface
 time_period: Third Age, Years 892-901
 type: Lore
-updated: '2025-08-12T23:37:38.659638'
+updated: '2025-08-13T12:34:15.488556+00:00'
 world: Aethermoor
 ---
+
 
 
 

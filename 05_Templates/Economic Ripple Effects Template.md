@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both
 - campaign/arc
 - campaign/consequence
+- complete
 - content/item
 - content/template
 - status/complete
+- template
 - trade-tracking
 - world/both
 type: Template
-updated: '2025-08-12T23:37:33.111492'
+updated: '2025-08-13T12:34:03.267480+00:00'
 world: Both
 ---
+
 
 
 # Economic Ripple Effects Template

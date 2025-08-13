@@ -17,6 +17,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - content/lore
 - mechanics/magic
@@ -26,9 +28,10 @@ tags:
 - world/both
 - world/surface
 type: note
-updated: '2025-08-12T23:37:36.275865'
+updated: '2025-08-13T12:34:06.244326+00:00'
 world: Both
 ---
+
 
 # Sleep
 *1st-level, Enchantment*  

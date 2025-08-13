@@ -3,15 +3,19 @@ created: '2025-08-11'
 created_by: cultural-expansion
 status: complete
 tags:
+- aethermoor
+- complete
 - content/lore
 - culture
+- lore
 - status/complete
 - tradition
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:39.121841'
+updated: '2025-08-13T12:34:15.933589+00:00'
 world: Aethermoor
 ---
+
 
 
 # Aethermoor Wind Rider Traditions

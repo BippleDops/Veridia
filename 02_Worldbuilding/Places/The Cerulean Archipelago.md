@@ -9,14 +9,18 @@ modified: 2025-07-23 16:10
 obsidianUIMode: preview
 status: complete
 tags:
+- both
+- complete
 - content/location
+- location
 - region
 - status/in-progress
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.228835'
+updated: '2025-08-13T12:34:16.993260+00:00'
 world: Both
 ---
+
 
 
 

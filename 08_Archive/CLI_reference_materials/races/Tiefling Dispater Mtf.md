@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/race/tiefling/dispater
 - world/both
 type: note
-updated: '2025-08-12T23:37:37.702527'
+updated: '2025-08-13T12:34:08.039708+00:00'
 world: Both
 ---
+
 
 # Tiefling (Dispater)
 *Source: Mordenkainen's Tome of Foes p. 21*  

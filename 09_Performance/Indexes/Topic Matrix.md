@@ -2,7 +2,10 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - index
+- lore
 - navigation
 - reference
 - status/complete
@@ -10,9 +13,10 @@ tags:
 - world/both
 title: Topic Matrix Index
 type: Lore
-updated: '2025-08-12T23:37:33.015666'
+updated: '2025-08-13T12:34:03.172398+00:00'
 world: Both
 ---
+
 
 
 # Topic Matrix Index

@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - content/lore
 - note
 - status/in-progress
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.296806'
+updated: '2025-08-13T12:34:04.684443+00:00'
 world: Both
 ---
+
 
 # Spells for Quandrix Student
 

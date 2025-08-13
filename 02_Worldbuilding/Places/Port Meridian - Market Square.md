@@ -9,10 +9,13 @@ obsidianUIMode: preview
 security_level: moderate
 status: complete
 tags:
+- aethermoor
 - bustling
 - commerce
+- complete
 - content/location
 - economy
+- location
 - market
 - mechanics/social
 - port_meridian
@@ -20,9 +23,10 @@ tags:
 - trading
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.030143'
+updated: '2025-08-13T12:34:16.795897+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

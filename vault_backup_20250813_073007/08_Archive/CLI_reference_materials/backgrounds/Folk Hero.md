@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - content/lore
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/phb
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.929305'
+updated: '2025-08-13T12:34:19.440449+00:00'
 world: Both
 ---
+
 
 # Folk Hero
 *Source: Player's Handbook p. 131. Available in the Basic Rules (2014)*  

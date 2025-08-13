@@ -15,6 +15,8 @@ obsidianUIMode: preview
 status: active
 tags:
 - access/secret
+- active
+- both
 - content/lore
 - mechanics/magic
 - note
@@ -22,9 +24,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.111461'
+updated: '2025-08-13T12:34:06.621497+00:00'
 world: Both
 ---
+
 
 # Purify Food and Drink
 *1st-level, Transmutation (ritual)*  

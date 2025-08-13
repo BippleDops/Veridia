@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - environment
 - gm_resource
+- lore
 - status/complete
 - world/aquabyssos
 - world/both
 title: Encounter Sheet — D-101 Abyssal Thermocline Knife
 type: Lore
-updated: '2025-08-12T23:37:33.052223'
+updated: '2025-08-13T12:34:17.904905+00:00'
 world: Both
 ---
+
 
 
 # D-101 Abyssal Thermocline Knife

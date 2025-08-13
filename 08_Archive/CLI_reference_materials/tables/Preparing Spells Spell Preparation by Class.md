@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.777140'
+updated: '2025-08-13T12:34:03.743632+00:00'
 world: Both
 ---
+
 
 # Preparing Spells; Spell Preparation by Class
 *Source: Player's Handbook (2024) p. 235. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 

@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- both
+- complete
 - content/location
+- location
 - status/in-progress
 - world/both
 type: Location
-updated: '2025-08-12T23:37:39.779562'
+updated: '2025-08-13T12:34:16.555001+00:00'
 world: Both
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-war-machine-assembly-halls-v1-war-machine-assembly-halls.svg)

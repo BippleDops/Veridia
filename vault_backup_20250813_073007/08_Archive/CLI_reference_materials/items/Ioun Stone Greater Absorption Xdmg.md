@@ -8,6 +8,8 @@ modified: 2025-07-23 12:39
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - content/item
 - content/lore
 - note
@@ -15,9 +17,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.695237'
+updated: '2025-08-13T12:34:20.858644+00:00'
 world: Both
 ---
+
 
 # Ioun Stone, Greater Absorption
 *Wondrous item, legendary (requires attunement)*  

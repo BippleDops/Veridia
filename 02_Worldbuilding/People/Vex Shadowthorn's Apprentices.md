@@ -2,22 +2,27 @@
 MyCategory: NPC
 MyContainer: None
 created: '2025-08-11'
-faction: '[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]'
+faction: '[[02_Worldbuilding/Groups/The Whisper Syndicate|02 Worldbuilding/Groups/The
+  Whisper Syndicate]]'
 obsidianUIMode: preview
 status: complete
 tags:
 - apprentice
+- both realms
+- complete
 - content/faction
 - content/npc
+- npc
 - status/in-progress
 - syndicate
 - world/aethermoor
 - world/aquabyssos
 - world/both
 type: Npc
-updated: '2025-08-12T23:37:41.028281'
+updated: '2025-08-13T12:34:17.685820+00:00'
 world: Both Realms
 ---
+
 
 
 > [!figure] Portrait

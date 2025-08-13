@@ -5,23 +5,29 @@ alignment: Lawful Neutral
 created: '2025-08-08'
 created_by: auto-stub
 faction_type: Government
-headquarters: '[[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The Crystal Palace]]'
+headquarters: '[[02_Worldbuilding/Places/The Crystal Palace|02 Worldbuilding/Places/The
+  Crystal Palace]]'
 influence: National
-leader: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
+leader: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen
+  Seraphina Lumengarde]]'
 members: ~10,000 direct servants
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
+- complete
 - content/faction
+- faction
 - political
 - royalty
 - status/complete
 - world/aethermoor
 type: Faction
-updated: '2025-08-12T23:37:40.575633'
+updated: '2025-08-13T12:34:17.301962+00:00'
 wealth: Immense
 world: Aethermoor
 ---
+
 
 
 

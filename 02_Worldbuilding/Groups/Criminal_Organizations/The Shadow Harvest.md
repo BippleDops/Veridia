@@ -14,7 +14,10 @@ obsidianUIMode: preview
 purpose: Extract and refine pure shadow energy
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
+- faction
 - harvesters
 - resource-extraction
 - shadow-cult
@@ -22,9 +25,10 @@ tags:
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.663036'
+updated: '2025-08-13T12:34:17.375684+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-stop-the-shadow-harvest-stop-the-shadow-harvest.svg)

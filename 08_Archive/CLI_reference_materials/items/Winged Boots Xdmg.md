@@ -8,15 +8,18 @@ modified: 2025-07-23 12:39
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - content/item
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:37.654173'
+updated: '2025-08-13T12:34:06.861277+00:00'
 world: Both
 ---
+
 
 # Winged Boots
 *Wondrous item, uncommon (requires attunement)*  

@@ -6,10 +6,13 @@ significance: Campaign-Critical
 status: complete
 tags:
 - adaptation
+- both
+- complete
 - content/lore
 - content/npc
 - convergence-effects
 - dimensional-bleed
+- lore
 - mutation
 - reality-sickness
 - shadow-corruption
@@ -18,9 +21,10 @@ tags:
 - transformed-citizens
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.973670'
+updated: '2025-08-13T12:34:15.809646+00:00'
 world: Both
 ---
+
 
 
 

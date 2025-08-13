@@ -10,9 +10,12 @@ significance: Critical Hazard & Research Infrastructure
 status: complete
 tags:
 - advanced-physics
+- aquabyssos
 - chronoengineering
+- complete
 - content/lore
 - dimensional-anomalies
+- lore
 - mechanics/magic
 - status/complete
 - technology
@@ -23,9 +26,10 @@ tags:
 - world/aquabyssos
 technology_type: Temporal Manipulation System
 type: Lore
-updated: '2025-08-12T23:37:39.024255'
+updated: '2025-08-13T12:34:15.859042+00:00'
 world: Aquabyssos
 ---
+
 
 
 

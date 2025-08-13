@@ -11,17 +11,21 @@ region: Shattered Coast
 status: complete
 tags:
 - access/secret
+- aethermoor
 - coastal
+- complete
 - content/location
 - dangerous
+- location
 - pirates
 - smuggling
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:39.864059'
+updated: '2025-08-13T12:34:16.609101+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

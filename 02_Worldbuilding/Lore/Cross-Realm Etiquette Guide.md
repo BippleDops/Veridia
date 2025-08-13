@@ -3,18 +3,22 @@ created: '2025-08-12'
 created_by: cultural-expansion
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - cross-cultural
 - culture
 - etiquette-guide
 - inter-realm
+- lore
 - mechanics/social
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.201328'
+updated: '2025-08-13T12:34:16.002044+00:00'
 world: Both
 ---
+
 
 # Cross-Realm Etiquette Guide
 *"Where water meets air and depth encounters sky, wisdom lies in the space between traditions."*

@@ -2,18 +2,22 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
 - events
 - international
+- lore
 - mechanics/social
 - politics
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.242636'
+updated: '2025-08-13T12:34:16.035286+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Diplomatic Event Scenarios

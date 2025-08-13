@@ -8,17 +8,21 @@ location_type: Commercial Port
 population: 15000
 status: complete
 tags:
+- both
 - commercial
+- complete
 - content/location
 - dock
 - harbor
+- location
 - status/in-progress
 - world/aquabyssos
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.389833'
+updated: '2025-08-13T12:34:17.138384+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View

@@ -2,18 +2,22 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/npc
 - drama
 - intrigue
+- lore
 - relationships
 - status/complete
 - storytelling
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.939167'
+updated: '2025-08-13T12:34:15.774754+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Relationship Web Nuances

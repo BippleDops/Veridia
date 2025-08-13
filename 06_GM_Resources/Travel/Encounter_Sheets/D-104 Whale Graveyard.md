@@ -3,18 +3,22 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - gm_resource
 - horror
+- lore
 - mechanics/exploration
 - status/complete
 - world/aquabyssos
 - world/both
 title: Encounter Sheet — D-104 Whale Graveyard
 type: Lore
-updated: '2025-08-12T23:37:33.035922'
+updated: '2025-08-13T12:34:03.209856+00:00'
 world: Both
 ---
+
 
 
 # D-104 Whale Graveyard

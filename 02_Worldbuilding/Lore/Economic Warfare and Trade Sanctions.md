@@ -2,8 +2,11 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - economy
+- lore
 - merchant-princes
 - politics
 - sanctions
@@ -11,9 +14,10 @@ tags:
 - warfare
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.841546'
+updated: '2025-08-13T12:34:15.661035+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Economic Warfare

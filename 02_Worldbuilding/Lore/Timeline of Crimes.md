@@ -8,22 +8,26 @@ status: complete
 system_type: Chronological Investigation Framework
 tags:
 - access/secret
+- both worlds
 - chronological-crimes
+- complete
 - conspiracy
 - conspiracy-development
 - content/faction
 - content/lore
 - content/template
 - historical-analysis
+- lore
 - status/complete
 - timeline
 - world/aethermoor
 - world/both
 timeline_span: From pre-history to current events, approximately 3,000+ years
 type: Lore
-updated: '2025-08-12T23:37:39.206889'
+updated: '2025-08-13T12:34:16.006204+00:00'
 world: Both Worlds
 ---
+
 
 
 

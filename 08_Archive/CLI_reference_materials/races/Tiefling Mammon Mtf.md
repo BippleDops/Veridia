@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/race/tiefling/mammon
 - world/both
 type: note
-updated: '2025-08-12T23:37:37.697136'
+updated: '2025-08-13T12:34:08.057792+00:00'
 world: Both
 ---
+
 
 # Tiefling (Mammon)
 *Source: Mordenkainen's Tome of Foes p. 22*  

@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/location
+- location
 - status/in-progress
 - world/both
 type: Location
-updated: '2025-08-12T23:37:39.827601'
+updated: '2025-08-13T12:34:16.574825+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View

@@ -11,7 +11,9 @@ tags:
 - ancient_power
 - content/item
 - content/lore
+- draft
 - dual
+- lore
 - mechanics/magic
 - status/complete
 - world/aquabyssos
@@ -21,9 +23,10 @@ themes:
 - ancient_bloodlines
 - oceanic_authority
 type: Lore
-updated: '2025-08-12T23:37:38.684169'
+updated: '2025-08-13T12:34:15.511097+00:00'
 world: dual
 ---
+
 
 
 

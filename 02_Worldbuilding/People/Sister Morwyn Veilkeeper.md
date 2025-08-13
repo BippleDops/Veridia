@@ -1,31 +1,15 @@
 ---
-type: Npc
-status: draft
-tags:
-- active - category/people
-- active
----category/people
-- both
-- mystic
-- neutral
-- npc
-- order-of-shattered-crown
-- shadowmere
-type: NPC
-location: '[[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]'
-faction: '[[Order of the Shattered Crown]]'
-race: Half-Elf
-class: Shadow Oracle
-level: 9
-alignment: True Neutral
-status: Active - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+created: null
+updated: '2025-08-13T12:34:17.601545+00:00'
 world: Both
-updated: '2025-08-13T01:18:36.948297+00:00'
-created: 2025-08-11
+type: NPC
+status: active
+tags:
+- active
+- both
+- npc
 ---
+
 
 
 > [!figure] Portrait

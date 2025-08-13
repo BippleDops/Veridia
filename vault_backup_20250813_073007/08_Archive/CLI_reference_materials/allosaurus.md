@@ -18,6 +18,8 @@ statHP: 51
 statblock: inline
 status: active
 tags:
+- active
+- both
 - compendium/src/5e/mm
 - note
 - status/in-progress
@@ -27,9 +29,10 @@ tags:
 - world/both
 - world/surface
 type: note
-updated: '2025-08-12T23:37:33.161891'
+updated: '2025-08-13T12:34:18.011149+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Creature

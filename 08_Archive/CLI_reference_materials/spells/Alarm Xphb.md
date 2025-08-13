@@ -17,6 +17,8 @@ obsidianUIMode: preview
 status: active
 tags:
 - access/secret
+- active
+- both
 - campaign/arc
 - content/lore
 - mechanics/magic
@@ -25,9 +27,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:35.985065'
+updated: '2025-08-13T12:34:06.507013+00:00'
 world: Both
 ---
+
 
 # Alarm
 *1st-level, Abjuration (ritual)*  

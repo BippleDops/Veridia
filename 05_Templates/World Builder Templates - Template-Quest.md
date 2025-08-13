@@ -14,14 +14,18 @@ questSessionObtained: null
 questStatus: Not Started
 status: complete
 tags:
+- both
+- complete
 - content/adventure
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.121970'
+updated: '2025-08-13T12:34:03.271472+00:00'
 world: Both
 ---
+
 
 
 

@@ -2,8 +2,11 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - content/mechanics
+- lore
 - player-resource
 - player_resource
 - quick-start
@@ -11,9 +14,10 @@ tags:
 - world/both
 title: Aquabyssos & Aethermoor Quick Start Guide
 type: Lore
-updated: '2025-08-12T23:37:33.073853'
+updated: '2025-08-13T12:34:17.936720+00:00'
 world: Both
 ---
+
 
 
 

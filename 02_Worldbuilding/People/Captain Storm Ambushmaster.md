@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/npc
+- npc
 - status/in-progress
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.882275'
+updated: '2025-08-13T12:34:17.558680+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-storm-ambushmaster-captain-storm-ambushmaster.svg)

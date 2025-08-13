@@ -9,17 +9,21 @@ race: Human (Memory-Touched)
 role: Keeper of Lost Memories
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/npc
 - deep-mother
 - divine-servant
 - forgotten
 - memory-keeper
+- npc
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.799237'
+updated: '2025-08-13T12:34:17.492986+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

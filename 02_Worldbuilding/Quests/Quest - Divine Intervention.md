@@ -9,6 +9,8 @@ obsidianUIMode: preview
 quest_type: Divine/Cosmic Campaign Arc
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/lore
 - cosmic-horror
@@ -17,12 +19,14 @@ tags:
 - epic
 - gods
 - level-10-15
+- lore
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:37.754780'
+updated: '2025-08-13T12:34:14.669440+00:00'
 world: Aethermoor
 ---
+
 
 
 

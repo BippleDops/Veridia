@@ -3,18 +3,24 @@ climate: Temperate, frequently shrouded in mist
 created: '2025-08-09'
 danger_level: 9
 government: None (Anarchic)
-location: '[[02_Worldbuilding/Places/The Azure Coast|02 Worldbuilding/Places/The Azure Coast]] waters'
+location: '[[02_Worldbuilding/Places/The Azure Coast|02 Worldbuilding/Places/The Azure
+  Coast]] waters'
 population: Unknown (Estimated 200-500)
 related_entities:
-- '[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]'
+- '[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow
+  Conspiracy]]'
 - '[[02_Worldbuilding/Lore/Memory Alterations|02 Worldbuilding/Lore/Memory Alterations]]'
-- '[[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]]'
+- '[[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory
+  Meadows Black Market]]'
 size: 12 square miles
 status: draft
 tags:
 - access/secret
+- both aethermoor and aquabyssos
 - content/location
+- draft
 - isolated
+- location
 - mysterious
 - status/complete
 - supernatural
@@ -22,9 +28,10 @@ tags:
 - world/aethermoor
 - world/surface
 type: Location
-updated: '2025-08-12T23:37:40.244418'
+updated: '2025-08-13T12:34:17.007400+00:00'
 world: Both Aethermoor and Aquabyssos
 ---
+
 
 
 > [!figure] View

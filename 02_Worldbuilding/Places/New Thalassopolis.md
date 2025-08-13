@@ -1,28 +1,15 @@
 ---
-type: Location
-status: draft
-tags:
-- active - category/place
-- active
----category/place
-- aquabyssos
-- both
-- capital
-- city
-- location
-- underwater
-region: Aquabyssos - Twilight Depth
-type: Location
-danger: Medium-High
-status: Active - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+created: null
+updated: '2025-08-13T12:34:17.030292+00:00'
 world: Both
-updated: '2025-08-13T01:18:36.412084+00:00'
-created: 2025-08-11
-danger_level: Moderate
+type: Location
+status: active
+tags:
+- active
+- both
+- location
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-new-thalassopolis-new-thalassopolis.svg)

@@ -1,27 +1,15 @@
 ---
-tags:
-- active - category/place
-- active
----category/place
-- aquabyssos
-- both
-- building
-- corrupted
-- embassy
-- location
-- shadowmere
-region: The Shadowmere
-type: Location
-danger: High
-status: Active - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+created: null
+updated: '2025-08-13T12:34:09.389293+00:00'
 world: Both
-updated: '2025-08-13T01:18:36.401420+00:00'
-created: 2025-08-11
-danger_level: High
+type: Location
+status: active
+tags:
+- active
+- both
+- location
 ---
+
 
 
 

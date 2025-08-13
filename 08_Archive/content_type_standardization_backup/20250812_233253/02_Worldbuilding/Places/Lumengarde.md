@@ -3,6 +3,7 @@ tags:
 - active
 - both
 - city
+- complete
 - gloom_gardens
 - location
 - major_settlement
@@ -17,10 +18,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:36.462254+00:00'
+updated: '2025-08-13T12:34:13.912799+00:00'
 status: complete
 type: Location
 ---
+
 
 
 

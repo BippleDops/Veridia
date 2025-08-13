@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/mm
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.214874'
+updated: '2025-08-13T12:34:18.857861+00:00'
 world: Both
 ---
+
 
 # Player Characters as Vampires
 *Source: Monster Manual p. 295, Van Richten's Guide to Ravenloft p. 236* 

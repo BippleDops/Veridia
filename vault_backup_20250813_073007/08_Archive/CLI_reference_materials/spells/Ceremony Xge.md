@@ -14,6 +14,8 @@ obsidianUIMode: preview
 status: active
 tags:
 - access/secret
+- active
+- both
 - content/lore
 - mechanics/magic
 - note
@@ -21,9 +23,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.369725'
+updated: '2025-08-13T12:34:20.381582+00:00'
 world: Both
 ---
+
 
 # Ceremony
 *1st-level, Abjuration (ritual)*  

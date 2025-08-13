@@ -3,18 +3,21 @@ created: '2025-08-12'
 created_by: claude
 status: complete
 tags:
-- cultural guide
+- aethermoor
+- complete
 - cultural-guide
 - culture
 - daily-life
+- lore
 - routine
 - status/complete
 - world/aethermoor
 - worldbuilding
 type: Lore
-updated: '2025-08-12T23:37:39.405639'
+updated: '2025-08-13T12:34:16.169232+00:00'
 world: Aethermoor
 ---
+
 
 
 

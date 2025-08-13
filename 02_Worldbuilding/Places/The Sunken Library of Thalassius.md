@@ -10,24 +10,29 @@ original_builder: '[[Scholar Emperor Thalassius the Wise]]'
 population: 50+ (scholars, guardians, spirits)
 related_entities:
 - '[[Scholar Emperor Thalassius the Wise]]'
-- '[[02_Worldbuilding/Groups/The Scribes'' Covenant|02 Worldbuilding/Groups/The Scribes'' Covenant]]'
+- '[[02_Worldbuilding/Groups/The Scribes'' Covenant|02 Worldbuilding/Groups/The Scribes''
+  Covenant]]'
 - '[[Order of Preserved Knowledge]]'
 - '[[02_Worldbuilding/Lore/Deep Archives|02 Worldbuilding/Lore/Deep Archives]]'
 status: complete
 tags:
 - ancient-wisdom
+- aquabyssos
 - campaign/arc
+- complete
 - content/location
 - knowledge
 - library
+- location
 - ruins
 - scholars
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.062572'
+updated: '2025-08-13T12:34:16.828429+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-sunken-library-of-thalassius-the-sunken-library-of-thalassius.svg)

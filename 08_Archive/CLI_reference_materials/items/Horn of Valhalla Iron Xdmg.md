@@ -8,15 +8,18 @@ modified: 2025-07-23 12:39
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - content/lore
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:37.250491'
+updated: '2025-08-13T12:34:07.810347+00:00'
 world: Both
 ---
+
 
 # Horn of Valhalla, Iron
 *Wondrous item, legendary*  

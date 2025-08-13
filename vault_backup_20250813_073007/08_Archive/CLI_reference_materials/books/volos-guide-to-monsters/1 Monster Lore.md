@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/vgm
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.780750'
+updated: '2025-08-13T12:34:19.363493+00:00'
 world: Both
 ---
+
 
 # Monster Lore
 *Source: Volo's Guide to Monsters, p. 5* 

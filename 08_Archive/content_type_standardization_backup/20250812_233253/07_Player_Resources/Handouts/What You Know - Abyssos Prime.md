@@ -3,6 +3,7 @@ tags:
 - abyssos-prime
 - active
 - both
+- complete
 - location-knowledge
 - lore
 - player-handout
@@ -13,9 +14,10 @@ location: Abyssos Prime
 depth: 2,000 ft
 created: '2025-08-07'
 world: Both
-updated: '2025-08-13T01:18:31.159549+00:00'
+updated: '2025-08-13T12:34:11.650540+00:00'
 status: complete
 ---
+
 
 
 

@@ -4,16 +4,20 @@ created_by: auto-stub
 danger_level: Moderate
 status: complete
 tags:
+- aethermoor
+- complete
 - content/faction
 - content/location
+- location
 - palace
 - royal
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.254278'
+updated: '2025-08-13T12:34:17.016940+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-royal-palace-of-meridian-royal-palace-of-meridian.svg)

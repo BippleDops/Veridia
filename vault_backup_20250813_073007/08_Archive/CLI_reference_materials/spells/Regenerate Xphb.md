@@ -12,15 +12,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - mechanics/magic
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.117571'
+updated: '2025-08-13T12:34:20.706325+00:00'
 world: Both
 ---
+
 
 # Regenerate
 *7th-level, Transmutation*  

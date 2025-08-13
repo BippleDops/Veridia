@@ -16,6 +16,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - content/lore
 - mechanics/magic
@@ -25,9 +27,10 @@ tags:
 - world/aethermoor
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.121093'
+updated: '2025-08-13T12:34:20.710686+00:00'
 world: Both
 ---
+
 
 # Fly
 *3rd-level, Transmutation*  

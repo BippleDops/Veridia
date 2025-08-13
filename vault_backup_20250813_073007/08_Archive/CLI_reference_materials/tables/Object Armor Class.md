@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/dmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.640867'
+updated: '2025-08-13T12:34:18.080404+00:00'
 world: Both
 ---
+
 
 # Object Armor Class
 *Source: Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

@@ -2,12 +2,16 @@
 created: null
 status: draft
 tags:
+- both
+- draft
+- lore
 - status/draft
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:32.986864'
+updated: '2025-08-13T12:34:03.141888+00:00'
 world: Both
 ---
+
 
 # TRADE_ROUTE_OVERLAYS.md
 *Commercial Transportation Networks for Dual Realm*

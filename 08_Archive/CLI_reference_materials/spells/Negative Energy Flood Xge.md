@@ -11,15 +11,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - mechanics/magic
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xge
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.076385'
+updated: '2025-08-13T12:34:06.461314+00:00'
 world: Both
 ---
+
 
 # Negative Energy Flood
 *5th-level, Necromancy*  

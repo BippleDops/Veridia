@@ -3,18 +3,22 @@ created: '2025-08-12'
 created_by: claude
 status: complete
 tags:
+- aquabyssos
 - campaign/arc
+- complete
 - content/location
 - cult
 - deep-mother
 - eldritch-horror
+- location
 - status/complete
 - temple
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.074361'
+updated: '2025-08-13T12:34:16.841076+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Temple of the Sunken Cathedral

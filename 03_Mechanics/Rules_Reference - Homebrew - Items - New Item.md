@@ -12,13 +12,17 @@ my-container: '[[The Giants Skull]]'
 obsidian-u-i-mode: preview
 status: complete
 tags:
+- both
+- complete
 - content/item
+- item
 - status/in-progress
 - world/both
 type: Item
-updated: '2025-08-12T23:37:41.136261'
+updated: '2025-08-13T12:34:17.776950+00:00'
 world: Both
 ---
+
 
 
 

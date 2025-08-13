@@ -7,17 +7,21 @@ created_by: auto-stub
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/npc
 - cure
 - healing
+- npc
 - shadow
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.934513'
+updated: '2025-08-13T12:34:17.603267+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

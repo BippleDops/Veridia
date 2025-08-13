@@ -36,9 +36,12 @@ sub_locations:
 - '[[The Vault of Currents]]'
 - '[[Goldwave Guest Quarters]]'
 tags:
+- aethermoor
+- complete
 - content/location
 - cross-realm-trade
 - financial-power
+- location
 - luxury
 - manor
 - merchant
@@ -48,11 +51,12 @@ tags:
 - world/aethermoor
 temporal_stability: 95
 type: Location
-updated: '2025-08-12T23:37:38.782264'
+updated: '2025-08-13T12:34:15.615423+00:00'
 visited: false
 wealth_level: Extreme
 world: Aethermoor
 ---
+
 
 
 

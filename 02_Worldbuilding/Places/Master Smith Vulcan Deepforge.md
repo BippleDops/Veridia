@@ -14,20 +14,24 @@ obsidianUIMode: preview
 occupation: Master Smith and Weaponsmith
 status: complete
 tags:
+- aquabyssos
 - artisan
+- complete
 - content/item
 - content/location
 - content/npc
 - craftsman
 - deepforge
+- location
 - master
 - smith
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.732589'
+updated: '2025-08-13T12:34:16.502537+00:00'
 world: Aquabyssos
 ---
+
 
 
 

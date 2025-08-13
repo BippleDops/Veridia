@@ -8,9 +8,12 @@ hazard_type: Temporal Distortion Phenomena
 scope: Cross-Realm Phenomenon
 status: complete
 tags:
+- both worlds
 - chronological-threats
+- complete
 - content/lore
 - hazards
+- lore
 - mechanics/magic
 - navigation-dangers
 - status/complete
@@ -20,9 +23,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.711392'
+updated: '2025-08-13T12:34:15.534031+00:00'
 world: Both Worlds
 ---
+
 
 
 

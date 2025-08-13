@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/race/kuo-toa
 - world/both
 type: note
-updated: '2025-08-12T23:37:37.718345'
+updated: '2025-08-13T12:34:21.832714+00:00'
 world: Both
 ---
+
 
 # Kuo-Toa
 *Source: Dungeon Master's Guide p. 282*  

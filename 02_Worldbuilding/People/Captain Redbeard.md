@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- complete
 - content/npc
+- dimensional nexus (both realms)
+- npc
 - status/in-progress
 - world/both
 type: Npc
-updated: '2025-08-12T23:37:40.790485'
+updated: '2025-08-13T12:34:17.485998+00:00'
 world: Dimensional Nexus (Both Realms)
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-redbeard-captain-redbeard.svg)

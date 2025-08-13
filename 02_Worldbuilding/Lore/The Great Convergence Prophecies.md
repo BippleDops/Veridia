@@ -14,11 +14,14 @@ significance: Reality-Altering
 status: complete
 tags:
 - ancient-prophecy
+- both
+- complete
 - content/lore
 - convergence
 - divination
 - historical-events
 - historical-prophecies
+- lore
 - prophecy
 - religion
 - religious-belief
@@ -28,9 +31,10 @@ tags:
 - world/both
 time_period: Ancient Era - Current Era (Ongoing Fulfillment)
 type: Lore
-updated: '2025-08-12T23:37:38.206317'
+updated: '2025-08-13T12:34:15.114941+00:00'
 world: Both
 ---
+
 
 
 

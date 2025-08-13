@@ -2,13 +2,17 @@
 created: '2025-08-12'
 status: stub
 tags:
+- aquabyssos
 - content/npc
+- npc
 - status/stub
+- stub
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:41.011487'
+updated: '2025-08-13T12:34:17.670817+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Guild Master Shellforge

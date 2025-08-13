@@ -3,18 +3,22 @@ created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
 tags:
+- both
 - campaign/session
+- complete
 - content/item
 - gm-resource
 - languages
 - linguistics
+- lore
 - quick-reference
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.021909'
+updated: '2025-08-13T12:34:17.891526+00:00'
 world: Both
 ---
+
 
 
 # Linguistic Quick Reference

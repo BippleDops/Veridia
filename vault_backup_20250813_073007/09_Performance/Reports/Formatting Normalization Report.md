@@ -2,16 +2,20 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both
+- complete
 - formatting
 - importance/core
+- lore
 - metadata
 - report
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:32.997433'
+updated: '2025-08-13T12:34:17.872896+00:00'
 world: Both
 ---
+
 
 
 # Formatting Normalization Report

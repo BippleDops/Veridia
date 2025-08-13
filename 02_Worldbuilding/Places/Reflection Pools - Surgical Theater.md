@@ -11,9 +11,12 @@ parent_location: The Reflection Pools
 population: 50-80 medical staff, 20-40 patients daily
 status: complete
 tags:
+- aquabyssos
+- complete
 - consciousness
 - content/location
 - healing
+- location
 - medical
 - memory
 - reflection_pools
@@ -23,9 +26,10 @@ tags:
 - theater
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.994574'
+updated: '2025-08-13T12:34:16.751526+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

@@ -12,10 +12,13 @@ scope: Magical Crime
 significance: Specialized Knowledge
 status: complete
 tags:
+- both worlds
+- complete
 - content/location
 - content/lore
 - crime
 - heist
+- location
 - mechanics/exploration
 - mechanics/magic
 - memory
@@ -25,9 +28,10 @@ tags:
 - theft
 - world/both
 type: Location
-updated: '2025-08-12T23:37:39.752628'
+updated: '2025-08-13T12:34:16.531747+00:00'
 world: Both Worlds
 ---
+
 
 
 

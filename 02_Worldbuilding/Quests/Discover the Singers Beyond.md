@@ -5,9 +5,12 @@ duration: 3-4 sessions
 level: 7-11
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
 - first-contact
+- lore
 - mechanics/exploration
 - music
 - mystery
@@ -17,9 +20,10 @@ tags:
 - world/aquabyssos
 threat_level: high
 type: Lore
-updated: '2025-08-12T23:37:37.791501'
+updated: '2025-08-13T12:34:14.700347+00:00'
 world: Aquabyssos
 ---
+
 
 
 

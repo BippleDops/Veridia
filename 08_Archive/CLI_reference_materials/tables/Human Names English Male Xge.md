@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xge
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.534760'
+updated: '2025-08-13T12:34:03.515204+00:00'
 world: Both
 ---
+
 
 # Human Names – English, Male
 *Source: Xanathar's Guide to Everything p. 181* 

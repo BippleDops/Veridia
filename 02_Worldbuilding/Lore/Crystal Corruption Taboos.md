@@ -9,7 +9,9 @@ significance: Fundamental Cultural Framework
 status: complete
 taboo_category: Existential Threat Response
 tags:
+- both
 - collective-fear
+- complete
 - content/lore
 - corruption-prevention
 - cultural-evolution
@@ -18,6 +20,7 @@ tags:
 - cultural-taboos
 - historical-development
 - historical-trauma
+- lore
 - mechanics/social
 - moral-boundaries
 - status/complete
@@ -25,9 +28,10 @@ tags:
 - world/aethermoor
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.971678'
+updated: '2025-08-13T12:34:15.807434+00:00'
 world: Both
 ---
+
 
 
 

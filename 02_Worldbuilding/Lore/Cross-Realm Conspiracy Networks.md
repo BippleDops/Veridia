@@ -2,16 +2,20 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both worlds
+- complete
 - conspiracy
 - content/faction
 - content/lore
+- lore
 - smuggling
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.838307'
+updated: '2025-08-13T12:34:14.750350+00:00'
 world: Both Worlds
 ---
+
 
 
 ## Overview

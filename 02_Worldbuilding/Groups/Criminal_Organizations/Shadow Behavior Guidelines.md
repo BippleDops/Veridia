@@ -14,17 +14,21 @@ obsidianUIMode: preview
 purpose: Establish ethical standards for shadow energy use
 status: complete
 tags:
+- aquabyssos
 - behavioral-code
+- complete
 - content/faction
 - content/template
+- faction
 - self-regulation
 - shadow-society
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.660939'
+updated: '2025-08-13T12:34:17.373813+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-behavior-guidelines-shadow-behavior-guidelines.svg)

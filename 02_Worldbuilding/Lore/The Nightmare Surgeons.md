@@ -3,17 +3,21 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/lore
 - corrupted-healers
+- lore
 - medical-horror
 - nightmare-surgeons
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.591527'
+updated: '2025-08-13T12:34:15.401105+00:00'
 world: Aquabyssos
 ---
+
 
 
 # The Nightmare Surgeons

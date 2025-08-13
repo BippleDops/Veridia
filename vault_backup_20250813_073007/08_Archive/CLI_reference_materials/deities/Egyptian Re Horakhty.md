@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - importance/core
 - note
 - status/in-progress
@@ -14,9 +16,10 @@ tags:
 - ttrpg-cli/deity/egyptian
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.931928'
+updated: '2025-08-13T12:34:18.553970+00:00'
 world: Both
 ---
+
 
 # Re-Horakhty
 *Source: Player's Handbook p. 299. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

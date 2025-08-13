@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/rot
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.621780'
+updated: '2025-08-13T12:34:04.973010+00:00'
 world: Both
 ---
+
 
 # Chapter 10: The Sea of Moving Ice
 *Source: Rise of Tiamat, p. 110* 

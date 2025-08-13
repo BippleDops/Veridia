@@ -2,18 +2,22 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both worlds
 - campaign/arc
 - campaign/consequence
+- complete
 - content/item
 - content/lore
 - content/template
+- lore
 - political-ripples
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.627778'
+updated: '2025-08-13T12:34:15.431328+00:00'
 world: Both Worlds
 ---
+
 
 
 

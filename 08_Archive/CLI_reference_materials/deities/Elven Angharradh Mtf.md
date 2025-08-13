@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - importance/core
 - note
 - status/in-progress
@@ -14,9 +16,10 @@ tags:
 - ttrpg-cli/deity/elven
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.940910'
+updated: '2025-08-13T12:34:04.304323+00:00'
 world: Both
 ---
+
 
 # Angharradh
 *Source: Mordenkainen's Tome of Foes p. 43, Tasha's Cauldron of Everything p. 33* 

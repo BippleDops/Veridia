@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.652367+00:00'
+updated: '2025-08-13T12:34:14.105434+00:00'
 world: Both
 type: Group
 status: complete
 tags:
 - active
 - both
+- complete
 - group
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-deputy-archmerchant-scroll-deepmin-deputy-archmerchant-scroll-deepmin.svg)

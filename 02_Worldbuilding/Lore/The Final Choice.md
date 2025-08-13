@@ -10,12 +10,15 @@ scope: Multiversal - affecting the fundamental nature of reality across both wor
 status: complete
 tags:
 - access/secret
+- both worlds
+- complete
 - conspiracy
 - content/lore
 - culmination
 - deep-mother
 - divine-intervention
 - final-revelation
+- lore
 - reality-alteration
 - shadow-surgeons
 - status/complete
@@ -24,9 +27,10 @@ tags:
 - world/aethermoor
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.279953'
+updated: '2025-08-13T12:34:15.174669+00:00'
 world: Both Worlds
 ---
+
 
 
 

@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - importance/core
 - note
 - status/in-progress
@@ -14,9 +16,10 @@ tags:
 - ttrpg-cli/deity/forgotten-realms
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.969952'
+updated: '2025-08-13T12:34:04.237652+00:00'
 world: Both
 ---
+
 
 # Tymora
 *Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 

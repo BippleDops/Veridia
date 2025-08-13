@@ -1,12 +1,14 @@
 ---
 created: null
-updated: '2025-08-13T01:18:31.161343+00:00'
+updated: '2025-08-13T12:34:11.652087+00:00'
 world: Aquabyssos
 status: complete
 tags:
 - active
 - aquabyssos
+- complete
 ---
+
 
 # Welcome to Aquabyssos
 ## A Player's Guide to the Drowned Realm

@@ -4,17 +4,21 @@ created_by: auto-stub
 expanded: 2025-08-10
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - heroes
 - historical-figures
+- lore
 - mechanics/magic
 - prophecies
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.252115'
+updated: '2025-08-13T12:34:16.042217+00:00'
 world: Aquabyssos
 ---
+
 
 
 

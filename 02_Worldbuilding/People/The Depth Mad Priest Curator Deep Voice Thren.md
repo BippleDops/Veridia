@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/npc
+- npc
 - status/in-progress
 - world/both
 type: Npc
-updated: '2025-08-12T23:37:40.807081'
+updated: '2025-08-13T12:34:17.646387+00:00'
 world: Both
 ---
+
 
 
 

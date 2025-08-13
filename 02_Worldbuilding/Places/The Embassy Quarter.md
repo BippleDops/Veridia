@@ -3,10 +3,12 @@ created: '2025-08-09'
 danger_level: 2
 established: Post-Continental War
 government: International Diplomatic Council
-parent_location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
+parent_location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port
+  Meridian]]'
 population: 8500
 related_entities:
-- '[[02_Worldbuilding/Lore/Aquabyssos Ambassadors|02 Worldbuilding/Lore/Aquabyssos Ambassadors]]'
+- '[[02_Worldbuilding/Lore/Aquabyssos Ambassadors|02 Worldbuilding/Lore/Aquabyssos
+  Ambassadors]]'
 - '[[02_Worldbuilding/Places/The Azure Coast|02 Worldbuilding/Places/The Azure Coast]]'
 - '[[02_Worldbuilding/Lore/Continental War|02 Worldbuilding/Lore/Continental War]]'
 specialties:
@@ -16,19 +18,23 @@ specialties:
 - Conflict Resolution
 status: draft
 tags:
+- aethermoor
 - content/location
 - diplomatic
 - diplomatic-district
 - district
+- draft
 - embassy
 - international
+- location
 - politics
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.388446'
+updated: '2025-08-13T12:34:17.136653+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-embassy-quarter-the-embassy-quarter.svg)

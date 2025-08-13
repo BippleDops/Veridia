@@ -3,19 +3,23 @@ created: '2025-08-12'
 created_by: claude
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - deep-mother
 - eldritch-horror
 - forbidden-knowledge
+- lore
 - prophecy
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.093519'
+updated: '2025-08-13T12:34:15.910272+00:00'
 world: Both
 ---
+
 
 
 # The Deep Prophecies

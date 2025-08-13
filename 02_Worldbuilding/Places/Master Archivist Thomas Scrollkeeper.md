@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- aethermoor
+- complete
 - content/location
+- location
 - status/in-progress
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.433917'
+updated: '2025-08-13T12:34:17.179274+00:00'
 world: Aethermoor
 ---
+
 
 
 

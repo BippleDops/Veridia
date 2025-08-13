@@ -18,13 +18,17 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/npc
+- npc
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.999819'
+updated: '2025-08-13T12:34:17.659772+00:00'
 world: Aquabyssos
 ---
+
 
 
 

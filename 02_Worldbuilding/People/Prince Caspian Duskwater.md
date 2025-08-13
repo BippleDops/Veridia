@@ -18,15 +18,19 @@ race: Human
 status: draft
 tags:
 - alive
+- both
 - content/npc
+- draft
 - noble
+- npc
 - prince
 - rival
 - world/both
 type: Npc
-updated: '2025-08-12T23:37:41.042268'
+updated: '2025-08-13T12:34:17.697072+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait

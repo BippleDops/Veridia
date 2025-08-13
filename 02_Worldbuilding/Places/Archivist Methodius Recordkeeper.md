@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- both worlds
+- complete
 - content/location
+- location
 - status/in-progress
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.546866'
+updated: '2025-08-13T12:34:17.275408+00:00'
 world: Both Worlds
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-archivist-methodius-recordkeeper-archivist-methodius-recordkeeper.svg)

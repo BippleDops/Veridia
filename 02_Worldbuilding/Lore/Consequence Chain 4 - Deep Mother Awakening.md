@@ -6,21 +6,25 @@ primary_sessions:
 - 'Session 10: The Shadow Finale'
 status: complete
 tags:
+- both worlds
 - campaign/arc
+- complete
 - consciousness-evolution
 - content/lore
 - cosmic-entity
 - deep-mother
+- lore
 - primordial-contact
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.339832'
+updated: '2025-08-13T12:34:16.115309+00:00'
 visibility: 2
 world: Both Worlds
 ---
+
 
 
 

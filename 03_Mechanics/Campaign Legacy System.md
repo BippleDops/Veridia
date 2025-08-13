@@ -2,16 +2,20 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/mechanics
 - generations
+- mechanics
 - status/archived
 - status/complete
 - world/both
 title: Campaign Legacy System
 type: Mechanics
-updated: '2025-08-12T23:37:41.107435'
+updated: '2025-08-13T12:34:17.781615+00:00'
 world: Both
 ---
+
 
 
 # Campaign Legacy System

@@ -10,10 +10,13 @@ status: complete
 tags:
 - access/secret
 - banking
+- both worlds
+- complete
 - conspiracy
 - content/lore
 - corruption
 - intrigue
+- lore
 - political-manipulation
 - power-struggle
 - silverscale
@@ -22,9 +25,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.182012'
+updated: '2025-08-13T12:34:15.985128+00:00'
 world: Both Worlds
 ---
+
 
 
 

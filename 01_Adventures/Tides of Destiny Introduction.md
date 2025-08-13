@@ -11,6 +11,9 @@ level_range: 13-15
 party_size: 4-6 characters
 status: complete
 tags:
+- adventure
+- both aethermoor and aquabyssos
+- complete
 - content/adventure
 - epic
 - epic-finale
@@ -27,9 +30,10 @@ themes:
 - hero ascension
 title: Tides of Destiny - Introduction
 type: Adventure
-updated: '2025-08-12T23:37:41.149338'
+updated: '2025-08-13T12:34:17.819145+00:00'
 world: Both Aethermoor and Aquabyssos
 ---
+
 
 
 

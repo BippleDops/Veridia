@@ -10,19 +10,23 @@ primary_location: Port Meridian Noble Quarter and Crystal Throne territories
 quest_type: Political Intrigue/Identity Mystery
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/location
 - deception
 - identity
+- location
 - noble-houses
 - political-intrigue
 - status/complete
 - succession
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.012683'
+updated: '2025-08-13T12:34:16.781071+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

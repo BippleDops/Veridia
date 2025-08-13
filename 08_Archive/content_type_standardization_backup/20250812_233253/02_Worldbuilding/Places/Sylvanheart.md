@@ -3,6 +3,7 @@ tags:
 - aethermoor
 - city
 - completed
+- draft
 - druidic
 - environmental
 - forest
@@ -16,7 +17,8 @@ world: Aethermoor
 type: Location
 population: 180000
 government: Circle of Elders
-leader: '[[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]]'
+leader: '[[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid
+  Thornweaver]]'
 specialties:
 - Natural Magic
 - Environmental Harmony
@@ -25,13 +27,16 @@ specialties:
 founded: Time Immemorial
 climate: Temperate Forest
 created: '2025-08-09'
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:13.630608+00:00'
 related_entities:
-- '[[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]]'
+- '[[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant
+  Reach]]'
 - '[[02_Worldbuilding/Lore/Continental War|02 Worldbuilding/Lore/Continental War]]'
-- '[[02_Worldbuilding/Lore/The Restoration Movement|02 Worldbuilding/Lore/The Restoration Movement]]'
+- '[[02_Worldbuilding/Lore/The Restoration Movement|02 Worldbuilding/Lore/The Restoration
+  Movement]]'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-sylvanheart-sylvanheart.svg)

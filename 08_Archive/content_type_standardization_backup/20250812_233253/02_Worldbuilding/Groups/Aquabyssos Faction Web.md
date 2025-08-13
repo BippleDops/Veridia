@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.669589+00:00'
+updated: '2025-08-13T12:34:14.133789+00:00'
 world: Aquabyssos
 type: Group
 status: complete
 tags:
 - active
 - aquabyssos
+- complete
 - group
 ---
+
 
 
 > [!figure] Heraldry

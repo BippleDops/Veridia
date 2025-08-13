@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - gm_resource
+- lore
 - mechanics/social
 - mixed
 - status/complete
 - world/both
 title: Encounter Sheet — X-105 Crown–Council Summit Convoy
 type: Lore
-updated: '2025-08-12T23:37:33.051530'
+updated: '2025-08-13T12:34:03.200670+00:00'
 world: Both
 ---
+
 
 
 # X-105 Crown–Council Summit Convoy

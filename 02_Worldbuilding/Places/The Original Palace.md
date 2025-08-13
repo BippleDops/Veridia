@@ -9,17 +9,21 @@ location_type: Royal Palace
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - content/lore
 - coral
+- location
 - palace
 - royal
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.462021'
+updated: '2025-08-13T12:34:17.204343+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

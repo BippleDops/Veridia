@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both
 - changelog
+- complete
 - content/mechanics
 - documentation
+- lore
 - standardization
 - status/complete
 - world/both
 title: Mechanics Standardization Report
 type: Lore
-updated: '2025-08-12T23:37:41.113447'
+updated: '2025-08-13T12:34:17.758703+00:00'
 world: Both
 ---
+
 
 
 # Mechanics Standardization Report

@@ -7,21 +7,25 @@ primary_sessions:
 - 'Session 10: The Deep Mother Rises'
 status: complete
 tags:
+- both worlds
 - campaign/arc
+- complete
 - content/lore
 - convergence-event
 - cross-realm-politics
 - diplomatic-crisis
+- lore
 - reality-merger
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.873015'
+updated: '2025-08-13T12:34:15.042444+00:00'
 visibility: 5
 world: Both Worlds
 ---
+
 
 
 

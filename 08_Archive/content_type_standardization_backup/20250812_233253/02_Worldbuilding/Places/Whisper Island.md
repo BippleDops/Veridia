@@ -3,6 +3,7 @@ tags:
 - both aethermoor and aquabyssos
 - both-aethermoor-and-aquabyssos
 - completed
+- draft
 - island
 - isolated
 - location
@@ -15,18 +16,22 @@ status: draft
 world: Both Aethermoor and Aquabyssos
 type: Location
 danger_level: 9
-location: '[[02_Worldbuilding/Places/The Azure Coast|02 Worldbuilding/Places/The Azure Coast]] waters'
+location: '[[02_Worldbuilding/Places/The Azure Coast|02 Worldbuilding/Places/The Azure
+  Coast]] waters'
 population: Unknown (Estimated 200-500)
 government: None (Anarchic)
 climate: Temperate, frequently shrouded in mist
 size: 12 square miles
 created: '2025-08-09'
-updated: '2025-08-13T01:18:36.395958+00:00'
+updated: '2025-08-13T12:34:13.833244+00:00'
 related_entities:
-- '[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]'
+- '[[02_Worldbuilding/Groups/The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow
+  Conspiracy]]'
 - '[[02_Worldbuilding/Lore/Memory Alterations|02 Worldbuilding/Lore/Memory Alterations]]'
-- '[[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]]'
+- '[[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory
+  Meadows Black Market]]'
 ---
+
 
 
 > [!figure] View

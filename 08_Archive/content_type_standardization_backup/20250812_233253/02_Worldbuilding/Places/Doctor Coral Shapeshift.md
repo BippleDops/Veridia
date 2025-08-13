@@ -1,15 +1,17 @@
 ---
 world: Both
-updated: '2025-08-13T01:18:36.584918+00:00'
+updated: '2025-08-13T12:34:14.058433+00:00'
 created: '2025-08-11'
 status: complete
 tags:
 - active
 - both
+- complete
 - location
 type: Location
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-doctor-coral-shapeshift-doctor-coral-shapeshift.svg)

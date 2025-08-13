@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - monster
 - status/in-progress
@@ -23,9 +25,10 @@ tags:
 - ttrpg-cli/monster/type/dragon
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.771881'
+updated: '2025-08-13T12:34:06.018202+00:00'
 world: Both
 ---
+
 
 # [[3-Mechanics\CLI\bestiary\dragon/guard-drake-mpmm|Guard Drake]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  

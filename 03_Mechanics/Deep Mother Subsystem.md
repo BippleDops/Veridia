@@ -3,20 +3,24 @@ created: '2025-01-23'
 status: complete
 tags:
 - apocalypse
+- both
 - campaign/arc
+- complete
 - content/lore
 - content/mechanics
 - cosmic-entity
 - deep-mother
+- lore
 - manifestation
 - status/complete
 - world/both
 title: Complete Deep Mother Subsystem
 type: Lore
-updated: '2025-08-12T23:37:41.080641'
+updated: '2025-08-13T12:34:17.790834+00:00'
 version: 1.0
 world: Both
 ---
+
 
 
 

@@ -2,13 +2,17 @@
 created: '2025-08-12'
 status: stub
 tags:
+- aquabyssos
 - content/npc
+- npc
 - status/stub
+- stub
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.992325'
+updated: '2025-08-13T12:34:17.653391+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-investigator-supreme-lucian-brightwater-investigator-supreme-lucian-brightwater.svg)

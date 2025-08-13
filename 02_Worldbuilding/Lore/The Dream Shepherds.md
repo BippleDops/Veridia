@@ -11,8 +11,10 @@ status: draft
 tags:
 - consciousness
 - content/lore
+- draft
 - dual
 - dual_world
+- lore
 - mechanics/magic
 - protectors
 - sleep
@@ -23,9 +25,10 @@ themes:
 - boundary_guardians
 - sacrificial_vigilance
 type: Lore
-updated: '2025-08-12T23:37:37.908335'
+updated: '2025-08-13T12:34:14.815197+00:00'
 world: dual
 ---
+
 
 
 

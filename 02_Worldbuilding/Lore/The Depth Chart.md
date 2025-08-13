@@ -6,19 +6,23 @@ created_by: auto-stub
 significance: Critical Infrastructure
 status: complete
 tags:
+- aquabyssos
 - cartography
+- complete
 - content/lore
 - content/mechanics
 - innovation
+- lore
 - status/complete
 - survey-technology
 - technology
 - world/aquabyssos
 technology_type: Advanced Underwater Mapping System
 type: Lore
-updated: '2025-08-12T23:37:38.865281'
+updated: '2025-08-13T12:34:15.690646+00:00'
 world: Aquabyssos
 ---
+
 
 
 

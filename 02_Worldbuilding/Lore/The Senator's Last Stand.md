@@ -8,11 +8,14 @@ connections:
 created: '2025-08-11'
 status: draft
 tags:
+- aquabyssos
 - content/lore
 - deep_mother
+- draft
 - event
 - heroic_sacrifice
 - historical_event
+- lore
 - political_corruption
 - status/complete
 - world/aquabyssos
@@ -22,9 +25,10 @@ themes:
 - cosmic_horror_infiltration
 - heroic_final_act
 type: Lore
-updated: '2025-08-12T23:37:38.239678'
+updated: '2025-08-13T12:34:15.144228+00:00'
 world: aquabyssos
 ---
+
 
 
 

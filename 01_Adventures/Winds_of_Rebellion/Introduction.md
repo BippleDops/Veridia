@@ -5,6 +5,9 @@ created: '2025-08-11'
 estimated_sessions: '6'
 status: complete
 tags:
+- adventure
+- aethermoor
+- complete
 - content/adventure
 - levels-4-6
 - political-intrigue
@@ -17,9 +20,10 @@ themes:
 - factional-warfare
 - wind-rider-traditions
 type: Adventure
-updated: '2025-08-12T23:37:41.154126'
+updated: '2025-08-13T12:34:17.823216+00:00'
 world: Aethermoor
 ---
+
 
 
 # Winds of Rebellion

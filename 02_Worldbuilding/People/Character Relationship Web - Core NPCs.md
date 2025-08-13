@@ -2,17 +2,20 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both
 - campaign/arc
+- complete
 - content/npc
-- relationship guide
+- lore
 - relationship-guide
 - relationship-web
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:41.067499'
+updated: '2025-08-13T12:34:17.746379+00:00'
 world: Both
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-character-relationship-web-core-npcs-character-relationship-web-core-npcs.svg)

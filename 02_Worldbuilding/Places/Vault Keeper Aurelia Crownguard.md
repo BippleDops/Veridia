@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/location
+- location
 - status/in-progress
 - world/both
 type: Location
-updated: '2025-08-12T23:37:39.940477'
+updated: '2025-08-13T12:34:16.696562+00:00'
 world: Both
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-vault-keeper-aurelia-crownguard-v1-vault-keeper-aurelia-crownguard.svg)

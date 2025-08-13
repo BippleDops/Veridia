@@ -4,18 +4,22 @@ created_by: auto-stub
 expanded: 2025-08-10
 status: complete
 tags:
+- aethermoor
 - awakening
 - bloodlines
+- complete
 - content/lore
 - content/mechanics
 - inheritance
+- lore
 - mechanics/magic
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.071063'
+updated: '2025-08-13T12:34:15.000032+00:00'
 world: Aethermoor
 ---
+
 
 
 

@@ -2,12 +2,16 @@
 created: '2025-08-11'
 status: draft
 tags:
+- both
+- draft
+- lore
 - status/draft
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.000133'
+updated: '2025-08-13T12:34:17.876178+00:00'
 world: Both
 ---
+
 
 # DEPTH_ALTITUDE_CHARTS.md
 *Standardized Elevation and Pressure Reference*

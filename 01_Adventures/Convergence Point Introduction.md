@@ -6,6 +6,9 @@ level_range: 10-12
 party_size: 4-6 characters
 status: complete
 tags:
+- adventure
+- both aethermoor and aquabyssos
+- complete
 - content/adventure
 - convergence-point
 - cross-realm
@@ -20,9 +23,10 @@ themes:
 - planar convergence
 - world-shaping choices
 type: Adventure
-updated: '2025-08-12T23:37:41.147767'
+updated: '2025-08-13T12:34:17.815673+00:00'
 world: Both Aethermoor and Aquabyssos
 ---
+
 
 
 

@@ -18,13 +18,17 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
+- complete
 - content/npc
+- npc
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:41.035517'
+updated: '2025-08-13T12:34:17.691093+00:00'
 world: Aethermoor
 ---
+
 
 
 

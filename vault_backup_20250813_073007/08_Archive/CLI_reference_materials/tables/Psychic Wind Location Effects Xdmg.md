@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.378216'
+updated: '2025-08-13T12:34:18.179005+00:00'
 world: Both
 ---
+
 
 # Psychic Wind Location Effects
 *Source: Dungeon Master's Guide (2024) p. 185* 

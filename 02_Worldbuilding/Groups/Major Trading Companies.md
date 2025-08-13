@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both
+- complete
 - content/faction
 - economy
+- faction
 - merchant-princes
 - rivalries
 - status/complete
 - trading-companies
 - world/both
 type: Faction
-updated: '2025-08-12T23:37:40.625514'
+updated: '2025-08-13T12:34:17.344700+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Corporate Emblems

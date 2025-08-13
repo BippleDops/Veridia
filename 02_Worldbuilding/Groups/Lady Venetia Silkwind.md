@@ -12,17 +12,21 @@ members: ~800 artisans, merchants, and traders
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
+- complete
 - content/faction
+- faction
 - luxury-goods
 - silk-trade
 - status/complete
 - textiles
 - world/aethermoor
 type: Faction
-updated: '2025-08-12T23:37:40.633843'
+updated: '2025-08-13T12:34:17.351793+00:00'
 wealth: Exceptional (luxury goods monopoly)
 world: Aethermoor
 ---
+
 
 
 

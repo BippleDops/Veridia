@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
+- complete
 - content/npc
+- npc
 - status/in-progress
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:40.924114'
+updated: '2025-08-13T12:34:17.594472+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-kingpin-s-fall-quest-the-kingpin-s-fall.svg)

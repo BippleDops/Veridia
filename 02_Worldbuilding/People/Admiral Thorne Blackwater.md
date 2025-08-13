@@ -28,16 +28,20 @@ relationships:
   type: subordinate
 status: complete
 tags:
+- both
 - campaign/hook
+- complete
 - content/npc
 - military
+- npc
 - status/complete
 - world/aquabyssos
 - world/both
 type: Npc
-updated: '2025-08-12T23:37:41.047676'
+updated: '2025-08-13T12:34:17.702949+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait

@@ -6,7 +6,10 @@ level_range: 3-4
 session_number: 5
 status: complete
 tags:
+- adventure
+- aquabyssos
 - campaign/session
+- complete
 - confrontation
 - conspiracy
 - diplomatic-crisis
@@ -15,9 +18,10 @@ tags:
 - world/aquabyssos
 title: 'The Sunken Conspiracy - Session 5: Conspiracy Revealed'
 type: Adventure
-updated: '2025-08-12T23:37:41.160194'
+updated: '2025-08-13T12:34:17.826031+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Session 5: Conspiracy Revealed

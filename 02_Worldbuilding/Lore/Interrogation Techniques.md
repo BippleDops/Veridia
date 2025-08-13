@@ -3,17 +3,21 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - interrogation
 - law-enforcement
+- lore
 - mechanics/exploration
 - status/complete
 - techniques
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.646529'
+updated: '2025-08-13T12:34:15.477839+00:00'
 world: Aquabyssos
 ---
+
 
 
 

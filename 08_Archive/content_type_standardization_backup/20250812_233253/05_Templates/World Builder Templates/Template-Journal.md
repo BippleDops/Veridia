@@ -10,7 +10,7 @@ type: Lore
 sessionDate: 2000-01-01
 players: 2
 Status:
-- "\u23F3"
+- ⏳
 OneLiner: 1 Line Summary
 timelines:
 - journal
@@ -18,15 +18,17 @@ tags:
 - '#category/journal'
 - active
 - both
+- complete
 - journal
 - lore
 - session-journal
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:31.187744+00:00'
+updated: '2025-08-13T12:34:11.670697+00:00'
 created: '2025-08-11'
 status: complete
 ---
+
 
 
 

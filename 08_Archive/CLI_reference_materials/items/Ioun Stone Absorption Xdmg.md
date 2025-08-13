@@ -8,15 +8,18 @@ modified: 2025-07-23 12:39
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - content/item
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.645202'
+updated: '2025-08-13T12:34:07.293248+00:00'
 world: Both
 ---
+
 
 # Ioun Stone, Absorption
 *Wondrous item, very rare (requires attunement)*  

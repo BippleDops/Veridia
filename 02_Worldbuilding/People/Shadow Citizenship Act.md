@@ -6,18 +6,22 @@ created_by: auto-stub
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - citizenship
+- complete
 - content/lore
 - content/npc
 - law
+- npc
 - politics
 - shadow
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.938133'
+updated: '2025-08-13T12:34:17.606281+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

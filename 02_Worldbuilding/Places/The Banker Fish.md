@@ -7,17 +7,21 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - bank
+- complete
 - content/location
 - finance
+- location
 - maritime-banking
 - pearl-economy
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.401153'
+updated: '2025-08-13T12:34:17.147840+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-banker-fish-the-banker-fish.svg)

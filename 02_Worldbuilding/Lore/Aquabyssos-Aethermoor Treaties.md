@@ -4,7 +4,10 @@ created_by: auto-stub
 expanded: 2025-08-10
 status: complete
 tags:
+- aethermoor
+- complete
 - content/lore
+- lore
 - mechanics/social
 - peace
 - politics
@@ -14,9 +17,10 @@ tags:
 - world/aethermoor
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.369442'
+updated: '2025-08-13T12:34:16.140916+00:00'
 world: Aethermoor
 ---
+
 
 
 

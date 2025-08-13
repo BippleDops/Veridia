@@ -9,21 +9,26 @@ notable_resources:
 - Crystal Songs
 - Memory Crystals
 - Corrupted Shards
-parent_location: '[[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The Sundered Peaks]]'
+parent_location: '[[02_Worldbuilding/Places/The Sundered Peaks|02 Worldbuilding/Places/The
+  Sundered Peaks]]'
 status: complete
 tags:
+- both
 - caverns
+- complete
 - content/location
 - dangerous
+- location
 - mechanics/magic
 - status/in-progress
 - underground
 - world/aethermoor
 - world/both
 type: Location
-updated: '2025-08-12T23:37:39.835912'
+updated: '2025-08-13T12:34:16.582331+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View

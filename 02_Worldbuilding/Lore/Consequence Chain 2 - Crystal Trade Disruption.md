@@ -5,18 +5,22 @@ primary_sessions:
 - 'Session 04: The Silverscale Gambit'
 status: complete
 tags:
+- aethermoor
 - campaign/arc
+- complete
 - content/lore
 - economic-warfare
 - financial-corruption
+- lore
 - silverscale-consortium
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.092698'
+updated: '2025-08-13T12:34:15.018904+00:00'
 visibility: 4
 world: Aethermoor
 ---
+
 
 
 # Consequence Chain 2: Crystal Trade Disruption

@@ -7,17 +7,21 @@ level: 10-15
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
 - apocalyptic
+- complete
 - content/adventure
 - content/lore
 - high-stakes
+- lore
 - ritual
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:37.755668'
+updated: '2025-08-13T12:34:14.670361+00:00'
 world: Aethermoor
 ---
+
 
 
 

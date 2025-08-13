@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/mtf
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.610071'
+updated: '2025-08-13T12:34:04.055743+00:00'
 world: Both
 ---
+
 
 # Gith Tables; Githyanki Names, Male
 *Source: Mordenkainen's Tome of Foes p. 97* 

@@ -3,14 +3,16 @@ tags:
 - active
 - both aethermoor & aquabyssos
 - both-aethermoor-&-aquabyssos
+- complete
 - lore
 - quest
 type: Lore
 world: Both Aethermoor & Aquabyssos
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.178916+00:00'
+updated: '2025-08-13T12:34:12.583853+00:00'
 ---
+
 
 
 

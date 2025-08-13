@@ -5,6 +5,7 @@ tags:
 - completed
 - critical
 - deep
+- draft
 - fortress
 - location
 - magical-barrier-fortress
@@ -22,8 +23,9 @@ created: '2025-08-12'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-12T00:00:00+00:00'
+updated: '2025-08-13T12:34:14.043225+00:00'
 ---
+
 
 
 > [!figure] View

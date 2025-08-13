@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/dmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.199545'
+updated: '2025-08-13T12:34:18.116079+00:00'
 world: Both
 ---
+
 
 # Random Settlements; Ruler's Status
 *Source: Dungeon Master's Guide p. 112* 

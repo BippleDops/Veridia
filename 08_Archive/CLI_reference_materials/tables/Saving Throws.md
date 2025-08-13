@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/dmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.735908'
+updated: '2025-08-13T12:34:03.858440+00:00'
 world: Both
 ---
+
 
 # Saving Throws
 *Source: Dungeon Master's Guide p. 238* 

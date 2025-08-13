@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - monster
 - status/in-progress
@@ -18,9 +20,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.219149'
+updated: '2025-08-13T12:34:05.453833+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Creature

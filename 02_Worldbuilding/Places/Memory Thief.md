@@ -6,17 +6,21 @@ class: Rogue/Enchanter
 created: '2025-08-08'
 created_by: auto-stub
 danger_level: High
-faction: '[[02_Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory Thieves Guil]]'
+faction: '[[02_Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory
+  Thieves Guil]]'
 influence: Moderate
 location: '[[The Shadow Markets]]'
 obsidianUIMode: preview
 race: Changeling
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/location
 - content/npc
 - dangerous
+- location
 - mechanics/magic
 - memory-thief
 - mental-crime
@@ -25,9 +29,10 @@ tags:
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.182337'
+updated: '2025-08-13T12:34:16.950522+00:00'
 world: Aquabyssos
 ---
+
 
 
 

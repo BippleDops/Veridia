@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - monster
 - status/in-progress
@@ -17,9 +19,10 @@ tags:
 - ttrpg-cli/monster/type/dragon/chromatic
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.769873'
+updated: '2025-08-13T12:34:06.019050+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Creature

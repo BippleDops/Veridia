@@ -18,6 +18,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - content/lore
 - importance/core
 - mechanics/magic
@@ -27,9 +29,10 @@ tags:
 - world/both
 - world/surface
 type: note
-updated: '2025-08-12T23:37:36.438926'
+updated: '2025-08-13T12:34:06.498441+00:00'
 world: Both
 ---
+
 
 # Freedom of Movement
 *4th-level, Abjuration*  

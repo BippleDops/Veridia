@@ -2,18 +2,21 @@
 created: '2025-08-12'
 status: draft
 tags:
+- aquabyssos
 - authoritative
 - canonical
 - content/lore
-- master reference
+- draft
+- lore
 - master-reference
 - reference
 - timeline
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:33.001955'
+updated: '2025-08-13T12:34:03.157098+00:00'
 world: Aquabyssos
 ---
+
 
 
 

@@ -5,18 +5,22 @@ cssclasses:
 - index-page
 status: complete
 tags:
+- both
+- complete
 - comprehensive
 - content/lore
 - index
+- lore
 - reference
 - status/complete
 - world-bible
 - world/both
 title: World Bible Index
 type: Lore
-updated: '2025-08-12T23:37:33.007339'
+updated: '2025-08-13T12:34:03.173748+00:00'
 world: Both
 ---
+
 
 
 # 📖 World Bible Index

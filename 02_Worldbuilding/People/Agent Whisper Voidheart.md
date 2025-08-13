@@ -2,7 +2,8 @@
 alignment: Lawful Evil
 class: Rogue/Warlock
 created: '2025-08-12'
-faction: '[[02_Worldbuilding/Groups/The Shadow Conspiracy Hierarchy|02 Worldbuilding/Groups/The Shadow Conspiracy Hierarchy]]'
+faction: '[[02_Worldbuilding/Groups/The Shadow Conspiracy Hierarchy|02 Worldbuilding/Groups/The
+  Shadow Conspiracy Hierarchy]]'
 hierarchy_rank: Shadow Agent (6th Sphere)
 level: 11
 location: '[[02_Worldbuilding/Places/Crystallium|02 Worldbuilding/Places/Crystallium]]'
@@ -10,16 +11,20 @@ race: Human (Shadow-Enhanced)
 specialization: Government Infiltration
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/npc
 - infiltration
+- npc
 - operative
 - shadow-conspiracy
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.817442'
+updated: '2025-08-13T12:34:17.505999+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-agent-whisper-voidheart-agent-whisper-voidheart.svg)

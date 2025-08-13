@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - genealogy
+- lore
 - noble-houses
 - politics
 - relationships
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.486482'
+updated: '2025-08-13T12:34:15.350705+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Noble House Genealogies

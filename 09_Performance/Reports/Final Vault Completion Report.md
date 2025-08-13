@@ -3,16 +3,20 @@ campaign: Aquabyssos & Aethermoor
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - completion-report
 - content/location
 - final-summary
+- location
 - status/complete
 - vault-status
 - world/both
 type: Location
-updated: '2025-08-12T23:37:33.003135'
+updated: '2025-08-13T12:34:03.154003+00:00'
 world: Both
 ---
+
 
 
 # 🎯 FINAL VAULT COMPLETION REPORT

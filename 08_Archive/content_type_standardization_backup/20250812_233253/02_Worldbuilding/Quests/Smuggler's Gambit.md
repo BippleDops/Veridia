@@ -1,14 +1,16 @@
 ---
 created: '2024-01-01'
-updated: '2025-08-13T04:22:13.310422+00:00'
+updated: '2025-08-13T12:34:11.719312+00:00'
 world: Both
 status: complete
 tags:
 - active
 - both
+- complete
 - quest
 type: Quest
 ---
+
 
 
 

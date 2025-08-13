@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - content/lore
 - gm_resource
+- lore
 - status/complete
 - world/aethermoor
 - world/both
 title: Encounter Sheet — S-L-02 Void Curtain Eclipse
 type: Lore
-updated: '2025-08-12T23:37:33.047354'
+updated: '2025-08-13T12:34:03.202438+00:00'
 world: Both
 ---
+
 
 
 # S-L-02 Void Curtain Eclipse

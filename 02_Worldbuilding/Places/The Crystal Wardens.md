@@ -9,10 +9,13 @@ obsidianUIMode: preview
 security_level: high
 status: complete
 tags:
+- aethermoor
+- complete
 - content/faction
 - content/location
 - elite
 - guardian
+- location
 - mechanics/magic
 - military
 - order
@@ -20,9 +23,10 @@ tags:
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.032282'
+updated: '2025-08-13T12:34:16.797550+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-crystal-wardens-the-crystal-wardens.svg)

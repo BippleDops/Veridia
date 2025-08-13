@@ -2,6 +2,7 @@
 tags:
 - active
 - aquabyssos
+- complete
 - lore
 - parliament-of-shadows
 - session
@@ -19,10 +20,12 @@ locations_visited:
 - '[[The Convergence Point]]'
 - '[[Tidal Chambers]]'
 npcs_met:
-- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess
+  Nyx]]'
 - '[[Shadow Nyx]]'
 - '[[The Real Marina]]'
-- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] (United)'
+- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered
+  Emperor]] (United)'
 encounters:
 - '[[Shadow Surgeons Collective]]'
 - '[[Hybrid Abominations]]'
@@ -54,10 +57,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: '2025-08-13T01:18:37.177485+00:00'
+updated: '2025-08-13T12:34:14.629962+00:00'
 created: '2025-08-11'
 status: complete
 ---
+
 
 
 

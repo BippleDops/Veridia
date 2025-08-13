@@ -9,17 +9,21 @@ scope: Realm-wide
 significance: Major
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/location
 - law-enforcement
+- location
 - military
 - security
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.107898'
+updated: '2025-08-13T12:34:16.871974+00:00'
 world: Aquabyssos
 ---
+
 
 
 

@@ -3,16 +3,20 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - deception
 - illusion
+- lore
 - mechanics/magic
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.638677'
+updated: '2025-08-13T12:34:16.474184+00:00'
 world: Aquabyssos
 ---
+
 
 
 # The Illusion School: Veils of Reality and Dreams

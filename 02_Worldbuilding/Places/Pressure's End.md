@@ -11,15 +11,19 @@ obsidianUIMode: preview
 population: 35000 - Category/Place
 status: complete
 tags:
+- both
+- complete
 - content/location
+- location
 - midnight_expanse
 - status/archived
 - status/in-progress
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.171729'
+updated: '2025-08-13T12:34:16.939401+00:00'
 world: Both
 ---
+
 
 
 

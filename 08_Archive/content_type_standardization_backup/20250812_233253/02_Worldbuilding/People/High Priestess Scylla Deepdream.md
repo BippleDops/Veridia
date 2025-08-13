@@ -1,30 +1,15 @@
 ---
-tags:
-- active - category/people
-- active
-status: draft
----category/people
-- aquabyssos
-- both
-- high-priestess
-- npc
-- transformed
-- villain
-type: NPC
-location: '[[Abyssal Cathedral]]'
-faction: '[[The Wake]]'
-race: Depth Evolved (Former Human)
-class: Cleric/Warlock
-level: 18
-alignment: Lawful Evil
-status: Active - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+created: null
+updated: '2025-08-13T12:34:14.425698+00:00'
 world: Both
-updated: '2025-08-13T01:18:36.921705+00:00'
-created: 2025-08-11
+type: NPC
+status: active
+tags:
+- active
+- both
+- npc
 ---
+
 
 
 > [!figure] Portrait

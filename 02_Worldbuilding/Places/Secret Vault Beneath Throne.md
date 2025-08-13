@@ -10,17 +10,21 @@ security_level: maximum
 status: complete
 tags:
 - access/secret
+- aethermoor
+- complete
 - conspiracy
 - content/location
+- location
 - royal
 - status/complete
 - treasury
 - vault
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:39.913481'
+updated: '2025-08-13T12:34:16.673858+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

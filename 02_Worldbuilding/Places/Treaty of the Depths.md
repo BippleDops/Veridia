@@ -12,10 +12,13 @@ significance: Foundational
 status: complete
 tags:
 - agreement
+- both worlds
+- complete
 - content/location
 - content/lore
 - inter-realm
 - law
+- location
 - mechanics/social
 - politics
 - status/complete
@@ -25,9 +28,10 @@ tags:
 - world/both
 time_period: Current Era
 type: Location
-updated: '2025-08-12T23:37:39.759181'
+updated: '2025-08-13T12:34:16.538517+00:00'
 world: Both Worlds
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-treaty-of-the-depths-treaty-of-the-depths.svg)

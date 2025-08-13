@@ -2,6 +2,7 @@
 tags:
 - available
 - both
+- draft
 - economic
 - espionage
 - international
@@ -17,9 +18,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:34.466567+00:00'
+updated: '2025-08-13T12:34:11.692917+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

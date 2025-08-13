@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xmm
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.706570'
+updated: '2025-08-13T12:34:18.197852+00:00'
 world: Both
 ---
+
 
 # Monsters by Habitat; Underdark Monsters
 *Source: Monster Manual (2024) p. 375* 

@@ -10,10 +10,13 @@ significance: Major Conspiracy Element
 status: complete
 tags:
 - access/secret
+- aethermoor
+- complete
 - conspiracy
 - content/lore
 - identity
 - infiltration
+- lore
 - mechanics/exploration
 - mystery
 - political-manipulation
@@ -21,9 +24,10 @@ tags:
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:39.407224'
+updated: '2025-08-13T12:34:16.170341+00:00'
 world: Aethermoor
 ---
+
 
 
 

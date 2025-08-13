@@ -36,8 +36,10 @@ related_quests:
 - '[[The Bloodline Awakens]]'
 relationship_type: complicated
 relationships:
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]]'
 - '[[Jasper Three-Eyes Flint]]'
 - '[[Lord Aurelius Goldwave]]'
 - '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
@@ -58,18 +60,22 @@ stats:
   wis: 14
 status: complete
 tags:
+- both
+- complete
 - content/npc
 - guardian
 - information-broker
+- npc
 - status/in-progress
 - world/aethermoor
 - world/aquabyssos
 - world/both
 true_occupation: Guardian of the Bloodline
 type: Npc
-updated: '2025-08-12T23:37:40.890914'
+updated: '2025-08-13T12:34:17.565234+00:00'
 world: Both
 ---
+
 
 
 

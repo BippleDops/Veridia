@@ -2,12 +2,16 @@
 created: null
 status: draft
 tags:
+- both
+- draft
+- lore
 - status/draft
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:32.989037'
+updated: '2025-08-13T12:34:03.149296+00:00'
 world: Both
 ---
+
 
 # Vault Enhancement Roadmap - Cordelia World Building
 

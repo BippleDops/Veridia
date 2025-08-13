@@ -7,15 +7,19 @@ session_ready: true
 status: complete
 tags:
 - campaign/session
+- complete
 - content/item
 - content/lore
+- lore
 - quick-reference
 - status/complete
+- universal
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:32.979832'
+updated: '2025-08-13T12:34:03.150202+00:00'
 world: Universal
 ---
+
 
 
 

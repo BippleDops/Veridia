@@ -39,14 +39,18 @@ siblings:
 - Flip
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - content/npc
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.118953'
+updated: '2025-08-13T12:34:03.273430+00:00'
 world: Both
 ---
+
 
 
 

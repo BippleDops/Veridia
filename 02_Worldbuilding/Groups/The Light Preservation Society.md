@@ -10,15 +10,19 @@ purpose: Preserve human identity and resist shadow integration
 status: complete
 tags:
 - anti-shadow
+- aquabyssos
+- complete
 - content/faction
+- faction
 - preservation
 - resistance
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.612468'
+updated: '2025-08-13T12:34:17.333218+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-light-preservation-society-the-light-preservation-society.svg)

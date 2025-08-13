@@ -2,16 +2,20 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
 - airships
+- complete
 - content/mechanics
+- mechanics
 - status/complete
 - vehicles
 - world/aethermoor
 title: Aethermoor Airships
 type: Mechanics
-updated: '2025-08-12T23:37:41.144542'
+updated: '2025-08-13T12:34:17.789733+00:00'
 world: Aethermoor
 ---
+
 
 
 # Aethermoor Airships

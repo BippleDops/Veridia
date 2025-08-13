@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both
+- complete
 - content/adventure
 - content/mechanics
 - content/npc
 - economy
+- mechanics
 - merchants
 - status/complete
 - world/both
 type: Mechanics
-updated: '2025-08-12T23:37:41.106028'
+updated: '2025-08-13T12:34:17.791773+00:00'
 world: Both
 ---
+
 
 > [!figure] Merchant Types
 ![](04_Resources/Assets/NPCs/npc-merchants-merchant-npc-generator.svg)

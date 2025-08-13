@@ -12,6 +12,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - content/lore
 - mechanics/magic
 - note
@@ -20,9 +22,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.452641'
+updated: '2025-08-13T12:34:20.747279+00:00'
 world: Both
 ---
+
 
 # Conjure Elemental
 *5th-level, Conjuration*  

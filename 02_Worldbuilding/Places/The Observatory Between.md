@@ -4,16 +4,20 @@ danger_level: High
 restricted_access: true
 status: complete
 tags:
+- both
+- complete
 - content/location
+- location
 - observatory
 - status/in-progress
 - world/aethermoor
 - world/aquabyssos
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.412745'
+updated: '2025-08-13T12:34:17.158836+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View

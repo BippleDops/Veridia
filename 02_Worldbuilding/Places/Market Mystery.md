@@ -4,17 +4,21 @@ created_by: auto-stub
 danger_level: Moderate
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/location
+- location
 - market
 - mechanics/exploration
 - mystery
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.294325'
+updated: '2025-08-13T12:34:17.052505+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

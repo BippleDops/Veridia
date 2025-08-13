@@ -11,18 +11,22 @@ obsidianUIMode: preview
 owner: Abyssos Prime Government
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/location
 - content/mechanics
 - engineering
+- location
 - status/complete
 - transportation
 - travel-hub
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.903715'
+updated: '2025-08-13T12:34:16.644778+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

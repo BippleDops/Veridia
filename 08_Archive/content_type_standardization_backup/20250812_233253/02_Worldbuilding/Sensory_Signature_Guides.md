@@ -1,12 +1,14 @@
 ---
 created: null
-updated: '2025-08-13T01:18:34.464830+00:00'
+updated: '2025-08-13T12:34:11.690564+00:00'
 world: Both
 status: complete
 tags:
 - active
 - both
+- complete
 ---
+
 
 # Sensory Signature Guides
 ## Regional Environmental Characteristics

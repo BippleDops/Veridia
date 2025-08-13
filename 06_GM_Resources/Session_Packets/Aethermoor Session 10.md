@@ -4,13 +4,17 @@ created: null
 session_number: 10
 status: complete
 tags:
+- aethermoor
 - campaign/session
+- complete
+- lore
 - world/aethermoor
 title: Session Packet — Aethermoor Session 10
 type: Lore
-updated: '2025-08-12T23:37:33.028600'
+updated: '2025-08-13T12:34:03.184144+00:00'
 world: Aethermoor
 ---
+
 
 
 # Session Packet — Aethermoor 10

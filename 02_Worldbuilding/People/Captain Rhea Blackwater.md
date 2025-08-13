@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/npc
+- npc
 - status/in-progress
 - world/both
 type: Npc
-updated: '2025-08-12T23:37:41.041321'
+updated: '2025-08-13T12:34:17.696308+00:00'
 world: Both
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-rhea-blackwater-captain-rhea-blackwater.svg)

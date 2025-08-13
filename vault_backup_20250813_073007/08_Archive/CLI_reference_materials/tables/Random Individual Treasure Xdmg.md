@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.598048'
+updated: '2025-08-13T12:34:18.295806+00:00'
 world: Both
 ---
+
 
 # Random Individual Treasure
 *Source: Dungeon Master's Guide (2024) p. 120* 

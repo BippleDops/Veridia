@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- aethermoor
+- complete
 - content/location
+- location
 - status/in-progress
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:39.916709'
+updated: '2025-08-13T12:34:16.676664+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-quartermaster-sterling-suppystone-quartermaster-sterling-suppystone.svg)

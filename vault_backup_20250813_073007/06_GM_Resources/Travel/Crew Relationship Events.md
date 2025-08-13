@@ -3,16 +3,20 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
+- complete
 - crew
 - gm_resource
+- lore
 - status/complete
 - travel
 - world/both
 title: Crew Relationship Events
 type: Lore
-updated: '2025-08-12T23:37:33.032081'
+updated: '2025-08-13T12:34:17.898714+00:00'
 world: Both
 ---
+
 
 
 # Crew Relationship Events

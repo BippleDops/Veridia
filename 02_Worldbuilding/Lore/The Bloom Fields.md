@@ -10,19 +10,23 @@ seasonal_variation: Bioluminescent Tide Cycles
 significance: Critical Ecosystem
 status: complete
 tags:
+- aquabyssos
 - aquatic-ecology
+- complete
 - content/lore
 - content/mechanics
 - environmental-phenomenon
 - environmental-zone
+- lore
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.304897'
+updated: '2025-08-13T12:34:16.084882+00:00'
 world: Aquabyssos
 zone_type: Bioluminescent Agricultural Complex
 ---
+
 
 
 

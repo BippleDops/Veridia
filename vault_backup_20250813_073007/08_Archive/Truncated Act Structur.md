@@ -3,13 +3,17 @@ created: 2025-08-11
 obsidianUIMode: preview
 status: complete
 tags:
+- campaign
 - campaign/arc
+- complete
 - status/complete
+- universal
 - world/both
 type: campaign
-updated: '2025-08-12T23:37:33.149536'
+updated: '2025-08-13T12:34:17.996366+00:00'
 world: Universal
 ---
+
 
 
 # Faction War Campaign

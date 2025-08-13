@@ -1,31 +1,15 @@
 ---
-type: Npc
-status: draft
-tags:
-- active - category/people
-- active
----category/people
-- anti-hero
-- both
-- crystal-infected
-- mercenary
-- npc
-- whisper-syndicate
-type: NPC
-location: Mobile (Currently [[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]])
-faction: Independent (Former Crystal Wardens)
-race: Human (Crystal-Touched)
-class: Fighter/Blood Hunter
-level: 8
-alignment: Chaotic Neutral
-status: Active - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+created: null
+updated: '2025-08-13T12:34:17.613272+00:00'
 world: Both
-updated: '2025-08-13T01:18:36.959692+00:00'
-created: 2025-08-11
+type: NPC
+status: active
+tags:
+- active
+- both
+- npc
 ---
+
 
 
 > [!figure] Portrait

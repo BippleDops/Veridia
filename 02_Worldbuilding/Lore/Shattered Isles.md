@@ -8,21 +8,25 @@ location_type: Dangerous Archipelago
 scope: Regional
 status: complete
 tags:
+- aquabyssos
 - campaign/arc
+- complete
 - content/location
 - content/lore
 - dangerous-region
 - fractured-reality
 - isolation
+- lore
 - mechanics/exploration
 - status/complete
 - void-influence
 - world/aethermoor
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.966661'
+updated: '2025-08-13T12:34:14.885500+00:00'
 world: Aquabyssos
 ---
+
 
 
 

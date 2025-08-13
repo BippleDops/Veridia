@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - monster
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xmm
@@ -17,9 +19,10 @@ tags:
 - ttrpg-cli/monster/type/fiend
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.570190'
+updated: '2025-08-13T12:34:05.807239+00:00'
 world: Both
 ---
+
 
 # [[3-Mechanics\CLI\bestiary\fiend/lamia-xmm|Lamia]]
 *Source: Monster Manual (2024) p. 192. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

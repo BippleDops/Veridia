@@ -14,6 +14,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - content/lore
 - mechanics/magic
@@ -22,9 +24,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/scc
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.537191'
+updated: '2025-08-13T12:34:20.702727+00:00'
 world: Both
 ---
+
 
 # Silvery Barbs
 *1st-level, Enchantment*  

@@ -3,18 +3,22 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/mechanics
 - corruption
+- lore
 - madness
 - mental-effects
 - psychological
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.254984'
+updated: '2025-08-13T12:34:15.155878+00:00'
 world: Aquabyssos
 ---
+
 
 
 

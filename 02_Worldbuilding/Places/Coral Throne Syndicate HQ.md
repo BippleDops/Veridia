@@ -1,29 +1,36 @@
 ---
 category: Fortress/Stronghold
-controlled_by: '[[02_Worldbuilding/Groups/Coral Throne Syndicate|02 Worldbuilding/Groups/Coral Throne Syndicate]]'
+controlled_by: '[[02_Worldbuilding/Groups/Coral Throne Syndicate|02 Worldbuilding/Groups/Coral
+  Throne Syndicate]]'
 created: '2025-08-10'
 danger_level: Very High
 depth: 1800-2200 feet
 difficulty: Levels 8-15
 population: 500+ (guards, staff, prisoners)
 related_entities:
-- '[[02_Worldbuilding/Groups/Coral Throne Syndicate|02 Worldbuilding/Groups/Coral Throne Syndicate]]'
+- '[[02_Worldbuilding/Groups/Coral Throne Syndicate|02 Worldbuilding/Groups/Coral
+  Throne Syndicate]]'
 - '[[Coral Empress Scarletina]]'
-- '[[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson Reef]]'
+- '[[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson
+  Reef]]'
 ruler: '[[Coral Empress Scarletina]]'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/location
 - coral-formation
 - headquarters
+- location
 - status/archived
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.522452'
+updated: '2025-08-13T12:34:17.255195+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-coral-throne-syndicate-hq-coral-throne-syndicate-hq.svg)

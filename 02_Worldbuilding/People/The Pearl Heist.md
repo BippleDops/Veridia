@@ -6,17 +6,21 @@ created_by: auto-stub
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/npc
 - crime
 - heist
+- npc
 - pearl
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.944276'
+updated: '2025-08-13T12:34:17.612009+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

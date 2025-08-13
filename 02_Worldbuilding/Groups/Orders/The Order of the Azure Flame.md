@@ -9,15 +9,19 @@ modified: 2025-07-23 18:50
 obsidianUIMode: preview
 status: complete
 tags:
+- both
+- complete
 - content/faction
+- faction
 - mechanics/magic
 - status/in-progress
 - world/both
 - zealots
 type: Faction
-updated: '2025-08-12T23:37:40.738838'
+updated: '2025-08-13T12:34:17.442762+00:00'
 world: Both
 ---
+
 
 
 

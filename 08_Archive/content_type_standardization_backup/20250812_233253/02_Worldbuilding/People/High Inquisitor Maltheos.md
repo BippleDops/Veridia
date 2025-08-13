@@ -1,6 +1,6 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:37.005137+00:00'
+updated: '2025-08-13T12:34:14.510944+00:00'
 world: Aethermoor
 type: NPC
 status: complete
@@ -8,11 +8,13 @@ tags:
 - active
 - aethermoor
 - anti-crystal
+- complete
 - npc
 - political-opposition
 - purist-coalition
 - religious-leader
 ---
+
 
 
 > [!figure] Portrait

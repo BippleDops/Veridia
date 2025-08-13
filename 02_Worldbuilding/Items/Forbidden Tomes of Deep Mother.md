@@ -4,9 +4,12 @@ created_by: claude
 status: complete
 tags:
 - books
+- both
+- complete
 - content/item
 - deep-mother
 - forbidden-knowledge
+- item
 - sanity-cost
 - status/complete
 - tomes
@@ -14,9 +17,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Item
-updated: '2025-08-12T23:37:41.073945'
+updated: '2025-08-13T12:34:17.752704+00:00'
 world: Both
 ---
+
 
 
 # Forbidden Tomes of Deep Mother

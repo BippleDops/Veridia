@@ -7,17 +7,21 @@ created_by: auto-stub
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/npc
 - corruption
 - death
 - forest
+- npc
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:40.802420'
+updated: '2025-08-13T12:34:17.495333+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait

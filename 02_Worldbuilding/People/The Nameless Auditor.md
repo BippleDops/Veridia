@@ -1,5 +1,6 @@
 ---
-affiliation: '[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales'
+affiliation: '[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale
+  Consortium]] - Board of Scales'
 age: Unknown
 created: '2025-08-09'
 created_by: auto-stub
@@ -8,17 +9,21 @@ race: Unknown (appears human)
 role: Scale of Information
 status: complete
 tags:
+- aethermoor
+- complete
 - content/npc
 - information-broker
 - mysterious
+- npc
 - silverscale-consortium
 - spymaster
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:40.870192'
+updated: '2025-08-13T12:34:17.547712+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait

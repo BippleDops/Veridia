@@ -5,16 +5,20 @@ danger_level: Moderate
 status: complete
 tags:
 - ancient-evil
+- aquabyssos
+- complete
 - content/adventure
 - content/location
+- location
 - ritual
 - status/complete
 - supernatural
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.306784'
+updated: '2025-08-13T12:34:17.063340+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

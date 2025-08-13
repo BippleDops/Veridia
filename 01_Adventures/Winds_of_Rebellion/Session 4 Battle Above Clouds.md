@@ -7,7 +7,10 @@ session_number: 4
 session_type: Large-Scale Aerial Combat & Political Crisis
 status: complete
 tags:
+- adventure
+- aethermoor
 - civil-war
+- complete
 - content/adventure
 - levels-4-6
 - status/in-progress
@@ -19,9 +22,10 @@ themes:
 - mass-combat
 - political-consequences
 type: Adventure
-updated: '2025-08-12T23:37:41.151966'
+updated: '2025-08-13T12:34:17.820846+00:00'
 world: Aethermoor
 ---
+
 
 
 # Session 4: Battle Above Clouds

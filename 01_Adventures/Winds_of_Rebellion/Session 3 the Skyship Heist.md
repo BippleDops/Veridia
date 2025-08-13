@@ -7,6 +7,9 @@ session_number: 3
 session_type: Heist & Aerial Infiltration
 status: complete
 tags:
+- adventure
+- aethermoor
+- complete
 - content/adventure
 - levels-4-6
 - status/in-progress
@@ -18,9 +21,10 @@ themes:
 - evidence-gathering
 - naval-politics
 type: Adventure
-updated: '2025-08-12T23:37:41.156066'
+updated: '2025-08-13T12:34:17.821676+00:00'
 world: Aethermoor
 ---
+
 
 
 # Session 3: The Skyship Heist

@@ -11,18 +11,22 @@ obsidianUIMode: preview
 owner: '[[Keeper Elara Mindwell]]'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - dangerous
 - entertainment
 - gallery
+- location
 - mechanics/magic
 - memory
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.091923'
+updated: '2025-08-13T12:34:16.856563+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

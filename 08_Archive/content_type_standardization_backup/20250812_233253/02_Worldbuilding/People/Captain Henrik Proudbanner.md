@@ -2,13 +2,15 @@
 tags:
 - active
 - aethermoor
+- complete
 - npc
 type: NPC
 world: Aethermoor
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.864456+00:00'
+updated: '2025-08-13T12:34:14.365842+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-henrik-proudbanner-captain-henrik-proudbanner.svg)

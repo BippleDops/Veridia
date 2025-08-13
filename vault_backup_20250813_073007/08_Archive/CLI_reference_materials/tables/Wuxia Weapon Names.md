@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/dmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.717534'
+updated: '2025-08-13T12:34:18.273460+00:00'
 world: Both
 ---
+
 
 # Wuxia Weapon Names
 *Source: Dungeon Master's Guide p. 41* 

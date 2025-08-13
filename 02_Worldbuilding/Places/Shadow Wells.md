@@ -1,5 +1,6 @@
 ---
-affiliation: '[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] (Natural Phenomenon)'
+affiliation: '[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep
+  Mother]] (Natural Phenomenon)'
 created: '2025-08-09'
 created_by: auto-stub
 danger_level: Moderate
@@ -9,15 +10,19 @@ significance: Major (Deep Mother Activity)
 size: Multiple Sites Throughout Realm
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - deep-mother
+- location
 - shadow-manifestation
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.150455'
+updated: '2025-08-13T12:34:16.917740+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-shadow-wells-shadow-wells.svg)

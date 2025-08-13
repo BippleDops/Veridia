@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both
 - campaign/arc
 - campaign/consequence
+- complete
 - content/faction
 - content/item
 - content/template
 - status/complete
+- template
 - world/both
 type: Template
-updated: '2025-08-12T23:37:33.110819'
+updated: '2025-08-13T12:34:03.277260+00:00'
 world: Both
 ---
+
 
 
 # Political Ripple Effects Template

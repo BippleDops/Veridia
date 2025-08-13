@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - monster
 - status/in-progress
@@ -24,9 +26,10 @@ tags:
 - world/both
 - world/surface
 type: monster
-updated: '2025-08-12T23:37:35.083739'
+updated: '2025-08-13T12:34:05.373388+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Creature

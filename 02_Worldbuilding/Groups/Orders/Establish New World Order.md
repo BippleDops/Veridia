@@ -14,16 +14,20 @@ obsidianUIMode: preview
 purpose: Systematic governmental reform through crystal-enhanced governance
 status: complete
 tags:
+- aethermoor
+- complete
 - content/faction
+- faction
 - institutional-reform
 - moderates
 - political-movement
 - status/complete
 - world/aethermoor
 type: Faction
-updated: '2025-08-12T23:37:40.743393'
+updated: '2025-08-13T12:34:17.446990+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-establish-new-world-order-establish-new-world-order.svg)

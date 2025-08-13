@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
 - commercial-district
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.795880'
+updated: '2025-08-13T12:34:15.631973+00:00'
 world: Aethermoor
 ---
+
 
 
 

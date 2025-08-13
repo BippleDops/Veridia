@@ -1,14 +1,16 @@
 ---
 created: null
-updated: '2025-08-13T04:22:10.866667+00:00'
+updated: '2025-08-13T12:34:11.621610+00:00'
 world: Both
 status: complete
 tags:
 - active
 - both
+- complete
 - mechanic
 type: Mechanic
 ---
+
 
 
 # Pre-Game Session Checklist

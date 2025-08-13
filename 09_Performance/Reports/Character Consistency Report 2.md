@@ -2,13 +2,17 @@
 created: null
 status: draft
 tags:
+- both
 - content/location
+- draft
+- location
 - status/draft
 - world/both
 type: Location
-updated: '2025-08-12T23:37:33.002518'
+updated: '2025-08-13T12:34:03.154658+00:00'
 world: Both
 ---
+
 
 # Character Consistency Report
 *Comprehensive Analysis of Character Names, Relationships, Locations, and Power Levels*

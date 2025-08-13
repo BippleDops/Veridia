@@ -3,21 +3,26 @@ affiliation: The Deep Wanderers (Independent)
 age: Unknown (appears ageless)
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]] - Wandering'
+location: '[[02_Worldbuilding/Places/The Hadal Depths|02 Worldbuilding/Places/The
+  Hadal Depths]] - Wandering'
 race: Human (Divinely Transformed)
 role: Deep Mother's Explorer
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/npc
 - deep-mother
 - divine-servant
+- npc
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.884037'
+updated: '2025-08-13T12:34:17.560306+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

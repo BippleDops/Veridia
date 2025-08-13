@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- complete
 - content/faction
+- dimensional nexus (both realms)
+- faction
 - status/in-progress
 - world/both
 type: Faction
-updated: '2025-08-12T23:37:40.718381'
+updated: '2025-08-13T12:34:17.424840+00:00'
 world: Dimensional Nexus (Both Realms)
 ---
+
 
 
 

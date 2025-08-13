@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - mechanics/combat
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xge
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.411101'
+updated: '2025-08-13T12:34:04.850025+00:00'
 world: Both
 ---
+
 
 # Cavalier
 *[[./fighter-xphb|Fighter]]: Fighter Subclass*  

@@ -24,10 +24,13 @@ significance: World-Shaping Disaster
 status: complete
 tags:
 - aethel-shattered-isles
+- both
 - cataclysm
+- complete
 - content/lore
 - historical-event
 - historical-events
+- lore
 - magocracy
 - mechanics/magic
 - status/complete
@@ -36,9 +39,10 @@ tags:
 - world/both
 time_period: Year 847 BCE (Before Current Era)
 type: Lore
-updated: '2025-08-12T23:37:38.640694'
+updated: '2025-08-13T12:34:15.471971+00:00'
 world: Both
 ---
+
 
 
 

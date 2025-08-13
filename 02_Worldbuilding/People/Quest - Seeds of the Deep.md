@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/npc
+- npc
 - status/in-progress
 - world/both
 type: Npc
-updated: '2025-08-12T23:37:41.025339'
+updated: '2025-08-13T12:34:17.683054+00:00'
 world: Both
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-seeds-of-the-deep-quest-seeds-of-the-deep.svg)

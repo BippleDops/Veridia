@@ -12,9 +12,12 @@ quest_type: Character Quest
 rewards: Royal Blessing, Curse Removal, Ancient Knowledge
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/lore
 - curse
+- lore
 - moral-choice
 - psychological
 - royalty
@@ -22,9 +25,10 @@ tags:
 - world/aethermoor
 time_limit: Before the Queen's Mind Breaks (21 days)
 type: Lore
-updated: '2025-08-12T23:37:37.758313'
+updated: '2025-08-13T12:34:14.672486+00:00'
 world: Aethermoor
 ---
+
 
 
 

@@ -4,6 +4,7 @@ tags:
 - ancient-conflict
 - completed
 - continental
+- draft
 - historical-event
 - history
 - lore
@@ -20,13 +21,15 @@ participants:
 - Ancient Powers
 outcome: Pyrrhic Victory for Alliance Forces
 created: '2025-08-09'
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:12.513178+00:00'
 related_entities:
-- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels|02 Worldbuilding/Lore/Ancient Siege Tunnels]]'
+- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels|02 Worldbuilding/Lore/Ancient Siege
+  Tunnels]]'
 - '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'
 - '[[02_Worldbuilding/Places/Ironhold|02 Worldbuilding/Places/Ironhold]]'
 - '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
 ---
+
 
 
 

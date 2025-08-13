@@ -2,8 +2,11 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - cult
+- location
 - religion
 - status/complete
 - temples
@@ -11,9 +14,10 @@ tags:
 - world/aethermoor
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.904479'
+updated: '2025-08-13T12:34:16.652441+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-crystal-cult-temples-crystal-cult-temples.svg)

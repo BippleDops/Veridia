@@ -3,13 +3,17 @@ created: '2025-08-12'
 status: complete
 tags:
 - border-zone
+- both worlds
+- complete
 - content/location
+- location
 - status/complete
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.475097'
+updated: '2025-08-13T12:34:17.215653+00:00'
 world: Both Worlds
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-pressure-point-settlement-pressure-point-settlement.svg)

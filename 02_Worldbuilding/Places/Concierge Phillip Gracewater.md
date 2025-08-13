@@ -13,6 +13,8 @@ obsidianUIMode: preview
 race: Sea Elf
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - content/npc
 - diplomatic
@@ -20,14 +22,16 @@ tags:
 - helpful
 - hospitality
 - information
+- location
 - mechanics/social
 - service
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.470276'
+updated: '2025-08-13T12:34:17.211531+00:00'
 world: Aquabyssos
 ---
+
 
 
 

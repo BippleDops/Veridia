@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
+- complete
 - events
 - gm_resource
+- lore
 - mixed
 - status/complete
 - travel
 - world/both
 title: Mixed Events Pack A (Cross-World)
 type: Lore
-updated: '2025-08-12T23:37:33.066745'
+updated: '2025-08-13T12:34:17.929700+00:00'
 world: Both
 ---
+
 
 
 # Mixed Events Pack A — 50 Ready-to-Run Encounters

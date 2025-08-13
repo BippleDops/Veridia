@@ -7,18 +7,22 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - cargo-handling
 - commercial-shipping
+- complete
 - content/location
 - docks
 - harbor
+- location
 - maritime-commerce
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.414505'
+updated: '2025-08-13T12:34:17.160685+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-dockmaster-bruno-steadyanchor-dockmaster-bruno-steadyanchor.svg)

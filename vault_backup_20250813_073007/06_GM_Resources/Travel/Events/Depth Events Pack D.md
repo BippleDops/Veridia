@@ -3,18 +3,22 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
+- complete
 - content/faction
 - events
 - gm_resource
+- lore
 - status/complete
 - travel
 - world/aquabyssos
 - world/both
 title: Depth Events Pack D — Faction Spotlight (Aquabyssos)
 type: Lore
-updated: '2025-08-12T23:37:33.059373'
+updated: '2025-08-13T12:34:17.923300+00:00'
 world: Both
 ---
+
 
 
 # Depth Events Pack D — Faction Spotlight (24)

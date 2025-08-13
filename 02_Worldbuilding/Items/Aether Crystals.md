@@ -9,17 +9,21 @@ rarity: Common to Legendary (varies by size and purity)
 requires_attunement: No (for basic use)
 status: complete
 tags:
+- aethermoor
+- complete
 - content/item
 - content/mechanics
 - currency
+- item
 - mechanics/magic
 - seven-shards-connected
 - status/complete
 - world/aethermoor
 type: Item
-updated: '2025-08-12T23:37:41.074788'
+updated: '2025-08-13T12:34:17.753729+00:00'
 world: Aethermoor
 ---
+
 
 
 

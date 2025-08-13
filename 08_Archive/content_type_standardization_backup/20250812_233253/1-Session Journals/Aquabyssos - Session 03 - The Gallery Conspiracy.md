@@ -5,6 +5,7 @@ status: complete
 tags:
 - active
 - aquabyssos
+- complete
 - identity-horror
 - lore
 - parliament-shadows
@@ -20,7 +21,8 @@ depth: 1600
 locations_visited:
 - '[[Gallery of Frozen Waves]]'
 - '[[02_Worldbuilding/Places/Screaming Gardens|02 Worldbuilding/Places/Screaming Gardens]]'
-- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory
+  Meadows]]'
 - '[[Reflection Pools]]'
 npcs_met:
 - '[[The Conductor]]'
@@ -59,9 +61,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: '2025-08-13T01:18:37.169752+00:00'
+updated: '2025-08-13T12:34:14.621672+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

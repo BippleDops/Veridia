@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
 - brightshield
+- complete
 - content/faction
 - democracy
+- faction
 - noble-house
 - politics
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.737065'
+updated: '2025-08-13T12:34:17.441350+00:00'
 world: Aquabyssos
 ---
+
 
 
 # House Brightshield

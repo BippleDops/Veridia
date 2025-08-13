@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/lore
 - intrigue
+- lore
 - politics
 - procedures
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.644825'
+updated: '2025-08-13T12:34:15.475930+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Parliamentary Procedures and Loopholes

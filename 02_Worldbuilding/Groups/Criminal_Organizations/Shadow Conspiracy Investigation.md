@@ -11,16 +11,20 @@ purpose: Investigate and counter The Shadow Conspiracy
 status: complete
 tags:
 - access/secret
+- aquabyssos
+- complete
 - content/faction
+- faction
 - law-enforcement
 - mechanics/exploration
 - shadow-resistance
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.685929'
+updated: '2025-08-13T12:34:17.395657+00:00'
 world: Aquabyssos
 ---
+
 
 
 

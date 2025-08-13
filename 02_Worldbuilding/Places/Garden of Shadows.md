@@ -7,16 +7,20 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - garden
+- location
 - mysterious
 - shadows
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.924070'
+updated: '2025-08-13T12:34:16.682610+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-garden-of-shadows-garden-of-shadows.svg)

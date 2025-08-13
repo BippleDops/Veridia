@@ -1,5 +1,6 @@
 ---
-affiliation: '[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] (Claimed)'
+affiliation: '[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep
+  Mother]] (Claimed)'
 created: '2025-08-08'
 created_by: auto-stub
 danger_level: Extreme
@@ -10,20 +11,24 @@ secrecy_level: High
 size: Unknown (Estimated 200-500 Members)
 status: complete
 tags:
+- aquabyssos
 - biological-horror
+- complete
 - content/faction
 - content/location
 - content/npc
 - corruption
 - cult
 - mysterious
+- npc
 - status/complete
 - symbiosis
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.965347'
+updated: '2025-08-13T12:34:17.629972+00:00'
 world: Aquabyssos
 ---
+
 
 
 

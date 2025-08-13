@@ -4,7 +4,8 @@ MyContainer: None
 created: '2025-08-12'
 danger_level: 1
 founded: 300 years before Great Crystallization
-government: '[[02_Worldbuilding/Groups/Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]'
+government: '[[02_Worldbuilding/Groups/Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred
+  Order Of Luminous Daw]]'
 leader: '[[High Luminary Celestine Brightward]]'
 obsidianUIMode: preview
 population: 500
@@ -15,19 +16,23 @@ specialties:
 - Light Magic
 status: draft
 tags:
+- aethermoor
 - cathedral
 - content/location
+- draft
 - grand-cathedral
 - holy
 - light
+- location
 - magnificent
 - religious
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.010082'
+updated: '2025-08-13T12:34:16.778337+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

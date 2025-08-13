@@ -5,11 +5,14 @@ created: '2025-08-11'
 date_played: null
 estimated_time: 3-4 hours
 level: 3
-location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Noble Quarter'
+location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
+  - Noble Quarter'
 npcs_featured:
 - '[[Lord Aurelius Goldwave]]'
-- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]'
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High
+  Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
 - '[[Brother Marcus Steelbane]]'
 - '[[Silver Mask]]'
 obsidianUIMode: preview
@@ -20,18 +23,22 @@ quests_advanced:
 session_number: 3
 status: draft
 tags:
+- aethermoor
 - campaign/session
 - content/lore
+- draft
 - intrigue
+- lore
 - murder
 - political
 - prepared
 - world/aethermoor
 title: Council of Shadows
 type: Lore
-updated: '2025-08-12T23:37:41.166446'
+updated: '2025-08-13T12:34:17.834831+00:00'
 world: Aethermoor
 ---
+
 
 
 

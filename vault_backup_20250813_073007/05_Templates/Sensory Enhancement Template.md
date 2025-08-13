@@ -2,12 +2,16 @@
 created: null
 status: complete
 tags:
+- both
+- complete
 - status/in-progress
+- template
 - world/both
 type: Template
-updated: '2025-08-12T23:37:33.112026'
+updated: '2025-08-13T12:34:17.962648+00:00'
 world: Both
 ---
+
 
 # Sensory Enhancement Template
 ## Comprehensive Guide for Rich Environmental Descriptions

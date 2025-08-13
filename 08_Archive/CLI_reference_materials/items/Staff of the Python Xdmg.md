@@ -8,15 +8,18 @@ modified: 2025-07-23 12:39
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - content/item
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.729693'
+updated: '2025-08-13T12:34:07.229568+00:00'
 world: Both
 ---
+
 
 # Staff of the Python
 *Staff, weapon, uncommon (requires attunement)*  

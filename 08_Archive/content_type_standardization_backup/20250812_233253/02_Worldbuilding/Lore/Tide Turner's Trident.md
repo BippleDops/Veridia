@@ -4,6 +4,7 @@ tags:
 - aquabyssos
 - artifact
 - completed
+- draft
 - dual
 - legendary_artifact
 - legendary_weapon
@@ -24,8 +25,9 @@ themes:
 - ancient_bloodlines
 - oceanic_authority
 created: '2025-08-11'
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:12.532457+00:00'
 ---
+
 
 
 

@@ -7,17 +7,21 @@ created_by: auto-stub
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
 - betrayal
+- complete
 - content/adventure
 - content/npc
 - espionage
+- npc
 - political
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:40.909688'
+updated: '2025-08-13T12:34:17.581684+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait

@@ -7,10 +7,13 @@ practitioners: Death speakers, life mages, preservers
 school: Necromancy
 status: complete
 tags:
+- both worlds
+- complete
 - content/lore
 - content/mechanics
 - death
 - life-force
+- lore
 - mechanics/magic
 - necromancy
 - status/complete
@@ -19,9 +22,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.361497'
+updated: '2025-08-13T12:34:16.187952+00:00'
 world: Both Worlds
 ---
+
 
 
 

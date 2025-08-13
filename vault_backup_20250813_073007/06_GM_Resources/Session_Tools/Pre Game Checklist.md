@@ -2,13 +2,17 @@
 created: null
 status: complete
 tags:
+- both
+- complete
 - content/mechanics
+- mechanics
 - status/in-progress
 - world/both
 type: Mechanics
-updated: '2025-08-12T23:37:33.029264'
+updated: '2025-08-13T12:34:17.896987+00:00'
 world: Both
 ---
+
 
 
 # Pre-Game Session Checklist

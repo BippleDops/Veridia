@@ -4,16 +4,20 @@ created_by: auto-stub
 danger_level: Moderate
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - entertainment
+- location
 - luxury
 - palace
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.515998'
+updated: '2025-08-13T12:34:17.249875+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-party-quarters-inverted-ballroom-wing-party-quarters.svg)

@@ -3,16 +3,20 @@ created: '2025-08-12'
 status: complete
 tags:
 - authoritative
+- both
+- complete
 - content/mechanics
+- lore
 - reference
 - standardized
 - status/complete
 - world/both
 title: Unified Mechanics Guide
 type: Lore
-updated: '2025-08-12T23:37:41.081318'
+updated: '2025-08-13T12:34:17.814372+00:00'
 world: Both
 ---
+
 
 
 # Unified Mechanics Guide

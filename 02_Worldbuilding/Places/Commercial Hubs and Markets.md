@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both
+- complete
 - content/location
 - economy
+- location
 - markets
 - merchant-princes
 - status/complete
 - trade-hubs
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.449700'
+updated: '2025-08-13T12:34:17.193784+00:00'
 world: Both
 ---
+
 
 > [!figure] Market Plaza
 ![](04_Resources/Assets/Places/place-markets-commercial-hubs-and-markets.svg)

@@ -3,18 +3,22 @@ created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
 tags:
+- both
 - ceremonial
+- complete
 - content/lore
 - cultural_reference
 - linguistics
 - liturgy
+- lore
 - religion
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.119662'
+updated: '2025-08-13T12:34:15.038509+00:00'
 world: Both
 ---
+
 
 
 # Religious Liturgy

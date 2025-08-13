@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - gm_resource
+- lore
 - mechanics/magic
 - status/complete
 - world/aquabyssos
 - world/both
 title: Encounter Sheet — D-019 Oracle Whale
 type: Lore
-updated: '2025-08-12T23:37:33.050207'
+updated: '2025-08-13T12:34:17.901650+00:00'
 world: Both
 ---
+
 
 
 # D-019 Oracle Whale

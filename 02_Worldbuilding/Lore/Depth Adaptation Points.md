@@ -5,16 +5,20 @@ date_modified: '2025-08-11'
 status: complete
 tags:
 - adaptation
+- both
+- complete
 - content/lore
 - content/mechanics
+- lore
 - status/complete
 - world/aquabyssos
 - world/both
 - worldbuilding
 type: Lore
-updated: '2025-08-12T23:37:37.840872'
+updated: '2025-08-13T12:34:14.754167+00:00'
 world: Both
 ---
+
 
 
 

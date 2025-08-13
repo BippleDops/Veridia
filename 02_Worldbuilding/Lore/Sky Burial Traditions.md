@@ -11,11 +11,14 @@ created: '2025-08-11'
 created_by: cultural-expansion
 status: complete
 tags:
+- aethermoor
 - afterlife
 - burial
+- complete
 - content/lore
 - culture
 - death-customs
+- lore
 - religion
 - status/complete
 - world/aethermoor
@@ -26,9 +29,10 @@ themes:
 - sky_sanctification
 - atmospheric_communion
 type: Lore
-updated: '2025-08-12T23:37:39.395864'
+updated: '2025-08-13T12:34:16.161799+00:00'
 world: Aethermoor
 ---
+
 
 
 

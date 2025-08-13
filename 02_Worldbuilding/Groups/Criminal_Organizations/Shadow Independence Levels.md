@@ -28,13 +28,17 @@ officers:
 primary_contact: Elder Whisper-In-The-Dark
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
+- faction
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.670375'
+updated: '2025-08-13T12:34:17.382433+00:00'
 world: Aquabyssos
 ---
+
 
 
 

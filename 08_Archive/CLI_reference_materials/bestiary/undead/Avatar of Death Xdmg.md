@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - monster
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
@@ -16,9 +18,10 @@ tags:
 - ttrpg-cli/monster/type/undead
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.578118'
+updated: '2025-08-13T12:34:05.881110+00:00'
 world: Both
 ---
+
 
 # [[3-Mechanics\CLI\bestiary\undead/avatar-of-death-xdmg|Avatar of Death]]
 *Source: Dungeon Master's Guide (2024) p. 252*  

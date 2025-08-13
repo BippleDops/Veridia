@@ -4,7 +4,10 @@ date_created: '2025-08-11'
 date_modified: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - materials
 - mechanics/magic
 - status/complete
@@ -12,9 +15,10 @@ tags:
 - world/both
 - worldbuilding
 type: Lore
-updated: '2025-08-12T23:37:38.145136'
+updated: '2025-08-13T12:34:15.064627+00:00'
 world: Both
 ---
+
 
 
 

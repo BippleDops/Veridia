@@ -7,18 +7,22 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
+- complete
 - content/faction
 - content/location
 - court
+- location
 - nobility
 - status/complete
 - undead
 - world/aethermoor
 - world/surface
 type: Location
-updated: '2025-08-12T23:37:40.472915'
+updated: '2025-08-13T12:34:17.214054+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

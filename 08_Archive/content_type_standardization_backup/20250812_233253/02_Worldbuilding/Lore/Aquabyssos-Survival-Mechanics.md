@@ -3,6 +3,7 @@ tags:
 - active
 - adaptation
 - aquabyssos
+- complete
 - game-mechanics
 - lore
 - mechanics
@@ -12,10 +13,11 @@ type: Lore
 system: D&D 5e
 complexity: Advanced
 world: Aquabyssos
-updated: '2025-08-13T01:18:34.584665+00:00'
+updated: '2025-08-13T12:34:11.815541+00:00'
 created: '2025-08-11'
 status: complete
 ---
+
 
 
 

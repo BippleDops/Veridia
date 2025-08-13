@@ -2,8 +2,10 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - fixes
-- master reference
+- lore
 - master-reference
 - report
 - status/in-progress
@@ -11,9 +13,10 @@ tags:
 - validation
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:33.004484'
+updated: '2025-08-13T12:34:03.156022+00:00'
 world: Aquabyssos
 ---
+
 
 
 

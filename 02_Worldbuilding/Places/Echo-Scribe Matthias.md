@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/location
+- location
 - status/in-progress
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.406238'
+updated: '2025-08-13T12:34:17.152444+00:00'
 world: Both
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-echo-scribe-matthias-echo-scribe-matthias.svg)

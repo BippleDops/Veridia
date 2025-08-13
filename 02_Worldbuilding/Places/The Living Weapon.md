@@ -9,20 +9,24 @@ obsidianUIMode: preview
 security_level: extreme
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/item
 - content/location
 - content/lore
 - dangerous
 - intelligence
+- location
 - military
 - sentient
 - status/complete
 - symbiotic
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.029242'
+updated: '2025-08-13T12:34:16.795144+00:00'
 world: Aquabyssos
 ---
+
 
 
 

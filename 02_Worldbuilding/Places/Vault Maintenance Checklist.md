@@ -4,17 +4,21 @@ created_by: auto-stub
 danger_level: Moderate
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - document
 - importance/core
+- location
 - royal-vault
 - security
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.423486'
+updated: '2025-08-13T12:34:17.169838+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-vault-maintenance-checklist-v1-vault-maintenance-checklist.svg)

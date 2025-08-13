@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/dmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.316649'
+updated: '2025-08-13T12:34:18.362897+00:00'
 world: Both
 ---
+
 
 # Starting Area
 *Source: Dungeon Master's Guide p. 290* 

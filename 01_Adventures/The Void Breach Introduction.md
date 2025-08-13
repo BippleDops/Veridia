@@ -7,6 +7,9 @@ created: '2025-08-11'
 level-range: 7-9
 status: complete
 tags:
+- adventure
+- aquabyssos
+- complete
 - content/adventure
 - content/mechanics
 - cosmic-horror
@@ -23,9 +26,10 @@ themes:
 - sanity_loss
 title: The Void Breach - Introduction
 type: Adventure
-updated: '2025-08-12T23:37:41.146295'
+updated: '2025-08-13T12:34:17.816607+00:00'
 world: Aquabyssos
 ---
+
 
 
 # The Void Breach - Introduction

@@ -5,16 +5,20 @@ created_by: auto-stub
 status: complete
 system: D&D 5e
 tags:
+- both
 - campaign/session
+- complete
 - content/lore
 - content/mechanics
+- lore
 - procedural-content
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.054575'
+updated: '2025-08-13T12:34:15.880997+00:00'
 world: Both
 ---
+
 
 
 

@@ -9,18 +9,22 @@ obsidianUIMode: preview
 party_size: 3-6
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
 - corruption
 - deep-mother
+- lore
 - mechanics/magic
 - status/complete
 - tradeway
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.797324'
+updated: '2025-08-13T12:34:14.707404+00:00'
 world: Aquabyssos
 ---
+
 
 
 

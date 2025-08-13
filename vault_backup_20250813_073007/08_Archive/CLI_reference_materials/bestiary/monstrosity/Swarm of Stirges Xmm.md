@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - monster
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xmm
@@ -24,9 +26,10 @@ tags:
 - world/both
 - world/surface
 type: monster
-updated: '2025-08-12T23:37:34.966026'
+updated: '2025-08-13T12:34:19.474897+00:00'
 world: Both
 ---
+
 
 # [[3-Mechanics\CLI\bestiary\monstrosity/swarm-of-stirges-xmm|Swarm of Stirges]]
 *Source: Monster Manual (2024) p. 299*  

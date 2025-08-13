@@ -11,15 +11,18 @@ cssclasses: json5e-spell
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - mechanics/magic
 - monster
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: monster
-updated: '2025-08-12T23:37:36.489060'
+updated: '2025-08-13T12:34:06.307193+00:00'
 world: Both
 ---
+
 
 # Dominate Monster
 *8th-level, Enchantment*  

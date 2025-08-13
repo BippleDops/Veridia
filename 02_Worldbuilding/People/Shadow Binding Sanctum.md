@@ -6,18 +6,22 @@ created_by: auto-stub
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - binding
+- complete
 - content/location
 - content/npc
 - mechanics/magic
+- npc
 - sanctum
 - shadow
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.789868'
+updated: '2025-08-13T12:34:17.485501+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

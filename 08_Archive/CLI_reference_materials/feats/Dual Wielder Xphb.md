@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.496231'
+updated: '2025-08-13T12:34:04.893362+00:00'
 world: Both
 ---
+
 
 # Dual Wielder
 *Source: Player's Handbook (2024) p. 203*  

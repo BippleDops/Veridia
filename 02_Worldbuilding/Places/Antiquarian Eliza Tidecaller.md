@@ -8,15 +8,19 @@ obsidianUIMode: preview
 status: complete
 tags:
 - antiquarian
+- aquabyssos
 - collection
+- complete
 - content/item
 - content/location
+- location
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.435275'
+updated: '2025-08-13T12:34:17.180389+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-antiquarian-eliza-tidecaller-antiquarian-eliza-tidecaller.svg)

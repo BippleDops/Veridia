@@ -2,6 +2,7 @@
 tags:
 - active
 - aethermoor
+- complete
 - curse
 - lore
 - moral-choice
@@ -18,13 +19,14 @@ rewards: Royal Blessing, Curse Removal, Ancient Knowledge
 time_limit: Before the Queen's Mind Breaks (21 days)
 created_by: system
 created: '2025-08-08'
-updated: '2025-08-13T01:18:34.473763+00:00'
+updated: '2025-08-13T12:34:11.698631+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 status: complete
 type: Lore
 ---
+
 
 
 

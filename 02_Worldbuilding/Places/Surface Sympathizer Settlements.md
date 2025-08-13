@@ -5,14 +5,18 @@ danger_level: Moderate
 status: complete
 tags:
 - access/secret
+- aquabyssos
+- complete
 - content/location
+- location
 - political-dissidents
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.371037'
+updated: '2025-08-13T12:34:17.121710+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-surface-sympathizer-settlements-surface-sympathizer-settlements.svg)

@@ -2,16 +2,20 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/mechanics
+- lore
 - plague
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.210363'
+updated: '2025-08-13T12:34:16.008995+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Crystal Plague Progression System

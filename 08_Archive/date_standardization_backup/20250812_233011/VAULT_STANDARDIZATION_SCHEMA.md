@@ -1,3 +1,13 @@
+---
+created: null
+updated: '2025-08-13T12:34:09.891476+00:00'
+world: Both
+status: draft
+tags:
+- both
+- draft
+---
+
 # Vault Standardization Schema v2.0
 *Comprehensive frontmatter and content standards for Obsidian 1.9.7*
 

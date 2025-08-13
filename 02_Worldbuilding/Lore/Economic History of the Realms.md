@@ -2,16 +2,20 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - currency
 - economics
+- lore
 - status/in-progress
 - trade
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.588606'
+updated: '2025-08-13T12:34:15.398956+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Economic History of the Realms

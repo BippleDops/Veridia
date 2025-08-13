@@ -6,9 +6,11 @@ established: ~300 years ago
 government: Merchant Council Oligarchy
 population: ~8,000 (merchants, workers, and support staff)
 related_entities:
-- '[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]'
+- '[[02_Worldbuilding/Groups/Silverscale Consortium|02 Worldbuilding/Groups/Silverscale
+  Consortium]]'
 - '[[02_Worldbuilding/Places/Free Current|02 Worldbuilding/Places/Free Current]]'
-- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory
+  Meadows]]'
 - '[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]]'
 specialties:
 - Deep-Ocean Resources
@@ -17,17 +19,21 @@ specialties:
 - Deep Current Navigation
 status: complete
 tags:
+- aquabyssos
 - commerce
 - commercial-district
+- complete
 - content/location
+- location
 - merchant-quarter
 - status/complete
 - trading-district
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.489645'
+updated: '2025-08-13T12:34:17.227918+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-depth-merchants-depth-merchants.svg)

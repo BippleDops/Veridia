@@ -4,15 +4,19 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- complete
 - content/location
 - content/lore
 - index
+- lore
 - status/complete
+- universal
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.601015'
+updated: '2025-08-13T12:34:15.409306+00:00'
 world: Universal
 ---
+
 
 
 # Location Index

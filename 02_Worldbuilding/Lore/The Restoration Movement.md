@@ -7,10 +7,13 @@ movement_type: Political and Religious Reform
 significance: Major
 status: complete
 tags:
+- aquabyssos
 - campaign/arc
+- complete
 - content/lore
 - democracy
 - historical
+- lore
 - mechanics/social
 - political-movement
 - reform
@@ -20,9 +23,10 @@ tags:
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.618601'
+updated: '2025-08-13T12:34:16.399997+00:00'
 world: Aquabyssos
 ---
+
 
 
 

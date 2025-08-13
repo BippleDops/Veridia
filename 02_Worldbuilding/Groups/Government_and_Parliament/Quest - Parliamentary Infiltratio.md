@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
+- faction
 - status/in-progress
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.705632'
+updated: '2025-08-13T12:34:17.413387+00:00'
 world: Aquabyssos
 ---
+
 
 
 

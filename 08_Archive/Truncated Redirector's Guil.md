@@ -2,13 +2,17 @@
 created: 2025-08-11
 status: active
 tags:
+- active
+- aethermoor
 - content/faction
+- group
 - status/in-progress
 - world/aethermoor
 type: Group
-updated: '2025-08-12T23:37:33.142146'
+updated: '2025-08-13T12:34:03.283630+00:00'
 world: Aethermoor
 ---
+
 
 
 

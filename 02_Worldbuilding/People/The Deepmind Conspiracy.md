@@ -6,17 +6,21 @@ created_by: auto-stub
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - conspiracy
 - content/lore
 - content/npc
 - deep
 - mind
+- npc
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.953779'
+updated: '2025-08-13T12:34:17.621367+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

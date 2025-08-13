@@ -9,21 +9,25 @@ scope: International
 status: complete
 tags:
 - alliance
+- both worlds
+- complete
 - content/faction
 - content/lore
 - eastern-kingdoms
 - external
 - fleet
 - foreign-power
+- lore
 - maritime
 - military
 - naval
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.817225'
+updated: '2025-08-13T12:34:15.648711+00:00'
 world: Both Worlds
 ---
+
 
 
 

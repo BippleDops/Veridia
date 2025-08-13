@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - monster
 - status/in-progress
@@ -17,9 +19,10 @@ tags:
 - ttrpg-cli/monster/type/dragon/chromatic
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.740944'
+updated: '2025-08-13T12:34:06.032401+00:00'
 world: Both
 ---
+
 
 # [[3-Mechanics\CLI\bestiary\dragon/young-white-dragon-xmm|Young White Dragon]]
 *Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

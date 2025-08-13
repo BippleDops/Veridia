@@ -2,16 +2,20 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/mechanics
 - content/npc
 - horror
+- mechanics
 - status/complete
 - world/both
 title: Personal Horror Customization
 type: Mechanics
-updated: '2025-08-12T23:37:41.083044'
+updated: '2025-08-13T12:34:17.790220+00:00'
 world: Both
 ---
+
 
 
 # Personal Horror Customization

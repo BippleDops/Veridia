@@ -3,6 +3,7 @@ tags:
 - active
 - both
 - campaign-guide
+- complete
 - lore
 - parliament-shadows
 - player-handout
@@ -12,9 +13,10 @@ campaign: Parliament of Shadows
 spoiler_free: true
 created: '2025-08-07'
 world: Both
-updated: '2025-08-13T01:18:31.160233+00:00'
+updated: '2025-08-13T12:34:11.651179+00:00'
 status: complete
 ---
+
 
 
 

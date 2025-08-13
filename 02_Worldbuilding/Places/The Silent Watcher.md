@@ -14,14 +14,16 @@ government: Ancient Custodianship
 location_name: The Silent Watcher Observatory
 location_type: Ancient Sentinel Complex
 notable_npcs:
-- '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The Silent Watcher Entity]]'
+- '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The
+  Silent Watcher Entity]]'
 - '[[Echo-Scribe Matthias]]'
 - '[[Observation Tender Clara]]'
 obsidianUIMode: preview
 parent_location: '[[Abyssos Prime]]'
 population: 1
 pressure_effects: Extreme
-ruler: '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The Silent Watcher Entity]]'
+ruler: '[[02_Worldbuilding/People/The Silent Watcher Entity|02 Worldbuilding/People/The
+  Silent Watcher Entity]]'
 services:
 - Universal Surveillance
 - Historical Record Access
@@ -37,7 +39,10 @@ sub_locations:
 - '[[Sentinel Archive Vaults]]'
 - '[[The Watcher''s Throne]]'
 tags:
+- both
+- complete
 - content/location
+- location
 - mysterious
 - observatory
 - sentinel
@@ -47,10 +52,11 @@ tags:
 - world/both
 temporal_stability: 90
 type: Location
-updated: '2025-08-12T23:37:39.891839'
+updated: '2025-08-13T12:34:16.634846+00:00'
 visited: false
 world: Both
 ---
+
 
 
 > [!figure] View

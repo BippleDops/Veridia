@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - monster
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xmm
@@ -19,9 +21,10 @@ tags:
 - world/both
 - world/surface
 type: monster
-updated: '2025-08-12T23:37:35.029730'
+updated: '2025-08-13T12:34:19.492878+00:00'
 world: Both
 ---
+
 
 # [[3-Mechanics\CLI\bestiary\monstrosity/chimera-xmm|Chimera]]
 *Source: Monster Manual (2024) p. 70. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

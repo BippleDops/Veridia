@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/rot
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.626968'
+updated: '2025-08-13T12:34:19.233631+00:00'
 world: Both
 ---
+
 
 # Campaign Overview
 *Source: Rise of Tiamat, p. 6* 

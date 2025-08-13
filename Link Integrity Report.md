@@ -2,13 +2,17 @@
 created: null
 status: draft
 tags:
+- both
 - content/location
+- draft
+- location
 - status/draft
 - world/both
 type: Location
-updated: '2025-08-12T23:37:32.980489'
+updated: '2025-08-13T12:34:03.150827+00:00'
 world: Both
 ---
+
 
 # Link Integrity Report
 

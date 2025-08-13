@@ -2,19 +2,23 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - content/mechanics
 - cosmic-horror
 - dimensions
+- lore
 - merger
 - reality
 - status/complete
 - world/both
 title: Complete Reality Merger System
 type: Lore
-updated: '2025-08-12T23:37:41.102924'
+updated: '2025-08-13T12:34:17.802152+00:00'
 world: Both
 ---
+
 
 
 

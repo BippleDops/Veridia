@@ -5,9 +5,12 @@ created_by: auto-stub
 significance: Strategic Threat
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/item
 - content/lore
 - forgetting-bomb
+- lore
 - mass-amnesia
 - memory-alteration
 - psychological-warfare
@@ -16,9 +19,10 @@ tags:
 - warfare
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.953771'
+updated: '2025-08-13T12:34:15.789397+00:00'
 world: Aquabyssos
 ---
+
 
 
 

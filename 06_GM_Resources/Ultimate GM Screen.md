@@ -3,14 +3,18 @@ created: null
 obsidianUIMode: preview
 status: complete
 tags:
+- complete
 - gm_resource
 - gm_screen
+- lore
 - status/complete
+- universal
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.021215'
+updated: '2025-08-13T12:34:03.179966+00:00'
 world: Universal
 ---
+
 
 
 # Ultimate GM Screen

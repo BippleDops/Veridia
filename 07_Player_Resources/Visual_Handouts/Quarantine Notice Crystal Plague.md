@@ -3,13 +3,17 @@ created: null
 obsidianUIMode: preview
 status: complete
 tags:
+- complete
 - handout
+- lore
 - status/complete
+- universal
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.102490'
+updated: '2025-08-13T12:34:03.238739+00:00'
 world: Universal
 ---
+
 
 
 # Quarantine Notice Crystal Plague

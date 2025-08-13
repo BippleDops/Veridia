@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- both
+- complete
 - content/location
+- location
 - status/in-progress
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.188513'
+updated: '2025-08-13T12:34:16.956184+00:00'
 world: Both
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-terminal-master-hadrian-depthbridge-terminal-master-hadrian-depthbridge.svg)

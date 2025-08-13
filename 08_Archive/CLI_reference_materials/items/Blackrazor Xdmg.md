@@ -8,15 +8,18 @@ modified: 2025-07-23 12:39
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - content/item
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:37.624125'
+updated: '2025-08-13T12:34:07.169147+00:00'
 world: Both
 ---
+
 
 # Blackrazor
 *Weapon ([[/03_Mechanics/CLI/items/greatsword-xphb|greatsword]]), artifact (requires attunement)*  

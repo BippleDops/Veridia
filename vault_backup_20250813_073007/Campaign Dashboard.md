@@ -2,18 +2,22 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - campaign/arc
+- complete
 - content/lore
 - dashboard
+- lore
 - master-control
 - status/in-progress
 - tracking
 - world/both
 title: Campaign Dashboard - Aquabyssos & Aethermoor
 type: Lore
-updated: '2025-08-12T23:37:32.982593'
+updated: '2025-08-13T12:34:17.869046+00:00'
 world: Both
 ---
+
 
 
 

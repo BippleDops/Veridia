@@ -4,17 +4,21 @@ created_by: auto-stub
 expanded: 2025-08-10
 status: complete
 tags:
+- aquabyssos
 - breathing
+- complete
 - content/item
 - content/lore
+- lore
 - mechanics/magic
 - status/complete
 - survival
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.193335'
+updated: '2025-08-13T12:34:15.994927+00:00'
 world: Aquabyssos
 ---
+
 
 
 # The Breathing Stone

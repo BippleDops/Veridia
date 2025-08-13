@@ -3,12 +3,14 @@ tags:
 - active
 - aquabyssos
 - both
+- complete
 - horror
 - location
 - political
 - temporal
 location_type: Government Building
-continent: '[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]'
+continent: '[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos
+  Prime]]'
 depth: 1,500-2,000 feet
 population: ~500 (plus countless echoes)
 danger_level: High (Political)
@@ -18,10 +20,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:36.285823+00:00'
+updated: '2025-08-13T12:34:13.703550+00:00'
 status: complete
 type: Location
 ---
+
 
 
 

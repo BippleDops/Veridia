@@ -2,13 +2,15 @@
 tags:
 - active
 - aethermoor
+- complete
 - group
 type: Group
 world: Aethermoor
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.687741+00:00'
+updated: '2025-08-13T12:34:14.159497+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-family-retainer-family-retainer.svg)

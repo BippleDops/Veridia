@@ -22,14 +22,16 @@ objectives:
 - Category/Quest
 obsidianUIMode: preview
 prerequisite_quests:
-- '[[02_Worldbuilding/Quests/Find_the_Missing_Caravan|02 Worldbuilding/Quests/Find The Missing Caravan]]'
+- '[[02_Worldbuilding/Quests/Find_the_Missing_Caravan|02 Worldbuilding/Quests/Find
+  The Missing Caravan]]'
 - '[[Diplomatic Tides]]'
 priority: urgent
 quest_giver: '[[High Tidecaller Nerissa]]'
 quest_image: 04_Resources/Assets/quests/second-rising.png
 quest_start: 2025-08-10
 related_locations:
-- '[[02_Worldbuilding/Places/Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]]'
+- '[[02_Worldbuilding/Places/Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor
+  City]]'
 - '[[Maelstrom Palace]]'
 - '[[The Maw of Darkness]]'
 - '[[02_Worldbuilding/Places/Market_District|02 Worldbuilding/Places/Market District]]'
@@ -38,20 +40,25 @@ related_npcs:
 - '[[High Tidecaller Nerissa]]'
 - '[[Prophet Miralyn Surfacer]]'
 - '[[Commander Varek Irontrident]]'
-- '[[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]'
+- '[[02_Worldbuilding/People/The_Crimson_Pearl|02 Worldbuilding/People/The Crimson
+  Pearl]]'
 - '[[Aboleth Prime Yoth]]'
 - '[[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'
 reward: 10000gp + Blessing of the Depths + Surface/Depth Citizenship
 status: complete
 tags:
+- both
+- complete
 - content/adventure
 - content/lore
+- lore
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.789593'
+updated: '2025-08-13T12:34:14.684155+00:00'
 world: Both
 ---
+
 
 
 

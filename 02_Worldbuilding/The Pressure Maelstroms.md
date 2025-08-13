@@ -8,17 +8,21 @@ frequency: Rare but Predictable
 hazard_type: Pressure Anomaly
 status: complete
 tags:
+- aquabyssos
+- complete
 - dangerous-waters
 - environmental-hazard
 - environmental_hazard
 - hazard
+- mechanics
 - natural-phenomenon
 - status/complete
 - world/aquabyssos
 type: Mechanics
-updated: '2025-08-12T23:37:37.746416'
+updated: '2025-08-13T12:34:14.662169+00:00'
 world: Aquabyssos
 ---
+
 
 
 

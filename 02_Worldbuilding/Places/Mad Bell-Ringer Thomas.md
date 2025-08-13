@@ -14,21 +14,25 @@ race: Human
 status: complete
 tags:
 - acoustic
+- aquabyssos
 - bell-ringer
 - community
+- complete
 - content/location
 - content/mechanics
 - content/npc
 - eccentric
+- location
 - mad
 - oracle
 - prophetic
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.221489'
+updated: '2025-08-13T12:34:16.986589+00:00'
 world: Aquabyssos
 ---
+
 
 
 

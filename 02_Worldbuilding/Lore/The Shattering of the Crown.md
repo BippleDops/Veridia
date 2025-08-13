@@ -20,11 +20,14 @@ scale: Multidimensional
 significance: Reality-Altering
 status: complete
 tags:
+- aethermoor
 - catastrophic-event
+- complete
 - content/item
 - content/lore
 - crown-of-stars
 - historical-event
+- lore
 - reality-breaking
 - shattering
 - status/complete
@@ -32,9 +35,10 @@ tags:
 - world/aethermoor
 time_period: Year 1 GC - The Moment of Great Crystallization
 type: Lore
-updated: '2025-08-12T23:37:39.270556'
+updated: '2025-08-13T12:34:16.058223+00:00'
 world: Aethermoor
 ---
+
 
 
 

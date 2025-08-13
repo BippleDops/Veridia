@@ -14,9 +14,12 @@ obsidianUIMode: preview
 occupation: Trading House Matriarch
 status: complete
 tags:
+- aethermoor
+- complete
 - content/location
 - content/npc
 - influencer
+- location
 - madame
 - mechanics/social
 - merchant
@@ -25,9 +28,10 @@ tags:
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:39.751491'
+updated: '2025-08-13T12:34:16.530826+00:00'
 world: Aethermoor
 ---
+
 
 
 

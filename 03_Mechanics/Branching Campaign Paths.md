@@ -2,16 +2,20 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - branching
+- complete
 - content/mechanics
+- mechanics
 - narrative
 - status/complete
 - world/both
 title: Branching Campaign Paths
 type: Mechanics
-updated: '2025-08-12T23:37:41.099784'
+updated: '2025-08-13T12:34:17.787708+00:00'
 world: Both
 ---
+
 
 
 # Branching Campaign Paths

@@ -8,8 +8,11 @@ region: Aethermoor
 significance: Resistance Stronghold
 status: complete
 tags:
+- aethermoor
+- complete
 - content/location
 - content/lore
+- lore
 - protection
 - refuge
 - resistance
@@ -18,9 +21,10 @@ tags:
 - underground
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.972774'
+updated: '2025-08-13T12:34:15.808537+00:00'
 world: Aethermoor
 ---
+
 
 
 

@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - content/faction
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/pota
 - world/both
 type: note
-updated: '2025-08-12T23:37:35.715642'
+updated: '2025-08-13T12:34:20.104962+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Creature

@@ -3,18 +3,22 @@ created: '2025-08-12'
 created_by: claude
 status: complete
 tags:
+- both
+- complete
 - culture
 - daily-life
 - labor
+- lore
 - mechanics/social
 - routine
 - status/complete
 - working-class
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.908519'
+updated: '2025-08-13T12:34:15.736711+00:00'
 world: Both
 ---
+
 
 
 

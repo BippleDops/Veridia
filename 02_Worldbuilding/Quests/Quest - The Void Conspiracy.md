@@ -10,6 +10,9 @@ obsidianUIMode: preview
 reward: Epic
 status: complete
 tags:
+- adventure
+- aethermoor
+- complete
 - conspiracy
 - content/adventure
 - high-level
@@ -19,9 +22,10 @@ tags:
 - world/aethermoor
 - world/both
 type: Adventure
-updated: '2025-08-12T23:37:37.748830'
+updated: '2025-08-13T12:34:14.663999+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png)

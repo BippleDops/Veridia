@@ -2,18 +2,22 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - campaign/arc
+- complete
 - content/faction
 - content/lore
 - gm-resource
 - gm_resource
+- lore
 - status/complete
 - world/both
 title: Campaign Management Guide
 type: Lore
-updated: '2025-08-12T23:37:33.023347'
+updated: '2025-08-13T12:34:17.894557+00:00'
 world: Both
 ---
+
 
 
 

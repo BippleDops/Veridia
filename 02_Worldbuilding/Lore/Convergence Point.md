@@ -11,20 +11,24 @@ related_entities:
 - '[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
 status: draft
 tags:
+- both aethermoor and aquabyssos
 - content/location
 - content/lore
 - convergence
 - dangerous
 - dimensional-nexus
+- draft
+- lore
 - mechanics/magic
 - reality-nexus
 - status/complete
 - world/aethermoor
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.081587'
+updated: '2025-08-13T12:34:15.007600+00:00'
 world: Both Aethermoor and Aquabyssos
 ---
+
 
 
 

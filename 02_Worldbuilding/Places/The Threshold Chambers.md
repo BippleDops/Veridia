@@ -10,16 +10,20 @@ size: Large Complex
 status: complete
 tags:
 - access/secret
+- complete
 - content/location
 - convergence-seekers
 - cross-realm
+- dimensional threshold (both realms)
 - dimensional-nexus
+- location
 - status/complete
 - world/both
 type: Location
-updated: '2025-08-12T23:37:39.847320'
+updated: '2025-08-13T12:34:16.592787+00:00'
 world: Dimensional Threshold (Both Realms)
 ---
+
 
 
 

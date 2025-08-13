@@ -2,16 +2,20 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/npc
 - infected
+- npc
 - plague
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.816670'
+updated: '2025-08-13T12:34:17.505285+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-crystal-plague-infected-npcs-crystal-plague-infected-npcs.svg)

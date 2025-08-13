@@ -3,17 +3,21 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aethermoor
 - campaign/objective
 - citizens
+- complete
 - content/adventure
 - content/lore
 - emergency-response
+- lore
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.322707'
+updated: '2025-08-13T12:34:15.213757+00:00'
 world: Aethermoor
 ---
+
 
 
 # Save the Citizens

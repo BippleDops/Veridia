@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
 - campaign/session
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.422080'
+updated: '2025-08-13T12:34:16.181898+00:00'
 world: Aquabyssos
 ---
+
 
 
 

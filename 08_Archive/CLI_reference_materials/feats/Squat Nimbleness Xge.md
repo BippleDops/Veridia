@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/feat
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.503796'
+updated: '2025-08-13T12:34:04.913442+00:00'
 world: Both
 ---
+
 
 # Squat Nimbleness
 *Source: Xanathar's Guide to Everything p. 75*  

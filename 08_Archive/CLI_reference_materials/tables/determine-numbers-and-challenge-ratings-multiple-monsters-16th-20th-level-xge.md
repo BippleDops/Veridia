@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xge
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.671407'
+updated: '2025-08-13T12:34:03.916194+00:00'
 world: Both
 ---
+
 
 # Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level
 *Source: Xanathar's Guide to Everything p. 88* 

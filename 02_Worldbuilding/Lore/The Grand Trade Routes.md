@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - cross-realm
 - economy
+- lore
 - merchant-princes
 - status/complete
 - trade-routes
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.233246'
+updated: '2025-08-13T12:34:16.027057+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Map

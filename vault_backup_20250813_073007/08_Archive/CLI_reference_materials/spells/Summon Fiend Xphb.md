@@ -11,15 +11,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - mechanics/magic
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.383715'
+updated: '2025-08-13T12:34:20.478805+00:00'
 world: Both
 ---
+
 
 # Summon Fiend
 *6th-level, Conjuration*  

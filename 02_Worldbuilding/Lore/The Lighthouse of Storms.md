@@ -6,9 +6,12 @@ historical_period: Pre-Shattering to Present
 significance: Critical
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - historical
 - lighthouse
+- lore
 - lost-technology
 - maritime
 - mechanics/magic
@@ -20,9 +23,10 @@ tags:
 - world/aquabyssos
 threat_level: Variable
 type: Lore
-updated: '2025-08-12T23:37:39.451535'
+updated: '2025-08-13T12:34:16.207078+00:00'
 world: Aquabyssos
 ---
+
 
 
 

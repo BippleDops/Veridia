@@ -2,13 +2,17 @@
 created: '2024-01-01'
 status: complete
 tags:
+- adventure
+- both
+- complete
 - content/adventure
 - status/in-progress
 - world/both
 type: Adventure
-updated: '2025-08-12T23:37:37.761437'
+updated: '2025-08-13T12:34:14.674908+00:00'
 world: Both
 ---
+
 
 
 

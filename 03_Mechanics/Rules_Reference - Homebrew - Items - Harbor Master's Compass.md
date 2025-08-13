@@ -16,16 +16,20 @@ rarity: Rare
 school: Divination
 status: complete
 tags:
+- both
 - compass
+- complete
 - content/adventure
 - content/item
+- item
 - status/in-progress
 - world/both
 type: Item
-updated: '2025-08-12T23:37:41.135305'
+updated: '2025-08-13T12:34:17.802840+00:00'
 weight: 1
 world: Both
 ---
+
 
 
 

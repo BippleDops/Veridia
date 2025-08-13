@@ -2,7 +2,10 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/npc
+- mechanics
 - progression
 - status/complete
 - transformation
@@ -10,9 +13,10 @@ tags:
 - world/both
 title: Crystal Bloom Transformation
 type: Mechanics
-updated: '2025-08-12T23:37:41.123216'
+updated: '2025-08-13T12:34:17.798695+00:00'
 world: Both
 ---
+
 
 
 # Crystal Bloom

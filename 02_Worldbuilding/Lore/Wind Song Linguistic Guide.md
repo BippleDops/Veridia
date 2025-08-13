@@ -3,17 +3,21 @@ created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
 - communication
+- complete
 - content/lore
 - content/mechanics
 - linguistics
+- lore
 - status/complete
 - tonal
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.910339'
+updated: '2025-08-13T12:34:15.740562+00:00'
 world: Aethermoor
 ---
+
 
 
 # Wind Song Linguistic Guide

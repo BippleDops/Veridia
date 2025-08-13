@@ -3,13 +3,17 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.016998'
+updated: '2025-08-13T12:34:03.176118+00:00'
 world: Both
 ---
+
 
 
 

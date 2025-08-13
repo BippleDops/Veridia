@@ -3,16 +3,20 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/lore
+- lore
 - order
 - status/complete
 - sunken-crown
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.400879'
+updated: '2025-08-13T12:34:15.281320+00:00'
 world: Aquabyssos
 ---
+
 
 
 

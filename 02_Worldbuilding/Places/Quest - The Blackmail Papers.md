@@ -11,20 +11,24 @@ quest_type: Social Intrigue/Heist Adventure
 status: complete
 tags:
 - access/secret
+- aethermoor
 - blackmail
+- complete
 - content/adventure
 - content/location
 - documents
 - espionage
 - intrigue
+- location
 - mechanics/social
 - political-corruption
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.109955'
+updated: '2025-08-13T12:34:16.874835+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

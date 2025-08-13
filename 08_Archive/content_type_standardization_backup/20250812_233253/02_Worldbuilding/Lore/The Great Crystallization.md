@@ -3,6 +3,7 @@ tags:
 - active
 - both
 - catastrophe
+- complete
 - event
 - history
 - lore
@@ -12,9 +13,10 @@ importance: World-Defining
 created: '2024-12-20'
 image: 04_Resources/Assets/Lore/great_crystallization.jpg
 world: Both
-updated: '2025-08-13T01:18:34.562222+00:00'
+updated: '2025-08-13T12:34:11.787265+00:00'
 status: complete
 ---
+
 
 
 

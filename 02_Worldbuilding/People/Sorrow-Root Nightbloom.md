@@ -1,32 +1,15 @@
 ---
-type: Npc
-status: draft
-tags:
-- active - category/people
-- active
----category/people
-- both
-- corrupted
-- druid
-- eco-terrorist
-- npc
-- verdant-reach
-alignment: Neutral Evil
-race: Elf
-class: Druid/Blood Hunter
-level: 11
-location:
-- - 02_Worldbuilding/Places/The Verdant Reach
-faction: The Withered Court (Splinter Group)
-status: Active - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+created: null
+updated: '2025-08-13T12:34:17.671213+00:00'
 world: Both
-updated: '2025-08-13T01:18:37.008614+00:00'
-created: 2025-08-11
 type: NPC
+status: active
+tags:
+- active
+- both
+- npc
 ---
+
 
 
 

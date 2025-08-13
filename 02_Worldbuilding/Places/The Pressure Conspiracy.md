@@ -8,15 +8,19 @@ obsidianUIMode: preview
 status: complete
 tags:
 - access/secret
+- aquabyssos
+- complete
 - conspiracy
 - content/location
+- location
 - political-intrigue
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.453265'
+updated: '2025-08-13T12:34:17.196885+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-pressure-conspiracy-the-pressure-conspiracy.svg)

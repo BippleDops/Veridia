@@ -4,11 +4,14 @@ type: Lore
 status: complete
 session_number: 8
 date_played: null
-location: '[[The Threshold]] - Between [[Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]'
+location: '[[The Threshold]] - Between [[Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02
+  Worldbuilding/Places/Aethermoor]]'
 npcs_featured:
 - '[[The Drowned God]] (True Form)'
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen
+  Seraphina Lumengarde]]'
 - '[[Ancient Aquabyssos Rulers]]'
 quests_advanced:
 - '[[Rewrite the World Order]]'
@@ -20,6 +23,7 @@ tags:
 - active
 - aethermoor
 - aquabyssos
+- complete
 - dual-worlds
 - lore
 - reality-merge
@@ -29,9 +33,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-13T01:18:37.184999+00:00'
+updated: '2025-08-13T12:34:14.640129+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

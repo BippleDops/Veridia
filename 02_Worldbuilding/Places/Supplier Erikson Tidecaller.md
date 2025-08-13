@@ -13,9 +13,12 @@ obsidianUIMode: preview
 race: Triton
 status: complete
 tags:
+- aquabyssos
 - business
+- complete
 - content/location
 - content/npc
+- location
 - mechanics/magic
 - merchant
 - naval-supplies
@@ -24,9 +27,10 @@ tags:
 - supplier
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.217644'
+updated: '2025-08-13T12:34:16.982925+00:00'
 world: Aquabyssos
 ---
+
 
 
 

@@ -8,15 +8,19 @@ obsidianUIMode: preview
 status: complete
 tags:
 - abyssal
+- aquabyssos
+- complete
 - content/location
 - cosmic-horror
+- location
 - palace
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.497579'
+updated: '2025-08-13T12:34:17.234769+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-abyssos-prime-inverse-palace-abyssos-prime-inverse-palace.svg)

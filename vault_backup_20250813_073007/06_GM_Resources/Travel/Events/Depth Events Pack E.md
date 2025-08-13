@@ -3,18 +3,22 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
+- complete
 - content/lore
 - events
 - gm_resource
+- lore
 - status/complete
 - travel
 - world/aquabyssos
 - world/both
 title: Depth Events Pack E — Legendary Tier (Aquabyssos)
 type: Lore
-updated: '2025-08-12T23:37:33.060743'
+updated: '2025-08-13T12:34:17.926347+00:00'
 world: Both
 ---
+
 
 
 # Depth Events Pack E — Legendary Tier (12)

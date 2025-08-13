@@ -2,7 +2,10 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
+- lore
 - military-ethics
 - moral-dilemmas
 - shadow-corruption
@@ -10,9 +13,10 @@ tags:
 - warfare
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.918162'
+updated: '2025-08-13T12:34:15.751262+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Military Moral Quandaries

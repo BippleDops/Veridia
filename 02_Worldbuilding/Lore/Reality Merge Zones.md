@@ -10,9 +10,12 @@ scope: Cross-Realm Environmental Zones
 significance: Critical Infrastructure
 status: complete
 tags:
+- both worlds
+- complete
 - content/lore
 - dimensional-bleed
 - environmental-hazards
+- lore
 - mechanics/magic
 - merged-zones
 - planar-boundaries
@@ -23,9 +26,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.333144'
+updated: '2025-08-13T12:34:16.109772+00:00'
 world: Both Worlds
 ---
+
 
 
 

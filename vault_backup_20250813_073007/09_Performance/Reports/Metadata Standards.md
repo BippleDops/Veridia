@@ -2,16 +2,20 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both
+- complete
 - documentation
+- lore
 - metadata
 - standards
 - status/in-progress
 - vault-standards
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:32.998758'
+updated: '2025-08-13T12:34:17.873937+00:00'
 world: Both
 ---
+
 
 
 # Vault Metadata Standards

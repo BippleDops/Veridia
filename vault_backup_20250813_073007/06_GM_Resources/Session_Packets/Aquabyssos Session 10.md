@@ -4,13 +4,17 @@ created: null
 session_number: 10
 status: complete
 tags:
+- aquabyssos
 - campaign/session
+- complete
+- lore
 - world/aquabyssos
 title: Session Packet — Aquabyssos Session 10
 type: Lore
-updated: '2025-08-12T23:37:33.027864'
+updated: '2025-08-13T12:34:17.895543+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Session Packet — Aquabyssos 10

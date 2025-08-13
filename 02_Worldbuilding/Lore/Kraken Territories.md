@@ -9,21 +9,25 @@ status: complete
 tags:
 - ancient-creatures
 - apex-predator
+- aquabyssos
+- complete
 - content/lore
 - content/mechanics
 - environment
 - geography
 - intelligence
 - kraken
+- lore
 - natural-phenomena
 - status/complete
 - territorial-behavior
 - territories
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.904809'
+updated: '2025-08-13T12:34:15.732481+00:00'
 world: Aquabyssos
 ---
+
 
 
 

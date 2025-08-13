@@ -3,17 +3,21 @@ created: '2025-08-12'
 status: complete
 tags:
 - barter
+- both
+- complete
 - content/lore
 - economy
+- lore
 - mechanics/social
 - poverty
 - status/complete
 - survival
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.387865'
+updated: '2025-08-13T12:34:15.271587+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Survival Economics

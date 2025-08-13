@@ -1,7 +1,8 @@
 ---
 MyCategory: Unknown
 MyContainer: None
-continent: '[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]'
+continent: '[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos
+  Prime]]'
 created: 2025-08-07 - Category/Place
 danger_level: High (Political)
 depth: 1,500-2,000 feet
@@ -11,17 +12,21 @@ obsidianUIMode: preview
 population: ~500 (plus countless echoes)
 status: complete
 tags:
+- both
+- complete
 - content/location
 - horror
+- location
 - political
 - status/in-progress
 - temporal
 - world/aquabyssos
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.093381'
+updated: '2025-08-13T12:34:16.857896+00:00'
 world: Both
 ---
+
 
 
 

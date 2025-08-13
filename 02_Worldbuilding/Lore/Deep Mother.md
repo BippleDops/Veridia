@@ -5,19 +5,23 @@ created_by: auto-stub
 significance: Primary Deity
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - cosmic-entity
 - creation-myth
 - deity
 - dreams
+- lore
 - primordial
 - shadows
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.992701'
+updated: '2025-08-13T12:34:14.919043+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Scene

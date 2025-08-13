@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/hotdq
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.630540'
+updated: '2025-08-13T12:34:19.240994+00:00'
 world: Both
 ---
+
 
 # Appendix D: Monsters
 *Source: Hoard of the Dragon Queen, p. 180* 

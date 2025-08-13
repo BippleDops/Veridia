@@ -1,5 +1,6 @@
 ---
-affiliation: '[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] (Resonance Network)'
+affiliation: '[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven
+  Shards]] (Resonance Network)'
 created: '2025-08-09'
 created_by: Claude
 current_location: '[[The Crystalline Foundry]]'
@@ -9,15 +10,19 @@ rarity: Legendary
 requires_attunement: Yes (by a creature proficient with smith's tools)
 status: complete
 tags:
+- aethermoor
+- complete
 - content/item
 - content/lore
+- item
 - seven-shards-connected
 - status/complete
 - world/aethermoor
 type: Item
-updated: '2025-08-12T23:37:41.079096'
+updated: '2025-08-13T12:34:17.757559+00:00'
 world: Aethermoor
 ---
+
 
 
 

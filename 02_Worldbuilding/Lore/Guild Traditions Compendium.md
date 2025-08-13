@@ -4,18 +4,22 @@ created_by: cultural-expansion
 status: complete
 tags:
 - access/secret
+- both
+- complete
 - content/faction
 - content/lore
 - culture
 - initiation-rites
+- lore
 - professions
 - status/complete
 - traditions
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.529904'
+updated: '2025-08-13T12:34:15.365694+00:00'
 world: Both
 ---
+
 
 # Guild Traditions Compendium
 *"In the ancient brotherhood of craft and skill, traditions bind us stronger than contracts and deeper than the ocean depths or highest skies."*

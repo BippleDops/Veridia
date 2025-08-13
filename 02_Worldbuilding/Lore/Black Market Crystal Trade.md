@@ -2,18 +2,22 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
 - black-market
+- complete
 - content/faction
 - content/lore
 - economics
+- lore
 - status/complete
 - trade
 - world/aethermoor
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.624959'
+updated: '2025-08-13T12:34:15.428808+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Black Market Crystal Trade

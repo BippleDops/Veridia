@@ -3,17 +3,21 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
 - campaign/session
+- complete
 - content/item
 - content/lore
+- lore
 - random-events
 - status/complete
 - tables
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.260664'
+updated: '2025-08-13T12:34:15.159311+00:00'
 world: Aquabyssos
 ---
+
 
 
 

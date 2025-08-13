@@ -3,15 +3,17 @@ type: Lore
 tags:
 - active
 - both
+- complete
 - lore
 - note
 aliases: []
 created: '2025-07-23'
 modified: 2025-07-23 12:39
 world: Both
-updated: '2025-08-13T01:18:37.136937+00:00'
+updated: '2025-08-13T12:34:14.596249+00:00'
 status: complete
 ---
+
 
 
 

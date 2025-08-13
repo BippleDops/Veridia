@@ -4,24 +4,30 @@ MyContainer: None
 created: '2025-08-08'
 created_by: auto-stub
 level_range: 8-12
-location: '[[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]'
+location: '[[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The
+  Crystalline Wastes]]'
 obsidianUIMode: preview
-quest_giver: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
+quest_giver: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen
+  Seraphina Lumengarde]]'
 quest_type: Main Story
 rewards: 5000 gp, Noble Title, Crystal Artifacts
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/lore
 - festival
+- lore
 - mechanics/exploration
 - political
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:37.779910'
+updated: '2025-08-13T12:34:14.692013+00:00'
 world: Aethermoor
 ---
+
 
 
 

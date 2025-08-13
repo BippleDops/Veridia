@@ -3,16 +3,20 @@ created: '2025-08-12'
 status: complete
 tags:
 - access/public
+- aquabyssos
+- complete
 - content/faction
 - content/lore
 - law-enforcement
+- lore
 - quarantine
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.895895'
+updated: '2025-08-13T12:34:15.723284+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Quarantine Enforcement

@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - monster
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
@@ -16,9 +18,10 @@ tags:
 - ttrpg-cli/monster/type/celestial
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.813646'
+updated: '2025-08-13T12:34:20.214651+00:00'
 world: Both
 ---
+
 
 # [[3-Mechanics\CLI\bestiary\celestial/celestial-spirit-xphb|Celestial Spirit]]
 *Source: Player's Handbook (2024) p. 323*  

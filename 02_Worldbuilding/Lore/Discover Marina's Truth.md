@@ -10,8 +10,11 @@ revelation_level: Progressive
 significance: Campaign Central
 status: complete
 tags:
+- both
 - campaign/arc
+- complete
 - content/lore
+- lore
 - marina
 - mechanics/magic
 - mystery
@@ -20,9 +23,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.556653'
+updated: '2025-08-13T12:34:16.339513+00:00'
 world: Both
 ---
+
 
 
 

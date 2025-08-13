@@ -2,16 +2,20 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
 - campaign/hook
+- complete
 - content/npc
+- npc
 - political-opposition
 - purist-coalition
 - status/in-progress
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:41.007649'
+updated: '2025-08-13T12:34:17.666528+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait

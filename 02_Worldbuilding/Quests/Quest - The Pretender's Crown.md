@@ -12,9 +12,12 @@ quest_type: Main Quest
 rewards: Noble Title, Royal Artifacts, Political Power
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/lore
 - intrigue
+- lore
 - mechanics/exploration
 - political
 - status/in-progress
@@ -22,9 +25,10 @@ tags:
 - world/aethermoor
 time_limit: Before the Coronation (14 days)
 type: Lore
-updated: '2025-08-12T23:37:37.784339'
+updated: '2025-08-13T12:34:14.696206+00:00'
 world: Aethermoor
 ---
+
 
 
 

@@ -29,10 +29,13 @@ role: Reigning Monarch
 ruling_style: Constitutional Monarchy with Emergency Powers
 status: complete
 tags:
+- aquabyssos
 - campaign/hook
+- complete
 - content/npc
 - coral-crown
 - deep-nobility
+- npc
 - queen
 - royalty
 - status/complete
@@ -40,9 +43,10 @@ tags:
 title: Queen of the Depths, Sovereign of the Coral Throne, Protector of the Abyssal
   Realms
 type: Npc
-updated: '2025-08-12T23:37:38.794719'
+updated: '2025-08-13T12:34:15.631132+00:00'
 world: Aquabyssos
 ---
+
 
 
 

@@ -5,13 +5,17 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - status/in-progress
+- template
 - world/both
 type: Template
-updated: '2025-08-12T23:37:33.121198'
+updated: '2025-08-13T12:34:03.258168+00:00'
 world: Both
 ---
+
 
 <%*
 const loreName = await tp.system.prompt("Enter Lore Name", tp.file.title);

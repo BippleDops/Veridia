@@ -7,18 +7,22 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - content/npc
 - driftwood
+- location
 - mechanics/exploration
 - navigator
 - sage
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.927192'
+updated: '2025-08-13T12:34:16.684963+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

@@ -10,19 +10,23 @@ primary_location: Port Meridian and surrounding regions
 quest_type: Investigation/Political Thriller
 status: complete
 tags:
+- aethermoor
+- complete
 - conspiracy
 - content/adventure
 - content/location
 - high-stakes
+- location
 - mechanics/exploration
 - mystery
 - political-intrigue
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.549174'
+updated: '2025-08-13T12:34:17.278305+00:00'
 world: Aethermoor
 ---
+
 
 
 

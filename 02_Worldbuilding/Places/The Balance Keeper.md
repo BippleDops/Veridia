@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- both aethermoor & aquabyssos
+- complete
 - content/location
+- location
 - status/in-progress
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.281388'
+updated: '2025-08-13T12:34:17.041111+00:00'
 world: Both Aethermoor & Aquabyssos
 ---
+
 
 
 

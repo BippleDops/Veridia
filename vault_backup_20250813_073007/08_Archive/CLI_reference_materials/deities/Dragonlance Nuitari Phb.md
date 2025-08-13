@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - note
 - status/in-progress
@@ -14,9 +16,10 @@ tags:
 - ttrpg-cli/deity/dragonlance
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.079701'
+updated: '2025-08-13T12:34:18.563686+00:00'
 world: Both
 ---
+
 
 # Nuitari
 *Source: Player's Handbook p. 295, Sword Coast Adventurer's Guide p. 125* 

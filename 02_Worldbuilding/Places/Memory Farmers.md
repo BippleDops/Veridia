@@ -3,12 +3,15 @@ created: '2025-08-09'
 current_status: Active but Underground
 danger_level: 8
 founded: Second Age of Aquabyssos
-headquarters: '[[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]]'
-leader: '[[02_Worldbuilding/People/Memory Merchant Valeria|02 Worldbuilding/People/Memory Merchant Valeria]]'
+headquarters: '[[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory
+  Meadows Black Market]]'
+leader: '[[02_Worldbuilding/People/Memory Merchant Valeria|02 Worldbuilding/People/Memory
+  Merchant Valeria]]'
 related_entities:
 - '[[02_Worldbuilding/Lore/Memory Alterations|02 Worldbuilding/Lore/Memory Alterations]]'
 - '[[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
-- '[[02_Worldbuilding/People/Memory Trader Kellian|02 Worldbuilding/People/Memory Trader Kellian]]'
+- '[[02_Worldbuilding/People/Memory Trader Kellian|02 Worldbuilding/People/Memory
+  Trader Kellian]]'
 specialties:
 - Memory Extraction
 - Experience Harvesting
@@ -16,10 +19,13 @@ specialties:
 - Psychological Manipulation
 status: draft
 tags:
+- aquabyssos
 - content/faction
 - content/location
 - dangerous
+- draft
 - farming
+- location
 - memory
 - merchants
 - psychological
@@ -27,9 +33,10 @@ tags:
 - unethical
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.469206'
+updated: '2025-08-13T12:34:17.210525+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- aethermoor
+- complete
 - content/location
+- location
 - status/in-progress
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:39.832569'
+updated: '2025-08-13T12:34:16.579056+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-vault-keepers-the-vault-keepers.svg)

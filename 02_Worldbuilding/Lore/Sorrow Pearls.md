@@ -4,9 +4,12 @@ date_created: '2025-08-11'
 date_modified: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/item
 - content/lore
 - emotion
+- lore
 - mechanics/magic
 - sorrow-pearls
 - status/complete
@@ -14,9 +17,10 @@ tags:
 - world/both
 - worldbuilding
 type: Lore
-updated: '2025-08-12T23:37:38.180508'
+updated: '2025-08-13T12:34:15.092782+00:00'
 world: Both
 ---
+
 
 
 

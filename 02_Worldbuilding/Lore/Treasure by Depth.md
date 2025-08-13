@@ -3,16 +3,20 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/item
 - content/lore
 - loot-tables
+- lore
 - rewards
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.484824'
+updated: '2025-08-13T12:34:15.349482+00:00'
 world: Aquabyssos
 ---
+
 
 
 

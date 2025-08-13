@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/mtf
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.182804'
+updated: '2025-08-13T12:34:03.381133+00:00'
 world: Both
 ---
+
 
 # Demon Customization Tables; Demon Flaws
 *Source: Mordenkainen's Tome of Foes p. 33* 

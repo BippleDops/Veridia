@@ -9,10 +9,13 @@ obsidianUIMode: preview
 security_level: extreme
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/item
 - content/location
 - content/lore
 - forgotten
+- location
 - memory
 - mystery
 - ruins
@@ -20,9 +23,10 @@ tags:
 - temporal
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.033367'
+updated: '2025-08-13T12:34:16.798284+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-forgotten-one-the-forgotten-one.png)

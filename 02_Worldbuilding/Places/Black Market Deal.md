@@ -7,17 +7,21 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - black_market
+- complete
 - content/adventure
 - content/location
 - deal
 - intrigue
+- location
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.793783'
+updated: '2025-08-13T12:34:16.566995+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

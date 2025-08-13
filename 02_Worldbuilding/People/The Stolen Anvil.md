@@ -7,16 +7,20 @@ obsidianUIMode: preview
 status: complete
 tags:
 - anvil
+- aquabyssos
+- complete
 - content/lore
 - content/npc
 - crafting
+- npc
 - status/complete
 - theft
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.916422'
+updated: '2025-08-13T12:34:17.587802+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

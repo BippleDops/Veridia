@@ -2,12 +2,16 @@
 created: null
 status: draft
 tags:
+- both
+- draft
+- lore
 - status/draft
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:32.994020'
+updated: '2025-08-13T12:34:03.145552+00:00'
 world: Both
 ---
+
 
 # 100-Step Vault Excellence Plan for Obsidian 1.9.7
 *A Comprehensive Roadmap to Transform Your TTRPG Vault into a World-Class Campaign Resource*

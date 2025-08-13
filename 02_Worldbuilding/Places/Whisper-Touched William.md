@@ -15,7 +15,8 @@ government: Oracular Authority
 location_name: Whisper-Touched William's Oracle Shrine
 location_type: Prophetic Shrine Complex
 notable_npcs:
-- '[[02_Worldbuilding/People/Whisper-Touched William|02 Worldbuilding/People/Whisper Touched William]]'
+- '[[02_Worldbuilding/People/Whisper-Touched William|02 Worldbuilding/People/Whisper
+  Touched William]]'
 - '[[Echo-Translator Vera]]'
 - '[[Silent Guardian Marcus]]'
 - '[[Truth-Seeker Cornelius]]'
@@ -23,7 +24,8 @@ obsidianUIMode: preview
 parent_location: '[[Abyssos Prime]]'
 population: 25
 pressure_effects: Moderate
-ruler: '[[02_Worldbuilding/People/Whisper-Touched William|02 Worldbuilding/People/Whisper Touched William]]'
+ruler: '[[02_Worldbuilding/People/Whisper-Touched William|02 Worldbuilding/People/Whisper
+  Touched William]]'
 services:
 - Prophetic Consultation
 - Whisper Translation
@@ -39,7 +41,10 @@ sub_locations:
 - '[[Prophecy Translation Center]]'
 - '[[William''s Living Quarters]]'
 tags:
+- both
+- complete
 - content/location
+- location
 - madness
 - oracle
 - shrine
@@ -49,10 +54,11 @@ tags:
 - world/both
 temporal_stability: 40
 type: Location
-updated: '2025-08-12T23:37:39.868638'
+updated: '2025-08-13T12:34:16.613436+00:00'
 visited: false
 world: Both
 ---
+
 
 
 > [!figure] View

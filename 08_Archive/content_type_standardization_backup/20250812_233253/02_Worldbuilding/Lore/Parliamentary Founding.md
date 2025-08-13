@@ -2,6 +2,7 @@
 tags:
 - active
 - aquabyssos
+- complete
 - founding
 - government
 - history
@@ -12,8 +13,9 @@ type: Lore
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-13T01:18:34.820795+00:00'
+updated: '2025-08-13T12:34:12.090953+00:00'
 ---
+
 
 
 # Parliamentary Founding

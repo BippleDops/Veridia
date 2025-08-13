@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - content/lore
 - gm_resource
+- lore
 - status/complete
 - world/aquabyssos
 - world/both
 title: Encounter Sheet — D-L-03 Deep Mother Dream Tide
 type: Lore
-updated: '2025-08-12T23:37:33.042335'
+updated: '2025-08-13T12:34:17.914095+00:00'
 world: Both
 ---
+
 
 
 # D-L-03 Deep Mother Dream Tide

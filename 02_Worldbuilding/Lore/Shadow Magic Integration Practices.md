@@ -10,12 +10,15 @@ significance: Cultural Foundation
 status: complete
 tags:
 - adaptation
+- both
+- complete
 - content/lore
 - content/mechanics
 - cultural-adaptation
 - culture
 - daily-life
 - integration
+- lore
 - mechanics/magic
 - post-catastrophe
 - shadow-harmonization
@@ -24,9 +27,10 @@ tags:
 - umbral-techniques
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.221140'
+updated: '2025-08-13T12:34:16.017926+00:00'
 world: Both
 ---
+
 
 
 

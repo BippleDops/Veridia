@@ -9,16 +9,20 @@ cssclasses:
 modified: 2025-08-05
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - index
+- lore
 - navigation
 - performance
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.006581'
+updated: '2025-08-13T12:34:17.879745+00:00'
 world: Both
 ---
+
 
 
 

@@ -5,16 +5,20 @@ expanded: 2025-08-10
 status: complete
 tags:
 - ancient-civilizations
+- aquabyssos
+- complete
 - content/lore
 - empires
 - historical-events
+- lore
 - politics
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.891376'
+updated: '2025-08-13T12:34:15.719439+00:00'
 world: Aquabyssos
 ---
+
 
 
 

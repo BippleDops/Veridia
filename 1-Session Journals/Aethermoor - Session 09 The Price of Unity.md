@@ -7,9 +7,12 @@ estimated_time: 3-4 hours
 level: 5
 location: New Meridian - The Merged City
 npcs_featured:
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen
+  Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina
+  Red Tide Coralheart]]'
 - '[[Aquabyssos Ambassadors]]'
 - '[[The Transformed Citizens]]'
 obsidianUIMode: preview
@@ -20,8 +23,11 @@ quests_advanced:
 session_number: 9
 status: complete
 tags:
+- aethermoor
 - campaign/session
+- complete
 - content/lore
+- lore
 - merged-reality
 - new-world
 - status/in-progress
@@ -29,9 +35,10 @@ tags:
 - world/aquabyssos
 title: The Price of Unity
 type: Lore
-updated: '2025-08-12T23:37:41.174820'
+updated: '2025-08-13T12:34:17.843318+00:00'
 world: Aethermoor
 ---
+
 
 
 

@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/mtf
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.244011'
+updated: '2025-08-13T12:34:04.111003+00:00'
 world: Both
 ---
+
 
 # Dwarves on the Move; Group Leader
 *Source: Mordenkainen's Tome of Foes p. 81* 

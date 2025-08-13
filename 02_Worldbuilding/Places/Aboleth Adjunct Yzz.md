@@ -13,15 +13,19 @@ status: complete
 tags:
 - aboleth
 - alien-intelligence
+- aquabyssos
 - bio-laboratory
+- complete
 - content/location
 - dangerous
+- location
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.427839'
+updated: '2025-08-13T12:34:17.173535+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

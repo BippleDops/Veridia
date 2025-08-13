@@ -3,19 +3,23 @@ created: '2025-08-12'
 created_by: claude
 status: complete
 tags:
+- both
+- complete
 - content/mechanics
 - deep-mother
 - horror
 - madness
+- mechanics
 - sanity
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 - world/both
 type: Mechanics
-updated: '2025-08-12T23:37:41.092364'
+updated: '2025-08-13T12:34:17.777992+00:00'
 world: Both
 ---
+
 
 
 # Deep Mother Sanity System

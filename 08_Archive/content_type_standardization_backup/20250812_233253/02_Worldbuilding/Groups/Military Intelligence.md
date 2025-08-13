@@ -2,13 +2,15 @@
 tags:
 - active
 - both
+- complete
 - group
 type: Group
 world: Both
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.653491+00:00'
+updated: '2025-08-13T12:34:14.107029+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-military-intelligence-military-intelligence.svg)

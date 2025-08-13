@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/monk/drunken-master
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.423649'
+updated: '2025-08-13T12:34:19.089674+00:00'
 world: Both
 ---
+
 
 # Way of the Drunken Master
 *[[./monk-xphb|Monk]]: Monk Subclass*  

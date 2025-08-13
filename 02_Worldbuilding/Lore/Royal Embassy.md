@@ -4,18 +4,22 @@ created_by: auto-stub
 expanded: 2025-08-10
 status: complete
 tags:
+- aethermoor
 - campaign/arc
+- complete
 - content/faction
 - content/lore
 - embassies
+- lore
 - mechanics/social
 - politics
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:37.917189'
+updated: '2025-08-13T12:34:14.822908+00:00'
 world: Aethermoor
 ---
+
 
 
 

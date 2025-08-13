@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- complete
 - content/location
+- dimensional nexus (both realms)
+- location
 - status/in-progress
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.157073'
+updated: '2025-08-13T12:34:16.922858+00:00'
 world: Dimensional Nexus (Both Realms)
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-portal-wars-the-portal-wars.svg)

@@ -11,9 +11,11 @@ tags:
 - content/lore
 - creation_myth
 - deity
+- draft
 - drowning
 - dual
 - dual_world
+- lore
 - sacrifice
 - status/complete
 - transformation
@@ -23,9 +25,10 @@ themes:
 - protective_drowning
 - dual_nature_deity
 type: Lore
-updated: '2025-08-12T23:37:37.857343'
+updated: '2025-08-13T12:34:14.770934+00:00'
 world: dual
 ---
+
 
 
 

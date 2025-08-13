@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both aethermoor & aquabyssos
+- complete
 - content/faction
 - content/lore
+- lore
 - status/in-progress
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.152380'
+updated: '2025-08-13T12:34:15.069433+00:00'
 world: Both Aethermoor & Aquabyssos
 ---
+
 
 
 

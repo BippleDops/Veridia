@@ -6,16 +6,20 @@ created_by: auto-stub
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/npc
+- npc
 - status/complete
 - syndicate
 - world/aquabyssos
 - world/surface
 type: Npc
-updated: '2025-08-12T23:37:40.840533'
+updated: '2025-08-13T12:34:17.523639+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

@@ -8,10 +8,13 @@ scope: Inter-Realm Travel
 specialization_required: Advanced Training
 status: complete
 tags:
+- both worlds
+- complete
 - content/lore
 - cross-realm-navigation
 - dangerous-travel
 - environmental-hazards
+- lore
 - mechanics/magic
 - merged-zones
 - navigation
@@ -20,9 +23,10 @@ tags:
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.026890'
+updated: '2025-08-13T12:34:14.962051+00:00'
 world: Both Worlds
 ---
+
 
 
 

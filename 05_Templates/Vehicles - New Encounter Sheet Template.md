@@ -2,15 +2,19 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - campaign/session
+- complete
 - content/template
 - status/complete
+- template
 - world/both
 title: New Encounter Sheet Template
 type: Template
-updated: '2025-08-12T23:37:33.135132'
+updated: '2025-08-13T12:34:03.260702+00:00'
 world: Both
 ---
+
 
 
 # [Code] [Encounter Title]

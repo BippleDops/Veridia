@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - gm_resource
 - identity
+- lore
 - merger
 - status/complete
 - world/both
 title: Encounter Sheet — M-003 Duplicate Crew Arrival
 type: Lore
-updated: '2025-08-12T23:37:33.048751'
+updated: '2025-08-13T12:34:03.196297+00:00'
 world: Both
 ---
+
 
 
 # M-003 Duplicate Crew Arrival

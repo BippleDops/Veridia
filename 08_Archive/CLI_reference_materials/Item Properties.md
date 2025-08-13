@@ -7,13 +7,16 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.160093'
+updated: '2025-08-13T12:34:03.306542+00:00'
 world: Both
 ---
+
 
 # Item Properties
 

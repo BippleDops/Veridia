@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.502415'
+updated: '2025-08-13T12:34:18.369222+00:00'
 world: Both
 ---
+
 
 # 7,500 GP Art Objects
 *Source: Dungeon Master's Guide (2024) p. 215* 

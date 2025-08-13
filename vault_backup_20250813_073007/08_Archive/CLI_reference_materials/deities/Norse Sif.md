@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - importance/core
 - note
 - status/in-progress
@@ -14,9 +16,10 @@ tags:
 - ttrpg-cli/deity/norse
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.017224'
+updated: '2025-08-13T12:34:18.568719+00:00'
 world: Both
 ---
+
 
 # Sif
 *Source: Player's Handbook p. 299* 

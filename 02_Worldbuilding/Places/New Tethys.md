@@ -11,14 +11,18 @@ obsidianUIMode: preview
 population: 75000 - Category/Place
 status: complete
 tags:
+- both
+- complete
 - content/location
+- location
 - status/in-progress
 - twilight_reaches
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.455523'
+updated: '2025-08-13T12:34:17.198505+00:00'
 world: Both
 ---
+
 
 
 

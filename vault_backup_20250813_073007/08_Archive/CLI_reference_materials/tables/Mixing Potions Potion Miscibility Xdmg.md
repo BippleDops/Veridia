@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.318414'
+updated: '2025-08-13T12:34:18.446369+00:00'
 world: Both
 ---
+
 
 # Mixing Potions; Potion Miscibility
 *Source: Dungeon Master's Guide (2024) p. 216* 

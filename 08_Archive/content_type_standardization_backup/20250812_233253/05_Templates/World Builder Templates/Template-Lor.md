@@ -1,16 +1,18 @@
 ---
-updated: '2025-08-13T01:18:31.192984+00:00'
+updated: '2025-08-13T12:34:11.677405+00:00'
 created: '2025-08-11'
 tags:
 - active
 - both
 - category/lore
+- complete
 MyContainer: []
 MyCategory: null
 obsidianUIMode: preview
 world: Both
 status: complete
 ---
+
 
 <%*
 const loreName = await tp.system.prompt("Enter Lore Name", tp.file.title);

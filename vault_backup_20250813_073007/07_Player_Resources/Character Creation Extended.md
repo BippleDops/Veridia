@@ -2,18 +2,22 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - content/mechanics
 - content/npc
+- lore
 - player-resource
 - player_resource
 - status/complete
 - world/both
 title: Complete Character Creation Guide
 type: Lore
-updated: '2025-08-12T23:37:33.076076'
+updated: '2025-08-13T12:34:17.934071+00:00'
 world: Both
 ---
+
 
 
 

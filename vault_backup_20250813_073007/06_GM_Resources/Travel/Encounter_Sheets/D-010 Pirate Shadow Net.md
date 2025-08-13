@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - content/faction
 - gm_resource
+- lore
 - status/complete
 - world/aquabyssos
 - world/both
 title: Encounter Sheet — D-010 Pirate Shadow Net
 type: Lore
-updated: '2025-08-12T23:37:33.046082'
+updated: '2025-08-13T12:34:17.907082+00:00'
 world: Both
 ---
+
 
 
 # D-010 Pirate Shadow Net

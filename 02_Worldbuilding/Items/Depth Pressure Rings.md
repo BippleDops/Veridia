@@ -9,14 +9,18 @@ rarity: Common
 requires_attunement: 'No'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/item
+- item
 - mechanics/magic
 - status/complete
 - world/aquabyssos
 type: Item
-updated: '2025-08-12T23:37:41.078260'
+updated: '2025-08-13T12:34:17.756842+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Depth Pressure Rings

@@ -8,15 +8,18 @@ modified: 2025-07-23 12:39
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - content/item
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:37.362426'
+updated: '2025-08-13T12:34:21.182344+00:00'
 world: Both
 ---
+
 
 # Alchemy Jug
 *Wondrous item, uncommon*  

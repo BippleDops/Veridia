@@ -13,21 +13,25 @@ significance: Mechanical Framework
 status: complete
 tags:
 - anomaly
+- both worlds
+- complete
 - content/location
 - content/lore
 - content/mechanics
 - environmental
 - gravity
 - hazards
+- location
 - mechanics/magic
 - physics
 - status/complete
 - world/aquabyssos
 - world/both
 type: Location
-updated: '2025-08-12T23:37:39.755133'
+updated: '2025-08-13T12:34:16.535261+00:00'
 world: Both Worlds
 ---
+
 
 
 

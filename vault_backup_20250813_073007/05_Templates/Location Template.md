@@ -10,14 +10,18 @@ population: ~NUMBER and demographics
 status: complete
 tags:
 - additional_tags
+- aquabyssos or aethermoor
+- complete
 - content/location
+- location
 - status/in-progress
 - world/aethermoor
 - world_name
 type: Location
-updated: '2025-08-12T23:37:33.109241'
+updated: '2025-08-13T12:34:17.983877+00:00'
 world: Aquabyssos OR Aethermoor
 ---
+
 
 
 

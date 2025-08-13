@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both
+- complete
 - content/item
 - content/mechanics
 - economy
+- item
 - prices
 - status/complete
 - trade-goods
 - world/both
 type: Item
-updated: '2025-08-12T23:37:41.079807'
+updated: '2025-08-13T12:34:17.758156+00:00'
 world: Both
 ---
+
 
 > [!figure] Trade Goods
 ![](04_Resources/Assets/Items/items-trade-goods-catalog.svg)

@@ -7,21 +7,25 @@ scope: National Significance
 status: complete
 status_condition: Crystal Possessed
 tags:
+- aethermoor
 - campaign/arc
 - campaign/session
+- complete
 - content/lore
 - content/mechanics
 - content/npc
 - corruption
+- lore
 - political-crisis
 - status/complete
 - tragedy
 - world/aethermoor
 threat_level: Extreme
 type: Lore
-updated: '2025-08-12T23:37:38.066923'
+updated: '2025-08-13T12:34:14.997002+00:00'
 world: Aethermoor
 ---
+
 
 
 

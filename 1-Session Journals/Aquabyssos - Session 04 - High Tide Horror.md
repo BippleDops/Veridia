@@ -23,10 +23,12 @@ locations_visited:
 - '[[The Convergence Point]]'
 - '[[Tidal Chambers]]'
 npcs_met:
-- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess
+  Nyx]]'
 - '[[Shadow Nyx]]'
 - '[[The Real Marina]]'
-- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] (United)'
+- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered
+  Emperor]] (United)'
 obsidianUIMode: preview
 players: []
 plot_threads:
@@ -47,17 +49,21 @@ session: Session-04
 shadow_activity: Critical
 status: complete
 tags:
+- aquabyssos
 - campaign/session
+- complete
 - content/lore
+- lore
 - parliament-of-shadows
 - shadow-harvest
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:41.177641'
+updated: '2025-08-13T12:34:17.845927+00:00'
 world: Aquabyssos
 xp_awarded: 2000
 ---
+
 
 
 

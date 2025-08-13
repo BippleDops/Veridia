@@ -3,18 +3,22 @@ created: '2025-08-11'
 status: complete
 tags:
 - adaptation
+- both
+- complete
 - content/lore
 - content/mechanics
 - content/npc
+- lore
 - status/complete
 - transformation
 - world/aquabyssos
 - world/both
 title: Complete Pressure Adaptation System
 type: Lore
-updated: '2025-08-12T23:37:41.112063'
+updated: '2025-08-13T12:34:17.785555+00:00'
 world: Both
 ---
+
 
 
 

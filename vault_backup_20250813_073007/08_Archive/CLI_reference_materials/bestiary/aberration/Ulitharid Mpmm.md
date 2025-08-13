@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - monster
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/mpmm
@@ -17,9 +19,10 @@ tags:
 - ttrpg-cli/monster/type/aberration/mind-flayer
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.314695'
+updated: '2025-08-13T12:34:19.757403+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Creature

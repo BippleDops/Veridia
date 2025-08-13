@@ -8,17 +8,21 @@ reward: Major - Category/Quest
 status: draft
 tags:
 - available
+- both
 - content/adventure
 - content/lore
 - corruption
+- draft
+- lore
 - mechanics/combat
 - moral-choice
 - nature
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.786341'
+updated: '2025-08-13T12:34:14.697835+00:00'
 world: Both
 ---
+
 
 
 

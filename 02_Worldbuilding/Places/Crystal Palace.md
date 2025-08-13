@@ -9,7 +9,10 @@ population: 500
 ruler: Crystal Sovereign Prism-Heart
 status: complete
 tags:
+- both
+- complete
 - content/location
+- location
 - palace
 - royal
 - status/in-progress
@@ -17,9 +20,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.176483'
+updated: '2025-08-13T12:34:16.943791+00:00'
 world: Both
 ---
+
 
 
 > [!figure] View

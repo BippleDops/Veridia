@@ -4,6 +4,7 @@ tags:
 - aethermoor
 - aquabyssos
 - both
+- complete
 - inter-dimensional
 - observatory
 - place
@@ -11,10 +12,11 @@ type: Place
 world: Both
 status: complete
 created: '2025-08-12'
-updated: '2025-08-13T01:18:36.512259+00:00'
+updated: '2025-08-13T12:34:13.975531+00:00'
 danger_level: High
 restricted_access: true
 ---
+
 
 
 > [!figure] View

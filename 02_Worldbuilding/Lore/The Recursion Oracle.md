@@ -4,7 +4,10 @@ date_created: '2025-08-11'
 date_modified: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - oracle
 - prophecy
 - recursion
@@ -14,9 +17,10 @@ tags:
 - world/both
 - worldbuilding
 type: Lore
-updated: '2025-08-12T23:37:37.925407'
+updated: '2025-08-13T12:34:14.829773+00:00'
 world: Both
 ---
+
 
 
 

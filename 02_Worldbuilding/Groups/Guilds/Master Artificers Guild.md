@@ -16,11 +16,14 @@ scope: Continental
 specialization: Advanced Magical Items
 status: complete
 tags:
+- aethermoor
 - apprenticeship
 - artificers
+- complete
 - content/faction
 - craftsmanship
 - elite-crafters
+- faction
 - innovation
 - masterwork-creation
 - mechanics/magic
@@ -35,9 +38,10 @@ themes:
 - guild_hierarchy
 - masterwork_tradition
 type: Faction
-updated: '2025-08-12T23:37:40.764543'
+updated: '2025-08-13T12:34:17.465477+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry

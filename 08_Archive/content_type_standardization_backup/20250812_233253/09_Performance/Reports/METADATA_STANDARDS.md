@@ -2,6 +2,7 @@
 tags:
 - active
 - both
+- complete
 - documentation
 - metadata
 - standards
@@ -10,8 +11,9 @@ type: Standards
 world: Both
 status: complete
 created: '2025-08-12'
-updated: '2025-08-13T01:18:31.097216+00:00'
+updated: '2025-08-13T12:34:11.603791+00:00'
 ---
+
 
 
 # Vault Metadata Standards

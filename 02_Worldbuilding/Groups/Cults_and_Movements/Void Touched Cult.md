@@ -2,13 +2,17 @@
 created: '2025-08-12'
 status: stub
 tags:
+- aquabyssos
 - content/faction
+- faction
 - status/stub
+- stub
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.689704'
+updated: '2025-08-13T12:34:17.398337+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Void Touched Cult

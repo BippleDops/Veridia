@@ -6,6 +6,7 @@ tags:
 - active
 - aquabyssos
 - lore
+- outlined
 - parliament-shadows
 - planned
 - session
@@ -33,9 +34,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: '2025-08-13T01:18:37.189273+00:00'
+updated: '2025-08-13T12:34:14.644720+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

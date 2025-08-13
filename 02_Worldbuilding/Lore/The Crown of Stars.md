@@ -13,8 +13,10 @@ tags:
 - content/item
 - content/lore
 - convergence
+- draft
 - dual
 - dual_world
+- lore
 - mechanics/magic
 - royal_regalia
 - status/complete
@@ -25,9 +27,10 @@ themes:
 - dual_world_sovereignty
 - price_of_power
 type: Lore
-updated: '2025-08-12T23:37:39.077271'
+updated: '2025-08-13T12:34:15.898891+00:00'
 world: dual
 ---
+
 
 
 

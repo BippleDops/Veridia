@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - monster
 - status/in-progress
@@ -17,9 +19,10 @@ tags:
 - ttrpg-cli/monster/type/beast
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.192064'
+updated: '2025-08-13T12:34:05.406694+00:00'
 world: Both
 ---
+
 
 # [[3-Mechanics\CLI\bestiary\beast/polar-bear-xmm|Polar Bear]]
 *Source: Monster Manual (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

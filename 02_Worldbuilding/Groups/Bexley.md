@@ -13,16 +13,20 @@ obsidianUIMode: preview
 status: complete
 tags:
 - administration
+- aquabyssos
+- complete
 - content/faction
 - content/location
+- faction
 - municipal
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.578936'
+updated: '2025-08-13T12:34:17.304584+00:00'
 wealth: Substantial (municipal taxes and port revenues)
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry

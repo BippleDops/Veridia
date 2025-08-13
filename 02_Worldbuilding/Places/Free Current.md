@@ -6,14 +6,19 @@ government: Collective Self-Governance
 length: Over 2,000 miles of interconnected currents
 population: ~15,000 (rotating community of travelers and workers)
 related_entities:
-- '[[02_Worldbuilding/Groups/Current Riders Guild|02 Worldbuilding/Groups/Current Riders Guild]]'
+- '[[02_Worldbuilding/Groups/Current Riders Guild|02 Worldbuilding/Groups/Current
+  Riders Guild]]'
 - '[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]'
 - '[[02_Worldbuilding/Places/New Tethys|02 Worldbuilding/Places/New Tethys]]'
-- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory
+  Meadows]]'
 status: complete
 tags:
+- aquabyssos
 - communal
+- complete
 - content/location
+- location
 - neutral
 - status/complete
 - status/in-progress
@@ -23,9 +28,10 @@ tags:
 - world/aquabyssos
 traffic: High - Major commercial and civilian route
 type: Location
-updated: '2025-08-12T23:37:39.841763'
+updated: '2025-08-13T12:34:16.588021+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-free-current-free-current.svg)

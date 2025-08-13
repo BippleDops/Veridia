@@ -9,18 +9,22 @@ obsidianUIMode: preview
 population: ~500000
 status: complete
 tags:
+- both
+- complete
 - content/location
 - horror
 - knowledge
+- location
 - scholars
 - status/in-progress
 - world/aquabyssos
 - world/both
 - world/surface
 type: Location
-updated: '2025-08-12T23:37:39.999379'
+updated: '2025-08-13T12:34:16.756134+00:00'
 world: Both
 ---
+
 
 
 

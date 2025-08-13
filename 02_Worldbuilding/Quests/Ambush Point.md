@@ -10,18 +10,22 @@ quest_type: Tactical Combat & Resistance Operations
 status: complete
 tags:
 - ambush
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
 - guerrilla-tactics
+- lore
 - resistance-movement
 - shadow-conspiracy
 - status/complete
 - tactical-warfare
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.757209'
+updated: '2025-08-13T12:34:14.671629+00:00'
 world: Aquabyssos
 ---
+
 
 
 

@@ -4,16 +4,20 @@ tags:
 - aquabyssos
 - both
 - capital
+- complete
 - continent
 - location
 location_name: Abyssos Prime
 location_type: Sunken Capital
 parent_location: '[[Aquabyssos]]'
 sub_locations:
-- '[[02_Worldbuilding/Places/The Inverse Palace|02 Worldbuilding/Places/The Inverse Palace]]'
-- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
+- '[[02_Worldbuilding/Places/The Inverse Palace|02 Worldbuilding/Places/The Inverse
+  Palace]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]]'
 - '[[02_Worldbuilding/Places/Screaming Gardens|02 Worldbuilding/Places/Screaming Gardens]]'
-- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory
+  Meadows]]'
 - '[[Reflection Pools]]'
 - '[[Pressure Terminal]]'
 - '[[Throne of Bubbles]]'
@@ -21,9 +25,11 @@ sub_locations:
 depth: 1000-3000 feet
 population: 2000000
 government: '[[The Eternal Senate]]'
-ruler: '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'
+ruler: '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The
+  Scattered Emperor]]'
 factions:
-- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]]'
 - '[[Shadow Conspiracy]]'
 - '[[Depth Merchants]]'
 - '[[Memory Farmers]]'
@@ -37,7 +43,8 @@ services:
 - Depth Adaptation
 - Political Intrigue
 notable_npcs:
-- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'
+- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered
+  Emperor]]'
 - '[[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
 current_state: Shadow conspiracy active
@@ -49,10 +56,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:36.425014+00:00'
+updated: '2025-08-13T12:34:13.865026+00:00'
 status: complete
 type: Location
 ---
+
 
 
 

@@ -13,18 +13,22 @@ race: Half-Elf (Crystal-Touched)
 status: complete
 status_condition: Active, Identity Unknown
 tags:
+- aethermoor
 - bard
+- complete
 - content/lore
 - content/npc
 - information-broker
 - mysterious
+- npc
 - spy
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:41.048891'
+updated: '2025-08-13T12:34:17.704025+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-siren-the-siren.svg)

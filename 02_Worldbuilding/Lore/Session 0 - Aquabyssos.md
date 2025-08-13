@@ -4,16 +4,20 @@ date_created: '2025-08-11'
 date_modified: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
 - campaign/arc
 - campaign/session
+- complete
 - content/lore
+- lore
 - status/complete
 - world/aquabyssos
 - worldbuilding
 type: Lore
-updated: '2025-08-12T23:37:37.859650'
+updated: '2025-08-13T12:34:14.772612+00:00'
 world: Aquabyssos
 ---
+
 
 
 

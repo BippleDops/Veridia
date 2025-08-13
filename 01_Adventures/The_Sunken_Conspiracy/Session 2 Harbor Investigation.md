@@ -6,7 +6,10 @@ level_range: 1-3
 session_number: 2
 status: complete
 tags:
+- adventure
+- aquabyssos
 - campaign/session
+- complete
 - conspiracy
 - mechanics/exploration
 - mechanics/social
@@ -15,9 +18,10 @@ tags:
 - world/aquabyssos
 title: 'The Sunken Conspiracy - Session 2: Harbor Investigation'
 type: Adventure
-updated: '2025-08-12T23:37:41.158585'
+updated: '2025-08-13T12:34:17.828503+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Session 2: Harbor Investigation

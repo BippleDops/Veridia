@@ -15,6 +15,8 @@ obsidianUIMode: preview
 status: active
 tags:
 - access/secret
+- active
+- both
 - campaign/arc
 - content/lore
 - mechanics/magic
@@ -23,9 +25,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.199474'
+updated: '2025-08-13T12:34:06.537638+00:00'
 world: Both
 ---
+
 
 # Unseen Servant
 *1st-level, Conjuration (ritual)*  

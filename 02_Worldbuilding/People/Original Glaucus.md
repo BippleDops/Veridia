@@ -5,15 +5,20 @@ alignment: Lawful Good
 class: Noble/Diplomat
 created: '2025-08-08'
 created_by: auto-stub
-faction: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] (formerly)'
+faction: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]] (formerly)'
 level: 7
-location: '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
+location: '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The
+  Memory Meadows]]'
 obsidianUIMode: preview
 race: Human (Adapted)
 status: complete
 status_condition: Imprisoned, Slowly Forgotten
 tags:
+- aquabyssos
+- complete
 - content/npc
+- npc
 - prisoner
 - senator
 - shadow-victim
@@ -21,9 +26,10 @@ tags:
 - tragic
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:41.046339'
+updated: '2025-08-13T12:34:17.701619+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

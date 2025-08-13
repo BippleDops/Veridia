@@ -3,17 +3,21 @@ created: '2025-08-12'
 created_by: claude
 status: complete
 tags:
+- both
+- complete
 - content/faction
 - cult
 - deep-mother
 - eldritch-horror
+- faction
 - status/complete
 - world/aquabyssos
 - world/both
 type: Faction
-updated: '2025-08-12T23:37:40.690930'
+updated: '2025-08-13T12:34:17.399778+00:00'
 world: Both
 ---
+
 
 
 # Cult of the Deep Mother

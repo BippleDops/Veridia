@@ -10,7 +10,8 @@ danger_level: 8
 date: null
 duration_hours: 4
 encounters:
-- '[[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal Guard Elite]]'
+- '[[02_Worldbuilding/Lore/The Crystal Guard Elite|02 Worldbuilding/Lore/The Crystal
+  Guard Elite]]'
 - '[[Possessed Noble Coterie]]'
 - '[[02_Worldbuilding/Places/Throne Room - Heart of Palace|The Queen''s Shadow]]'
 gold_gained: 0
@@ -27,10 +28,14 @@ locations_visited:
 - '[[Throne Room]]'
 - '[[Royal Vault]]'
 npcs_met:
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]'
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen
+  Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High
+  Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]]'
 - '[[Princess Celestia]] (revealed)'
 obsidianUIMode: preview
 players: []
@@ -51,17 +56,21 @@ quests_started:
 session: Session-05
 status: complete
 tags:
+- aethermoor
 - campaign/session
+- complete
 - content/lore
+- lore
 - queen-seraphina
 - seven-shards
 - status/in-progress
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:41.173274'
+updated: '2025-08-13T12:34:17.841744+00:00'
 world: Aethermoor
 xp_awarded: 1500
 ---
+
 
 
 

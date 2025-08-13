@@ -12,7 +12,10 @@ members: ~800 sailors, dock workers, and maritime specialists
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
+- faction
 - maritime
 - shadow-operations
 - smuggling
@@ -20,10 +23,11 @@ tags:
 - transportation
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.665185'
+updated: '2025-08-13T12:34:17.377816+00:00'
 wealth: Substantial (shadow trade and smuggling)
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry

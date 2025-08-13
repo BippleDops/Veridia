@@ -4,6 +4,7 @@ tags:
 - aquabyssos
 - completed
 - deep-lore
+- draft
 - education
 - educational-institution
 - forbidden-knowledge
@@ -14,9 +15,12 @@ status: draft
 world: Aquabyssos
 type: Lore
 danger_level: 6
-parent_location: '[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]'
-government: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
-leader: '[[02_Worldbuilding/People/Professor Euclid Mindmaze|02 Worldbuilding/People/Professor Euclid Mindmaze]]'
+parent_location: '[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos
+  Prime]]'
+government: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]]'
+leader: '[[02_Worldbuilding/People/Professor Euclid Mindmaze|02 Worldbuilding/People/Professor
+  Euclid Mindmaze]]'
 specialties:
 - Deep Lore Research
 - Psionic Studies
@@ -24,12 +28,14 @@ specialties:
 - Ancient History
 founded: Third Age of Aquabyssos
 created: '2025-08-09'
-updated: '2025-08-13T01:18:35.632835+00:00'
+updated: '2025-08-13T12:34:13.062061+00:00'
 related_entities:
 - '[[02_Worldbuilding/Lore/Deep Mother|02 Worldbuilding/Lore/Deep Mother]]'
 - '[[02_Worldbuilding/Lore/Aboleth Mind Mazes|02 Worldbuilding/Lore/Aboleth Mind Mazes]]'
-- '[[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The Abyss Beneath Aquabyssos]]'
+- '[[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The
+  Abyss Beneath Aquabyssos]]'
 ---
+
 
 
 

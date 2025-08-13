@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - gm_resource
 - horror
+- lore
 - status/complete
 - world/aquabyssos
 - world/both
 title: Encounter Sheet — D-005 Shadow Bloom
 type: Lore
-updated: '2025-08-12T23:37:33.057845'
+updated: '2025-08-13T12:34:03.198897+00:00'
 world: Both
 ---
+
 
 
 # D-005 Shadow Bloom

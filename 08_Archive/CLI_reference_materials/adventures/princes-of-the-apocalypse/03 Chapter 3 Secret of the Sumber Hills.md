@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/pota
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.567229'
+updated: '2025-08-13T12:34:04.963015+00:00'
 world: Both
 ---
+
 
 # Chapter 3: Secret of the Sumber Hills
 *Source: Princes of the Apocalypse, p. 40* 

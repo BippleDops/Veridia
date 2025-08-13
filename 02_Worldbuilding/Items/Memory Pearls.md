@@ -9,16 +9,20 @@ rarity: Uncommon to Legendary (varies by content)
 requires_attunement: 'No'
 status: complete
 tags:
+- aquabyssos
+- complete
 - consumable
 - content/item
+- item
 - mechanics/magic
 - memory-farmers
 - status/complete
 - world/aquabyssos
 type: Item
-updated: '2025-08-12T23:37:41.073149'
+updated: '2025-08-13T12:34:17.751649+00:00'
 world: Aquabyssos
 ---
+
 
 
 

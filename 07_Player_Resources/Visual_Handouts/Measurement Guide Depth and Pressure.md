@@ -3,13 +3,17 @@ created: null
 obsidianUIMode: preview
 status: complete
 tags:
+- complete
 - handout
+- lore
 - status/complete
+- universal
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.101440'
+updated: '2025-08-13T12:34:03.244394+00:00'
 world: Universal
 ---
+
 
 
 # Measurement Guide Depth and Pressure

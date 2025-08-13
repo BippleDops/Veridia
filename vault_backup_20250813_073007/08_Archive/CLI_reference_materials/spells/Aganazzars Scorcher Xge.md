@@ -15,6 +15,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - content/lore
 - mechanics/magic
@@ -23,9 +25,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.139523'
+updated: '2025-08-13T12:34:20.649073+00:00'
 world: Both
 ---
+
 
 # Aganazzar's Scorcher
 *2nd-level, Evocation*  

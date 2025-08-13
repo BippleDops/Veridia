@@ -32,15 +32,19 @@ relationships:
 status: draft
 tags:
 - alive
+- both
 - content/npc
+- draft
 - merchant
+- npc
 - smuggler
 - status/in-progress
 - world/both
 type: Npc
-updated: '2025-08-12T23:37:41.038209'
+updated: '2025-08-13T12:34:17.693356+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait

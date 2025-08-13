@@ -2,18 +2,22 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - campaign/session
+- complete
 - content/lore
 - gm-resource
 - gm_resource
+- lore
 - mechanics/combat
 - status/complete
 - world/both
 title: Encounter Builder & Combat Guide
 type: Lore
-updated: '2025-08-12T23:37:33.023992'
+updated: '2025-08-13T12:34:03.182238+00:00'
 world: Both
 ---
+
 
 
 

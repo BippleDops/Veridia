@@ -3,13 +3,17 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- complete
 - handout
+- lore
 - status/complete
+- universal
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.106265'
+updated: '2025-08-13T12:34:17.941129+00:00'
 world: Universal
 ---
+
 
 
 # Map Whisper Island Docks Sketch

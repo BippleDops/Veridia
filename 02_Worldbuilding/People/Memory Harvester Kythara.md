@@ -8,17 +8,21 @@ race: Human (Shadow-Touched)
 role: Memory Harvester
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/npc
 - deep-mother
 - memory-farmer
+- npc
 - servant
 - shadow-touched
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.885444'
+updated: '2025-08-13T12:34:17.561113+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
+- location
 - status/in-progress
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.965336'
+updated: '2025-08-13T12:34:16.718956+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-replacement-survivor-support-groups-replacement-survivor-support-groups.svg)

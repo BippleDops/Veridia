@@ -28,13 +28,17 @@ officers:
 primary_contact: Commander Thrace Ironwood
 status: complete
 tags:
+- aethermoor
+- complete
 - content/faction
+- faction
 - status/complete
 - world/aethermoor
 type: Faction
-updated: '2025-08-12T23:37:40.745189'
+updated: '2025-08-13T12:34:17.448631+00:00'
 world: Aethermoor
 ---
+
 
 
 

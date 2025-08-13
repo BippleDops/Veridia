@@ -5,6 +5,7 @@ tags:
 - active
 - both
 - category/player
+- complete
 - lore
 Player: Bob
 Role: Player
@@ -48,11 +49,12 @@ obsidianUIMode: preview
 MyContainer: null
 MyCategory: null
 world: Both
-updated: '2025-08-13T01:18:31.200054+00:00'
+updated: '2025-08-13T12:34:11.684680+00:00'
 created: '2025-08-11'
 status: complete
 type: Lore
 ---
+
 
 
 

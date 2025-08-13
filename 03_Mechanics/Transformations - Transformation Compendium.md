@@ -2,18 +2,22 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/mechanics
 - content/npc
 - horror
+- mechanics
 - progression
 - status/complete
 - transformation
 - world/both
 title: Transformation Compendium
 type: Mechanics
-updated: '2025-08-12T23:37:41.122366'
+updated: '2025-08-13T12:34:17.800765+00:00'
 world: Both
 ---
+
 
 
 # Transformation Compendium

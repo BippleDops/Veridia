@@ -8,15 +8,19 @@ race: Human (Depth-Touched)
 role: Naval Captain and Depth Explorer
 status: complete
 tags:
+- aquabyssos
 - captain
+- complete
 - content/npc
 - naval-officer
+- npc
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.862952'
+updated: '2025-08-13T12:34:17.541507+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-marina-saltborn-captain-marina-saltborn.svg)

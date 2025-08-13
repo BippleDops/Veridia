@@ -20,8 +20,11 @@ quests_advanced:
 session_number: 5
 status: outlined
 tags:
+- aquabyssos
 - campaign/session
 - content/lore
+- lore
+- outlined
 - parliament-shadows
 - planned
 - status/in-progress
@@ -32,9 +35,10 @@ themes:
 - Surgical body horror
 title: Descent into Darkness
 type: Lore
-updated: '2025-08-12T23:37:41.190418'
+updated: '2025-08-13T12:34:17.856929+00:00'
 world: Aquabyssos
 ---
+
 
 
 

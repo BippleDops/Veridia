@@ -6,18 +6,22 @@ created_by: auto-stub
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/lore
 - cosmic-horror
+- lore
 - madness
 - mechanics/exploration
 - status/complete
 - whispers
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:37.773770'
+updated: '2025-08-13T12:34:14.686833+00:00'
 world: Aethermoor
 ---
+
 
 
 

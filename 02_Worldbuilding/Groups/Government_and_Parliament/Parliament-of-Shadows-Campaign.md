@@ -15,8 +15,11 @@ purpose: Establish political representation for shadow-touched individuals acros
   both realms
 status: complete
 tags:
+- both aethermoor & aquabyssos
 - campaign/arc
+- complete
 - content/faction
+- faction
 - governance
 - inter-realm-politics
 - shadow-representation
@@ -24,9 +27,10 @@ tags:
 - world/aethermoor
 - world/both
 type: Faction
-updated: '2025-08-12T23:37:40.704186'
+updated: '2025-08-13T12:34:17.412286+00:00'
 world: Both Aethermoor & Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry

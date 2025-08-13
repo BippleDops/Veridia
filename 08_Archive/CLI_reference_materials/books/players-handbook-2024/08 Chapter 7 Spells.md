@@ -2,11 +2,14 @@
 created: 2025-08-11
 status: active
 tags:
+- active
+- both
 - status/in-progress
 - world/both
-updated: '2025-08-12T23:37:34.860622'
+updated: '2025-08-13T12:34:05.209048+00:00'
 world: Both
 ---
+
 
 
 

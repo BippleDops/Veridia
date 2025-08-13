@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - content/lore
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.932819'
+updated: '2025-08-13T12:34:05.261244+00:00'
 world: Both
 ---
+
 
 # Merchant
 *Source: Player's Handbook (2024) p. 182*  

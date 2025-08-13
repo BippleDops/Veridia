@@ -3,6 +3,7 @@ tags:
 - alive
 - both
 - category/people
+- draft
 - free_current
 - merchant
 - npc
@@ -39,9 +40,10 @@ initiative: 12
 current_hp: 15
 max_hp: 20
 world: Both
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:14.535118+00:00'
 type: NPC
 ---
+
 
 
 > [!figure] Portrait

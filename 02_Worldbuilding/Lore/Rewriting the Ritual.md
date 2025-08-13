@@ -9,8 +9,11 @@ scope: Regional
 status: complete
 tags:
 - adaptation
+- aethermoor
+- complete
 - content/lore
 - corruption-response
+- lore
 - mechanics/magic
 - rewriting
 - ritual
@@ -18,9 +21,10 @@ tags:
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:37.820266'
+updated: '2025-08-13T12:34:14.727719+00:00'
 world: Aethermoor
 ---
+
 
 
 

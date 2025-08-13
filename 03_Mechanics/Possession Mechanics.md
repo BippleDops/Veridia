@@ -3,13 +3,17 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
+- complete
 - content/mechanics
+- mechanics
 - status/complete
 - world/aethermoor
 type: Mechanics
-updated: '2025-08-12T23:37:41.090121'
+updated: '2025-08-13T12:34:17.774605+00:00'
 world: Aethermoor
 ---
+
 
 
 

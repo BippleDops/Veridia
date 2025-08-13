@@ -3,6 +3,7 @@ tags:
 - alive
 - both
 - category/people
+- draft
 - noble
 - npc
 - prince
@@ -26,8 +27,9 @@ current_hp: 38
 max_hp: 55
 ac: 15
 world: Both
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:14.538488+00:00'
 ---
+
 
 
 > [!figure] Portrait

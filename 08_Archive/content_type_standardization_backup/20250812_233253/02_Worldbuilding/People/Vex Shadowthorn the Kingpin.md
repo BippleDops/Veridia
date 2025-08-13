@@ -2,13 +2,15 @@
 tags:
 - active
 - aethermoor
+- complete
 - npc
 type: NPC
 world: Aethermoor
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.931545+00:00'
+updated: '2025-08-13T12:34:14.435046+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-vex-shadowthorn-the-kingpin-v1-vex-shadowthorn-the-kingpin.svg)

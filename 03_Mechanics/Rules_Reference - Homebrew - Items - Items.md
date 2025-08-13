@@ -4,14 +4,18 @@ created: '2025-07-23'
 modified: 2025-07-23 12:39
 status: complete
 tags:
+- both
+- complete
 - content/item
+- item
 - note
 - status/in-progress
 - world/both
 type: Item
-updated: '2025-08-12T23:37:41.134285'
+updated: '2025-08-13T12:34:17.804719+00:00'
 world: Both
 ---
+
 
 
 

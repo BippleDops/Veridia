@@ -2,14 +2,16 @@
 tags:
 - active
 - aethermoor
+- complete
 - faction
 - lore
 type: Lore
 world: Aethermoor
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:34.753824+00:00'
+updated: '2025-08-13T12:34:11.977869+00:00'
 ---
+
 
 
 

@@ -1,24 +1,30 @@
 ---
-affiliation: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Centrist Faction'
+affiliation: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]] - Centrist Faction'
 age: '48'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Central Chamber'
+location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]] - Central Chamber'
 race: Human
 role: Parliamentary Tribune
 status: complete
 tags:
+- aquabyssos
 - campaign/hook
+- complete
 - content/faction
 - content/npc
+- npc
 - parliament
 - politician
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.825008'
+updated: '2025-08-13T12:34:17.511606+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

@@ -2,6 +2,7 @@
 tags:
 - aquabyssos
 - completed
+- draft
 - dual
 - event
 - historical_legend
@@ -22,8 +23,9 @@ themes:
 - duty_vs_survival
 - cosmic_horror
 created: '2025-08-11'
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:12.039638+00:00'
 ---
+
 
 
 

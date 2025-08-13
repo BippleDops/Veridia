@@ -3,6 +3,7 @@ tags:
 - active
 - adventure-module
 - aethermoor
+- complete
 - levels-4-6
 - political-intrigue
 - winds-of-rebellion
@@ -17,9 +18,10 @@ themes:
 - factional-warfare
 - wind-rider-traditions
 created: '2025-08-11'
-updated: '2025-08-13T01:18:37.155299+00:00'
+updated: '2025-08-13T12:34:14.608220+00:00'
 status: complete
 ---
+
 
 
 # Winds of Rebellion

@@ -5,17 +5,21 @@ cssclasses:
 - index-page
 status: complete
 tags:
+- both
+- complete
 - importance/core
 - index
 - link-analysis
+- lore
 - performance
 - status/complete
 - world/both
 title: Link Integrity Report
 type: Lore
-updated: '2025-08-12T23:37:33.009840'
+updated: '2025-08-13T12:34:17.887405+00:00'
 world: Both
 ---
+
 
 
 # 🔗 Link Integrity Report

@@ -2,18 +2,22 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - embassy
 - espionage
+- location
 - mechanics/social
 - shadows
 - status/complete
 - tenebrarum
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.783819'
+updated: '2025-08-13T12:34:16.558239+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Tenebrarum Embassy

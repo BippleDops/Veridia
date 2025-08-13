@@ -4,17 +4,21 @@ obsidianUIMode: preview
 status: complete
 tags:
 - academic
+- both
+- complete
 - content/lore
 - linguistics
+- lore
 - professional_reference
 - scholarly
 - status/complete
 - terminology
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.055975'
+updated: '2025-08-13T12:34:14.987228+00:00'
 world: Both
 ---
+
 
 
 # Academic Jargon

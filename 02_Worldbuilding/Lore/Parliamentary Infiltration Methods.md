@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/lore
 - infiltration
+- lore
 - political-control
 - shadow-conspiracy
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.014243'
+updated: '2025-08-13T12:34:15.849247+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Parliamentary Infiltration Methods

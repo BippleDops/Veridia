@@ -21,8 +21,11 @@ quests_advanced:
 session_number: 7
 status: outlined
 tags:
+- aquabyssos
 - campaign/session
 - content/lore
+- lore
+- outlined
 - parliament-shadows
 - planned
 - status/in-progress
@@ -33,9 +36,10 @@ themes:
 - Reality crystallization
 title: The Resonance Revelation
 type: Lore
-updated: '2025-08-12T23:37:41.179345'
+updated: '2025-08-13T12:34:17.847348+00:00'
 world: Aquabyssos
 ---
+
 
 
 

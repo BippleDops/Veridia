@@ -1,5 +1,6 @@
 ---
-affiliation: '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]] (Currently Fragmented)'
+affiliation: '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The
+  Scattered Emperor]] (Currently Fragmented)'
 created: '2025-08-09'
 created_by: Claude
 current_location: Multiple Pieces Scattered Across Aquabyssos
@@ -9,16 +10,20 @@ rarity: Legendary
 requires_attunement: Yes (by a creature of noble blood or appointed by divine authority)
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/item
 - content/lore
 - crown
+- item
 - seven-shards-connected
 - status/complete
 - world/aquabyssos
 type: Item
-updated: '2025-08-12T23:37:41.075680'
+updated: '2025-08-13T12:34:17.754558+00:00'
 world: Aquabyssos
 ---
+
 
 
 

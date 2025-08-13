@@ -15,15 +15,19 @@ purpose: Train the next generation of shadow surgery specialists
 status: complete
 tags:
 - apprenticeship
+- aquabyssos
+- complete
 - content/faction
+- faction
 - healing-arts
 - shadow-surgery
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.664142'
+updated: '2025-08-13T12:34:17.376726+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-surgeon-apprentice-shadow-surgeon-apprentice.svg)

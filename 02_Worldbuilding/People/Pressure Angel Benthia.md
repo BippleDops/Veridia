@@ -3,21 +3,30 @@ affiliation: '[[The Deep Mother]] (Direct Service)'
 age: Timeless (exists outside normal temporal flow)
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]] - Pressure Nexus Points'
+location: '[[02_Worldbuilding/Places/The Hadal Depths|02 Worldbuilding/Places/The
+  Hadal Depths]] - Pressure Nexus Points'
 race: Pressure Angel (Divine Being)
 role: Pressure Angel
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/npc
 - deep-mother
 - divine-servant
 - guardian
+- npc
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.826932'
+updated: '2025-08-13T12:34:17.513326+00:00'
 world: Aquabyssos
 ---
+
+> [!figure] Portrait
+![](04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)
+
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)

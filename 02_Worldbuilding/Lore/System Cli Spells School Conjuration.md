@@ -7,10 +7,13 @@ practitioners: Summoners, portal mages, creators
 school: Conjuration
 status: complete
 tags:
+- both worlds
+- complete
 - conjuration
 - content/lore
 - content/mechanics
 - creation
+- lore
 - mechanics/magic
 - status/complete
 - summoning
@@ -19,9 +22,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.806265'
+updated: '2025-08-13T12:34:15.368123+00:00'
 world: Both Worlds
 ---
+
 
 
 

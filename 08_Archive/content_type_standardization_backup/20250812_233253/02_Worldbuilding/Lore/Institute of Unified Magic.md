@@ -3,13 +3,15 @@ tags:
 - active
 - both worlds
 - both-worlds
+- complete
 - lore
 type: Lore
 world: Both Worlds
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.049666+00:00'
+updated: '2025-08-13T12:34:12.395304+00:00'
 ---
+
 
 
 

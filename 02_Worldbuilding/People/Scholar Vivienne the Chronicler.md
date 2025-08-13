@@ -3,22 +3,27 @@ affiliation: '[[The Archive of Forgotten Things]]'
 age: '62'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - The Grand Library'
+location: '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]
+  - The Grand Library'
 race: Half-Elf
 role: Shard Historian
 status: complete
 tags:
+- aethermoor
+- complete
 - content/lore
 - content/npc
 - neutral
+- npc
 - scholar
 - seven-shards
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:40.925517'
+updated: '2025-08-13T12:34:17.595394+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait

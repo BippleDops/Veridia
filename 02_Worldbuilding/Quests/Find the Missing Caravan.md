@@ -25,7 +25,8 @@ objectives:
 obsidianUIMode: preview
 prerequisite_quests: []
 priority: high
-quest_giver: '[[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]]'
+quest_giver: '[[02_Worldbuilding/People/Gareth_Ironforge|02 Worldbuilding/People/Gareth
+  Ironforge]]'
 quest_image: 04_Resources/Assets/quests/missing-caravan.png
 quest_start: 2025-08-01
 related_locations:
@@ -39,14 +40,18 @@ related_npcs:
 reward: 500gp + Masterwork weapon
 status: complete
 tags:
+- both
+- complete
 - content/adventure
 - content/lore
+- lore
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.771266'
+updated: '2025-08-13T12:34:14.706266+00:00'
 world: Both
 ---
+
 
 
 

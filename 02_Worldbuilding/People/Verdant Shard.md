@@ -13,6 +13,8 @@ race: Nature-Touched Elf (Transformed)
 status: complete
 status_condition: Active, Merged with Shard
 tags:
+- aethermoor
+- complete
 - content/lore
 - content/npc
 - druid
@@ -20,13 +22,15 @@ tags:
 - growth
 - immortal
 - nature-touched
+- npc
 - shard-guardian
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:41.015012'
+updated: '2025-08-13T12:34:17.674086+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-verdant-shard-verdant-shard.svg)

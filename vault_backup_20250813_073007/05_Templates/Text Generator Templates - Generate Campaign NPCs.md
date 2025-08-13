@@ -6,14 +6,18 @@ status: draft
 tags:
 - ai-generation
 - alive
+- both
 - content/lore
 - content/npc
 - content/template
+- draft
+- lore
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.113495'
+updated: '2025-08-13T12:34:17.964293+00:00'
 world: Both
 ---
+
 
 
 

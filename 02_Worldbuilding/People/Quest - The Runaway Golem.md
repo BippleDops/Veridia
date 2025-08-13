@@ -7,17 +7,21 @@ created_by: auto-stub
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
+- complete
 - construct
 - content/adventure
 - content/npc
 - golem
+- npc
 - runaway
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:40.921301'
+updated: '2025-08-13T12:34:17.591680+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait

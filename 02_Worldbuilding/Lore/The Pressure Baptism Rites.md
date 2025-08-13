@@ -11,10 +11,13 @@ created: '2025-08-11'
 created_by: cultural-expansion
 status: complete
 tags:
+- aquabyssos
 - baptism
 - ceremony
+- complete
 - content/lore
 - initiation
+- lore
 - religion
 - spiritual-transformation
 - status/complete
@@ -26,9 +29,10 @@ themes:
 - spiritual_adaptation
 - aquatic_communion
 type: Lore
-updated: '2025-08-12T23:37:39.627473'
+updated: '2025-08-13T12:34:16.407523+00:00'
 world: Aquabyssos
 ---
+
 
 
 

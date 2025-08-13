@@ -15,19 +15,23 @@ occupation: Senior Cultural Advisor
 status: complete
 tags:
 - advisor
+- aquabyssos
+- complete
 - content/location
 - content/lore
 - content/npc
 - keeper
 - knowledge
+- location
 - mindwell
 - scholar
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.729965'
+updated: '2025-08-13T12:34:16.499969+00:00'
 world: Aquabyssos
 ---
+
 
 
 

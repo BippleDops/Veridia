@@ -5,21 +5,26 @@ affiliation: Aetherian Guild of Artificers
 age: '67'
 created: 2025-08-08 - Category/People
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]] - Innovation Workshop'
+location: '[[02_Worldbuilding/Places/Crystal Gardens|02 Worldbuilding/Places/Crystal
+  Gardens]] - Innovation Workshop'
 obsidianUIMode: preview
 race: Human (Aethermoor Native)
 role: Master Crystal Artificer
 status: complete
 tags:
+- aethermoor
+- complete
 - content/faction
 - content/npc
 - inventor
+- npc
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:41.059838'
+updated: '2025-08-13T12:34:17.712986+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-crystal-innovation-quest-crystal-innovation.svg)

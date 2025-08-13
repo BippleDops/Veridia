@@ -5,10 +5,13 @@ duration: 2-3 sessions
 level: 10-14
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
 - environmental-horror
 - infiltration
+- lore
 - mystery
 - sabotage
 - status/complete
@@ -16,9 +19,10 @@ tags:
 - world/aquabyssos
 threat_level: extreme
 type: Lore
-updated: '2025-08-12T23:37:37.795563'
+updated: '2025-08-13T12:34:14.704213+00:00'
 world: Aquabyssos
 ---
+
 
 
 

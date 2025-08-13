@@ -21,7 +21,8 @@ items_gained:
 locations_visited:
 - '[[Gallery of Frozen Waves]]'
 - '[[02_Worldbuilding/Places/Screaming Gardens|02 Worldbuilding/Places/Screaming Gardens]]'
-- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory Meadows]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows|02 Worldbuilding/Places/The Memory
+  Meadows]]'
 - '[[Reflection Pools]]'
 memory_exposure: true
 npcs_met:
@@ -50,18 +51,22 @@ session_number: 3
 shadow_level_change: 1
 status: complete
 tags:
+- aquabyssos
 - campaign/session
+- complete
 - content/lore
 - identity-horror
+- lore
 - parliament-shadows
 - status/in-progress
 - world/aquabyssos
 title: The Gallery Conspiracy
 type: Lore
-updated: '2025-08-12T23:37:41.169769'
+updated: '2025-08-13T12:34:17.838153+00:00'
 world: Aquabyssos
 xp_awarded: 1100
 ---
+
 
 
 

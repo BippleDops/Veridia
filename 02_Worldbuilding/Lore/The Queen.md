@@ -5,9 +5,12 @@ created_by: auto-stub
 significance: Campaign-Critical
 status: complete
 tags:
+- aethermoor
 - campaign/arc
+- complete
 - content/lore
 - convergence
+- lore
 - political-power
 - queen-seraphina
 - royal-court
@@ -15,9 +18,10 @@ tags:
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.636798'
+updated: '2025-08-13T12:34:15.466544+00:00'
 world: Aethermoor
 ---
+
 
 
 

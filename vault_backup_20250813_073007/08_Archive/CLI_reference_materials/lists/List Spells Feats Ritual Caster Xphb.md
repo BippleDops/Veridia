@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - mechanics/magic
 - note
 - status/in-progress
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.309029'
+updated: '2025-08-13T12:34:19.000775+00:00'
 world: Both
 ---
+
 
 # Spells for Ritual Caster
 

@@ -8,17 +8,21 @@ race: Human (Shadow-Born)
 role: Deep Mother's Voice
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/npc
 - deep-mother
 - dream-servant
+- npc
 - shadow-touched
 - sorrow-singer
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.935862'
+updated: '2025-08-13T12:34:17.604379+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

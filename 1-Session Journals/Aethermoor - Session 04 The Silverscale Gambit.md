@@ -27,9 +27,11 @@ locations_visited:
 - '[[Abandoned Consortium Warehouse]]'
 npcs_met:
 - '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
-- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina
+  Red Tide Coralheart]]'
 - '[[Director Hadrian Silverscale]]'
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]]'
 obsidianUIMode: preview
 players: []
 plot_threads:
@@ -49,16 +51,20 @@ quests_started:
 session: Session-04
 status: complete
 tags:
+- aethermoor
 - campaign/session
+- complete
 - content/lore
+- lore
 - seven-shards
 - status/in-progress
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:41.184343'
+updated: '2025-08-13T12:34:17.852501+00:00'
 world: Aethermoor
 xp_awarded: 1200
 ---
+
 
 
 

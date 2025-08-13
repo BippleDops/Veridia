@@ -15,6 +15,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - content/item
 - content/lore
@@ -24,9 +26,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.416405'
+updated: '2025-08-13T12:34:20.512753+00:00'
 world: Both
 ---
+
 
 # Mage Armor
 *1st-level, Abjuration*  

@@ -9,14 +9,21 @@ connected_locations:
 created: '2025-08-11'
 danger_level: Moderate
 notable_npcs:
-- '[[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain Thaddeus Blackwater]]'
-- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]]'
-- '[[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan Ironledger III]]'
+- '[[02_Worldbuilding/People/Captain Thaddeus Blackwater|02 Worldbuilding/People/Captain
+  Thaddeus Blackwater]]'
+- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador
+  Nerida Deepcurrent]]'
+- '[[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan
+  Ironledger III]]'
 obsidianUIMode: preview
-region: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] Harbor District'
+region: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
+  Harbor District'
 status: complete
 tags:
+- both
+- complete
 - content/location
+- location
 - mysterious
 - port-meridian
 - status/in-progress
@@ -24,9 +31,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.342807'
+updated: '2025-08-13T12:34:17.096186+00:00'
 world: Both
 ---
+
 
 
 

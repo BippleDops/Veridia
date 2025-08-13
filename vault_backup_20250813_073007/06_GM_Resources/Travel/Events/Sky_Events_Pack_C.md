@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
+- complete
 - events
 - gm_resource
+- lore
 - status/complete
 - travel
 - world/aethermoor
 - world/both
 title: Sky Events Pack C (Aethermoor)
 type: Lore
-updated: '2025-08-12T23:37:33.064753'
+updated: '2025-08-13T12:34:17.924539+00:00'
 world: Both
 ---
+
 
 
 # Sky Events Pack C — 50 Ready-to-Run Encounters (S-201–S-250)

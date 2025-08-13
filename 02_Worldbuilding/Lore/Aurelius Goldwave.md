@@ -1,31 +1,40 @@
 ---
 alignment: Lawful Evil
-allegiance: '[[02_Worldbuilding/Groups/Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]] (secretly)'
+allegiance: '[[02_Worldbuilding/Groups/Silverscale Banking House|02 Worldbuilding/Groups/Silverscale
+  Banking House]] (secretly)'
 class: Rogue (Mastermind)/Warlock (Great Old One)
 created: '2025-08-08'
-current_location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Financial District'
+current_location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port
+  Meridian]] - Financial District'
 level: 14
 occupation: Senior Partner, Goldwave Financial Consortium
 race: Merfolk
 related_entities:
-- '[[02_Worldbuilding/Groups/Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]]'
+- '[[02_Worldbuilding/Groups/Silverscale Banking House|02 Worldbuilding/Groups/Silverscale
+  Banking House]]'
 - '[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
-- '[[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]]'
-- '[[02_Worldbuilding/Lore/Marina''s Identity Crisis|02 Worldbuilding/Lore/Marina''s Identity Crisis]]'
+- '[[02_Worldbuilding/Places/Memory Meadows Black Market|02 Worldbuilding/Places/Memory
+  Meadows Black Market]]'
+- '[[02_Worldbuilding/Lore/Marina''s Identity Crisis|02 Worldbuilding/Lore/Marina''s
+  Identity Crisis]]'
 status: complete
 tags:
+- aquabyssos
 - banking
+- complete
 - content/npc
 - corrupt-noble
 - financial-manipulation
 - merchant
+- npc
 - shadow-connection
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:39.096973'
+updated: '2025-08-13T12:34:15.912943+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

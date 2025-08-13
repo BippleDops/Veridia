@@ -3,13 +3,17 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- complete
 - content/mechanics
+- mechanics
 - status/complete
+- universal
 - world/both
 type: Mechanics
-updated: '2025-08-12T23:37:41.099206'
+updated: '2025-08-13T12:34:17.809620+00:00'
 world: Universal
 ---
+
 
 
 # Rumor Mill Network

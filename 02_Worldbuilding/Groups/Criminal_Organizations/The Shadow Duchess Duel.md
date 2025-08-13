@@ -14,17 +14,21 @@ obsidianUIMode: preview
 purpose: Maintain honor through formal combat
 status: complete
 tags:
+- aquabyssos
 - aristocracy
+- complete
 - content/faction
 - dueling-society
+- faction
 - honor-codes
 - shadow-court
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.652879'
+updated: '2025-08-13T12:34:17.367098+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-duchess-duel-the-shadow-duchess-duel.svg)

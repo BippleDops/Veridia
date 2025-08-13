@@ -4,6 +4,7 @@ type: Lore
 status: draft
 tags:
 - aquabyssos
+- draft
 - lore
 - paradox
 - political
@@ -13,13 +14,15 @@ tags:
 - temporal
 session_number: 2
 date_played: null
-location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Debate Chambers'
+location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]] - Debate Chambers'
 depth: 1,800 feet
 npcs_featured:
 - '[[Senator Glaucus]]'
 - '[[The Forgotten Representative]]'
 - '[[Time-Lost Delegate Chronus]]'
-- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess
+  Nyx]]'
 quests_advanced:
 - '[[Shadow Conspiracy Investigation]]'
 - '[[Temporal Anomaly Resolution]]'
@@ -30,9 +33,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: '2025-08-13T01:18:37.186182+00:00'
+updated: '2025-08-13T12:34:14.641290+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

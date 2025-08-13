@@ -6,11 +6,14 @@ created_by: auto-stub
 significance: Critical Safety System
 status: complete
 tags:
+- aethermoor
+- complete
 - content/lore
 - content/mechanics
 - corruption-detection
 - data-analysis
 - innovation
+- lore
 - mechanics/magic
 - monitoring-device
 - status/complete
@@ -18,9 +21,10 @@ tags:
 - world/aethermoor
 technology_type: Magical Detection and Analysis System
 type: Lore
-updated: '2025-08-12T23:37:39.675753'
+updated: '2025-08-13T12:34:16.451906+00:00'
 world: Aethermoor
 ---
+
 
 
 

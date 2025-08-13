@@ -11,19 +11,23 @@ race: Primordial Entity
 role: Primordial Sea Spirit
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/npc
 - divine
 - entity
 - heart
+- npc
 - patron
 - primordial
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.773232'
+updated: '2025-08-13T12:34:17.472596+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-heart-of-oceanus-the-heart-of-oceanus.svg)

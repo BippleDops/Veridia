@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- complete
 - content/npc
+- npc
 - status/in-progress
+- universal
 - world/both
 type: Npc
-updated: '2025-08-12T23:37:40.927693'
+updated: '2025-08-13T12:34:17.597337+00:00'
 world: Universal
 ---
+
 
 
 

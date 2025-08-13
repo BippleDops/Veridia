@@ -10,7 +10,9 @@ status: draft
 tags:
 - campaign/arc
 - content/lore
+- draft
 - dual
+- lore
 - political_intrigue
 - status/complete
 - strategy
@@ -21,9 +23,10 @@ themes:
 - hidden_knowledge
 - sacrifice_of_self
 type: Lore
-updated: '2025-08-12T23:37:39.566454'
+updated: '2025-08-13T12:34:16.350423+00:00'
 world: dual
 ---
+
 
 
 

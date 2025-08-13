@@ -12,18 +12,22 @@ members: ~3,500 residents and 200 community organizers
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - community
+- complete
 - content/faction
+- faction
 - mutual-aid
 - residential
 - shadow-touched
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.667212'
+updated: '2025-08-13T12:34:17.379603+00:00'
 wealth: Modest (community resources and mutual aid)
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry

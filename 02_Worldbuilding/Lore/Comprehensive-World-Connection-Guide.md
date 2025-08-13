@@ -7,19 +7,23 @@ connection_type: Dimensional Convergence
 created: '2025-08-07'
 status: complete
 tags:
+- both
 - campaign/arc
+- complete
 - connections
 - content/lore
+- lore
 - status/in-progress
 - world/aethermoor
 - world/aquabyssos
 - world/both
 - worldbuilding
 type: Lore
-updated: '2025-08-12T23:37:38.175898'
+updated: '2025-08-13T12:34:15.088905+00:00'
 world: Both
 world_type: Parallel Realms
 ---
+
 
 
 

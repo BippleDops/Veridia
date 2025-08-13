@@ -15,17 +15,21 @@ role: Living Architect
 status: complete
 tags:
 - abyssal
+- aquabyssos
 - biomancer
 - campaign/arc
+- complete
 - content/npc
 - content/template
 - corrupted
+- npc
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.883119'
+updated: '2025-08-13T12:34:17.559401+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

@@ -2,13 +2,17 @@
 created: null
 status: draft
 tags:
+- both
 - content/location
+- draft
+- location
 - status/draft
 - world/both
 type: Location
-updated: '2025-08-12T23:37:32.990879'
+updated: '2025-08-13T12:34:17.866921+00:00'
 world: Both
 ---
+
 
 # DEDUPLICATION REPORT
 *Generated: 2025-08-12*

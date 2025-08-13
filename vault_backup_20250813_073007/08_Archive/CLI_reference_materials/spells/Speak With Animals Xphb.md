@@ -17,6 +17,8 @@ obsidianUIMode: preview
 status: active
 tags:
 - access/secret
+- active
+- both
 - content/lore
 - importance/core
 - mechanics/magic
@@ -25,9 +27,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.008818'
+updated: '2025-08-13T12:34:20.640993+00:00'
 world: Both
 ---
+
 
 # Speak with Animals
 *1st-level, Divination (ritual)*  

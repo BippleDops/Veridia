@@ -2,15 +2,19 @@
 created: '2025-08-11'
 status: draft
 tags:
+- aquabyssos
+- draft
 - guide
 - index
+- lore
 - readme
 - stable
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:32.991461'
+updated: '2025-08-13T12:34:03.139615+00:00'
 world: Aquabyssos
 ---
+
 
 
 

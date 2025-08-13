@@ -2,18 +2,22 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
 - brotherhood
+- complete
 - content/lore
 - content/template
+- lore
 - military
 - relationships
 - status/complete
 - warfare
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.301374'
+updated: '2025-08-13T12:34:15.194453+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Military Unit Rosters

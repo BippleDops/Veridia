@@ -2,16 +2,20 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - facilities
+- location
 - medical-horror
 - shadow-conspiracy
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.864759'
+updated: '2025-08-13T12:34:16.609799+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Shadow Surgery Network

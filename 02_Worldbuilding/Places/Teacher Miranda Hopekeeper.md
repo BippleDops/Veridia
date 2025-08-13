@@ -8,17 +8,21 @@ obsidianUIMode: preview
 status: complete
 tags:
 - academy
+- aquabyssos
+- complete
 - content/location
 - knowledge
+- location
 - mechanics/magic
 - resistance
 - school
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.533294'
+updated: '2025-08-13T12:34:17.264205+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

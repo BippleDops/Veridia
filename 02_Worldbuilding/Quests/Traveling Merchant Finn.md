@@ -6,19 +6,23 @@ created_by: auto-expansion
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
 - cross-realm
 - intrigue
+- lore
 - mechanics/exploration
 - merchant
 - mystery
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.763765'
+updated: '2025-08-13T12:34:14.676042+00:00'
 world: Aquabyssos
 ---
+
 
 
 

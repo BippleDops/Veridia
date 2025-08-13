@@ -5,11 +5,14 @@ created: '2025-08-11'
 date_played: null
 estimated_time: 4 hours
 level: 5
-location: '[[The Threshold]] - Between [[Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02 Worldbuilding/Places/Aethermoor]]'
+location: '[[The Threshold]] - Between [[Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor|02
+  Worldbuilding/Places/Aethermoor]]'
 npcs_featured:
 - '[[The Drowned God]] (True Form)'
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen
+  Seraphina Lumengarde]]'
 - '[[Ancient Aquabyssos Rulers]]'
 obsidianUIMode: preview
 quests_advanced:
@@ -19,18 +22,22 @@ quests_advanced:
 session_number: 8
 status: complete
 tags:
+- aethermoor
 - campaign/session
+- complete
 - content/lore
 - dual-worlds
+- lore
 - reality-merge
 - status/in-progress
 - world/aethermoor
 - world/aquabyssos
 title: Between Two Worlds
 type: Lore
-updated: '2025-08-12T23:37:41.185807'
+updated: '2025-08-13T12:34:17.853929+00:00'
 world: Aethermoor
 ---
+
 
 
 

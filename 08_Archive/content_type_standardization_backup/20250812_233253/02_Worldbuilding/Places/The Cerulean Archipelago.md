@@ -3,6 +3,7 @@ type: Location
 tags:
 - active
 - both
+- complete
 - location
 - region
 aliases:
@@ -13,10 +14,11 @@ MyContainer: None
 MyCategory: Unknown - Category/Place
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:36.384053+00:00'
+updated: '2025-08-13T12:34:13.817606+00:00'
 status: complete
 danger_level: Moderate
 ---
+
 
 
 

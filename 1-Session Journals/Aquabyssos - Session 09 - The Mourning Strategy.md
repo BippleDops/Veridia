@@ -21,8 +21,11 @@ quests_advanced:
 session_number: 9
 status: outlined
 tags:
+- aquabyssos
 - campaign/session
 - content/lore
+- lore
+- outlined
 - parliament-shadows
 - planned
 - status/in-progress
@@ -33,9 +36,10 @@ themes:
 - Emotional transcendence
 title: The Mourning Strategy
 type: Lore
-updated: '2025-08-12T23:37:41.167952'
+updated: '2025-08-13T12:34:17.836193+00:00'
 world: Aquabyssos
 ---
+
 
 
 

@@ -4,17 +4,21 @@ created: '2025-08-07'
 status: complete
 system: D&D 5e
 tags:
+- aquabyssos
 - bestiary
+- complete
 - content/lore
 - homebrew
+- lore
 - monsters
 - stat-blocks
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:41.132807'
+updated: '2025-08-13T12:34:17.808967+00:00'
 world: Aquabyssos
 ---
+
 
 
 

@@ -3,17 +3,21 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - deep-dwellers
+- lore
 - mechanics/combat
 - revolution
 - status/complete
 - uprising
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.554235'
+updated: '2025-08-13T12:34:15.381269+00:00'
 world: Aquabyssos
 ---
+
 
 
 

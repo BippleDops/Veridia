@@ -5,9 +5,12 @@ created_by: auto-stub
 significance: Major Landmark
 status: complete
 tags:
+- aethermoor
 - campaign/arc
+- complete
 - content/lore
 - dimensional-nexus
+- lore
 - political-center
 - royal-palace
 - status/complete
@@ -15,9 +18,10 @@ tags:
 - world/aethermoor
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.160228'
+updated: '2025-08-13T12:34:15.962724+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

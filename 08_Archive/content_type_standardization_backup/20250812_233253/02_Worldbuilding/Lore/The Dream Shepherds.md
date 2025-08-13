@@ -2,6 +2,7 @@
 tags:
 - completed
 - consciousness
+- draft
 - dream_magic
 - dual
 - dual_world
@@ -25,9 +26,10 @@ themes:
 - shepherding_consciousness
 - boundary_guardians
 - sacrificial_vigilance
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:11.813888+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

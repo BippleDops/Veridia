@@ -9,16 +9,20 @@ members: ~12,000 operatives across all levels
 purpose: Species evolution through shadow-human integration
 status: complete
 tags:
+- aquabyssos
 - campaign/arc
 - campaign/hook
+- complete
 - content/faction
+- faction
 - shadow-conspiracy
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.678118'
+updated: '2025-08-13T12:34:17.389004+00:00'
 world: Aquabyssos
 ---
+
 
 
 # The Shadow Conspiracy Hierarchy

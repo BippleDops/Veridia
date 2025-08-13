@@ -3,18 +3,22 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
+- complete
 - content/faction
 - events
 - gm_resource
+- lore
 - merger
 - status/complete
 - travel
 - world/both
 title: Merger Events Pack D — Faction Spotlight (Breach Zones)
 type: Lore
-updated: '2025-08-12T23:37:33.058657'
+updated: '2025-08-13T12:34:17.923874+00:00'
 world: Both
 ---
+
 
 
 # Merger Events Pack D — Faction Spotlight (24)

@@ -2,6 +2,7 @@
 tags:
 - active
 - aquabyssos
+- complete
 - continent
 - place
 - realm
@@ -10,11 +11,12 @@ type: Place
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-13T01:18:36.569100+00:00'
+updated: '2025-08-13T12:34:14.039542+00:00'
 danger_level: Variable
 population: 15000000
 government_type: Parliamentary Democracy with Shadow Infiltration
 ---
+
 
 
 > [!figure] View

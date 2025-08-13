@@ -3,24 +3,31 @@ created: '2025-08-09'
 historical_accuracy: Mix of verified records and recovered myths
 related_entities:
 - '[[02_Worldbuilding/Lore/The Great Drowning|02 Worldbuilding/Lore/The Great Drowning]]'
-- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
-- '[[02_Worldbuilding/People/Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor Thalassius The Wise]]'
-- '[[02_Worldbuilding/Places/The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]]'
+- '[[02_Worldbuilding/People/Emperor Thalassius the Wise|02 Worldbuilding/People/Emperor
+  Thalassius The Wise]]'
+- '[[02_Worldbuilding/Places/The Bathyal Palace|02 Worldbuilding/Places/The Bathyal
+  Palace]]'
 status: draft
 tags:
+- aquabyssos
 - campaign/arc
 - content/lore
 - content/mechanics
+- draft
 - historical-records
+- lore
 - pre-drowning
 - royal-dynasties
 - status/complete
 - world/aquabyssos
 time_period: Pre-Drowning to Third Age of Aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.641264'
+updated: '2025-08-13T12:34:16.421360+00:00'
 world: Aquabyssos
 ---
+
 
 
 

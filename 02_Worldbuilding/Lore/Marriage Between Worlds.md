@@ -3,10 +3,13 @@ created: '2025-08-11'
 created_by: cultural-expansion
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - culture
 - customs
 - inter-realm
+- lore
 - marriage
 - mechanics/social
 - status/complete
@@ -14,9 +17,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.183375'
+updated: '2025-08-13T12:34:15.095216+00:00'
 world: Both
 ---
+
 
 
 

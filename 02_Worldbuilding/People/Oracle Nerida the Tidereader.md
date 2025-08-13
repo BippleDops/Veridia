@@ -11,16 +11,20 @@ race: Human (Sea-Touched)
 role: Oracle & Divination Specialist
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/npc
 - divination
 - mechanics/magic
+- npc
 - oracle
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.913171'
+updated: '2025-08-13T12:34:17.585015+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

@@ -7,15 +7,19 @@ security_level: Maximum
 status: complete
 tags:
 - access/secret
+- aquabyssos
+- complete
 - content/location
 - headquarters
+- location
 - shadow-conspiracy
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.443749'
+updated: '2025-08-13T12:34:17.188310+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-umbral-nexus-the-umbral-nexus.svg)

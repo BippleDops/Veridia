@@ -2,15 +2,19 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/npc
+- mechanics
 - player-resources
 - status/complete
 - world/aquabyssos
 type: Mechanics
-updated: '2025-08-12T23:37:33.079010'
+updated: '2025-08-13T12:34:17.937236+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Depth Adapted Background

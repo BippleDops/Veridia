@@ -17,11 +17,14 @@ related_entities:
 shrinking_rate: 5 cubic feet per hour
 status: complete
 tags:
+- aquabyssos
 - community
+- complete
 - content/location
 - crisis
 - dimensional-anomaly
 - dimensional-refuge
+- location
 - mechanics/magic
 - refuge
 - sanctuary
@@ -29,9 +32,10 @@ tags:
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.905484'
+updated: '2025-08-13T12:34:16.653819+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-shrinking-sanctuary-the-shrinking-sanctuary.svg)

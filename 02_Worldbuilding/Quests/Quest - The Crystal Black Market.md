@@ -5,32 +5,42 @@ created: '2025-08-11'
 level_range: 6-9
 locations:
 - '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
-- '[[02_Worldbuilding/Places/The Sunken Markets|02 Worldbuilding/Places/The Sunken Markets]]'
+- '[[02_Worldbuilding/Places/The Sunken Markets|02 Worldbuilding/Places/The Sunken
+  Markets]]'
 - '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'
 npcs_involved:
-- '[[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan Ironledger III]]'
+- '[[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan
+  Ironledger III]]'
 - '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
-- '[[02_Worldbuilding/People/Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus Shardbreaker Grimm]]'
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]]'
+- '[[02_Worldbuilding/People/Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus
+  Shardbreaker Grimm]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master
+  Artificer Korvin Gearwright]]'
 - Category/Quest
 obsidianUIMode: preview
-quest_giver: '[[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan Ironledger III]]'
+quest_giver: '[[02_Worldbuilding/People/Castellan Ironledger III|02 Worldbuilding/People/Castellan
+  Ironledger III]]'
 reward_tier: Significant
 status: complete
 tags:
+- both
+- complete
 - content/adventure
 - content/faction
 - content/lore
+- lore
 - mechanics/exploration
 - merchant
 - mid-level
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.752672'
+updated: '2025-08-13T12:34:14.667007+00:00'
 world: Both
 ---
+
 
 
 

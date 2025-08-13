@@ -5,14 +5,18 @@ created_by: auto-stub
 status: complete
 tags:
 - campaign/arc
+- complete
 - content/lore
 - index
+- lore
 - status/complete
+- universal
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.979210'
+updated: '2025-08-13T12:34:14.896676+00:00'
 world: Universal
 ---
+
 
 
 # Campaign Index

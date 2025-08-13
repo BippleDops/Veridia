@@ -7,18 +7,22 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - brass-works
+- complete
 - content/location
 - content/mechanics
 - engineering
 - innovation
+- location
 - status/complete
 - workshop
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.450960'
+updated: '2025-08-13T12:34:17.194920+00:00'
 world: Aquabyssos
 ---
+
 
 
 

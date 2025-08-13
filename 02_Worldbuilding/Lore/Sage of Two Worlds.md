@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- complete
 - content/location
 - content/lore
+- dimensional threshold (both realms)
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.685216'
+updated: '2025-08-13T12:34:16.461265+00:00'
 world: Dimensional Threshold (Both Realms)
 ---
+
 
 
 

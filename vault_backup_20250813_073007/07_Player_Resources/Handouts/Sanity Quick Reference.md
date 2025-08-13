@@ -2,18 +2,22 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/mechanics
 - handout
 - horror
+- lore
 - player-resource
 - sanity
 - status/complete
 - world/both
 title: Sanity Quick Reference
 type: Lore
-updated: '2025-08-12T23:37:33.081566'
+updated: '2025-08-13T12:34:17.938766+00:00'
 world: Both
 ---
+
 
 
 # Sanity Quick Reference

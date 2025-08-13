@@ -45,14 +45,18 @@ siblings:
 - Sister
 status: complete
 tags:
+- both
 - category/player
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.124000'
+updated: '2025-08-13T12:34:03.262911+00:00'
 world: Both
 ---
+
 
 
 

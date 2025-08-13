@@ -8,8 +8,11 @@ operational_status: Active Worship & Technology
 significance: Cultural and Technological Foundation
 status: complete
 tags:
+- aethermoor
+- complete
 - content/lore
 - divine-technology
+- lore
 - mechanics/magic
 - religion
 - status/complete
@@ -18,9 +21,10 @@ tags:
 - world/aethermoor
 technology_type: Divine Crystal Engineering
 type: Lore
-updated: '2025-08-12T23:37:38.601944'
+updated: '2025-08-13T12:34:15.410032+00:00'
 world: Aethermoor
 ---
+
 
 
 

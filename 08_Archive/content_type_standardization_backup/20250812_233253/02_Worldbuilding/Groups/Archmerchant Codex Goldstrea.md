@@ -2,13 +2,15 @@
 tags:
 - active
 - both
+- complete
 - group
 type: Group
 world: Both
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.682372+00:00'
+updated: '2025-08-13T12:34:14.153039+00:00'
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-archmerchant-codex-goldstrea-archmerchant-codex-goldstrea.svg)

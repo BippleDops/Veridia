@@ -6,18 +6,22 @@ created_by: auto-stub
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
 - campaign/hook
+- complete
 - content/npc
 - mysterious
 - network
+- npc
 - shadow-corruption
 - status/complete
 - underground
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:41.036928'
+updated: '2025-08-13T12:34:17.692191+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-shadow-warren-the-shadow-warren.svg)

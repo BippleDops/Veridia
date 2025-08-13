@@ -4,6 +4,9 @@ level_range: 1-3
 sessions: 5
 status: complete
 tags:
+- adventure
+- aquabyssos
+- complete
 - conspiracy
 - content/adventure
 - levels-1-3
@@ -13,9 +16,10 @@ tags:
 - world/aquabyssos
 title: The Sunken Conspiracy - Introduction
 type: Adventure
-updated: '2025-08-12T23:37:41.157794'
+updated: '2025-08-13T12:34:17.824659+00:00'
 world: Aquabyssos
 ---
+
 
 
 # The Sunken Conspiracy

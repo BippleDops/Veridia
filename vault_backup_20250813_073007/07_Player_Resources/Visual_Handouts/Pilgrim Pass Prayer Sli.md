@@ -3,13 +3,17 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- complete
 - handout
+- lore
 - status/complete
+- universal
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.103528'
+updated: '2025-08-13T12:34:17.941934+00:00'
 world: Universal
 ---
+
 
 
 # Pilgrim Pass Prayer Slip

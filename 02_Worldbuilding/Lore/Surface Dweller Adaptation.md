@@ -9,6 +9,8 @@ success_rate: Moderate
 support_systems: Government and Community Assisted
 tags:
 - adaptation
+- aquabyssos
+- complete
 - content/lore
 - cross-realm-living
 - cultural-exchange
@@ -16,14 +18,16 @@ tags:
 - immigration
 - integration
 - lifestyle-changes
+- lore
 - mechanics/social
 - status/complete
 - world/aquabyssos
 - world/surface
 type: Lore
-updated: '2025-08-12T23:37:38.016299'
+updated: '2025-08-13T12:34:14.951953+00:00'
 world: Aquabyssos
 ---
+
 
 
 

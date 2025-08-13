@@ -3,17 +3,19 @@ tags:
 - active
 - both
 - category/place
+- complete
 - location
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:36.243059+00:00'
+updated: '2025-08-13T12:34:13.662051+00:00'
 created: '2025-08-11'
 status: complete
 type: Location
 danger_level: Moderate
 ---
+
 
 
 

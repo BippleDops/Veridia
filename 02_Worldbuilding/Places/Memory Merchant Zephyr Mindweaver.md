@@ -12,17 +12,21 @@ obsidianUIMode: preview
 race: Sea Elf
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - content/npc
+- location
 - mechanics/magic
 - memory
 - merchant
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.526705'
+updated: '2025-08-13T12:34:17.258848+00:00'
 world: Aquabyssos
 ---
+
 
 
 

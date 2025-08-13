@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - importance/core
 - note
@@ -15,9 +17,10 @@ tags:
 - ttrpg-cli/deity/drow
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.943298'
+updated: '2025-08-13T12:34:18.552848+00:00'
 world: Both
 ---
+
 
 # Kiaransalee
 *Source: Mordenkainen's Tome of Foes p. 54* 

@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - monster
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/mpmm
@@ -16,9 +18,10 @@ tags:
 - ttrpg-cli/monster/type/elemental
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.456429'
+updated: '2025-08-13T12:34:19.931353+00:00'
 world: Both
 ---
+
 
 # [[3-Mechanics\CLI\bestiary\elemental/water-elemental-myrmidon-mpmm|Water Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  

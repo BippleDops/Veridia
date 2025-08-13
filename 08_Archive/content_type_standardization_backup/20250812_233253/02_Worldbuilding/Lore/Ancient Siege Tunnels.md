@@ -2,6 +2,7 @@
 tags:
 - aethermoor
 - completed
+- draft
 - historical
 - historical-infrastructure
 - location
@@ -16,16 +17,18 @@ world: Aethermoor
 type: Lore
 danger_level: 7
 era: The Continental Wars
-builders: '[[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers|02 Worldbuilding/Lore/Ancient Aquabyssos Rulers]]'
+builders: '[[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers|02 Worldbuilding/Lore/Ancient
+  Aquabyssos Rulers]]'
 current_status: Partially Collapsed, Some Sections Active
 created: '2025-08-09'
-updated: '2025-08-13T01:18:35.848026+00:00'
+updated: '2025-08-13T12:34:13.291852+00:00'
 related_entities:
 - '[[02_Worldbuilding/Lore/Continental War|02 Worldbuilding/Lore/Continental War]]'
 - '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
 - '[[02_Worldbuilding/Places/Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'
 - '[[02_Worldbuilding/Places/Ironhold|02 Worldbuilding/Places/Ironhold]]'
 ---
+
 
 
 

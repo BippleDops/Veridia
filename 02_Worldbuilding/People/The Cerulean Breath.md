@@ -14,17 +14,21 @@ race: Ancient Dragon Turtle
 role: Ancient Dragon Turtle Sage
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/item
 - content/lore
 - content/npc
 - dragon-turtle
+- npc
 - sage
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:41.031594'
+updated: '2025-08-13T12:34:17.687488+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

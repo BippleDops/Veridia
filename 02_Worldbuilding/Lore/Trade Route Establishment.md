@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
 - commerce
+- complete
 - content/lore
+- lore
 - maritime
 - mechanics/exploration
 - status/in-progress
 - trade
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.219640'
+updated: '2025-08-13T12:34:16.016752+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Trade Route Establishment

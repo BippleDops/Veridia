@@ -6,7 +6,10 @@ level_range: 1-3
 session_number: 1
 status: complete
 tags:
+- adventure
+- aquabyssos
 - campaign/session
+- complete
 - conspiracy
 - mechanics/exploration
 - mystery
@@ -15,9 +18,10 @@ tags:
 - world/aquabyssos
 title: 'The Sunken Conspiracy - Session 1: Missing Ships'
 type: Adventure
-updated: '2025-08-12T23:37:41.160998'
+updated: '2025-08-13T12:34:17.826959+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Session 1: Missing Ships

@@ -15,6 +15,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - content/lore
 - mechanics/magic
 - note
@@ -23,9 +25,10 @@ tags:
 - world/both
 - world/surface
 type: note
-updated: '2025-08-12T23:37:36.101385'
+updated: '2025-08-13T12:34:20.411391+00:00'
 world: Both
 ---
+
 
 # Cone of Cold
 *5th-level, Evocation*  

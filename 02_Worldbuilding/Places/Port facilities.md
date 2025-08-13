@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- complete
 - content/location
+- location
 - status/in-progress
+- universal
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.036234'
+updated: '2025-08-13T12:34:16.800822+00:00'
 world: Universal
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-port-facilities-port-facilities.svg)

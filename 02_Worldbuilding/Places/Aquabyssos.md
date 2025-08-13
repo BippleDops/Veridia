@@ -5,15 +5,19 @@ government_type: Parliamentary Democracy with Shadow Infiltration
 population: 15000000
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
+- location
 - realm
 - status/in-progress
 - world/aquabyssos
 - world/surface
 type: Location
-updated: '2025-08-12T23:37:40.495745'
+updated: '2025-08-13T12:34:17.232976+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

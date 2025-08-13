@@ -4,17 +4,21 @@ created_by: auto-stub
 danger_level: Moderate
 status: complete
 tags:
+- aethermoor
+- complete
 - content/faction
 - content/location
 - fallen-nobility
+- location
 - redemption
 - religious-order
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.232287'
+updated: '2025-08-13T12:34:16.996600+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

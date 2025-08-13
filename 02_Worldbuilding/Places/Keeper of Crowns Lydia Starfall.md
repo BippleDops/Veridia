@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
+- location
 - status/in-progress
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.186934'
+updated: '2025-08-13T12:34:16.954850+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-keeper-of-crowns-lydia-starfall-keeper-of-crowns-lydia-starfall.svg)

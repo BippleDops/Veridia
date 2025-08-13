@@ -11,16 +11,20 @@ obsidianUIMode: preview
 owner: Free Council of Refugees
 status: complete
 tags:
+- aethermoor
 - alternative-community
+- complete
 - content/location
 - freedom
+- location
 - rebellion
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.476497'
+updated: '2025-08-13T12:34:17.216839+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

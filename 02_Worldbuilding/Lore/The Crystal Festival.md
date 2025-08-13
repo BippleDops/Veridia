@@ -7,21 +7,25 @@ location: '[[Crystal Festival Grounds]], [[Port Meridian]]'
 participants: Entire population of [[Port Meridian]] and neighboring regions
 status: complete
 tags:
+- aethermoor
 - bloodline
 - celebration
+- complete
 - content/lore
 - disaster
 - event
 - festival
+- lore
 - queen-seraphina
 - ritual
 - status/complete
 - transformation
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.665522'
+updated: '2025-08-13T12:34:15.493499+00:00'
 world: Aethermoor
 ---
+
 
 
 

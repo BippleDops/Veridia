@@ -3,17 +3,21 @@ created: '2025-08-12'
 status: complete
 tags:
 - black-market
+- both
+- complete
 - content/lore
 - crime
 - economy
 - illegal
+- lore
 - prices
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.445583'
+updated: '2025-08-13T12:34:15.317711+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Black Market Operations

@@ -4,13 +4,16 @@ created: 2025-07-23
 modified: 2025-07-23 12:39
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - world/both
 type: note
-updated: '2025-08-12T23:37:35.130749'
+updated: '2025-08-13T12:34:19.672882+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Creature

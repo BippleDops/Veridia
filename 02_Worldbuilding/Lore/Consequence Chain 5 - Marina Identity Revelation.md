@@ -6,20 +6,24 @@ primary_sessions:
 - 'Session 08: Between Two Worlds'
 status: complete
 tags:
+- both worlds
 - campaign/arc
+- complete
 - content/lore
 - cross-realm-bloodline
 - diplomatic-revolution
 - identity-crisis
+- lore
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.998222'
+updated: '2025-08-13T12:34:15.832449+00:00'
 visibility: 3
 world: Both Worlds
 ---
+
 
 
 

@@ -2,16 +2,20 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/mechanics
 - index
+- lore
 - phase-omega
 - status/complete
 - world/both
 title: Phase Omega Enhanced Index
 type: Lore
-updated: '2025-08-12T23:37:41.104226'
+updated: '2025-08-13T12:34:17.792682+00:00'
 world: Both
 ---
+
 
 
 # Phase Omega Enhanced Index

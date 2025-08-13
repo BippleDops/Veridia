@@ -8,7 +8,8 @@ depth_adapted: 4
 description: Tall, thin figure with translucent skin showing dark veins beneath. Laughs
   at inappropriate times.
 disposition: -2
-faction: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
+faction: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]]'
 faction_rank: 3
 first_name: Glaucus
 influence: 6
@@ -28,8 +29,10 @@ related_quests:
 - '[[Shadow Citizenship Act]]'
 relationship_type: political
 relationships:
-- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered Emperor]]'
-- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/People/The Scattered Emperor|02 Worldbuilding/People/The Scattered
+  Emperor]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess
+  Nyx]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
 - '[[Original Glaucus]] (imprisoned)'
 secondary_faction: '[[Shadow Conspiracy]]'
@@ -49,17 +52,21 @@ stats:
   wis: 12
 status: complete
 tags:
+- both
+- complete
 - content/location
 - content/npc
+- npc
 - parliament
 - status/in-progress
 - world/aquabyssos
 - world/both
 title: Senator
 type: Npc
-updated: '2025-08-12T23:37:41.018785'
+updated: '2025-08-13T12:34:17.677555+00:00'
 world: Both
 ---
+
 
 
 

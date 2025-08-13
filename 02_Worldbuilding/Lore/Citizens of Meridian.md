@@ -4,8 +4,11 @@ date_created: '2025-08-11'
 date_modified: '2025-08-11'
 status: complete
 tags:
+- both
 - citizens
+- complete
 - content/lore
+- lore
 - meridian
 - population
 - society
@@ -14,9 +17,10 @@ tags:
 - world/both
 - worldbuilding
 type: Lore
-updated: '2025-08-12T23:37:37.964288'
+updated: '2025-08-13T12:34:14.883043+00:00'
 world: Both
 ---
+
 
 
 

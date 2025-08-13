@@ -4,17 +4,21 @@ created_by: auto-stub
 danger_level: Moderate
 status: complete
 tags:
+- aethermoor
+- complete
 - conspiracy
 - content/adventure
 - content/location
 - content/npc
+- location
 - mechanics/exploration
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.392473'
+updated: '2025-08-13T12:34:17.140247+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

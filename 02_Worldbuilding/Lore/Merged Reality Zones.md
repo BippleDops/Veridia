@@ -5,10 +5,13 @@ created_by: auto-stub
 significance: Campaign-Critical
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - convergence
 - dimensional-bleed
 - environmental-hazard
+- lore
 - merged-reality
 - reality-storms
 - shadow-corruption
@@ -18,9 +21,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.696818'
+updated: '2025-08-13T12:34:16.472762+00:00'
 world: Both
 ---
+
 
 
 

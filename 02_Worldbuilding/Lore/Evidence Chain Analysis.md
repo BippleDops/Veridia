@@ -9,10 +9,13 @@ status: complete
 system_type: Investigation Methodology
 tags:
 - access/secret
+- both worlds
+- complete
 - conspiracy-detection
 - content/lore
 - evidence-analysis
 - forensic-methodology
+- lore
 - mechanics/exploration
 - methodology
 - status/complete
@@ -20,9 +23,10 @@ tags:
 - world/aethermoor
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.787131'
+updated: '2025-08-13T12:34:15.619491+00:00'
 world: Both Worlds
 ---
+
 
 
 

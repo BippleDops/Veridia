@@ -3,6 +3,7 @@ tags:
 - active
 - both
 - category/sapientspecies
+- complete
 - lore
 MyContainer:
 - '[[Jungle of Screams|Jungle of Screams]]'
@@ -30,11 +31,12 @@ benefits:
 - standing: 3
   reward: What do they get at level 3?
 world: Both
-updated: '2025-08-13T01:18:31.197584+00:00'
+updated: '2025-08-13T12:34:11.681750+00:00'
 created: '2025-08-11'
 status: complete
 type: Lore
 ---
+
 
 
 

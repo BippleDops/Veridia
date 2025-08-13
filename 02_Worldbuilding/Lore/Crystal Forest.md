@@ -10,9 +10,12 @@ scope: City-Wide Resource Production
 significance: Critical Infrastructure
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - content/lore
 - innovation
+- lore
 - mechanics/magic
 - mechanics/skill
 - resource-production
@@ -20,9 +23,10 @@ tags:
 - world/aethermoor
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.899860'
+updated: '2025-08-13T12:34:15.726488+00:00'
 world: Aquabyssos
 ---
+
 
 
 

@@ -4,12 +4,15 @@ created: '2025-08-09'
 danger_level: Moderate
 founded: Time Immemorial
 government: Circle of Elders
-leader: '[[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]]'
+leader: '[[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid
+  Thornweaver]]'
 population: 180000
 related_entities:
-- '[[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]]'
+- '[[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant
+  Reach]]'
 - '[[02_Worldbuilding/Lore/Continental War|02 Worldbuilding/Lore/Continental War]]'
-- '[[02_Worldbuilding/Lore/The Restoration Movement|02 Worldbuilding/Lore/The Restoration Movement]]'
+- '[[02_Worldbuilding/Lore/The Restoration Movement|02 Worldbuilding/Lore/The Restoration
+  Movement]]'
 specialties:
 - Natural Magic
 - Environmental Harmony
@@ -17,19 +20,23 @@ specialties:
 - Forest Protection
 status: draft
 tags:
+- aethermoor
 - content/location
+- draft
 - druidic
 - environmental
 - forest
 - harmony
+- location
 - nature
 - status/complete
 - sylvan
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.011157'
+updated: '2025-08-13T12:34:16.779589+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-sylvanheart-sylvanheart.svg)

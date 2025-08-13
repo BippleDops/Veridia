@@ -14,6 +14,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - content/lore
 - mechanics/magic
@@ -22,9 +24,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.197155'
+updated: '2025-08-13T12:34:20.602477+00:00'
 world: Both
 ---
+
 
 # Magic Mouth
 *2nd-level, Illusion (ritual)*  

@@ -2,16 +2,20 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - classes
+- complete
 - content/mechanics
 - hybrid
+- mechanics
 - status/complete
 - world/both
 title: Hybrid Class System
 type: Mechanics
-updated: '2025-08-12T23:37:41.093506'
+updated: '2025-08-13T12:34:17.807321+00:00'
 world: Both
 ---
+
 
 
 # Hybrid Class System

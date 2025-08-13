@@ -14,18 +14,22 @@ race: Sea Elf
 role: Guildmaster of the Deep Current Trading Company
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/npc
 - entrepreneur
 - merchant-lord
 - navigator
+- npc
 - status/complete
 - status/in-progress
 - trade-master
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:41.033234'
+updated: '2025-08-13T12:34:17.689216+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

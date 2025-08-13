@@ -1,14 +1,16 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.601989+00:00'
+updated: '2025-08-13T12:34:14.080221+00:00'
 world: Both
 type: Location
 status: complete
 tags:
 - active
 - both
+- complete
 - location
 ---
+
 
 
 > [!figure] View

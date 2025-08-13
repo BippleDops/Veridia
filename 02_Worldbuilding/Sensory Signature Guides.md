@@ -2,12 +2,16 @@
 created: null
 status: complete
 tags:
+- both
+- complete
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.747147'
+updated: '2025-08-13T12:34:14.662867+00:00'
 world: Both
 ---
+
 
 # Sensory Signature Guides
 ## Regional Environmental Characteristics

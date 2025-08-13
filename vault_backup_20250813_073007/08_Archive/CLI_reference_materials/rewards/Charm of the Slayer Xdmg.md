@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.724340'
+updated: '2025-08-13T12:34:19.338742+00:00'
 world: Both
 ---
+
 
 # Charm of the Slayer
 

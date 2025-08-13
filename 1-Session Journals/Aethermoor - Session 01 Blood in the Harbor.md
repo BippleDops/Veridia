@@ -23,8 +23,10 @@ locations_visited:
 - '[[Harbor District Customs House]]'
 - '[[Lamplight Alley]]'
 npcs_met:
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
-- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina
+  Red Tide Coralheart]]'
 - '[[02_Worldbuilding/Lore/Dock Worker Tomás|Dock Worker Tomás]]'
 - '[[Brother Marcus Steelbane]]'
 obsidianUIMode: preview
@@ -43,15 +45,19 @@ quests_started:
 session: Session-01
 status: complete
 tags:
+- aethermoor
 - campaign/session
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:41.162565'
+updated: '2025-08-13T12:34:17.829962+00:00'
 world: Aethermoor
 xp_awarded: 750
 ---
+
 
 
 

@@ -7,18 +7,22 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - cleric
+- complete
 - content/location
 - content/npc
 - death
 - keeper
+- location
 - sister
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.772328'
+updated: '2025-08-13T12:34:17.012331+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

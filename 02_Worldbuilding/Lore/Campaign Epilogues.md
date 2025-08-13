@@ -6,21 +6,25 @@ scope: Both Worlds
 status: complete
 structure_type: Campaign Framework
 tags:
+- both worlds
 - campaign/consequence
+- complete
 - content/lore
 - content/template
 - endings
 - epilogues
 - future-stories
+- lore
 - resolution
 - status/complete
 - world/both
 timeframe: Post-Campaign
 type: Lore
-updated: '2025-08-12T23:37:39.583687'
+updated: '2025-08-13T12:34:16.366092+00:00'
 usage: Epilogue Guidance
 world: Both Worlds
 ---
+
 
 
 

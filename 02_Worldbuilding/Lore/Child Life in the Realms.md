@@ -3,18 +3,22 @@ created: '2025-08-12'
 created_by: claude
 status: complete
 tags:
+- both
 - children
+- complete
 - culture
 - daily-life
 - education
 - family
+- lore
 - mechanics/social
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.287949'
+updated: '2025-08-13T12:34:15.183735+00:00'
 world: Both
 ---
+
 
 
 

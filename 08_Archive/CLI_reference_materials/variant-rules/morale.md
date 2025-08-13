@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/dmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.231012'
+updated: '2025-08-13T12:34:04.644179+00:00'
 world: Both
 ---
+
 
 # Morale
 *Source: Dungeon Master's Guide p. 273* 

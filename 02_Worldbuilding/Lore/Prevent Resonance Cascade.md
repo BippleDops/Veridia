@@ -3,17 +3,21 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
 - crisis-response
+- lore
 - prevention
 - resonance-cascade
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.295156'
+updated: '2025-08-13T12:34:15.189554+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Prevent Resonance Cascade

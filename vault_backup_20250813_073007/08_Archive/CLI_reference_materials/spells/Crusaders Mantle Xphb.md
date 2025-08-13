@@ -10,6 +10,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - importance/core
 - mechanics/magic
 - note
@@ -17,9 +19,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.045904'
+updated: '2025-08-13T12:34:20.791750+00:00'
 world: Both
 ---
+
 
 # Crusader's Mantle
 *3rd-level, Evocation*  

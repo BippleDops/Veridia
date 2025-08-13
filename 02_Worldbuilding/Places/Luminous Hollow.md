@@ -12,16 +12,20 @@ parent_location: Aquabyssos Deep Waters
 population: ~300 deep dwellers, researchers, and pilgrims
 status: draft
 tags:
+- aquabyssos
 - bioluminescent
 - cave
 - content/location
+- draft
+- location
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.080825'
+updated: '2025-08-13T12:34:16.847060+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

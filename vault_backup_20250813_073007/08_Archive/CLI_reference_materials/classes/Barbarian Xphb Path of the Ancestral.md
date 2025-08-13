@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/barbarian/ancestral-guardian
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.446800'
+updated: '2025-08-13T12:34:19.112248+00:00'
 world: Both
 ---
+
 
 # Path of the Ancestral Guardian
 *[[./barbarian-xphb|Barbarian]]: Barbarian Subclass*  

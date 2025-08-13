@@ -3,22 +3,27 @@ affiliation: None (Bound to Shard)
 cr: '18'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] Harbor (Sunken Ship)'
+location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
+  Harbor (Sunken Ship)'
 race: Corrupted Water Elemental
 role: Shard Guardian
 status: complete
 tags:
+- aethermoor
+- complete
 - content/npc
 - corrupted
 - elemental
 - guardian
+- npc
 - seven-shards
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:40.851420'
+updated: '2025-08-13T12:34:17.532847+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait

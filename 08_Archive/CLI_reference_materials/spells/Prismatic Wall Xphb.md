@@ -11,15 +11,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - mechanics/magic
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.010653'
+updated: '2025-08-13T12:34:06.250184+00:00'
 world: Both
 ---
+
 
 # Prismatic Wall
 *9th-level, Abjuration*  

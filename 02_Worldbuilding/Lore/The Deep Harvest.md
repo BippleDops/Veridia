@@ -6,9 +6,12 @@ created_by: auto-stub
 significance: Critical Economic Infrastructure
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/mechanics
 - innovation
+- lore
 - mechanics/skill
 - resource-extraction
 - status/complete
@@ -16,9 +19,10 @@ tags:
 - world/aquabyssos
 technology_type: Automated Deep-Sea Resource System
 type: Lore
-updated: '2025-08-12T23:37:39.698653'
+updated: '2025-08-13T12:34:16.474822+00:00'
 world: Aquabyssos
 ---
+
 
 
 

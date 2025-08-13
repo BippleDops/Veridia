@@ -5,7 +5,8 @@ created: '2025-08-10'
 danger_level: Extreme
 depth: Variable (0-4000 feet)
 difficulty: Levels 10-18
-government: '[[02_Worldbuilding/Lore/Tempest Sovereignty|02 Worldbuilding/Lore/Tempest Sovereignty]]'
+government: '[[02_Worldbuilding/Lore/Tempest Sovereignty|02 Worldbuilding/Lore/Tempest
+  Sovereignty]]'
 population: 800+ (court, staff, guards, prisoners)
 related_entities:
 - '[[Storm Empress Tempestas Maelstrom]]'
@@ -15,7 +16,10 @@ related_entities:
 ruler: '[[Storm Empress Tempestas Maelstrom]]'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
+- location
 - maelstrom
 - mechanics/magic
 - palace
@@ -27,9 +31,10 @@ tags:
 - weather-control
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.113910'
+updated: '2025-08-13T12:34:16.878613+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-maelstrom-palace-maelstrom-palace.svg)

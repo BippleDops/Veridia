@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
+- complete
 - content/faction
+- faction
 - status/in-progress
 - world/aethermoor
 type: Faction
-updated: '2025-08-12T23:37:40.765925'
+updated: '2025-08-13T12:34:17.466613+00:00'
 world: Aethermoor
 ---
+
 
 
 

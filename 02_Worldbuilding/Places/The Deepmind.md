@@ -8,21 +8,26 @@ danger_level: Moderate
 depth: 3000-5000 feet
 difficulty: Levels 16-20
 obsidianUIMode: preview
-ruler: '[[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth Prime Yoth]]'
+ruler: '[[02_Worldbuilding/People/Aboleth Prime Yoth|02 Worldbuilding/People/Aboleth
+  Prime Yoth]]'
 status: complete
 tags:
 - aboleth-lair
+- aquabyssos
+- complete
 - content/location
 - content/template
 - dungeon
+- location
 - memory
 - psychic
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.548262'
+updated: '2025-08-13T12:34:17.277544+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-deepmind-the-deepmind.svg)

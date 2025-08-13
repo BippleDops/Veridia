@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/deity/greyhawk
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.918197'
+updated: '2025-08-13T12:34:18.615213+00:00'
 world: Both
 ---
+
 
 # Ulaa
 *Source: Dungeon Master's Guide (2024) p. 148* 

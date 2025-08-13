@@ -1,8 +1,9 @@
 ---
-updated: '2025-08-13T01:18:31.092389+00:00'
+updated: '2025-08-13T12:34:11.598688+00:00'
 created: '2025-08-11'
 tags:
 - aquabyssos
+- draft
 - guide
 - index
 - readme
@@ -11,6 +12,7 @@ type: Guide
 status: draft
 world: Aquabyssos
 ---
+
 
 
 

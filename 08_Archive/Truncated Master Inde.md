@@ -2,14 +2,18 @@
 created: 2025-08-11
 status: active
 tags:
+- active
+- both
 - content/lore
 - dashboard
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.147686'
+updated: '2025-08-13T12:34:03.286456+00:00'
 world: Both
 ---
+
 
 
 

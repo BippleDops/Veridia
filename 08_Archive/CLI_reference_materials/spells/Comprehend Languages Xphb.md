@@ -17,6 +17,8 @@ obsidianUIMode: preview
 status: active
 tags:
 - access/secret
+- active
+- both
 - campaign/arc
 - content/lore
 - mechanics/magic
@@ -25,9 +27,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.332653'
+updated: '2025-08-13T12:34:06.573178+00:00'
 world: Both
 ---
+
 
 # Comprehend Languages
 *1st-level, Divination (ritual)*  

@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
+- complete
 - content/npc
+- npc
 - status/in-progress
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:41.065358'
+updated: '2025-08-13T12:34:17.740884+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-admiral-lady-cassandra-stormwind-admiral-lady-cassandra-stormwind.svg)

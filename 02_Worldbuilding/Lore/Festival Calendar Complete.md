@@ -3,18 +3,22 @@ created: '2025-08-12'
 created_by: cultural-expansion
 status: complete
 tags:
+- both
 - calendar
 - celebrations
+- complete
 - content/lore
 - culture
 - festivals
+- lore
 - status/complete
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.873860'
+updated: '2025-08-13T12:34:14.785253+00:00'
 world: Both
 ---
+
 
 # Festival Calendar Complete
 *"In the rhythm of seasons and tides, both realms find their heartbeat - celebrating what connects us to the eternal cycles of water and wind."*

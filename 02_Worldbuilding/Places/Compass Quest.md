@@ -10,19 +10,23 @@ required_skills:
 - Survival
 status: complete
 tags:
+- aquabyssos
 - compass
+- complete
 - content/adventure
 - content/item
 - content/location
+- location
 - mechanics/exploration
 - mystery
 - navigation
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.908967'
+updated: '2025-08-13T12:34:16.669764+00:00'
 world: Aquabyssos
 ---
+
 
 
 

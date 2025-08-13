@@ -2,16 +2,20 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
 - catalog
+- complete
 - content/mechanics
+- mechanics
 - status/complete
 - vehicles
 - world/aquabyssos
 title: Aquabyssos Submarines Catalog
 type: Mechanics
-updated: '2025-08-12T23:37:41.137091'
+updated: '2025-08-13T12:34:17.800257+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Aquabyssos Submarines Catalog (60)

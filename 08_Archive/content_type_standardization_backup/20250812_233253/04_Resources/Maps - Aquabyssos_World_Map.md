@@ -1,8 +1,9 @@
 ---
-updated: '2025-08-13T01:18:37.190071+00:00'
+updated: '2025-08-13T12:34:14.647908+00:00'
 created: '2025-08-12'
 tags:
 - aquabyssos
+- draft
 - leaflet
 - lore
 - map
@@ -13,6 +14,7 @@ aliases:
 - Aquabyssos Map Demo
 world: Aquabyssos
 ---
+
 
 
 

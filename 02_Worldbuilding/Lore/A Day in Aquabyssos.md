@@ -3,18 +3,21 @@ created: '2025-08-12'
 created_by: claude
 status: complete
 tags:
-- cultural guide
+- aquabyssos
+- complete
 - cultural-guide
 - culture
 - daily-life
+- lore
 - routine
 - status/complete
 - world/aquabyssos
 - worldbuilding
 type: Lore
-updated: '2025-08-12T23:37:39.004820'
+updated: '2025-08-13T12:34:15.840456+00:00'
 world: Aquabyssos
 ---
+
 
 
 

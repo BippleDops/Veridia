@@ -15,12 +15,15 @@ specialization: Innovation and Engineering
 status: complete
 tags:
 - advanced-crafting
+- aethermoor
+- complete
 - content/faction
 - content/location
 - content/lore
 - eastern-kingdoms
 - industrial-complex
 - innovation
+- lore
 - mechanics/magic
 - status/complete
 - technological-advancement
@@ -34,9 +37,10 @@ themes:
 - guild_cooperation
 - crystal_mastery
 type: Lore
-updated: '2025-08-12T23:37:39.290839'
+updated: '2025-08-13T12:34:16.074084+00:00'
 world: Aethermoor
 ---
+
 
 
 

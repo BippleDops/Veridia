@@ -15,7 +15,8 @@ government: Theocratic Recursion Council
 location_name: The Recursion Cult Complex
 location_type: Temporal Cult Compound
 notable_npcs:
-- '[[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The Recursion Oracle]]'
+- '[[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The Recursion
+  Oracle]]'
 - '[[Paradox Engineer Zeno]]'
 - '[[Loop-Walker Celia]]'
 - '[[Temporal Archivist Chronos]]'
@@ -23,7 +24,8 @@ obsidianUIMode: preview
 parent_location: '[[Abyssos Prime]]'
 population: 200
 pressure_effects: Severe
-ruler: '[[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The Recursion Oracle]]'
+ruler: '[[02_Worldbuilding/People/The Recursion Oracle|02 Worldbuilding/People/The
+  Recursion Oracle]]'
 services:
 - Temporal Navigation
 - Memory Loop Creation
@@ -39,9 +41,12 @@ sub_locations:
 - '[[The Causality Engine]]'
 - '[[Temporal Observation Deck]]'
 tags:
+- both
+- complete
 - content/location
 - cult
 - dangerous
+- location
 - recursion
 - status/complete
 - temporal
@@ -49,10 +54,11 @@ tags:
 - world/both
 temporal_stability: 15
 type: Location
-updated: '2025-08-12T23:37:39.859470'
+updated: '2025-08-13T12:34:16.604802+00:00'
 visited: false
 world: Both
 ---
+
 
 
 > [!figure] View

@@ -4,6 +4,7 @@ tags:
 - beyond-aethermoor
 - completed
 - confederacy
+- draft
 - economic
 - foreign-nation
 - foreign-power
@@ -16,7 +17,8 @@ world: Beyond Aethermoor
 type: Location
 government: Merchant Confederacy
 population: 2500000
-capital: '[[02_Worldbuilding/Places/Goldspire Port|02 Worldbuilding/Places/Goldspire Port]]'
+capital: '[[02_Worldbuilding/Places/Goldspire Port|02 Worldbuilding/Places/Goldspire
+  Port]]'
 leader: Trade Prince Aurelius Gilt
 specialties:
 - International Commerce
@@ -25,13 +27,14 @@ specialties:
 - Null Technology
 relationship_with_aethermoor: Opportunistic Economic Partner
 created: '2025-08-09'
-updated: '2025-08-13T01:18:36.598279+00:00'
+updated: '2025-08-13T12:34:14.075332+00:00'
 related_entities:
 - '[[02_Worldbuilding/Quests/Economic Warfare|02 Worldbuilding/Quests/Economic Warfare]]'
 - '[[02_Worldbuilding/People/Zephyr Goldwhisper|02 Worldbuilding/People/Zephyr Goldwhisper]]'
 - '[[02_Worldbuilding/Places/The Azure Coast|02 Worldbuilding/Places/The Azure Coast]]'
 danger_level: Moderate
 ---
+
 
 
 

@@ -2,17 +2,21 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - index
+- lore
 - master-control
 - navigation
 - status/complete
 - world/both
 title: Master Campaign Index
 type: Lore
-updated: '2025-08-12T23:37:32.992050'
+updated: '2025-08-13T12:34:03.151422+00:00'
 world: Both
 ---
+
 
 
 

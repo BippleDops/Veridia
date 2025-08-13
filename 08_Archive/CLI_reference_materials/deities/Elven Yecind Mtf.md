@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - importance/core
 - note
 - status/in-progress
@@ -14,9 +16,10 @@ tags:
 - ttrpg-cli/deity/elven
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.081617'
+updated: '2025-08-13T12:34:04.239060+00:00'
 world: Both
 ---
+
 
 # Ye'Cind
 *Source: Mordenkainen's Tome of Foes p. 43* 

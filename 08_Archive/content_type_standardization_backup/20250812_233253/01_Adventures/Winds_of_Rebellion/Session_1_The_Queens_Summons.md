@@ -3,6 +3,7 @@ tags:
 - active
 - adventure-session
 - aethermoor
+- complete
 - court-politics
 - levels-4-6
 - npc
@@ -20,10 +21,11 @@ themes:
 - hidden-agendas
 - faction-introductions
 created: '2025-08-11'
-updated: '2025-08-13T01:18:37.156118+00:00'
+updated: '2025-08-13T12:34:14.609025+00:00'
 type: NPC
 status: complete
 ---
+
 
 
 # Session 1: The Queen's Summons

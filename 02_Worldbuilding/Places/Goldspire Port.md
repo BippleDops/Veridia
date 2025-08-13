@@ -1,29 +1,15 @@
 ---
-type: Location
-status: draft
-tags:
-- active - category/place
-- active
----category/place
-- both
-- city
-- foreign
-- goldspire
-- international
-- location
-- trade-port
-region: Goldspire Confederacy
-type: Location
-danger: Medium
-status: Active - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+created: null
+updated: '2025-08-13T12:34:17.003471+00:00'
 world: Both
-updated: '2025-08-13T01:18:36.392318+00:00'
-created: 2025-08-11
-danger_level: Moderate
+type: Location
+status: active
+tags:
+- active
+- both
+- location
 ---
+
 
 
 > [!figure] View

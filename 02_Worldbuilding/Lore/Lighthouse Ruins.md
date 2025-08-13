@@ -8,22 +8,26 @@ region: Aethermoor Coast
 significance: Former Navigation Aid
 status: complete
 tags:
+- aethermoor
 - beacon
 - coastal
+- complete
 - content/location
 - content/lore
 - destruction
 - haunted
 - lighthouse
+- lore
 - maritime
 - ruins
 - status/complete
 - tragedy
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.810281'
+updated: '2025-08-13T12:34:15.642559+00:00'
 world: Aethermoor
 ---
+
 
 
 

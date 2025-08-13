@@ -2,13 +2,17 @@
 created: 2025-08-11
 status: active
 tags:
+- active
+- both
 - content/faction
+- group
 - status/in-progress
 - world/both
 type: Group
-updated: '2025-08-12T23:37:33.731716'
+updated: '2025-08-13T12:34:04.048073+00:00'
 world: Both
 ---
+
 
 
 

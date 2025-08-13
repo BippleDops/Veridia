@@ -1,6 +1,6 @@
 ---
 created: '2025-08-11'
-updated: '2025-08-13T01:18:36.497355+00:00'
+updated: '2025-08-13T12:34:13.955259+00:00'
 world: Both
 location_name: Harbor District
 location_type: Commercial Port
@@ -15,10 +15,12 @@ tags:
 - aquabyssos
 - both
 - commercial
+- complete
 - dock
 - harbor
 - location
 ---
+
 
 
 > [!figure] View

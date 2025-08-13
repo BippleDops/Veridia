@@ -14,18 +14,22 @@ status: complete
 status_condition: Active, Negotiating
 tags:
 - ambassador
+- aquabyssos
+- complete
 - content/lore
 - content/npc
 - extraplanar
 - mysterious
+- npc
 - shadows
 - status/complete
 - void
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.983278'
+updated: '2025-08-13T12:34:17.644697+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-tenebrarum-ambassadors-tenebrarum-ambassadors.svg)

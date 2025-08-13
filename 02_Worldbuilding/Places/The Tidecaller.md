@@ -4,16 +4,20 @@ created_by: auto-stub
 danger_level: Moderate
 status: complete
 tags:
+- aethermoor
+- complete
 - content/location
 - content/npc
+- location
 - maritime
 - mechanics/magic
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.238670'
+updated: '2025-08-13T12:34:17.002556+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

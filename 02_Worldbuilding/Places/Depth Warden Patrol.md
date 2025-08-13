@@ -8,18 +8,22 @@ frequency: Common
 location_type: Any depth zone
 status: complete
 tags:
+- aquabyssos
 - campaign/session
+- complete
 - content/location
 - law-enforcement
+- location
 - mobile-unit
 - patrol
 - security
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.175465'
+updated: '2025-08-13T12:34:16.942275+00:00'
 world: Aquabyssos
 ---
+
 
 
 

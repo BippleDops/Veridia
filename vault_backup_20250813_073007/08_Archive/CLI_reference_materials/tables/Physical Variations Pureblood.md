@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/vgm
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.495712'
+updated: '2025-08-13T12:34:18.354082+00:00'
 world: Both
 ---
+
 
 # Physical Variations; Pureblood Characteristics
 *Source: Volo's Guide to Monsters p. 97* 

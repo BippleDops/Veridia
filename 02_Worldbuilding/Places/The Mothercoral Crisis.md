@@ -14,21 +14,25 @@ primary_location: '[[Coral Courts]] and surrounding reef systems'
 quest_type: Investigation/Environmental Rescue
 status: complete
 tags:
+- aquabyssos
 - biological
 - campaign/consequence
+- complete
 - content/adventure
 - content/location
 - coral-reef
 - crisis
 - environmental
+- location
 - mechanics/exploration
 - status/complete
 - time-sensitive
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.186232'
+updated: '2025-08-13T12:34:16.954179+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

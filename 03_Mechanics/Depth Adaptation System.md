@@ -6,17 +6,21 @@ status: complete
 system: D&D 5e
 tags:
 - adaptation
+- both
+- complete
 - content/lore
 - content/mechanics
+- lore
 - status/in-progress
 - survival
 - transformation
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:41.087300'
+updated: '2025-08-13T12:34:17.772051+00:00'
 world: Both
 ---
+
 
 
 

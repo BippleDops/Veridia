@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - world/aquabyssos
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.252213'
+updated: '2025-08-13T12:34:04.740242+00:00'
 world: Both
 ---
+
 
 # Spells for Circle of the Sea
 

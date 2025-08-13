@@ -6,19 +6,23 @@ primary_sessions:
 - 'Session 06: Silhouette Surgeons'
 status: complete
 tags:
+- aquabyssos
 - campaign/arc
+- complete
 - content/lore
 - identity-crisis
+- lore
 - parliament-infiltration
 - political-intrigue
 - shadow-conspiracy
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.682603'
+updated: '2025-08-13T12:34:15.509876+00:00'
 visibility: 3
 world: Aquabyssos
 ---
+
 
 
 # Consequence Chain 1: Shadow Conspiracy Exposure

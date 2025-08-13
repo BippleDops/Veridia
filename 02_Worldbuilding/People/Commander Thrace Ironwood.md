@@ -1,22 +1,28 @@
 ---
-affiliation: '[[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist Coalition]] - Military Wing'
+affiliation: '[[02_Worldbuilding/Groups/Purist Coalition|02 Worldbuilding/Groups/Purist
+  Coalition]] - Military Wing'
 age: '43'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]] - Coalition Military Base'
+location: '[[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The
+  Verdant Reach]] - Coalition Military Base'
 race: Human
 role: Military Commander
 status: complete
 tags:
+- aethermoor
+- complete
 - content/npc
 - military-commander
+- npc
 - purist-coalition
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:40.930567'
+updated: '2025-08-13T12:34:17.599531+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait

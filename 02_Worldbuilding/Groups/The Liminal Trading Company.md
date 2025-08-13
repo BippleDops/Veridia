@@ -3,15 +3,19 @@ alignment: True Neutral (Profit-focused)
 created: '2025-08-09'
 created_by: auto-stub
 faction_type: Cross-Realm Trading Syndicate
-headquarters: '[[02_Worldbuilding/Lore/pat|02 Worldbuilding/Lore/pat]] (dimensional nexus)'
+headquarters: '[[02_Worldbuilding/Lore/pat|02 Worldbuilding/Lore/pat]] (dimensional
+  nexus)'
 influence: Significant (controls cross-realm commerce)
 leader: '[[Merchant Prince Vortex]]'
 members: ~1,200 traders, smugglers, and support staff
 purpose: Profit from inter-dimensional trade
 status: complete
 tags:
+- both aethermoor & aquabyssos
+- complete
 - content/faction
 - cross-realm
+- faction
 - merchants
 - smugglers
 - status/complete
@@ -19,9 +23,10 @@ tags:
 - world/aethermoor
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.646756'
+updated: '2025-08-13T12:34:17.362001+00:00'
 world: Both Aethermoor & Aquabyssos
 ---
+
 
 
 

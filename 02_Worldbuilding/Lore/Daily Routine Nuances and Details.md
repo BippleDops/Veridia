@@ -3,19 +3,22 @@ created: '2025-08-12'
 created_by: claude
 status: complete
 tags:
+- both
+- complete
 - comprehensive
-- cultural reference
 - cultural-reference
 - culture
 - daily-life
+- lore
 - nuances
 - routine
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.354102'
+updated: '2025-08-13T12:34:16.127784+00:00'
 world: Both
 ---
+
 
 
 

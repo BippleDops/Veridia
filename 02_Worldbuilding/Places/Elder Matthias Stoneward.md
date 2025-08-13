@@ -7,18 +7,22 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
+- complete
 - content/location
 - content/npc
 - dwarf
 - elder
 - engineer
+- location
 - status/complete
 - stoneward
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:39.784653'
+updated: '2025-08-13T12:34:16.559062+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

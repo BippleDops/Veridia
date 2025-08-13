@@ -2,16 +2,20 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/mechanics
+- mechanics
 - memory
 - status/complete
 - web
 - world/both
 title: Memory Web Constructor
 type: Mechanics
-updated: '2025-08-12T23:37:41.096418'
+updated: '2025-08-13T12:34:17.762211+00:00'
 world: Both
 ---
+
 
 
 # Memory Web Constructor

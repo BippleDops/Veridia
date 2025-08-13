@@ -3,18 +3,22 @@ created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - cultural_reference
 - culture
 - etymology
 - linguistics
+- lore
 - names
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.530725'
+updated: '2025-08-13T12:34:16.313303+00:00'
 world: Both
 ---
+
 
 
 # Name Etymology Guide

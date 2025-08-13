@@ -3,6 +3,7 @@ tags:
 - active
 - aquabyssos
 - commerce
+- complete
 - exploration
 - history
 - lore
@@ -12,8 +13,9 @@ type: Lore
 world: Aquabyssos
 status: complete
 created: '2025-08-12'
-updated: '2025-08-13T01:18:35.542488+00:00'
+updated: '2025-08-13T12:34:12.971689+00:00'
 ---
+
 
 
 # Trade Route Establishment

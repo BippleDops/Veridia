@@ -13,14 +13,18 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/npc
+- faction
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:41.050348'
+updated: '2025-08-13T12:34:17.705208+00:00'
 world: Aquabyssos
 ---
+
 
 
 

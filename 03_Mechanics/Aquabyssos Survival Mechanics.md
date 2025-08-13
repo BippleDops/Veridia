@@ -4,15 +4,19 @@ status: complete
 system: D&D 5e
 tags:
 - adaptation
+- aquabyssos
+- complete
 - content/lore
 - content/mechanics
+- lore
 - status/in-progress
 - survival
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:41.083783'
+updated: '2025-08-13T12:34:17.763318+00:00'
 world: Aquabyssos
 ---
+
 
 
 

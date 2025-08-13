@@ -6,7 +6,8 @@ danger_level: 4
 government: '[[Merchant Council of Port Meridian]]'
 leader: '[[Trade Master Silas Goldwater]]'
 obsidianUIMode: preview
-parent_location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]'
+parent_location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port
+  Meridian]]'
 population: 85000
 region: '[[The Azure Coast]]'
 specialties:
@@ -15,19 +16,23 @@ specialties:
 - Information Brokerage
 status: draft
 tags:
+- aethermoor
 - bustling
 - campaign/hook
 - commercial
 - commercial-district
 - content/location
 - district
+- draft
+- location
 - status/complete
 - trading
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.523529'
+updated: '2025-08-13T12:34:17.256148+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

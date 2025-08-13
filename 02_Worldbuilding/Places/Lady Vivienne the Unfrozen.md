@@ -7,8 +7,11 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - frozen
+- location
 - mansion
 - mechanics/magic
 - noble-estate
@@ -17,9 +20,10 @@ tags:
 - tragedy
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.531405'
+updated: '2025-08-13T12:34:17.262639+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

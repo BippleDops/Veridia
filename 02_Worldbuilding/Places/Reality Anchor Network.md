@@ -2,16 +2,20 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both worlds
+- complete
 - content/location
 - content/template
+- location
 - mechanics/skill
 - reality-anchors
 - status/complete
 - world/both
 type: Location
-updated: '2025-08-12T23:37:40.183114'
+updated: '2025-08-13T12:34:16.951310+00:00'
 world: Both Worlds
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-reality-anchor-network-reality-anchor-network.svg)

@@ -16,6 +16,8 @@ cssclasses: json5e-spell
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - importance/core
 - mechanics/magic
@@ -25,9 +27,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: monster
-updated: '2025-08-12T23:37:36.535951'
+updated: '2025-08-13T12:34:06.204985+00:00'
 world: Both
 ---
+
 
 # Hold Monster
 *5th-level, Enchantment*  

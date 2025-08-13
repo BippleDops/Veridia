@@ -3,18 +3,25 @@ controlled_by: Nobody (Chaotic Phenomenon)
 created: '2025-08-09'
 danger_level: 10
 frequency: Unpredictable manifestation
-region: '[[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]'
+region: '[[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The
+  Crystalline Wastes]]'
 related_entities:
-- '[[02_Worldbuilding/Places/The Crystal Hive Collective|02 Worldbuilding/Places/The Crystal Hive Collective]]'
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
-- '[[02_Worldbuilding/Places/The Sundered Vaults|02 Worldbuilding/Places/The Sundered Vaults]]'
+- '[[02_Worldbuilding/Places/The Crystal Hive Collective|02 Worldbuilding/Places/The
+  Crystal Hive Collective]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]]'
+- '[[02_Worldbuilding/Places/The Sundered Vaults|02 Worldbuilding/Places/The Sundered
+  Vaults]]'
 - '[[Crystal Wardens]]'
 size: Variable (Individual tears 5-100 feet diameter)
 status: complete
 tags:
+- aethermoor
 - catastrophic
+- complete
 - content/location
 - dimensional-anomaly
+- location
 - mechanics/magic
 - phenomenon
 - reality-breach
@@ -24,9 +31,10 @@ tags:
 - world/both
 threat_status: Critical - Reality Destabilization
 type: Location
-updated: '2025-08-12T23:37:39.879766'
+updated: '2025-08-13T12:34:16.624590+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-void-tears-the-void-tears.png)

@@ -16,11 +16,14 @@ related_entities:
 - '[[The Memory Meadows]]'
 status: complete
 tags:
+- aquabyssos
 - atoll
+- complete
 - content/location
 - coral
 - cursed-natural-formation
 - danger
+- location
 - mechanics/exploration
 - natural-disaster
 - sinking
@@ -30,9 +33,10 @@ tags:
 - world/aquabyssos
 time_remaining: Estimated 3-4 months before complete submersion
 type: Location
-updated: '2025-08-12T23:37:39.894422'
+updated: '2025-08-13T12:34:16.637141+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-sinking-atoll-the-sinking-atoll.svg)

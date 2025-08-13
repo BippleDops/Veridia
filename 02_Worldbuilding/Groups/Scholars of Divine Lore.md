@@ -3,8 +3,11 @@ created: '2025-08-12'
 created_by: claude
 status: complete
 tags:
+- both
+- complete
 - content/faction
 - deep-mother
+- faction
 - resistance
 - scholars
 - status/complete
@@ -12,9 +15,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Faction
-updated: '2025-08-12T23:37:40.618748'
+updated: '2025-08-13T12:34:17.339140+00:00'
 world: Both
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-scholars-of-divine-lore-scholars-of-divine-lore.svg)

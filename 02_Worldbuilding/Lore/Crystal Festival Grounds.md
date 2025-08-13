@@ -4,17 +4,21 @@ date_created: '2025-08-11'
 date_modified: '2025-08-11'
 status: complete
 tags:
+- both
 - celebration
+- complete
 - content/lore
 - grounds
+- lore
 - status/complete
 - world/aethermoor
 - world/both
 - worldbuilding
 type: Lore
-updated: '2025-08-12T23:37:37.928344'
+updated: '2025-08-13T12:34:14.843343+00:00'
 world: Both
 ---
+
 
 
 

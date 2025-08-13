@@ -2,12 +2,16 @@
 created: null
 status: complete
 tags:
+- both
+- complete
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.073145'
+updated: '2025-08-13T12:34:17.933053+00:00'
 world: Both
 ---
+
 
 # NPC Roleplay Guide
 *Master the art of bringing Non-Player Characters to life*

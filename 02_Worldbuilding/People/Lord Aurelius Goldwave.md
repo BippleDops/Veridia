@@ -10,17 +10,21 @@ location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port 
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
 - betrayer-descendant
+- complete
 - content/npc
 - lord
 - noble
+- npc
 - political-intrigue
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:40.813507'
+updated: '2025-08-13T12:34:17.502860+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait

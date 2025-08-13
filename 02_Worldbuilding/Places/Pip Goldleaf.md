@@ -14,11 +14,14 @@ obsidianUIMode: preview
 occupation: Apprentice Merchant
 status: complete
 tags:
+- aethermoor
 - apprentice
+- complete
 - content/location
 - content/npc
 - family
 - heir
+- location
 - merchant
 - pip
 - status/archived
@@ -26,9 +29,10 @@ tags:
 - world/aethermoor
 - young
 type: Location
-updated: '2025-08-12T23:37:39.757539'
+updated: '2025-08-13T12:34:16.537092+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-pip-goldleaf-pip-goldleaf.svg)

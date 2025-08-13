@@ -19,11 +19,14 @@ scale: Continental (All Depth Zones)
 significance: Constitutional Crisis
 status: complete
 tags:
+- aquabyssos
 - bathyal-zone
 - civil-war
+- complete
 - content/lore
 - historical-event
 - historical-events
+- lore
 - mechanics/combat
 - royal-succession
 - status/complete
@@ -33,9 +36,10 @@ tags:
 - world/aquabyssos
 time_period: Years 234-267 AS (After Submersion)
 type: Lore
-updated: '2025-08-12T23:37:39.456779'
+updated: '2025-08-13T12:34:16.210649+00:00'
 world: Aquabyssos
 ---
+
 
 
 

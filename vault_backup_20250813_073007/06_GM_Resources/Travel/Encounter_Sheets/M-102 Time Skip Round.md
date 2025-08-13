@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - gm_resource
+- lore
 - merger
 - status/complete
 - time
 - world/both
 title: Encounter Sheet — M-102 Time Skip Round
 type: Lore
-updated: '2025-08-12T23:37:33.053612'
+updated: '2025-08-13T12:34:17.902256+00:00'
 world: Both
 ---
+
 
 
 # M-102 Time Skip Round

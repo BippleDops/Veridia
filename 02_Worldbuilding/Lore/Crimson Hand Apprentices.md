@@ -8,10 +8,13 @@ primary_activities: Recruitment and Training
 scope: Regional
 status: complete
 tags:
+- aethermoor
 - apprentices
+- complete
 - content/faction
 - content/lore
 - corruption
+- lore
 - organized-crime
 - status/complete
 - street-level
@@ -19,9 +22,10 @@ tags:
 - underground
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:37.823988'
+updated: '2025-08-13T12:34:14.735283+00:00'
 world: Aethermoor
 ---
+
 
 
 

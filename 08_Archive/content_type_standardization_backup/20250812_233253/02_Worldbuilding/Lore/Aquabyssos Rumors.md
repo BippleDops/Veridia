@@ -2,14 +2,16 @@
 tags:
 - active
 - both
+- complete
 - index
 - lore
 type: Lore
 world: Both
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.295740+00:00'
+updated: '2025-08-13T12:34:12.681964+00:00'
 ---
+
 
 
 

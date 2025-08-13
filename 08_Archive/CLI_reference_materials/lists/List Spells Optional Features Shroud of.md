@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - mechanics/magic
 - note
 - status/in-progress
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.331360'
+updated: '2025-08-13T12:34:04.689125+00:00'
 world: Both
 ---
+
 
 # Spells for Shroud of Shadow
 

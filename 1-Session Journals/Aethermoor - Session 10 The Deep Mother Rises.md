@@ -9,7 +9,8 @@ location: '[[The Abyss Beneath Aquabyssos]]'
 npcs_featured:
 - '[[The Deep Mother]]'
 - '[[United Councils of Both Worlds]]'
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]] (Echo)'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]] (Echo)'
 - '[[Eastern Kingdom Fleet]]'
 obsidianUIMode: preview
 quests_advanced:
@@ -19,19 +20,23 @@ quests_advanced:
 session_number: 10
 status: complete
 tags:
+- aethermoor
 - campaign/session
+- complete
 - content/lore
 - deep-mother
 - finale
+- lore
 - primordial
 - status/in-progress
 - world/aethermoor
 - world/aquabyssos
 title: The Deep Mother Rises
 type: Lore
-updated: '2025-08-12T23:37:41.182671'
+updated: '2025-08-13T12:34:17.850810+00:00'
 world: Aethermoor
 ---
+
 
 
 

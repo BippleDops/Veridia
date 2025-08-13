@@ -1,5 +1,6 @@
 ---
-capital: '[[02_Worldbuilding/Places/Goldspire Port|02 Worldbuilding/Places/Goldspire Port]]'
+capital: '[[02_Worldbuilding/Places/Goldspire Port|02 Worldbuilding/Places/Goldspire
+  Port]]'
 created: '2025-08-09'
 danger_level: Moderate
 government: Merchant Confederacy
@@ -17,20 +18,24 @@ specialties:
 - Null Technology
 status: draft
 tags:
+- beyond aethermoor
 - confederacy
 - content/location
+- draft
 - economic
 - foreign-nation
 - foreign-power
+- location
 - nation
 - political
 - status/archived
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.539118'
+updated: '2025-08-13T12:34:17.268699+00:00'
 world: Beyond Aethermoor
 ---
+
 
 
 

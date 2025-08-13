@@ -14,6 +14,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - importance/core
 - mechanics/magic
 - note
@@ -21,9 +23,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.331294'
+updated: '2025-08-13T12:34:06.365173+00:00'
 world: Both
 ---
+
 
 # Mass Cure Wounds
 *5th-level, Abjuration*  

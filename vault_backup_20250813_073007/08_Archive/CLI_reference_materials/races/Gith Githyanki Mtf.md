@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/race/gith/githyanki
 - world/both
 type: note
-updated: '2025-08-12T23:37:37.690924'
+updated: '2025-08-13T12:34:21.826632+00:00'
 world: Both
 ---
+
 
 # Gith (Githyanki)
 *Source: Mordenkainen's Tome of Foes p. 96*  

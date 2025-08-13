@@ -1,28 +1,37 @@
 ---
 created: '2025-08-08'
 created_date: Second Age of Aquabyssos
-creator: '[[02_Worldbuilding/Lore/Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]'
-current_location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] Vault'
+creator: '[[02_Worldbuilding/Lore/Thalassius the Wise|02 Worldbuilding/Lore/Thalassius
+  The Wise]]'
+current_location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]] Vault'
 danger_level: 3
 rarity: Legendary (Government Controlled)
 related_entities:
-- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
-- '[[02_Worldbuilding/Lore/Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]]'
+- '[[02_Worldbuilding/Lore/Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The
+  Wise]]'
 - '[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
-- '[[02_Worldbuilding/Groups/Silverscale Banking House|02 Worldbuilding/Groups/Silverscale Banking House]]'
+- '[[02_Worldbuilding/Groups/Silverscale Banking House|02 Worldbuilding/Groups/Silverscale
+  Banking House]]'
 status: complete
 tags:
+- aquabyssos
 - authentication
+- complete
 - content/item
 - content/lore
+- lore
 - mechanics/social
 - status/complete
 - trade
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.448375'
+updated: '2025-08-13T12:34:16.203982+00:00'
 world: Aquabyssos
 ---
+
 
 
 

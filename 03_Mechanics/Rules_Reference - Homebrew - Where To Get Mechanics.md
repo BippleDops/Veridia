@@ -5,14 +5,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - note
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:41.130067'
+updated: '2025-08-13T12:34:17.765282+00:00'
 world: Both
 ---
+
 
 
 

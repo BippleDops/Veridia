@@ -5,21 +5,30 @@ created: '2025-08-11'
 level_range: 5-8
 locations:
 - '[[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]'
-- '[[02_Worldbuilding/Places/The Embassy Quarter|02 Worldbuilding/Places/The Embassy Quarter]]'
-- '[[02_Worldbuilding/Places/The Sunken Markets|02 Worldbuilding/Places/The Sunken Markets]]'
+- '[[02_Worldbuilding/Places/The Embassy Quarter|02 Worldbuilding/Places/The Embassy
+  Quarter]]'
+- '[[02_Worldbuilding/Places/The Sunken Markets|02 Worldbuilding/Places/The Sunken
+  Markets]]'
 npcs_involved:
-- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]'
-- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador Nerida Deepcurrent]]'
-- '[[02_Worldbuilding/People/Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus Shardbreaker Grimm]]'
+- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister
+  Morwyn Veilkeeper]]'
+- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent|02 Worldbuilding/People/Ambassador
+  Nerida Deepcurrent]]'
+- '[[02_Worldbuilding/People/Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus
+  Shardbreaker Grimm]]'
 - '[[02_Worldbuilding/People/Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'
 - Category/Quest
 obsidianUIMode: preview
-quest_giver: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+quest_giver: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister
+  Morwyn Veilkeeper]]'
 reward_tier: Significant
 status: complete
 tags:
+- both
+- complete
 - content/adventure
 - content/lore
+- lore
 - mechanics/exploration
 - mid-level
 - political
@@ -27,9 +36,10 @@ tags:
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.764814'
+updated: '2025-08-13T12:34:14.677217+00:00'
 world: Both
 ---
+
 
 
 

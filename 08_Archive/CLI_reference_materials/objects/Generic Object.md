@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/dmg
@@ -14,9 +16,10 @@ tags:
 - ttrpg-cli/object/type/generic
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.759233'
+updated: '2025-08-13T12:34:05.134217+00:00'
 world: Both
 ---
+
 
 # Generic Object
 %%-- Embedded content starts on the next line. --%%

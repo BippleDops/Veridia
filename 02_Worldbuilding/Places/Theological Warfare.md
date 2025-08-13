@@ -7,15 +7,18 @@ danger_level: 9
 depth: 2600-2900 feet
 discovered: true
 factions:
-- '[[02_Worldbuilding/Groups/Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]'
-- '[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]'
+- '[[02_Worldbuilding/Groups/Temple of Divine Order|02 Worldbuilding/Groups/Temple
+  Of Divine Order]]'
+- '[[02_Worldbuilding/Groups/The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan
+  Cult]]'
 - '[[Deep Mother Zealots]]'
 - '[[Syncretist Mediators]]'
 government: Religious Council of War
 location_name: The Theological Warfare Grounds
 location_type: Contested Religious Battlefield
 notable_npcs:
-- '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High Theologian Commander Aurelius]]'
+- '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High
+  Theologian Commander Aurelius]]'
 - '[[Leviathan Prophet Thalassa]]'
 - '[[Deep Mother Priestess Sira]]'
 - '[[Mediator Cardinal Harmony]]'
@@ -23,7 +26,8 @@ obsidianUIMode: preview
 parent_location: '[[Abyssos Prime]]'
 population: 500
 pressure_effects: Severe
-ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High Theologian Commander Aurelius]]'
+ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High
+  Theologian Commander Aurelius]]'
 services:
 - Theological Debate Resolution
 - Religious Combat Training
@@ -39,8 +43,11 @@ sub_locations:
 - '[[The Schism Bridges]]'
 - '[[Faith Testing Grounds]]'
 tags:
+- both
+- complete
 - content/location
 - contested
+- location
 - mechanics/combat
 - religious
 - status/complete
@@ -49,10 +56,11 @@ tags:
 - world/both
 temporal_stability: 30
 type: Location
-updated: '2025-08-12T23:37:39.874574'
+updated: '2025-08-13T12:34:16.619589+00:00'
 visited: false
 world: Both
 ---
+
 
 
 > [!figure] View

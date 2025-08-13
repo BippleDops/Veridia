@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/ei
 - world/both
 type: note
-updated: '2025-08-12T23:37:35.887264'
+updated: '2025-08-13T12:34:06.144210+00:00'
 world: Both
 ---
+
 
 # Lessons of the First Ones
 *Source: Player's Handbook (2024) p. 156*  

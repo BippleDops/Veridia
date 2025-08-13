@@ -3,16 +3,20 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
+- complete
 - generator
 - gm_resource
+- lore
 - status/complete
 - travel
 - world/both
 title: Journey Event Permutation Engine
 type: Lore
-updated: '2025-08-12T23:37:33.033889'
+updated: '2025-08-13T12:34:17.900173+00:00'
 world: Both
 ---
+
 
 
 # Journey Event Permutation Engine (1,000,000+ combos)

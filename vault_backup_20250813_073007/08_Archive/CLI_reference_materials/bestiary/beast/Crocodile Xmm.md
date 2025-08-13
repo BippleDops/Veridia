@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - monster
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xmm
@@ -19,9 +21,10 @@ tags:
 - ttrpg-cli/monster/type/beast
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.212625'
+updated: '2025-08-13T12:34:19.603661+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Creature

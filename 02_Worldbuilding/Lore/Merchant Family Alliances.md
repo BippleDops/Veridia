@@ -3,17 +3,21 @@ created: '2025-08-12'
 status: complete
 tags:
 - alliances
+- aquabyssos
+- complete
 - content/lore
 - economics
+- lore
 - merchants
 - relationships
 - status/complete
 - trade
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.203148'
+updated: '2025-08-13T12:34:16.002873+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Merchant Family Alliances

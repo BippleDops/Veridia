@@ -10,10 +10,13 @@ status: complete
 tags:
 - access/secret
 - ancient-power
+- aquabyssos
 - awakening
 - bloodline
+- complete
 - content/npc
 - curse
+- npc
 - phenomenon
 - status/archived
 - status/complete
@@ -21,9 +24,10 @@ tags:
 - transformation
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.907707'
+updated: '2025-08-13T12:34:17.580157+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

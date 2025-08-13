@@ -10,15 +10,19 @@ members: ~800 criminals, smugglers, and shadow-touched
 purpose: Control criminal activities and exploit shadow corruption
 status: complete
 tags:
+- aethermoor
+- complete
 - content/faction
+- faction
 - mechanics/magic
 - smuggling
 - status/complete
 - world/aethermoor
 type: Faction
-updated: '2025-08-12T23:37:40.684994'
+updated: '2025-08-13T12:34:17.394863+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry

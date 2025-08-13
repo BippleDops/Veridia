@@ -11,15 +11,19 @@ purpose: Elite ambush and tactical warfare unit
 status: complete
 tags:
 - ambush-specialists
+- aquabyssos
+- complete
 - content/faction
+- faction
 - guerrilla-warfare
 - status/complete
 - tactical
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.681153'
+updated: '2025-08-13T12:34:17.391884+00:00'
 world: Aquabyssos
 ---
+
 
 
 

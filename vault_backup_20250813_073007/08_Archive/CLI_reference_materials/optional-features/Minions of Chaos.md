@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/optional-feature/ei
 - world/both
 type: note
-updated: '2025-08-12T23:37:35.943535'
+updated: '2025-08-13T12:34:20.319672+00:00'
 world: Both
 ---
+
 
 # Minions of Chaos
 *Source: Player's Handbook p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

@@ -4,8 +4,11 @@ created_by: auto-stub
 expanded: 2025-08-10
 status: complete
 tags:
+- aethermoor
+- complete
 - content/lore
 - content/mechanics
+- lore
 - mechanics/magic
 - redirections
 - rituals
@@ -13,9 +16,10 @@ tags:
 - techniques
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:39.478672'
+updated: '2025-08-13T12:34:16.228670+00:00'
 world: Aethermoor
 ---
+
 
 
 

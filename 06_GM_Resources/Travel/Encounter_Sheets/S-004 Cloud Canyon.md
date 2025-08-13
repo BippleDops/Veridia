@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - gm_resource
+- lore
 - status/complete
 - weather
 - world/aethermoor
 - world/both
 title: Encounter Sheet — S-004 Cloud Canyon
 type: Lore
-updated: '2025-08-12T23:37:33.052930'
+updated: '2025-08-13T12:34:03.192316+00:00'
 world: Both
 ---
+
 
 
 # S-004 Cloud Canyon

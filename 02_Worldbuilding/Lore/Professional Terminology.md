@@ -3,18 +3,22 @@ created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
 tags:
+- both
+- complete
 - content/faction
 - content/lore
 - linguistics
+- lore
 - professional_reference
 - professions
 - status/complete
 - terminology
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.887921'
+updated: '2025-08-13T12:34:15.715984+00:00'
 world: Both
 ---
+
 
 
 # Professional Terminology

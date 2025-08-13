@@ -10,11 +10,14 @@ obsidianUIMode: preview
 quest_giver: Caravan Master Dolrim
 status: complete
 tags:
+- aquabyssos
 - border-control
 - caravan-protection
+- complete
 - content/adventure
 - content/lore
 - frontier
+- lore
 - mechanics/social
 - smuggling
 - status/complete
@@ -23,9 +26,10 @@ tags:
 - world/aquabyssos
 threat_level: medium
 type: Lore
-updated: '2025-08-12T23:37:37.749917'
+updated: '2025-08-13T12:34:14.664797+00:00'
 world: Aquabyssos
 ---
+
 
 
 

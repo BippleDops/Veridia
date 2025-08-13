@@ -2,17 +2,21 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/faction
 - content/mechanics
 - fleets
+- mechanics
 - status/complete
 - warfare
 - world/both
 title: Fleet Dynamics Generator
 type: Mechanics
-updated: '2025-08-12T23:37:41.140292'
+updated: '2025-08-13T12:34:17.805794+00:00'
 world: Both
 ---
+
 
 
 

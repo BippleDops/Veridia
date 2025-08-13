@@ -2,17 +2,21 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/mechanics
 - fleets
 - importance/core
+- mechanics
 - status/complete
 - vehicles
 - world/both
 title: Vehicle Core Rules
 type: Mechanics
-updated: '2025-08-12T23:37:41.142762'
+updated: '2025-08-13T12:34:17.812333+00:00'
 world: Both
 ---
+
 
 
 

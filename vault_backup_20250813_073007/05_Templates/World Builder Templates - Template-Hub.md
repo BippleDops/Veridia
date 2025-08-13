@@ -5,14 +5,18 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- both
 - category/hub
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.122688'
+updated: '2025-08-13T12:34:17.979221+00:00'
 world: Both
 ---
+
 
 
 

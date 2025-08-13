@@ -3,13 +3,15 @@ tags:
 - active
 - aethermoor
 - commercial-district
+- complete
 - lore
 type: Lore
 world: Aethermoor
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.227960+00:00'
+updated: '2025-08-13T12:34:12.639331+00:00'
 ---
+
 
 
 

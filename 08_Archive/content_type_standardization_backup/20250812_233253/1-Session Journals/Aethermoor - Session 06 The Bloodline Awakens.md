@@ -6,9 +6,12 @@ session_number: 6
 date_played: null
 location: '[[Lighthouse Ruins]] to [[Hidden Sanctuary]]'
 npcs_featured:
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
-- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina Red Tide Coralheart]]'
-- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart|02 Worldbuilding/People/Marina
+  Red Tide Coralheart]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High
+  Inquisitor Maltheos]]'
 - '[[Jasper Three-Eyes Flint]]'
 quests_advanced:
 - '[[02_Worldbuilding/Quests/Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]'
@@ -20,6 +23,7 @@ tags:
 - active
 - aethermoor
 - bloodline
+- complete
 - lore
 - revelation
 - session
@@ -28,9 +32,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-13T01:18:37.175806+00:00'
+updated: '2025-08-13T12:34:14.628289+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

@@ -3,14 +3,18 @@ created: null
 obsidianUIMode: preview
 status: complete
 tags:
+- complete
 - index
+- lore
 - narrative
 - status/complete
+- universal
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.012819'
+updated: '2025-08-13T12:34:17.882414+00:00'
 world: Universal
 ---
+
 
 
 # Master Narrative Web

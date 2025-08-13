@@ -8,15 +8,18 @@ modified: 2025-07-23 12:39
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - content/item
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xdmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.758969'
+updated: '2025-08-13T12:34:20.929539+00:00'
 world: Both
 ---
+
 
 # Figurine of Wondrous Power, Ebony Fly
 *Wondrous item, rare*  

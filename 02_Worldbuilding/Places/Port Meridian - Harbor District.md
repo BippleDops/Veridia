@@ -15,13 +15,17 @@ created: '2025-08-12'
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
+- complete
 - content/location
+- location
 - status/complete
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.055318'
+updated: '2025-08-13T12:34:16.819201+00:00'
 world: Aethermoor
 ---
+
 
 
 

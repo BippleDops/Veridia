@@ -4,34 +4,47 @@ MyContainer: None
 created: '2025-08-11'
 level_range: 7-10
 locations:
-- '[[02_Worldbuilding/Places/The Shattered Sanctum|02 Worldbuilding/Places/The Shattered Sanctum]]'
+- '[[02_Worldbuilding/Places/The Shattered Sanctum|02 Worldbuilding/Places/The Shattered
+  Sanctum]]'
 - '[[02_Worldbuilding/Places/The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]'
-- '[[02_Worldbuilding/Places/The Embassy Quarter|02 Worldbuilding/Places/The Embassy Quarter]]'
-- '[[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant Reach]]'
+- '[[02_Worldbuilding/Places/The Embassy Quarter|02 Worldbuilding/Places/The Embassy
+  Quarter]]'
+- '[[02_Worldbuilding/Places/The Verdant Reach|02 Worldbuilding/Places/The Verdant
+  Reach]]'
 npcs_involved:
-- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
-- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]'
-- '[[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid Thornweaver]]'
-- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]'
-- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson
+  Sage]]'
+- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister
+  Morwyn Veilkeeper]]'
+- '[[02_Worldbuilding/People/Archdruid Thornweaver|02 Worldbuilding/People/Archdruid
+  Thornweaver]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High
+  Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen
+  Seraphina Lumengarde]]'
 - Category/Quest
 obsidianUIMode: preview
-quest_giver: '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]'
+quest_giver: '[[02_Worldbuilding/People/The Crimson Sage|02 Worldbuilding/People/The
+  Crimson Sage]]'
 reward_tier: Major
 status: complete
 tags:
+- both
+- complete
 - content/adventure
 - content/lore
 - content/npc
+- lore
 - mechanics/magic
 - mid-level
 - order-of-shattered-crown
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.772726'
+updated: '2025-08-13T12:34:14.685820+00:00'
 world: Both
 ---
+
 
 
 

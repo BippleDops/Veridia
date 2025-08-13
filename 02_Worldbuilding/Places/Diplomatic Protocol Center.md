@@ -2,16 +2,20 @@
 created: '2025-08-12'
 status: complete
 tags:
+- both worlds
+- complete
 - content/location
 - cultural-exchange
 - embassy
+- location
 - mechanics/social
 - status/complete
 - world/both
 type: Location
-updated: '2025-08-12T23:37:39.969684'
+updated: '2025-08-13T12:34:16.722758+00:00'
 world: Both Worlds
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-diplomatic-protocol-center-diplomatic-protocol-center.svg)

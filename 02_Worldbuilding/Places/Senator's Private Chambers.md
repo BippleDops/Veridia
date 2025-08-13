@@ -12,7 +12,10 @@ security_level: Maximum
 size: Suite Complex (5,000 sq ft)
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
+- location
 - luxury
 - parliament
 - political
@@ -20,9 +23,10 @@ tags:
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.846315'
+updated: '2025-08-13T12:34:16.591950+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-senator-s-private-chambers-senator-s-private-chambers.svg)

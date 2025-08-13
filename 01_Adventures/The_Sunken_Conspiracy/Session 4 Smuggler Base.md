@@ -6,8 +6,11 @@ level_range: 2-3
 session_number: 4
 status: complete
 tags:
+- adventure
 - ancient-facility
+- aquabyssos
 - campaign/session
+- complete
 - conspiracy
 - infiltration
 - mechanics/exploration
@@ -15,9 +18,10 @@ tags:
 - world/aquabyssos
 title: 'The Sunken Conspiracy - Session 4: Smuggler Base'
 type: Adventure
-updated: '2025-08-12T23:37:41.157017'
+updated: '2025-08-13T12:34:17.825305+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Session 4: Smuggler Base

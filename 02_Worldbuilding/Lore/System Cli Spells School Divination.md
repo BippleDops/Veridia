@@ -7,10 +7,13 @@ practitioners: Seers, scouts, oracles
 school: Divination
 status: complete
 tags:
+- both worlds
+- complete
 - content/lore
 - content/mechanics
 - divination
 - knowledge
+- lore
 - mechanics/magic
 - perception
 - prophecy
@@ -19,9 +22,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.436062'
+updated: '2025-08-13T12:34:16.081226+00:00'
 world: Both Worlds
 ---
+
 
 
 

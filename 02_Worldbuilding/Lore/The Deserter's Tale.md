@@ -8,9 +8,11 @@ created: '2025-08-11'
 status: draft
 tags:
 - content/lore
+- draft
 - dual
 - event
 - honor
+- lore
 - status/complete
 - world/aquabyssos
 themes:
@@ -19,9 +21,10 @@ themes:
 - duty_vs_survival
 - cosmic_horror
 type: Lore
-updated: '2025-08-12T23:37:38.185802'
+updated: '2025-08-13T12:34:15.097418+00:00'
 world: dual
 ---
+
 
 
 

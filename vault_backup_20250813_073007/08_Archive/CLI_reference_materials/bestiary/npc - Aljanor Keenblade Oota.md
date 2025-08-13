@@ -9,16 +9,19 @@ statblock-link: '#^statblock'
 status: alive
 tags:
 - alive
+- both
 - content/npc
+- npc
 - ttrpg-cli/compendium/src/5e/oota
 - ttrpg-cli/monster/cr/3
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/human
 - world/both
 type: npc
-updated: '2025-08-12T23:37:35.797133'
+updated: '2025-08-13T12:34:19.459611+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Creature

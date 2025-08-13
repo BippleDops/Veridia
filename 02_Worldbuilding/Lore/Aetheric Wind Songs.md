@@ -26,11 +26,14 @@ related_phenomena:
 - '[[Temporal Wind Patterns]]'
 status: complete
 tags:
+- aethermoor
 - bardic-tradition
+- complete
 - content/lore
 - cultural-preservation
 - culture
 - elemental-harmony
+- lore
 - mechanics/magic
 - music
 - oral-tradition
@@ -38,9 +41,10 @@ tags:
 - world/aethermoor
 transmission_method: Oral tradition with magical resonance
 type: Lore
-updated: '2025-08-12T23:37:39.064951'
+updated: '2025-08-13T12:34:15.889353+00:00'
 world: Aethermoor
 ---
+
 
 
 

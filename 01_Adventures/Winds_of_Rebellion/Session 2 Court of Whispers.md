@@ -7,6 +7,9 @@ session_number: 2
 session_type: Social Investigation & Faction Dynamics
 status: complete
 tags:
+- adventure
+- aethermoor
+- complete
 - content/adventure
 - levels-4-6
 - mechanics/social
@@ -20,9 +23,10 @@ themes:
 - hidden-agendas
 - social-maneuvering
 type: Adventure
-updated: '2025-08-12T23:37:41.150898'
+updated: '2025-08-13T12:34:17.820025+00:00'
 world: Aethermoor
 ---
+
 
 
 # Session 2: Court of Whispers

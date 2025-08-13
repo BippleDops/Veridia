@@ -7,21 +7,25 @@ practitioners: Battle mages, energy manipulators, destroyers
 school: Evocation
 status: complete
 tags:
+- both worlds
+- complete
 - content/lore
 - content/mechanics
 - destruction
 - energy
 - evocation
 - force
+- lore
 - mechanics/magic
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:39.490292'
+updated: '2025-08-13T12:34:15.319429+00:00'
 world: Both Worlds
 ---
+
 
 
 

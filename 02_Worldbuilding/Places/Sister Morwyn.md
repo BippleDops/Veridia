@@ -7,21 +7,25 @@ danger_level: 3
 depth: 2500-2800 feet
 discovered: true
 factions:
-- '[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]'
-- '[[02_Worldbuilding/Places/Keepers of Memory|02 Worldbuilding/Places/Keepers Of Memory]]'
+- '[[02_Worldbuilding/Groups/Order of the Drowned Star|02 Worldbuilding/Groups/Order
+  Of The Drowned Star]]'
+- '[[02_Worldbuilding/Places/Keepers of Memory|02 Worldbuilding/Places/Keepers Of
+  Memory]]'
 - '[[The Forgiveness Seekers]]'
 government: Sacred Trust
 location_name: Sister Morwyn's Memorial Sanctuary
 location_type: Sacred Memorial Site
 notable_npcs:
-- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister
+  Morwyn Veilkeeper]]'
 - '[[Brother Thaddeus the Rememberer]]'
 - '[[Echo-Keeper Selin]]'
 obsidianUIMode: preview
 parent_location: '[[Abyssos Prime]]'
 population: 50
 pressure_effects: Moderate
-ruler: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+ruler: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper|02 Worldbuilding/People/Sister
+  Morwyn Veilkeeper]]'
 services:
 - Death Rites
 - Memory Preservation
@@ -31,13 +35,17 @@ services:
 shadow_density: Low
 status: complete
 sub_locations:
-- '[[02_Worldbuilding/Places/The Archive of Unremembered Things|02 Worldbuilding/Places/The Archive Of Unremembered Things]]'
+- '[[02_Worldbuilding/Places/The Archive of Unremembered Things|02 Worldbuilding/Places/The
+  Archive Of Unremembered Things]]'
 - '[[02_Worldbuilding/Lore/The Memory Vaults|02 Worldbuilding/Lore/The Memory Vaults]]'
 - '[[Garden of Whispered Names]]'
 - '[[Hall of Final Echoes]]'
 tags:
+- both
+- complete
 - content/location
 - death
+- location
 - memory
 - status/complete
 - temple
@@ -45,10 +53,11 @@ tags:
 - world/both
 temporal_stability: 95
 type: Location
-updated: '2025-08-12T23:37:39.856222'
+updated: '2025-08-13T12:34:16.601403+00:00'
 visited: false
 world: Both
 ---
+
 
 
 > [!figure] View

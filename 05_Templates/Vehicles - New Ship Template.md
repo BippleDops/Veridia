@@ -2,15 +2,19 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/template
 - status/complete
+- template
 - vehicles
 - world/both
 title: New Ship Template
 type: Template
-updated: '2025-08-12T23:37:33.135689'
+updated: '2025-08-13T12:34:03.267923+00:00'
 world: Both
 ---
+
 
 
 # New Ship Template

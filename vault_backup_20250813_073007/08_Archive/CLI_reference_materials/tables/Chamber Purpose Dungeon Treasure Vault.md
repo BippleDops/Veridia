@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/dmg
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.181919'
+updated: '2025-08-13T12:34:18.312422+00:00'
 world: Both
 ---
+
 
 # Chamber Purpose; Dungeon: Treasure Vault
 *Source: Dungeon Master's Guide p. 292* 

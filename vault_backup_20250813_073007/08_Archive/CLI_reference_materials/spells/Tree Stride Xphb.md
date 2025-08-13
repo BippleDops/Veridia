@@ -14,6 +14,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - importance/core
 - mechanics/magic
 - note
@@ -22,9 +24,10 @@ tags:
 - world/both
 - world/surface
 type: note
-updated: '2025-08-12T23:37:36.285105'
+updated: '2025-08-13T12:34:20.503096+00:00'
 world: Both
 ---
+
 
 # Tree Stride
 *5th-level, Conjuration*  

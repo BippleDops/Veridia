@@ -12,16 +12,20 @@ members: ~15,000 civil servants, clerks, and administrators
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
 - bureaucracy
+- complete
 - content/faction
+- faction
 - political
 - status/complete
 - world/aethermoor
 type: Faction
-updated: '2025-08-12T23:37:40.710700'
+updated: '2025-08-13T12:34:17.417731+00:00'
 wealth: Substantial (royal treasury access)
 world: Aethermoor
 ---
+
 
 
 > [!figure] Heraldry

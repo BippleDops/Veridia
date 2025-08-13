@@ -3,21 +3,26 @@ affiliation: Order of the Shattered Crown
 age: '47'
 created: '2025-08-09'
 created_by: auto-stub
-location: '[[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]'
+location: '[[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The
+  Crystalline Wastes]]'
 race: Human (Crystal-touched)
 role: Shard Seeker
 status: complete
 tags:
+- aethermoor
+- complete
 - content/npc
 - corrupted
+- npc
 - seeker
 - seven-shards
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:40.814988'
+updated: '2025-08-13T12:34:17.668524+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait

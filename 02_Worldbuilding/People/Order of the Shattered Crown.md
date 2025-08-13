@@ -6,22 +6,27 @@ age: '73'
 cr: '8'
 created: '2025-08-12'
 created_by: expansion
-location: '[[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The Crystalline Wastes]]'
+location: '[[02_Worldbuilding/Places/The Crystalline Wastes|02 Worldbuilding/Places/The
+  Crystalline Wastes]]'
 obsidianUIMode: preview
 race: Human (Heavily Crystal-touched)
 role: Grand Master of the Shattered Crown
 status: complete
 tags:
+- aethermoor
 - campaign/hook
+- complete
 - content/npc
 - grand-master
+- npc
 - seven-shards
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:41.057738'
+updated: '2025-08-13T12:34:17.711198+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait

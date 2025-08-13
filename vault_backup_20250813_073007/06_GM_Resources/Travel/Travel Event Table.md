@@ -3,16 +3,20 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - gm_resource
+- lore
 - status/complete
 - travel
 - world/both
 title: Travel Event Table
 type: Lore
-updated: '2025-08-12T23:37:33.033284'
+updated: '2025-08-13T12:34:17.899714+00:00'
 world: Both
 ---
+
 
 
 # Travel Event Table

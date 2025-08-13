@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/vgm
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.481307'
+updated: '2025-08-13T12:34:03.517465+00:00'
 world: Both
 ---
+
 
 # Roleplaying Gnolls and Cultists of Yeenoghu
 *Source: Volo's Guide to Monsters p. 36* 

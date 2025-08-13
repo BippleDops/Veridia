@@ -12,18 +12,22 @@ members: ~1,200 crystal constructs and operators
 obsidianUIMode: preview
 status: complete
 tags:
+- aethermoor
+- complete
 - construct
 - content/faction
 - enforcement
+- faction
 - security
 - silverscale-consortium
 - status/complete
 - world/aethermoor
 type: Faction
-updated: '2025-08-12T23:37:40.554244'
+updated: '2025-08-13T12:34:17.282975+00:00'
 wealth: Corporate funded - unlimited budget
 world: Aethermoor
 ---
+
 
 
 

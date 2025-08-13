@@ -4,16 +4,20 @@ created_by: auto-stub
 danger_level: Moderate
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/location
 - content/lore
+- location
 - status/complete
 - supernatural
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.361337'
+updated: '2025-08-13T12:34:17.112888+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-unremembered-parliament-the-unremembered-parliament.svg)

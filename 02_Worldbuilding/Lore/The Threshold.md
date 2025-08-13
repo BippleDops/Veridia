@@ -8,20 +8,24 @@ primary_effects: Dimensional instability and reality distortion
 scope: Reality-threatening anomaly
 status: complete
 tags:
+- both worlds
+- complete
 - content/location
 - content/lore
 - dangerous-zone
 - dimensional-barrier
 - interdimensional-gateway
+- lore
 - mechanics/magic
 - reality-breach
 - status/archived
 - status/complete
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.922092'
+updated: '2025-08-13T12:34:15.757407+00:00'
 world: Both Worlds
 ---
+
 
 
 

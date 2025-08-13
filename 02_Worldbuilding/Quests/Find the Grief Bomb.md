@@ -5,9 +5,12 @@ duration: 3-4 sessions
 level: 8-12
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
 - horror
+- lore
 - mechanics/exploration
 - memory-manipulation
 - order-drowned-star
@@ -16,9 +19,10 @@ tags:
 - world/aquabyssos
 threat_level: high
 type: Lore
-updated: '2025-08-12T23:37:37.799357'
+updated: '2025-08-13T12:34:14.709211+00:00'
 world: Aquabyssos
 ---
+
 
 
 

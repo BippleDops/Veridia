@@ -8,8 +8,11 @@ magical_schools: All Schools
 scope: Both Worlds
 status: complete
 tags:
+- both worlds
+- complete
 - content/item
 - content/lore
+- lore
 - mechanics/magic
 - status/complete
 - world/aethermoor
@@ -17,9 +20,10 @@ tags:
 - world/both
 - world/surface
 type: Lore
-updated: '2025-08-12T23:37:37.836401'
+updated: '2025-08-13T12:34:14.748907+00:00'
 world: Both Worlds
 ---
+
 
 
 

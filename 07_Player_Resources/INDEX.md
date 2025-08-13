@@ -2,12 +2,16 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.076668'
+updated: '2025-08-13T12:34:03.226429+00:00'
 world: Both
 ---
+
 
 
 # Player Resources Index

@@ -11,17 +11,21 @@ npc_type: Continental Leader
 obsidianUIMode: preview
 status: complete
 tags:
+- both
+- complete
 - content/npc
 - importance/major
+- npc
 - prophet
 - status/in-progress
 - world/aethermoor
 - world/aquabyssos
 - world/both
 type: Npc
-updated: '2025-08-12T23:37:40.874464'
+updated: '2025-08-13T12:34:17.551289+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Portrait

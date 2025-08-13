@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/phb
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.255597'
+updated: '2025-08-13T12:34:19.001543+00:00'
 world: Both
 ---
+
 
 # Eldritch Invocation
 *Source: Player's Handbook, Tasha's Cauldron of Everything, Player's Handbook (2024), Xanathar's Guide to Everything. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 

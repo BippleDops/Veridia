@@ -15,16 +15,20 @@ significance: Major (Primary Commercial Hub)
 size: Large Complex (50+ Individual Markets)
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
+- location
 - mechanics/social
 - status/complete
 - tidal-influenced
 - trade-hub
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.897283'
+updated: '2025-08-13T12:34:16.639284+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

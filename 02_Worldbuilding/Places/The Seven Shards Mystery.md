@@ -7,18 +7,22 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - conspiracy
 - content/location
 - content/lore
+- location
 - mystery
 - seven_shards
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.880876'
+updated: '2025-08-13T12:34:16.625441+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

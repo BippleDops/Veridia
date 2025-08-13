@@ -13,6 +13,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - importance/core
 - mechanics/magic
@@ -21,9 +23,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:35.997121'
+updated: '2025-08-13T12:34:20.615285+00:00'
 world: Both
 ---
+
 
 # Fabricate
 *4th-level, Transmutation*  

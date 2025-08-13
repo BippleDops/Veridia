@@ -5,18 +5,22 @@ created_by: auto-stub
 status: complete
 system: D&D 5e
 tags:
+- both
+- complete
 - content/item
 - content/lore
 - content/mechanics
 - initiative
+- lore
 - mechanics/combat
 - status/complete
 - turn-order
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.989345'
+updated: '2025-08-13T12:34:15.824679+00:00'
 world: Both
 ---
+
 
 
 > [!figure] Asset

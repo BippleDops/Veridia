@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - economy
 - gm_resource
+- lore
 - mixed
 - status/complete
 - world/both
 title: Encounter Sheet — X-102 Portal Ferry Strike
 type: Lore
-updated: '2025-08-12T23:37:33.040436'
+updated: '2025-08-13T12:34:03.208106+00:00'
 world: Both
 ---
+
 
 
 # X-102 Portal Ferry Strike

@@ -2,14 +2,18 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
+- lore
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.225142'
+updated: '2025-08-13T12:34:15.131752+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-deep-ones-deep-ones.svg)

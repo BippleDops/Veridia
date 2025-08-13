@@ -16,17 +16,21 @@ sessionstatus:
 status: complete
 tags:
 - '#category/journal'
+- both
 - campaign/session
+- complete
 - content/lore
 - journal
+- lore
 - status/in-progress
 - world/both
 timelines:
 - journal
 type: Lore
-updated: '2025-08-12T23:37:33.115279'
+updated: '2025-08-13T12:34:03.270064+00:00'
 world: Both
 ---
+
 
 
 

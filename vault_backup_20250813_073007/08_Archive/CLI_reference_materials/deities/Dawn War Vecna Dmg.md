@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - importance/core
 - note
@@ -15,9 +17,10 @@ tags:
 - ttrpg-cli/deity/dawn-war
 - world/both
 type: note
-updated: '2025-08-12T23:37:33.902536'
+updated: '2025-08-13T12:34:18.691055+00:00'
 world: Both
 ---
+
 
 # Vecna
 *Source: Dungeon Master's Guide p. 10, Sword Coast Adventurer's Guide p. 125* 

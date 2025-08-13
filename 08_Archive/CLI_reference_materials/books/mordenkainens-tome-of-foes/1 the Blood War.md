@@ -7,14 +7,17 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/mtf
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.765709'
+updated: '2025-08-13T12:34:05.143504+00:00'
 world: Both
 ---
+
 
 # The Blood War
 *Source: Mordenkainen's Tome of Foes, p. 5* 

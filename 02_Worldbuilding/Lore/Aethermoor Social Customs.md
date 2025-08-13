@@ -3,14 +3,18 @@ created: '2025-08-12'
 created_by: cultural-expansion
 status: complete
 tags:
+- aethermoor
+- complete
 - content/lore
 - culture
+- lore
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.471132'
+updated: '2025-08-13T12:34:15.338472+00:00'
 world: Aethermoor
 ---
+
 
 # Aethermoor Social Customs
 *"Like the wind itself, our traditions are both gentle breeze and mighty gale - ever-present, ever-changing, ever-powerful."*

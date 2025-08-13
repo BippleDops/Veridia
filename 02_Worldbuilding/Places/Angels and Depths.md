@@ -7,16 +7,20 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - inn
+- location
 - port-quarter
 - status/complete
 - tavern
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.520595'
+updated: '2025-08-13T12:34:17.253882+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

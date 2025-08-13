@@ -3,18 +3,22 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
+- complete
 - content/lore
 - events
 - gm_resource
+- lore
 - status/complete
 - travel
 - world/aethermoor
 - world/both
 title: Sky Events Pack E — Legendary Tier (Aethermoor)
 type: Lore
-updated: '2025-08-12T23:37:33.068259'
+updated: '2025-08-13T12:34:17.932595+00:00'
 world: Both
 ---
+
 
 
 # Sky Events Pack E — Legendary Tier (12)

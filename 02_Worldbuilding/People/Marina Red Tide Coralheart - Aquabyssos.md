@@ -7,23 +7,28 @@ created: '2025-08-08'
 created_by: auto-stub
 faction: Independent (Former [[Depth Guard]])
 level: 10
-location: '[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]'
+location: '[[02_Worldbuilding/Places/Abyssos Prime|02 Worldbuilding/Places/Abyssos
+  Prime]]'
 obsidianUIMode: preview
 race: Human (Depth-Adapted)
 status: complete
 status_condition: Switching with Shadow
 tags:
 - adapted
+- aquabyssos
+- complete
 - content/npc
 - guide
+- npc
 - ranger
 - shadow-resistant
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.845052'
+updated: '2025-08-13T12:34:17.527797+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

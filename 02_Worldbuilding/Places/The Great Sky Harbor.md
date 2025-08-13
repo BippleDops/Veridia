@@ -3,13 +3,17 @@ created: '2025-08-11'
 danger_level: Moderate
 status: complete
 tags:
+- aethermoor
+- complete
 - content/location
+- location
 - status/in-progress
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.000586'
+updated: '2025-08-13T12:34:16.757568+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-great-sky-harbor-the-great-sky-harbor.svg)

@@ -7,19 +7,23 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - artificer
+- complete
 - content/location
 - content/npc
 - engineering
 - innovation
+- location
 - merchant
 - status/complete
 - technology
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.079929'
+updated: '2025-08-13T12:34:16.846193+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

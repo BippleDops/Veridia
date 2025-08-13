@@ -12,18 +12,22 @@ members: ~200 shadow nobles and courtiers
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - aristocracy
+- complete
 - content/faction
+- faction
 - nobility
 - shadow-court
 - shadow-touched
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.680076'
+updated: '2025-08-13T12:34:17.391038+00:00'
 wealth: Vast (generational shadow wealth)
 world: Aquabyssos
 ---
+
 
 
 

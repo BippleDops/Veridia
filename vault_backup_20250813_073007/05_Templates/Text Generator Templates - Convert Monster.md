@@ -9,14 +9,18 @@ prompt-info:
   version: 0.0.1
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - monster
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.112755'
+updated: '2025-08-13T12:34:17.976357+00:00'
 world: Both
 ---
+
 
 
 

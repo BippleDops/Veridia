@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aethermoor
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:37.998546'
+updated: '2025-08-13T12:34:14.924223+00:00'
 world: Aethermoor
 ---
+
 
 
 

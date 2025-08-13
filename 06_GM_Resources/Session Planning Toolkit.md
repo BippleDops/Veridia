@@ -2,18 +2,22 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - campaign/session
+- complete
 - content/lore
 - content/template
 - gm-resource
 - gm_resource
+- lore
 - status/complete
 - world/both
 title: Session Planning Toolkit
 type: Lore
-updated: '2025-08-12T23:37:33.024604'
+updated: '2025-08-13T12:34:03.181747+00:00'
 world: Both
 ---
+
 
 
 

@@ -4,17 +4,21 @@ created_by: auto-stub
 danger_level: Moderate
 status: complete
 tags:
+- aquabyssos
 - black-market
+- complete
 - content/adventure
 - content/location
+- location
 - mechanics/exploration
 - status/complete
 - stealth
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.498872'
+updated: '2025-08-13T12:34:17.235961+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

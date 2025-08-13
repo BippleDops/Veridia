@@ -7,18 +7,22 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - campaign/arc
 - captain
+- complete
 - content/location
 - content/npc
+- location
 - military
 - naval
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.924953'
+updated: '2025-08-13T12:34:16.683256+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-captain-marcus-captain-marcus.svg)

@@ -3,17 +3,21 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/mechanics
 - guide
+- lore
 - status/complete
 - transition
 - travel
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.196174'
+updated: '2025-08-13T12:34:15.106494+00:00'
 world: Aquabyssos
 ---
+
 
 
 

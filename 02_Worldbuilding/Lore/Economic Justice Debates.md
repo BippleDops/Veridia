@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - content/lore
 - economics
 - justice
+- lore
 - moral-dilemmas
 - status/in-progress
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.827933'
+updated: '2025-08-13T12:34:14.739360+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Economic Justice Debates

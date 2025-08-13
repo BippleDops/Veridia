@@ -6,15 +6,19 @@ modified: 2025-07-23 12:39
 status: complete
 tags:
 - 5e
+- both
+- complete
 - content/lore
 - dm-screen
+- lore
 - note
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:41.127514'
+updated: '2025-08-13T12:34:17.778592+00:00'
 world: Both
 ---
+
 
 
 

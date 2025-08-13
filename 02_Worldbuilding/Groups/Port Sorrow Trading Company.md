@@ -7,14 +7,18 @@ modified: 2025-07-23 15:40
 obsidianUIMode: preview
 status: complete
 tags:
+- both
+- complete
 - content/faction
+- faction
 - mercantile
 - status/in-progress
 - world/both
 type: Faction
-updated: '2025-08-12T23:37:40.604702'
+updated: '2025-08-13T12:34:17.326468+00:00'
 world: Both
 ---
+
 
 
 

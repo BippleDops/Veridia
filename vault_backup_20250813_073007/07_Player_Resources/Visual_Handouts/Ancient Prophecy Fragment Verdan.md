@@ -3,13 +3,17 @@ created: '2025-08-11'
 obsidianUIMode: preview
 status: complete
 tags:
+- complete
 - handout
+- lore
 - status/complete
+- universal
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.083512'
+updated: '2025-08-13T12:34:17.948750+00:00'
 world: Universal
 ---
+
 
 
 # Ancient Prophecy Fragment Verdant

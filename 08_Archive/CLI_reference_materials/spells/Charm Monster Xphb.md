@@ -15,6 +15,8 @@ cssclasses: json5e-spell
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - mechanics/magic
 - monster
@@ -22,9 +24,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: monster
-updated: '2025-08-12T23:37:36.381801'
+updated: '2025-08-13T12:34:06.417263+00:00'
 world: Both
 ---
+
 
 # Charm Monster
 *4th-level, Enchantment*  

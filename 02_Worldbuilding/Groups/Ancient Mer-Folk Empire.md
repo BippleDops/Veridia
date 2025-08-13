@@ -14,16 +14,20 @@ obsidianUIMode: preview
 power_level: Ancient Major Power
 status: complete
 tags:
+- aquabyssos
 - aquatic-empire
+- complete
 - content/faction
 - content/lore
+- faction
 - mer-folk
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.552514'
+updated: '2025-08-13T12:34:17.281485+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Heraldry

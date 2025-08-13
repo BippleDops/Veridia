@@ -2,11 +2,14 @@
 created: null
 status: draft
 tags:
+- both
+- draft
 - status/draft
 - world/both
-updated: '2025-08-12T23:37:33.138002'
+updated: '2025-08-13T12:34:17.991388+00:00'
 world: Both
 ---
+
 
 # Archive Index
 

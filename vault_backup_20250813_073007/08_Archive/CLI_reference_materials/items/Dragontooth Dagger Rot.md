@@ -8,15 +8,18 @@ modified: 2025-07-23 12:39
 obsidian-u-i-mode: preview
 status: active
 tags:
+- active
+- both
 - content/item
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/rot
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.912068'
+updated: '2025-08-13T12:34:21.477687+00:00'
 world: Both
 ---
+
 
 # Dragontooth Dagger
 *Weapon ([[/03_Mechanics/CLI/items/dagger-xphb|dagger]]), rare*  

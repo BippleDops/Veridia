@@ -8,6 +8,8 @@ statblock: inline
 statblock-link: '#^statblock'
 status: active
 tags:
+- active
+- both
 - monster
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xmm
@@ -18,9 +20,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: monster
-updated: '2025-08-12T23:37:35.756755'
+updated: '2025-08-13T12:34:06.019792+00:00'
 world: Both
 ---
+
 
 # [[3-Mechanics\CLI\bestiary\dragon/dragon-turtle-xmm|Dragon Turtle]]
 *Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

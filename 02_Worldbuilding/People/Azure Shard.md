@@ -13,17 +13,21 @@ race: Crystal-Touched Human (Transformed)
 status: complete
 status_condition: Active, Merged with Shard
 tags:
+- aethermoor
+- complete
 - content/lore
 - content/npc
 - immortal
+- npc
 - shard-guardian
 - status/complete
 - wisdom
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:40.977077'
+updated: '2025-08-13T12:34:17.639328+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-azure-shard-azure-shard.svg)

@@ -5,18 +5,22 @@ created_by: auto-stub
 significance: Critical Infrastructure
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/mechanics
 - engineering
 - innovation
 - life-support
+- lore
 - status/complete
 - technology
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.401458'
+updated: '2025-08-13T12:34:16.166005+00:00'
 world: Aquabyssos
 ---
+
 
 
 

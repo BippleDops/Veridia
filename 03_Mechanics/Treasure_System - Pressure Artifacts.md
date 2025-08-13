@@ -4,14 +4,18 @@ created_by: Claude
 rarity_range: Common to Legendary
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/item
+- item
 - seven-shards-connected
 - status/complete
 - world/aquabyssos
 type: Item
-updated: '2025-08-12T23:37:41.145324'
+updated: '2025-08-13T12:34:17.775648+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Pressure Artifacts

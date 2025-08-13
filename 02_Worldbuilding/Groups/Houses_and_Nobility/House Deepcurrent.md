@@ -2,7 +2,10 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
+- faction
 - intrigue
 - noble-house
 - politics
@@ -10,9 +13,10 @@ tags:
 - status/in-progress
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.736216'
+updated: '2025-08-13T12:34:17.440829+00:00'
 world: Aquabyssos
 ---
+
 
 
 # House Deepcurrent

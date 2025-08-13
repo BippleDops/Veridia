@@ -8,16 +8,20 @@ race: Human
 role: Ethical Memory Merchant
 status: complete
 tags:
+- aquabyssos
 - business-owner
+- complete
 - content/npc
 - ethical-merchant
 - memory-trader
+- npc
 - status/complete
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:40.872023'
+updated: '2025-08-13T12:34:17.549286+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] Portrait

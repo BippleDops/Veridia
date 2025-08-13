@@ -33,8 +33,10 @@ related_quests:
 - '[[02_Worldbuilding/Lore/The Emperor''s Gambit|The Emperor''s Gambit]]'
 relationship_type: ruler
 relationships:
-- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
-- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess
+  Nyx]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]]'
 - '[[Marina Red Tide Coralheart - Aquabyssos]]'
 secrets:
 - Intentionally caused the original Cataclysm
@@ -51,17 +53,21 @@ stats:
   wis: 8
 status: complete
 tags:
+- both
+- complete
 - content/mechanics
 - content/npc
 - fragmented-consciousness
+- npc
 - status/in-progress
 - world/aquabyssos
 - world/both
 title: The Scattered Emperor
 type: Npc
-updated: '2025-08-12T23:37:40.864703'
+updated: '2025-08-13T12:34:17.543151+00:00'
 world: Both
 ---
+
 
 
 

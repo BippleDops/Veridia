@@ -2,7 +2,10 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
+- lore
 - player-resource
 - player_resource
 - status/complete
@@ -10,9 +13,10 @@ tags:
 - world/both
 title: World Primer - Player's Guide to Aquabyssos & Aethermoor
 type: Lore
-updated: '2025-08-12T23:37:33.074689'
+updated: '2025-08-13T12:34:03.224029+00:00'
 world: Both
 ---
+
 
 
 

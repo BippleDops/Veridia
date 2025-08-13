@@ -2,17 +2,21 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
 - campaign/session
+- complete
 - content/mechanics
 - events
+- mechanics
 - status/complete
 - travel
 - world/both
 title: Journey Event Compiler
 type: Mechanics
-updated: '2025-08-12T23:37:41.138360'
+updated: '2025-08-13T12:34:17.793157+00:00'
 world: Both
 ---
+
 
 
 

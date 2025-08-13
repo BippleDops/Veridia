@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - content/lore
 - gm_resource
+- lore
 - merger
 - status/complete
 - world/both
 title: Encounter Sheet — M-L-01 The Great Convergence
 type: Lore
-updated: '2025-08-12T23:37:33.041068'
+updated: '2025-08-13T12:34:17.905421+00:00'
 world: Both
 ---
+
 
 
 # M-L-01 The Great Convergence

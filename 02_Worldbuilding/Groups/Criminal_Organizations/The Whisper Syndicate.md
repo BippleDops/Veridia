@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/faction
+- faction
 - status/in-progress
 - world/both
 type: Faction
-updated: '2025-08-12T23:37:40.656066'
+updated: '2025-08-13T12:34:17.369704+00:00'
 world: Both
 ---
+
 
 
 

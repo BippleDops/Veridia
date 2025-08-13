@@ -6,8 +6,11 @@ significance: Campaign-Defining
 status: complete
 tags:
 - apocalypse
+- both
+- complete
 - content/lore
 - convergence
+- lore
 - metaphysical
 - prophecy
 - reality-merge
@@ -17,9 +20,10 @@ tags:
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.949121'
+updated: '2025-08-13T12:34:14.870249+00:00'
 world: Both
 ---
+
 
 
 

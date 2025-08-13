@@ -3,14 +3,16 @@ tags:
 - active
 - both aethermoor & aquabyssos
 - both-aethermoor-&-aquabyssos
+- complete
 - faction
 - lore
 type: Lore
 world: Both Aethermoor & Aquabyssos
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:35.155173+00:00'
+updated: '2025-08-13T12:34:12.558170+00:00'
 ---
+
 
 
 

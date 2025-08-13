@@ -5,15 +5,19 @@ importance: World-Defining
 period: 500 years ago
 status: complete
 tags:
+- both
 - catastrophe
+- complete
 - content/lore
 - event
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.877081'
+updated: '2025-08-13T12:34:14.788142+00:00'
 world: Both
 ---
+
 
 
 

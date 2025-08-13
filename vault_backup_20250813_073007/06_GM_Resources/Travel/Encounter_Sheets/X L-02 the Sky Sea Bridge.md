@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - content/lore
 - gm_resource
+- lore
 - mixed
 - status/complete
 - world/both
 title: Encounter Sheet — X-L-02 The Sky–Sea Bridge
 type: Lore
-updated: '2025-08-12T23:37:33.039823'
+updated: '2025-08-13T12:34:17.919238+00:00'
 world: Both
 ---
+
 
 
 # X-L-02 The Sky–Sea Bridge

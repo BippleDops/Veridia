@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/bard/glamour
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.391557'
+updated: '2025-08-13T12:34:04.778832+00:00'
 world: Both
 ---
+
 
 # College of Glamour
 *[[./bard-xphb|Bard]]: Bard Subclass*  

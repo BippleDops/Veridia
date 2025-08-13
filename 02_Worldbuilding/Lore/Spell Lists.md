@@ -8,9 +8,12 @@ practitioners: All Magical Traditions
 scope: Cross-Realm Magic Systems
 status: complete
 tags:
+- both worlds
+- complete
 - comprehensive-catalog
 - content/lore
 - content/mechanics
+- lore
 - mechanics/magic
 - status/complete
 - world/aethermoor
@@ -18,9 +21,10 @@ tags:
 - world/both
 - world/surface
 type: Lore
-updated: '2025-08-12T23:37:38.721432'
+updated: '2025-08-13T12:34:15.541619+00:00'
 world: Both Worlds
 ---
+
 
 
 

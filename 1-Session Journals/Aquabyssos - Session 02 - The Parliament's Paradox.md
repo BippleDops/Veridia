@@ -6,12 +6,14 @@ date_played: null
 depth: 1,800 feet
 estimated_time: 4 hours
 level: 5
-location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] - Debate Chambers'
+location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]] - Debate Chambers'
 npcs_featured:
 - '[[Senator Glaucus]]'
 - '[[The Forgotten Representative]]'
 - '[[Time-Lost Delegate Chronus]]'
-- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx|02 Worldbuilding/People/Shadow Duchess
+  Nyx]]'
 obsidianUIMode: preview
 quests_advanced:
 - '[[Shadow Conspiracy Investigation]]'
@@ -20,8 +22,11 @@ quests_advanced:
 session_number: 2
 status: draft
 tags:
+- aquabyssos
 - campaign/session
 - content/lore
+- draft
+- lore
 - paradox
 - political
 - prepared
@@ -29,9 +34,10 @@ tags:
 - world/aquabyssos
 title: The Parliament's Paradox
 type: Lore
-updated: '2025-08-12T23:37:41.187088'
+updated: '2025-08-13T12:34:17.855077+00:00'
 world: Aquabyssos
 ---
+
 
 
 

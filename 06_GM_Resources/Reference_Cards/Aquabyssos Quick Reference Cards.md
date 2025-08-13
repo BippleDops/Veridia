@@ -4,18 +4,22 @@ created: '2025-08-07'
 status: draft
 system: D&D 5e
 tags:
+- aquabyssos
 - content/lore
 - content/mechanics
+- draft
 - gm-resource
+- lore
 - quick-reference
 - reference
 - reference-cards
 - status/draft
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:33.030694'
+updated: '2025-08-13T12:34:03.187702+00:00'
 world: Aquabyssos
 ---
+
 
 
 

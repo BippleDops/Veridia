@@ -7,10 +7,13 @@ session_number: 1
 session_type: Introduction & Social Intrigue
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/npc
 - court-politics
 - levels-4-6
+- npc
 - political-intrigue
 - status/in-progress
 - world/aethermoor
@@ -20,9 +23,10 @@ themes:
 - hidden-agendas
 - faction-introductions
 type: Npc
-updated: '2025-08-12T23:37:41.155067'
+updated: '2025-08-13T12:34:17.822480+00:00'
 world: Aethermoor
 ---
+
 
 
 # Session 1: The Queen's Summons

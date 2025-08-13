@@ -8,18 +8,22 @@ reward: Major - Category/Quest
 status: draft
 tags:
 - available
+- both
 - content/adventure
 - content/lore
+- draft
 - economic
 - espionage
 - international
+- lore
 - mechanics/social
 - political
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.750941'
+updated: '2025-08-13T12:34:14.665568+00:00'
 world: Both
 ---
+
 
 
 

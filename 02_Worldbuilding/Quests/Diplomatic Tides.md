@@ -4,25 +4,30 @@ MyContainer: None
 created: '2025-08-08'
 created_by: auto-stub
 level_range: 6-10
-location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]], [[The Diplomatic Depths]],
-  [[Deep Embassy]]'
+location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]], [[The Diplomatic Depths]], [[Deep Embassy]]'
 obsidianUIMode: preview
-quest_giver: '[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning|02 Worldbuilding/People/Empress Tethys The Ever Drowning]]'
+quest_giver: '[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning|02 Worldbuilding/People/Empress
+  Tethys The Ever Drowning]]'
 quest_type: Political Negotiation
 rewards: 2500 gp, Political Influence, Treaty Benefits, Depth Citizenship
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/faction
 - content/lore
+- lore
 - mechanics/social
 - political
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.753790'
+updated: '2025-08-13T12:34:14.668435+00:00'
 world: Aquabyssos
 ---
+
 
 
 

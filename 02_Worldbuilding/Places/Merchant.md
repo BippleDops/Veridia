@@ -4,17 +4,21 @@ created_by: auto-stub
 danger_level: Moderate
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - content/npc
 - general-goods
+- location
 - merchant
 - status/complete
 - trader
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.271597'
+updated: '2025-08-13T12:34:17.031946+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

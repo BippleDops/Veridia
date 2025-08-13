@@ -1,5 +1,6 @@
 ---
-affiliation: '[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]'
+affiliation: '[[02_Worldbuilding/Lore/The Seven Shards|02 Worldbuilding/Lore/The Seven
+  Shards]]'
 created: '2025-08-09'
 created_by: Claude
 current_location: Unknown (Hidden)
@@ -9,16 +10,20 @@ rarity: Legendary
 requires_attunement: 'Yes'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/item
 - content/lore
+- item
 - mechanics/magic
 - seven-shards
 - status/complete
 - world/aquabyssos
 type: Item
-updated: '2025-08-12T23:37:41.076515'
+updated: '2025-08-13T12:34:17.755371+00:00'
 world: Aquabyssos
 ---
+
 
 
 

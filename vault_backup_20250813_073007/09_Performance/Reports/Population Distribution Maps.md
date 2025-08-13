@@ -2,12 +2,16 @@
 created: '2025-08-11'
 status: draft
 tags:
+- both
+- draft
+- lore
 - status/draft
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:32.996609'
+updated: '2025-08-13T12:34:17.877804+00:00'
 world: Both
 ---
+
 
 # POPULATION_DISTRIBUTION_MAPS.md
 *Demographic Analysis and Resource Support Validation*

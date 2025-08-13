@@ -2,13 +2,17 @@
 created: '2025-08-11'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
+- faction
 - status/in-progress
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.558912'
+updated: '2025-08-13T12:34:17.286961+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-regulatory-medical-authorit-regulatory-medical-authorit.svg)

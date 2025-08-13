@@ -1,5 +1,6 @@
 ---
-builders: '[[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers|02 Worldbuilding/Lore/Ancient Aquabyssos Rulers]]'
+builders: '[[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers|02 Worldbuilding/Lore/Ancient
+  Aquabyssos Rulers]]'
 created: '2025-08-09'
 current_status: Partially Collapsed, Some Sections Active
 danger_level: 7
@@ -11,10 +12,13 @@ related_entities:
 - '[[02_Worldbuilding/Places/Ironhold|02 Worldbuilding/Places/Ironhold]]'
 status: draft
 tags:
+- aethermoor
 - content/location
 - content/lore
 - content/template
+- draft
 - historical
+- lore
 - military
 - siege
 - status/complete
@@ -23,9 +27,10 @@ tags:
 - warfare
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:39.575975'
+updated: '2025-08-13T12:34:16.358971+00:00'
 world: Aethermoor
 ---
+
 
 
 

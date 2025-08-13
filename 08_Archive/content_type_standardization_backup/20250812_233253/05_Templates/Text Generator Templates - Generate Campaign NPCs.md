@@ -5,15 +5,17 @@ tags:
 - ai-generation
 - alive
 - both
+- draft
 - lore
 - npc
 - template
 prompt_type: npc_generation
 setting: Shadowhaven
 world: Both
-updated: '2025-08-13T01:18:31.186044+00:00'
+updated: '2025-08-13T12:34:11.666742+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

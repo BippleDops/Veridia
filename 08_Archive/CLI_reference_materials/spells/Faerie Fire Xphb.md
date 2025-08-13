@@ -13,6 +13,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - content/lore
 - importance/core
@@ -22,9 +24,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:36.343208'
+updated: '2025-08-13T12:34:06.539928+00:00'
 world: Both
 ---
+
 
 # Faerie Fire
 *1st-level, Evocation*  

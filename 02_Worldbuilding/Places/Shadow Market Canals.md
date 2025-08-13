@@ -9,19 +9,23 @@ obsidianUIMode: preview
 security_level: high
 status: complete
 tags:
+- aquabyssos
 - black_market
 - canals
+- complete
 - content/faction
 - content/location
+- location
 - smuggling
 - status/complete
 - underground
 - waterways
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.021993'
+updated: '2025-08-13T12:34:16.788584+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

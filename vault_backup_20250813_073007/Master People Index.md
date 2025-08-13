@@ -5,17 +5,21 @@ created_by: Agent-20
 last_updated: 2025-08-11
 status: complete
 tags:
+- complete
 - content/lore
 - content/npc
+- lore
 - master-index
 - navigation
 - status/complete
+- universal
 - world/both
 total_npcs: 101
 type: Lore
-updated: '2025-08-12T23:37:32.985692'
+updated: '2025-08-13T12:34:17.859686+00:00'
 world: Universal
 ---
+
 
 
 

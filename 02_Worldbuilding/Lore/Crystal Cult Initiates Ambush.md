@@ -3,17 +3,21 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aethermoor
 - ambush
 - campaign/session
+- complete
 - content/lore
 - cult
+- lore
 - mechanics/combat
 - status/complete
 - world/aethermoor
 type: Lore
-updated: '2025-08-12T23:37:38.236782'
+updated: '2025-08-13T12:34:15.141619+00:00'
 world: Aethermoor
 ---
+
 
 
 

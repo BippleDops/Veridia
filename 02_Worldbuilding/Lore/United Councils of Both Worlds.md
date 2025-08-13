@@ -9,19 +9,23 @@ scope: Both Worlds
 status: complete
 tags:
 - alliance
+- both worlds
+- complete
 - content/faction
 - content/lore
 - cooperation
 - joint-council
+- lore
 - mechanics/social
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:37.804309'
+updated: '2025-08-13T12:34:14.712694+00:00'
 world: Both Worlds
 ---
+
 
 
 

@@ -16,18 +16,22 @@ specialties:
 - Wind Magic
 status: draft
 tags:
+- aquabyssos
 - content/location
 - dangerous
+- draft
 - haunted
 - haunted-mountain-range
+- location
 - mechanics/magic
 - mountains
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.501491'
+updated: '2025-08-13T12:34:17.238165+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

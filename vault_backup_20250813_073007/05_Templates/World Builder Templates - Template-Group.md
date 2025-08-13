@@ -27,14 +27,18 @@ officers:
 primary_contact: John Doe
 status: complete
 tags:
+- both
+- complete
 - content/faction
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.120335'
+updated: '2025-08-13T12:34:17.971942+00:00'
 world: Both
 ---
+
 
 
 

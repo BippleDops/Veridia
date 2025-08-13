@@ -2,9 +2,12 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - content/mechanics
 - economy
+- lore
 - memory
 - narrative
 - status/complete
@@ -12,9 +15,10 @@ tags:
 - world/both
 title: Memory Trading Economy System
 type: Lore
-updated: '2025-08-12T23:37:41.095804'
+updated: '2025-08-13T12:34:17.795704+00:00'
 world: Both
 ---
+
 
 
 

@@ -17,19 +17,23 @@ quest_giver: Acolyte Pelagic
 rewards: Nerissa's Blessing, Tidal Focus, Clerical Connections
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
 - corruption
 - cult
+- lore
 - mechanics/magic
 - redemption
 - religious
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:37.798423'
+updated: '2025-08-13T12:34:14.708346+00:00'
 world: Aquabyssos
 ---
+
 
 
 

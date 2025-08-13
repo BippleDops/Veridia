@@ -6,11 +6,14 @@ created_by: auto-stub
 significance: Essential Infrastructure
 status: complete
 tags:
+- aquabyssos
 - breathing-apparatus
+- complete
 - content/lore
 - content/mechanics
 - innovation
 - life-support
+- lore
 - mechanics/magic
 - respiratory-enhancement
 - status/complete
@@ -18,9 +21,10 @@ tags:
 - world/aquabyssos
 technology_type: Bio-Magical Respiratory System
 type: Lore
-updated: '2025-08-12T23:37:39.646669'
+updated: '2025-08-13T12:34:16.425735+00:00'
 world: Aquabyssos
 ---
+
 
 
 

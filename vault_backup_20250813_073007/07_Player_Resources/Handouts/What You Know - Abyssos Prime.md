@@ -6,16 +6,20 @@ status: complete
 tags:
 - abyssos-prime
 - access/dm-only
+- both
+- complete
 - content/location
 - content/lore
+- lore
 - player-handout
 - player-resource
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.080033'
+updated: '2025-08-13T12:34:17.938183+00:00'
 world: Both
 ---
+
 
 
 

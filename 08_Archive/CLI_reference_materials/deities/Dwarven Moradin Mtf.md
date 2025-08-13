@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - importance/core
 - note
 - status/in-progress
@@ -14,9 +16,10 @@ tags:
 - ttrpg-cli/deity/dwarven
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.021342'
+updated: '2025-08-13T12:34:04.235897+00:00'
 world: Both
 ---
+
 
 # Moradin
 *Source: Mordenkainen's Tome of Foes p. 72, Xanathar's Guide to Everything p. 18* 

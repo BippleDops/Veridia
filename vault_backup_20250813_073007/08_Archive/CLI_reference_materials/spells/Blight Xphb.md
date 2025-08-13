@@ -19,6 +19,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - content/lore
 - importance/core
@@ -29,9 +31,10 @@ tags:
 - world/both
 - world/surface
 type: note
-updated: '2025-08-12T23:37:36.423217'
+updated: '2025-08-13T12:34:20.407839+00:00'
 world: Both
 ---
+
 
 # Blight
 *4th-level, Necromancy*  

@@ -2,15 +2,19 @@
 created: '2025-08-12'
 status: draft
 tags:
+- aquabyssos
 - content/lore
 - corruption
+- draft
+- lore
 - mechanics/magic
 - status/draft
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.535861'
+updated: '2025-08-13T12:34:15.368709+00:00'
 world: Aquabyssos
 ---
+
 
 
 # Shadow Corruption

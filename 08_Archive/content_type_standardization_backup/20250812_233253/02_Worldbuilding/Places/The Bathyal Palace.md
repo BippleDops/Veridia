@@ -2,6 +2,7 @@
 tags:
 - active
 - both
+- complete
 - location
 - midnight_expanse
 - palace
@@ -17,10 +18,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:36.455489+00:00'
+updated: '2025-08-13T12:34:13.904756+00:00'
 status: complete
 type: Location
 ---
+
 
 
 

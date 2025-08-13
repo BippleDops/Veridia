@@ -1,5 +1,6 @@
 ---
-affiliation: '[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep Mother]] (Corrupted by Shadow)'
+affiliation: '[[02_Worldbuilding/Lore/The Deep Mother|02 Worldbuilding/Lore/The Deep
+  Mother]] (Corrupted by Shadow)'
 created: '2025-08-10'
 created_by: Claude
 current_location: Scattered Across Shadow-Touched Locations
@@ -9,16 +10,20 @@ rarity: Very Rare (Cursed)
 requires_attunement: Yes (by a creature that has been touched by shadow magic)
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/item
 - cursed
 - deep-mother-connected
+- item
 - shadow-touched
 - status/complete
 - world/aquabyssos
 type: Item
-updated: '2025-08-12T23:37:41.077405'
+updated: '2025-08-13T12:34:17.756120+00:00'
 world: Aquabyssos
 ---
+
 
 
 

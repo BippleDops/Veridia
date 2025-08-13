@@ -27,14 +27,18 @@ officers:
 primary_contact: John Doe
 status: complete
 tags:
+- both
 - category/sapientspecies
+- complete
 - content/lore
+- lore
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:33.125458'
+updated: '2025-08-13T12:34:03.276406+00:00'
 world: Both
 ---
+
 
 
 

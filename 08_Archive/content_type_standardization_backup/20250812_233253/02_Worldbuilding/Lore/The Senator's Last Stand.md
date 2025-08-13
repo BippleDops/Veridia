@@ -3,6 +3,7 @@ tags:
 - aquabyssos
 - completed
 - deep_mother
+- draft
 - event
 - heroic_sacrifice
 - historical_event
@@ -23,8 +24,9 @@ themes:
 - cosmic_horror_infiltration
 - heroic_final_act
 created: '2025-08-11'
-updated: '2025-08-11T00:00:00+00:00'
+updated: '2025-08-13T12:34:12.118145+00:00'
 ---
+
 
 
 

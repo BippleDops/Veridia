@@ -1,5 +1,6 @@
 ---
-affiliation: '[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] Government'
+affiliation: '[[02_Worldbuilding/Places/Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]
+  Government'
 created: '2025-08-09'
 created_by: Claude
 founded: 2987
@@ -11,17 +12,21 @@ size: ~200 Active Members
 specialization: Shadow Corruption & Deep Threat Response
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - elite-guards
+- faction
 - military-unit
 - shadow-watchers
 - specialized-forces
 - status/complete
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.582488'
+updated: '2025-08-13T12:34:17.307686+00:00'
 world: Aquabyssos
 ---
+
 
 
 

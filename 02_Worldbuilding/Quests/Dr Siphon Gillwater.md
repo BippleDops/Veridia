@@ -10,9 +10,12 @@ obsidianUIMode: preview
 quest_giver: Harbor Master Luna Freedrift
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
 - corruption
+- lore
 - mechanics/exploration
 - medical
 - science
@@ -20,9 +23,10 @@ tags:
 - world/aquabyssos
 threat_level: medium
 type: Lore
-updated: '2025-08-12T23:37:37.762864'
+updated: '2025-08-13T12:34:14.680404+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

@@ -4,18 +4,22 @@ created_by: auto-stub
 expanded: 2025-08-10
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/faction
 - content/lore
 - content/mechanics
 - justice
 - law-enforcement
+- lore
 - politics
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.211924'
+updated: '2025-08-13T12:34:15.119822+00:00'
 world: Aquabyssos
 ---
+
 
 
 

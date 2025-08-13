@@ -11,19 +11,23 @@ obsidianUIMode: preview
 region: Port District
 status: complete
 tags:
+- aethermoor
 - campaign/hook
+- complete
 - content/location
 - entertainment
 - gambling
+- location
 - sailors
 - smuggling
 - status/complete
 - tavern
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.310512'
+updated: '2025-08-13T12:34:17.066561+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

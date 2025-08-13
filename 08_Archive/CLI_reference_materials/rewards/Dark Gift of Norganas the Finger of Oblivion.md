@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/cos
 - ttrpg-cli/reward/charm
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.729560'
+updated: '2025-08-13T12:34:05.067575+00:00'
 world: Both
 ---
+
 
 # Dark Gift of Norganas, the Finger of Oblivion
 *Charm*  

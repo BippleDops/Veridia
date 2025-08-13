@@ -6,15 +6,19 @@ modified: 2025-07-23 12:39
 status: draft
 tags:
 - 5e
+- both
 - content/lore
 - dm-screen
+- draft
+- lore
 - note
 - status/draft
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:41.128373'
+updated: '2025-08-13T12:34:17.782198+00:00'
 world: Both
 ---
+
 
 
 

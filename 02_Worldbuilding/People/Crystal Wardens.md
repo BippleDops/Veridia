@@ -14,15 +14,19 @@ race: Crystal-Touched Elf
 role: High Warden of the Crystal Order
 status: complete
 tags:
+- aethermoor
 - campaign/hook
+- complete
 - content/npc
+- npc
 - protector
 - status/complete
 - world/aethermoor
 type: Npc
-updated: '2025-08-12T23:37:41.009999'
+updated: '2025-08-13T12:34:17.669446+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] Portrait

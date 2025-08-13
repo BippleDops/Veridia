@@ -3,6 +3,7 @@ tags:
 - active/missing/dead/unknown
 - additional_tags
 - both
+- complete
 - npc
 type: NPC
 race: Race (subrace if applicable)
@@ -13,10 +14,11 @@ location: '[[Current_Location|Current Location]]'
 faction: '[[Faction_Name|Faction Name]] OR Independent'
 status: complete
 created: '2025-08-11'
-updated: '2025-08-13T01:18:31.183178+00:00'
+updated: '2025-08-13T12:34:11.665257+00:00'
 image: 04_Resources/Assets/NPCs/filename.jpg
 world: Both
 ---
+
 
 
 # NPC Name

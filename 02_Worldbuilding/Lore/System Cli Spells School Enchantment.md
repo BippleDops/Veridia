@@ -3,14 +3,18 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
+- lore
 - mechanics/magic
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.681072'
+updated: '2025-08-13T12:34:14.964133+00:00'
 world: Aquabyssos
 ---
+
 
 
 # The Enchantment School: Threads of Will and Influence

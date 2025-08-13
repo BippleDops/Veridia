@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - content/mechanics
 - gm_resource
+- lore
 - mixed
 - status/complete
 - world/both
 title: Encounter Sheet — X-103 Leviathan Mirror Chase
 type: Lore
-updated: '2025-08-12T23:37:33.036591'
+updated: '2025-08-13T12:34:03.197936+00:00'
 world: Both
 ---
+
 
 
 # X-103 Leviathan Mirror Chase

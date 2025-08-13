@@ -3,17 +3,21 @@ created: '2025-08-08'
 created_by: auto-stub
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - dawn-echo
 - guardian
+- lore
 - mechanics/magic
 - sentinel
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:38.627117'
+updated: '2025-08-13T12:34:15.430853+00:00'
 world: Aquabyssos
 ---
+
 
 
 

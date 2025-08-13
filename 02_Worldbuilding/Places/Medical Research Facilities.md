@@ -2,17 +2,21 @@
 created: '2025-08-12'
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - cure
+- location
 - medical
 - plague
 - status/complete
 - world/aethermoor
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.322603'
+updated: '2025-08-13T12:34:17.078345+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-medical-research-facilities-medical-research-facilities.svg)

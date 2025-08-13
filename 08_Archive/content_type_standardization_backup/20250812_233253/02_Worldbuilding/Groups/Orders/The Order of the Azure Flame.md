@@ -3,6 +3,7 @@ type: Group
 tags:
 - active
 - both
+- complete
 - faction
 - group
 - magic-hunters
@@ -16,9 +17,10 @@ MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:36.790917+00:00'
+updated: '2025-08-13T12:34:14.289134+00:00'
 status: complete
 ---
+
 
 
 

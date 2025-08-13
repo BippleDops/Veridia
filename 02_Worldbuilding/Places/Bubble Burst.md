@@ -7,17 +7,21 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
 - bubble-district
 - casino
+- complete
 - content/location
 - entertainment
+- location
 - status/complete
 - venue
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:40.482576'
+updated: '2025-08-13T12:34:17.221479+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-bubble-burst-bubble-burst.svg)

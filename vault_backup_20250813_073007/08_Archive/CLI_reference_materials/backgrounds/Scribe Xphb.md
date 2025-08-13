@@ -7,15 +7,18 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - content/lore
 - note
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.922892'
+updated: '2025-08-13T12:34:19.455109+00:00'
 world: Both
 ---
+
 
 # Scribe
 *Source: Player's Handbook (2024) p. 184*  

@@ -9,16 +9,20 @@ scope: Underwater Environmental Conditions
 significance: Essential Survival Information
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/mechanics
 - environmental-hazards
+- lore
 - quick-reference
 - status/complete
 - world/aquabyssos
 type: Lore
-updated: '2025-08-12T23:37:39.669657'
+updated: '2025-08-13T12:34:16.446048+00:00'
 world: Aquabyssos
 ---
+
 
 
 

@@ -14,16 +14,20 @@ obsidianUIMode: preview
 purpose: Eliminate dangerous creatures and hostile entities
 status: complete
 tags:
+- aethermoor
 - boss-hunting
+- complete
 - content/faction
+- faction
 - mechanics/combat
 - mercenary-company
 - status/complete
 - world/aethermoor
 type: Faction
-updated: '2025-08-12T23:37:40.657105'
+updated: '2025-08-13T12:34:17.370580+00:00'
 world: Aethermoor
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png)

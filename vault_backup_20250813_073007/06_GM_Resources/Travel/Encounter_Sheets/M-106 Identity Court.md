@@ -3,17 +3,21 @@ created: '2025-08-11'
 status: complete
 tags:
 - access/dm-only
+- both
 - campaign/session
+- complete
 - gm_resource
+- lore
 - mechanics/social
 - merger
 - status/complete
 - world/both
 title: Encounter Sheet — M-106 Identity Court
 type: Lore
-updated: '2025-08-12T23:37:33.056400'
+updated: '2025-08-13T12:34:17.917150+00:00'
 world: Both
 ---
+
 
 
 # M-106 Identity Court

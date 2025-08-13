@@ -10,10 +10,13 @@ primary_location: The Verdant Reach underground network and surrounding regions
 quest_type: Exploration/Environmental Adventure
 status: complete
 tags:
+- aethermoor
+- complete
 - content/adventure
 - content/location
 - corruption
 - druid
+- location
 - mechanics/exploration
 - nature
 - network
@@ -22,9 +25,10 @@ tags:
 - verdant-reach
 - world/aethermoor
 type: Location
-updated: '2025-08-12T23:37:40.027085'
+updated: '2025-08-13T12:34:16.793378+00:00'
 world: Aethermoor
 ---
+
 
 
 > [!figure] View

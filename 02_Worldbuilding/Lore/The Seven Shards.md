@@ -4,16 +4,20 @@ image: 04_Resources/Assets/Lore/seven_shards.jpg
 importance: Campaign-Defining
 status: complete
 tags:
+- both
+- complete
 - content/item
 - content/lore
 - divine
+- lore
 - shards
 - status/in-progress
 - world/both
 type: Lore
-updated: '2025-08-12T23:37:38.403643'
+updated: '2025-08-13T12:34:15.284052+00:00'
 world: Both
 ---
+
 
 
 

@@ -8,9 +8,12 @@ expanded: 2025-08-11
 significance: Critical Infrastructure
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/lore
 - content/mechanics
 - content/template
+- lore
 - mechanics/magic
 - status/complete
 - technology
@@ -19,9 +22,10 @@ tags:
 - world/aquabyssos
 technology_type: Tidal Manipulation System
 type: Lore
-updated: '2025-08-12T23:37:39.716715'
+updated: '2025-08-13T12:34:16.490270+00:00'
 world: Aquabyssos
 ---
+
 
 
 

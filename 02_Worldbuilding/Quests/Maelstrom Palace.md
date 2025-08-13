@@ -2,13 +2,17 @@
 created: '2024-01-01'
 status: complete
 tags:
+- both
+- complete
 - content/location
+- location
 - status/in-progress
 - world/both
 type: Location
-updated: '2025-08-12T23:37:37.769945'
+updated: '2025-08-13T12:34:14.682737+00:00'
 world: Both
 ---
+
 
 
 

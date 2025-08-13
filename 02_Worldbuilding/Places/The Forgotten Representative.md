@@ -7,18 +7,22 @@ danger_level: Moderate
 obsidianUIMode: preview
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/location
 - content/npc
 - forgotten
+- location
 - mystery
 - political
 - representative
 - status/complete
 - world/aquabyssos
 type: Location
-updated: '2025-08-12T23:37:39.736715'
+updated: '2025-08-13T12:34:16.516273+00:00'
 world: Aquabyssos
 ---
+
 
 
 > [!figure] View

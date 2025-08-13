@@ -5,7 +5,8 @@ alignment: Lawful Evil
 cr: 25
 created: '2025-08-08'
 created_by: auto-stub
-faction: '[[02_Worldbuilding/Groups/The Parliament of Echoes|02 Worldbuilding/Groups/The Parliament Of Echoes]]'
+faction: '[[02_Worldbuilding/Groups/The Parliament of Echoes|02 Worldbuilding/Groups/The
+  Parliament Of Echoes]]'
 location: '[[02_Worldbuilding/Places/The Deepmind|02 Worldbuilding/Places/The Deepmind]]'
 obsidianUIMode: preview
 race: Aboleth (Ancient)
@@ -13,17 +14,21 @@ role: Shadow Prime Minister
 status: complete
 tags:
 - aboleth
+- aquabyssos
+- complete
 - content/lore
 - content/npc
+- npc
 - parliament
 - psychic
 - status/complete
 - villain
 - world/aquabyssos
 type: Npc
-updated: '2025-08-12T23:37:41.020312'
+updated: '2025-08-13T12:34:17.678962+00:00'
 world: Aquabyssos
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-aboleth-prime-yoth-aboleth-prime-yoth.svg)

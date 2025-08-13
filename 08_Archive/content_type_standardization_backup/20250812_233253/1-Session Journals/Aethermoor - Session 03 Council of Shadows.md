@@ -4,6 +4,7 @@ type: Lore
 status: draft
 tags:
 - aethermoor
+- draft
 - intrigue
 - lore
 - murder
@@ -13,11 +14,14 @@ tags:
 - session-journal
 session_number: 3
 date_played: null
-location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Noble Quarter'
+location: '[[02_Worldbuilding/Places/Port Meridian|02 Worldbuilding/Places/Port Meridian]]
+  - Noble Quarter'
 npcs_featured:
 - '[[Lord Aurelius Goldwave]]'
-- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]'
-- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos|02 Worldbuilding/People/High
+  Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield|02 Worldbuilding/People/Captain
+  Lyanna Brightshield]]'
 - '[[Brother Marcus Steelbane]]'
 - '[[Silver Mask]]'
 quests_advanced:
@@ -30,9 +34,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: '2025-08-13T01:18:37.166488+00:00'
+updated: '2025-08-13T12:34:14.618163+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

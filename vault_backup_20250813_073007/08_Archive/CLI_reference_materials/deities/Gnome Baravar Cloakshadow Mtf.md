@@ -7,6 +7,8 @@ modified: 2025-07-23 12:39
 obsidianUIMode: preview
 status: active
 tags:
+- active
+- both
 - campaign/arc
 - importance/core
 - note
@@ -15,9 +17,10 @@ tags:
 - ttrpg-cli/deity/gnome
 - world/both
 type: note
-updated: '2025-08-12T23:37:34.007776'
+updated: '2025-08-13T12:34:18.695874+00:00'
 world: Both
 ---
+
 
 # Baravar Cloakshadow
 *Source: Mordenkainen's Tome of Foes p. 111* 

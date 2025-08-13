@@ -10,17 +10,21 @@ members: ~150 researchers and test subjects
 purpose: Merge shadow and crystal energies
 status: complete
 tags:
+- both aethermoor & aquabyssos
+- complete
 - content/faction
 - cross-realm
 - experimenters
+- faction
 - status/complete
 - synthesis
 - world/aethermoor
 - world/aquabyssos
 type: Faction
-updated: '2025-08-12T23:37:40.650802'
+updated: '2025-08-13T12:34:17.365337+00:00'
 world: Both Aethermoor & Aquabyssos
 ---
+
 
 
 

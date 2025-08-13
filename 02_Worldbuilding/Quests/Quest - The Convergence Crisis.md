@@ -13,21 +13,25 @@ quest_type: Cross-Realm Crisis
 sessions_per_act: 6-12 sessions each
 status: complete
 tags:
+- both aethermoor & aquabyssos
+- complete
 - content/adventure
 - content/lore
 - convergence
 - crisis-management
 - cross-realm
 - high-stakes
+- lore
 - status/complete
 - world-bridging
 - world/aethermoor
 total_acts: 5
 type: Lore
-updated: '2025-08-12T23:37:37.777677'
+updated: '2025-08-13T12:34:14.690192+00:00'
 world: Both Aethermoor & Aquabyssos
 world_consequences: Reality-shaping
 ---
+
 
 
 

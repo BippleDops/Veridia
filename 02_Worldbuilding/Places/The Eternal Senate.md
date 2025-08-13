@@ -15,15 +15,18 @@ government: Undead Parliamentary Democracy
 location_name: The Eternal Senate Chamber
 location_type: Undead Parliamentary Complex
 notable_npcs:
-- '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal Speaker]]'
+- '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal
+  Speaker]]'
 - '[[02_Worldbuilding/People/Senator Glaucus|02 Worldbuilding/People/Senator Glaucus]]'
 - '[[Senator Morticia Graveheart]]'
 - '[[The Clerk of Souls]]'
 obsidianUIMode: preview
-parent_location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]'
+parent_location: '[[02_Worldbuilding/Places/Parliament of Echoes|02 Worldbuilding/Places/Parliament
+  Of Echoes]]'
 population: 144
 pressure_effects: Moderate
-ruler: '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The Eternal Speaker]]'
+ruler: '[[02_Worldbuilding/People/The Eternal Speaker|02 Worldbuilding/People/The
+  Eternal Speaker]]'
 services:
 - Legislative Sessions
 - Undead Rights Advocacy
@@ -39,8 +42,11 @@ sub_locations:
 - '[[Memory Archive Vaults]]'
 - '[[The Speaker''s Throne]]'
 tags:
+- both
+- complete
 - content/faction
 - content/location
+- location
 - parliament
 - political
 - status/complete
@@ -49,10 +55,11 @@ tags:
 - world/both
 temporal_stability: 60
 type: Location
-updated: '2025-08-12T23:37:39.866096'
+updated: '2025-08-13T12:34:16.611065+00:00'
 visited: false
 world: Both
 ---
+
 
 
 > [!figure] View

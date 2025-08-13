@@ -2,10 +2,13 @@
 created: '2025-01-23'
 status: complete
 tags:
+- both
+- complete
 - content/lore
 - content/mechanics
 - cosmic-horror
 - horror
+- lore
 - madness
 - psychological
 - sanity
@@ -13,10 +16,11 @@ tags:
 - world/both
 title: Complete Sanity & Horror Framework
 type: Lore
-updated: '2025-08-12T23:37:41.119743'
+updated: '2025-08-13T12:34:17.783409+00:00'
 version: 1.0
 world: Both
 ---
+
 
 
 

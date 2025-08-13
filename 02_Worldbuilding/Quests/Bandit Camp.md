@@ -32,9 +32,12 @@ rewards:
 - Navigation Rights
 status: complete
 tags:
+- aquabyssos
 - bandits
+- complete
 - content/adventure
 - content/lore
+- lore
 - mechanics/combat
 - mechanics/exploration
 - mechanics/social
@@ -48,9 +51,10 @@ themes:
 - social inequality
 - moral ambiguity
 type: Lore
-updated: '2025-08-12T23:37:37.794498'
+updated: '2025-08-13T12:34:14.703087+00:00'
 world: Aquabyssos
 ---
+
 
 
 

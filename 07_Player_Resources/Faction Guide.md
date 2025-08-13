@@ -2,8 +2,11 @@
 created: '2025-08-11'
 status: complete
 tags:
+- both
+- complete
 - content/faction
 - content/lore
+- lore
 - player-resource
 - player_resource
 - politics
@@ -11,9 +14,10 @@ tags:
 - world/both
 title: Complete Faction Guide
 type: Lore
-updated: '2025-08-12T23:37:33.077303'
+updated: '2025-08-13T12:34:03.225447+00:00'
 world: Both
 ---
+
 
 
 

@@ -5,6 +5,7 @@ tags:
 - combat
 - combat/exploration
 - corruption
+- draft
 - lore
 - moral-choice
 - nature
@@ -17,9 +18,10 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-13T01:18:34.495825+00:00'
+updated: '2025-08-13T12:34:11.718173+00:00'
 created: '2025-08-11'
 ---
+
 
 
 

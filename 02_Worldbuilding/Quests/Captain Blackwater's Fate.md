@@ -30,8 +30,11 @@ rewards:
 - Ship Upgrade
 status: complete
 tags:
+- aquabyssos
+- complete
 - content/adventure
 - content/lore
+- lore
 - mechanics/exploration
 - mystery
 - naval
@@ -45,9 +48,10 @@ themes:
 - maritime law
 - redemption
 type: Lore
-updated: '2025-08-12T23:37:37.775268'
+updated: '2025-08-13T12:34:14.688135+00:00'
 world: Aquabyssos
 ---
+
 
 
 

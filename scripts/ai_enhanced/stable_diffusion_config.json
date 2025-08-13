@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "model_path": "stable-diffusion-webui",
+  "default_settings": {
+    "width": 512,
+    "height": 768,
+    "steps": 30,
+    "cfg_scale": 7,
+    "sampler": "DPM++ 2M Karras"
+  },
+  "styles": {
+    "fantasy_portrait": "fantasy art, detailed character portrait, professional artwork",
+    "underwater_scene": "underwater, aquatic, coral, deep ocean, fantasy environment",
+    "sky_kingdom": "floating city, clouds, aerial view, crystal spires, fantasy architecture"
+  }
+}

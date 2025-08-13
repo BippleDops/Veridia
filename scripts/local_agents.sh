@@ -2,34 +2,56 @@
 set -euo pipefail
 
 # Spawns local generation agents using Ollama for text prompt synthesis
-# and our existing Node scripts for image/audio sweeps.
+# and our existing Node scripts for image sweeps.
 
 cd "$(dirname "$0")/.."
 
 LOG=09_Performance/local_agents.log
 mkdir -p "$(dirname "$LOG")"
 
-echo "[$(date -Is)] starting local agents" | tee -a "$LOG"
+TS() { date -u +%Y-%m-%dT%H:%M:%SZ; }
+echo "[$(TS)] starting local agents" | tee -a "$LOG"
 
 # Probe Ollama
 node scripts/ollama_client.js >> "$LOG" 2>&1 || true
 
-# Lightweight loop to synthesize new prompt blocks (portraits/locations)
-nohup bash -c '
-  while true; do
-    node -e "const {generate}=require('./scripts/ollama_client'); (async()=>{const p=await generate({prompt:'Generate 5 terse D&D location prompt JSON objects with fields id,name,type,style,aspect,resolution,prompt suitable for Aquabyssos undersea city. Output JSON array only.'}); console.log(p)})().catch(e=>console.error(e))" >> 04_Resources/Assets/Location_Prompts.md 2>>"$LOG" || true;
-    sleep 120;
-  done
-' >> "$LOG" 2>&1 & echo $! > 09_Performance/.agent_prompts.pid
+append_prompts(){
+  local KIND="$1"; local REALM="$2"; local COUNT="$3"; local OUTMD="$4"
+  local JSON
+  JSON=$(KIND="$KIND" REALM="$REALM" COUNT="$COUNT" node scripts/ollama_synth_prompts.js 2>>"$LOG" || echo '[]')
+  if echo "$JSON" | grep -q '^\s*\['; then
+    {
+      echo "\n\n## $REALM $KIND prompts ($(TS))\n"
+      echo '```json'
+      echo "$JSON"
+      echo '```'
+    } >> "$OUTMD"
+  fi
+}
 
-# Kick small image generation loop (maps/locations)
-nohup bash -c '
+# Main loop: synthesize prompts and then generate assets
+(
   while true; do
-    node scripts/generate_assets.js --real --strict --types=location,map --qps=2 --concurrency=3 --limit=80 >> 09_Performance/local_agents_img.log 2>&1 || true;
-    sleep 300;
+    append_prompts portrait Aquabyssos 6 "04_Resources/Assets/Portrait_Prompts - NPCs.md" || true
+    append_prompts location Aquabyssos 6 "04_Resources/Assets/Location Prompts.md" || true
+    append_prompts map Aquabyssos 4 "04_Resources/Assets/Maps/Battle Map Descriptions.md" || true
+    append_prompts creature Aquabyssos 4 "04_Resources/Assets/Scenes - Atmospheric Art.md" || true
+    node scripts/generate_assets.js --real --strict --types=portrait,location,map,creature --qps=2 --concurrency=3 --limit=120 >> 09_Performance/local_agents_img.log 2>&1 || true
+    sleep 240
   done
-' >> "$LOG" 2>&1 & echo $! > 09_Performance/.agent_images.pid
+) >> "$LOG" 2>&1 & echo $! > 09_Performance/.agent_main.pid
 
-echo "[$(date -Is)] local agents launched" | tee -a "$LOG"
+# Secondary loop with Aethermoor realm focus
+(
+  while true; do
+    append_prompts portrait Aethermoor 5 "04_Resources/Assets/Portrait_Prompts - NPCs.md" || true
+    append_prompts location Aethermoor 5 "04_Resources/Assets/Location_Prompts - Cities.md" || true
+    append_prompts map Aethermoor 3 "04_Resources/Assets/Maps/Battle Map Descriptions.md" || true
+    node scripts/generate_assets.js --real --strict --types=portrait,location,map --qps=2 --concurrency=3 --limit=90 >> 09_Performance/local_agents_img_2.log 2>&1 || true
+    sleep 300
+  done
+) >> "$LOG" 2>&1 & echo $! > 09_Performance/.agent_secondary.pid
+
+echo "[$(TS)] local agents launched" | tee -a "$LOG"
 
 

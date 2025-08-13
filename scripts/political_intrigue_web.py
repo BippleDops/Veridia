@@ -250,6 +250,33 @@ class PoliticalIntrigueWeb:
                 
         return "Unknown Position"
     
+    def _generate_conspiracy_methods(self, seed: str, members: List[PoliticalEntity]) -> List[str]:
+        """Generate methods for conspiracy operations"""
+        base_methods = [
+            'Information gathering and surveillance',
+            'Political pressure and blackmail',  
+            'Economic manipulation',
+            'Social influence campaigns',
+            'Strategic alliance building',
+            'Targeted recruitment',
+            'Resource acquisition',
+            'Opposition neutralization'
+        ]
+        
+        # Add methods based on member capabilities
+        enhanced_methods = base_methods.copy()
+        
+        for member in members:
+            if 'military' in member.resources or 'Military' in member.public_position:
+                enhanced_methods.append('Military coordination')
+            if 'merchant' in member.resources or 'Trade' in member.resources:
+                enhanced_methods.append('Trade route manipulation')
+            if 'magical' in member.resources or 'Arcane' in member.public_position:
+                enhanced_methods.append('Magical surveillance and influence')
+                
+        return enhanced_methods[:6]  # Return top 6 methods
+
+
     def generate_conspiracy_network(self, seed_entity: str, network_size: int = 5) -> Conspiracy:
         """Generate a conspiracy network around a seed entity"""
         if seed_entity not in self.entities:

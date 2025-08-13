@@ -34,6 +34,13 @@ function makeLighthouse(){ const out=new Float32Array(total); for(let i=0;i<tota
 function makeHarborNight(){ const out=new Float32Array(total); for(let i=0;i<total;i++){ const water=lfo(0.01,i)*0.08; const rope=(Math.random()<0.0007?0.7:0)*0.12; out[i]=water+rope; } return out; }
 function makeKelpSway(){ const out=new Float32Array(total); for(let i=0;i<total;i++){ const sway=sine(0.2,i)*0.05; const creak=(Math.random()<0.0005?0.6:0)*0.1; out[i]=sway+creak; } return out; }
 function makeGeyser(){ const out=new Float32Array(total); const n=noiseBrown(); for(let i=0;i<total;i++){ const vent=(lfo(0.03,i)>0.98?n()*0.9:0)*0.2; const bed=n()*0.06; out[i]=vent+bed; } return out; }
+
+// Normalize peak to avoid clipping (headroom ~ -0.35 dBFS for 16-bit)
+function normalizeInPlace(samples, targetPeak=0.96){
+  let peak=0;
+  for(let i=0;i<samples.length;i++){ const a=Math.abs(samples[i]); if(a>peak) peak=a; }
+  if(peak>0 && peak>targetPeak){ const g=targetPeak/peak; for(let i=0;i<samples.length;i++){ samples[i]*=g; } }
+}
 function main(){
   const assets=[
     {name:'Underwater_Ambience',maker:makeUnderwater},
@@ -60,6 +67,7 @@ function main(){
   const index=[];
   for(const a of assets){
     const samples=a.maker();
+    normalizeInPlace(samples, 0.96);
     const file=path.join(OUT_DIR, `${a.name}.wav`);
     writeWavMono16(file,samples);
     index.push({name:a.name,file:path.relative(ROOT,file),duration_s:seconds,sampleRate});

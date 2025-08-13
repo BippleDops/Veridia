@@ -560,7 +560,7 @@ class NPCDailyRoutineSystem:
         # Save routines as JSON (Pydantic models serialize well)
         routines_data = {}
         for name, routine in self.routines.items():
-            routines_data[name] = routine.dict()
+            routines_data[name] = routine.model_dump()
             
         with open(os.path.join(data_dir, "npc_routines.json"), "w") as f:
             json.dump(routines_data, f, indent=2, default=str)
@@ -568,7 +568,7 @@ class NPCDailyRoutineSystem:
         # Save locations
         locations_data = {}
         for name, location in self.locations.items():
-            locations_data[name] = location.dict()
+            locations_data[name] = location.model_dump()
             
         with open(os.path.join(data_dir, "routine_locations.json"), "w") as f:
             json.dump(locations_data, f, indent=2, default=str)
@@ -670,3 +670,35 @@ def main():
 
 if __name__ == "__main__":
     main()
+    def _extract_npc_data(self, file_path: str) -> Dict[str, Any]:
+        """Extract NPC data from markdown file"""
+        try:
+            from common import read_file, split_frontmatter
+            content = read_file(file_path)
+            frontmatter, body = split_frontmatter(content)
+            
+            return {
+                'name': frontmatter.get('name', os.path.basename(file_path)[:-3]),
+                'world': frontmatter.get('world', 'Both'),
+                'occupation': frontmatter.get('occupation', 'citizen'),
+                'location': frontmatter.get('location', 'Unknown'),
+                'personality': frontmatter.get('personality', ['neutral']),
+                'relationships': frontmatter.get('relationships', []),
+                'secrets': frontmatter.get('secrets', []),
+                'power_level': frontmatter.get('power_level', 1),
+                'file_path': file_path
+            }
+        except Exception as e:
+            # Return default data if file can't be read
+            return {
+                'name': os.path.basename(file_path)[:-3],
+                'world': 'Both',
+                'occupation': 'citizen',
+                'location': 'Unknown',
+                'personality': ['neutral'],
+                'relationships': [],
+                'secrets': [],
+                'power_level': 1,
+                'file_path': file_path
+            }
+
